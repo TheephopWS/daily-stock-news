@@ -1,5 +1,32 @@
 [
     {
+        "title": "Supreme Court doubtful of Trump claim he can fire Fed governors by fiat - NPR",
+        "sentiment": "NEGATIVE",
+        "score": 0.9178508520126343,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "As Trump talks tariffs, his Argentine ally welcomes a shipload of Chinese EVs for the first time - Yahoo Finance",
+        "sentiment": "NEGATIVE",
+        "score": 0.7663968205451965,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Lululemon Founder Slams Board After See-Through Leggings Fiasco - Bloomberg.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9498246312141418,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Ryanair CEO dismisses Elon Musk\u2019s idea of buying the airline as verbal feud escalates - AP News",
         "sentiment": "NEGATIVE",
         "score": 0.8995688557624817,
@@ -9,27 +36,9 @@
         "ticker_impacts": []
     },
     {
-        "title": "Canned tuna recalled for 'potentially fatal' botulism risk mistakenly reshipped to 9 states - NBC News",
-        "sentiment": "NEGATIVE",
-        "score": 0.9509730339050293,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "Pending home sales drop sharply in December, dampening 2026 outlook - CNBC",
         "sentiment": "NEGATIVE",
         "score": 0.9763247966766357,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "ECB\u2019s Lagarde Left Davos Dinner After Lutnick Slammed Europe - Bloomberg",
-        "sentiment": "NEGATIVE",
-        "score": 0.8386186361312866,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -62,6 +71,29 @@
         ]
     },
     {
+        "title": "Nvidia CEO Says AI Will Create Jobs For Electricians and Plumbers - Bloomberg.com",
+        "sentiment": "POSITIVE",
+        "score": 0.738243579864502,
+        "signal": "BULLISH",
+        "tickers": [
+            "NVDA",
+            "INTC"
+        ],
+        "primary_ticker": "NVDA",
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "positive",
+                "relevance": "high"
+            },
+            {
+                "ticker": "INTC",
+                "impact": "positive",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
         "title": "Intel (INTC) Is About to Report Q4 Earnings Tomorrow. Here\u2019s What to Expect - TipRanks",
         "sentiment": "POSITIVE",
         "score": 0.9109593033790588,
@@ -79,64 +111,46 @@
         ]
     },
     {
-        "title": "Major department store chain closes warehouses, 1,000 lose jobs - thestreet.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9667525887489319,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Anthropic\u2019s CEO stuns Davos with Nvidia criticism - TechCrunch",
-        "sentiment": "NEGATIVE",
-        "score": 0.9351376891136169,
-        "signal": "BEARISH",
-        "tickers": [
-            "NVDA"
-        ],
-        "primary_ticker": "NVDA",
-        "ticker_impacts": [
-            {
-                "ticker": "NVDA",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Mortgage Rates Jump to Match Highest Levels in Nearly a Month - Mortgage News Daily",
+        "title": "Gold breaks new record on Greenland tariff threats \u2014 $7,000 level on the cards - CNBC",
         "sentiment": "POSITIVE",
-        "score": 0.8158575296401978,
+        "score": 0.9197070002555847,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Amazon CEO Andy Jassy says tariffs are starting to drive up product prices - TechCrunch",
+        "title": "Netflix Stock (NFLX) Falls as Warner Deal Adds Debt \u2014 Is It Risky? - TipRanks",
         "sentiment": "NEGATIVE",
-        "score": 0.8235711455345154,
+        "score": 0.9720128774642944,
         "signal": "BEARISH",
         "tickers": [
-            "AMZN"
+            "NFLX"
         ],
-        "primary_ticker": "AMZN",
+        "primary_ticker": "NFLX",
         "ticker_impacts": [
             {
-                "ticker": "AMZN",
+                "ticker": "NFLX",
                 "impact": "negative",
                 "relevance": "high"
             }
         ]
     },
     {
-        "title": "Treasury market faces worst day in months on Trump\u2019s latest tariff threats - MarketWatch",
+        "title": "Tesla Cybertruck Sales Were Cut In Half In 2025, Worse Than Any Other EV - Jalopnik",
         "sentiment": "NEGATIVE",
-        "score": 0.8687930703163147,
+        "score": 0.9708744883537292,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
+        "tickers": [
+            "TSLA"
+        ],
+        "primary_ticker": "TSLA",
+        "ticker_impacts": [
+            {
+                "ticker": "TSLA",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
     }
 ]
