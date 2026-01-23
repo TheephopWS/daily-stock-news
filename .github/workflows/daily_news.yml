@@ -2,7 +2,7 @@ name: Daily Stock News
 
 on:
   schedule:
-    - cron: '*/59 * * * *'
+    - cron: '23 */3 * * *'
   workflow_dispatch:
 
 permissions:
