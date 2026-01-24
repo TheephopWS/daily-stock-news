@@ -1,25 +1,78 @@
 [
     {
-        "title": "Trump sues JPMorgan Chase for $5 billion over alleged debanking - Axios",
+        "title": "Stock Market Today: Dow Falls 200 Points, But Nasdaq Turns Higher, Shrugs Off Intel (Live Coverage) - Investor's Business Daily",
         "sentiment": "NEGATIVE",
-        "score": 0.8777902722358704,
+        "score": 0.9733541011810303,
         "signal": "BEARISH",
         "tickers": [
-            "JPM"
+            "INTC"
         ],
-        "primary_ticker": "JPM",
+        "primary_ticker": "INTC",
         "ticker_impacts": [
             {
-                "ticker": "JPM",
+                "ticker": "INTC",
                 "impact": "negative",
                 "relevance": "high"
             }
         ]
     },
     {
-        "title": "Amazon braces for another major round of layoffs, 14,000 jobs at risk - mynorthwest.com",
+        "title": "Tesla Removed Some Safety Monitors From Robotaxis. Now Musk Makes This FSD Warning. - Investor's Business Daily",
         "sentiment": "NEGATIVE",
-        "score": 0.9592616558074951,
+        "score": 0.9103312492370605,
+        "signal": "BEARISH",
+        "tickers": [
+            "TSLA"
+        ],
+        "primary_ticker": "TSLA",
+        "ticker_impacts": [
+            {
+                "ticker": "TSLA",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Trump\u2019s war on Wall Street landlords could raise your rent - vox.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.7871485948562622,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Airlines cancel hundreds of flights as massive winter storm sweeps across U.S. - CNBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.9670484066009521,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "In the case of the Federal Reserve, Supreme Court appears to carve out a murky exception - AP News",
+        "sentiment": "NEGATIVE",
+        "score": 0.8124744892120361,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Bank of Japan raises economic growth forecasts ahead of snap election, holds rates at 0.75% - CNBC",
+        "sentiment": "POSITIVE",
+        "score": 0.9449269771575928,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Amazon Expected to Cut Thousands More Corporate Jobs Soon - Business Insider",
+        "sentiment": "NEGATIVE",
+        "score": 0.9677767157554626,
         "signal": "BEARISH",
         "tickers": [
             "AMZN"
@@ -34,9 +87,9 @@
         ]
     },
     {
-        "title": "'Is Microsoft Down?' Outlook and Teams Go Dark in Widespread Outage - CNET",
+        "title": "Microsoft Outlook Outage Leaves Users Without Email; Tech Company Working On Resolving Issue - Deadline",
         "sentiment": "NEGATIVE",
-        "score": 0.9317827224731445,
+        "score": 0.9555124044418335,
         "signal": "BEARISH",
         "tickers": [
             "MSFT"
@@ -51,19 +104,10 @@
         ]
     },
     {
-        "title": "Trump Reverses Course on Plan Allowing Homebuyers to Tap 401(k)s - Bloomberg.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.8687897324562073,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Winter Storm Fern update: Delta cancels flights in five states, expands waivers for customers to adjust travel - Delta News Hub",
-        "sentiment": "NEGATIVE",
-        "score": 0.9466610550880432,
-        "signal": "BEARISH",
+        "title": "Stock Market News, Jan. 22, 2026: Dow, S&P 500 and Nasdaq notch two back-to-back days of gains after Trump\u2019s Greenland pivot boosts risk appetite; Russell 2000 scores its 8th record close of 2026. - MarketWatch",
+        "sentiment": "POSITIVE",
+        "score": 0.9444870352745056,
+        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -78,23 +122,6 @@
         "ticker_impacts": []
     },
     {
-        "title": "Gold Has A New Buyer In Town \u2014 And The Old Price Rules No Longer Apply - Benzinga",
-        "sentiment": "POSITIVE",
-        "score": 0.8915374875068665,
-        "signal": "BULLISH",
-        "tickers": [
-            "GS"
-        ],
-        "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "GS",
-                "impact": "positive",
-                "relevance": "medium"
-            }
-        ]
-    },
-    {
         "title": "Driving The 2026 Subaru Outback Wilderness, I Found A Problem Subaru Didn't Expect - SlashGear",
         "sentiment": "POSITIVE",
         "score": 0.8203014135360718,
@@ -104,13 +131,27 @@
         "ticker_impacts": []
     },
     {
-        "title": "US Economy Expanded at Revised 4.4% Pace in Third Quarter - Bloomberg.com",
+        "title": "Gross Domestic Product, 3rd Quarter 2025 (Updated Estimate), GDP by Industry, and Corporate Profits (Revised) - Bureau of Economic Analysis (BEA) (.gov)",
         "sentiment": "POSITIVE",
-        "score": 0.9562354683876038,
+        "score": 0.9276522397994995,
         "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
+        "tickers": [
+            "BEA",
+            "GDP"
+        ],
+        "primary_ticker": "BEA",
+        "ticker_impacts": [
+            {
+                "ticker": "BEA",
+                "impact": "positive",
+                "relevance": "high"
+            },
+            {
+                "ticker": "GDP",
+                "impact": "positive",
+                "relevance": "medium"
+            }
+        ]
     },
     {
         "title": "China Lagging in AI Is a \u2018Fairy Tale,\u2019 Mistral CEO Says - Bloomberg",
@@ -137,5 +178,22 @@
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
+    },
+    {
+        "title": "Gold Price Could Rise 10% by Year-End and Hit $5,400 an Ounce, Says Goldman Sachs (GS) - TipRanks",
+        "sentiment": "POSITIVE",
+        "score": 0.9527899026870728,
+        "signal": "BULLISH",
+        "tickers": [
+            "GS"
+        ],
+        "primary_ticker": "GS",
+        "ticker_impacts": [
+            {
+                "ticker": "GS",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
     }
 ]
