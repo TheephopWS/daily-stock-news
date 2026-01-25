@@ -1,5 +1,31 @@
 [
     {
+        "title": "Toyota recalls 162,000 trucks over faulty screens - ABC News",
+        "sentiment": "NEGATIVE",
+        "score": 0.9709981083869934,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "'Sell America' has sparked a FOMO-fueled rush to gold and silver among everyday investors - Business Insider",
+        "sentiment": "POSITIVE",
+        "score": 0.9406983852386475,
+        "signal": "BULLISH",
+        "tickers": [
+            "META"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "META",
+                "impact": "positive",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
         "title": "Speculation Mounts Japan to Buy Yen, Perhaps With US Help - Bloomberg",
         "sentiment": "POSITIVE",
         "score": 0.8285391330718994,
@@ -9,48 +35,38 @@
         "ticker_impacts": []
     },
     {
-        "title": "TikTok users freak out over app\u2019s \u2018immigration status\u2019 collection \u2014 here\u2019s what it means - TechCrunch",
-        "sentiment": "NEGATIVE",
-        "score": 0.8114848732948303,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Car crashes through glass doors of Delta check-in at DTW - detroitnews.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.8272001147270203,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Stock Market News for Jan. 23, 2026: Dow Drops; Intel Stock Slides - The Wall Street Journal",
-        "sentiment": "NEGATIVE",
-        "score": 0.9473691582679749,
-        "signal": "BEARISH",
+        "title": "Tesla kills Autopilot for good and Musk warns of FSD price hikes - Digital Trends",
+        "sentiment": "POSITIVE",
+        "score": 0.8852137923240662,
+        "signal": "BULLISH",
         "tickers": [
-            "INTC"
+            "TSLA"
         ],
-        "primary_ticker": "INTC",
+        "primary_ticker": "TSLA",
         "ticker_impacts": [
             {
-                "ticker": "INTC",
-                "impact": "negative",
+                "ticker": "TSLA",
+                "impact": "positive",
                 "relevance": "high"
             }
         ]
     },
     {
-        "title": "SEC to Dismiss Winklevoss\u2019 Gemini Crypto Lending Lawsuit - Bloomberg",
+        "title": "Amazon staff cope with looming layoffs by roasting Jeff Bezos' '2-pizza rule' - Business Insider",
         "sentiment": "NEGATIVE",
-        "score": 0.8719252347946167,
+        "score": 0.9396406412124634,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
+        "tickers": [
+            "AMZN"
+        ],
+        "primary_ticker": "AMZN",
+        "ticker_impacts": [
+            {
+                "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
     },
     {
         "title": "Gold Prices Climb Closer to $5,000 an Ounce - The Wall Street Journal",
@@ -79,13 +95,21 @@
         "ticker_impacts": []
     },
     {
-        "title": "Why the dollar just had its worst week in 8 months despite Trump\u2019s pivot on tariffs - MarketWatch",
+        "title": "Stock Market on Jan. 23, 2026: Dow ends lower Friday as bank stocks struggle; S&P 500 ekes out gain, tech-heavy Nasdaq rises; U.S. stocks post weekly losses following tensions over Greenland - MarketWatch",
         "sentiment": "NEGATIVE",
-        "score": 0.7680550217628479,
+        "score": 0.9687446355819702,
         "signal": "BEARISH",
-        "tickers": [],
+        "tickers": [
+            "GS"
+        ],
         "primary_ticker": null,
-        "ticker_impacts": []
+        "ticker_impacts": [
+            {
+                "ticker": "GS",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
     },
     {
         "title": "New NYC tipping rules for DoorDash, Uber Eats, Grubhub start Monday, judge says - gothamist.com",
@@ -103,6 +127,15 @@
                 "relevance": "high"
             }
         ]
+    },
+    {
+        "title": "Why the dollar just had its worst week in 8 months despite Trump\u2019s pivot on tariffs - MarketWatch",
+        "sentiment": "NEGATIVE",
+        "score": 0.7680550217628479,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "Waymo probed by National Transportation Safety Board over illegal school bus behavior - TechCrunch",
@@ -137,18 +170,18 @@
         ]
     },
     {
-        "title": "Your Xcel Energy bill is already going up amid Colorado\u2019s current winter storm. Here\u2019s why. - coloradosun.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.8190680742263794,
-        "signal": "BEARISH",
+        "title": "The Best Airlines in America - Newser",
+        "sentiment": "POSITIVE",
+        "score": 0.8563321828842163,
+        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "AI labs wage a reputational knife fight at Davos - The Verge",
+        "title": "Your Xcel Energy bill is already going up amid Colorado\u2019s current winter storm. Here\u2019s why. - coloradosun.com",
         "sentiment": "NEGATIVE",
-        "score": 0.8987768888473511,
+        "score": 0.8190680742263794,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -164,71 +197,19 @@
         "ticker_impacts": []
     },
     {
-        "title": "Tesla discontinues Autopilot in bid to boost adoption of its Full Self-Driving software - TechCrunch",
+        "title": "Nestl\u00e9 faces criminal investigation in Bordeaux after baby death - SWI swissinfo.ch",
         "sentiment": "NEGATIVE",
-        "score": 0.939928412437439,
-        "signal": "BEARISH",
-        "tickers": [
-            "TSLA"
-        ],
-        "primary_ticker": "TSLA",
-        "ticker_impacts": [
-            {
-                "ticker": "TSLA",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Late salt deliveries could hamper storm response in some towns - triblive.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9346498847007751,
+        "score": 0.8769859075546265,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
-    },
-    {
-        "title": "Trump Undercuts Plan to Let Homebuyers Tap Retirement Plans - Bloomberg",
-        "sentiment": "NEGATIVE",
-        "score": 0.7564488053321838,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Microsoft says outage affecting Microsoft 365, Outlook, other services has been resolved - CBS News",
-        "sentiment": "NEGATIVE",
-        "score": 0.9732339382171631,
-        "signal": "BEARISH",
-        "tickers": [
-            "MSFT"
-        ],
-        "primary_ticker": "MSFT",
-        "ticker_impacts": [
-            {
-                "ticker": "MSFT",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
     },
     {
         "title": "Will the Supreme Court Save the Fed from Trump? - The Free Press",
         "sentiment": "NEGATIVE",
         "score": 0.8259097337722778,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "General Motors to move Buick Envision SUV production from China to U.S. - CBS News",
-        "sentiment": "POSITIVE",
-        "score": 0.9153338074684143,
-        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
