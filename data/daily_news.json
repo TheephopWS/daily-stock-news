@@ -1,18 +1,18 @@
 [
     {
-        "title": "Stock Market Today: Dow falls 300 points as bank stocks struggle; S&P 500 wavers, tech-heavy Nasdaq rises; U.S. stocks mostly on pace for weekly losses - MarketWatch",
-        "sentiment": "NEGATIVE",
-        "score": 0.9668660163879395,
-        "signal": "BEARISH",
+        "title": "Goldman Sachs Boosts CEO Solomon\u2019s Pay 21% to $47 Million - Bloomberg",
+        "sentiment": "POSITIVE",
+        "score": 0.9482841491699219,
+        "signal": "BULLISH",
         "tickers": [
             "GS"
         ],
-        "primary_ticker": null,
+        "primary_ticker": "GS",
         "ticker_impacts": [
             {
                 "ticker": "GS",
-                "impact": "negative",
-                "relevance": "medium"
+                "impact": "positive",
+                "relevance": "high"
             }
         ]
     },
@@ -34,62 +34,26 @@
         ]
     },
     {
-        "title": "Netflix Co-CEO Greg Peters Says Paramount\u2019s Bid for Warner Bros. \u201cDoesn\u2019t Pass the Sniff Test\u201d - hollywoodreporter.com",
+        "title": "Tesla kills Autopilot, locks lane-keeping behind $99/month fee - Ars Technica",
         "sentiment": "NEGATIVE",
-        "score": 0.8618083596229553,
+        "score": 0.9688093066215515,
         "signal": "BEARISH",
         "tickers": [
-            "NFLX"
+            "TSLA"
         ],
-        "primary_ticker": "NFLX",
+        "primary_ticker": "TSLA",
         "ticker_impacts": [
             {
-                "ticker": "NFLX",
+                "ticker": "TSLA",
                 "impact": "negative",
                 "relevance": "high"
             }
         ]
     },
     {
-        "title": "One in five Americans can\u2019t afford their heating bills this winter as people are blindsided by utility costs - MarketWatch",
-        "sentiment": "NEGATIVE",
-        "score": 0.9629695415496826,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "The Math on AI Agents Doesn\u2019t Add Up - WIRED",
-        "sentiment": "NEGATIVE",
-        "score": 0.7824640870094299,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Oral Wegovy Is Off To An Astronomical Launch. Will It Save Novo Nordisk Stock? - Investor's Business Daily",
-        "sentiment": "POSITIVE",
-        "score": 0.9488973021507263,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "More than 1,000 flights canceled at DFW Airport, Love Field with winter storm ahead - dallasnews.com",
         "sentiment": "NEGATIVE",
         "score": 0.9652656316757202,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Over 1 million bottles of popular cleaning product recalled: Here\u2019s why - NewsNation",
-        "sentiment": "NEGATIVE",
-        "score": 0.9320690035820007,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -105,13 +69,21 @@
         "ticker_impacts": []
     },
     {
-        "title": "MrBeast had billion-dollar dreams for his burger venture. Now he's trying to destroy it. - Business Insider",
+        "title": "Amazon braces for another major round of layoffs, 14,000 jobs at risk - mynorthwest.com",
         "sentiment": "NEGATIVE",
-        "score": 0.8823549151420593,
+        "score": 0.9592616558074951,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
+        "tickers": [
+            "AMZN"
+        ],
+        "primary_ticker": "AMZN",
+        "ticker_impacts": [
+            {
+                "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
     },
     {
         "title": "In the case of the Federal Reserve, Supreme Court appears to carve out a murky exception - AP News",
@@ -132,26 +104,18 @@
         "ticker_impacts": []
     },
     {
-        "title": "Intel Returns to Losses as Supply Shortages and Spending Weigh on Q4 Results and Forecast - The Wall Street Journal",
+        "title": "Trump Undercuts Plan to Let Homebuyers Tap Retirement Plans - Bloomberg.com",
         "sentiment": "NEGATIVE",
-        "score": 0.9701080918312073,
+        "score": 0.806179940700531,
         "signal": "BEARISH",
-        "tickers": [
-            "INTC"
-        ],
-        "primary_ticker": "INTC",
-        "ticker_impacts": [
-            {
-                "ticker": "INTC",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
-        "title": "Microsoft Outlook Outage Leaves Users Without Email; Tech Company Working On Resolving Issue - Deadline",
+        "title": "Microsoft says outage affecting Microsoft 365, Outlook, other services has been resolved - CBS News",
         "sentiment": "NEGATIVE",
-        "score": 0.9555124044418335,
+        "score": 0.9732339382171631,
         "signal": "BEARISH",
         "tickers": [
             "MSFT"
@@ -166,28 +130,19 @@
         ]
     },
     {
-        "title": "Trump Undercuts Plan to Let Homebuyers Tap Retirement Plans - Bloomberg.com",
+        "title": "Extreme winter storm threat sparks historic natural gas spike - CNN",
         "sentiment": "NEGATIVE",
-        "score": 0.806179940700531,
+        "score": 0.9448278546333313,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Consumer spending pushes US economy up 4.4% in third quarter, fastest in two years - AP News",
-        "sentiment": "POSITIVE",
-        "score": 0.9350042939186096,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Driving The 2026 Subaru Outback Wilderness, I Found A Problem Subaru Didn't Expect - SlashGear",
-        "sentiment": "POSITIVE",
-        "score": 0.8203014135360718,
-        "signal": "BULLISH",
+        "title": "Trump Threatens \u2018Big Retaliation\u2019 If Europe Dumps US Assets - Bloomberg",
+        "sentiment": "NEGATIVE",
+        "score": 0.9274072051048279,
+        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
