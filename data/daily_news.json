@@ -1,5 +1,14 @@
 [
     {
+        "title": "Takaichi Warns Japan Is Ready to Act on Speculative Moves - Bloomberg.com",
+        "sentiment": "POSITIVE",
+        "score": 0.7870500683784485,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Winter storm could knock out power for up to 200,000 Houston area customers, CenterPoint says - khou.com",
         "sentiment": "NEGATIVE",
         "score": 0.9245546460151672,
@@ -63,6 +72,15 @@
         "ticker_impacts": []
     },
     {
+        "title": "Futures: Earnings Wave Looms; Many Stocks Near Buy Points - Investor's Business Daily",
+        "sentiment": "NEGATIVE",
+        "score": 0.7162768840789795,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Wall Street Grapples With New Risk: A European Buyers\u2019 Strike - Bloomberg.com",
         "sentiment": "NEGATIVE",
         "score": 0.9323645830154419,
@@ -98,6 +116,23 @@
         "ticker_impacts": []
     },
     {
+        "title": "Car Crashes Into DTW Airport Terminal, Stops At Delta Check-In Counter - One Mile at a Time",
+        "sentiment": "NEGATIVE",
+        "score": 0.912270188331604,
+        "signal": "BEARISH",
+        "tickers": [
+            "DTW"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "DTW",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
         "title": "'Sell America' has sparked a FOMO-fueled rush to gold and silver among everyday investors - Business Insider",
         "sentiment": "POSITIVE",
         "score": 0.9406983852386475,
@@ -109,6 +144,29 @@
         "ticker_impacts": [
             {
                 "ticker": "META",
+                "impact": "positive",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "DeepMind chief Demis Hassabis warns AI investment looks \u2018bubble-like\u2019 - Financial Times",
+        "sentiment": "POSITIVE",
+        "score": 0.7728856801986694,
+        "signal": "BULLISH",
+        "tickers": [
+            "GOOGL",
+            "UBER"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "GOOGL",
+                "impact": "positive",
+                "relevance": "medium"
+            },
+            {
+                "ticker": "UBER",
                 "impact": "positive",
                 "relevance": "medium"
             }
@@ -148,6 +206,15 @@
                 "relevance": "high"
             }
         ]
+    },
+    {
+        "title": "Nine EU nations to join forces on 100 GW of North Sea wind - Electrek",
+        "sentiment": "POSITIVE",
+        "score": 0.8483510613441467,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "How will the finished 2 Line impact daily commutes across Lake Washington? - komonews.com",
@@ -202,9 +269,9 @@
         ]
     },
     {
-        "title": "Waymo probed by National Transportation Safety Board over illegal school bus behavior - TechCrunch",
+        "title": "In Trump Markets, Sudden Volatility Is Price of Doing Business - Bloomberg",
         "sentiment": "NEGATIVE",
-        "score": 0.8673102259635925,
+        "score": 0.8928117156028748,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -251,6 +318,23 @@
         ]
     },
     {
+        "title": "CISA confirms active exploitation of four enterprise software bugs - BleepingComputer",
+        "sentiment": "NEGATIVE",
+        "score": 0.8462311625480652,
+        "signal": "BEARISH",
+        "tickers": [
+            "CISA"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "CISA",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
         "title": "Trump sues the world's largest bank. Bet that goes well. - Daily Kos",
         "sentiment": "NEGATIVE",
         "score": 0.70003342628479,
@@ -266,23 +350,5 @@
                 "relevance": "medium"
             }
         ]
-    },
-    {
-        "title": "BitGo IPO: The Year's First Crypto IPO, Day 2 - Investor's Business Daily",
-        "sentiment": "POSITIVE",
-        "score": 0.9176800847053528,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Wall Street buying up houses is good, actually - vox.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.8141123652458191,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
     }
 ]
