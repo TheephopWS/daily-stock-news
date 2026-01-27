@@ -1,5 +1,49 @@
 [
     {
+        "title": "Stock Market Today: Dow, S&P 500, Nasdaq climb as stocks rebound from last week's losses; gold and silver surge further - MarketWatch",
+        "sentiment": "POSITIVE",
+        "score": 0.9278447031974792,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Microsoft announces powerful new chip for AI inference - TechCrunch",
+        "sentiment": "POSITIVE",
+        "score": 0.896022379398346,
+        "signal": "BULLISH",
+        "tickers": [
+            "MSFT"
+        ],
+        "primary_ticker": "MSFT",
+        "ticker_impacts": [
+            {
+                "ticker": "MSFT",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Gold Rally Seen Continuing, Expected to Hit $6,000 This Year - The Wall Street Journal",
+        "sentiment": "POSITIVE",
+        "score": 0.7057040929794312,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Treasury Cancels Contracts with Booz Allen Hamilton - U.S. Department of the Treasury (.gov)",
+        "sentiment": "NEGATIVE",
+        "score": 0.9499390721321106,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Opinion | An old problem could stop the U.S. from leading on quantum computers - The Washington Post",
         "sentiment": "NEGATIVE",
         "score": 0.7361590266227722,
@@ -7,6 +51,57 @@
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
+    },
+    {
+        "title": "Amazon delivers more bad news for workers before earnings - thestreet.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9532431364059448,
+        "signal": "BEARISH",
+        "tickers": [
+            "AMZN"
+        ],
+        "primary_ticker": "AMZN",
+        "ticker_impacts": [
+            {
+                "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Nvidia\u2019s new AI weather models probably saw this storm coming weeks ago - TechCrunch",
+        "sentiment": "POSITIVE",
+        "score": 0.7139101624488831,
+        "signal": "BULLISH",
+        "tickers": [
+            "NVDA"
+        ],
+        "primary_ticker": "NVDA",
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "NVIDIA and CoreWeave Strengthen Collaboration to Accelerate Buildout of AI Factories - CoreWeave",
+        "sentiment": "POSITIVE",
+        "score": 0.9023185968399048,
+        "signal": "BULLISH",
+        "tickers": [
+            "NVDA"
+        ],
+        "primary_ticker": "NVDA",
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
     },
     {
         "title": "Sarepta Announces Positive Topline Three-Year EMBARK Results Showing ELEVIDYS Significantly Slows Disease Progression on Key Functional Measures in Ambulatory Duchenne Patients - Sarepta Therapeutics",
@@ -35,15 +130,6 @@
         "ticker_impacts": []
     },
     {
-        "title": "US Natural Gas Futures Soar Above $6 for First Time Since 2022 - Bloomberg",
-        "sentiment": "POSITIVE",
-        "score": 0.8854070901870728,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "Canadians Are Boycotting US Ski Slopes - Bloomberg",
         "sentiment": "NEGATIVE",
         "score": 0.9355536103248596,
@@ -53,9 +139,36 @@
         "ticker_impacts": []
     },
     {
-        "title": "Stock futures are little changed as traders get set for a big week of trading: Live updates - CNBC",
+        "title": "An unusual Fed \u2018rate check\u2019 triggered a free fall in the U.S. dollar and investors are fleeing into gold - Fortune",
         "sentiment": "NEGATIVE",
-        "score": 0.9035825133323669,
+        "score": 0.849362313747406,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Volkswagen considers pulling out of US factory plans over tariffs - Semafor",
+        "sentiment": "NEGATIVE",
+        "score": 0.956577718257904,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Fed to Hold Rates as Political Storm Intensifies Around Powell - Bloomberg",
+        "sentiment": "NEGATIVE",
+        "score": 0.8898233771324158,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "The Wait List for a Birkin or Rolex Is Getting Shorter - The Wall Street Journal",
+        "sentiment": "NEGATIVE",
+        "score": 0.970280647277832,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -71,6 +184,15 @@
         "ticker_impacts": []
     },
     {
+        "title": "Minnesota corn farmers blindsided by USDA report showing bigger-than-expected corn glut - mprnews.org",
+        "sentiment": "NEGATIVE",
+        "score": 0.9665523171424866,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Synthesia hits $4B valuation, lets employees cash out - TechCrunch",
         "sentiment": "POSITIVE",
         "score": 0.949443519115448,
@@ -80,19 +202,10 @@
         "ticker_impacts": []
     },
     {
-        "title": "Yen surges on intervention talk - Financial Times",
+        "title": "Natural gas prices hit $6 for first time since 2022 as massive winter storm sweeps U.S. - CNBC",
         "sentiment": "POSITIVE",
-        "score": 0.8758025765419006,
+        "score": 0.9065150022506714,
         "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "'Historical clock is ticking': A global market correction may be coming, warn experts - CNBC",
-        "sentiment": "NEGATIVE",
-        "score": 0.8760966658592224,
-        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -120,15 +233,6 @@
         "sentiment": "NEGATIVE",
         "score": 0.8860539197921753,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "How Napa and Sonoma Wineries Are Shifting Strategies for Millennial Tastes - Robb Report",
-        "sentiment": "POSITIVE",
-        "score": 0.7268911600112915,
-        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -169,15 +273,6 @@
         "ticker_impacts": []
     },
     {
-        "title": "Target CEO Joins Minnesota Businesses Urging \u2018Deescalation\u2019 After Latest Shooting In Minneapolis - Forbes",
-        "sentiment": "NEGATIVE",
-        "score": 0.8980437517166138,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "Merck is said to halt acquisition talks with cancer drug developer Revolution (MRK:NYSE) - Seeking Alpha",
         "sentiment": "NEGATIVE",
         "score": 0.9168881773948669,
@@ -196,10 +291,10 @@
         "ticker_impacts": []
     },
     {
-        "title": "Job Seekers Sue Company Scanning Their R\u00e9sum\u00e9s Using AI - Futurism",
-        "sentiment": "NEGATIVE",
-        "score": 0.9237110614776611,
-        "signal": "BEARISH",
+        "title": "Power prices surge as winter storm spikes demand in U.S. data center alley - CNBC",
+        "sentiment": "POSITIVE",
+        "score": 0.9432095885276794,
+        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -246,18 +341,9 @@
         "ticker_impacts": []
     },
     {
-        "title": "Dear Abby: Why does everyone expect a tip these days? - nj.com",
+        "title": "Operations back to normal after car crashes into Detroit Metro Airport terminal - detroitnews.com",
         "sentiment": "NEGATIVE",
-        "score": 0.920869767665863,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Winter storm could knock out power for up to 200,000 Houston area customers, CenterPoint says - khou.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9245546460151672,
+        "score": 0.9361152052879333,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -267,24 +353,6 @@
         "title": "San Francisco\u2019s largest mall unexpectedly closes ahead of schedule - San Francisco Chronicle",
         "sentiment": "NEGATIVE",
         "score": 0.8967103362083435,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "A Tale of Two Economies Is Reshaping China\u2019s Stock Market - Bloomberg.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.8273004293441772,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Public urged to cut back on electrical usage across central Indiana, southern Indiana - wthr.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.966884195804596,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
