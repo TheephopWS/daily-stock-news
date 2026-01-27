@@ -1,78 +1,122 @@
 [
     {
-        "title": "Stock Market Today: Dow, S&P 500, Nasdaq climb as stocks rebound from last week's losses; gold and silver surge further - MarketWatch",
-        "sentiment": "POSITIVE",
-        "score": 0.9278447031974792,
-        "signal": "BULLISH",
+        "title": "Businesses face pressure to respond to immigration enforcement while also becoming a target of it - AP News",
+        "sentiment": "NEGATIVE",
+        "score": 0.7969409823417664,
+        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Microsoft announces powerful new chip for AI inference - TechCrunch",
+        "title": "European Union opens investigation into Musk\u2019s AI chatbot Grok over sexual deepfakes - AP News",
+        "sentiment": "NEGATIVE",
+        "score": 0.8950144648551941,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "S&P 500 closes higher as Meta and Apple rise ahead of earnings reports: Live updates - CNBC",
         "sentiment": "POSITIVE",
-        "score": 0.896022379398346,
+        "score": 0.9178128838539124,
         "signal": "BULLISH",
         "tickers": [
-            "MSFT"
+            "META",
+            "AAPL"
         ],
-        "primary_ticker": "MSFT",
+        "primary_ticker": "META",
         "ticker_impacts": [
             {
-                "ticker": "MSFT",
+                "ticker": "META",
+                "impact": "positive",
+                "relevance": "high"
+            },
+            {
+                "ticker": "AAPL",
                 "impact": "positive",
                 "relevance": "high"
             }
         ]
     },
     {
-        "title": "Gold Rally Seen Continuing, Expected to Hit $6,000 This Year - The Wall Street Journal",
-        "sentiment": "POSITIVE",
-        "score": 0.7057040929794312,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Treasury Cancels Contracts with Booz Allen Hamilton - U.S. Department of the Treasury (.gov)",
+        "title": "Treasury cancels Booz Allen contracts over leaks about wealthy taxpayers - NPR",
         "sentiment": "NEGATIVE",
-        "score": 0.9499390721321106,
+        "score": 0.9455261826515198,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Opinion | An old problem could stop the U.S. from leading on quantum computers - The Washington Post",
+        "title": "Apple Watch user gave ChatGPT Health his data, with troubling results - 9to5Mac",
         "sentiment": "NEGATIVE",
-        "score": 0.7361590266227722,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Amazon delivers more bad news for workers before earnings - thestreet.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9532431364059448,
+        "score": 0.8314969539642334,
         "signal": "BEARISH",
         "tickers": [
-            "AMZN"
+            "AAPL"
         ],
-        "primary_ticker": "AMZN",
+        "primary_ticker": "AAPL",
         "ticker_impacts": [
             {
-                "ticker": "AMZN",
+                "ticker": "AAPL",
                 "impact": "negative",
                 "relevance": "high"
             }
         ]
     },
     {
-        "title": "Nvidia\u2019s new AI weather models probably saw this storm coming weeks ago - TechCrunch",
+        "title": "New Costco Lawsuit Is Coming For The Store's $5 Rotisserie Chicken - The Takeout",
+        "sentiment": "NEGATIVE",
+        "score": 0.9220955967903137,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "TikTok apologises after thousands in US report issues - BBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.9672563672065735,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Microsoft\u2019s Latest AI Chip to Reduce Reliance on Nvidia - Bloomberg.com",
         "sentiment": "POSITIVE",
-        "score": 0.7139101624488831,
+        "score": 0.7377065420150757,
+        "signal": "BULLISH",
+        "tickers": [
+            "NVDA",
+            "MSFT",
+            "INTC"
+        ],
+        "primary_ticker": "NVDA",
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "positive",
+                "relevance": "high"
+            },
+            {
+                "ticker": "MSFT",
+                "impact": "positive",
+                "relevance": "high"
+            },
+            {
+                "ticker": "INTC",
+                "impact": "positive",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute - TechCrunch",
+        "sentiment": "POSITIVE",
+        "score": 0.844089686870575,
         "signal": "BULLISH",
         "tickers": [
             "NVDA"
@@ -87,21 +131,13 @@
         ]
     },
     {
-        "title": "NVIDIA and CoreWeave Strengthen Collaboration to Accelerate Buildout of AI Factories - CoreWeave",
-        "sentiment": "POSITIVE",
-        "score": 0.9023185968399048,
-        "signal": "BULLISH",
-        "tickers": [
-            "NVDA"
-        ],
-        "primary_ticker": "NVDA",
-        "ticker_impacts": [
-            {
-                "ticker": "NVDA",
-                "impact": "positive",
-                "relevance": "high"
-            }
-        ]
+        "title": "Tech workers urge CEOs to condemn ICE - Axios",
+        "sentiment": "NEGATIVE",
+        "score": 0.8918516635894775,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "Sarepta Announces Positive Topline Three-Year EMBARK Results Showing ELEVIDYS Significantly Slows Disease Progression on Key Functional Measures in Ambulatory Duchenne Patients - Sarepta Therapeutics",
@@ -121,73 +157,10 @@
         ]
     },
     {
-        "title": "Rare Earth Stocks Jump On Trump Stake In USA Rare Earth - Investor's Business Daily",
+        "title": "IonQ to Acquire SkyWater Technology, Creating the Only Vertically Integrated Full-Stack Quantum Platform Company - IonQ Quantum Computing",
         "sentiment": "POSITIVE",
-        "score": 0.8098850846290588,
+        "score": 0.7994234561920166,
         "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Canadians Are Boycotting US Ski Slopes - Bloomberg",
-        "sentiment": "NEGATIVE",
-        "score": 0.9355536103248596,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "An unusual Fed \u2018rate check\u2019 triggered a free fall in the U.S. dollar and investors are fleeing into gold - Fortune",
-        "sentiment": "NEGATIVE",
-        "score": 0.849362313747406,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Volkswagen considers pulling out of US factory plans over tariffs - Semafor",
-        "sentiment": "NEGATIVE",
-        "score": 0.956577718257904,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Fed to Hold Rates as Political Storm Intensifies Around Powell - Bloomberg",
-        "sentiment": "NEGATIVE",
-        "score": 0.8898233771324158,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "The Wait List for a Birkin or Rolex Is Getting Shorter - The Wall Street Journal",
-        "sentiment": "NEGATIVE",
-        "score": 0.970280647277832,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "TikTok USA is broken - The Verge",
-        "sentiment": "NEGATIVE",
-        "score": 0.9405650496482849,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Minnesota corn farmers blindsided by USDA report showing bigger-than-expected corn glut - mprnews.org",
-        "sentiment": "NEGATIVE",
-        "score": 0.9665523171424866,
-        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -220,24 +193,6 @@
         "ticker_impacts": []
     },
     {
-        "title": "Verizon\u2019s $20 billion acquisition resets dividend outloook - thestreet.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9582064747810364,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Miami Airport evacuation: What happened at MIA amid severe weather? Security alert videos emerge | Hindustan Times - Hindustan Times",
-        "sentiment": "NEGATIVE",
-        "score": 0.8860539197921753,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "Japan Bond Crash Unleashes a $7 Trillion Risk for Global Markets - Bloomberg",
         "sentiment": "NEGATIVE",
         "score": 0.9210766553878784,
@@ -245,23 +200,6 @@
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
-    },
-    {
-        "title": "Silver (XAG) Forecast: Can Silver Market Sustain Parabolic Surge Over $100 or Is Correction Coming? - FXEmpire",
-        "sentiment": "NEGATIVE",
-        "score": 0.8192111849784851,
-        "signal": "BEARISH",
-        "tickers": [
-            "XAG"
-        ],
-        "primary_ticker": "XAG",
-        "ticker_impacts": [
-            {
-                "ticker": "XAG",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
     },
     {
         "title": "More Than A Third Of US Flights Were Canceled Today \u2014 Still Not A Record, But Northeast Hubs Hit 90%+ - View from the Wing",
@@ -273,86 +211,9 @@
         "ticker_impacts": []
     },
     {
-        "title": "Merck is said to halt acquisition talks with cancer drug developer Revolution (MRK:NYSE) - Seeking Alpha",
-        "sentiment": "NEGATIVE",
-        "score": 0.9168881773948669,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Here is a list of all 115 Kroger Columbus Division stores closing early Sunday - abc6onyourside.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.8838241100311279,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Power prices surge as winter storm spikes demand in U.S. data center alley - CNBC",
-        "sentiment": "POSITIVE",
-        "score": 0.9432095885276794,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Michigan Is Suing Oil Companies For 'Suppressing' EVs - InsideEVs",
-        "sentiment": "NEGATIVE",
-        "score": 0.7201738357543945,
-        "signal": "BEARISH",
-        "tickers": [
-            "CVX",
-            "XOM"
-        ],
-        "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "CVX",
-                "impact": "negative",
-                "relevance": "medium"
-            },
-            {
-                "ticker": "XOM",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
-    },
-    {
         "title": "Auto executives are hoping for the best and planning for the worst in 2026 - CNBC",
         "sentiment": "NEGATIVE",
         "score": 0.9462422728538513,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Trump\u2019s stock market: Worst first year of a term since George W. Bush - CNN",
-        "sentiment": "NEGATIVE",
-        "score": 0.9688931107521057,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Operations back to normal after car crashes into Detroit Metro Airport terminal - detroitnews.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9361152052879333,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "San Francisco\u2019s largest mall unexpectedly closes ahead of schedule - San Francisco Chronicle",
-        "sentiment": "NEGATIVE",
-        "score": 0.8967103362083435,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
