@@ -1,17 +1,79 @@
 [
     {
-        "title": "Dow Jones Today: Major Stock Indexes Are Mixed on Busy Earnings Day; S&P 500 Hits All-Time High, Nasdaq Surges; UnitedHealth Weighs on Dow - Investopedia",
+        "title": "S&P 500 rises to record high, led by gains in tech: Live updates - CNBC",
+        "sentiment": "POSITIVE",
+        "score": 0.7325769662857056,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Stock Market Today: Dow Opens Lower; UnitedHealth Stock Slides After Earnings \u2014 Live Updates - The Wall Street Journal",
         "sentiment": "NEGATIVE",
-        "score": 0.9543274641036987,
+        "score": 0.943705141544342,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "US Consumer Confidence Plummets to Lowest Level Since 2014 - Bloomberg",
+        "title": "Stock Market Today: Dow Slides As Nasdaq Leads; This Auto Giant Makes History (Live Coverage) - Investor's Business Daily",
         "sentiment": "NEGATIVE",
-        "score": 0.9754129648208618,
+        "score": 0.9556494951248169,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Former Citi exec alleges sexual harassment by wealth chief - American Banker",
+        "sentiment": "NEGATIVE",
+        "score": 0.8739809989929199,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "UnitedHealth Stock Plummets 20% After Earnings. Why Soft Revenue Isn\u2019t the Only Problem. - Barron's",
+        "sentiment": "NEGATIVE",
+        "score": 0.9305058717727661,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump - TechCrunch",
+        "sentiment": "NEGATIVE",
+        "score": 0.8360308408737183,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "UPS to cut up to 30,000 more jobs in move away from low-profit Amazon shipments - NBC News",
+        "sentiment": "NEGATIVE",
+        "score": 0.9656819701194763,
+        "signal": "BEARISH",
+        "tickers": [
+            "AMZN"
+        ],
+        "primary_ticker": "AMZN",
+        "ticker_impacts": [
+            {
+                "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Farewell Tri-Jet: UPS Is Retiring Its Iconic MD-11 Fleet - Simple Flying",
+        "sentiment": "NEGATIVE",
+        "score": 0.8048728108406067,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -27,15 +89,6 @@
         "ticker_impacts": []
     },
     {
-        "title": "Rare Earth Stocks Backslide After Trump Takes Stake In USA Rare Earth - Investor's Business Daily",
-        "sentiment": "NEGATIVE",
-        "score": 0.9456800818443298,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "United responds (again) to American in Chicago with 5-route expansion, bolstered flying on 80 routes - The Points Guy",
         "sentiment": "POSITIVE",
         "score": 0.9276724457740784,
@@ -45,10 +98,10 @@
         "ticker_impacts": []
     },
     {
-        "title": "UnitedHealth Books Hefty Charges, Issues Soft Full-Year Revenue Outlook - The Wall Street Journal",
-        "sentiment": "POSITIVE",
-        "score": 0.9407202005386353,
-        "signal": "BULLISH",
+        "title": "Fed Set to Pause Rate Cuts, With No Clear Path to Resuming - The Wall Street Journal",
+        "sentiment": "NEGATIVE",
+        "score": 0.8993148803710938,
+        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -57,6 +110,15 @@
         "title": "TikTok blames data center outages for U.S. app problems, denies censorship claims - CNBC",
         "sentiment": "NEGATIVE",
         "score": 0.8034788966178894,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Treasury cancels Booz Allen Hamilton contracts, sending stock plunging - Axios",
+        "sentiment": "NEGATIVE",
+        "score": 0.9618663787841797,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -81,27 +143,13 @@
         "ticker_impacts": []
     },
     {
-        "title": "What Microsoft\u2019s (MSFT) New AI Chip\u2014\u2018Maia 200\u2019\u2014Really Means for Nvidia and Big Tech - TipRanks",
+        "title": "Micron to invest $24 billion in Singapore plant as AI boom strains global memory supply - CNBC",
         "sentiment": "POSITIVE",
-        "score": 0.8896874189376831,
+        "score": 0.9281876087188721,
         "signal": "BULLISH",
-        "tickers": [
-            "MSFT",
-            "NVDA"
-        ],
-        "primary_ticker": "MSFT",
-        "ticker_impacts": [
-            {
-                "ticker": "MSFT",
-                "impact": "positive",
-                "relevance": "high"
-            },
-            {
-                "ticker": "NVDA",
-                "impact": "positive",
-                "relevance": "high"
-            }
-        ]
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "After Much Speculation, Anta Sports Scoops Up 29% Puma Stake in $1.8 Billion Deal - WWD",
@@ -113,63 +161,10 @@
         "ticker_impacts": []
     },
     {
-        "title": "Treasury cuts ties with Booz Allen over tax records breach - Federal News Network",
-        "sentiment": "NEGATIVE",
-        "score": 0.9681710600852966,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "European Union opens investigation into Musk\u2019s AI chatbot Grok over sexual deepfakes - AP News",
         "sentiment": "NEGATIVE",
         "score": 0.8950144648551941,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Apple Watch user gave ChatGPT Health his data, with troubling results - 9to5Mac",
-        "sentiment": "NEGATIVE",
-        "score": 0.8314969539642334,
-        "signal": "BEARISH",
-        "tickers": [
-            "AAPL"
-        ],
-        "primary_ticker": "AAPL",
-        "ticker_impacts": [
-            {
-                "ticker": "AAPL",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Marshall does not plan to offer credit card amendment at crypto markup - Politico",
-        "sentiment": "NEGATIVE",
-        "score": 0.8220049142837524,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Seniors on Social Security Could Face $460 Monthly Cut to Benefits - Newsweek",
-        "sentiment": "NEGATIVE",
-        "score": 0.9693844318389893,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "IMF prepares for global run on US dollar - Euractiv",
-        "sentiment": "POSITIVE",
-        "score": 0.8325231075286865,
-        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -204,15 +199,6 @@
         "title": "FX Daily: Suspected USD/JPY intervention adds to weak dollar moment - ING THINK economic and financial analysis | ING THINK",
         "sentiment": "NEGATIVE",
         "score": 0.9320818185806274,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Why Trump\u2019s Credit-Card Crackdown Will Backfire - The Free Press",
-        "sentiment": "NEGATIVE",
-        "score": 0.9012163281440735,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
