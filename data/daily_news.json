@@ -97,17 +97,12 @@
         "score": 0.8834636807441711,
         "signal": "BEARISH",
         "tickers": [
-            "META",
             "TSLA",
-            "MSFT"
+            "MSFT",
+            "META"
         ],
-        "primary_ticker": "META",
+        "primary_ticker": "TSLA",
         "ticker_impacts": [
-            {
-                "ticker": "META",
-                "impact": "negative",
-                "relevance": "high"
-            },
             {
                 "ticker": "TSLA",
                 "impact": "negative",
@@ -115,6 +110,11 @@
             },
             {
                 "ticker": "MSFT",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "META",
                 "impact": "negative",
                 "relevance": "high"
             }
