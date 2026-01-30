@@ -1,35 +1,124 @@
 [
     {
-        "title": "Federal Reserve issues FOMC statement - Federal Reserve Board (.gov)",
-        "sentiment": "POSITIVE",
-        "score": 0.8154740929603577,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "S&P 500 touches 7,000 for first time then retreats as traders await Fed decision: Live updates - CNBC",
-        "sentiment": "POSITIVE",
-        "score": 0.9173585176467896,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Trump Lauds Visa\u2019s Move to Use Rewards for Savings Accounts - Bloomberg.com",
-        "sentiment": "POSITIVE",
-        "score": 0.8388198018074036,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "ASML Plans About 1,700 Job Cuts in Netherlands, US as Sales Boom - Bloomberg.com",
+        "title": "Fed holds rates steady, signaling risks to economy are dropping - The Washington Post",
         "sentiment": "NEGATIVE",
-        "score": 0.9529411196708679,
+        "score": 0.9087934494018555,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Futures: Meta Jumps, Microsoft Skids; Tesla CapEx To Soar - Investor's Business Daily",
+        "sentiment": "NEGATIVE",
+        "score": 0.8834636807441711,
+        "signal": "BEARISH",
+        "tickers": [
+            "META",
+            "TSLA",
+            "MSFT"
+        ],
+        "primary_ticker": "META",
+        "ticker_impacts": [
+            {
+                "ticker": "META",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "TSLA",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "MSFT",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Tesla profits slumped 46% last year, as it lost its crown as the top EV seller - NPR",
+        "sentiment": "NEGATIVE",
+        "score": 0.9516182541847229,
+        "signal": "BEARISH",
+        "tickers": [
+            "TSLA"
+        ],
+        "primary_ticker": "TSLA",
+        "ticker_impacts": [
+            {
+                "ticker": "TSLA",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Amazon announces 16,000 corporate job cuts, shaking Seattle's economy - komonews.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9711400866508484,
+        "signal": "BEARISH",
+        "tickers": [
+            "AMZN"
+        ],
+        "primary_ticker": "AMZN",
+        "ticker_impacts": [
+            {
+                "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Carvana Dives After Short Seller Criticizes Ties To Lenders - Investor's Business Daily",
+        "sentiment": "NEGATIVE",
+        "score": 0.9740087985992432,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Bitcoin price news: BTC stuck at $89,000 as gold surges to fresh record - CoinDesk",
+        "sentiment": "NEGATIVE",
+        "score": 0.8531588912010193,
+        "signal": "BEARISH",
+        "tickers": [
+            "META"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "META",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Home Depot to cut 800 corporate jobs, require workers back to office full time - ajc.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9669160842895508,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Starbucks scraps $250,000 cap on boss's use of company jet - BBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.8608425259590149,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "The economy's pressure relief valve: the U.S. Dollar - Axios",
+        "sentiment": "NEGATIVE",
+        "score": 0.9741888642311096,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -62,35 +151,26 @@
         ]
     },
     {
-        "title": "Gold is going up because Trump is talking down the dollar, feeding \u2018the narrative of relative U.S. decline,\u2019 UBS fears - Fortune",
+        "title": "UPS Is Firing Its Biggest Customer -- And Wall Street Finally Understands Why - The Motley Fool",
         "sentiment": "NEGATIVE",
-        "score": 0.767037034034729,
+        "score": 0.9643425941467285,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Waabi raises $1B and expands into robotaxis with Uber - TechCrunch",
-        "sentiment": "POSITIVE",
-        "score": 0.9197447299957275,
-        "signal": "BULLISH",
         "tickers": [
-            "UBER"
+            "AMZN"
         ],
-        "primary_ticker": "UBER",
+        "primary_ticker": null,
         "ticker_impacts": [
             {
-                "ticker": "UBER",
-                "impact": "positive",
-                "relevance": "high"
+                "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "medium"
             }
         ]
     },
     {
-        "title": "UPS to cut 30,000 jobs as it moves away from Amazon - BBC",
+        "title": "Amazon is ending its palm ID system for retail, Amazon One, as it closes physical stores - GeekWire",
         "sentiment": "NEGATIVE",
-        "score": 0.966339647769928,
+        "score": 0.9076529741287231,
         "signal": "BEARISH",
         "tickers": [
             "AMZN"
@@ -105,55 +185,12 @@
         ]
     },
     {
-        "title": "Amazon Fresh grocery store closures include 10 in the suburbs - dailyherald.com",
+        "title": "\u2018A betrayal\u2019: Southwest\u2019s new plus size policy leaves some passengers unable to fly - oregonlive.com",
         "sentiment": "NEGATIVE",
-        "score": 0.9004423022270203,
-        "signal": "BEARISH",
-        "tickers": [
-            "AMZN"
-        ],
-        "primary_ticker": "AMZN",
-        "ticker_impacts": [
-            {
-                "ticker": "AMZN",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Judge says construction on Vineyard Wind can resume - wbur.org",
-        "sentiment": "NEGATIVE",
-        "score": 0.736062228679657,
+        "score": 0.9452634453773499,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
-    },
-    {
-        "title": "The State-Led Crackdown on Grok and xAI Has Begun - WIRED",
-        "sentiment": "NEGATIVE",
-        "score": 0.9169825911521912,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Meta and YouTube head to trial over harm to children after TikTok settles - NPR",
-        "sentiment": "NEGATIVE",
-        "score": 0.8007855415344238,
-        "signal": "BEARISH",
-        "tickers": [
-            "META"
-        ],
-        "primary_ticker": "META",
-        "ticker_impacts": [
-            {
-                "ticker": "META",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
     }
 ]
