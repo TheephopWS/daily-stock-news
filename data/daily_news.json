@@ -1,20 +1,39 @@
 [
     {
-        "title": "Apple reports best-ever iPhone sales as Mac dips - BBC",
+        "title": "The decline of the French bistro - BBC",
         "sentiment": "NEGATIVE",
-        "score": 0.953175961971283,
+        "score": 0.904711127281189,
         "signal": "BEARISH",
-        "tickers": [
-            "AAPL"
-        ],
-        "primary_ticker": "AAPL",
-        "ticker_impacts": [
-            {
-                "ticker": "AAPL",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Silver plummets 15%, gold falls 7% \u2014 dragging down miners and ETFs - CNBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.9714598059654236,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Target's new CEO is thrown into crisis mode on day one - Business Insider",
+        "sentiment": "NEGATIVE",
+        "score": 0.9328027367591858,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "SanDisk Stock Is Trending Overnight: Here's What You Should Know - Benzinga",
+        "sentiment": "POSITIVE",
+        "score": 0.9547646641731262,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "Waymo robotaxi hits child at school drop-off, triggering safety inquiry - The Washington Post",
@@ -26,29 +45,30 @@
         "ticker_impacts": []
     },
     {
-        "title": "Is It Time to Buy Microsoft Stock as Its Backlog Soars? - The Motley Fool",
+        "title": "Apple earnings recap: Tim Cook talks 'staggering' iPhone demand, memory shortage, and China rebound - Business Insider",
         "sentiment": "POSITIVE",
-        "score": 0.92854905128479,
+        "score": 0.8721407055854797,
         "signal": "BULLISH",
         "tickers": [
-            "MSFT"
+            "AAPL"
         ],
-        "primary_ticker": "MSFT",
+        "primary_ticker": "AAPL",
         "ticker_impacts": [
             {
-                "ticker": "MSFT",
+                "ticker": "AAPL",
                 "impact": "positive",
                 "relevance": "high"
             }
         ]
     },
     {
-        "title": "Markets News, Jan. 29, 2026: S&P 500, Nasdaq End Lower as Microsoft Shares Drop 10%, Software Stocks Slide - Investopedia",
+        "title": "Microsoft\u2019s $357 Billion Rout Is Worst Since Deepseek Hit Nvidia - Bloomberg",
         "sentiment": "NEGATIVE",
-        "score": 0.9729254245758057,
+        "score": 0.9391551613807678,
         "signal": "BEARISH",
         "tickers": [
-            "MSFT"
+            "MSFT",
+            "NVDA"
         ],
         "primary_ticker": "MSFT",
         "ticker_impacts": [
@@ -56,8 +76,22 @@
                 "ticker": "MSFT",
                 "impact": "negative",
                 "relevance": "high"
+            },
+            {
+                "ticker": "NVDA",
+                "impact": "negative",
+                "relevance": "high"
             }
         ]
+    },
+    {
+        "title": "Growing Wave of Silicon Valley Workers Condemns ICE as C-Suites Split Over Fear of Trump - KQED",
+        "sentiment": "NEGATIVE",
+        "score": 0.9246731400489807,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "Tesla Stock Falls As The Market Mulls Tesla's Shift To 'Transportation-As-A-Service,' Massive Capital Spending - Investor's Business Daily",
@@ -95,15 +129,6 @@
         "ticker_impacts": []
     },
     {
-        "title": "Costco is roasted over its $5 rotisserie chicken - seattletimes.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.863446831703186,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "Waymo robotaxis are now giving rides to and from San Francisco International Airport - TechCrunch",
         "sentiment": "NEGATIVE",
         "score": 0.9480777382850647,
@@ -130,9 +155,60 @@
         ]
     },
     {
-        "title": "An Amazon worker used an AI tool to flag which roles were on the chopping block - Business Insider",
+        "title": "U.S. International Trade in Goods and Services, November 2025 - Bureau of Economic Analysis (BEA) (.gov)",
+        "sentiment": "POSITIVE",
+        "score": 0.9284045696258545,
+        "signal": "BULLISH",
+        "tickers": [
+            "BEA"
+        ],
+        "primary_ticker": "BEA",
+        "ticker_impacts": [
+            {
+                "ticker": "BEA",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Futures Rise Amid Huge Earnings - Investor's Business Daily",
+        "sentiment": "POSITIVE",
+        "score": 0.8654876947402954,
+        "signal": "BULLISH",
+        "tickers": [
+            "META"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "META",
+                "impact": "positive",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "META Stock Cheaper than GOOGL by \u2018Historical Norms,\u2019 Jefferies Says after Q4 - TipRanks",
+        "sentiment": "POSITIVE",
+        "score": 0.9462108612060547,
+        "signal": "BULLISH",
+        "tickers": [
+            "META"
+        ],
+        "primary_ticker": "META",
+        "ticker_impacts": [
+            {
+                "ticker": "META",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "If you're one of the 16,000 Amazon employees getting laid off, read this - theregister.com",
         "sentiment": "NEGATIVE",
-        "score": 0.965487003326416,
+        "score": 0.9261881113052368,
         "signal": "BEARISH",
         "tickers": [
             "AMZN"
