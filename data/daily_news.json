@@ -18,6 +18,15 @@
         "ticker_impacts": []
     },
     {
+        "title": "New cars are increasingly becoming a luxury amid K-shaped economy concerns - CNBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.9371442794799805,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Giving to donor-advised funds surges on expiring tax cuts and a hot stock market - CNBC",
         "sentiment": "POSITIVE",
         "score": 0.946962296962738,
@@ -36,68 +45,37 @@
         "ticker_impacts": []
     },
     {
-        "title": "Waymo robotaxi hits child at school drop-off, triggering safety inquiry - The Washington Post",
+        "title": "U.S. Stock Futures Down after S&P 500 Posts Second Straight Loss, Microsoft Stock Slides 10% - TipRanks",
         "sentiment": "NEGATIVE",
-        "score": 0.9548609256744385,
+        "score": 0.9722842574119568,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Is It Time to Buy Microsoft Stock as Its Backlog Soars? - The Motley Fool",
-        "sentiment": "POSITIVE",
-        "score": 0.9285491704940796,
-        "signal": "BULLISH",
         "tickers": [
-            "MSFT"
+            "MSFT",
+            "SPX",
+            "DJIA",
+            "NDX"
         ],
         "primary_ticker": "MSFT",
         "ticker_impacts": [
             {
                 "ticker": "MSFT",
-                "impact": "positive",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Apple earnings recap: Tim Cook talks 'staggering' iPhone demand, memory shortage, and China rebound - Business Insider",
-        "sentiment": "POSITIVE",
-        "score": 0.8721415400505066,
-        "signal": "BULLISH",
-        "tickers": [
-            "AAPL"
-        ],
-        "primary_ticker": "AAPL",
-        "ticker_impacts": [
-            {
-                "ticker": "AAPL",
-                "impact": "positive",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Microsoft\u2019s $357 Billion Rout Is Worst Since Deepseek Hit Nvidia - Bloomberg",
-        "sentiment": "NEGATIVE",
-        "score": 0.9660715460777283,
-        "signal": "BEARISH",
-        "tickers": [
-            "NVDA",
-            "MSFT"
-        ],
-        "primary_ticker": "NVDA",
-        "ticker_impacts": [
-            {
-                "ticker": "NVDA",
                 "impact": "negative",
                 "relevance": "high"
             },
             {
-                "ticker": "MSFT",
+                "ticker": "SPX",
                 "impact": "negative",
-                "relevance": "high"
+                "relevance": "medium"
+            },
+            {
+                "ticker": "DJIA",
+                "impact": "negative",
+                "relevance": "medium"
+            },
+            {
+                "ticker": "NDX",
+                "impact": "negative",
+                "relevance": "medium"
             }
         ]
     },
@@ -120,31 +98,21 @@
         "ticker_impacts": []
     },
     {
-        "title": "Comcast keeps losing customers despite price guarantee and unlimited data - Ars Technica",
+        "title": "Microsoft\u2019s $440 billion wipeout, and investors angry about OpenAI\u2019s debt, explained - Fortune",
         "sentiment": "NEGATIVE",
-        "score": 0.9127683043479919,
+        "score": 0.9723633527755737,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Waymo robotaxis are now giving rides to and from San Francisco International Airport - TechCrunch",
-        "sentiment": "NEGATIVE",
-        "score": 0.9480775594711304,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Exclusive | Trump Regulators Say They Are Ready to Lay Out Crypto Rules to Foster Growth - The Wall Street Journal",
-        "sentiment": "NEGATIVE",
-        "score": 0.7584598064422607,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
+        "tickers": [
+            "MSFT"
+        ],
+        "primary_ticker": "MSFT",
+        "ticker_impacts": [
+            {
+                "ticker": "MSFT",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
     },
     {
         "title": "Tech boom turns to gloom in Seattle as economic fears swirl amid layoffs - geekwire.com",
@@ -160,32 +128,6 @@
                 "ticker": "AMZN",
                 "impact": "negative",
                 "relevance": "medium"
-            }
-        ]
-    },
-    {
-        "title": "Trade deficit soared 94% in November and was higher than a year ago, despite tariff efforts - CNBC",
-        "sentiment": "POSITIVE",
-        "score": 0.923781156539917,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "If you're one of the 16,000 Amazon employees getting laid off, read this - theregister.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9261879920959473,
-        "signal": "BEARISH",
-        "tickers": [
-            "AMZN"
-        ],
-        "primary_ticker": "AMZN",
-        "ticker_impacts": [
-            {
-                "ticker": "AMZN",
-                "impact": "negative",
-                "relevance": "high"
             }
         ]
     }
