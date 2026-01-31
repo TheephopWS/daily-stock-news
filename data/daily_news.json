@@ -1,5 +1,22 @@
 [
     {
+        "title": "Apple reports best-ever iPhone sales as Mac dips - BBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.953175961971283,
+        "signal": "BEARISH",
+        "tickers": [
+            "AAPL"
+        ],
+        "primary_ticker": "AAPL",
+        "ticker_impacts": [
+            {
+                "ticker": "AAPL",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
         "title": "Waymo robotaxi hits child at school drop-off, triggering safety inquiry - The Washington Post",
         "sentiment": "NEGATIVE",
         "score": 0.9548609256744385,
@@ -9,34 +26,17 @@
         "ticker_impacts": []
     },
     {
-        "title": "Apple\u2019s stock rises as Tim Cook gives just enough detail on Wall Street\u2019s most burning question - MarketWatch",
+        "title": "Is It Time to Buy Microsoft Stock as Its Backlog Soars? - The Motley Fool",
         "sentiment": "POSITIVE",
-        "score": 0.9342347979545593,
+        "score": 0.92854905128479,
         "signal": "BULLISH",
         "tickers": [
-            "AAPL"
+            "MSFT"
         ],
-        "primary_ticker": "AAPL",
+        "primary_ticker": "MSFT",
         "ticker_impacts": [
             {
-                "ticker": "AAPL",
-                "impact": "positive",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Apple earnings recap: Tim Cook talks 'staggering' iPhone demand, memory shortage, and China rebound - Business Insider",
-        "sentiment": "POSITIVE",
-        "score": 0.8721407055854797,
-        "signal": "BULLISH",
-        "tickers": [
-            "AAPL"
-        ],
-        "primary_ticker": "AAPL",
-        "ticker_impacts": [
-            {
-                "ticker": "AAPL",
+                "ticker": "MSFT",
                 "impact": "positive",
                 "relevance": "high"
             }
@@ -95,6 +95,24 @@
         "ticker_impacts": []
     },
     {
+        "title": "Costco is roasted over its $5 rotisserie chicken - seattletimes.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.863446831703186,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Waymo robotaxis are now giving rides to and from San Francisco International Airport - TechCrunch",
+        "sentiment": "NEGATIVE",
+        "score": 0.9480777382850647,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Tech boom turns to gloom in Seattle as economic fears swirl amid layoffs - geekwire.com",
         "sentiment": "NEGATIVE",
         "score": 0.9682631492614746,
@@ -106,93 +124,6 @@
         "ticker_impacts": [
             {
                 "ticker": "AMZN",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
-    },
-    {
-        "title": "Microsoft Stock (MSFT) Gets Price Target Cuts After Latest Earnings - TipRanks",
-        "sentiment": "NEGATIVE",
-        "score": 0.9613154530525208,
-        "signal": "BEARISH",
-        "tickers": [
-            "MSFT"
-        ],
-        "primary_ticker": "MSFT",
-        "ticker_impacts": [
-            {
-                "ticker": "MSFT",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Software stocks enter bear market on AI disruption fear with ServiceNow plunging 10% - CNBC",
-        "sentiment": "NEGATIVE",
-        "score": 0.9703012108802795,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Trade deficit soared 94% in November and was higher than a year ago, despite tariff efforts - CNBC",
-        "sentiment": "POSITIVE",
-        "score": 0.9237809181213379,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Futures: Meta Jumps, Microsoft Skids; Tesla CapEx To Soar - Investor's Business Daily",
-        "sentiment": "NEGATIVE",
-        "score": 0.8834636807441711,
-        "signal": "BEARISH",
-        "tickers": [
-            "TSLA",
-            "MSFT",
-            "META"
-        ],
-        "primary_ticker": "TSLA",
-        "ticker_impacts": [
-            {
-                "ticker": "TSLA",
-                "impact": "negative",
-                "relevance": "high"
-            },
-            {
-                "ticker": "MSFT",
-                "impact": "negative",
-                "relevance": "high"
-            },
-            {
-                "ticker": "META",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Elon Musk\u2019s Tesla reports first-ever annual decline in revenue - Al Jazeera",
-        "sentiment": "NEGATIVE",
-        "score": 0.9656801819801331,
-        "signal": "BEARISH",
-        "tickers": [
-            "TSLA",
-            "INTC"
-        ],
-        "primary_ticker": "TSLA",
-        "ticker_impacts": [
-            {
-                "ticker": "TSLA",
-                "impact": "negative",
-                "relevance": "high"
-            },
-            {
-                "ticker": "INTC",
                 "impact": "negative",
                 "relevance": "medium"
             }
