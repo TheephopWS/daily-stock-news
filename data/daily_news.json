@@ -1,5 +1,31 @@
 [
     {
+        "title": "Bitcoin price slides to lowest level since 2025 tariff shock - Financial Times",
+        "sentiment": "NEGATIVE",
+        "score": 0.9670794606208801,
+        "signal": "BEARISH",
+        "tickers": [
+            "META"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "META",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Trump\u2019s Plan to Make Housing Affordable Is Faltering - Bloomberg.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9509081244468689,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Big Food gets leaner with divestitures and breakups as consumers turn away from packaged snacks - CNBC",
         "sentiment": "NEGATIVE",
         "score": 0.934109091758728,
@@ -9,13 +35,21 @@
         "ticker_impacts": []
     },
     {
-        "title": "3 warning signs silver could be headed for a deeper plunge, according to a top commodities expert - Business Insider",
-        "sentiment": "NEGATIVE",
-        "score": 0.9391050934791565,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
+        "title": "Buy Microsoft\u2019s stock while it\u2019s down? First ask yourself this question. - MarketWatch",
+        "sentiment": "POSITIVE",
+        "score": 0.8912932872772217,
+        "signal": "BULLISH",
+        "tickers": [
+            "MSFT"
+        ],
+        "primary_ticker": "MSFT",
+        "ticker_impacts": [
+            {
+                "ticker": "MSFT",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
     },
     {
         "title": "Empty stores and massage chairs next to produce: Amazon Fresh employees explain the chain's demise - Business Insider",
@@ -33,6 +67,15 @@
                 "relevance": "high"
             }
         ]
+    },
+    {
+        "title": "Popular burger chain was just named the worst in America, and the reviews are brutal - Yahoo",
+        "sentiment": "NEGATIVE",
+        "score": 0.934191882610321,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "Amazon\u2019s layoffs are staggering. We\u2019ve seen this before - CNN",
@@ -87,23 +130,6 @@
         "ticker_impacts": []
     },
     {
-        "title": "Microsoft: The Earnings Drawdown Is A Gift (Rating Upgrade) (NASDAQ:MSFT) - Seeking Alpha",
-        "sentiment": "POSITIVE",
-        "score": 0.9361327886581421,
-        "signal": "BULLISH",
-        "tickers": [
-            "MSFT"
-        ],
-        "primary_ticker": "MSFT",
-        "ticker_impacts": [
-            {
-                "ticker": "MSFT",
-                "impact": "positive",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
         "title": "After Minneapolis, Tech CEOs Are Struggling to Stay Silent - WIRED",
         "sentiment": "NEGATIVE",
         "score": 0.8199653029441833,
@@ -113,26 +139,21 @@
         "ticker_impacts": []
     },
     {
-        "title": "Why Apple\u2019s blockbuster earnings weren\u2019t enough to lift the stock - MarketWatch",
+        "title": "GameStop Wants To Buy Its Way To $100 Billion: Marathon Digital Could Do The Trick - Forbes",
+        "sentiment": "POSITIVE",
+        "score": 0.7639845013618469,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Target's new CEO is thrown into crisis mode on day one - Business Insider",
         "sentiment": "NEGATIVE",
-        "score": 0.9639000296592712,
+        "score": 0.9328027367591858,
         "signal": "BEARISH",
-        "tickers": [
-            "AAPL",
-            "GOOGL"
-        ],
-        "primary_ticker": "AAPL",
-        "ticker_impacts": [
-            {
-                "ticker": "AAPL",
-                "impact": "negative",
-                "relevance": "high"
-            },
-            {
-                "ticker": "GOOGL",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     }
 ]
