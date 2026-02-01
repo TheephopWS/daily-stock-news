@@ -1,35 +1,27 @@
 [
     {
-        "title": "Gold and silver prices plunge following Trump's Fed pick announcement - Axios",
+        "title": "Trump taps career staffer to lead statistics agency whose chief he fired - The Washington Post",
         "sentiment": "NEGATIVE",
-        "score": 0.9333186149597168,
-        "signal": "BEARISH",
-        "tickers": [
-            "META"
-        ],
-        "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "META",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
-    },
-    {
-        "title": "Stock Market on Jan. 30, 2026: Dow, S&P 500 and Nasdaq end lower Friday after Trump picks Warsh for Fed chair and investors weigh inflation report; tech under pressure as Dow books another weekly loss; U.S. stocks score monthly gains - MarketWatch",
-        "sentiment": "NEGATIVE",
-        "score": 0.9568575024604797,
+        "score": 0.926055908203125,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Eli Lilly CEO says Medicare coverage of obesity drugs could 'change the game' for upcoming pill launch - CNBC",
+        "title": "Verizon Posts Strong Subscriber Gains Under New CEO - The Wall Street Journal",
         "sentiment": "POSITIVE",
-        "score": 0.82110595703125,
+        "score": 0.9456338286399841,
         "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Blue Origin halts New Shepard flights - SpaceNews",
+        "sentiment": "NEGATIVE",
+        "score": 0.9069285988807678,
+        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -44,12 +36,52 @@
         "ticker_impacts": []
     },
     {
-        "title": "GameStop Wants To Buy Its Way To $100 Billion: Marathon Digital Could Do The Trick - Forbes",
-        "sentiment": "POSITIVE",
-        "score": 0.7639845013618469,
-        "signal": "BULLISH",
+        "title": "After Minneapolis, Tech CEOs Are Struggling to Stay Silent - WIRED",
+        "sentiment": "NEGATIVE",
+        "score": 0.8199653029441833,
+        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
+    },
+    {
+        "title": "Why Apple\u2019s blockbuster earnings weren\u2019t enough to lift the stock - MarketWatch",
+        "sentiment": "NEGATIVE",
+        "score": 0.9639000296592712,
+        "signal": "BEARISH",
+        "tickers": [
+            "AAPL",
+            "GOOGL"
+        ],
+        "primary_ticker": "AAPL",
+        "ticker_impacts": [
+            {
+                "ticker": "AAPL",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "GOOGL",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Microsoft loses a massive $440 billion in market cap \ud83d\udcc9 - Windows Central",
+        "sentiment": "NEGATIVE",
+        "score": 0.9688240885734558,
+        "signal": "BEARISH",
+        "tickers": [
+            "MSFT"
+        ],
+        "primary_ticker": "MSFT",
+        "ticker_impacts": [
+            {
+                "ticker": "MSFT",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
     }
 ]
