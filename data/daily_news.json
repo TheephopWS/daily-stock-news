@@ -1,9 +1,35 @@
 [
     {
-        "title": "US Fed live: US stocks slip and dollar strengthens after Trump picks Warsh - Financial Times",
+        "title": "Gold and silver prices plunge following Trump's Fed pick announcement - Axios",
         "sentiment": "NEGATIVE",
-        "score": 0.8395952582359314,
+        "score": 0.9333186149597168,
         "signal": "BEARISH",
+        "tickers": [
+            "META"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "META",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Stock Market on Jan. 30, 2026: Dow, S&P 500 and Nasdaq end lower Friday after Trump picks Warsh for Fed chair and investors weigh inflation report; tech under pressure as Dow books another weekly loss; U.S. stocks score monthly gains - MarketWatch",
+        "sentiment": "NEGATIVE",
+        "score": 0.9568575024604797,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Eli Lilly CEO says Medicare coverage of obesity drugs could 'change the game' for upcoming pill launch - CNBC",
+        "sentiment": "POSITIVE",
+        "score": 0.82110595703125,
+        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -18,29 +44,12 @@
         "ticker_impacts": []
     },
     {
-        "title": "Trump thinks a weaker dollar is great for America. Is he right? - NPR",
+        "title": "GameStop Wants To Buy Its Way To $100 Billion: Marathon Digital Could Do The Trick - Forbes",
         "sentiment": "POSITIVE",
-        "score": 0.7555684447288513,
+        "score": 0.7639845013618469,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
-    },
-    {
-        "title": "Apple Handily Beats Holiday-Quarter Goals On Record iPhone Sales - Investor's Business Daily",
-        "sentiment": "POSITIVE",
-        "score": 0.9456045031547546,
-        "signal": "BULLISH",
-        "tickers": [
-            "AAPL"
-        ],
-        "primary_ticker": "AAPL",
-        "ticker_impacts": [
-            {
-                "ticker": "AAPL",
-                "impact": "positive",
-                "relevance": "high"
-            }
-        ]
     }
 ]
