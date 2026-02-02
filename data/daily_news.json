@@ -9,19 +9,33 @@
         "ticker_impacts": []
     },
     {
-        "title": "Trump\u2019s Plan to Make Housing Affordable Is Faltering - Bloomberg.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9509081244468689,
-        "signal": "BEARISH",
-        "tickers": [],
+        "title": "Waymo finalises $16bn funding round at $110bn valuation - Financial Times",
+        "sentiment": "POSITIVE",
+        "score": 0.940269410610199,
+        "signal": "BULLISH",
+        "tickers": [
+            "TSLA",
+            "GOOGL"
+        ],
         "primary_ticker": null,
-        "ticker_impacts": []
+        "ticker_impacts": [
+            {
+                "ticker": "TSLA",
+                "impact": "positive",
+                "relevance": "medium"
+            },
+            {
+                "ticker": "GOOGL",
+                "impact": "positive",
+                "relevance": "medium"
+            }
+        ]
     },
     {
-        "title": "Buy Microsoft\u2019s stock while it\u2019s down? First ask yourself this question. - MarketWatch",
-        "sentiment": "POSITIVE",
-        "score": 0.8912932872772217,
-        "signal": "BULLISH",
+        "title": "Microsoft Shares Slide Despite Strong Cloud Growth. Is It Time to Buy the Dip? - The Motley Fool",
+        "sentiment": "NEGATIVE",
+        "score": 0.9632290601730347,
+        "signal": "BEARISH",
         "tickers": [
             "MSFT"
         ],
@@ -29,10 +43,19 @@
         "ticker_impacts": [
             {
                 "ticker": "MSFT",
-                "impact": "positive",
+                "impact": "negative",
                 "relevance": "high"
             }
         ]
+    },
+    {
+        "title": "Trump\u2019s Plan to Make Housing Affordable Is Faltering - Bloomberg.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9509081244468689,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "Empty stores and massage chairs next to produce: Amazon Fresh employees explain the chain's demise - Business Insider",
@@ -61,9 +84,18 @@
         "ticker_impacts": []
     },
     {
-        "title": "Gold and silver prices plunge following Trump's Fed pick announcement - Axios",
+        "title": "Software Stocks Are Getting Socked. Is It a Red Flag Or a Buying Opportunity? - The Motley Fool",
         "sentiment": "NEGATIVE",
-        "score": 0.9333186149597168,
+        "score": 0.9677616357803345,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "CHART: Friday massacre for mining stocks but copper price pulls out of nosedive - Mining.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9265839457511902,
         "signal": "BEARISH",
         "tickers": [
             "META"
@@ -95,6 +127,15 @@
         ]
     },
     {
+        "title": "Eli Lilly unveils plans for $3.5B manufacturing campus, largest economic development project ever in Lehigh Valley - WFMZ.com",
+        "sentiment": "POSITIVE",
+        "score": 0.7037489414215088,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Lawsuit claims Costco rotisserie chicken falsely marketed as preservative-free - KOMO",
         "sentiment": "NEGATIVE",
         "score": 0.7008087038993835,
@@ -113,18 +154,18 @@
         "ticker_impacts": []
     },
     {
-        "title": "After Minneapolis, Tech CEOs Are Struggling to Stay Silent - WIRED",
+        "title": "'Washington Post' journalists plea to Bezos: Don't gut our newsroom - NPR",
         "sentiment": "NEGATIVE",
-        "score": 0.8199653029441833,
+        "score": 0.9667878150939941,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Sandisk\u2019s stock gets \u2018one of the most delayed upgrades in history\u2019 after blowout earnings - MarketWatch",
+        "title": "After Minneapolis, Tech CEOs Are Struggling to Stay Silent - WIRED",
         "sentiment": "NEGATIVE",
-        "score": 0.9631574153900146,
+        "score": 0.8199653029441833,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
