@@ -1,18 +1,44 @@
 [
     {
-        "title": "Power outages reported across southeast Denver metro area, Xcel Energy says multiple substations involved - CBS News",
+        "title": "Oracle to Raise Up to $50 Billion This Year for Cloud Investment - Bloomberg",
+        "sentiment": "POSITIVE",
+        "score": 0.8225461840629578,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Gold dives 5% and silver crashes 10%, extending sell-off in precious metals after historic plunge - CNBC",
         "sentiment": "NEGATIVE",
-        "score": 0.9519323706626892,
+        "score": 0.7813936471939087,
+        "signal": "BEARISH",
+        "tickers": [
+            "META"
+        ],
+        "primary_ticker": "META",
+        "ticker_impacts": [
+            {
+                "ticker": "META",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Warsh\u2019s Return Revives Tensions Over the Fed\u2019s $6.6 Trillion QE Hangover - Bloomberg",
+        "sentiment": "NEGATIVE",
+        "score": 0.871518611907959,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Oracle to Raise Up to $50 Billion This Year for Cloud Investment - Bloomberg",
-        "sentiment": "POSITIVE",
-        "score": 0.8225461840629578,
-        "signal": "BULLISH",
+        "title": "Oil falls by nearly 3% on Iran talks, OPEC+ production pause - Yahoo Finance Singapore",
+        "sentiment": "NEGATIVE",
+        "score": 0.9743555784225464,
+        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -23,19 +49,19 @@
         "score": 0.7397985458374023,
         "signal": "BEARISH",
         "tickers": [
-            "AMZN",
             "GOOGL",
+            "AMZN",
             "DIS"
         ],
         "primary_ticker": null,
         "ticker_impacts": [
             {
-                "ticker": "AMZN",
+                "ticker": "GOOGL",
                 "impact": "negative",
                 "relevance": "medium"
             },
             {
-                "ticker": "GOOGL",
+                "ticker": "AMZN",
                 "impact": "negative",
                 "relevance": "medium"
             },
@@ -47,18 +73,18 @@
         ]
     },
     {
-        "title": "Silver Bears Drop Bombshell Reversal After Record 31% Crash - thestreet.com",
+        "title": "Thousands remain without power in Denver area amid Sunday outages - The Denver Post",
         "sentiment": "NEGATIVE",
-        "score": 0.8489384055137634,
+        "score": 0.963215172290802,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "European Tech Giant Cuts Off U.S. Subsidiary After Multimillion Dollar ICE Contract - Gizmodo",
+        "title": "AI layoffs or \u2018AI-washing\u2019? - TechCrunch",
         "sentiment": "NEGATIVE",
-        "score": 0.942155659198761,
+        "score": 0.8049827218055725,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -100,10 +126,27 @@
         "ticker_impacts": []
     },
     {
-        "title": "Here's why bitcoin traders are now betting billions on a drop to $75,000 and bailing on price rising higher - CoinDesk",
+        "title": "Microsoft, Palantir Lead A Software Rout Not Seen Since 2008 Lehman Crisis - Yahoo Finance",
         "sentiment": "NEGATIVE",
-        "score": 0.7694026231765747,
+        "score": 0.9203783273696899,
         "signal": "BEARISH",
+        "tickers": [
+            "MSFT"
+        ],
+        "primary_ticker": "MSFT",
+        "ticker_impacts": [
+            {
+                "ticker": "MSFT",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Comcast hopes bold offer will lure back frustrated customers - thestreet.com",
+        "sentiment": "POSITIVE",
+        "score": 0.940895140171051,
+        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -150,18 +193,18 @@
         "ticker_impacts": []
     },
     {
-        "title": "American CEO on Flight Attendants Sleeping on Airport Floors \u2014 \u201cIt Comes With the Business\u201d After 9,000 Cancellations - View from the Wing",
+        "title": "How the EV pullback is affecting factories and jobs in the South - CNBC",
         "sentiment": "NEGATIVE",
-        "score": 0.9033330082893372,
+        "score": 0.736687421798706,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Chinese Speculators Set the Stage for Gold and Silver Crash - Bloomberg.com",
+        "title": "The Silver Market Is Messed Up. These Buyers Are Feeling the Pain. - The Wall Street Journal",
         "sentiment": "NEGATIVE",
-        "score": 0.8700413703918457,
+        "score": 0.9527500867843628,
         "signal": "BEARISH",
         "tickers": [
             "META"
@@ -176,28 +219,10 @@
         ]
     },
     {
-        "title": "How the EV pullback is affecting factories and jobs in the South - CNBC",
-        "sentiment": "NEGATIVE",
-        "score": 0.736687421798706,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "Prediction markets have a fake news problem - Axios",
         "sentiment": "NEGATIVE",
         "score": 0.7906820774078369,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "U.S. Ramps Up THAAD Interceptor Missile Production Fourfold to Avoid Losing to Iran, But It's Still Not Enough - Defense Express",
-        "sentiment": "POSITIVE",
-        "score": 0.8118451833724976,
-        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -216,24 +241,6 @@
         "sentiment": "NEGATIVE",
         "score": 0.9511315226554871,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Protestors stage sit-ins at multiple Target stores, asking company to 'stand with Minnesotans' - Bring Me The News",
-        "sentiment": "NEGATIVE",
-        "score": 0.8660652041435242,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Texas approves 'largest power project in the country' - Chron",
-        "sentiment": "POSITIVE",
-        "score": 0.864387571811676,
-        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -261,6 +268,15 @@
         "sentiment": "NEGATIVE",
         "score": 0.8408582806587219,
         "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Germany news: Energy cooperation with Saudi Arabia to expand - DW.com",
+        "sentiment": "POSITIVE",
+        "score": 0.932523787021637,
+        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
