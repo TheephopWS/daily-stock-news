@@ -22,12 +22,17 @@
         "score": 0.7397985458374023,
         "signal": "BEARISH",
         "tickers": [
+            "AMZN",
             "GOOGL",
-            "DIS",
-            "AMZN"
+            "DIS"
         ],
         "primary_ticker": null,
         "ticker_impacts": [
+            {
+                "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "medium"
+            },
             {
                 "ticker": "GOOGL",
                 "impact": "negative",
@@ -35,11 +40,6 @@
             },
             {
                 "ticker": "DIS",
-                "impact": "negative",
-                "relevance": "medium"
-            },
-            {
-                "ticker": "AMZN",
                 "impact": "negative",
                 "relevance": "medium"
             }
