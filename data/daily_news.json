@@ -1,12 +1,29 @@
 [
     {
-        "title": "The Washington Post, owned by Jeff Bezos, makes dramatic cuts - Politico",
+        "title": "Washington Post lays off one-third of its newsroom - NBC News",
         "sentiment": "NEGATIVE",
-        "score": 0.9608349800109863,
+        "score": 0.9713700413703918,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
+    },
+    {
+        "title": "New Congressional Support For Robotaxis Gives Tesla Stock (NASDAQ:TSLA) No Help, Shares Plunge - TipRanks",
+        "sentiment": "NEGATIVE",
+        "score": 0.8320981860160828,
+        "signal": "BEARISH",
+        "tickers": [
+            "TSLA"
+        ],
+        "primary_ticker": "TSLA",
+        "ticker_impacts": [
+            {
+                "ticker": "TSLA",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
     },
     {
         "title": "S&P 500 falls for a second day after AMD earnings, weak jobs data: Live updates - CNBC",
@@ -26,6 +43,15 @@
         ]
     },
     {
+        "title": "FTC Secures Landmark Settlement with Express Scripts to Lower Drug Costs for American Patients - Federal Trade Commission (.gov)",
+        "sentiment": "POSITIVE",
+        "score": 0.945598304271698,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "'Growing Chance' Of Tesla Merger To Create Musk Trinity With SpaceX And xAI - Investor's Business Daily",
         "sentiment": "POSITIVE",
         "score": 0.948880136013031,
@@ -41,6 +67,24 @@
                 "relevance": "high"
             }
         ]
+    },
+    {
+        "title": "Trump may have shot himself in the foot at the Fed, as Powell could stay on while Miran resigns from White House post - Fortune",
+        "sentiment": "NEGATIVE",
+        "score": 0.9477863907814026,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "AbbVie Skids After An Unexpected Suspect Drove Its Beat - Investor's Business Daily",
+        "sentiment": "NEGATIVE",
+        "score": 0.9578264951705933,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "Bitcoin-Led Crypto Rout Erases Nearly $500 Billion in a Week - Bloomberg.com",
@@ -72,23 +116,6 @@
         "title": "AMD's Stock Takes a Hit Despite Solid Earnings. What Happened? - Investopedia",
         "sentiment": "NEGATIVE",
         "score": 0.9628631472587585,
-        "signal": "BEARISH",
-        "tickers": [
-            "AMD"
-        ],
-        "primary_ticker": "AMD",
-        "ticker_impacts": [
-            {
-                "ticker": "AMD",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Stock Market Today: Dow Rises On Surprise Jobs Data; AMD Plunges On Earnings (Live Coverage) - Investor's Business Daily",
-        "sentiment": "NEGATIVE",
-        "score": 0.9606059789657593,
         "signal": "BEARISH",
         "tickers": [
             "AMD"
@@ -135,45 +162,19 @@
         "ticker_impacts": []
     },
     {
-        "title": "Is PayPal crashing out? - Morning Brew",
+        "title": "Bitcoin's price has plummeted. Here's what's ahead. - Business Insider",
         "sentiment": "NEGATIVE",
-        "score": 0.969238817691803,
-        "signal": "BEARISH",
-        "tickers": [
-            "PYPL"
-        ],
-        "primary_ticker": "PYPL",
-        "ticker_impacts": [
-            {
-                "ticker": "PYPL",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Bahama Breeze restaurants in Florida are closing permanently, company says - News4JAX",
-        "sentiment": "NEGATIVE",
-        "score": 0.964756965637207,
+        "score": 0.8291455507278442,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Michael Burry warns Bitcoin selloff could trigger a \u201cdeath spiral\u201d - report (GBTC:NYSEARCA) - Seeking Alpha",
+        "title": "Pinterest sacks engineers for tracking staff job cuts - BBC",
         "sentiment": "NEGATIVE",
-        "score": 0.9284732341766357,
+        "score": 0.9597950577735901,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Trump administration presses efforts to ensure supply of critical minerals outside of China - AP News",
-        "sentiment": "POSITIVE",
-        "score": 0.7938980460166931,
-        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -198,7 +199,7 @@
     {
         "title": "BYD, Chinese EV Stock Plunge On Weak Data. What That Means for Tesla Stock. - Barron's",
         "sentiment": "NEGATIVE",
-        "score": 0.8337851166725159,
+        "score": 0.9279209971427917,
         "signal": "BEARISH",
         "tickers": [
             "TSLA"
@@ -220,6 +221,29 @@
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
+    },
+    {
+        "title": "Stock Market Today: Dow, S&P 500, Nasdaq Rise; Palantir, SoFi, Tesla, Nvidia, More Movers; Gold, Bitcoin Drop - Barron's",
+        "sentiment": "POSITIVE",
+        "score": 0.7440418601036072,
+        "signal": "BULLISH",
+        "tickers": [
+            "NVDA",
+            "TSLA"
+        ],
+        "primary_ticker": "NVDA",
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "positive",
+                "relevance": "high"
+            },
+            {
+                "ticker": "TSLA",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
     },
     {
         "title": "Trump administration says it will limit funds for speed cameras - The Washington Post",
@@ -269,93 +293,6 @@
         "title": "We're scaling back our position in a stock that's riding Monday's market rally - CNBC",
         "sentiment": "NEGATIVE",
         "score": 0.9200148582458496,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Here are the retailers with the most store openings and closures planned for 2026 - CNBC",
-        "sentiment": "NEGATIVE",
-        "score": 0.9728575348854065,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Rocket Lab Stock (RKLB) Is Sinking Today, Here\u2019s Why - TipRanks",
-        "sentiment": "NEGATIVE",
-        "score": 0.9727611541748047,
-        "signal": "BEARISH",
-        "tickers": [
-            "RKLB"
-        ],
-        "primary_ticker": "RKLB",
-        "ticker_impacts": [
-            {
-                "ticker": "RKLB",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Amazon layoffs set to hit Washington corporate workforce hard as AI reliance grows - KOMO",
-        "sentiment": "NEGATIVE",
-        "score": 0.9742993116378784,
-        "signal": "BEARISH",
-        "tickers": [
-            "AMZN"
-        ],
-        "primary_ticker": "AMZN",
-        "ticker_impacts": [
-            {
-                "ticker": "AMZN",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Notepad++ says Chinese government hackers hijacked its software updates for months - TechCrunch",
-        "sentiment": "NEGATIVE",
-        "score": 0.9392895698547363,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "\u2018Down but Not Out\u2019: Morgan Stanley Sees 50% Upside for Microsoft Stock After Selloff - TipRanks",
-        "sentiment": "NEGATIVE",
-        "score": 0.9725392460823059,
-        "signal": "BEARISH",
-        "tickers": [
-            "MSFT"
-        ],
-        "primary_ticker": "MSFT",
-        "ticker_impacts": [
-            {
-                "ticker": "MSFT",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Venezuela oil exports rise sharply in January under US control, data shows - Yahoo Finance",
-        "sentiment": "POSITIVE",
-        "score": 0.9461803436279297,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Global stock index regains ground, silver and oil extend losses By Reuters - Investing.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9292664527893066,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
