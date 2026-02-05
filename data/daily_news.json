@@ -1,5 +1,55 @@
 [
     {
+        "title": "Software Stocks Are Now \u2018Sentenced Before Trial,\u2019 JPMorgan Says - Bloomberg.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9451856017112732,
+        "signal": "BEARISH",
+        "tickers": [
+            "JPM",
+            "INTC"
+        ],
+        "primary_ticker": "JPM",
+        "ticker_impacts": [
+            {
+                "ticker": "JPM",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "INTC",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Private payrolls rose by just 22,000 in January, far short of expectations, ADP says - CNBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.9692849516868591,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Wegovy maker warns of 'painful' price cuts as shares plunge - BBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.9703501462936401,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Yum Brands posts mixed quarter, Taco Bell shines - CNBC",
+        "sentiment": "POSITIVE",
+        "score": 0.9525840878486633,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Eli Lilly blows past quarterly estimates, posts strong outlook as Zepbound and Mounjaro sales soar - CNBC",
         "sentiment": "NEGATIVE",
         "score": 0.9708307981491089,
@@ -18,18 +68,18 @@
         "ticker_impacts": []
     },
     {
-        "title": "Bitcoin-Led Crypto Rout Erases Nearly Half a Trillion in a Week - Bloomberg.com",
+        "title": "Palantir CEO Alex Karp says Trump has a point about the AI race: 'there\u2019s a real hesitance to adopt these kind of products in the West' - Fortune",
         "sentiment": "NEGATIVE",
-        "score": 0.9549534320831299,
+        "score": 0.762137234210968,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Anthropic AI Tool Sparks Selloff From Software to Broader Market - Bloomberg.com",
+        "title": "Bitcoin-Led Crypto Rout Erases Nearly Half a Trillion in a Week - Bloomberg.com",
         "sentiment": "NEGATIVE",
-        "score": 0.927510678768158,
+        "score": 0.9549534320831299,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -45,26 +95,18 @@
         "ticker_impacts": []
     },
     {
-        "title": "Nvidia Stock Investors Got Great News From Palantir and Teradyne - The Motley Fool",
-        "sentiment": "POSITIVE",
-        "score": 0.9311447739601135,
-        "signal": "BULLISH",
-        "tickers": [
-            "NVDA"
-        ],
-        "primary_ticker": "NVDA",
-        "ticker_impacts": [
-            {
-                "ticker": "NVDA",
-                "impact": "positive",
-                "relevance": "high"
-            }
-        ]
+        "title": "Popular dining chain shuts all remaining locations, no bankruptcy - thestreet.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9228813052177429,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
-        "title": "Top Trump adviser Miran resigns White House post to stay on at the Fed - Politico",
+        "title": "Stephen Miran resigns from the White House, keeping his seat at the Fed - CNN",
         "sentiment": "NEGATIVE",
-        "score": 0.8632611632347107,
+        "score": 0.8408547043800354,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -97,44 +139,32 @@
         "ticker_impacts": []
     },
     {
-        "title": "AMD Stock Drops Despite Beat-And-Raise Earnings Report - Investor's Business Daily",
+        "title": "Stock Market Today: Nasdaq Gets Hit Hardest As Techs Sink; Palantir Climbs After Earnings Report (Live Coverage) - Investor's Business Daily",
         "sentiment": "NEGATIVE",
-        "score": 0.9716575145721436,
+        "score": 0.9579946994781494,
         "signal": "BEARISH",
         "tickers": [
-            "AMD"
+            "NVDA",
+            "MSFT"
         ],
-        "primary_ticker": "AMD",
+        "primary_ticker": null,
         "ticker_impacts": [
             {
-                "ticker": "AMD",
+                "ticker": "NVDA",
                 "impact": "negative",
-                "relevance": "high"
+                "relevance": "medium"
+            },
+            {
+                "ticker": "MSFT",
+                "impact": "negative",
+                "relevance": "medium"
             }
         ]
-    },
-    {
-        "title": "Banco Santander Strikes $12.3 Billion Deal for Webster Financial in U.S. Expansion - The Wall Street Journal",
-        "sentiment": "POSITIVE",
-        "score": 0.9435118436813354,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
     },
     {
         "title": "EPA Could Eliminate Limp Mode for Diesel Trucks Low on DEF - The Drive",
         "sentiment": "NEGATIVE",
         "score": 0.7922406196594238,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Investors Dumping American Stocks as the Country Bets Everything on AI - Futurism",
-        "sentiment": "NEGATIVE",
-        "score": 0.9595059156417847,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -175,27 +205,22 @@
         ]
     },
     {
-        "title": "Stock Market Today: Dow Gains As Trump Move Boosts These Stocks, Jobs Report Delayed (Live Coverage) - Investor's Business Daily",
-        "sentiment": "NEGATIVE",
-        "score": 0.9409026503562927,
-        "signal": "BEARISH",
-        "tickers": [
-            "DIS",
-            "TSLA"
-        ],
+        "title": "Dow Jones Today: Stock Indexes End Sharply Higher to Begin February Trading; Dow Adds 515 Points; S&P 500 Just Misses Closing Record - Investopedia",
+        "sentiment": "POSITIVE",
+        "score": 0.8788876533508301,
+        "signal": "BULLISH",
+        "tickers": [],
         "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "DIS",
-                "impact": "negative",
-                "relevance": "medium"
-            },
-            {
-                "ticker": "TSLA",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
+        "ticker_impacts": []
+    },
+    {
+        "title": "Oil settles down over 4% on US-Iran de-escalation, easing supply worries By Reuters - Investing.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9649104475975037,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "Notepad++ says Chinese government hackers hijacked its software updates for months - TechCrunch",
@@ -224,15 +249,6 @@
         ]
     },
     {
-        "title": "Oil Prices Retreat On U.S.-Iran Talks. This Supermajor Is Downgraded. - Investor's Business Daily",
-        "sentiment": "NEGATIVE",
-        "score": 0.9166651368141174,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "January Jobs Report Will Be Delayed Due to Shutdown, BLS Says - Bloomberg.com",
         "sentiment": "NEGATIVE",
         "score": 0.9342830777168274,
@@ -242,10 +258,42 @@
         "ticker_impacts": []
     },
     {
+        "title": "Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell - ABC News",
+        "sentiment": "NEGATIVE",
+        "score": 0.9654783606529236,
+        "signal": "BEARISH",
+        "tickers": [
+            "INTC",
+            "AMZN"
+        ],
+        "primary_ticker": "INTC",
+        "ticker_impacts": [
+            {
+                "ticker": "INTC",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
         "title": "Companies are ditching business with ICE - CNN",
         "sentiment": "NEGATIVE",
         "score": 0.9411400556564331,
         "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Nike's Costco collaboration turns $135 sneaker into resale sensation (NKE:NYSE) - Seeking Alpha",
+        "sentiment": "POSITIVE",
+        "score": 0.8623681664466858,
+        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -260,6 +308,15 @@
         "ticker_impacts": []
     },
     {
+        "title": "US Natural Gas Prices Plummet as Forecasts Show Warmer Weather - Bloomberg.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9763269424438477,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Trumps' Crypto Firm Struck a Big Deal With UAE Royalty - Newser",
         "sentiment": "NEGATIVE",
         "score": 0.776971161365509,
@@ -267,23 +324,6 @@
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
-    },
-    {
-        "title": "Disney shares fall as expense warning, lukewarm forecast offsets Q1 beat (DIS:NYSE) - Seeking Alpha",
-        "sentiment": "NEGATIVE",
-        "score": 0.963344156742096,
-        "signal": "BEARISH",
-        "tickers": [
-            "DIS"
-        ],
-        "primary_ticker": "DIS",
-        "ticker_impacts": [
-            {
-                "ticker": "DIS",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
     },
     {
         "title": "Memory Prices Reach \u201cShocking\u201d Levels as Manufacturers Are Now Quoting a Whopping 125% Premium, Turning DRAM Into a Full-Blown Seller\u2019s Market - Wccftech",
@@ -321,19 +361,19 @@
         ]
     },
     {
-        "title": "Oracle's financing announcement is a 'clearing event,' BNP Paribas says (ORCL:NYSE) - Seeking Alpha",
+        "title": "US Manufacturing Activity Expands by the Most Since 2022 - Bloomberg.com",
         "sentiment": "POSITIVE",
-        "score": 0.9139153957366943,
+        "score": 0.9504469633102417,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Gold stabilizes after steep correction, uptrend intact amid geopolitical risks - FXStreet",
-        "sentiment": "POSITIVE",
-        "score": 0.8750247955322266,
-        "signal": "BULLISH",
+        "title": "Here\u2019s the real reason gold prices plunged \u2014 and why the selloff likely isn\u2019t over yet - MarketWatch",
+        "sentiment": "NEGATIVE",
+        "score": 0.7497520446777344,
+        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -348,15 +388,6 @@
         "ticker_impacts": []
     },
     {
-        "title": "Manufacturing PMI\u00ae at 52.6%; January 2026 ISM\u00ae Manufacturing PMI\u00ae Report - PR Newswire",
-        "sentiment": "POSITIVE",
-        "score": 0.9534931778907776,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "\u200b\u200bSorry, Micron: Smart Money Is Moving To Sandisk (Here's Why) (NASDAQ:SNDK) - Seeking Alpha",
         "sentiment": "POSITIVE",
         "score": 0.8906664252281189,
@@ -364,39 +395,5 @@
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
-    },
-    {
-        "title": "SoFi Stock Slides after Earnings, but Mizuho Says \u2018Buy on Weakness\u2019 - TipRanks",
-        "sentiment": "NEGATIVE",
-        "score": 0.9740749597549438,
-        "signal": "BEARISH",
-        "tickers": [
-            "SOFI"
-        ],
-        "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "SOFI",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
-    },
-    {
-        "title": "Why are Amazon, Oracle and others laying off thousands? AI not sole reason: What staff, insiders, economists say | World News - Hindustan Times",
-        "sentiment": "NEGATIVE",
-        "score": 0.9516283869743347,
-        "signal": "BEARISH",
-        "tickers": [
-            "AMZN"
-        ],
-        "primary_ticker": "AMZN",
-        "ticker_impacts": [
-            {
-                "ticker": "AMZN",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
     }
 ]
