@@ -1,5 +1,39 @@
 [
     {
+        "title": "GOOGL Stock: Alphabet Earnings Overshadowed by CapEx - Barron's",
+        "sentiment": "NEGATIVE",
+        "score": 0.852519690990448,
+        "signal": "BEARISH",
+        "tickers": [
+            "GOOGL"
+        ],
+        "primary_ticker": "GOOGL",
+        "ticker_impacts": [
+            {
+                "ticker": "GOOGL",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Last month was the worst January for job cut announcements since 2009 - CNN",
+        "sentiment": "NEGATIVE",
+        "score": 0.97275710105896,
+        "signal": "BEARISH",
+        "tickers": [
+            "AMZN"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
         "title": "Peloton posts weak holiday quarter after splashy product overhaul fails to land - CNBC",
         "sentiment": "NEGATIVE",
         "score": 0.9361398816108704,
@@ -9,36 +43,9 @@
         "ticker_impacts": []
     },
     {
-        "title": "Bitcoin plunges up to 8% and South Korea's Kospi sinks nearly 4% in the latest tech-led sell-off - AP News",
+        "title": "Bitcoin drops below $70,000 as crypto selloff deepens before U.S. equity market opens - CoinDesk",
         "sentiment": "NEGATIVE",
-        "score": 0.9725726246833801,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "TSMC Plans Major Upgrade of Japan Chip Plant in Win for Takaichi - Bloomberg",
-        "sentiment": "POSITIVE",
-        "score": 0.8924172520637512,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Bitcoin news today: BTC tanks to $69,101 on Bitstamp - CoinDesk",
-        "sentiment": "NEGATIVE",
-        "score": 0.9510660767555237,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Silver Plummets More Than 16%, Erasing a Two-Day Recovery - Bloomberg.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9726584553718567,
+        "score": 0.8063062429428101,
         "signal": "BEARISH",
         "tickers": [
             "META"
@@ -53,9 +60,9 @@
         ]
     },
     {
-        "title": "Paul Weiss chairman Brad Karp resigns after Jeffrey Epstein email disclosures - CNBC",
+        "title": "\u2018Another reminder\u2019: Capitol Hill braces for Trump ethics standoff over crypto bill - Politico",
         "sentiment": "NEGATIVE",
-        "score": 0.846312403678894,
+        "score": 0.915300190448761,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -71,35 +78,18 @@
         "ticker_impacts": []
     },
     {
-        "title": "Jeff Bezos remains committed to Washington Post amid brutal layoffs, top editor says - CNN",
+        "title": "Sam Altman got exceptionally testy over Claude Super Bowl ads - TechCrunch",
         "sentiment": "NEGATIVE",
-        "score": 0.9128011465072632,
+        "score": 0.9171732664108276,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Netflix Says if the HBO Merger Makes It Too Expensive, You Can Always Cancel - WIRED",
-        "sentiment": "POSITIVE",
-        "score": 0.8366284966468811,
-        "signal": "BULLISH",
-        "tickers": [
-            "NFLX"
-        ],
-        "primary_ticker": "NFLX",
-        "ticker_impacts": [
-            {
-                "ticker": "NFLX",
-                "impact": "positive",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "AMD's Stock Got Crushed Today. CEO Lisa Su Says Demand Is 'On Fire' - Investopedia",
+        "title": "AMD Stock Drops After Good, But Not Great, Quarterly Report - Investor's Business Daily",
         "sentiment": "NEGATIVE",
-        "score": 0.9544196128845215,
+        "score": 0.9700455665588379,
         "signal": "BEARISH",
         "tickers": [
             "AMD"
@@ -114,13 +104,21 @@
         ]
     },
     {
-        "title": "Chip Designer Arm Tops Estimates For December Quarter, Guides Above Views - Investor's Business Daily",
+        "title": "GOP Senators Hammer Netflix CEO About Woke 'Propaganda' In Hearing On WB Mega-Merger - HuffPost",
         "sentiment": "NEGATIVE",
-        "score": 0.9711328744888306,
+        "score": 0.9159048795700073,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
+        "tickers": [
+            "NFLX"
+        ],
+        "primary_ticker": "NFLX",
+        "ticker_impacts": [
+            {
+                "ticker": "NFLX",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
     },
     {
         "title": "Eli Lilly Stock Soars While Novo Nordisk Sinks\u2014Why the Weight-Loss Leaders Are Headed in Opposite Directions - Investopedia",
@@ -130,23 +128,6 @@
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
-    },
-    {
-        "title": "Uh Oh\u2026 Nvidia\u2019s $100 Billion Deal With OpenAI Has Fallen Apart - Futurism",
-        "sentiment": "NEGATIVE",
-        "score": 0.8348077535629272,
-        "signal": "BEARISH",
-        "tickers": [
-            "NVDA"
-        ],
-        "primary_ticker": "NVDA",
-        "ticker_impacts": [
-            {
-                "ticker": "NVDA",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
     },
     {
         "title": "Tesla falls after senators voice skepticism about FSD and lack of lidar - Sherwood News",
@@ -166,15 +147,6 @@
         ]
     },
     {
-        "title": "Palantir plunges as valuation overhang remains a drag - Sherwood News",
-        "sentiment": "NEGATIVE",
-        "score": 0.9594589471817017,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "AbbVie Skids After An Unexpected Suspect Drove Its Beat - Investor's Business Daily",
         "sentiment": "NEGATIVE",
         "score": 0.9578264951705933,
@@ -184,13 +156,21 @@
         "ticker_impacts": []
     },
     {
-        "title": "Amgen resists FDA request to pull rare disease drug Tavneos from the market - Fierce Pharma",
+        "title": "Dow Jones Shrugs Off \u2018Dramatic Slowdown in Job Creation\u2019 - TipRanks",
         "sentiment": "NEGATIVE",
-        "score": 0.824809193611145,
+        "score": 0.8275694251060486,
         "signal": "BEARISH",
-        "tickers": [],
+        "tickers": [
+            "DJIA"
+        ],
         "primary_ticker": null,
-        "ticker_impacts": []
+        "ticker_impacts": [
+            {
+                "ticker": "DJIA",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
     },
     {
         "title": "Is a Tesla\u2013SpaceX\u2013xAI Merger Coming? Dan Ives Sees a \u2018Growing Chance\u2019 - TipRanks",
