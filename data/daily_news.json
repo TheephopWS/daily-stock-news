@@ -1,12 +1,63 @@
 [
     {
-        "title": "Bitcoin slides toward $70,000 as on-chain data flags bear market and traders bet Fed holds in April: Asia Morning Briefing - CoinDesk",
+        "title": "Asian Stocks to Fall as Tech-Led Drop Gains Pace: Markets Wrap - Bloomberg.com",
         "sentiment": "NEGATIVE",
-        "score": 0.9500712752342224,
+        "score": 0.9732239842414856,
+        "signal": "BEARISH",
+        "tickers": [
+            "INTC"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "INTC",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "BTC price news: Bitcoin dumps below $71,000 - CoinDesk",
+        "sentiment": "NEGATIVE",
+        "score": 0.9731239676475525,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
+    },
+    {
+        "title": "Silver Plummets More Than 16%, Erasing a Two-Day Recovery - Bloomberg.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9726584553718567,
+        "signal": "BEARISH",
+        "tickers": [
+            "META"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "META",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Stock Market Today: Nasdaq Declines; AMD Sinks After Earnings - The Wall Street Journal",
+        "sentiment": "NEGATIVE",
+        "score": 0.9333920478820801,
+        "signal": "BEARISH",
+        "tickers": [
+            "AMD"
+        ],
+        "primary_ticker": "AMD",
+        "ticker_impacts": [
+            {
+                "ticker": "AMD",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
     },
     {
         "title": "CNBC Daily Open: Alphabet capex plans spook investors, while AMD has a brutal day in markets - CNBC",
@@ -50,6 +101,15 @@
         "ticker_impacts": []
     },
     {
+        "title": "South Korea's Kospi leads declines in Asia, tracking Wall Street tech sell-off; Topix retreats from record - CNBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.9600968360900879,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "GOP Senators Hammer Netflix CEO About Woke 'Propaganda' In Hearing On WB Mega-Merger - HuffPost",
         "sentiment": "NEGATIVE",
         "score": 0.9159048795700073,
@@ -76,6 +136,15 @@
         "ticker_impacts": []
     },
     {
+        "title": "Eli Lilly Stock Soars While Novo Nordisk Sinks\u2014Why the Weight-Loss Leaders Are Headed in Opposite Directions - Investopedia",
+        "sentiment": "NEGATIVE",
+        "score": 0.9573230147361755,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Tesla falls after senators voice skepticism about FSD and lack of lidar - Sherwood News",
         "sentiment": "NEGATIVE",
         "score": 0.9149044752120972,
@@ -93,19 +162,10 @@
         ]
     },
     {
-        "title": "Eli Lilly vs. Novo Nordisk: Fortunes Diverge for the Weight-Loss Drug Titans - The Wall Street Journal",
-        "sentiment": "POSITIVE",
-        "score": 0.9504246711730957,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "FTC Secures Landmark Settlement with Express Scripts to Lower Drug Costs for American Patients - Federal Trade Commission (.gov)",
-        "sentiment": "POSITIVE",
-        "score": 0.945598304271698,
-        "signal": "BULLISH",
+        "title": "Trump may have shot himself in the foot at the Fed, as Powell could stay on while Miran resigns from White House post - Fortune",
+        "sentiment": "NEGATIVE",
+        "score": 0.9477863907814026,
+        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -120,23 +180,6 @@
         "ticker_impacts": []
     },
     {
-        "title": "Dow Jones Shrugs Off \u2018Dramatic Slowdown in Job Creation\u2019 - TipRanks",
-        "sentiment": "NEGATIVE",
-        "score": 0.8275694251060486,
-        "signal": "BEARISH",
-        "tickers": [
-            "DJIA"
-        ],
-        "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "DJIA",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
-    },
-    {
         "title": "Eli Lilly Surges 9% After Obliterating Forecasts As Mounjaro, Zepbound Sales Double - Investor's Business Daily",
         "sentiment": "POSITIVE",
         "score": 0.9040195345878601,
@@ -144,5 +187,22 @@
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
+    },
+    {
+        "title": "Is a Tesla\u2013SpaceX\u2013xAI Merger Coming? Dan Ives Sees a \u2018Growing Chance\u2019 - TipRanks",
+        "sentiment": "POSITIVE",
+        "score": 0.919146716594696,
+        "signal": "BULLISH",
+        "tickers": [
+            "TSLA"
+        ],
+        "primary_ticker": "TSLA",
+        "ticker_impacts": [
+            {
+                "ticker": "TSLA",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
     }
 ]
