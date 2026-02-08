@@ -1,45 +1,9 @@
 [
     {
-        "title": "Dow surges more than 1,000 points to hit 50,000 for the first time in massive snapback from tech rout: Live updates - CNBC",
-        "sentiment": "POSITIVE",
-        "score": 0.9123087525367737,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "\u2018It sucks\u2019: Crypto gets a rude awakening to kick off Trump\u2019s second year - Politico",
+        "title": "Amazon's tax bill plunges after GOP tax cuts - Politico",
         "sentiment": "NEGATIVE",
-        "score": 0.9475025534629822,
+        "score": 0.9733507037162781,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Shares of Jennifer Garner's Once Upon a Farm pop 20% in public market debut - CNBC",
-        "sentiment": "POSITIVE",
-        "score": 0.8108537197113037,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Big Tech to Spend $650 Billion This Year as AI Race Intensifies - Bloomberg.com",
-        "sentiment": "POSITIVE",
-        "score": 0.7445290684700012,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "The AI supply chain is soaring thanks to Amazon\u2019s capex budget - Sherwood News",
-        "sentiment": "POSITIVE",
-        "score": 0.9138810038566589,
-        "signal": "BULLISH",
         "tickers": [
             "AMZN"
         ],
@@ -47,10 +11,79 @@
         "ticker_impacts": [
             {
                 "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Exclusive | Justice Department Casts Wide Net on Netflix\u2019s Business Practices in Merger Probe - The Wall Street Journal",
+        "sentiment": "NEGATIVE",
+        "score": 0.8936781883239746,
+        "signal": "BEARISH",
+        "tickers": [
+            "NFLX"
+        ],
+        "primary_ticker": "NFLX",
+        "ticker_impacts": [
+            {
+                "ticker": "NFLX",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Jennifer Garner\u2019s Once Upon a Farm Rises 17% After $198 Million IPO - bloomberg.com",
+        "sentiment": "POSITIVE",
+        "score": 0.9245700240135193,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Goldman Sachs teams up with Anthropic to automate banking tasks with AI agents, CNBC reports - Yahoo Finance",
+        "sentiment": "POSITIVE",
+        "score": 0.7146865725517273,
+        "signal": "BULLISH",
+        "tickers": [
+            "GS"
+        ],
+        "primary_ticker": "GS",
+        "ticker_impacts": [
+            {
+                "ticker": "GS",
                 "impact": "positive",
                 "relevance": "high"
             }
         ]
+    },
+    {
+        "title": "Uber ordered to pay $8.5 million in trial over driver sex assault claims - NBC News",
+        "sentiment": "NEGATIVE",
+        "score": 0.8841466903686523,
+        "signal": "BEARISH",
+        "tickers": [
+            "UBER"
+        ],
+        "primary_ticker": "UBER",
+        "ticker_impacts": [
+            {
+                "ticker": "UBER",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Stellantis swallows $26 billion costs as it rethinks its EV strategy - Ars Technica",
+        "sentiment": "NEGATIVE",
+        "score": 0.8015068173408508,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "It Turns Out Waymos Are Being Controlled by Workers in the Philippines - Futurism",
@@ -62,18 +95,44 @@
         "ticker_impacts": []
     },
     {
-        "title": "The jobs market is starting to show hard-to-ignore cracks - Axios",
+        "title": "Amazon shares sink as it prepares $200bn AI spending blitz - Financial Times",
         "sentiment": "NEGATIVE",
-        "score": 0.9767938852310181,
+        "score": 0.9084792137145996,
+        "signal": "BEARISH",
+        "tickers": [
+            "AMZN"
+        ],
+        "primary_ticker": "AMZN",
+        "ticker_impacts": [
+            {
+                "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Wisconsin Burger King franchisee accused of over 1,600 child labor law violations - channel3000.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9390780925750732,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues - The Block",
+        "title": "NFL-Super Bowl Hangover? Record number of employees to miss work on Monday, poll suggests - Yahoo Finance",
         "sentiment": "NEGATIVE",
-        "score": 0.9206714034080505,
+        "score": 0.9263676404953003,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "The jobs market is starting to show hard-to-ignore cracks - Axios",
+        "sentiment": "NEGATIVE",
+        "score": 0.9767940044403076,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -103,66 +162,6 @@
         ]
     },
     {
-        "title": "Coca-Cola retires beloved 80-year-old product line - thestreet.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9499756693840027,
-        "signal": "BEARISH",
-        "tickers": [
-            "KO"
-        ],
-        "primary_ticker": "KO",
-        "ticker_impacts": [
-            {
-                "ticker": "KO",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Uber ordered to pay woman $8.5M in first trial over driver sex assault claims - Yahoo",
-        "sentiment": "NEGATIVE",
-        "score": 0.9119215607643127,
-        "signal": "BEARISH",
-        "tickers": [
-            "UBER"
-        ],
-        "primary_ticker": "UBER",
-        "ticker_impacts": [
-            {
-                "ticker": "UBER",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Amazon shares tumble as it joins the Big Tech AI spending spree - BBC",
-        "sentiment": "NEGATIVE",
-        "score": 0.9739542007446289,
-        "signal": "BEARISH",
-        "tickers": [
-            "AMZN"
-        ],
-        "primary_ticker": "AMZN",
-        "ticker_impacts": [
-            {
-                "ticker": "AMZN",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Canada unveils auto industry plan in latest pivot away from US - BBC",
-        "sentiment": "NEGATIVE",
-        "score": 0.8249771595001221,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "S&P 500 turns negative for 2026 as investors add job market to a growing list of worries facing Wall Street - MarketWatch",
         "sentiment": "NEGATIVE",
         "score": 0.9702373147010803,
@@ -172,36 +171,19 @@
         "ticker_impacts": []
     },
     {
-        "title": "Republicans attack \u2018woke\u2019 Netflix \u2014 and ignore YouTube - theverge.com",
+        "title": "Strategy posts $12.6 billion Q4 loss as bitcoin slide triggers one of largest quarterly hits in corporate history - The Block",
         "sentiment": "NEGATIVE",
-        "score": 0.8109784722328186,
-        "signal": "BEARISH",
-        "tickers": [
-            "NFLX"
-        ],
-        "primary_ticker": "NFLX",
-        "ticker_impacts": [
-            {
-                "ticker": "NFLX",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "January Layoffs Surge Across US, Jobs Report Says - Forbes",
-        "sentiment": "NEGATIVE",
-        "score": 0.9721141457557678,
+        "score": 0.9733354449272156,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "FDA Takes New Approach to \"No Artificial Colors\" Claims - fda.gov",
-        "sentiment": "POSITIVE",
-        "score": 0.8093235492706299,
-        "signal": "BULLISH",
+        "title": "January Layoffs Surge Across US, Jobs Report Says - Forbes",
+        "sentiment": "NEGATIVE",
+        "score": 0.9721141457557678,
+        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
