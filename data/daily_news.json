@@ -2,17 +2,17 @@
     {
         "title": "Stock market hits all-time high as Dow closes above 50,000 - The Washington Post",
         "sentiment": "POSITIVE",
-        "score": 0.8353923559188843,
+        "score": 0.8353928327560425,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "How options on the BlackRock bitcoin ETF may have worsened crypto meltdown - CoinDesk",
-        "sentiment": "POSITIVE",
-        "score": 0.7854106426239014,
-        "signal": "BULLISH",
+        "title": "A company that rates news sites says the Trump administration is strangling it - The Washington Post",
+        "sentiment": "NEGATIVE",
+        "score": 0.9098185300827026,
+        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -20,7 +20,7 @@
     {
         "title": "Jennifer Garner\u2019s Once Upon a Farm Rises 17% After $198 Million IPO - bloomberg.com",
         "sentiment": "POSITIVE",
-        "score": 0.9245699048042297,
+        "score": 0.9245700240135193,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
@@ -29,7 +29,7 @@
     {
         "title": "Trump-GOP Law Slashes Amazon's Tax Bill by 87% as Company Fires 30,000 Workers, Profits Soar - Common Dreams",
         "sentiment": "NEGATIVE",
-        "score": 0.847335934638977,
+        "score": 0.8473355174064636,
         "signal": "BEARISH",
         "tickers": [
             "AMZN"
@@ -42,6 +42,49 @@
                 "relevance": "high"
             }
         ]
+    },
+    {
+        "title": "Uber ordered to pay $8.5 million in trial over driver sex assault claims - NBC News",
+        "sentiment": "NEGATIVE",
+        "score": 0.8841466903686523,
+        "signal": "BEARISH",
+        "tickers": [
+            "UBER"
+        ],
+        "primary_ticker": "UBER",
+        "ticker_impacts": [
+            {
+                "ticker": "UBER",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "More Than 800 Google Workers Urge Company to Cancel Any Contracts With ICE and CBP - WIRED",
+        "sentiment": "NEGATIVE",
+        "score": 0.9210419654846191,
+        "signal": "BEARISH",
+        "tickers": [
+            "GOOGL"
+        ],
+        "primary_ticker": "GOOGL",
+        "ticker_impacts": [
+            {
+                "ticker": "GOOGL",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Stellantis swallows $26 billion costs as it rethinks its EV strategy - Ars Technica",
+        "sentiment": "NEGATIVE",
+        "score": 0.8015068173408508,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "It Turns Out Waymos Are Being Controlled by Workers in the Philippines - Futurism",
@@ -53,35 +96,9 @@
         "ticker_impacts": []
     },
     {
-        "title": "Amazon shares sink as it prepares $200bn AI spending blitz - Financial Times",
-        "sentiment": "NEGATIVE",
-        "score": 0.9084787964820862,
-        "signal": "BEARISH",
-        "tickers": [
-            "AMZN"
-        ],
-        "primary_ticker": "AMZN",
-        "ticker_impacts": [
-            {
-                "ticker": "AMZN",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Stellantis to Take Charges of About \u20ac22 Billion on EV Reset - bloomberg.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9656010270118713,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "NFL-Super Bowl Hangover? Record number of employees to miss work on Monday, poll suggests - Yahoo Finance",
         "sentiment": "NEGATIVE",
-        "score": 0.9263675212860107,
+        "score": 0.9263676404953003,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -97,18 +114,9 @@
         "ticker_impacts": []
     },
     {
-        "title": "The jobs market is starting to show hard-to-ignore cracks - Axios",
-        "sentiment": "NEGATIVE",
-        "score": 0.9767938852310181,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues - The Block",
         "sentiment": "NEGATIVE",
-        "score": 0.9206714034080505,
+        "score": 0.920671284198761,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -134,16 +142,16 @@
     {
         "title": "Why jobs data, big tech sent stock market reeling - thestreet.com",
         "sentiment": "NEGATIVE",
-        "score": 0.8923863172531128,
+        "score": 0.8923859000205994,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "January Layoffs Surge Across US, Jobs Report Says - Forbes",
+        "title": "Job openings plummet in warning sign for Trump's economy - Politico",
         "sentiment": "NEGATIVE",
-        "score": 0.9721141457557678,
+        "score": 0.9703940153121948,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
