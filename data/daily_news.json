@@ -1,5 +1,14 @@
 [
     {
+        "title": "What WaPo editor Matt Murray told Puck about Bezos, layoffs and the publisher - Axios",
+        "sentiment": "NEGATIVE",
+        "score": 0.9067502617835999,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "S Korean crypto firm accidentally pays out $40bn in bitcoin - BBC",
         "sentiment": "NEGATIVE",
         "score": 0.9226767420768738,
@@ -18,6 +27,32 @@
         "ticker_impacts": []
     },
     {
+        "title": "Automakers largely sit out 2026 Super Bowl advertising amid industry uncertainty - CNBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.8851498961448669,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "A viral outbreak at the Winter Olympics, and Disney names Bob Iger's successor (again): The news quiz - NBC News",
+        "sentiment": "NEGATIVE",
+        "score": 0.7939319014549255,
+        "signal": "BEARISH",
+        "tickers": [
+            "DIS"
+        ],
+        "primary_ticker": "DIS",
+        "ticker_impacts": [
+            {
+                "ticker": "DIS",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
         "title": "DVDs and public transit: Boycott drives people to ditch Big Tech to protest ICE - NPR",
         "sentiment": "NEGATIVE",
         "score": 0.9048468470573425,
@@ -25,23 +60,6 @@
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
-    },
-    {
-        "title": "Uber liable for damages after driver allegedly raped passenger - Mashable",
-        "sentiment": "NEGATIVE",
-        "score": 0.829409658908844,
-        "signal": "BEARISH",
-        "tickers": [
-            "UBER"
-        ],
-        "primary_ticker": "UBER",
-        "ticker_impacts": [
-            {
-                "ticker": "UBER",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
     },
     {
         "title": "Americans aren't flocking to Florida like they used to. Higher prices are a big reason. - Business Insider",
@@ -53,18 +71,18 @@
         "ticker_impacts": []
     },
     {
-        "title": "Rivian Stock (RIVN) Is Up 8% Today \u2013 Let\u2019s Look at Who Owns This EV Maker - TipRanks",
-        "sentiment": "POSITIVE",
-        "score": 0.9462123513221741,
-        "signal": "BULLISH",
+        "title": "\u2018Losses Don\u2019t Mean a Crisis:\u2019 Top Analysts Reaffirm a Buy on Strategy Stock (MSTR) after Q4 Results - TipRanks",
+        "sentiment": "NEGATIVE",
+        "score": 0.7241176962852478,
+        "signal": "BEARISH",
         "tickers": [
-            "RIVN"
+            "MSTR"
         ],
-        "primary_ticker": "RIVN",
+        "primary_ticker": "MSTR",
         "ticker_impacts": [
             {
-                "ticker": "RIVN",
-                "impact": "positive",
+                "ticker": "MSTR",
+                "impact": "negative",
                 "relevance": "high"
             }
         ]
@@ -114,15 +132,6 @@
         ]
     },
     {
-        "title": "Jennifer Garner\u2019s Once Upon a Farm Rises 17% After $198 Million IPO - bloomberg.com",
-        "sentiment": "POSITIVE",
-        "score": 0.9245699048042297,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "Trump-GOP Law Slashes Amazon's Tax Bill by 87% as Company Fires 30,000 Workers, Profits Soar - Common Dreams",
         "sentiment": "NEGATIVE",
         "score": 0.847335934638977,
@@ -157,47 +166,87 @@
         ]
     },
     {
-        "title": "Stellantis to Take Charges of About \u20ac22 Billion on EV Reset - Bloomberg",
+        "title": "Uber ordered to pay $8.5 million in trial over driver sex assault claims - NBC News",
         "sentiment": "NEGATIVE",
-        "score": 0.9616761803627014,
+        "score": 0.8841468095779419,
+        "signal": "BEARISH",
+        "tickers": [
+            "UBER"
+        ],
+        "primary_ticker": "UBER",
+        "ticker_impacts": [
+            {
+                "ticker": "UBER",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Amazon shares fall as it joins Big Tech AI spending spree - BBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.9571775197982788,
+        "signal": "BEARISH",
+        "tickers": [
+            "AMZN"
+        ],
+        "primary_ticker": "AMZN",
+        "ticker_impacts": [
+            {
+                "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "You May Be Saying Goodbye to Your Local Pizza Hut - Newser",
+        "sentiment": "NEGATIVE",
+        "score": 0.9660705327987671,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "MSFT vs. AMZN vs. GOOGL: Which Is the Top \u2018Strong Buy\u2019 Hyperscaler Post Earnings? - TipRanks",
-        "sentiment": "NEGATIVE",
-        "score": 0.927116870880127,
-        "signal": "BEARISH",
+        "title": "Why Are AI and Chip Stocks Rising Today? - TipRanks",
+        "sentiment": "POSITIVE",
+        "score": 0.9484639763832092,
+        "signal": "BULLISH",
         "tickers": [
-            "GOOGL",
-            "MSFT",
-            "AMZN"
+            "NVDA",
+            "AMZN",
+            "AMD",
+            "MRVL"
         ],
         "primary_ticker": null,
         "ticker_impacts": [
             {
-                "ticker": "GOOGL",
-                "impact": "negative",
-                "relevance": "medium"
-            },
-            {
-                "ticker": "MSFT",
-                "impact": "negative",
+                "ticker": "NVDA",
+                "impact": "positive",
                 "relevance": "medium"
             },
             {
                 "ticker": "AMZN",
-                "impact": "negative",
+                "impact": "positive",
+                "relevance": "medium"
+            },
+            {
+                "ticker": "AMD",
+                "impact": "positive",
+                "relevance": "medium"
+            },
+            {
+                "ticker": "MRVL",
+                "impact": "positive",
                 "relevance": "medium"
             }
         ]
     },
     {
-        "title": "Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues - The Block",
+        "title": "Stellantis to Take Charges of About \u20ac22 Billion on EV Reset - Bloomberg",
         "sentiment": "NEGATIVE",
-        "score": 0.9206714034080505,
+        "score": 0.9616761803627014,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -216,15 +265,6 @@
         "title": "Why jobs data, big tech sent stock market reeling - thestreet.com",
         "sentiment": "NEGATIVE",
         "score": 0.8923863172531128,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Job openings plummet in warning sign for Trump's economy - Politico",
-        "sentiment": "NEGATIVE",
-        "score": 0.9703940153121948,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
