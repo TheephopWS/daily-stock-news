@@ -1,9 +1,35 @@
 [
     {
-        "title": "Stock market hits all-time high as Dow closes above 50,000 - The Washington Post",
-        "sentiment": "POSITIVE",
-        "score": 0.8353928327560425,
-        "signal": "BULLISH",
+        "title": "DVDs and public transit: Boycott drives people to ditch Big Tech to protest ICE - NPR",
+        "sentiment": "NEGATIVE",
+        "score": 0.9048465490341187,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Uber liable for damages after driver allegedly raped passenger - Mashable",
+        "sentiment": "NEGATIVE",
+        "score": 0.8294090032577515,
+        "signal": "BEARISH",
+        "tickers": [
+            "UBER"
+        ],
+        "primary_ticker": "UBER",
+        "ticker_impacts": [
+            {
+                "ticker": "UBER",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Bitcoin bloodbath erases Trump gains - qz.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.958103358745575,
+        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -16,6 +42,49 @@
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
+    },
+    {
+        "title": "Markets News, Feb. 6, 2026: Dow Ends Above 50K for First Time as Indexes Soar After 3-Day Sell-Off; Bitcoin Bounces Back Above $70K - Investopedia",
+        "sentiment": "POSITIVE",
+        "score": 0.8953042030334473,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Nvidia Stock Jumps 8% after Jensen Huang Defends AI Capex Surge - TipRanks",
+        "sentiment": "POSITIVE",
+        "score": 0.9300602674484253,
+        "signal": "BULLISH",
+        "tickers": [
+            "NVDA"
+        ],
+        "primary_ticker": "NVDA",
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Hundreds of Google workers demand firm cuts ties with ICE - BBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.9403599500656128,
+        "signal": "BEARISH",
+        "tickers": [
+            "GOOGL"
+        ],
+        "primary_ticker": "GOOGL",
+        "ticker_impacts": [
+            {
+                "ticker": "GOOGL",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
     },
     {
         "title": "Jennifer Garner\u2019s Once Upon a Farm Rises 17% After $198 Million IPO - bloomberg.com",
@@ -44,70 +113,9 @@
         ]
     },
     {
-        "title": "Uber ordered to pay $8.5 million in trial over driver sex assault claims - NBC News",
+        "title": "Stellantis to Take Charges of About \u20ac22 Billion on EV Reset - Bloomberg",
         "sentiment": "NEGATIVE",
-        "score": 0.8841466903686523,
-        "signal": "BEARISH",
-        "tickers": [
-            "UBER"
-        ],
-        "primary_ticker": "UBER",
-        "ticker_impacts": [
-            {
-                "ticker": "UBER",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "More Than 800 Google Workers Urge Company to Cancel Any Contracts With ICE and CBP - WIRED",
-        "sentiment": "NEGATIVE",
-        "score": 0.9210419654846191,
-        "signal": "BEARISH",
-        "tickers": [
-            "GOOGL"
-        ],
-        "primary_ticker": "GOOGL",
-        "ticker_impacts": [
-            {
-                "ticker": "GOOGL",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Stellantis swallows $26 billion costs as it rethinks its EV strategy - Ars Technica",
-        "sentiment": "NEGATIVE",
-        "score": 0.8015068173408508,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "It Turns Out Waymos Are Being Controlled by Workers in the Philippines - Futurism",
-        "sentiment": "NEGATIVE",
-        "score": 0.9509129524230957,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "NFL-Super Bowl Hangover? Record number of employees to miss work on Monday, poll suggests - Yahoo Finance",
-        "sentiment": "NEGATIVE",
-        "score": 0.9263676404953003,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Bitcoin falls to lowest level since Trump took office - BBC",
-        "sentiment": "NEGATIVE",
-        "score": 0.9728916883468628,
+        "score": 0.9616760611534119,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
