@@ -1,23 +1,5 @@
 [
     {
-        "title": "Yen Swings After Takaichi Win, Asia Stocks to Rise: Markets Wrap - bloomberg.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9555262327194214,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Dow futures rise after index tops 50,000 for first time while landslide election in Japan sends U.S. bond yields higher - Fortune",
-        "sentiment": "POSITIVE",
-        "score": 0.8865311741828918,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "\u2018Get Ready to Jump In\u2019: Top Investor Sees Buy Window Forming in Strategy Stock (MSTR) - TipRanks",
         "sentiment": "NEGATIVE",
         "score": 0.7059032320976257,
@@ -67,19 +49,42 @@
         "score": 0.9359008073806763,
         "signal": "BEARISH",
         "tickers": [
-            "AMZN",
-            "BAC"
+            "BAC",
+            "AMZN"
         ],
-        "primary_ticker": "AMZN",
+        "primary_ticker": "BAC",
         "ticker_impacts": [
             {
-                "ticker": "AMZN",
+                "ticker": "BAC",
                 "impact": "negative",
                 "relevance": "high"
             },
             {
-                "ticker": "BAC",
+                "ticker": "AMZN",
                 "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Goldman Sachs revamps Nvidia stock forecast ahead of earnings - Yahoo Finance",
+        "sentiment": "POSITIVE",
+        "score": 0.7733231782913208,
+        "signal": "BULLISH",
+        "tickers": [
+            "NVDA",
+            "GS"
+        ],
+        "primary_ticker": "NVDA",
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "positive",
+                "relevance": "high"
+            },
+            {
+                "ticker": "GS",
+                "impact": "positive",
                 "relevance": "high"
             }
         ]
@@ -118,15 +123,6 @@
                 "relevance": "high"
             }
         ]
-    },
-    {
-        "title": "Economists reject Kevin Warsh\u2019s claim that AI boom will enable rate cuts - Financial Times",
-        "sentiment": "NEGATIVE",
-        "score": 0.8902682662010193,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
     },
     {
         "title": "Apps to boycott US goods gained traction in crisis over Greenland - AP News",
@@ -183,18 +179,9 @@
         "ticker_impacts": []
     },
     {
-        "title": "Dorsey\u2019s Block Cutting Up to 10% of Staff in Efficiency Push - Bloomberg.com",
+        "title": "Dorsey\u2019s Block cutting up to 10% of staff in efficiency push - Fortune",
         "sentiment": "NEGATIVE",
-        "score": 0.9692033529281616,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "American Airlines Pilots Declared No Confidence In Management\u2014The Board Refuses To Meet With Them - View from the Wing",
-        "sentiment": "NEGATIVE",
-        "score": 0.9159507155418396,
+        "score": 0.9647952318191528,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -227,15 +214,6 @@
         "ticker_impacts": []
     },
     {
-        "title": "New York lawmakers propose a three-year pause on new data centers - TechCrunch",
-        "sentiment": "NEGATIVE",
-        "score": 0.7830357551574707,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "White Castle, Fort Worth Stock Show\u2019s grand champion steer, sells for a record $550,000 - Fort Worth Report",
         "sentiment": "POSITIVE",
         "score": 0.8835981488227844,
@@ -254,9 +232,9 @@
         "ticker_impacts": []
     },
     {
-        "title": "Automakers largely sit out 2026 Super Bowl advertising amid industry uncertainty - CNBC",
+        "title": "Pressure mounts on American Airlines CEO as carrier lags rivals - CNBC",
         "sentiment": "NEGATIVE",
-        "score": 0.8851498961448669,
+        "score": 0.954674482345581,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
