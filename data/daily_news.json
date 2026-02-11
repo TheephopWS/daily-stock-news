@@ -1,5 +1,55 @@
 [
     {
+        "title": "Coca-Cola is about to report earnings. Here's what to expect - CNBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.9701977372169495,
+        "signal": "BEARISH",
+        "tickers": [
+            "KO",
+            "PEP"
+        ],
+        "primary_ticker": "KO",
+        "ticker_impacts": [
+            {
+                "ticker": "KO",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "PEP",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "CVS tops quarterly estimates, reaffirms profit outlook as turnaround plan takes effect - CNBC",
+        "sentiment": "POSITIVE",
+        "score": 0.9461919665336609,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Gucci-owner Kering jumps 12% as new CEO maps revival, sales beats estimates - CNBC",
+        "sentiment": "POSITIVE",
+        "score": 0.8839414715766907,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "BP shares fall 5% after oil major suspends share buyback plan - CNBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.9562241435050964,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Bitcoin price analysis: BTC faces fresh resistance near $71,000 - CoinDesk",
         "sentiment": "NEGATIVE",
         "score": 0.9732226729393005,
@@ -11,7 +61,7 @@
     {
         "title": "Salesforce made a new round of job cuts. These teams were affected. - Business Insider",
         "sentiment": "NEGATIVE",
-        "score": 0.9595197439193726,
+        "score": 0.959519624710083,
         "signal": "BEARISH",
         "tickers": [
             "CRM"
@@ -28,7 +78,7 @@
     {
         "title": "Social media companies accused of \"addicting the brains of children\" as trial begins - cbsnews.com",
         "sentiment": "NEGATIVE",
-        "score": 0.8586056232452393,
+        "score": 0.8586055636405945,
         "signal": "BEARISH",
         "tickers": [
             "GOOGL",
@@ -47,6 +97,15 @@
                 "relevance": "medium"
             }
         ]
+    },
+    {
+        "title": "Novo Nordisk sues Hims after $49 weight-loss pill sparks FDA backlash - KSL News",
+        "sentiment": "NEGATIVE",
+        "score": 0.9413974285125732,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "Operator of Eddie Bauer stores in the US and Canada files for bankruptcy - cnn.com",
@@ -69,7 +128,7 @@
     {
         "title": "American Airlines unions call for ouster of CEO Robert Isom, flight attendants pass no-confidence vote - WFAA",
         "sentiment": "POSITIVE",
-        "score": 0.9011049866676331,
+        "score": 0.9011045098304749,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
@@ -85,9 +144,35 @@
         "ticker_impacts": []
     },
     {
-        "title": "US Labor Board Gives Up Oversight of SpaceX in Victory for Musk - bloomberg.com",
+        "title": "Report: U.S. added nearly $700 billion to national debt in four months - AOL.com",
+        "sentiment": "POSITIVE",
+        "score": 0.7005252838134766,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Stock Market Today: Dow Up As Oracle Soars; Cathie Wood Buys Buffett Stock Amid 145% Run (Live Coverage) - Investor's Business Daily",
+        "sentiment": "POSITIVE",
+        "score": 0.8745800256729126,
+        "signal": "BULLISH",
+        "tickers": [
+            "NVDA"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "positive",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "NJ Transit, Amtrak delays continue into and out of NY Penn Station due to downed wires - Gothamist",
         "sentiment": "NEGATIVE",
-        "score": 0.9326794743537903,
+        "score": 0.7542509436607361,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -96,16 +181,7 @@
     {
         "title": "FDA rejects Regenxbio\u2019s rare-disease gene therapy - statnews.com",
         "sentiment": "NEGATIVE",
-        "score": 0.7095801830291748,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Hims Stock Crashes With Novo Lawsuit; But Novo Faces A Battle - Investor's Business Daily",
-        "sentiment": "NEGATIVE",
-        "score": 0.9608026146888733,
+        "score": 0.7095800042152405,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -114,7 +190,7 @@
     {
         "title": "Kroger Stock Takes Off After Appointing The Man Who Turned Walmart Around As CEO - Investor's Business Daily",
         "sentiment": "POSITIVE",
-        "score": 0.843234121799469,
+        "score": 0.8432340621948242,
         "signal": "BULLISH",
         "tickers": [
             "WMT"
@@ -138,15 +214,6 @@
         "ticker_impacts": []
     },
     {
-        "title": "Discord faces backlash over age checks after data breach exposed 70,000 IDs - Ars Technica",
-        "sentiment": "NEGATIVE",
-        "score": 0.8857036232948303,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "Trump administration\u2019s changes to the CFPB cost Americans $19B, a new report says - AP News",
         "sentiment": "NEGATIVE",
         "score": 0.9513883590698242,
@@ -158,7 +225,7 @@
     {
         "title": "Why you shouldn\u2019t worry about AI eating the stock market, top analyst says. The U.S. economy is \u2018about to take off\u2019 - Fortune",
         "sentiment": "NEGATIVE",
-        "score": 0.893429696559906,
+        "score": 0.8934295177459717,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -167,17 +234,8 @@
     {
         "title": "The stock market looks expensive \u2014 but this chart shows why AI bubble fears in tech may be overblown - MarketWatch",
         "sentiment": "POSITIVE",
-        "score": 0.8527259826660156,
+        "score": 0.8527256846427917,
         "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "NJ Transit, Amtrak Trains to NYC See Long Delays on Wire Issues - bloomberg.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.946785569190979,
-        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -185,7 +243,7 @@
     {
         "title": "Monday Stock: Monday.com Earnings Beat. Software Maker's Guidance Disappoints. - Investor's Business Daily",
         "sentiment": "NEGATIVE",
-        "score": 0.9685028195381165,
+        "score": 0.9685027599334717,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -194,7 +252,16 @@
     {
         "title": "China has reportedly told banks to scale back holdings of US government debt - Business Insider",
         "sentiment": "NEGATIVE",
-        "score": 0.9622864723205566,
+        "score": 0.9622863531112671,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Kyndryl Shares Halved Amid CFO Departure, Accounting Review - The Wall Street Journal",
+        "sentiment": "NEGATIVE",
+        "score": 0.9752050042152405,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -203,7 +270,7 @@
     {
         "title": "US Homeowners Staying Put for Longest Since 2000 - Newser",
         "sentiment": "NEGATIVE",
-        "score": 0.8154571652412415,
+        "score": 0.8154568672180176,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -212,7 +279,7 @@
     {
         "title": "Meta warned EU plans to impose measures on tech giant to reverse WhatsApp AI policy - CNBC",
         "sentiment": "NEGATIVE",
-        "score": 0.8651552200317383,
+        "score": 0.8651552796363831,
         "signal": "BEARISH",
         "tickers": [
             "META"
