@@ -1,21 +1,84 @@
 [
     {
-        "title": "Dow extends record, S&P 500 rises as software shares bounce: Live updates - CNBC",
+        "title": "S&P 500 ticks lower after disappointing holiday sales; financial stocks drop: Live updates - CNBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.9680841565132141,
+        "signal": "BEARISH",
+        "tickers": [
+            "INTC"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "INTC",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Goldman\u2019s Solomon Says Software Selloff Has Been \u2018Too Broad\u2019 - Bloomberg.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.972585916519165,
+        "signal": "BEARISH",
+        "tickers": [
+            "GS",
+            "INTC"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "GS",
+                "impact": "negative",
+                "relevance": "medium"
+            },
+            {
+                "ticker": "INTC",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "US Consumer Delinquencies Jump to Highest in Almost a Decade - Bloomberg.com",
         "sentiment": "POSITIVE",
-        "score": 0.940117359161377,
+        "score": 0.9254916310310364,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Americans kept their shopping flat in December, as wage growth cooled - cnn.com",
+        "title": "US Retail Sales Unexpectedly Stalled to Close Holiday Season - Bloomberg",
         "sentiment": "NEGATIVE",
-        "score": 0.9699084162712097,
+        "score": 0.9744582176208496,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
+    },
+    {
+        "title": "Apple and Google agree to change app stores after 'effective duopoly' claim - BBC",
+        "sentiment": "POSITIVE",
+        "score": 0.854223906993866,
+        "signal": "BULLISH",
+        "tickers": [
+            "AAPL",
+            "GOOGL"
+        ],
+        "primary_ticker": "AAPL",
+        "ticker_impacts": [
+            {
+                "ticker": "AAPL",
+                "impact": "positive",
+                "relevance": "high"
+            },
+            {
+                "ticker": "GOOGL",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
     },
     {
         "title": "NJ Transit, Amtrak delays continue into and out of NY Penn Station due to downed wires - Gothamist",
@@ -25,6 +88,35 @@
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
+    },
+    {
+        "title": "Trump Set to Shield Tech Titans Amazon, Microsoft and Google From AI Chip Tariffs - TipRanks",
+        "sentiment": "POSITIVE",
+        "score": 0.9432588815689087,
+        "signal": "BULLISH",
+        "tickers": [
+            "MSFT",
+            "AMZN",
+            "GOOGL"
+        ],
+        "primary_ticker": "MSFT",
+        "ticker_impacts": [
+            {
+                "ticker": "MSFT",
+                "impact": "positive",
+                "relevance": "high"
+            },
+            {
+                "ticker": "AMZN",
+                "impact": "positive",
+                "relevance": "high"
+            },
+            {
+                "ticker": "GOOGL",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
     },
     {
         "title": "Coca-Cola Reports Fourth Quarter and Full Year 2025 Results - investors.coca-colacompany.com",
@@ -79,10 +171,10 @@
         "ticker_impacts": []
     },
     {
-        "title": "CVS tops quarterly estimates, reaffirms profit outlook as turnaround plan takes effect - CNBC",
-        "sentiment": "POSITIVE",
-        "score": 0.9461919665336609,
-        "signal": "BULLISH",
+        "title": "More solar farms on the way after record renewables auction - BBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.8990999460220337,
+        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -97,10 +189,10 @@
         "ticker_impacts": []
     },
     {
-        "title": "Investors sour on listed credit funds over AI hit to software sector - Financial Times",
-        "sentiment": "NEGATIVE",
-        "score": 0.974130392074585,
-        "signal": "BEARISH",
+        "title": "TSMC Revenue Jumps 37% in January as AI Spending Marches On - Bloomberg.com",
+        "sentiment": "POSITIVE",
+        "score": 0.9250283241271973,
+        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -110,32 +202,6 @@
         "sentiment": "NEGATIVE",
         "score": 0.9732226729393005,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Salesforce made a new round of job cuts. These teams were affected. - Business Insider",
-        "sentiment": "NEGATIVE",
-        "score": 0.959519624710083,
-        "signal": "BEARISH",
-        "tickers": [
-            "CRM"
-        ],
-        "primary_ticker": "CRM",
-        "ticker_impacts": [
-            {
-                "ticker": "CRM",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "American Airlines unions call for ouster of CEO Robert Isom, flight attendants pass no-confidence vote - WFAA",
-        "sentiment": "POSITIVE",
-        "score": 0.9011045098304749,
-        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -158,13 +224,21 @@
         ]
     },
     {
-        "title": "Treasuries Decline on News Chinese Banks Asked to Limit US Bonds - bloomberg.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.707783043384552,
-        "signal": "BEARISH",
-        "tickers": [],
+        "title": "Stock Market Today: Dow Up As Oracle Soars; Cathie Wood Buys Buffett Stock Amid 145% Run (Live Coverage) - Investor's Business Daily",
+        "sentiment": "POSITIVE",
+        "score": 0.8745800256729126,
+        "signal": "BULLISH",
+        "tickers": [
+            "NVDA"
+        ],
         "primary_ticker": null,
-        "ticker_impacts": []
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "positive",
+                "relevance": "medium"
+            }
+        ]
     },
     {
         "title": "FDA rejects Regenxbio\u2019s rare-disease gene therapy - statnews.com",
@@ -176,19 +250,19 @@
         "ticker_impacts": []
     },
     {
-        "title": "Kroger Stock Takes Off After Appointing The Man Who Turned Walmart Around As CEO - Investor's Business Daily",
-        "sentiment": "POSITIVE",
-        "score": 0.8432340621948242,
-        "signal": "BULLISH",
+        "title": "\u201cA Great Lineup and an Amazing Group of Dealers\u201d: Ford Stock (NYSE:F) Slips With Ford\u2019s Plan to Keep Escape Customers - TipRanks",
+        "sentiment": "NEGATIVE",
+        "score": 0.9373779296875,
+        "signal": "BEARISH",
         "tickers": [
-            "WMT"
+            "F"
         ],
-        "primary_ticker": "WMT",
+        "primary_ticker": null,
         "ticker_impacts": [
             {
-                "ticker": "WMT",
-                "impact": "positive",
-                "relevance": "high"
+                "ticker": "F",
+                "impact": "negative",
+                "relevance": "medium"
             }
         ]
     },
@@ -202,18 +276,9 @@
         "ticker_impacts": []
     },
     {
-        "title": "The cost of this grocery staple is nearing record highs \u2014 and Americans can't get enough - Yahoo Finance",
-        "sentiment": "POSITIVE",
-        "score": 0.7041909694671631,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Why you shouldn\u2019t worry about AI eating the stock market, top analyst says. The U.S. economy is \u2018about to take off\u2019 - Fortune",
+        "title": "American Airlines flight attendants pass no-confidence vote, call CEO's leadership a \"downward spiral\" - cbsnews.com",
         "sentiment": "NEGATIVE",
-        "score": 0.8934295177459717,
+        "score": 0.9711589813232422,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -233,50 +298,6 @@
                 "ticker": "LLM",
                 "impact": "negative",
                 "relevance": "medium"
-            }
-        ]
-    },
-    {
-        "title": "Novo\u2019s Obesity Pill TV Ad Includes Misleading Claims, FDA Says - bloomberg.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9160364270210266,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "AI Stocks Turn Choppy. Hyperscaler Capex Explodes. Software Hammered. - Investor's Business Daily",
-        "sentiment": "NEGATIVE",
-        "score": 0.9638758897781372,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "US Homeowners Staying Put for Longest Since 2000 - Newser",
-        "sentiment": "NEGATIVE",
-        "score": 0.8154568672180176,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Meta warned EU plans to impose measures on tech giant to reverse WhatsApp AI policy - CNBC",
-        "sentiment": "NEGATIVE",
-        "score": 0.8651552796363831,
-        "signal": "BEARISH",
-        "tickers": [
-            "META"
-        ],
-        "primary_ticker": "META",
-        "ticker_impacts": [
-            {
-                "ticker": "META",
-                "impact": "negative",
-                "relevance": "high"
             }
         ]
     }
