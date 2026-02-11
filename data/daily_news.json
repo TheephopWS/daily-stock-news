@@ -63,18 +63,18 @@
         "score": 0.854223906993866,
         "signal": "BULLISH",
         "tickers": [
-            "AAPL",
-            "GOOGL"
+            "GOOGL",
+            "AAPL"
         ],
-        "primary_ticker": "AAPL",
+        "primary_ticker": "GOOGL",
         "ticker_impacts": [
             {
-                "ticker": "AAPL",
+                "ticker": "GOOGL",
                 "impact": "positive",
                 "relevance": "high"
             },
             {
-                "ticker": "GOOGL",
+                "ticker": "AAPL",
                 "impact": "positive",
                 "relevance": "high"
             }
@@ -95,12 +95,17 @@
         "score": 0.9432588815689087,
         "signal": "BULLISH",
         "tickers": [
+            "GOOGL",
             "MSFT",
-            "AMZN",
-            "GOOGL"
+            "AMZN"
         ],
-        "primary_ticker": "MSFT",
+        "primary_ticker": "GOOGL",
         "ticker_impacts": [
+            {
+                "ticker": "GOOGL",
+                "impact": "positive",
+                "relevance": "high"
+            },
             {
                 "ticker": "MSFT",
                 "impact": "positive",
@@ -108,11 +113,6 @@
             },
             {
                 "ticker": "AMZN",
-                "impact": "positive",
-                "relevance": "high"
-            },
-            {
-                "ticker": "GOOGL",
                 "impact": "positive",
                 "relevance": "high"
             }
