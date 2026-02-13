@@ -9,48 +9,72 @@
         "ticker_impacts": []
     },
     {
-        "title": "AppLovin beats quarterly revenue estimates - Yahoo Finance",
+        "title": "The Walt Disney Company Hit with Record Fine by California DOJ - WDW News Today",
+        "sentiment": "NEGATIVE",
+        "score": 0.9176895022392273,
+        "signal": "BEARISH",
+        "tickers": [
+            "DIS",
+            "DOJ"
+        ],
+        "primary_ticker": "DIS",
+        "ticker_impacts": [
+            {
+                "ticker": "DIS",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "DOJ",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Two more xAI co-founders are among those leaving after the SpaceX merger - The Verge",
+        "sentiment": "NEGATIVE",
+        "score": 0.8574112057685852,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Stock Market Dips, Shrugs Off Solid Jobs Report; IBD 50 Jumps 2%, Led By Vertiv, AnaptsysBio - Investor's Business Daily",
+        "sentiment": "NEGATIVE",
+        "score": 0.9055797457695007,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Shopify Stock Jumps Despite Earnings Miss. Here's Why. - Investor's Business Daily",
+        "sentiment": "NEGATIVE",
+        "score": 0.9671037793159485,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Time Owner Booed at Staff Event Over ICE Joke - The Daily Beast",
+        "sentiment": "NEGATIVE",
+        "score": 0.8921918272972107,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "ChargePoint data shows a new EV bottleneck forming - Electrek",
         "sentiment": "POSITIVE",
-        "score": 0.9534702897071838,
+        "score": 0.9102168679237366,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
-    },
-    {
-        "title": "Protesters in multiple states press Target to oppose the immigration crackdown in Minnesota - Yahoo",
-        "sentiment": "NEGATIVE",
-        "score": 0.8827808499336243,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Stock Market Today: Major Indexes Close Slightly Lower After Earnings Flurry, Stronger-Than-Expected January Jobs Report - Investopedia",
-        "sentiment": "NEGATIVE",
-        "score": 0.9733105301856995,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Salesforce reportedly lays off hundreds as Benioff jokes about ICE - San Francisco Chronicle",
-        "sentiment": "NEGATIVE",
-        "score": 0.9216858744621277,
-        "signal": "BEARISH",
-        "tickers": [
-            "CRM"
-        ],
-        "primary_ticker": "CRM",
-        "ticker_impacts": [
-            {
-                "ticker": "CRM",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
     },
     {
         "title": "Prasad overruled FDA staff to reject Moderna\u2019s flu vaccine application - statnews.com",
@@ -66,6 +90,15 @@
         "sentiment": "POSITIVE",
         "score": 0.840659499168396,
         "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Ford CEO says 'the customer has spoken' after its EV business lost nearly $5 billion last year - Business Insider",
+        "sentiment": "NEGATIVE",
+        "score": 0.9582543969154358,
+        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -88,97 +121,9 @@
         ]
     },
     {
-        "title": "Shopify Stock Jumps Despite Earnings Miss. Here's Why. - Investor's Business Daily",
+        "title": "Hims is in the crosshairs. Is a crackdown coming for compounding? - statnews.com",
         "sentiment": "NEGATIVE",
-        "score": 0.9671037793159485,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Amazon Ring\u2019s Super Bowl ad sparks backlash amid fears of mass surveillance - The Verge",
-        "sentiment": "NEGATIVE",
-        "score": 0.9369104504585266,
-        "signal": "BEARISH",
-        "tickers": [
-            "AMZN"
-        ],
-        "primary_ticker": "AMZN",
-        "ticker_impacts": [
-            {
-                "ticker": "AMZN",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "The Super Bowl Was Overrun by AI Ads \u2014 And There\u2019s a Reason Viewers Weren\u2019t Buying It - Rolling Stone",
-        "sentiment": "NEGATIVE",
-        "score": 0.7698804140090942,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Mortgage delinquencies rise for low-income Americans - Axios",
-        "sentiment": "NEGATIVE",
-        "score": 0.8125759959220886,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Stock Market Today: Dow Closes At Another Record High; Nasdaq Breaks Win Streak (Live Coverage) - Investor's Business Daily",
-        "sentiment": "POSITIVE",
-        "score": 0.7002590298652649,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Wealth Manager Stocks Sink as New AI Tool Sparks Disruption Fear - Bloomberg.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9698219895362854,
-        "signal": "BEARISH",
-        "tickers": [
-            "INTC"
-        ],
-        "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "INTC",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
-    },
-    {
-        "title": "Researchers Studied What Happens When Workplaces Seriously Embrace AI, and the Results May Make You Nervous - Futurism",
-        "sentiment": "NEGATIVE",
-        "score": 0.9037230014801025,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "US Retail Sales Unexpectedly Stalled to Close Holiday Season - Bloomberg.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9746912121772766,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "The U.S. bond market is suddenly flashing a warning sign about the economy - MarketWatch",
-        "sentiment": "NEGATIVE",
-        "score": 0.9280004501342773,
+        "score": 0.9216158390045166,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
