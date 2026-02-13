@@ -1,5 +1,50 @@
 [
     {
+        "title": "Futures move higher as market weighs economic, earnings news: Live updates - CNBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.9377872347831726,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Restaurant Brands earnings top estimates as international Burger King restaurants fuel sales growth - CNBC",
+        "sentiment": "POSITIVE",
+        "score": 0.9549381136894226,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Pennymac to acquire Cenlar, adding $740B in subservicing - HousingWire",
+        "sentiment": "POSITIVE",
+        "score": 0.8746750950813293,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Japan stocks extend post-election rally with Nikkei 225 breaching 58,000 for the first time - CNBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.9094834923744202,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "McDonald\u2019s Growth Beats Estimates as Value Strategy Gains Ground - Bloomberg.com",
+        "sentiment": "POSITIVE",
+        "score": 0.953548789024353,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Cisco Earnings Top Estimates, But Shares Dip - Investor's Business Daily",
         "sentiment": "NEGATIVE",
         "score": 0.9757348299026489,
@@ -7,29 +52,6 @@
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
-    },
-    {
-        "title": "The Walt Disney Company Hit with Record Fine by California DOJ - WDW News Today",
-        "sentiment": "NEGATIVE",
-        "score": 0.9176895022392273,
-        "signal": "BEARISH",
-        "tickers": [
-            "DIS",
-            "DOJ"
-        ],
-        "primary_ticker": "DIS",
-        "ticker_impacts": [
-            {
-                "ticker": "DIS",
-                "impact": "negative",
-                "relevance": "high"
-            },
-            {
-                "ticker": "DOJ",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
     },
     {
         "title": "Two more xAI co-founders are among those leaving after the SpaceX merger - The Verge",
@@ -41,27 +63,44 @@
         "ticker_impacts": []
     },
     {
-        "title": "Stock Market Dips, Shrugs Off Solid Jobs Report; IBD 50 Jumps 2%, Led By Vertiv, AnaptsysBio - Investor's Business Daily",
+        "title": "Anthropic says it\u2019ll try to keep its data centers from raising electricity costs - The Verge",
+        "sentiment": "POSITIVE",
+        "score": 0.8680171370506287,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Salesforce reportedly lays off hundreds as Benioff jokes about ICE - San Francisco Chronicle",
         "sentiment": "NEGATIVE",
-        "score": 0.9055797457695007,
+        "score": 0.9216858744621277,
+        "signal": "BEARISH",
+        "tickers": [
+            "CRM"
+        ],
+        "primary_ticker": "CRM",
+        "ticker_impacts": [
+            {
+                "ticker": "CRM",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Shopify Stock Slumps on Earnings Miss. Software Worries Are Why. - Barron's",
+        "sentiment": "NEGATIVE",
+        "score": 0.8019003868103027,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Shopify Stock Jumps Despite Earnings Miss. Here's Why. - Investor's Business Daily",
+        "title": "AI Disruption Fears Slam Charles Schwab, Wealth Managers - Investor's Business Daily",
         "sentiment": "NEGATIVE",
-        "score": 0.9671037793159485,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Time Owner Booed at Staff Event Over ICE Joke - The Daily Beast",
-        "sentiment": "NEGATIVE",
-        "score": 0.8921918272972107,
+        "score": 0.9488789439201355,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -77,36 +116,9 @@
         "ticker_impacts": []
     },
     {
-        "title": "Prasad overruled FDA staff to reject Moderna\u2019s flu vaccine application - statnews.com",
+        "title": "Activist investor Ancora publicly opposes the WBD-Netflix deal - TechCrunch",
         "sentiment": "NEGATIVE",
-        "score": 0.9065924286842346,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "CBO Boosts US Deficit Call by $1.4 Trillion on Trump Policies - Bloomberg.com",
-        "sentiment": "POSITIVE",
-        "score": 0.840659499168396,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Ford CEO says 'the customer has spoken' after its EV business lost nearly $5 billion last year - Business Insider",
-        "sentiment": "NEGATIVE",
-        "score": 0.9582543969154358,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Activist Investor Slams WBD For Rushing Into \u201cFlawed\u201d Netflix Deal, Tells Board To Engage With Paramount As Temperature Rises - Deadline",
-        "sentiment": "NEGATIVE",
-        "score": 0.8899913430213928,
+        "score": 0.8062497973442078,
         "signal": "BEARISH",
         "tickers": [
             "NFLX"
@@ -121,9 +133,68 @@
         ]
     },
     {
+        "title": "US Records Lowest Job Growth in 2025 for Non-Recession Year Since 2003 - Watcher Guru",
+        "sentiment": "NEGATIVE",
+        "score": 0.9717586040496826,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "3 Technology ETFs with Over 25% Upside Potential - TipRanks",
+        "sentiment": "POSITIVE",
+        "score": 0.7925286293029785,
+        "signal": "BULLISH",
+        "tickers": [
+            "INTC",
+            "AI"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "INTC",
+                "impact": "positive",
+                "relevance": "medium"
+            },
+            {
+                "ticker": "AI",
+                "impact": "positive",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Ford CEO says 'the customer has spoken' after its EV business lost nearly $5 billion last year - Business Insider",
+        "sentiment": "NEGATIVE",
+        "score": 0.9582543969154358,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Hims is in the crosshairs. Is a crackdown coming for compounding? - statnews.com",
         "sentiment": "NEGATIVE",
         "score": 0.9216158390045166,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Researchers Studied What Happens When Workplaces Seriously Embrace AI, and the Results May Make You Nervous - Futurism",
+        "sentiment": "NEGATIVE",
+        "score": 0.9037230014801025,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "The U.S. bond market is suddenly flashing a warning sign about the economy - MarketWatch",
+        "sentiment": "NEGATIVE",
+        "score": 0.9280004501342773,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
