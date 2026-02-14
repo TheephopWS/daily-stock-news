@@ -1,8 +1,17 @@
 [
     {
-        "title": "Stock futures slip as traders await big consumer inflation report: Live updates - CNBC",
+        "title": "Stock Market Today: Dow down 100 points as stocks retreat after inflation report; silver gains after rout - MarketWatch",
         "sentiment": "NEGATIVE",
-        "score": 0.9736983776092529,
+        "score": 0.9622396230697632,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "S&P 500 bounces after light inflation data, but still heads for weekly loss: Live updates - CNBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.9738144278526306,
         "signal": "BEARISH",
         "tickers": [
             "INTC"
@@ -17,9 +26,26 @@
         ]
     },
     {
+        "title": "Dog Food Contains 'Alarming' Levels of Heavy Metals: Report - Newser",
+        "sentiment": "NEGATIVE",
+        "score": 0.9300544857978821,
+        "signal": "BEARISH",
+        "tickers": [
+            "META"
+        ],
+        "primary_ticker": "META",
+        "ticker_impacts": [
+            {
+                "ticker": "META",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
         "title": "It\u2019s been a software horror show. Here\u2019s why it could get even scarier, according to Citi. - MarketWatch",
         "sentiment": "NEGATIVE",
-        "score": 0.9132598638534546,
+        "score": 0.9132595658302307,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -28,7 +54,7 @@
     {
         "title": "\u2018Misanthropic And Evil\u2019: Musk Rails Against Anthropic After Its $30 Billion Fundraise - Forbes",
         "sentiment": "NEGATIVE",
-        "score": 0.7494941353797913,
+        "score": 0.7494944930076599,
         "signal": "BEARISH",
         "tickers": [
             "GOOGL"
@@ -41,6 +67,24 @@
                 "relevance": "medium"
             }
         ]
+    },
+    {
+        "title": "Chinese AI models push pro-China views - Axios",
+        "sentiment": "POSITIVE",
+        "score": 0.8381842374801636,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Valentine\u2019s Day sticker shock: Chocolate prices are spiking - CNN",
+        "sentiment": "NEGATIVE",
+        "score": 0.8233249187469482,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "CEO Marc Benioff's ICE jokes stir outrage in a pivotal time for Salesforce - Business Insider",
@@ -62,7 +106,7 @@
     {
         "title": "Trump\u2019s campaign against \u2018left-wing\u2019 media finds a new target: Apple News - The Washington Post",
         "sentiment": "NEGATIVE",
-        "score": 0.735829770565033,
+        "score": 0.735830545425415,
         "signal": "BEARISH",
         "tickers": [
             "AAPL"
@@ -77,44 +121,10 @@
         ]
     },
     {
-        "title": "Amazon no longer working with controversial police tech company after backlash over Ring doorbell Super Bowl ad - NBC News",
+        "title": "After AI Video of \u2018Tom Cruise\u2019 Fighting \u2018Brad Pitt\u2019 Goes Viral, Motion Picture Association Denounces \u2018Massive\u2019 Infringement on Seedance 2.0 - Yahoo News Canada",
         "sentiment": "NEGATIVE",
-        "score": 0.9372195601463318,
+        "score": 0.9335936903953552,
         "signal": "BEARISH",
-        "tickers": [
-            "AMZN"
-        ],
-        "primary_ticker": "AMZN",
-        "ticker_impacts": [
-            {
-                "ticker": "AMZN",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Gold Steadies After Sharp Drop Sparked by Wider Market Jitters - Bloomberg.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.7207109332084656,
-        "signal": "BEARISH",
-        "tickers": [
-            "META"
-        ],
-        "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "META",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
-    },
-    {
-        "title": "Costs from Trump's tariffs paid almost entirely by US consumers, NY Fed says - BBC",
-        "sentiment": "POSITIVE",
-        "score": 0.7529218196868896,
-        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -149,64 +159,8 @@
     {
         "title": "Applied Materials Trounces Expectations With Big Quarterly Beat - Investor's Business Daily",
         "sentiment": "POSITIVE",
-        "score": 0.9452524781227112,
+        "score": 0.9452523589134216,
         "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Stocks Plunge on Tech Weakness and AI Fears - Barchart.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9719598293304443,
-        "signal": "BEARISH",
-        "tickers": [
-            "SPY",
-            "IUXX",
-            "DOWI",
-            "QQQ",
-            "SPX",
-            "DIA"
-        ],
-        "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "SPY",
-                "impact": "negative",
-                "relevance": "medium"
-            },
-            {
-                "ticker": "IUXX",
-                "impact": "negative",
-                "relevance": "medium"
-            },
-            {
-                "ticker": "DOWI",
-                "impact": "negative",
-                "relevance": "medium"
-            },
-            {
-                "ticker": "QQQ",
-                "impact": "negative",
-                "relevance": "medium"
-            },
-            {
-                "ticker": "SPX",
-                "impact": "negative",
-                "relevance": "medium"
-            },
-            {
-                "ticker": "DIA",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
-    },
-    {
-        "title": "Coinbase Hit With Double Downgrade Ahead Of Tough Earnings Test - Investor's Business Daily",
-        "sentiment": "NEGATIVE",
-        "score": 0.9721887111663818,
-        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -231,7 +185,7 @@
     {
         "title": "After 110 years, this family-owned Portland grocer will close Friday - OregonLive.com",
         "sentiment": "NEGATIVE",
-        "score": 0.9376817941665649,
+        "score": 0.9376818537712097,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -257,7 +211,7 @@
     {
         "title": "'Wizard Of Oz' At Sphere Hits $290M In Sales; \"Enhanced\" Version Coming - Deadline",
         "sentiment": "POSITIVE",
-        "score": 0.8215359449386597,
+        "score": 0.8215363025665283,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
@@ -266,16 +220,7 @@
     {
         "title": "Sanofi Shares Fall After CEO Change - The Wall Street Journal",
         "sentiment": "NEGATIVE",
-        "score": 0.9281641840934753,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Palo Alto Networks lays off hundreds of CyberArk employees one day after completing $25 billion acquisition - CTech",
-        "sentiment": "NEGATIVE",
-        "score": 0.9711522459983826,
+        "score": 0.8952434062957764,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -284,25 +229,7 @@
     {
         "title": "NAR Existing-Home Sales Report Shows 8.4% Decrease in January - National Association of REALTORS\u00ae",
         "sentiment": "NEGATIVE",
-        "score": 0.7600385546684265,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "\"He Sounds Nervous\": American Airlines CEO Robert Isom Responds To Union Revolt\u2014Here's His Turnaround Plan - View from the Wing",
-        "sentiment": "NEGATIVE",
-        "score": 0.8963065147399902,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Cisco Stock Falls Despite Earnings Beat - Barron's",
-        "sentiment": "NEGATIVE",
-        "score": 0.9387356042861938,
+        "score": 0.7600354552268982,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -329,10 +256,33 @@
     {
         "title": "Last Will and Testament - Puck",
         "sentiment": "NEGATIVE",
-        "score": 0.834453284740448,
+        "score": 0.8344534039497375,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
+    },
+    {
+        "title": "The Best Artificial Intelligence (AI) Stock to Buy Now - The Motley Fool",
+        "sentiment": "NEGATIVE",
+        "score": 0.9648253321647644,
+        "signal": "BEARISH",
+        "tickers": [
+            "AI",
+            "INTC"
+        ],
+        "primary_ticker": "AI",
+        "ticker_impacts": [
+            {
+                "ticker": "AI",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "INTC",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
     }
 ]
