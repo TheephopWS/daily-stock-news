@@ -4,21 +4,6 @@ import torch
 from .config import SENTIMENT_POSITIVE_THRESHOLD, SENTIMENT_NEGATIVE_THRESHOLD
 
 class SentimentAnalyzer:
-    """
-    Initialize a SentimentAnalyzer object.
-
-    Args:
-        model_name (str): The name of the pre-trained model to use for sentiment analysis.
-            Defaults to "ProsusAI/finbert".
-
-    Attributes:
-        device (int): The device to use for sentiment analysis. 0 if CUDA is available, -1 otherwise.
-        tokenizer (AutoTokenizer): The tokenizer to use for sentiment analysis.
-        model (AutoModelForSequenceClassification): The pre-trained model to use for sentiment analysis.
-        pipe (Pipeline): The pipeline to use for sentiment analysis.
-        positive_threshold (float): The threshold above which a sentiment is considered positive.
-        negative_threshold (float): The threshold below which a sentiment is considered negative.
-    """
     def __init__(self, model_name: str = "ProsusAI/finbert"):
         self.device = 0 if torch.cuda.is_available() else -1
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
