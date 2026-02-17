@@ -1,5 +1,22 @@
 [
     {
+        "title": "Is X Down? What We Know About Twitter Outage - Forbes",
+        "sentiment": "NEGATIVE",
+        "score": 0.7395592331886292,
+        "signal": "BEARISH",
+        "tickers": [
+            "X"
+        ],
+        "primary_ticker": "X",
+        "ticker_impacts": [
+            {
+                "ticker": "X",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
         "title": "Dow Jones Futures Rise With U.S. Markets Shut; Apple, Google, Amazon, Meta, Nvidia In Focus - Investor's Business Daily",
         "sentiment": "NEGATIVE",
         "score": 0.8722224235534668,
@@ -7,9 +24,9 @@
         "tickers": [
             "AAPL",
             "GOOGL",
-            "NVDA",
+            "META",
             "AMZN",
-            "META"
+            "NVDA"
         ],
         "primary_ticker": "AAPL",
         "ticker_impacts": [
@@ -24,7 +41,7 @@
                 "relevance": "high"
             },
             {
-                "ticker": "NVDA",
+                "ticker": "META",
                 "impact": "negative",
                 "relevance": "high"
             },
@@ -34,11 +51,46 @@
                 "relevance": "high"
             },
             {
-                "ticker": "META",
+                "ticker": "NVDA",
                 "impact": "negative",
                 "relevance": "high"
             }
         ]
+    },
+    {
+        "title": "Ironic AI Infraction Earns KPMG Partner a Big Fine - Newser",
+        "sentiment": "NEGATIVE",
+        "score": 0.8069708347320557,
+        "signal": "BEARISH",
+        "tickers": [
+            "INTC"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "INTC",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "The \u2018Sell America\u2019 trade inflicted \u2018lasting damage\u2019 on the U.S. dollar, ING says - Fortune",
+        "sentiment": "NEGATIVE",
+        "score": 0.9682180285453796,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Integrity faces a critical moment of peril - Axios",
+        "sentiment": "NEGATIVE",
+        "score": 0.9327228665351868,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "Brewdog staff 'upset and concerned' by sale plans - BBC",
@@ -93,6 +145,15 @@
         ]
     },
     {
+        "title": "FX Daily: Still searching for a dollar pulse - ING THINK economic and financial analysis | ING THINK",
+        "sentiment": "NEGATIVE",
+        "score": 0.7764949798583984,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Donald Trump Says He\u2019ll Make TVA CEO\u2019s Life \u2018Miserable\u2019 - mandatory.com",
         "sentiment": "NEGATIVE",
         "score": 0.9089743494987488,
@@ -106,15 +167,6 @@
         "sentiment": "NEGATIVE",
         "score": 0.8640909790992737,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Japan\u2019s Narrow Growth Tests Fiscal, Monetary Policy Paths - The Wall Street Journal",
-        "sentiment": "POSITIVE",
-        "score": 0.8943153023719788,
-        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -156,10 +208,28 @@
         "ticker_impacts": []
     },
     {
+        "title": "Rampant AI Demand for Memory Is Fueling a Growing Chip Crisis - Bloomberg.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9597572088241577,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Another award-winning beer brand closes down its brewery forever - thestreet.com",
         "sentiment": "NEGATIVE",
         "score": 0.8938525915145874,
         "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "One of Stanford's original AI gurus says productivity liftoff has begun after doubling in 2025 - Fortune",
+        "sentiment": "POSITIVE",
+        "score": 0.7244656085968018,
+        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -182,21 +252,13 @@
         ]
     },
     {
-        "title": "A Stock Market Doom Loop Is Hitting Everything That Touches AI - Bloomberg.com",
+        "title": "British airline bans two 'disruptive' passengers for life after midair brawl - NBC News",
         "sentiment": "NEGATIVE",
-        "score": 0.8291990756988525,
+        "score": 0.9159569144248962,
         "signal": "BEARISH",
-        "tickers": [
-            "INTC"
-        ],
+        "tickers": [],
         "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "INTC",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
+        "ticker_impacts": []
     },
     {
         "title": "This Is What Destroying the Vaccine Market Looks Like - The Bulwark",
@@ -220,15 +282,6 @@
         "title": "\u2018No Force on Earth Could Stop the Fallout,\u2019 Anthropic CEO Warns about Trillion-Dollar AI Spending - TipRanks",
         "sentiment": "NEGATIVE",
         "score": 0.9448170065879822,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Swarms of AI bots are threatening democracy - Salon.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.7285575866699219,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -261,19 +314,19 @@
         ]
     },
     {
-        "title": "The AI productivity take-off is finally visible - Financial Times",
+        "title": "India plans AI 'data city' on staggering scale - The Japan Times",
         "sentiment": "POSITIVE",
-        "score": 0.8803548216819763,
+        "score": 0.9318481683731079,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "India plans AI 'data city' on staggering scale - The Japan Times",
-        "sentiment": "POSITIVE",
-        "score": 0.9318481683731079,
-        "signal": "BULLISH",
+        "title": "Western Digital runs out of HDD capacity: CEO says massive AI deals secured, price surges ahead - TweakTown",
+        "sentiment": "NEGATIVE",
+        "score": 0.9659052491188049,
+        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
