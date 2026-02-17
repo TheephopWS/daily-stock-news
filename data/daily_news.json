@@ -1,18 +1,45 @@
 [
     {
-        "title": "Is X Down? What We Know About Twitter Outage - Forbes",
+        "title": "You *Can* Do Something To Hurt the Oligarchs - The Bulwark",
         "sentiment": "NEGATIVE",
-        "score": 0.7395592331886292,
+        "score": 0.8984004259109497,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Everything you thought about the US labour market is wrong - Financial Times",
+        "sentiment": "NEGATIVE",
+        "score": 0.8413784503936768,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Ford is asking the Trump Administration to allow Chinese EV tech in the US - Electrek",
+        "sentiment": "POSITIVE",
+        "score": 0.7013725638389587,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "X Goes Down: Social Media Site Not Working for Thousands of Users Worldwide - Variety",
+        "sentiment": "NEGATIVE",
+        "score": 0.970014214515686,
         "signal": "BEARISH",
         "tickers": [
             "X"
         ],
-        "primary_ticker": "X",
+        "primary_ticker": null,
         "ticker_impacts": [
             {
                 "ticker": "X",
                 "impact": "negative",
-                "relevance": "high"
+                "relevance": "medium"
             }
         ]
     },
@@ -22,16 +49,16 @@
         "score": 0.8722224235534668,
         "signal": "BEARISH",
         "tickers": [
-            "AAPL",
+            "NVDA",
             "GOOGL",
             "META",
             "AMZN",
-            "NVDA"
+            "AAPL"
         ],
-        "primary_ticker": "AAPL",
+        "primary_ticker": "NVDA",
         "ticker_impacts": [
             {
-                "ticker": "AAPL",
+                "ticker": "NVDA",
                 "impact": "negative",
                 "relevance": "high"
             },
@@ -51,7 +78,7 @@
                 "relevance": "high"
             },
             {
-                "ticker": "NVDA",
+                "ticker": "AAPL",
                 "impact": "negative",
                 "relevance": "high"
             }
@@ -102,32 +129,6 @@
         "ticker_impacts": []
     },
     {
-        "title": "Anthropic Boosts India AI Push Via Flag Airline, Cognizant Pacts - Bloomberg.com",
-        "sentiment": "POSITIVE",
-        "score": 0.7932329177856445,
-        "signal": "BULLISH",
-        "tickers": [
-            "INTC"
-        ],
-        "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "INTC",
-                "impact": "positive",
-                "relevance": "medium"
-            }
-        ]
-    },
-    {
-        "title": "Alibaba Unveils Major AI Model Upgrade Ahead of DeepSeek Release - Bloomberg.com",
-        "sentiment": "POSITIVE",
-        "score": 0.934388279914856,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "Lawyers increasingly have to convince clients that AI chatbots give bad advice - NL Times",
         "sentiment": "NEGATIVE",
         "score": 0.8442678451538086,
@@ -145,24 +146,6 @@
         ]
     },
     {
-        "title": "FX Daily: Still searching for a dollar pulse - ING THINK economic and financial analysis | ING THINK",
-        "sentiment": "NEGATIVE",
-        "score": 0.7764949798583984,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Donald Trump Says He\u2019ll Make TVA CEO\u2019s Life \u2018Miserable\u2019 - mandatory.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9089743494987488,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "Crypto market drowns in red as bitcoin falls to $68,000, XRP, ETH slide over 5% - CoinDesk",
         "sentiment": "NEGATIVE",
         "score": 0.8640909790992737,
@@ -175,15 +158,6 @@
         "title": "Warsh\u2019s war on the Fed balance sheet - Financial Times",
         "sentiment": "NEGATIVE",
         "score": 0.9619235396385193,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "US carmakers spooked by Chinese rivals gaining foothold in America - Financial Times",
-        "sentiment": "NEGATIVE",
-        "score": 0.9002829790115356,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -208,9 +182,9 @@
         "ticker_impacts": []
     },
     {
-        "title": "Rampant AI Demand for Memory Is Fueling a Growing Chip Crisis - Bloomberg.com",
+        "title": "UK House Prices Stall as Buyers Enjoy Most Choice in a Decade - Bloomberg.com",
         "sentiment": "NEGATIVE",
-        "score": 0.9597572088241577,
+        "score": 0.9357886910438538,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -252,10 +226,27 @@
         ]
     },
     {
-        "title": "British airline bans two 'disruptive' passengers for life after midair brawl - NBC News",
+        "title": "A Stock Market Doom Loop Is Hitting Everything That Touches AI - Bloomberg.com",
         "sentiment": "NEGATIVE",
-        "score": 0.9159569144248962,
+        "score": 0.8291990756988525,
         "signal": "BEARISH",
+        "tickers": [
+            "INTC"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "INTC",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Gold Price Forecast \u2013 US Labour Data and Stock Volatility Set Stage for Breakout Above $5,600 - FXEmpire",
+        "sentiment": "POSITIVE",
+        "score": 0.8178327679634094,
+        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -318,15 +309,6 @@
         "sentiment": "POSITIVE",
         "score": 0.9318481683731079,
         "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Western Digital runs out of HDD capacity: CEO says massive AI deals secured, price surges ahead - TweakTown",
-        "sentiment": "NEGATIVE",
-        "score": 0.9659052491188049,
-        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
