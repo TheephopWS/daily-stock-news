@@ -1,8 +1,128 @@
 [
     {
+        "title": "Dow Jones Futures Rise With U.S. Markets Shut; Apple, Google, Amazon, Meta, Nvidia In Focus - Investor's Business Daily",
+        "sentiment": "NEGATIVE",
+        "score": 0.8722224235534668,
+        "signal": "BEARISH",
+        "tickers": [
+            "AAPL",
+            "GOOGL",
+            "NVDA",
+            "AMZN",
+            "META"
+        ],
+        "primary_ticker": "AAPL",
+        "ticker_impacts": [
+            {
+                "ticker": "AAPL",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "GOOGL",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "NVDA",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "META",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Brewdog staff 'upset and concerned' by sale plans - BBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.95576411485672,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Anthropic Boosts India AI Push Via Flag Airline, Cognizant Pacts - Bloomberg.com",
+        "sentiment": "POSITIVE",
+        "score": 0.7932329177856445,
+        "signal": "BULLISH",
+        "tickers": [
+            "INTC"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "INTC",
+                "impact": "positive",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Alibaba Unveils Major AI Model Upgrade Ahead of DeepSeek Release - Bloomberg.com",
+        "sentiment": "POSITIVE",
+        "score": 0.934388279914856,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Lawyers increasingly have to convince clients that AI chatbots give bad advice - NL Times",
+        "sentiment": "NEGATIVE",
+        "score": 0.8442678451538086,
+        "signal": "BEARISH",
+        "tickers": [
+            "FD"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "FD",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Donald Trump Says He\u2019ll Make TVA CEO\u2019s Life \u2018Miserable\u2019 - mandatory.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9089743494987488,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Crypto market drowns in red as bitcoin falls to $68,000, XRP, ETH slide over 5% - CoinDesk",
         "sentiment": "NEGATIVE",
         "score": 0.8640909790992737,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Japan\u2019s Narrow Growth Tests Fiscal, Monetary Policy Paths - The Wall Street Journal",
+        "sentiment": "POSITIVE",
+        "score": 0.8943153023719788,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Warsh\u2019s war on the Fed balance sheet - Financial Times",
+        "sentiment": "NEGATIVE",
+        "score": 0.9619235396385193,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -36,28 +156,10 @@
         "ticker_impacts": []
     },
     {
-        "title": "India Curbs Loans to Brokers in Threat to Trading Volumes - Bloomberg.com",
+        "title": "Another award-winning beer brand closes down its brewery forever - thestreet.com",
         "sentiment": "NEGATIVE",
-        "score": 0.8696429133415222,
+        "score": 0.8938525915145874,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Rampant AI Demand for Memory Is Fueling a Growing Chip Crisis - Bloomberg.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9597572088241577,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "One of Stanford's original AI gurus says productivity liftoff has begun after doubling in 2025 - Fortune",
-        "sentiment": "POSITIVE",
-        "score": 0.7244656085968018,
-        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -80,15 +182,6 @@
         ]
     },
     {
-        "title": "Southwest Airlines Has Become America\u2019s Most \u2018Uptight\u2019 Airline\u2014Flight Attendants And Passengers Say Management Killed the Fun - View from the Wing",
-        "sentiment": "NEGATIVE",
-        "score": 0.8414177298545837,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "A Stock Market Doom Loop Is Hitting Everything That Touches AI - Bloomberg.com",
         "sentiment": "NEGATIVE",
         "score": 0.8291990756988525,
@@ -106,28 +199,10 @@
         ]
     },
     {
-        "title": "Broadcom could sustain its eye-popping 2026 dividend hike - thestreet.com",
-        "sentiment": "POSITIVE",
-        "score": 0.9265223145484924,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "This Is What Destroying the Vaccine Market Looks Like - The Bulwark",
         "sentiment": "NEGATIVE",
         "score": 0.8740441203117371,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Want a mortgage for under 3% in 2026? Meet the 'assumable mortgage' - NPR",
-        "sentiment": "POSITIVE",
-        "score": 0.7170498371124268,
-        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -142,6 +217,15 @@
         "ticker_impacts": []
     },
     {
+        "title": "\u2018No Force on Earth Could Stop the Fallout,\u2019 Anthropic CEO Warns about Trillion-Dollar AI Spending - TipRanks",
+        "sentiment": "NEGATIVE",
+        "score": 0.9448170065879822,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Swarms of AI bots are threatening democracy - Salon.com",
         "sentiment": "NEGATIVE",
         "score": 0.7285575866699219,
@@ -151,9 +235,9 @@
         "ticker_impacts": []
     },
     {
-        "title": "Prediction: The Trump Bull Market Will Soon Be Derailed, With This Historically Insurmountable Headwind Being the Culprit - Yahoo Finance",
+        "title": "Lifetouch: School photo days being canceled after rumors swirl about company's connection to Jeffrey Epstein files: What to know - ABC7 Chicago",
         "sentiment": "NEGATIVE",
-        "score": 0.9098448753356934,
+        "score": 0.8516054153442383,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -177,64 +261,19 @@
         ]
     },
     {
-        "title": "India plans AI 'data city' on staggering scale - The Japan Times",
+        "title": "The AI productivity take-off is finally visible - Financial Times",
         "sentiment": "POSITIVE",
-        "score": 0.9318481683731079,
+        "score": 0.8803548216819763,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "China\u2019s Stock Bull Run Falters With Earnings Set to Underwhelm - Bloomberg",
-        "sentiment": "NEGATIVE",
-        "score": 0.9696281552314758,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Anthropic CEO Dario Amodei warns if AI growth forecasts are off by a year, 'then you go bankrupt' - Fortune",
-        "sentiment": "NEGATIVE",
-        "score": 0.8946070671081543,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Lifetouch: School photo days being canceled after rumors swirl about company's connection to Jeffrey Epstein files: What to know - ABC7 San Francisco",
-        "sentiment": "NEGATIVE",
-        "score": 0.8491864204406738,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "US debt spiral could start soon as interest rate on borrowing tops GDP growth - Fortune",
-        "sentiment": "NEGATIVE",
-        "score": 0.9703832268714905,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Another OpenAI Researcher Just Quit in Disgust - Futurism",
-        "sentiment": "NEGATIVE",
-        "score": 0.924856424331665,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "The stock market is reflecting fears of an AI apocalypse for white-collar jobs - MarketWatch",
-        "sentiment": "NEGATIVE",
-        "score": 0.9254866242408752,
-        "signal": "BEARISH",
+        "title": "India plans AI 'data city' on staggering scale - The Japan Times",
+        "sentiment": "POSITIVE",
+        "score": 0.9318481683731079,
+        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
