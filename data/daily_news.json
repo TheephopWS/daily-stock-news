@@ -1,37 +1,87 @@
 [
     {
-        "title": "Asia Set for Positive Open After Choppy US Session: Markets Wrap - Bloomberg.com",
+        "title": "Stock futures rise ahead of Fed minutes as Nvidia shares gain: Live updates - CNBC",
         "sentiment": "POSITIVE",
-        "score": 0.948932409286499,
+        "score": 0.9113932847976685,
         "signal": "BULLISH",
         "tickers": [
-            "INTC"
+            "NVDA"
         ],
-        "primary_ticker": null,
+        "primary_ticker": "NVDA",
         "ticker_impacts": [
             {
-                "ticker": "INTC",
+                "ticker": "NVDA",
                 "impact": "positive",
-                "relevance": "medium"
+                "relevance": "high"
             }
         ]
     },
     {
-        "title": "Tesla dodges 30-day suspension in California after removing Autopilot - TechCrunch",
+        "title": "Meta CEO Mark Zuckerberg to face jury in landmark social media addiction trial - NPR",
         "sentiment": "NEGATIVE",
-        "score": 0.9199557304382324,
+        "score": 0.7076018452644348,
         "signal": "BEARISH",
         "tickers": [
-            "TSLA"
+            "META"
         ],
-        "primary_ticker": "TSLA",
+        "primary_ticker": "META",
         "ticker_impacts": [
             {
-                "ticker": "TSLA",
+                "ticker": "META",
                 "impact": "negative",
                 "relevance": "high"
             }
         ]
+    },
+    {
+        "title": "Bitcoin losing $70,000 is a warning sign for further downside - CoinDesk",
+        "sentiment": "NEGATIVE",
+        "score": 0.9169676303863525,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Dow Jones Futures: Meta-Nvidia Deal Lifts Nvidia, Hits AI Rivals - Investor's Business Daily",
+        "sentiment": "POSITIVE",
+        "score": 0.9031566381454468,
+        "signal": "BULLISH",
+        "tickers": [
+            "NVDA",
+            "META"
+        ],
+        "primary_ticker": "NVDA",
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "positive",
+                "relevance": "high"
+            },
+            {
+                "ticker": "META",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Bayer agrees to pay billions to settle Roundup lawsuits - DW.com",
+        "sentiment": "POSITIVE",
+        "score": 0.9026521444320679,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Compass says its psilocybin drug helped patients with severe depression in two trials - statnews.com",
+        "sentiment": "POSITIVE",
+        "score": 0.9234267473220825,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "Ted Sarandos Slams Paramount for \u2018Flooding the Zone With Misinformation\u2019 as Warner Bros. Discovery Initiates New Talks With Rival Suitor - Variety",
@@ -78,6 +128,32 @@
         "ticker_impacts": []
     },
     {
+        "title": "Infleqtion CEO Matt Kinsella on how the newly public quantum computing company is \u201cfollowing in the footsteps of Nvidia\u201d - Sherwood News",
+        "sentiment": "POSITIVE",
+        "score": 0.9311708211898804,
+        "signal": "BULLISH",
+        "tickers": [
+            "NVDA"
+        ],
+        "primary_ticker": "NVDA",
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "VW Group Delays Scout Motors Launch Until at Least 2028: Report - The Drive",
+        "sentiment": "NEGATIVE",
+        "score": 0.9642706513404846,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Oil Falls After Iran Calls Nuclear Talks With US Constructive - Bloomberg",
         "sentiment": "NEGATIVE",
         "score": 0.9397764205932617,
@@ -87,31 +163,21 @@
         "ticker_impacts": []
     },
     {
-        "title": "Humanoid robots show off creepily impressive kung-fu moves during Lunar New Year festival in China - Live Science",
-        "sentiment": "POSITIVE",
-        "score": 0.88820481300354,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Anthropic releases Sonnet 4.6 - TechCrunch",
-        "sentiment": "POSITIVE",
-        "score": 0.8984684348106384,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Ford\u2019s $30,000 EV pickup beats every other truck in one key area - Electrek",
-        "sentiment": "POSITIVE",
-        "score": 0.812306821346283,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
+        "title": "Amazon pulls the plug on 'Blue Jay' warehouse robot after only a few months - Business Insider",
+        "sentiment": "NEGATIVE",
+        "score": 0.923004150390625,
+        "signal": "BEARISH",
+        "tickers": [
+            "AMZN"
+        ],
+        "primary_ticker": "AMZN",
+        "ticker_impacts": [
+            {
+                "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
     },
     {
         "title": "$56 trillion national debt leading to a spiraling crisis: budget watchdog warns the U.S. is walking a crumbling path - Fortune",
@@ -141,10 +207,19 @@
         "ticker_impacts": []
     },
     {
-        "title": "Thomas Pritzker steps down as Hyatt executive chair over Epstein ties - Financial Times",
-        "sentiment": "NEGATIVE",
-        "score": 0.8328592777252197,
-        "signal": "BEARISH",
+        "title": "84-year-old Dividend King tops $1 trillion valuation milestone - thestreet.com",
+        "sentiment": "POSITIVE",
+        "score": 0.9331488609313965,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "India bids to attract over $200B in AI infrastructure investment by 2028 - TechCrunch",
+        "sentiment": "POSITIVE",
+        "score": 0.9179640412330627,
+        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -153,24 +228,6 @@
         "title": "Postal union president focused on keeping USPS an \u2018affordable option,\u2019 amid agency\u2019s financial woes - Federal News Network",
         "sentiment": "POSITIVE",
         "score": 0.7400528788566589,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Bitcoin on Pace for Longest Losing Streak Since 2018 Bear Market - Decrypt",
-        "sentiment": "NEGATIVE",
-        "score": 0.9567351937294006,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Ford is asking the Trump Administration to allow Chinese EV tech in the US - Electrek",
-        "sentiment": "POSITIVE",
-        "score": 0.7013725638389587,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
