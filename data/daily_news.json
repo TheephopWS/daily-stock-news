@@ -1,5 +1,14 @@
 [
     {
+        "title": "Asia stocks fall as rate uncertainty, Iran tensions weigh; S.Korea outperforms - Investing.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9645870923995972,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "In a historic vote, Tennessee Volkswagen workers get their first union contract - NPR",
         "sentiment": "NEGATIVE",
         "score": 0.9419920444488525,
@@ -11,7 +20,7 @@
     {
         "title": "Stocks Fall, Oil Climbs with Geopolitics in Focus: Markets Wrap - Bloomberg",
         "sentiment": "NEGATIVE",
-        "score": 0.8849577903747559,
+        "score": 0.8849587440490723,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -20,7 +29,7 @@
     {
         "title": "Japan inflation falls below BOJ's 2% target for first time since March 2022 - CNBC",
         "sentiment": "NEGATIVE",
-        "score": 0.8794776201248169,
+        "score": 0.879477322101593,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -38,7 +47,7 @@
     {
         "title": "Inside the meeting: White House favors some stablecoin rewards, tells banks it's time to move - CoinDesk",
         "sentiment": "POSITIVE",
-        "score": 0.7543253898620605,
+        "score": 0.7543250322341919,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
@@ -47,7 +56,7 @@
     {
         "title": "US civil rights agency sues Coca-Cola distributor for excluding men from casino work trip - AP News",
         "sentiment": "NEGATIVE",
-        "score": 0.8874885439872742,
+        "score": 0.887488603591919,
         "signal": "BEARISH",
         "tickers": [
             "KO"
@@ -64,7 +73,7 @@
     {
         "title": "Bank of America commits $25bn to private credit lending - Financial Times",
         "sentiment": "POSITIVE",
-        "score": 0.8837559819221497,
+        "score": 0.8837558627128601,
         "signal": "BULLISH",
         "tickers": [
             "BAC"
@@ -81,7 +90,7 @@
     {
         "title": "K-shaped economy hits Walmart as high-income shoppers are increasingly driving sales - NBC News",
         "sentiment": "NEGATIVE",
-        "score": 0.8564741015434265,
+        "score": 0.8564744591712952,
         "signal": "BEARISH",
         "tickers": [
             "WMT"
@@ -98,7 +107,7 @@
     {
         "title": "JPMorgan Says Trump\u2019s $5 Billion Suit \u2018Fraudulently\u2019 Includes Dimon - Bloomberg",
         "sentiment": "NEGATIVE",
-        "score": 0.9192757606506348,
+        "score": 0.9192755222320557,
         "signal": "BEARISH",
         "tickers": [
             "JPM"
@@ -113,13 +122,53 @@
         ]
     },
     {
+        "title": "Amazon surpasses Walmart in annual revenue for first time, as both chase AI-fueled growth - CNBC",
+        "sentiment": "POSITIVE",
+        "score": 0.9423974752426147,
+        "signal": "BULLISH",
+        "tickers": [
+            "AMZN",
+            "WMT"
+        ],
+        "primary_ticker": "AMZN",
+        "ticker_impacts": [
+            {
+                "ticker": "AMZN",
+                "impact": "positive",
+                "relevance": "high"
+            },
+            {
+                "ticker": "WMT",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
         "title": "Sheriff's deputies evict Rita Ortiz, Beverly Hills businesswoman accused of wrongfully placing multimillion-dollar liens on homes - ABC7 Los Angeles",
         "sentiment": "NEGATIVE",
-        "score": 0.8520899415016174,
+        "score": 0.8520898222923279,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
+    },
+    {
+        "title": "He solicited a child on Facebook, even after Meta banned him - The Washington Post",
+        "sentiment": "NEGATIVE",
+        "score": 0.7792106866836548,
+        "signal": "BEARISH",
+        "tickers": [
+            "META"
+        ],
+        "primary_ticker": "META",
+        "ticker_impacts": [
+            {
+                "ticker": "META",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
     },
     {
         "title": "Judge scolds Mark Zuckerberg's team for wearing Meta glasses to social media trial - CBS News",
@@ -139,9 +188,18 @@
         ]
     },
     {
+        "title": "Sam Altman says the quiet part out loud, confirming some companies are \u2018AI washing\u2019 by blaming unrelated layoffs on the technology - Fortune",
+        "sentiment": "NEGATIVE",
+        "score": 0.9616430997848511,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "New York hits the brakes on robotaxi expansion plan - TechCrunch",
         "sentiment": "NEGATIVE",
-        "score": 0.760956346988678,
+        "score": 0.7609585523605347,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -150,39 +208,16 @@
     {
         "title": "SoftBank to spend an eye-popping $33B to build huge US gas power plant - TechCrunch",
         "sentiment": "POSITIVE",
-        "score": 0.7317746877670288,
+        "score": 0.7317739129066467,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Amazon dethrones Walmart as the world's biggest company by sales - NPR",
-        "sentiment": "NEGATIVE",
-        "score": 0.7225127816200256,
-        "signal": "BEARISH",
-        "tickers": [
-            "WMT",
-            "AMZN"
-        ],
-        "primary_ticker": "WMT",
-        "ticker_impacts": [
-            {
-                "ticker": "WMT",
-                "impact": "negative",
-                "relevance": "high"
-            },
-            {
-                "ticker": "AMZN",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
         "title": "Grandson of Reese's Inventor Swipes at Hershey - Newser",
         "sentiment": "NEGATIVE",
-        "score": 0.7048690319061279,
+        "score": 0.7048676013946533,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -191,7 +226,7 @@
     {
         "title": "Treasuries Head for Worst Run in a Month on Inflation Fears - Bloomberg.com",
         "sentiment": "NEGATIVE",
-        "score": 0.9468628168106079,
+        "score": 0.9468626976013184,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -200,7 +235,7 @@
     {
         "title": "Hims & Hers to Acquire Eucalyptus in $1.15 Billion Deal - The Wall Street Journal",
         "sentiment": "POSITIVE",
-        "score": 0.8847435116767883,
+        "score": 0.884743332862854,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
@@ -209,7 +244,7 @@
     {
         "title": "It\u2019s MAGA v Broligarch in the battle over prediction markets - The Verge",
         "sentiment": "NEGATIVE",
-        "score": 0.8229914903640747,
+        "score": 0.8229917287826538,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -227,7 +262,7 @@
     {
         "title": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW - TechCrunch",
         "sentiment": "POSITIVE",
-        "score": 0.8702285289764404,
+        "score": 0.8702282905578613,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
@@ -245,16 +280,39 @@
     {
         "title": "JetBlue flight returns to Newark Airport due to engine failure; full ground stop issued - ABC7 New York",
         "sentiment": "NEGATIVE",
-        "score": 0.9433369636535645,
+        "score": 0.943337082862854,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
+        "title": "Treasury Announces Public-Private Initiative to Strengthen Cybersecurity and Risk Management for AI - U.S. Department of the Treasury (.gov)",
+        "sentiment": "POSITIVE",
+        "score": 0.7920931577682495,
+        "signal": "BULLISH",
+        "tickers": [
+            "AI",
+            "INTC"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "AI",
+                "impact": "positive",
+                "relevance": "medium"
+            },
+            {
+                "ticker": "INTC",
+                "impact": "positive",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
         "title": "Johnson & Johnson Expands U.S. Footprint with more than $1 Billion Investment in Next Generation Cell Therapy Manufacturing Facility in Pennsylvania - Johnson & Johnson",
         "sentiment": "POSITIVE",
-        "score": 0.8970597982406616,
+        "score": 0.8970596194267273,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
