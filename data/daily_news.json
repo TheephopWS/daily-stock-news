@@ -1,18 +1,44 @@
 [
     {
-        "title": "Ted Sarandos Says James Cameron Is \u201cPart of the Paramount Disinformation Campaign\u201d on Warner Bros. Deal - The Hollywood Reporter",
+        "title": "Bay Area carmaker, down billions in value, lays off hundreds more workers - SFGATE",
         "sentiment": "NEGATIVE",
-        "score": 0.7205107808113098,
+        "score": 0.9697155952453613,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Ex-Google employees charged for \u2018stealing trade secrets\u2019 around Pixel\u2019s Tensor chip - 9to5Google",
+        "sentiment": "NEGATIVE",
+        "score": 0.7652119994163513,
         "signal": "BEARISH",
         "tickers": [
-            "NFLX"
+            "GOOGL"
         ],
-        "primary_ticker": null,
+        "primary_ticker": "GOOGL",
         "ticker_impacts": [
             {
-                "ticker": "NFLX",
+                "ticker": "GOOGL",
                 "impact": "negative",
-                "relevance": "medium"
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "AI coding bot didn't take down AWS, Amazon confirms - About Amazon",
+        "sentiment": "NEGATIVE",
+        "score": 0.8076515197753906,
+        "signal": "BEARISH",
+        "tickers": [
+            "AMZN"
+        ],
+        "primary_ticker": "AMZN",
+        "ticker_impacts": [
+            {
+                "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "high"
             }
         ]
     },
@@ -34,6 +60,50 @@
         ]
     },
     {
+        "title": "Tesla Stock Slides After Musk Launches Cheaper Cybertruck. There\u2019s a Concern. - Barron's",
+        "sentiment": "NEGATIVE",
+        "score": 0.8309097290039062,
+        "signal": "BEARISH",
+        "tickers": [
+            "TSLA"
+        ],
+        "primary_ticker": "TSLA",
+        "ticker_impacts": [
+            {
+                "ticker": "TSLA",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Cyber Stocks Slide as Anthropic Unveils Claude Security Tool - Bloomberg.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9691103100776672,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "CoreWeave Stock Falls Amid Blue Owl Doubts, Data Center Debt Financing Report - Investor's Business Daily",
+        "sentiment": "NEGATIVE",
+        "score": 0.9740405678749084,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "US economic growth weaker than thought in fourth quarter with government shutdown, consumer pullback - AP News",
+        "sentiment": "NEGATIVE",
+        "score": 0.9708517789840698,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Nevada legal battle against prediction markets it calls 'unlicensed sports gambling' is moving forward - NBC News",
         "sentiment": "NEGATIVE",
         "score": 0.7687100172042847,
@@ -43,13 +113,36 @@
         "ticker_impacts": []
     },
     {
-        "title": "Social media companies face legal reckoning over mental health harms to children - AP News",
-        "sentiment": "NEGATIVE",
-        "score": 0.8222881555557251,
-        "signal": "BEARISH",
+        "title": "Trump And Iran Put Oil Prices Near Six-Month Highs But This Energy Industry Was Already Rallying - Investor's Business Daily",
+        "sentiment": "POSITIVE",
+        "score": 0.9013265371322632,
+        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
+    },
+    {
+        "title": "After 16 Years, Walmart Loses Top Spot to Amazon - Newser",
+        "sentiment": "NEGATIVE",
+        "score": 0.835168182849884,
+        "signal": "BEARISH",
+        "tickers": [
+            "WMT",
+            "AMZN"
+        ],
+        "primary_ticker": "WMT",
+        "ticker_impacts": [
+            {
+                "ticker": "WMT",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
     },
     {
         "title": "Portland company recalls popular Trader Joe\u2019s frozen product that may contain glass - OregonLive.com",
@@ -61,47 +154,15 @@
         "ticker_impacts": []
     },
     {
-        "title": "Amazon blames human employees for an AI coding agent\u2019s mistake - The Verge",
+        "title": "Mark Zuckerberg\u2019s entourage threatened with contempt for wearing Meta AI glasses into a no-recording courtroom - Yahoo",
         "sentiment": "NEGATIVE",
-        "score": 0.9631378650665283,
+        "score": 0.8601917624473572,
         "signal": "BEARISH",
         "tickers": [
-            "AMZN"
-        ],
-        "primary_ticker": "AMZN",
-        "ticker_impacts": [
-            {
-                "ticker": "AMZN",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Lucid Motors slashes 12% of its workforce as it seeks profitability - TechCrunch",
-        "sentiment": "NEGATIVE",
-        "score": 0.9730625748634338,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Tesla slashes Cybertruck prices as it tries to move (unpainted) metal - Ars Technica",
-        "sentiment": "NEGATIVE",
-        "score": 0.7082258462905884,
-        "signal": "BEARISH",
-        "tickers": [
-            "TSLA",
             "META"
         ],
-        "primary_ticker": "TSLA",
+        "primary_ticker": "META",
         "ticker_impacts": [
-            {
-                "ticker": "TSLA",
-                "impact": "negative",
-                "relevance": "high"
-            },
             {
                 "ticker": "META",
                 "impact": "negative",
@@ -119,21 +180,13 @@
         "ticker_impacts": []
     },
     {
-        "title": "Under Mamdani, City to Probe Businesses Where Most Workers Take Zero Sick Days - THE CITY - NYC News",
+        "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025 - The Hacker News",
         "sentiment": "NEGATIVE",
-        "score": 0.9279118776321411,
+        "score": 0.9285709857940674,
         "signal": "BEARISH",
-        "tickers": [
-            "AMD"
-        ],
-        "primary_ticker": "AMD",
-        "ticker_impacts": [
-            {
-                "ticker": "AMD",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
         "title": "Depleted Savings and Plummeting Sales: The American Casualties of Trump\u2019s Tariffs - The Dispatch",
@@ -163,18 +216,9 @@
         "ticker_impacts": []
     },
     {
-        "title": "Inside the meeting: White House favors some stablecoin rewards, tells banks it's time to move - CoinDesk",
-        "sentiment": "POSITIVE",
-        "score": 0.7543250322341919,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "FBI says ATM \u2018jackpotting\u2019 attacks are on the rise, and netting hackers millions in stolen cash - TechCrunch",
+        "title": "Stock Investors Brace for Possible U.S. Strike in Iran, Send Dow Industrials Falling - The Wall Street Journal",
         "sentiment": "NEGATIVE",
-        "score": 0.7207279205322266,
+        "score": 0.9375433325767517,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -207,21 +251,13 @@
         ]
     },
     {
-        "title": "OpenAI Nears $100 Billion Funding Round. Why These AI Stocks Could Get A Lift. - Investor's Business Daily",
-        "sentiment": "POSITIVE",
-        "score": 0.9347284436225891,
-        "signal": "BULLISH",
-        "tickers": [
-            "NVDA"
-        ],
+        "title": "OpenAI's Sam Altman and Anthropic's Dario Amodei refuse to hold hands weeks after Super Bowl ad war - Fortune",
+        "sentiment": "NEGATIVE",
+        "score": 0.946231484413147,
+        "signal": "BEARISH",
+        "tickers": [],
         "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "NVDA",
-                "impact": "positive",
-                "relevance": "medium"
-            }
-        ]
+        "ticker_impacts": []
     },
     {
         "title": "\u201cMisled Investors?\u201d PayPal (PYPL) Faces Securities Fraud Class Action Lawsuit over Business Growth Claims - TipRanks",
@@ -235,38 +271,6 @@
         "ticker_impacts": [
             {
                 "ticker": "PYPL",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Modi\u2019s AI summit turns awkward as tech leaders Sam Altman and Dario Amodei dodge contact - AP News",
-        "sentiment": "NEGATIVE",
-        "score": 0.8906846642494202,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Amazon dethrones Walmart as the world's biggest company by sales - NPR",
-        "sentiment": "NEGATIVE",
-        "score": 0.7225116491317749,
-        "signal": "BEARISH",
-        "tickers": [
-            "AMZN",
-            "WMT"
-        ],
-        "primary_ticker": "AMZN",
-        "ticker_impacts": [
-            {
-                "ticker": "AMZN",
-                "impact": "negative",
-                "relevance": "high"
-            },
-            {
-                "ticker": "WMT",
                 "impact": "negative",
                 "relevance": "high"
             }
