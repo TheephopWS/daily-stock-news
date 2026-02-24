@@ -1,5 +1,14 @@
 [
     {
+        "title": "European stocks start the week lower as markets react to new Trump tariffs - CNBC",
+        "sentiment": "NEGATIVE",
+        "score": 0.9717220067977905,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Bitcoin (BTC) news today: ETFs bleed $3.8 billion in historic five-week outflow streak - CoinDesk",
         "sentiment": "NEGATIVE",
         "score": 0.923928439617157,
@@ -17,9 +26,18 @@
         ]
     },
     {
-        "title": "Bitcoin falls below $65,000 as Trump tariff moves raise uncertainty - CNBC",
+        "title": "Oil slides on Iran nuclear talks, fresh US tariff uncertainty By Reuters - Investing.com",
         "sentiment": "NEGATIVE",
-        "score": 0.9717726707458496,
+        "score": 0.9047542214393616,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Bitcoin sinks below $65,000 as macro shocks rattle fragile market: analysts - The Block",
+        "sentiment": "NEGATIVE",
+        "score": 0.9572094082832336,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -71,10 +89,59 @@
         "ticker_impacts": []
     },
     {
+        "title": "Nvidia\u2019s Stock Is So Stuck Even Blowout Earnings May Not Lift It - Bloomberg",
+        "sentiment": "NEGATIVE",
+        "score": 0.9320270419120789,
+        "signal": "BEARISH",
+        "tickers": [
+            "NVDA",
+            "INTC"
+        ],
+        "primary_ticker": "NVDA",
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "INTC",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
         "title": "Global Cash Is Fueling a Historic Start for Latin America Stocks - Bloomberg.com",
         "sentiment": "POSITIVE",
         "score": 0.8707776665687561,
         "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "PayPal Data Breach Confirmed\u2014Money Was Stolen, Passwords Now Reset - Forbes",
+        "sentiment": "NEGATIVE",
+        "score": 0.7765781283378601,
+        "signal": "BEARISH",
+        "tickers": [
+            "PYPL"
+        ],
+        "primary_ticker": "PYPL",
+        "ticker_impacts": [
+            {
+                "ticker": "PYPL",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Prediction: The Trump Bull Market Will Soon End -- and the Federal Reserve Will Be the Surprise Culprit - The Motley Fool",
+        "sentiment": "NEGATIVE",
+        "score": 0.7653071284294128,
+        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -85,27 +152,27 @@
         "score": 0.9645391702651978,
         "signal": "BEARISH",
         "tickers": [
-            "CRM",
-            "MSFT"
+            "MSFT",
+            "CRM"
         ],
         "primary_ticker": null,
         "ticker_impacts": [
             {
-                "ticker": "CRM",
+                "ticker": "MSFT",
                 "impact": "negative",
                 "relevance": "medium"
             },
             {
-                "ticker": "MSFT",
+                "ticker": "CRM",
                 "impact": "negative",
                 "relevance": "medium"
             }
         ]
     },
     {
-        "title": "Earnings and AI fears drive \u2018extreme\u2019 churn in US stock market - Financial Times",
+        "title": "Private equity owners slash valuation of Swiss watchmaker Breitling - Financial Times",
         "sentiment": "NEGATIVE",
-        "score": 0.7448278069496155,
+        "score": 0.9721284508705139,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -164,62 +231,44 @@
         "ticker_impacts": []
     },
     {
-        "title": "Lucid Group (LCID) Q4 Earnings on Deck. Options Traders Brace for a 14.87% Swing - TipRanks",
-        "sentiment": "NEGATIVE",
-        "score": 0.9706013798713684,
-        "signal": "BEARISH",
+        "title": "\u2018Time to Stock Up,\u2019 Says Top Analyst Ruben Roy About Nvidia Stock (NVDA) After Meta Deal - TipRanks",
+        "sentiment": "POSITIVE",
+        "score": 0.9333080053329468,
+        "signal": "BULLISH",
         "tickers": [
-            "LCID",
-            "EV"
+            "NVDA",
+            "META"
         ],
-        "primary_ticker": "LCID",
+        "primary_ticker": "NVDA",
         "ticker_impacts": [
             {
-                "ticker": "LCID",
-                "impact": "negative",
+                "ticker": "NVDA",
+                "impact": "positive",
                 "relevance": "high"
             },
             {
-                "ticker": "EV",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
-    },
-    {
-        "title": "Silver, gold surge as Iran bets shift - thestreet.com",
-        "sentiment": "POSITIVE",
-        "score": 0.9302177429199219,
-        "signal": "BULLISH",
-        "tickers": [
-            "META"
-        ],
-        "primary_ticker": null,
-        "ticker_impacts": [
-            {
                 "ticker": "META",
                 "impact": "positive",
-                "relevance": "medium"
+                "relevance": "high"
             }
         ]
     },
     {
-        "title": "Court Having Trouble Assembling Jury for Elon Musk Because People Hate Him So Much - Futurism",
+        "title": "Amazon\u2019s Blundering AI Caused Multiple AWS Outages - Futurism",
         "sentiment": "NEGATIVE",
-        "score": 0.9222396612167358,
+        "score": 0.9608338475227356,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Watchdog Says FAA Lacks Resources to Properly Oversee United Airlines - Gizmodo",
-        "sentiment": "NEGATIVE",
-        "score": 0.9693673253059387,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
+        "tickers": [
+            "AMZN"
+        ],
+        "primary_ticker": "AMZN",
+        "ticker_impacts": [
+            {
+                "ticker": "AMZN",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
     },
     {
         "title": "Cybersecurity Companies' Stocks Fall Sharply as Anthropic Releases Claude Security Tool - CybersecurityNews",
@@ -262,15 +311,6 @@
         "sentiment": "NEGATIVE",
         "score": 0.8145884871482849,
         "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "New data from OpenAI shows consumer ChatGPT users are shifting away from work tasks - Axios",
-        "sentiment": "POSITIVE",
-        "score": 0.9368784427642822,
-        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
