@@ -1,5 +1,23 @@
 [
     {
+        "title": "IBM posts steepest daily drop since 2000 after Anthropic says AI can modernize COBOL - Yahoo Finance",
+        "sentiment": "NEGATIVE",
+        "score": 0.9738550186157227,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "American Express Hits Dow Jones On AI Doomsday Scenario - Investor's Business Daily",
+        "sentiment": "NEGATIVE",
+        "score": 0.9645323157310486,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Blizzard updates: 9,000 flights canceled and thousands left without power as winter storm pummels the Northeast - Business Insider",
         "sentiment": "NEGATIVE",
         "score": 0.9671707153320312,
@@ -9,18 +27,53 @@
         "ticker_impacts": []
     },
     {
-        "title": "Paramount Sweetens Offer For Warner Bros. Discovery - Deadline",
+        "title": "Air Force Announces B-21 Production Deal, 2027 Entry into Service - Air & Space Forces Magazine",
         "sentiment": "POSITIVE",
-        "score": 0.9369128346443176,
+        "score": 0.9452989101409912,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Did a blog post just cause software stocks to lose more than $200 billion in market cap? - MarketWatch",
+        "title": "Bitcoin's Slide to $64,000 Is a 'Macro Shock,' Not a Market Breakdown - Decrypt",
         "sentiment": "NEGATIVE",
-        "score": 0.9528565406799316,
+        "score": 0.96124267578125,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Texas is about to overtake California in battery storage - Electrek",
+        "sentiment": "POSITIVE",
+        "score": 0.9311890602111816,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "\u2018The perfect partner\u2019: Astellas, Vir engage in $1.7B deal for masked prostate cancer bispecific - Fierce Biotech",
+        "sentiment": "POSITIVE",
+        "score": 0.7572781443595886,
+        "signal": "BULLISH",
+        "tickers": [
+            "TCE"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "TCE",
+                "impact": "positive",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "UPS Atlanta Hub set to close next week - AJC.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.8821751475334167,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -44,6 +97,52 @@
         ]
     },
     {
+        "title": "CoreWeave Is About to Report Q4 Earnings. Options Traders Expect a 17.11% Move in CRWV Stock - TipRanks",
+        "sentiment": "POSITIVE",
+        "score": 0.9459612965583801,
+        "signal": "BULLISH",
+        "tickers": [
+            "CRWV",
+            "INTC",
+            "AI"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "CRWV",
+                "impact": "positive",
+                "relevance": "medium"
+            },
+            {
+                "ticker": "INTC",
+                "impact": "positive",
+                "relevance": "medium"
+            },
+            {
+                "ticker": "AI",
+                "impact": "positive",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Amazon to invest $12 billion in first data center campuses in Louisiana - About Amazon",
+        "sentiment": "POSITIVE",
+        "score": 0.8088217973709106,
+        "signal": "BULLISH",
+        "tickers": [
+            "AMZN"
+        ],
+        "primary_ticker": "AMZN",
+        "ticker_impacts": [
+            {
+                "ticker": "AMZN",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
         "title": "Nissan pulls the plug on the under-$30,000 LEAF EV for 2026 - Electrek",
         "sentiment": "POSITIVE",
         "score": 0.7147011756896973,
@@ -51,6 +150,23 @@
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
+    },
+    {
+        "title": "New Device From Starlink Rival Taara Promises 25Gbps Internet Using Light - PCMag",
+        "sentiment": "NEGATIVE",
+        "score": 0.8528879284858704,
+        "signal": "BEARISH",
+        "tickers": [
+            "GOOGL"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "GOOGL",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
     },
     {
         "title": "How Domino's is trying to double its business during a rough patch for big pizza rivals - CNBC",
@@ -62,19 +178,37 @@
         "ticker_impacts": []
     },
     {
-        "title": "PayPal Attracts Takeover Interest After Stock Slump - Bloomberg.com",
+        "title": "Nvidia Teams Up with Palo Alto and Others to Protect Critical Infrastructure - TipRanks",
         "sentiment": "POSITIVE",
-        "score": 0.74221271276474,
+        "score": 0.8260095715522766,
         "signal": "BULLISH",
         "tickers": [
-            "PYPL"
+            "NVDA",
+            "PANW",
+            "SIEGY",
+            "AKAM"
         ],
-        "primary_ticker": "PYPL",
+        "primary_ticker": "NVDA",
         "ticker_impacts": [
             {
-                "ticker": "PYPL",
+                "ticker": "NVDA",
                 "impact": "positive",
                 "relevance": "high"
+            },
+            {
+                "ticker": "PANW",
+                "impact": "positive",
+                "relevance": "medium"
+            },
+            {
+                "ticker": "SIEGY",
+                "impact": "positive",
+                "relevance": "medium"
+            },
+            {
+                "ticker": "AKAM",
+                "impact": "positive",
+                "relevance": "medium"
             }
         ]
     },
@@ -83,15 +217,6 @@
         "sentiment": "POSITIVE",
         "score": 0.8501914739608765,
         "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Moody\u2019s alert cites gap in data centre accounting for Big Tech companies - Financial Times",
-        "sentiment": "NEGATIVE",
-        "score": 0.9512924551963806,
-        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -115,9 +240,9 @@
         "ticker_impacts": []
     },
     {
-        "title": "Mortgage Rates Dip Back Into The 5's - Mortgage News Daily",
+        "title": "US software and private capital shares hit with fresh wave of selling - Financial Times",
         "sentiment": "NEGATIVE",
-        "score": 0.9664016366004944,
+        "score": 0.9303392171859741,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -128,15 +253,6 @@
         "sentiment": "POSITIVE",
         "score": 0.7347912788391113,
         "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Jackpot dispute: Circle K sues Scottsdale store clerk, Arizona Lottery over $12.8 million ticket - KTAR News 92.3 FM",
-        "sentiment": "NEGATIVE",
-        "score": 0.9149327874183655,
-        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -196,6 +312,15 @@
         "ticker_impacts": []
     },
     {
+        "title": "High power bills impeding heat pumps, CA's electrification goals - CalMatters",
+        "sentiment": "NEGATIVE",
+        "score": 0.9284661412239075,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Uber launches autonomous vehicles services venture in robotaxi push - Financial Times",
         "sentiment": "POSITIVE",
         "score": 0.927558183670044,
@@ -222,6 +347,23 @@
         "ticker_impacts": []
     },
     {
+        "title": "Delta 737 Engine Fails Taking Off From Savannah, Ignites Grass Fire as 179 Passengers Return - View from the Wing",
+        "sentiment": "NEGATIVE",
+        "score": 0.8788939714431763,
+        "signal": "BEARISH",
+        "tickers": [
+            "BA"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "BA",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
         "title": "Pharma lobbyists focus on a surprising new target: the FDA - statnews.com",
         "sentiment": "POSITIVE",
         "score": 0.8658358454704285,
@@ -234,6 +376,15 @@
         "title": "Oil to Surge as US and Iran Appear Set for War, Fesharaki Says - Bloomberg",
         "sentiment": "POSITIVE",
         "score": 0.9482090473175049,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Private Equity Outlook 2026: Gaining Traction - Bain & Company",
+        "sentiment": "POSITIVE",
+        "score": 0.9454975128173828,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
@@ -255,40 +406,5 @@
                 "relevance": "high"
             }
         ]
-    },
-    {
-        "title": "Bitcoin sinks below $65,000 as macro shocks rattle fragile market: analysts - The Block",
-        "sentiment": "NEGATIVE",
-        "score": 0.9572094082832336,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "When massive data centers rise from farmland, who benefits? This town offers clues - MLive.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.913009524345398,
-        "signal": "BEARISH",
-        "tickers": [
-            "INTC"
-        ],
-        "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "INTC",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
-    },
-    {
-        "title": "Elite investment bank settles case that put Wall Street's 100-hour weeks on trial - Business Insider",
-        "sentiment": "NEGATIVE",
-        "score": 0.7157270908355713,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
     }
 ]
