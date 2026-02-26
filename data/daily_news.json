@@ -1,17 +1,93 @@
 [
     {
-        "title": "Workday Guides for Subscription Revenue Growth to Slow Amid Mounting AI Worries - WSJ",
+        "title": "Lowe's earnings beat as sales jump more than 10% despite sluggish housing market - CNBC",
+        "sentiment": "POSITIVE",
+        "score": 0.9555791616439819,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Stock futures inch higher ahead of key earnings results from Nvidia: Live updates - CNBC",
+        "sentiment": "POSITIVE",
+        "score": 0.9193061590194702,
+        "signal": "BULLISH",
+        "tickers": [
+            "NVDA",
+            "INTC"
+        ],
+        "primary_ticker": "NVDA",
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "positive",
+                "relevance": "high"
+            },
+            {
+                "ticker": "INTC",
+                "impact": "positive",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Waymo robotaxis now available in 10 cities - Axios",
+        "sentiment": "POSITIVE",
+        "score": 0.8953233957290649,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Discord delays global age verification rollout after criticism - AP News",
         "sentiment": "NEGATIVE",
-        "score": 0.844605565071106,
+        "score": 0.8935179114341736,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Discord delays age verification plans after user outcry - BBC",
+        "title": "President Trump Is Restoring the American Dream - The White House (.gov)",
+        "sentiment": "POSITIVE",
+        "score": 0.8277650475502014,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "U.S. stock futures drift higher; Nvidia earnings to drive direction - Investing.com",
+        "sentiment": "POSITIVE",
+        "score": 0.9156903028488159,
+        "signal": "BULLISH",
+        "tickers": [
+            "NVDA"
+        ],
+        "primary_ticker": "NVDA",
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Workday Guides for Subscription Revenue Growth to Slow Amid Mounting AI Worries - WSJ",
         "sentiment": "NEGATIVE",
-        "score": 0.9587313532829285,
+        "score": 0.9513747692108154,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Why did AI \u2018science fiction\u2019 spur market panic? We asked a behavioral-finance expert to find out. - MarketWatch",
+        "sentiment": "NEGATIVE",
+        "score": 0.9235993027687073,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -35,23 +111,6 @@
         ]
     },
     {
-        "title": "LCID Earnings: Lucid Stock Slides after Mixed Q4 Results - TipRanks",
-        "sentiment": "NEGATIVE",
-        "score": 0.975716233253479,
-        "signal": "BEARISH",
-        "tickers": [
-            "LCID"
-        ],
-        "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "LCID",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
-    },
-    {
         "title": "DJI sues the FCC for \u201ccarelessly\u201d restricting its drones - Ars Technica",
         "sentiment": "NEGATIVE",
         "score": 0.958678126335144,
@@ -70,6 +129,15 @@
         "ticker_impacts": []
     },
     {
+        "title": "Vir Biotech Catapults On Its $1.71 Billion Deal With Astellas - Investor's Business Daily",
+        "sentiment": "POSITIVE",
+        "score": 0.9454450607299805,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Breeze lands in Birmingham and Tallahassee this July - The Points Guy",
         "sentiment": "POSITIVE",
         "score": 0.7044845819473267,
@@ -77,32 +145,6 @@
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
-    },
-    {
-        "title": "Trump to announce data center energy deals during State of the Union - Politico",
-        "sentiment": "POSITIVE",
-        "score": 0.9296806454658508,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Investors Are Dumping Software Stocks and Earnings Won\u2019t Stop It - Yahoo Finance",
-        "sentiment": "NEGATIVE",
-        "score": 0.7075067162513733,
-        "signal": "BEARISH",
-        "tickers": [
-            "CRM"
-        ],
-        "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "CRM",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
     },
     {
         "title": "AMD Stock Surges After AI Chip Maker Agrees to Meta Deal. It's a Big Win. - Barron's",
@@ -137,15 +179,6 @@
         "ticker_impacts": []
     },
     {
-        "title": "Dario Amodei expresses discomfort with the \u2018overnight\u2019 and accidental concentration of power in AI - Fortune",
-        "sentiment": "NEGATIVE",
-        "score": 0.8731340169906616,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
         "title": "NYC subway service melts down as riders return following blizzard - Gothamist",
         "sentiment": "NEGATIVE",
         "score": 0.9670313000679016,
@@ -158,6 +191,33 @@
         "title": "Bitcoin price analysis: BTC close to a bottom in price, but bulls will have to be patient - CoinDesk",
         "sentiment": "NEGATIVE",
         "score": 0.9050136804580688,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Ozempic And Wegovy Prices Will Be Cut By Up To 50%, Drug-Maker Says - Forbes",
+        "sentiment": "NEGATIVE",
+        "score": 0.9230775237083435,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "The latest supercar news today - supercarblondie.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.8414031267166138,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "With his tariff plan in tatters, Trump vows \u2018to do absolutely terrible things to foreign countries \u2026 in a much more powerful and obnoxious way\u2019 - Yahoo Finance",
+        "sentiment": "NEGATIVE",
+        "score": 0.9434135556221008,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
