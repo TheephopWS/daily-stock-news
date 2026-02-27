@@ -1,18 +1,26 @@
 [
     {
-        "title": "Lowe's earnings beat as sales jump more than 10% despite sluggish housing market - CNBC",
-        "sentiment": "POSITIVE",
-        "score": 0.9555791616439819,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
+        "title": "Salesforce CEO Marc Benioff: This isn\u2019t our first SaaSpocalypse - TechCrunch",
+        "sentiment": "NEGATIVE",
+        "score": 0.8133082985877991,
+        "signal": "BEARISH",
+        "tickers": [
+            "CRM"
+        ],
+        "primary_ticker": "CRM",
+        "ticker_impacts": [
+            {
+                "ticker": "CRM",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
     },
     {
-        "title": "Stock futures inch higher ahead of key earnings results from Nvidia: Live updates - CNBC",
-        "sentiment": "POSITIVE",
-        "score": 0.9193061590194702,
-        "signal": "BULLISH",
+        "title": "Nvidia Investors Give Tepid Reaction to Upbeat Forecast - Bloomberg.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9679023027420044,
+        "signal": "BEARISH",
         "tickers": [
             "NVDA",
             "INTC"
@@ -21,47 +29,38 @@
         "ticker_impacts": [
             {
                 "ticker": "NVDA",
-                "impact": "positive",
+                "impact": "negative",
                 "relevance": "high"
             },
             {
                 "ticker": "INTC",
-                "impact": "positive",
+                "impact": "negative",
                 "relevance": "medium"
             }
         ]
     },
     {
-        "title": "Waymo robotaxis now available in 10 cities - Axios",
-        "sentiment": "POSITIVE",
-        "score": 0.8953233957290649,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Discord delays global age verification rollout after criticism - AP News",
+        "title": "Oregon company recalls 55,000 pounds of frozen berries due to listeria concerns - OregonLive.com",
         "sentiment": "NEGATIVE",
-        "score": 0.8935179114341736,
+        "score": 0.9340280890464783,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "President Trump Is Restoring the American Dream - The White House (.gov)",
-        "sentiment": "POSITIVE",
-        "score": 0.8277650475502014,
-        "signal": "BULLISH",
+        "title": "IMF urges US to change course on economic policy - Financial Times",
+        "sentiment": "NEGATIVE",
+        "score": 0.9456051588058472,
+        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "U.S. stock futures drift higher; Nvidia earnings to drive direction - Investing.com",
+        "title": "Nvidia and other tech stocks lead Wall Street higher - AP News",
         "sentiment": "POSITIVE",
-        "score": 0.9156903028488159,
+        "score": 0.9240657687187195,
         "signal": "BULLISH",
         "tickers": [
             "NVDA"
@@ -76,28 +75,72 @@
         ]
     },
     {
-        "title": "Workday Guides for Subscription Revenue Growth to Slow Amid Mounting AI Worries - WSJ",
-        "sentiment": "NEGATIVE",
-        "score": 0.9513747692108154,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Why did AI \u2018science fiction\u2019 spur market panic? We asked a behavioral-finance expert to find out. - MarketWatch",
-        "sentiment": "NEGATIVE",
-        "score": 0.9235993027687073,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "US stocks rise after getting a reminder of AI\u2019s potential upsides - AP News",
+        "title": "IonQ Stock Jumps After Earnings Beat. 2026 Revenue Outlook Tops Expectations. - Barron's",
         "sentiment": "POSITIVE",
-        "score": 0.8987377882003784,
+        "score": 0.8093618154525757,
         "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Circle Internet\u2019s Quarterly Profit Surges on Stablecoin Demand - WSJ",
+        "sentiment": "POSITIVE",
+        "score": 0.7166715264320374,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "KTLA\u2019s Mark Kriski Among Layoffs As Nexstar Eliminates Jobs at Stations Across the Country; SAG-AFTRA Decries Cuts - Variety",
+        "sentiment": "NEGATIVE",
+        "score": 0.9693859219551086,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Trump claims tech companies will sign deals next week to pay for their own power supply - The Verge",
+        "sentiment": "POSITIVE",
+        "score": 0.9101439118385315,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "CME Restarts Gas and Metals Futures After Glitch Halts Trading - Bloomberg.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.961294412612915,
+        "signal": "BEARISH",
+        "tickers": [
+            "META"
+        ],
+        "primary_ticker": "META",
+        "ticker_impacts": [
+            {
+                "ticker": "META",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Jim Cramer drops unexpected take on stock market - thestreet.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.7712544202804565,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "US Data Center Construction Fell Amid Permit and Power Delays - Bloomberg.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.9752925038337708,
+        "signal": "BEARISH",
         "tickers": [
             "INTC"
         ],
@@ -105,15 +148,103 @@
         "ticker_impacts": [
             {
                 "ticker": "INTC",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Netflix Stock Has Best Day In Over A Year After Paramount's New Warner Bros. Bid - Investor's Business Daily",
+        "sentiment": "POSITIVE",
+        "score": 0.9139578938484192,
+        "signal": "BULLISH",
+        "tickers": [
+            "NFLX"
+        ],
+        "primary_ticker": "NFLX",
+        "ticker_impacts": [
+            {
+                "ticker": "NFLX",
+                "impact": "positive",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Ex\u2013presidential candidate Andrew Yang warns that millions of white-collar workers will lose their jobs within 18 months - Fortune",
+        "sentiment": "NEGATIVE",
+        "score": 0.9514432549476624,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Energy Department Announces Largest Loan in Department History, Delivering Over $7 Billion in Electricity Cost Savings for Georgia and Alabama Customers - Department of Energy (.gov)",
+        "sentiment": "POSITIVE",
+        "score": 0.9187472462654114,
+        "signal": "BULLISH",
+        "tickers": [
+            "EDF"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "EDF",
                 "impact": "positive",
                 "relevance": "medium"
             }
         ]
     },
     {
-        "title": "DJI sues the FCC for \u201ccarelessly\u201d restricting its drones - Ars Technica",
+        "title": "Novo Nordisk Licenses Vivtex Tech for Up to $2.1 Billion to Deepen Obesity Push - WSJ",
+        "sentiment": "POSITIVE",
+        "score": 0.7630016207695007,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "US Mortgage Rates Reach Lowest Since 2022, Spurs Refinancing - Bloomberg.com",
         "sentiment": "NEGATIVE",
-        "score": 0.958678126335144,
+        "score": 0.9721252918243408,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Private Credit Fears Deepen With UBS Warning of 15% Defaults - SWI swissinfo.ch",
+        "sentiment": "NEGATIVE",
+        "score": 0.8856377005577087,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Diageo Shares Sink on Cuts to Guidance, Dividend as New Boss Sets Sights on Turnaround - WSJ",
+        "sentiment": "NEGATIVE",
+        "score": 0.8227696418762207,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Legal sports gambling has gone way too far - Slow Boring",
+        "sentiment": "NEGATIVE",
+        "score": 0.9293867945671082,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Discord delays global age verification rollout after criticism - AP News",
+        "sentiment": "NEGATIVE",
+        "score": 0.8935179114341736,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -124,110 +255,6 @@
         "sentiment": "POSITIVE",
         "score": 0.8713820576667786,
         "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Vir Biotech Catapults On Its $1.71 Billion Deal With Astellas - Investor's Business Daily",
-        "sentiment": "POSITIVE",
-        "score": 0.9454450607299805,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Breeze lands in Birmingham and Tallahassee this July - The Points Guy",
-        "sentiment": "POSITIVE",
-        "score": 0.7044845819473267,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "AMD Stock Surges After AI Chip Maker Agrees to Meta Deal. It's a Big Win. - Barron's",
-        "sentiment": "POSITIVE",
-        "score": 0.9124435186386108,
-        "signal": "BULLISH",
-        "tickers": [
-            "AMD",
-            "META"
-        ],
-        "primary_ticker": "AMD",
-        "ticker_impacts": [
-            {
-                "ticker": "AMD",
-                "impact": "positive",
-                "relevance": "high"
-            },
-            {
-                "ticker": "META",
-                "impact": "positive",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Boaz Weinstein Warns \u2018Wheels Coming Off\u2019 Private Credit Funds - Bloomberg",
-        "sentiment": "NEGATIVE",
-        "score": 0.9276159405708313,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "NYC subway service melts down as riders return following blizzard - Gothamist",
-        "sentiment": "NEGATIVE",
-        "score": 0.9670313000679016,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Bitcoin price analysis: BTC close to a bottom in price, but bulls will have to be patient - CoinDesk",
-        "sentiment": "NEGATIVE",
-        "score": 0.9050136804580688,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Ozempic And Wegovy Prices Will Be Cut By Up To 50%, Drug-Maker Says - Forbes",
-        "sentiment": "NEGATIVE",
-        "score": 0.9230775237083435,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "The latest supercar news today - supercarblondie.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.8414031267166138,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "With his tariff plan in tatters, Trump vows \u2018to do absolutely terrible things to foreign countries \u2026 in a much more powerful and obnoxious way\u2019 - Yahoo Finance",
-        "sentiment": "NEGATIVE",
-        "score": 0.9434135556221008,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Hims & Hers Stock Falls. Why Earnings Are Underwhelming Investors. - Barron's",
-        "sentiment": "NEGATIVE",
-        "score": 0.9064630270004272,
-        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
