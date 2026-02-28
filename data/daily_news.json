@@ -1,17 +1,43 @@
 [
     {
-        "title": "Stock Market Today: Dow, S&P 500 and Nasdaq point to lower start as volatile February comes to a close; Treasury yields keep slipping; PPI data loom; Block, CoreWeave and Netflix in focus - MarketWatch",
+        "title": "Dow tumbles 600 points after hot inflation report, mounting concerns about AI impact: Live updates - CNBC",
         "sentiment": "NEGATIVE",
-        "score": 0.9511122107505798,
+        "score": 0.9715620875358582,
         "signal": "BEARISH",
         "tickers": [
-            "NFLX"
+            "NVDA"
         ],
-        "primary_ticker": "NFLX",
+        "primary_ticker": null,
         "ticker_impacts": [
             {
-                "ticker": "NFLX",
+                "ticker": "NVDA",
                 "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Wholesale inflation was hotter than expected in January - CNN",
+        "sentiment": "POSITIVE",
+        "score": 0.7999510169029236,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "OpenAI and Amazon announce strategic partnership - OpenAI",
+        "sentiment": "POSITIVE",
+        "score": 0.8906145095825195,
+        "signal": "BULLISH",
+        "tickers": [
+            "AMZN"
+        ],
+        "primary_ticker": "AMZN",
+        "ticker_impacts": [
+            {
+                "ticker": "AMZN",
+                "impact": "positive",
                 "relevance": "high"
             }
         ]
@@ -19,16 +45,7 @@
     {
         "title": "Jack Dorsey's Block cuts 40% of staff, 4,000+ people \u2014 and yes, it's because of AI efficiencies - Venturebeat",
         "sentiment": "NEGATIVE",
-        "score": 0.8710875511169434,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "CoreWeave Stock Drops After Mixed Earnings and a Whole Lot of Debt - Barron's",
-        "sentiment": "NEGATIVE",
-        "score": 0.9681814908981323,
+        "score": 0.8710871934890747,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -37,47 +54,57 @@
     {
         "title": "Bank of America resets Nvidia price target after earnings - Yahoo Finance",
         "sentiment": "NEGATIVE",
-        "score": 0.9615485072135925,
+        "score": 0.9615486264228821,
         "signal": "BEARISH",
         "tickers": [
-            "BAC",
-            "NVDA"
+            "NVDA",
+            "BAC"
         ],
-        "primary_ticker": "BAC",
+        "primary_ticker": "NVDA",
         "ticker_impacts": [
-            {
-                "ticker": "BAC",
-                "impact": "negative",
-                "relevance": "high"
-            },
             {
                 "ticker": "NVDA",
                 "impact": "negative",
                 "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "DRAM Shortage Will Cause 'Seismic Shift' in Smartphone Market, But Apple Will Be Less Affected - MacRumors",
-        "sentiment": "NEGATIVE",
-        "score": 0.9692904353141785,
-        "signal": "BEARISH",
-        "tickers": [
-            "AAPL"
-        ],
-        "primary_ticker": "AAPL",
-        "ticker_impacts": [
+            },
             {
-                "ticker": "AAPL",
+                "ticker": "BAC",
                 "impact": "negative",
                 "relevance": "high"
             }
         ]
     },
     {
+        "title": "Young woman says she was on social media 'all day long' as a child in landmark addiction trial - AP News",
+        "sentiment": "NEGATIVE",
+        "score": 0.7391071319580078,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "CoreWeave Stock Falls On Q4 Earnings As Order Backlog Grows 20% - Investor's Business Daily",
+        "sentiment": "NEGATIVE",
+        "score": 0.9759680032730103,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Smartphone sales could be in for their biggest drop ever - The Verge",
+        "sentiment": "NEGATIVE",
+        "score": 0.9736329317092896,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Barclays, Atlas Among Firms Exposed to Collapsed UK Lender MFS - Bloomberg.com",
         "sentiment": "NEGATIVE",
-        "score": 0.7468175292015076,
+        "score": 0.7468185424804688,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -86,7 +113,7 @@
     {
         "title": "US moves to cut off a Swiss bank over alleged Iran and Russia money flows - AP News",
         "sentiment": "NEGATIVE",
-        "score": 0.8697589635848999,
+        "score": 0.8697590827941895,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -95,27 +122,10 @@
     {
         "title": "State Farm\u00ae Mutual Announces $5 Billion Cash Back to Auto Customers Through Largest Dividend in Company History - State Farm",
         "sentiment": "POSITIVE",
-        "score": 0.8970658183097839,
+        "score": 0.8970653414726257,
         "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
-    },
-    {
-        "title": "FDA Grants Second Approval under the National Priority Voucher Pilot Program - fda.gov",
-        "sentiment": "POSITIVE",
-        "score": 0.7313442826271057,
-        "signal": "BULLISH",
-        "tickers": [
-            "CNPV"
-        ],
-        "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "CNPV",
-                "impact": "positive",
-                "relevance": "medium"
-            }
-        ]
     }
 ]
