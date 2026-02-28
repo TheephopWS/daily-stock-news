@@ -1,8 +1,26 @@
 [
     {
-        "title": "Jack Dorsey\u2019s Block to Lay Off 40% of Its Workforce in AI Remake - WSJ",
+        "title": "Jack Dorsey's layoff memo is an ominous sign of what could come next - Business Insider",
         "sentiment": "NEGATIVE",
-        "score": 0.9562503695487976,
+        "score": 0.966995120048523,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Young woman says she was on social media 'all day long' as a child in landmark addiction trial - AP News",
+        "sentiment": "NEGATIVE",
+        "score": 0.7391071319580078,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "State Farm auto customers getting $100 refund - Axios",
+        "sentiment": "NEGATIVE",
+        "score": 0.7466626167297363,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -16,6 +34,29 @@
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
+    },
+    {
+        "title": "Nvidia\u2019s Upbeat Sales Forecast Gets Lackluster Investor Response - Bloomberg.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.975264310836792,
+        "signal": "BEARISH",
+        "tickers": [
+            "NVDA",
+            "INTC"
+        ],
+        "primary_ticker": "NVDA",
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "INTC",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
     },
     {
         "title": "Meta\u2019s Internal Chip Design Efforts Hit Roadblocks - The Information",
@@ -47,53 +88,19 @@
         ]
     },
     {
-        "title": "Tampa Airport Announces Divisive New Dress Code Rule Banning This Popular Travel Outfit - Yahoo Life UK",
+        "title": "Papa John's to close 300 restaurants as it moves to cut costs and boost growth - CBS News",
         "sentiment": "NEGATIVE",
-        "score": 0.9167962670326233,
+        "score": 0.8897361755371094,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Walmart agrees to $100M settlement over deceptive pay practices in Spark Driver program - TechCrunch",
+        "title": "Trump claims America is \u2018winning so much.\u2019 The IMF agrees, adding that Trump\u2019s trade policies are the only thing holding it back from even more - Fortune",
         "sentiment": "NEGATIVE",
-        "score": 0.9608042240142822,
+        "score": 0.7616894245147705,
         "signal": "BEARISH",
-        "tickers": [
-            "WMT"
-        ],
-        "primary_ticker": "WMT",
-        "ticker_impacts": [
-            {
-                "ticker": "WMT",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Weber Recalls Over 3.2 Million Metal Wire Bristle Grill Brushes Due to Ingestion Hazard - CPSC.gov",
-        "sentiment": "NEGATIVE",
-        "score": 0.8094308376312256,
-        "signal": "BEARISH",
-        "tickers": [
-            "META"
-        ],
-        "primary_ticker": "META",
-        "ticker_impacts": [
-            {
-                "ticker": "META",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "State Farm to Pay Record $5 Billion Dividend to Auto Clients - Bloomberg.com",
-        "sentiment": "POSITIVE",
-        "score": 0.9406369924545288,
-        "signal": "BULLISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -108,9 +115,9 @@
         "ticker_impacts": []
     },
     {
-        "title": "Stellantis says no 2025 profit sharing checks for its U.S. autoworkers - The Detroit News",
+        "title": "Jeep maker Stellantis posts first annual loss in company history after EV writedowns - CNBC",
         "sentiment": "NEGATIVE",
-        "score": 0.9514689445495605,
+        "score": 0.9678023457527161,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -132,49 +139,5 @@
                 "relevance": "medium"
             }
         ]
-    },
-    {
-        "title": "Salesforce CEO Marc Benioff: This isn\u2019t our first SaaSpocalypse - TechCrunch",
-        "sentiment": "NEGATIVE",
-        "score": 0.8133082985877991,
-        "signal": "BEARISH",
-        "tickers": [
-            "CRM"
-        ],
-        "primary_ticker": "CRM",
-        "ticker_impacts": [
-            {
-                "ticker": "CRM",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
-        "title": "Bitcoin, Ethereum and Solana rally as analysts flag pause in \u201810 a.m. dump\u2019 after Jane Street lawsuit - The Block",
-        "sentiment": "NEGATIVE",
-        "score": 0.9435548186302185,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Paramount Skydance Sees Q4 Loss Widen After TV Downturn Amid New Effort to Acquire Warner - Variety",
-        "sentiment": "NEGATIVE",
-        "score": 0.9579905867576599,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Ex\u2013presidential candidate Andrew Yang warns that millions of white-collar workers will lose their jobs within 18 months - Fortune",
-        "sentiment": "NEGATIVE",
-        "score": 0.9514432549476624,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
     }
 ]
