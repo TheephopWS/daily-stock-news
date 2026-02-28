@@ -1,25 +1,116 @@
 [
     {
-        "title": "S&P 500 falls as Nvidia rolls over following earnings: Live updates - CNBC",
-        "sentiment": "POSITIVE",
-        "score": 0.8619221448898315,
-        "signal": "BULLISH",
+        "title": "Jack Dorsey\u2019s Block cuts nearly half of its staff in AI gamble - The Verge",
+        "sentiment": "NEGATIVE",
+        "score": 0.9716835021972656,
+        "signal": "BEARISH",
         "tickers": [
-            "NVDA"
+            "INTC"
         ],
-        "primary_ticker": "NVDA",
+        "primary_ticker": null,
         "ticker_impacts": [
             {
+                "ticker": "INTC",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "CoreWeave Stock Falls After Mixed Earnings - Barron's",
+        "sentiment": "NEGATIVE",
+        "score": 0.9511603116989136,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Meta\u2019s Internal Chip Design Efforts Hit Roadblocks - The Information",
+        "sentiment": "NEGATIVE",
+        "score": 0.9608832597732544,
+        "signal": "BEARISH",
+        "tickers": [
+            "META",
+            "NVDA",
+            "AMD"
+        ],
+        "primary_ticker": "META",
+        "ticker_impacts": [
+            {
+                "ticker": "META",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
                 "ticker": "NVDA",
-                "impact": "positive",
+                "impact": "negative",
+                "relevance": "medium"
+            },
+            {
+                "ticker": "AMD",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Barclays, Atlas Among Firms Exposed to Collapsed UK Lender MFS - Bloomberg.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.7468175292015076,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Trump claims America is \u2018winning so much.\u2019 The IMF agrees, adding that Trump\u2019s trade policies are the only thing holding it back from even more - Fortune",
+        "sentiment": "NEGATIVE",
+        "score": 0.7616902589797974,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Mortgage rates fall below 6% for the first time in years - NPR",
+        "sentiment": "NEGATIVE",
+        "score": 0.9478515982627869,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Weber Recalls Over 3.2 Million Metal Wire Bristle Grill Brushes Due to Ingestion Hazard - CPSC.gov",
+        "sentiment": "NEGATIVE",
+        "score": 0.8094310164451599,
+        "signal": "BEARISH",
+        "tickers": [
+            "META"
+        ],
+        "primary_ticker": "META",
+        "ticker_impacts": [
+            {
+                "ticker": "META",
+                "impact": "negative",
                 "relevance": "high"
             }
         ]
     },
     {
-        "title": "Over 55,000 pounds of blueberries recalled for risk of potentially fatal listeria contamination - NBC News",
+        "title": "State Farm to Pay Record $5 Billion Dividend to Auto Clients - Bloomberg.com",
+        "sentiment": "POSITIVE",
+        "score": 0.9406368732452393,
+        "signal": "BULLISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Washington Post Leaders Face Staff After More Than $100 Million Loss - TheWrap",
         "sentiment": "NEGATIVE",
-        "score": 0.93861985206604,
+        "score": 0.9705957770347595,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -35,6 +126,15 @@
         "ticker_impacts": []
     },
     {
+        "title": "Ford Recalls 4.4 Million Vehicles Over Trailer Module - The BRAKE Report",
+        "sentiment": "NEGATIVE",
+        "score": 0.8136029839515686,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Stellantis says no 2025 profit sharing checks for its U.S. autoworkers - The Detroit News",
         "sentiment": "NEGATIVE",
         "score": 0.9514689445495605,
@@ -44,36 +144,26 @@
         "ticker_impacts": []
     },
     {
-        "title": "Treasury yields fall as investors await more economic data - CNBC",
-        "sentiment": "NEGATIVE",
-        "score": 0.9733331799507141,
-        "signal": "BEARISH",
-        "tickers": [],
+        "title": "FDA Grants Second Approval under the National Priority Voucher Pilot Program - fda.gov",
+        "sentiment": "POSITIVE",
+        "score": 0.7313442826271057,
+        "signal": "BULLISH",
+        "tickers": [
+            "CNPV"
+        ],
         "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Memory price hikes will kill off budget PCs and smartphones - theregister.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9687712788581848,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Every business wants your review. What's with the feedback frenzy? - NPR",
-        "sentiment": "NEGATIVE",
-        "score": 0.8938409686088562,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
+        "ticker_impacts": [
+            {
+                "ticker": "CNPV",
+                "impact": "positive",
+                "relevance": "medium"
+            }
+        ]
     },
     {
         "title": "\u2018AI Demand Is Real,\u2019 Nvidia CEO Huang Signals after Q4 Earnings \u2014 What NVDA Investors Should Know - TipRanks",
         "sentiment": "POSITIVE",
-        "score": 0.9429114460945129,
+        "score": 0.942911684513092,
         "signal": "BULLISH",
         "tickers": [
             "NVDA"
@@ -88,71 +178,28 @@
         ]
     },
     {
-        "title": "Salesforce CEO Marc Benioff: This isn\u2019t our first SaaSpocalypse - TechCrunch",
+        "title": "Oregon company recalls 55,000 pounds of frozen berries due to listeria concerns - OregonLive.com",
         "sentiment": "NEGATIVE",
-        "score": 0.8133082985877991,
+        "score": 0.9340282082557678,
         "signal": "BEARISH",
-        "tickers": [
-            "CRM"
-        ],
-        "primary_ticker": "CRM",
-        "ticker_impacts": [
-            {
-                "ticker": "CRM",
-                "impact": "negative",
-                "relevance": "high"
-            }
-        ]
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
     },
     {
-        "title": "Paramount Says Warner Bros. Discovery Would Be \u201cAccelerant\u201d to Its Goals as It Reports Earnings - The Hollywood Reporter",
+        "title": "Bitcoin, Ethereum and Solana rally as analysts flag pause in \u201810 a.m. dump\u2019 after Jane Street lawsuit - The Block",
+        "sentiment": "NEGATIVE",
+        "score": 0.9435548186302185,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "Paramount Streaming Revenue Rises, but TV Segment Faces Headwinds - WSJ",
         "sentiment": "POSITIVE",
-        "score": 0.9388868808746338,
+        "score": 0.8614882826805115,
         "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "KTLA layoffs hit local TV news hosts Mark Kriski, Lu Parker and Glen Walker - Los Angeles Daily News",
-        "sentiment": "NEGATIVE",
-        "score": 0.9417975544929504,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "MrBeast Editor Accused of Insider Trading on Kalshi - The Hollywood Reporter",
-        "sentiment": "NEGATIVE",
-        "score": 0.8402733206748962,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "US Data Center Construction Fell Amid Permit and Power Delays - Bloomberg.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.9752925038337708,
-        "signal": "BEARISH",
-        "tickers": [
-            "INTC"
-        ],
-        "primary_ticker": null,
-        "ticker_impacts": [
-            {
-                "ticker": "INTC",
-                "impact": "negative",
-                "relevance": "medium"
-            }
-        ]
-    },
-    {
-        "title": "If AI Causes an Office Job Wipeout, It\u2019ll Cause Huge Problems for Blue Collar Work Too - Futurism",
-        "sentiment": "NEGATIVE",
-        "score": 0.9162325263023376,
-        "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
@@ -167,23 +214,6 @@
         "ticker_impacts": []
     },
     {
-        "title": "Netflix Stock Has Best Day In Over A Year After Paramount's New Warner Bros. Bid - Investor's Business Daily",
-        "sentiment": "POSITIVE",
-        "score": 0.9139578938484192,
-        "signal": "BULLISH",
-        "tickers": [
-            "NFLX"
-        ],
-        "primary_ticker": "NFLX",
-        "ticker_impacts": [
-            {
-                "ticker": "NFLX",
-                "impact": "positive",
-                "relevance": "high"
-            }
-        ]
-    },
-    {
         "title": "Ex\u2013presidential candidate Andrew Yang warns that millions of white-collar workers will lose their jobs within 18 months - Fortune",
         "sentiment": "NEGATIVE",
         "score": 0.9514432549476624,
@@ -195,7 +225,7 @@
     {
         "title": "Energy Department Announces Largest Loan in Department History, Delivering Over $7 Billion in Electricity Cost Savings for Georgia and Alabama Customers - Department of Energy (.gov)",
         "sentiment": "POSITIVE",
-        "score": 0.9187472462654114,
+        "score": 0.9187474250793457,
         "signal": "BULLISH",
         "tickers": [
             "EDF"
@@ -212,7 +242,7 @@
     {
         "title": "Legal sports gambling has gone way too far - Slow Boring",
         "sentiment": "NEGATIVE",
-        "score": 0.9293867945671082,
+        "score": 0.9293869137763977,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
