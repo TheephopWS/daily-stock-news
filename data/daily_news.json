@@ -1,44 +1,25 @@
 [
     {
-        "title": "Jack Dorsey's layoff memo is an ominous sign of what could come next - Business Insider",
+        "title": "Fintech company Block lays off 4,000 of its 10,000 staff, citing gains from AI - AP News",
         "sentiment": "NEGATIVE",
-        "score": 0.966995120048523,
+        "score": 0.8727309703826904,
         "signal": "BEARISH",
-        "tickers": [],
+        "tickers": [
+            "INTC"
+        ],
         "primary_ticker": null,
-        "ticker_impacts": []
+        "ticker_impacts": [
+            {
+                "ticker": "INTC",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
     },
     {
-        "title": "Young woman says she was on social media 'all day long' as a child in landmark addiction trial - AP News",
+        "title": "Asian Stocks to Ebb as Nvidia Decline Dulls Mood: Markets Wrap - Bloomberg.com",
         "sentiment": "NEGATIVE",
-        "score": 0.7391071319580078,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "State Farm auto customers getting $100 refund - Axios",
-        "sentiment": "NEGATIVE",
-        "score": 0.7466626167297363,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "CoreWeave Stock Falls On Q4 Earnings As Order Backlog Grows 20% - Investor's Business Daily",
-        "sentiment": "NEGATIVE",
-        "score": 0.975593090057373,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Nvidia\u2019s Upbeat Sales Forecast Gets Lackluster Investor Response - Bloomberg.com",
-        "sentiment": "NEGATIVE",
-        "score": 0.975264310836792,
+        "score": 0.9703269004821777,
         "signal": "BEARISH",
         "tickers": [
             "NVDA",
@@ -59,14 +40,64 @@
         ]
     },
     {
+        "title": "Bank of America resets Nvidia price target after earnings - Yahoo Finance",
+        "sentiment": "NEGATIVE",
+        "score": 0.9615485072135925,
+        "signal": "BEARISH",
+        "tickers": [
+            "NVDA",
+            "BAC"
+        ],
+        "primary_ticker": "NVDA",
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "BAC",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Young woman says she was on social media 'all day long' as a child in landmark addiction trial - AP News",
+        "sentiment": "NEGATIVE",
+        "score": 0.7391074299812317,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "CoreWeave Stock Falls After Mixed Earnings - Barron's",
+        "sentiment": "NEGATIVE",
+        "score": 0.9511603116989136,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
+        "title": "State Farm auto customers getting $100 refund - Axios",
+        "sentiment": "NEGATIVE",
+        "score": 0.7466631531715393,
+        "signal": "BEARISH",
+        "tickers": [],
+        "primary_ticker": null,
+        "ticker_impacts": []
+    },
+    {
         "title": "Meta\u2019s Internal Chip Design Efforts Hit Roadblocks - The Information",
         "sentiment": "NEGATIVE",
         "score": 0.9608832597732544,
         "signal": "BEARISH",
         "tickers": [
             "META",
-            "AMD",
-            "NVDA"
+            "NVDA",
+            "AMD"
         ],
         "primary_ticker": "META",
         "ticker_impacts": [
@@ -76,12 +107,12 @@
                 "relevance": "high"
             },
             {
-                "ticker": "AMD",
+                "ticker": "NVDA",
                 "impact": "negative",
                 "relevance": "medium"
             },
             {
-                "ticker": "NVDA",
+                "ticker": "AMD",
                 "impact": "negative",
                 "relevance": "medium"
             }
@@ -91,15 +122,6 @@
         "title": "Papa John's to close 300 restaurants as it moves to cut costs and boost growth - CBS News",
         "sentiment": "NEGATIVE",
         "score": 0.8897361755371094,
-        "signal": "BEARISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Trump claims America is \u2018winning so much.\u2019 The IMF agrees, adding that Trump\u2019s trade policies are the only thing holding it back from even more - Fortune",
-        "sentiment": "NEGATIVE",
-        "score": 0.7616894245147705,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
@@ -137,6 +159,23 @@
                 "ticker": "CNPV",
                 "impact": "positive",
                 "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Salesforce CEO Marc Benioff: This isn\u2019t our first SaaSpocalypse - TechCrunch",
+        "sentiment": "NEGATIVE",
+        "score": 0.813308596611023,
+        "signal": "BEARISH",
+        "tickers": [
+            "CRM"
+        ],
+        "primary_ticker": "CRM",
+        "ticker_impacts": [
+            {
+                "ticker": "CRM",
+                "impact": "negative",
+                "relevance": "high"
             }
         ]
     }
