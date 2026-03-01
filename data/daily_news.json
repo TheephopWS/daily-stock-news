@@ -1,18 +1,9 @@
 {
-    "last_updated": "2026-03-01 18:54:47 UTC",
-    "total_articles": 9,
+    "last_updated": "2026-03-01 21:42:19 UTC",
+    "total_articles": 7,
     "bullish_articles": 3,
-    "bearish_articles": 6,
+    "bearish_articles": 4,
     "articles": [
-        {
-            "title": "What next for bitcoin as Iran attacks U.S. bases? BTC likely to head lower - CoinDesk",
-            "sentiment": "NEGATIVE",
-            "score": 0.8797508478164673,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
         {
             "title": "The week the AI scare turned real and America realized maybe it isn't ready for what's coming - Fortune",
             "sentiment": "NEGATIVE",
@@ -32,6 +23,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "FAA to ask airlines to reduce flights at Chicago's O'Hare airport this summer, saying schedule could stress safety systems - ABC7 Chicago",
+            "sentiment": "NEGATIVE",
+            "score": 0.9509623050689697,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "DTE Energy to seek another electric rate increase after $242M hike - The Detroit News",
             "sentiment": "POSITIVE",
             "score": 0.8724302649497986,
@@ -41,26 +41,32 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia Stock Keeps Dropping After Earnings - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9527617692947388,
-            "signal": "BEARISH",
+            "title": "Is AMD a Buy After Meta Deal? - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.941880464553833,
+            "signal": "BULLISH",
             "tickers": [
-                "NVDA"
+                "META",
+                "AMD"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "META",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
-                    "impact": "negative",
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "State Farm is doling out $100 checks to 49 million customers. Here's who qualifies and how to get paid - Fortune",
+            "title": "MFS Creditors Warn of \u00a3930 Million Shortfall From Double Pledges - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7905480861663818,
+            "score": 0.9694529175758362,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -70,44 +76,6 @@
             "title": "US wholesale prices arrive hotter than expected, up 0.5% from December and 2.9% from a year ago - AP News",
             "sentiment": "POSITIVE",
             "score": 0.9181385636329651,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Here\u2019s Why CoreWeave (CRWV) Dragged Down Nebius and Iren After Its Mixed Q4 - TipRanks",
-            "sentiment": "NEGATIVE",
-            "score": 0.9702649712562561,
-            "signal": "BEARISH",
-            "tickers": [
-                "CRWV",
-                "IREN",
-                "NBIS"
-            ],
-            "primary_ticker": "CRWV",
-            "ticker_impacts": [
-                {
-                    "ticker": "CRWV",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "IREN",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "NBIS",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Behind Generate's 'feverish' race to raise $400M IPO while window remains open - Fierce Biotech",
-            "sentiment": "POSITIVE",
-            "score": 0.8530552983283997,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
