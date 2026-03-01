@@ -1,17 +1,51 @@
 [
     {
-        "title": "David Zaslav Tries To Sell Paramount Deal At Town Hall Amid Bad Mood - Deadline",
+        "title": "It\u2019s a Deal: Paramount and Warner Bros. Discovery Unveil $111 Billion Megamerger - The Hollywood Reporter",
         "sentiment": "NEGATIVE",
-        "score": 0.7923950552940369,
+        "score": 0.9072954654693604,
+        "signal": "BEARISH",
+        "tickers": [
+            "NFLX"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "NFLX",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "FAA Will Order Significant Flight Cuts At Chicago O'Hare\u2014American vs. United Battle Hits Breaking Point - View from the Wing",
+        "sentiment": "NEGATIVE",
+        "score": 0.9626950621604919,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
     },
     {
-        "title": "Dow tumbles 600 points after hot inflation report, mounting concerns about AI impact: Live updates - CNBC",
+        "title": "Financial Shares Walloped by AI, Credit Woes Hit Three-Month Low - Bloomberg.com",
         "sentiment": "NEGATIVE",
-        "score": 0.9715620875358582,
+        "score": 0.9500636458396912,
+        "signal": "BEARISH",
+        "tickers": [
+            "INTC"
+        ],
+        "primary_ticker": null,
+        "ticker_impacts": [
+            {
+                "ticker": "INTC",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
+    },
+    {
+        "title": "Stock Market Today: Dow Sinks On Hot Inflation; CoreWeave, Rocket Lab Plunge (Live Coverage) - Investor's Business Daily",
+        "sentiment": "NEGATIVE",
+        "score": 0.9595125913619995,
         "signal": "BEARISH",
         "tickers": [
             "NVDA"
@@ -26,21 +60,13 @@
         ]
     },
     {
-        "title": "US wholesale prices arrive hotter than expected, up 0.5% from December and 2.9% from a year ago - Yahoo Finance",
-        "sentiment": "POSITIVE",
-        "score": 0.9146355986595154,
-        "signal": "BULLISH",
-        "tickers": [],
-        "primary_ticker": null,
-        "ticker_impacts": []
-    },
-    {
-        "title": "Nvidia Stock Drops Despite Bullish Q4 Report. AI Angst Blamed. - Investor's Business Daily",
+        "title": "Stock Market News Today, 2/27/26 \u2013 U.S. Stock Futures Slide as Nvidia Drops 5.6% - TipRanks",
         "sentiment": "NEGATIVE",
-        "score": 0.9740637540817261,
+        "score": 0.9723052382469177,
         "signal": "BEARISH",
         "tickers": [
-            "NVDA"
+            "NVDA",
+            "NDX"
         ],
         "primary_ticker": "NVDA",
         "ticker_impacts": [
@@ -48,6 +74,11 @@
                 "ticker": "NVDA",
                 "impact": "negative",
                 "relevance": "high"
+            },
+            {
+                "ticker": "NDX",
+                "impact": "negative",
+                "relevance": "medium"
             }
         ]
     }
