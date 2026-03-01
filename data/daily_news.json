@@ -1,11 +1,57 @@
 [
     {
-        "title": "Pentagon approves OpenAI safety red lines after dumping Anthropic - Axios",
+        "title": "FAA to ask airlines to reduce flights at Chicago's O'Hare airport this summer - ABC7 Chicago",
         "sentiment": "NEGATIVE",
-        "score": 0.9472982287406921,
+        "score": 0.8998315930366516,
         "signal": "BEARISH",
         "tickers": [],
         "primary_ticker": null,
         "ticker_impacts": []
+    },
+    {
+        "title": "Nvidia CEO delivers blunt 7-word rebuttal on software stocks - thestreet.com",
+        "sentiment": "NEGATIVE",
+        "score": 0.896053671836853,
+        "signal": "BEARISH",
+        "tickers": [
+            "NVDA"
+        ],
+        "primary_ticker": "NVDA",
+        "ticker_impacts": [
+            {
+                "ticker": "NVDA",
+                "impact": "negative",
+                "relevance": "high"
+            }
+        ]
+    },
+    {
+        "title": "Here\u2019s Why CoreWeave (CRWV) Dragged Down Nebius and Iren After Its Mixed Q4 - TipRanks",
+        "sentiment": "NEGATIVE",
+        "score": 0.9702649712562561,
+        "signal": "BEARISH",
+        "tickers": [
+            "CRWV",
+            "NBIS",
+            "IREN"
+        ],
+        "primary_ticker": "CRWV",
+        "ticker_impacts": [
+            {
+                "ticker": "CRWV",
+                "impact": "negative",
+                "relevance": "high"
+            },
+            {
+                "ticker": "NBIS",
+                "impact": "negative",
+                "relevance": "medium"
+            },
+            {
+                "ticker": "IREN",
+                "impact": "negative",
+                "relevance": "medium"
+            }
+        ]
     }
 ]
