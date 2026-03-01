@@ -1,6 +1,7 @@
 
 import json
 from pathlib import Path
+from datetime import datetime, timezone
 
 from .fetch_news import NewsAPI
 from .sentiment import SentimentAnalyzer
@@ -61,9 +62,17 @@ class NewsOrchestrator:
 
         output_path = Path(__file__).parent.parent / "data" / "daily_news.json"
         output_path.parent.mkdir(parents=True, exist_ok=True)
-        
+
+        output_data = {
+            "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC"),
+            "total_articles": len(self.all_articles),
+            "bullish_articles": self.get_num_bullish_articles(),
+            "bearish_articles": self.get_num_bearish_articles(),
+            "articles": self.all_articles
+        }
+
         with open(output_path, "w") as f:
-            json.dump(self.all_articles, f, indent=4)
+            json.dump(output_data, f, indent=4)
 
         print("Cycle complete. Processed articles:", len(news_articles))
         print("Number of Bullish articles:", self.get_num_bullish_articles())
