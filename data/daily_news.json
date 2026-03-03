@@ -1,92 +1,58 @@
 {
-    "last_updated": "2026-03-03 16:06:11 UTC",
+    "last_updated": "2026-03-03 19:14:51 UTC",
     "total_articles": 8,
-    "bullish_articles": 2,
-    "bearish_articles": 6,
+    "bullish_articles": 3,
+    "bearish_articles": 5,
     "articles": [
         {
-            "title": "Stock Market Today: Dow set for 500-point retreat as oil climbs nearly $6 per barrel after attack on Iran - MarketWatch",
+            "title": "S&P 500 turns positive in dramatic comeback as traders buy the dip after U.S.-Iran attacks: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9654720425605774,
+            "score": 0.7173833250999451,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Iran strikes halt Qatar LNG output, shaking global energy markets - CNBC",
+            "title": "Energy In Focus as Global Equity Traders Brace For Iran Impact - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9487800002098083,
+            "score": 0.9689849019050598,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stocks Slump as US-Iran War Lifts Brent Toward $80: Markets Wrap - Bloomberg.com",
+            "title": "Oil prices surge and stocks fall amid fears over Iran war - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9058200120925903,
+            "score": 0.9477803707122803,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Dow futures fall 350 points on U.S.-Iran conflict, but oil prices pare gains as Trump hints at sanctions relief for new leadership - Yahoo Finance",
+            "title": "Gas Prices Surge as Qatar Shuts World\u2019s Largest LNG Export Plant - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8881435990333557,
+            "score": 0.9631289839744568,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oil prices fallout: OPEC producers boost output after Iran strikes - Axios",
+            "title": "BlackRock, EQT-Led Consortium to Acquire AES for $10.7 Billion - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9395676255226135,
+            "score": 0.8128264546394348,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "How tampons in the men\u2019s room helped derail the Netflix-Warner Bros. deal - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.725350022315979,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Jack Dorsey\u2019s 4,000 Job Cuts at Block Arouse Suspicions of AI-Washing - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.939295768737793,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "NVIDIA and Global Telecom Leaders Commit to Build 6G on Open and Secure AI-Native Platforms - NVIDIA Newsroom",
+            "title": "NVIDIA and Coherent Announce Strategic Partnership to Develop Optics Technology to Scale Next-Generation Data Center Architecture - NVIDIA Newsroom",
             "sentiment": "POSITIVE",
-            "score": 0.7793379426002502,
+            "score": 0.9292639493942261,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -99,6 +65,38 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Goldman Sachs resets Nvidia stock forecast after earnings - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9013375639915466,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "GS"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Oil prices fallout: OPEC producers boost output after Iran strikes - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.9395676255226135,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         }
     ]
 }
