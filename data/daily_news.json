@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-03-03 07:14:44 UTC",
-    "total_articles": 6,
+    "last_updated": "2026-03-03 10:04:11 UTC",
+    "total_articles": 7,
     "bullish_articles": 2,
-    "bearish_articles": 4,
+    "bearish_articles": 5,
     "articles": [
         {
-            "title": "Markets begin to react as Trump\u2019s attack on Iran risks hitting American pocketbooks - The Washington Post",
+            "title": "European Gas Jumps 25% as Iranian Crisis Threatens Global Flows - Bloomberg",
             "sentiment": "NEGATIVE",
-            "score": 0.8735648989677429,
+            "score": 0.8223465085029602,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dow futures drop over 600 points as oil prices spike following U.S. attack on Iran: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.961030125617981,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,13 +41,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "When AI Meets Geopolitics - TipRanks",
+            "title": "Hollywood's Worst Deal Ever? Critic Sounds Alarm On Paramount's $111 Billion Warner Bros. Win: 'There Was No Good Outcome' - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9050730466842651,
+            "score": 0.8531864881515503,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "NFLX"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Jack Dorsey\u2019s 4,000 Job Cuts at Block Arouse Suspicions of AI-Washing - Bloomberg.com",
