@@ -1,40 +1,48 @@
 {
-    "last_updated": "2026-03-03 19:14:51 UTC",
-    "total_articles": 8,
-    "bullish_articles": 3,
+    "last_updated": "2026-03-03 21:52:39 UTC",
+    "total_articles": 6,
+    "bullish_articles": 1,
     "bearish_articles": 5,
     "articles": [
         {
+            "title": "Oil prices soar amid worries of sustained war in Iran - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9620386958122253,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Berkshire Stock Slides After 30% Drop in Operating Earnings - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9670776128768921,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia Invests In Lumentum, Coherent In Optical Networking Push - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9261370897293091,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "S&P 500 turns positive in dramatic comeback as traders buy the dip after U.S.-Iran attacks: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7173833250999451,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Energy In Focus as Global Equity Traders Brace For Iran Impact - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9689849019050598,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil prices surge and stocks fall amid fears over Iran war - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9477803707122803,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gas Prices Surge as Qatar Shuts World\u2019s Largest LNG Export Plant - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9631289839744568,
+            "score": 0.7173839807510376,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -43,60 +51,34 @@
         {
             "title": "BlackRock, EQT-Led Consortium to Acquire AES for $10.7 Billion - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.8128264546394348,
+            "score": 0.8128269910812378,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "NVIDIA and Coherent Announce Strategic Partnership to Develop Optics Technology to Scale Next-Generation Data Center Architecture - NVIDIA Newsroom",
-            "sentiment": "POSITIVE",
-            "score": 0.9292639493942261,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Goldman Sachs resets Nvidia stock forecast after earnings - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9013375639915466,
+            "score": 0.9013378620147705,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA",
-                "GS"
+                "GS",
+                "NVDA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "GS",
             "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "GS",
                     "impact": "negative",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Oil prices fallout: OPEC producers boost output after Iran strikes - Axios",
-            "sentiment": "POSITIVE",
-            "score": 0.9395676255226135,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
