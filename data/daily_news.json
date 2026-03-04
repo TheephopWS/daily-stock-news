@@ -1,25 +1,34 @@
 {
-    "last_updated": "2026-03-04 04:54:37 UTC",
-    "total_articles": 6,
-    "bullish_articles": 2,
-    "bearish_articles": 4,
+    "last_updated": "2026-03-04 07:10:00 UTC",
+    "total_articles": 7,
+    "bullish_articles": 1,
+    "bearish_articles": 6,
     "articles": [
         {
-            "title": "Dow Jones Futures Fall: U.S.-Iran Conflict Sparks Market Upheaval As Nvidia Rallies; Credo, MongoDB Plunge Late - Investor's Business Daily",
+            "title": "Amazon says drones damaged three facilities in UAE and Bahrain - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9671878814697266,
+            "score": 0.9411178827285767,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "AMZN"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "US LNG producers rush to seize on surging gas prices triggered by Iran conflict - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8560445308685303,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "AES to Be Taken Private in $33 Billion Deal. Why It\u2019s the S&P 500\u2019s Worst Stock Today. - Barron's",
@@ -40,36 +49,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "Mortgage rates jump back above 6% as Iran strikes stoke fresh inflation fears - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8774064779281616,
-            "signal": "BULLISH",
+            "title": "Ted Sarandos on Netflix Nixing Warner Bros. Bid, Trump\u2019s Role and Dialogue With Theaters - The Hollywood Reporter",
+            "sentiment": "NEGATIVE",
+            "score": 0.7901262640953064,
+            "signal": "BEARISH",
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Trump\u2019s action against Iran is yet another wobble for government debt, warns UBS - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9228153824806213,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Why Is Palantir Stock Surging Monday Premarket? - Benzinga",
-            "sentiment": "POSITIVE",
-            "score": 0.9044806957244873,
-            "signal": "BULLISH",
-            "tickers": [
-                "PLTR",
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "PLTR",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Jack Dorsey\u2019s 4,000 Job Cuts at Block Arouse Suspicions of AI-Washing - Bloomberg.com",
