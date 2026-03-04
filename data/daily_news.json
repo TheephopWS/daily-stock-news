@@ -1,13 +1,66 @@
 {
-    "last_updated": "2026-03-04 16:02:09 UTC",
+    "last_updated": "2026-03-04 19:11:07 UTC",
     "total_articles": 13,
-    "bullish_articles": 2,
-    "bearish_articles": 11,
+    "bullish_articles": 3,
+    "bearish_articles": 10,
     "articles": [
         {
-            "title": "Middle East war sends natural gas prices soaring, raising growth shock risk for Europe and Asia - CNBC",
+            "title": "Stocks dramatically pare losses after Trump offers Gulf shipping safety; oil retreats from highs: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9629525542259216,
+            "score": 0.9525742530822754,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Iranian strikes on Amazon data centers highlights industry's vulnerability to physical disasters - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9433870315551758,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Gold Price Slides Down as Middle East War Ratchets Up - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.8678532838821411,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Average price for a gallon of gas rises 11 cents overnight to about $3.11 in US, AAA says - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.9347571730613708,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Blackstone\u2019s Flagship Private Credit Fund Hit by Record Redemptions - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9374512434005737,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Paramount\u2019s $110 Billion Warner Bros. Deal Backed by Arab Sovereign Funds Raises Soft Power Concerns - Variety",
+            "sentiment": "NEGATIVE",
+            "score": 0.7451381683349609,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -18,15 +71,6 @@
             "sentiment": "POSITIVE",
             "score": 0.8866168260574341,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Best Buy\u2019s holiday sales disappoint, but retailer shows progress in growing profits - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7616734504699707,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -49,18 +93,18 @@
             ]
         },
         {
-            "title": "LNG Tanker Rates Double to $200,000 In Less Than a Day on Iran - Bloomberg.com",
+            "title": "US LNG producers rush to seize on surging gas prices triggered by Iran conflict - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.7380345463752747,
+            "score": 0.8560445308685303,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "AES to Be Taken Private in $33 Billion Deal. Why It\u2019s the S&P 500\u2019s Worst Stock Today. - Barron's",
+            "title": "United flight to New Jersey returns to LAX due to engine issue; plane evacuated - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
-            "score": 0.8711643815040588,
+            "score": 0.9654543399810791,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -70,15 +114,6 @@
             "title": "Prediction markets draw scrutiny over Iran bets: \"Insider trading in broad daylight,\" senator says - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.9109252691268921,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AWS says drones hit two of its datacenters in UAE, urges users to move resources to different regions - theregister.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9290844798088074,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -102,54 +137,27 @@
             ]
         },
         {
-            "title": "Berkshire Stock Falls 5% as Earnings, Abel Letter Fail to Excite Investors - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.95967036485672,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "UniQure shares crash 40% as FDA rejects early approval path for Huntington's gene therapy - Fierce Biotech",
-            "sentiment": "NEGATIVE",
-            "score": 0.9684125185012817,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Goldman Sachs resets Nvidia stock forecast after earnings - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.9013375639915466,
             "signal": "BEARISH",
             "tickers": [
-                "GS",
-                "NVDA"
+                "NVDA",
+                "GS"
             ],
-            "primary_ticker": "GS",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
-                {
-                    "ticker": "GS",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Trump\u2019s action against Iran is yet another wobble for government debt, warns UBS - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9228153824806213,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
