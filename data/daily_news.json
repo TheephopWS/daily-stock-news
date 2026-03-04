@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-03-04 07:10:00 UTC",
-    "total_articles": 7,
-    "bullish_articles": 1,
+    "last_updated": "2026-03-04 10:01:48 UTC",
+    "total_articles": 9,
+    "bullish_articles": 3,
     "bearish_articles": 6,
     "articles": [
         {
-            "title": "Amazon says drones damaged three facilities in UAE and Bahrain - BBC",
+            "title": "Stock futures tumble as traders monitor latest with U.S.-Iran conflict: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9411178827285767,
+            "score": 0.9557579159736633,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon says 3 data centers were damaged by drone strikes in the Middle East - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9653240442276001,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN"
@@ -22,9 +31,44 @@
             ]
         },
         {
+            "title": "Paramount\u2019s Debt Downgraded to Junk Following Warner Bros. Purchase Deal - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9349963665008545,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "US LNG producers rush to seize on surging gas prices triggered by Iran conflict - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.8560445308685303,
+            "score": 0.8560452461242676,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "United 787-9 Returns to LAX 36 Minutes After Takeoff \u2014 Passenger Video Of Evaucation Down the Slide - View from the Wing",
+            "sentiment": "NEGATIVE",
+            "score": 0.7425961494445801,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Anthropic upgrades Claude\u2019s memory to attract AI switchers - The Verge",
+            "sentiment": "POSITIVE",
+            "score": 0.9282016754150391,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -49,47 +93,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Ted Sarandos on Netflix Nixing Warner Bros. Bid, Trump\u2019s Role and Dialogue With Theaters - The Hollywood Reporter",
-            "sentiment": "NEGATIVE",
-            "score": 0.7901262640953064,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Trump\u2019s action against Iran is yet another wobble for government debt, warns UBS - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9228153824806213,
-            "signal": "BEARISH",
+            "title": "Mortgage rates jump sharply higher after Iran strikes, reversing last week's decline - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8992762565612793,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Jack Dorsey\u2019s 4,000 Job Cuts at Block Arouse Suspicions of AI-Washing - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.939295768737793,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         }
     ]
 }
