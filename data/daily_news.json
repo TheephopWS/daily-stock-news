@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-04 19:11:07 UTC",
+    "last_updated": "2026-03-04 21:53:43 UTC",
     "total_articles": 13,
     "bullish_articles": 3,
     "bearish_articles": 10,
@@ -14,9 +14,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Iranian strikes on Amazon data centers highlights industry's vulnerability to physical disasters - AP News",
+            "title": "What another sales decline for Target says about consumers - Star Tribune",
             "sentiment": "NEGATIVE",
-            "score": 0.9433870315551758,
+            "score": 0.972929060459137,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Justice Department lawyer says concert ticket industry is broken because of Ticketmaster - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.939020574092865,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Paramount Skydance Debt Downgraded to Junk Status by Fitch Ratings Following Warner Bros. Discovery Deal - Variety",
+            "sentiment": "NEGATIVE",
+            "score": 0.9445967674255371,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon says drones hit 3 of its Middle East data centers amid Iran conflict - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9384729266166687,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN"
@@ -40,15 +67,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Average price for a gallon of gas rises 11 cents overnight to about $3.11 in US, AAA says - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.9347571730613708,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Blackstone\u2019s Flagship Private Credit Fund Hit by Record Redemptions - Bloomberg",
             "sentiment": "NEGATIVE",
             "score": 0.9374512434005737,
@@ -58,39 +76,39 @@
             "ticker_impacts": []
         },
         {
-            "title": "Paramount\u2019s $110 Billion Warner Bros. Deal Backed by Arab Sovereign Funds Raises Soft Power Concerns - Variety",
+            "title": "Global Bonds on Knife-Edge as Iran War Revives Inflation Threat - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7451381683349609,
+            "score": 0.964080810546875,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Target\u2019s new CEO unveils his turnaround plan - CNN",
+            "title": "Accenture to Acquire Ookla to Strengthen Network Intelligence and Experience with Data and AI For Enterprises - Accenture",
             "sentiment": "POSITIVE",
-            "score": 0.8866168260574341,
+            "score": 0.9257286787033081,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Iran attacks threaten US economy with more uncertainty around inflation, growth - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.8562380075454712,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "JPMorgan\u2019s Jamie Dimon warns there\u2019s too much complacency in markets - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9287582039833069,
-            "signal": "BEARISH",
-            "tickers": [
-                "JPM"
-            ],
-            "primary_ticker": "JPM",
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "US LNG producers rush to seize on surging gas prices triggered by Iran conflict - Financial Times",
@@ -111,49 +129,23 @@
             "ticker_impacts": []
         },
         {
-            "title": "Prediction markets draw scrutiny over Iran bets: \"Insider trading in broad daylight,\" senator says - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9109252691268921,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Lumentum, Coherent Surge On Nvidia's Optical Networking Investments - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9415166974067688,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Goldman Sachs resets Nvidia stock forecast after earnings - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.9013375639915466,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA",
-                "GS"
+                "GS",
+                "NVDA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "GS",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "GS",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "GS",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
                 }
