@@ -1,14 +1,23 @@
 {
-    "last_updated": "2026-03-04 13:35:45 UTC",
-    "total_articles": 12,
-    "bullish_articles": 3,
-    "bearish_articles": 9,
+    "last_updated": "2026-03-04 16:02:09 UTC",
+    "total_articles": 13,
+    "bullish_articles": 2,
+    "bearish_articles": 11,
     "articles": [
         {
-            "title": "What to know about the Strait of Hormuz, a key passageway essential for global energy supply - AP News",
+            "title": "Middle East war sends natural gas prices soaring, raising growth shock risk for Europe and Asia - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7026145458221436,
+            "score": 0.9629525542259216,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Target\u2019s new CEO unveils his turnaround plan - CNN",
+            "sentiment": "POSITIVE",
+            "score": 0.8866168260574341,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -40,45 +49,9 @@
             ]
         },
         {
-            "title": "World\u2019s hottest stock market suddenly blows cold with a 7% tumble - MarketWatch",
+            "title": "LNG Tanker Rates Double to $200,000 In Less Than a Day on Iran - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.8606421947479248,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock futures tumble as traders monitor latest with U.S.-Iran conflict: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9557577967643738,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Paramount\u2019s Debt Downgraded to Junk Following Warner Bros. Purchase Deal - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.9349963665008545,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US LNG producers rush to seize on surging gas prices triggered by Iran conflict - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8560445308685303,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic upgrades Claude\u2019s memory to attract AI switchers - The Verge",
-            "sentiment": "POSITIVE",
-            "score": 0.9282014966011047,
+            "score": 0.7380345463752747,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -103,9 +76,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "Lights Out for Arab AI - Daily Kos",
+            "title": "AWS says drones hit two of its datacenters in UAE, urges users to move resources to different regions - theregister.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9102658629417419,
+            "score": 0.9290844798088074,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Lumentum, Coherent Surge On Nvidia's Optical Networking Investments - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9415166974067688,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Berkshire Stock Falls 5% as Earnings, Abel Letter Fail to Excite Investors - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.95967036485672,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -115,6 +114,38 @@
             "title": "UniQure shares crash 40% as FDA rejects early approval path for Huntington's gene therapy - Fierce Biotech",
             "sentiment": "NEGATIVE",
             "score": 0.9684125185012817,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Goldman Sachs resets Nvidia stock forecast after earnings - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9013375639915466,
+            "signal": "BEARISH",
+            "tickers": [
+                "GS",
+                "NVDA"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Trump\u2019s action against Iran is yet another wobble for government debt, warns UBS - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9228153824806213,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
