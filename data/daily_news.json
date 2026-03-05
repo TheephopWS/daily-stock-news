@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-05 07:14:41 UTC",
+    "last_updated": "2026-03-05 10:05:42 UTC",
     "total_articles": 14,
     "bullish_articles": 3,
     "bearish_articles": 11,
@@ -46,18 +46,23 @@
             "score": 0.7703204154968262,
             "signal": "BULLISH",
             "tickers": [
-                "AAPL",
-                "NVDA",
-                "AMZN",
-                "GOOGL",
-                "META",
                 "TSLA",
-                "MSFT"
+                "MSFT",
+                "NVDA",
+                "AAPL",
+                "AMZN",
+                "META",
+                "GOOGL"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "high"
                 },
@@ -67,12 +72,12 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "AAPL",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "high"
                 },
@@ -82,12 +87,7 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "high"
                 }
