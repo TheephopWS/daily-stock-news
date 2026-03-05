@@ -1,14 +1,32 @@
 {
-    "last_updated": "2026-03-05 16:08:38 UTC",
-    "total_articles": 19,
-    "bullish_articles": 3,
-    "bearish_articles": 16,
+    "last_updated": "2026-03-05 19:39:44 UTC",
+    "total_articles": 20,
+    "bullish_articles": 5,
+    "bearish_articles": 15,
     "articles": [
+        {
+            "title": "Bettors wagered $54 million on Khamenei\u2019s death. Now they\u2019re not getting paid. - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9339812994003296,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "S&P 500 rises as oil eases, but traders are still cautious amid Iran conflict: Live updates - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9704639911651611,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Coinbase leads crypto stocks higher after Trump signals support for digital asset market structure bill - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9438066482543945,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -23,18 +41,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Iran reportedly calls for talks to end conflict - Yahoo Finance",
+            "title": "Record Numbers of Workers Are Raiding Their 401(k) Savings - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9654573798179626,
+            "score": 0.9292336106300354,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Big investors have been fleeing for-sale housing market, even before Trump ordered ban - CNBC",
+            "title": "Goldman Strategists Say Buy Any Stocks Dip From Iran and AI - Bloomberg",
             "sentiment": "NEGATIVE",
-            "score": 0.9301668405532837,
+            "score": 0.7744398713111877,
+            "signal": "BEARISH",
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "America is the oil king of the world. So why is the Iran war sending gas prices higher? - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.7118778824806213,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -76,40 +111,57 @@
             ]
         },
         {
-            "title": "I was at a QuitGPT protest, and the discontent extends far beyond OpenAI's Pentagon deal - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.7173754572868347,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump met with Coinbase CEO before bashing banks over crypto bill - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.7464354038238525,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Hormuz blockade unlikely to last, analysis says - upi.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9146844744682312,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Target tackles groceries as first swing to revive sales growth - Star Tribune",
+            "title": "Prediction: Nvidia (NVDA) Will Be Worth More Than Alphabet, Apple, Amazon, Tesla, Meta, and Microsoft Combined by 2030 - The Motley Fool",
             "sentiment": "POSITIVE",
-            "score": 0.7956944704055786,
+            "score": 0.7703204154968262,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "META",
+                "MSFT",
+                "TSLA",
+                "AAPL",
+                "GOOGL",
+                "NVDA",
+                "AMZN"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Iran's revenge: drones damage data centers for Amazon Web Services, reveal west's Achilles Heel - Fortune",
@@ -147,6 +199,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Burger King Posts Shady Response To Viral McDonald's CEO Video: 'So Petty, I Love It' - Delish",
+            "sentiment": "NEGATIVE",
+            "score": 0.9335677027702332,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "ChatGPT Health 'under-triaged' half of medical emergencies in a new study - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.8869355320930481,
@@ -165,10 +226,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Gold Price Slides Down as Middle East War Ratchets Up - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.8678532838821411,
-            "signal": "BEARISH",
+            "title": "Target to invest $2 billion more in AI, stores and staffing as it seeks to reverse sales slump - CBS News",
+            "sentiment": "POSITIVE",
+            "score": 0.8623446226119995,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
