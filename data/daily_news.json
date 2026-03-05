@@ -1,14 +1,40 @@
 {
-    "last_updated": "2026-03-05 19:39:44 UTC",
-    "total_articles": 20,
+    "last_updated": "2026-03-05 21:56:08 UTC",
+    "total_articles": 17,
     "bullish_articles": 5,
-    "bearish_articles": 15,
+    "bearish_articles": 12,
     "articles": [
         {
             "title": "Bettors wagered $54 million on Khamenei\u2019s death. Now they\u2019re not getting paid. - The Washington Post",
             "sentiment": "NEGATIVE",
             "score": 0.9339812994003296,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Iranian drone strikes on Amazon data centers highlight tech\u2019s exposure - The Seattle Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9599382877349854,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Target's new CEO says fresh eyes and respecting core values will help him regain customer trust - ABC News",
+            "sentiment": "POSITIVE",
+            "score": 0.9227128028869629,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -32,10 +58,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "ADP: Private employers added 63,000 jobs in February, the best monthly showing since July - Yahoo Finance",
+            "title": "ADP National Employment Report: Private Sector Employment Increased by 63,000 Jobs in February; Annual Pay was Up 4.5% - PR Newswire",
             "sentiment": "POSITIVE",
-            "score": 0.8928914666175842,
+            "score": 0.9563417434692383,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "American Airlines Blasts United for Flooding Chicago O\u2019Hare to Block Gates \u2014 The Employee Memo Isn\u2019t Signed by CEO Robert Isom [Roundup] - View from the Wing",
+            "sentiment": "NEGATIVE",
+            "score": 0.8691852688789368,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -67,48 +102,31 @@
             ]
         },
         {
-            "title": "America is the oil king of the world. So why is the Iran war sending gas prices higher? - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.7118778824806213,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bitcoin jumps above $71,000, building on its resilience to Middle East conflict - CoinDesk",
+            "title": "Here's How Much Traders Expect Broadcom Stock To Move After Earnings - Investopedia",
             "sentiment": "POSITIVE",
-            "score": 0.9478464722633362,
+            "score": 0.8319821953773499,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Panic Sweeps Korean Stocks in Biggest Two-Day Crash Since 2008 - Bloomberg",
+            "title": "With his war in Iran, Trump just made the next Fed chair\u2019s job even harder - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9448615908622742,
+            "score": 0.7882605195045471,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Elon Musk is set to take the stand in a trial over claims he deflated Twitter stock before purchase - AP News",
+            "title": "Panic Sweeps Korean Stocks in Biggest Two-Day Crash Since 2008 - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8461514115333557,
+            "score": 0.9511492848396301,
             "signal": "BEARISH",
-            "tickers": [
-                "X"
-            ],
-            "primary_ticker": "X",
-            "ticker_impacts": [
-                {
-                    "ticker": "X",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Prediction: Nvidia (NVDA) Will Be Worth More Than Alphabet, Apple, Amazon, Tesla, Meta, and Microsoft Combined by 2030 - The Motley Fool",
@@ -116,38 +134,23 @@
             "score": 0.7703204154968262,
             "signal": "BULLISH",
             "tickers": [
+                "GOOGL",
+                "TSLA",
+                "NVDA",
+                "AMZN",
                 "META",
                 "MSFT",
-                "TSLA",
-                "AAPL",
-                "GOOGL",
-                "NVDA",
-                "AMZN"
+                "AAPL"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
                     "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "high"
                 },
@@ -160,48 +163,28 @@
                     "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Iran's revenge: drones damage data centers for Amazon Web Services, reveal west's Achilles Heel - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9458418488502502,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
+                },
                 {
-                    "ticker": "AMZN",
-                    "impact": "negative",
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Archer Aviation Stock Falls After Earnings. Why the Drone Maker Is Tumbling Despite the Iran War. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.84609454870224,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "5 ways the Iran conflict is upending Europe\u2019s energy plans - politico.eu",
             "sentiment": "NEGATIVE",
             "score": 0.933399498462677,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Burger King Posts Shady Response To Viral McDonald's CEO Video: 'So Petty, I Love It' - Delish",
-            "sentiment": "NEGATIVE",
-            "score": 0.9335677027702332,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -220,24 +203,6 @@
             "title": "Blue Owl slides below listing price as private credit worries mount - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9581075310707092,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Target to invest $2 billion more in AI, stores and staffing as it seeks to reverse sales slump - CBS News",
-            "sentiment": "POSITIVE",
-            "score": 0.8623446226119995,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Salty Otter owner says AI logo uproar has \u2018crushed\u2019 her lifelong dream - Lookout Santa Cruz",
-            "sentiment": "NEGATIVE",
-            "score": 0.7616786956787109,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
