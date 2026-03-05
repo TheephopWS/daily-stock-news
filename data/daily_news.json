@@ -1,26 +1,79 @@
 {
-    "last_updated": "2026-03-05 13:40:53 UTC",
-    "total_articles": 18,
-    "bullish_articles": 1,
-    "bearish_articles": 17,
+    "last_updated": "2026-03-05 16:08:38 UTC",
+    "total_articles": 19,
+    "bullish_articles": 3,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "Stock futures fall as traders monitor latest developments in U.S.-Iran war: Live updates - CNBC",
+            "title": "S&P 500 rises as oil eases, but traders are still cautious amid Iran conflict: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9703356623649597,
+            "score": 0.9704639911651611,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Markets in Europe gain while Asian shares swoon as the war with Iran widens and oil surges higher - AP News",
+            "title": "ADP: Private employers added 63,000 jobs in February, the best monthly showing since July - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8928914666175842,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Iran reportedly calls for talks to end conflict - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9508976340293884,
+            "score": 0.9654573798179626,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Big investors have been fleeing for-sale housing market, even before Trump ordered ban - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9301668405532837,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bitcoin jumps above $71,000, building on its resilience to Middle East conflict - CoinDesk",
+            "sentiment": "POSITIVE",
+            "score": 0.9478464722633362,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Panic Sweeps Korean Stocks in Biggest Two-Day Crash Since 2008 - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9448615908622742,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Elon Musk is set to take the stand in a trial over claims he deflated Twitter stock before purchase - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8461514115333557,
+            "signal": "BEARISH",
+            "tickers": [
+                "X"
+            ],
+            "primary_ticker": "X",
+            "ticker_impacts": [
+                {
+                    "ticker": "X",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "I was at a QuitGPT protest, and the discontent extends far beyond OpenAI's Pentagon deal - Business Insider",
@@ -35,15 +88,6 @@
             "title": "Trump met with Coinbase CEO before bashing banks over crypto bill - Politico",
             "sentiment": "NEGATIVE",
             "score": 0.7464354038238525,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Korean Stock Gauge Poised for Correction on Iran War Selloff - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.9292076826095581,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -68,27 +112,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "Moderna to Pay $950 Million to Settle Patent Cases From Arbutus, Genevant - WSJ",
+            "title": "Iran's revenge: drones damage data centers for Amazon Web Services, reveal west's Achilles Heel - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9226637482643127,
+            "score": 0.9458418488502502,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Archer Aviation Stock Falls After Earnings. Why the Drone Maker Is Tumbling Despite the Iran War. - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.84609454870224,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Roundup: Verizon / Oil stocks / Charlie\u2019s Law - Baton Rouge Business Report",
-            "sentiment": "NEGATIVE",
-            "score": 0.7940041422843933,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -122,23 +165,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Amazon says drones hit 3 of its Middle East data centers amid Iran conflict - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9384729266166687,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Gold Price Slides Down as Middle East War Ratchets Up - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.8678532838821411,
@@ -164,23 +190,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia bull drops shocking take on upside - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7301473021507263,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
