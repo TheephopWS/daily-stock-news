@@ -1,13 +1,40 @@
 {
-    "last_updated": "2026-03-08 15:44:04 UTC",
-    "total_articles": 21,
+    "last_updated": "2026-03-08 18:56:33 UTC",
+    "total_articles": 23,
     "bullish_articles": 5,
-    "bearish_articles": 16,
+    "bearish_articles": 18,
     "articles": [
         {
             "title": "Trump administration's embattled FDA vaccine chief is leaving again - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.7349820137023926,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump\u2019s week: Poor jobs numbers, high gas prices and Noem\u2019s ouster - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9626368284225464,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "A week of war in charts: the impact on the US - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9219403266906738,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil and gas production shutdowns in Iraq and Kuwait widen the Iran war's impact on energy prices - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8305134177207947,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,36 +50,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil price at two-year high after Qatar warns all Gulf production could stop within days - BBC",
+            "title": "Musk\u2019s Spam Frustration Was \u2018Confusing\u2019 to Ex-Twitter Executives - Bloomberg",
             "sentiment": "NEGATIVE",
-            "score": 0.8418895602226257,
+            "score": 0.8537412285804749,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "MAGA Host Humiliated After Getting Jobs Report Totally Wrong - The Daily Beast",
-            "sentiment": "NEGATIVE",
-            "score": 0.836527407169342,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "X"
+            ],
+            "primary_ticker": "X",
+            "ticker_impacts": [
+                {
+                    "ticker": "X",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Here\u2019s Why BlackRock Shares Slid To Their Lowest Point In Nearly 9 Months - Forbes",
             "sentiment": "NEGATIVE",
             "score": 0.9715206027030945,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Western Alliance Sues Jefferies Over Soured Loan, Records Charge-Off - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9668521285057068,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -86,9 +103,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Airlines Warn Of Higher Fares As Trouble Brews Due To Jet Fuel Cost Skyrocketing - One Mile at a Time",
+            "title": "The fast food war nobody saw coming in 2026 - OregonLive.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9615880846977234,
+            "score": 0.7251574993133545,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -104,10 +121,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Claude\u2019s consumer growth surge continues after Pentagon deal debacle - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.9365378618240356,
-            "signal": "BULLISH",
+            "title": "Iran conflict could \u2018bring down the economies of the world,\u2019 warns one of the Middle East\u2019s biggest energy exporters - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9547801613807678,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "U.S. economy unexpectedly sheds 92,000 jobs in February - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9719634056091309,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -125,6 +151,50 @@
             "title": "Scout Has a Solution To Range-Extending Gas Engine Cutting Tow Capacity in Half, CEO Says [Updated] - The Drive",
             "sentiment": "POSITIVE",
             "score": 0.9141201376914978,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Claude hits one million daily signups, passing ChatGPT in Google Play Store - 9to5Google",
+            "sentiment": "POSITIVE",
+            "score": 0.9539966583251953,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Worried that AI might replace you? Check out this graph from Anthropic showing the jobs most at risk - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9334924817085266,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "New Jersey Girl Scout Troop Chastised For Brilliant Sales Hack - OutKick",
+            "sentiment": "NEGATIVE",
+            "score": 0.8455464243888855,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Axel Springer Strikes $770 Million Deal for U.K.\u2019s Daily Telegraph - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.7854578495025635,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -154,66 +224,30 @@
             ]
         },
         {
-            "title": "Grocery Outlet Bargain Market closing 36 underperforming stores, including several in Pennsylvania and New Jersey - 6abc Philadelphia",
+            "title": "United CEO Scott Kirby says higher airfare could be ahead after fuel price spike - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9581798911094666,
+            "score": 0.7491908669471741,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Elon Musk defends tweets in lawsuit alleging they caused Twitter stock to fall before acquisition - AP News",
+            "title": "Jack Dorsey Is Ready to Explain the Block Layoffs - WIRED",
             "sentiment": "NEGATIVE",
-            "score": 0.902687668800354,
+            "score": 0.9042688012123108,
             "signal": "BEARISH",
             "tickers": [
-                "X"
+                "INTC"
             ],
-            "primary_ticker": "X",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "X",
+                    "ticker": "INTC",
                     "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Marvell Gets AI Sales Boost In Fiscal Q4. Stock Rises. - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9506999850273132,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Ford Brushed Off This Problem For Years, Now 600,000 Vehicles Are Recalled - Carscoops",
-            "sentiment": "NEGATIVE",
-            "score": 0.9565693140029907,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Investors betting on international stocks trouncing the U.S. are getting a rude awakening from the Iran conflict - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9678242802619934,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mortgage rates hit 6% as Iran war spooks bond market traders - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9608882069587708,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
