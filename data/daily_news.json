@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-03-09 07:33:09 UTC",
-    "total_articles": 21,
-    "bullish_articles": 5,
-    "bearish_articles": 16,
+    "last_updated": "2026-03-09 10:11:37 UTC",
+    "total_articles": 27,
+    "bullish_articles": 6,
+    "bearish_articles": 21,
     "articles": [
         {
             "title": "Gas prices jump across Southern California, with Los Angeles County seeing average of $5.17 per gallon, amid war in Iran - ABC7 Los Angeles",
@@ -17,6 +17,15 @@
             "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal - TechCrunch",
             "sentiment": "NEGATIVE",
             "score": 0.8793203234672546,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "A Bizarre International War Inside One Chip Company Threatens the Global Automotive Industry - Gizmodo",
+            "sentiment": "NEGATIVE",
+            "score": 0.9383327960968018,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -50,10 +59,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "China warns of global chip shortages as Nexperia dispute escalates again - Yahoo Finance",
+            "title": "A suburb rife with data centers set to fight Amazon plan for another - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9621139168739319,
+            "score": 0.883770227432251,
             "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Oil and gas prices rise rapidly as Iran war escalates - PBS",
+            "sentiment": "POSITIVE",
+            "score": 0.8333722352981567,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -62,6 +88,15 @@
             "title": "A Chilling Warning From United Airlines CEO On Airfares - Live and Let's Fly",
             "sentiment": "NEGATIVE",
             "score": 0.9525758624076843,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gen Z men with college degrees now have the same unemployment rate as non-grads - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9426836371421814,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -86,6 +121,24 @@
             "ticker_impacts": []
         },
         {
+            "title": "Fed \u2018utterly paralyzed\u2019 as Iran conflict stokes stagflation fears - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9224861860275269,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Qatar energy minister sends strong message on $150 crude - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.923118531703949,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Chamath Palihapitiya said his software company is moving away from Cursor because it was spending too much on tokens - Business Insider",
             "sentiment": "NEGATIVE",
             "score": 0.8508859276771545,
@@ -95,13 +148,39 @@
             "ticker_impacts": []
         },
         {
-            "title": "Is this the beginning of the worst gas crisis the world has seen? - The Times",
+            "title": "Bitcoin price news: BTC in deep bear market, could crash by another 30%, investment firm says - CoinDesk",
             "sentiment": "NEGATIVE",
-            "score": 0.957788348197937,
+            "score": 0.9677777886390686,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "The U.S. labor market lost 92,000 jobs in February in warning sign for economy - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9577367901802063,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "5-star analyst revamps Nvidia stock price target - thestreet.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8183817863464355,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Queues, Price Hikes and Shortages as Asia Battles Fuel Crunch - Bloomberg.com",
@@ -122,15 +201,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nintendo Sues U.S. Government Over Trump's 'Unlawful' Tariffs That Led to Last-Minute Switch 2 Pre-Order Delay, Demands Refund With Interest - IGN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9118067026138306,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "The FDA, urged to avoid controversy, creates a new headache with attack against UniQure - statnews.com",
             "sentiment": "NEGATIVE",
             "score": 0.9488785266876221,
@@ -140,10 +210,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bond Traders Pile Into Inflation Hedges as War Drives Up Oil - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.8012626767158508,
-            "signal": "BULLISH",
+            "title": "Kalshi Gamblers Furious After Company Refuses to Pay Out $54 Million on Ayatollah Khamenei\u2019s Death - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.9597680568695068,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -172,18 +242,18 @@
             "score": 0.9207567572593689,
             "signal": "BEARISH",
             "tickers": [
-                "AWS",
-                "AMZN"
+                "AMZN",
+                "AWS"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "AWS",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "AWS",
                     "impact": "negative",
                     "relevance": "medium"
                 }
