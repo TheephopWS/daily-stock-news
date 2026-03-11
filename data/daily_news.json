@@ -1,17 +1,34 @@
 {
-    "last_updated": "2026-03-11 19:14:36 UTC",
-    "total_articles": 15,
-    "bullish_articles": 7,
-    "bearish_articles": 8,
+    "last_updated": "2026-03-11 21:52:25 UTC",
+    "total_articles": 16,
+    "bullish_articles": 5,
+    "bearish_articles": 11,
     "articles": [
         {
-            "title": "Stock Market Today: Major Indexes End Mostly Lower as Investors Digest Iran Developments; Oil Futures Pull Back - Investopedia",
+            "title": "US stocks hold steadier as Wall Street waits for the next signal on how long war with Iran may last - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9666602611541748,
+            "score": 0.9676633477210999,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Boeing Says Wiring Flaws Will Slow Some 737 MAX Deliveries - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9665980935096741,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Stock Market Today: Dow, Nasdaq Climb As Oil Prices Plummet Amid Ongoing U.S.-Iran Conflict (Live Coverage) - Investor's Business Daily",
@@ -21,6 +38,32 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "FDA finds little evidence that a drug touted by Trump can help people with autism - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.7517590522766113,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon Wins Court Order Blocking Perplexity\u2019s AI Shopping Bots - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8900333642959595,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Gas prices pass $3.50 per gallon to highest level since 2024 amid U.S.-Iran war - CNBC",
@@ -50,19 +93,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "BioNTech Shares Fall After Cofounders Plan Exit, Outlook Misses Forecasts - WSJ",
+            "title": "Volkswagen Group profits take big hit on Porsche shift - dw.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9289137721061707,
+            "score": 0.9515306949615479,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "America's never had such high national debt heading into an economic shock. We need a 'break glass' plan, think tank warns - Fortune",
-            "sentiment": "POSITIVE",
-            "score": 0.7870426177978516,
-            "signal": "BULLISH",
+            "title": "BioNTech Shares Fall After Cofounders Plan Exit, Outlook Misses Forecasts - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9289137721061707,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -77,19 +120,27 @@
             "ticker_impacts": []
         },
         {
+            "title": "Amazon holds engineering meeting following AI-related outages - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9569283127784729,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Amy Klobuchar Slams Live Nation Settlement: \u2018Every Sign Points to a Backroom Deal\u2019 - Rolling Stone",
             "sentiment": "NEGATIVE",
             "score": 0.9600178599357605,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Hims & Hers Health boosted at Citi on Novo Nordisk partnership - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.890245795249939,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -128,32 +179,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Uber Expands Female Driver Option in the US Amid Mounting Assault Cases - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8626836538314819,
-            "signal": "BULLISH",
-            "tickers": [
-                "UBER"
-            ],
-            "primary_ticker": "UBER",
-            "ticker_impacts": [
-                {
-                    "ticker": "UBER",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "World shares tumble as Iran war pushes crude prices over $110 a barrel - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9701107740402222,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
