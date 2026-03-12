@@ -1,31 +1,39 @@
 {
-    "last_updated": "2026-03-12 13:40:18 UTC",
-    "total_articles": 22,
-    "bullish_articles": 12,
-    "bearish_articles": 10,
+    "last_updated": "2026-03-12 16:20:11 UTC",
+    "total_articles": 20,
+    "bullish_articles": 8,
+    "bearish_articles": 12,
     "articles": [
         {
-            "title": "Dow Jones Futures Fall, Oracle Jumps On Earnings; Oil Swings With Reserves Release Plan Due - Investor's Business Daily",
+            "title": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap - Bloomberg",
             "sentiment": "NEGATIVE",
-            "score": 0.8961824178695679,
+            "score": 0.912300705909729,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "S&P 500 futures are little changed as traders monitor oil prices, await inflation data: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9606369137763977,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "NVIDIA and Nebius Partner to Scale Full-Stack AI Cloud - NVIDIA Newsroom",
+            "sentiment": "POSITIVE",
+            "score": 0.86700040102005,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "China's Gen Z is giving up on the 'Chinese Dream.' The global economy could pay the price. - Business Insider",
+            "title": "The global oil crisis is even worse than it looks - Vox",
             "sentiment": "NEGATIVE",
-            "score": 0.951900839805603,
+            "score": 0.9159699082374573,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -58,28 +66,36 @@
             ]
         },
         {
-            "title": "Trump Says US to Get New Oil Refinery With Reliance Backing - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.8351653814315796,
-            "signal": "BULLISH",
+            "title": "JPMorgan marking down loan portfolios of private credit groups - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9292201995849609,
+            "signal": "BEARISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "What Wall Street is getting wrong about Trump\u2019s oil crisis - Daily Kos",
+            "sentiment": "NEGATIVE",
+            "score": 0.8010514378547668,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Gas Just Hit $8 A Gallon In This Major US City - Yahoo",
-            "sentiment": "POSITIVE",
-            "score": 0.7870655655860901,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Asia-Pacific markets trade higher as investors weigh developments in the Middle East - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9347234964370728,
-            "signal": "BULLISH",
+            "title": "DISH Loses 226 ABC, CBS, FOX, & NBC Stations - | Cord Cutters News",
+            "sentiment": "NEGATIVE",
+            "score": 0.967029333114624,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -103,30 +119,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "FDA warns Novo Nordisk of potential unreported GLP-1 side effects - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9419753551483154,
-            "signal": "BEARISH",
+            "title": "Airlines Quietly Begin Raising Fares As Jet Fuel Prices Surge - Live and Let's Fly",
+            "sentiment": "POSITIVE",
+            "score": 0.7553183436393738,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Amazon Admits Extensive AI Use Is Wreaking Havoc on Its Core Business - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.9412412047386169,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "China's exports surge despite waning trade with the U.S. - PBS",
@@ -172,6 +171,24 @@
             ]
         },
         {
+            "title": "ExodusPoint, Citadel Join Big Hedge Funds Losing Money Last Week - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9660187363624573,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "FDA Warns Novo Nordisk of Unreported Side Effects Tied to GLP-1 Patients - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.8819293975830078,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Cyber retaliation surges after US\u2013Israel strikes on Iran as hacktivists hit governments, defense, critical sectors - Industrial Cyber",
             "sentiment": "NEGATIVE",
             "score": 0.7710837125778198,
@@ -181,9 +198,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Legora reaches $5.55 billion valuation as AI legal tech boom endures - TechCrunch",
+            "title": "FDA approves leucovorin for ultrarare cerebral folate deficiency subset without clinical trial - Fierce Pharma",
             "sentiment": "POSITIVE",
-            "score": 0.7807435989379883,
+            "score": 0.7198590040206909,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -199,45 +216,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Yann LeCun just raised $1bn to prove the AI industry has got it wrong - The Next Web",
-            "sentiment": "POSITIVE",
-            "score": 0.792917788028717,
-            "signal": "BULLISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "43 GW: Solar tops new US power for the 5th year in a row - Electrek",
-            "sentiment": "POSITIVE",
-            "score": 0.7784050107002258,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Amy Klobuchar Slams Live Nation Settlement: \u2018Every Sign Points to a Backroom Deal\u2019 - Rolling Stone",
+            "title": "US blindsides states with surprise settlement in Live Nation/Ticketmaster trial - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.9600178599357605,
+            "score": 0.9380117654800415,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Vertex says its drug successfully reduced marker of kidney disease in late-stage trial - statnews.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9354769587516785,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
