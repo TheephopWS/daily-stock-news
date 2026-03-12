@@ -1,32 +1,40 @@
 {
-    "last_updated": "2026-03-12 19:15:47 UTC",
-    "total_articles": 19,
+    "last_updated": "2026-03-12 21:52:48 UTC",
+    "total_articles": 17,
     "bullish_articles": 7,
-    "bearish_articles": 12,
+    "bearish_articles": 10,
     "articles": [
         {
-            "title": "Inflation held steady last month, but that was before the attack on Iran sent energy costs soaring - AP News",
+            "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker - Krebs on Security",
             "sentiment": "NEGATIVE",
-            "score": 0.8802043795585632,
+            "score": 0.904760479927063,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "The Live Nation settlement has industry insiders baffled - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.9244805574417114,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9076442718505859,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stryker Hit With Suspected Iran-Linked Cyberattack - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9589629769325256,
-            "signal": "BEARISH",
+            "title": "Trump to Invoke Emergency Law for Offshore Oil Producer Sable - Bloomberg",
+            "sentiment": "POSITIVE",
+            "score": 0.8534005284309387,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -41,12 +49,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia Invests $2 Billion In Nebius To Fund AI Data Center Buildout - Investor's Business Daily",
+            "title": "Nvidia Invests $2 Billion in Nebius for New Data Center Deal - Bloomberg",
             "sentiment": "POSITIVE",
-            "score": 0.8641808032989502,
+            "score": 0.7914526462554932,
             "signal": "BULLISH",
             "tickers": [
-                "NVDA"
+                "NVDA",
+                "INTC"
             ],
             "primary_ticker": "NVDA",
             "ticker_impacts": [
@@ -54,6 +63,11 @@
                     "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -81,6 +95,24 @@
             ]
         },
         {
+            "title": "RFK Jr.\u2019s vaccine advisers drop proposal to revisit covid-19 shot - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8781309127807617,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Airlines Hike Fares, Fuel Surcharges After Wild Oil Price Swings - Bloomberg",
+            "sentiment": "POSITIVE",
+            "score": 0.8289762735366821,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "More pain in private credit with JPMorgan reportedly tightening lending while a $33 billion fund sees heavy redemptions - MarketWatch",
             "sentiment": "NEGATIVE",
             "score": 0.9560133814811707,
@@ -96,15 +128,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "China's Gen Z is giving up on the 'Chinese Dream.' The global economy could pay the price. - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.951900839805603,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Rheinmetall sees sales growth of up to 45% in 2026, says it's in 'prime position' to arm the U.S. amid war in Iran - CNBC",
@@ -124,54 +147,27 @@
             ]
         },
         {
-            "title": "What Wall Street is getting wrong about Trump\u2019s oil crisis - Daily Kos",
-            "sentiment": "NEGATIVE",
-            "score": 0.8010514378547668,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oracle's Larry Ellison Downplays Software Apocalypse Fears - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.8452354669570923,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gas Just Hit $8 A Gallon In This Major US City - SlashGear",
+            "title": "Oracle Stock Jumps After Earnings Beat. AI Powers Stronger-Than-Expected Cloud Growth. - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.7644391059875488,
+            "score": 0.9355767965316772,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "DISH Loses 226 ABC, CBS, FOX, & NBC Stations - | Cord Cutters News",
+            "title": "Assemblyman Gray calls North Star\u2019s plan to put Wintergreen at helm 'absurd;' Hochul says discussions for receivership are underway - North Country Now",
             "sentiment": "NEGATIVE",
-            "score": 0.967029333114624,
+            "score": 0.944818913936615,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Ford launches new AI to grow multibillion-dollar Pro commercial business - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8481156229972839,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "BioNTech Crumbles 22% As Co-Founders Plot Their Exit - Investor's Business Daily",
+            "title": "Soaring fuel prices to cast long shadow across US economy - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9697270393371582,
+            "score": 0.7046997547149658,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -195,15 +191,6 @@
             ]
         },
         {
-            "title": "NASA and SpaceX disagree about manual controls for lunar lander - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.959873378276825,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "FDA Warns Novo Nordisk of Unreported Side Effects Tied to GLP-1 Patients - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.8819293975830078,
@@ -213,21 +200,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "Yann LeCun just raised $1bn to prove the AI industry has got it wrong - The Next Web",
-            "sentiment": "POSITIVE",
-            "score": 0.792917788028717,
-            "signal": "BULLISH",
+            "title": "\u2018This cannot be sustainable\u2019: The U.S. borrowed $50 billion a week for the past five months, the CBO says - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8965351581573486,
+            "signal": "BEARISH",
             "tickers": [
-                "META"
+                "CBO"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "META",
-                    "impact": "positive",
+                    "ticker": "CBO",
+                    "impact": "negative",
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Cyber retaliation surges after US\u2013Israel strikes on Iran as hacktivists hit governments, defense, critical sectors - Industrial Cyber",
+            "sentiment": "NEGATIVE",
+            "score": 0.7710837125778198,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         }
     ]
 }
