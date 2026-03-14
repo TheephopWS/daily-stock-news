@@ -1,18 +1,9 @@
 {
-    "last_updated": "2026-03-14 15:48:21 UTC",
-    "total_articles": 23,
+    "last_updated": "2026-03-14 19:00:58 UTC",
+    "total_articles": 19,
     "bullish_articles": 6,
-    "bearish_articles": 17,
+    "bearish_articles": 13,
     "articles": [
-        {
-            "title": "US economy expanded at sluggish 0.7% in fourth quarter, government says, downgrading first estimate - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8633584976196289,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
         {
             "title": "Why China could emerge a winner from Trump\u2019s global energy shock - The Washington Post",
             "sentiment": "POSITIVE",
@@ -47,6 +38,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Adobe CEO to Depart After 18 Years Amid AI Disruptions - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9714425802230835,
+            "signal": "BEARISH",
+            "tickers": [
+                "ADBE"
+            ],
+            "primary_ticker": "ADBE",
+            "ticker_impacts": [
+                {
+                    "ticker": "ADBE",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Egg prices have taken a beating. What's behind the drop? - NPR",
@@ -85,32 +93,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why the SPY ETF Plunged Today, 3/12/2026? - TipRanks",
-            "sentiment": "NEGATIVE",
-            "score": 0.9131531119346619,
-            "signal": "BEARISH",
-            "tickers": [
-                "SPY"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "SPY",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Popular protein bar company accused of hiding the real calorie count from customers - AL.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8925032615661621,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Fertilizer Stocks Jump With Shipments Stuck at the Strait of Hormuz - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.8132428526878357,
@@ -129,10 +111,28 @@
             "ticker_impacts": []
         },
         {
+            "title": "Five reasons oil prices won't snap back from Iran war - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9541876316070557,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Live Nation Gets To Keep Its Monopoly Thanks To Trump\u2019s Department Of Justice - Defector",
             "sentiment": "POSITIVE",
             "score": 0.7480258345603943,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "A key gauge of inflation expectations just logged its highest reading in almost 4 years - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9497166872024536,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -147,36 +147,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Average US long-term mortgage rate rises to 6.11%, back to where it was 5 weeks ago - WTOP",
-            "sentiment": "POSITIVE",
-            "score": 0.9305277466773987,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "What the Iran war could mean for gas prices, flights and your wallet - The Washington Post",
+            "title": "A Costco shopper is suing, saying members deserve a slice of any tariff refunds - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9079965949058533,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Honda Cancels 0 Series And Acura RSX EVs - InsideEVs",
-            "sentiment": "NEGATIVE",
-            "score": 0.9587070345878601,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Customer sues Costco for tariff refunds - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9555140733718872,
+            "score": 0.8333262801170349,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -210,22 +183,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Boycott of Target over DEI cuts still active, local organizers say - MPR News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9040244221687317,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "Energy Department Announces $1.9B Investment in Critical Grid Infrastructure to Reduce Electricity Costs - Department of Energy (.gov)",
+            "sentiment": "POSITIVE",
+            "score": 0.9255464673042297,
+            "signal": "BULLISH",
+            "tickers": [
+                "OE"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump's war on Iran creates an economic storm for consumers and the Fed - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9169971942901611,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "OE",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         }
     ]
 }
