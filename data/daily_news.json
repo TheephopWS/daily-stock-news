@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-03-14 07:09:50 UTC",
-    "total_articles": 15,
-    "bullish_articles": 2,
+    "last_updated": "2026-03-14 09:53:46 UTC",
+    "total_articles": 16,
+    "bullish_articles": 3,
     "bearish_articles": 13,
     "articles": [
+        {
+            "title": "European stocks set to slide further as oil prices stay above $100 a barrel - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9729222059249878,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "S&P 500 futures edge up ahead of key inflation data; traders monitor oil prices and Iran war: Live updates - CNBC",
             "sentiment": "NEGATIVE",
@@ -14,27 +23,53 @@
             "ticker_impacts": []
         },
         {
-            "title": "Asia-Pacific markets tumble as investors brace for a prolonged war in Middle East - CNBC",
+            "title": "Alibaba Debuts OpenClaw App to Feed China\u2019s Agentic AI Addiction - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7356390357017517,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Asia stocks fall, head for weekly losses amid little relief from Iran war - Investing.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9527189135551453,
+            "score": 0.968087375164032,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Trump and Iran Strike Defiant Tone as Oil Markets See Little Relief - Bloomberg.com",
+            "title": "Adobe CEO Shantanu Narayen is stepping down after 18 years\u2014as pressure on the company mounts to deliver on AI - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9009215235710144,
+            "score": 0.9153370261192322,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "ADBE"
+            ],
+            "primary_ticker": "ADBE",
+            "ticker_impacts": [
+                {
+                    "ticker": "ADBE",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Fertilizer Stocks Jump With Shipments Stuck at the Strait of Hormuz - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.8132428526878357,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Five reasons oil prices won't snap back from Iran war - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9541876316070557,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -68,15 +103,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Honda Cancels 0 Series And Acura RSX EVs - InsideEVs",
-            "sentiment": "NEGATIVE",
-            "score": 0.9587070345878601,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Customer sues Costco for tariff refunds - BBC",
             "sentiment": "NEGATIVE",
             "score": 0.9555140733718872,
@@ -95,9 +121,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Iran war is the largest oil supply disruption in history, report finds - Politico",
+            "title": "U.S. oil stockpile is at a three-decade low amid Iran's blockade - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.9458078145980835,
+            "score": 0.944284200668335,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -125,15 +151,6 @@
             "title": "Trump's war on Iran creates an economic storm for consumers and the Fed - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.9169971942901611,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FDA sends warning letter to Novo Nordisk over Ozempic, Wegovy side effects - WPXI",
-            "sentiment": "NEGATIVE",
-            "score": 0.884333610534668,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
