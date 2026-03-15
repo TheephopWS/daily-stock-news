@@ -1,26 +1,94 @@
 {
-    "last_updated": "2026-03-14 21:46:29 UTC",
+    "last_updated": "2026-03-15 03:35:41 UTC",
     "total_articles": 24,
-    "bullish_articles": 8,
-    "bearish_articles": 16,
+    "bullish_articles": 6,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Wall Street warns Iran war will trigger prolonged energy crisis - Financial Times",
+            "title": "Trump turns to California offshore oil to help with Iran war - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.8633193373680115,
+            "score": 0.7232481241226196,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Cracks emerged in a resilient US economy before war in Iran sent oil prices rocketing - AP News",
+            "title": "The Iran War Is Now Disrupting Global Trade - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8896424770355225,
+            "score": 0.9502086043357849,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Planned release of strategic reserve would put U.S. supplies at lowest levels in 44 years - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9489114880561829,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Honda is pulling the plug on three planned US-built EVs. Here's why. - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.8947001099586487,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Volkswagen\u2019s first custom-tailored EV rolls out as it retakes the top spot in China - Electrek",
+            "sentiment": "POSITIVE",
+            "score": 0.8246336579322815,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Wall Street warns Iran war will trigger prolonged energy crisis - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.8661500811576843,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mortgage Rates Surge to 7-Month Highs - Mortgage News Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.732201337814331,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Southwest drops Chicago O'Hare and Washington Dulles - The Points Guy",
+            "sentiment": "NEGATIVE",
+            "score": 0.9258625507354736,
+            "signal": "BEARISH",
+            "tickers": [
+                "IAD",
+                "ORD"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "IAD",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "ORD",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Canada sheds more than 100,000 jobs in first two months of year - BBC",
@@ -30,29 +98,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market Today: Dow Fades On Inflation, GDP Surprise; Nvidia Turns Lower (Live Coverage) - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9662100672721863,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA",
-                "ADBE"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "ADBE",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Key inflation gauge worsened in January, before Iran war lifted gas prices - AP News",
@@ -73,30 +118,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "15 stocks in the S&P 500 showing double-digit gains since the attack on Iran began - MarketWatch",
-            "sentiment": "POSITIVE",
-            "score": 0.8886443376541138,
-            "signal": "BULLISH",
+            "title": "Trump can't 'drill, baby, drill' his way out of this Iran-inspired oil crisis: Experts - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9442397356033325,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "BofA\u2019s Hartnett Warns Markets Are Starting to Look Like 2008 - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9295669198036194,
-            "signal": "BEARISH",
-            "tickers": [
-                "BAC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "BAC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "January's EV Registrations Fell 41% As The Full Weight Of Trump's Policy Changes Hit Home - Jalopnik",
@@ -108,38 +136,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Adobe Stock Rose 540% Under Its Departing CEO. Why He\u2019s Leaving Now. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.971883237361908,
-            "signal": "BEARISH",
-            "tickers": [
-                "ADBE"
-            ],
-            "primary_ticker": "ADBE",
-            "ticker_impacts": [
-                {
-                    "ticker": "ADBE",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Fears of a food shock rise as midterms loom - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9485967755317688,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Personal Income and Outlays, January 2026 - U.S. Bureau of Economic Analysis (BEA) (.gov)",
+            "title": "GDP (Second Estimate), 4th Quarter and Year 2025 - U.S. Bureau of Economic Analysis (BEA) (.gov)",
             "sentiment": "POSITIVE",
-            "score": 0.9317417740821838,
+            "score": 0.9123920202255249,
             "signal": "BULLISH",
             "tickers": [
-                "BEA"
+                "BEA",
+                "GDP"
             ],
             "primary_ticker": "BEA",
             "ticker_impacts": [
@@ -147,13 +150,36 @@
                     "ticker": "BEA",
                     "impact": "positive",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "GDP",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Stocks bounce as oil eases slightly, but S&P 500 heads for third-straight losing week: Live updates - CNBC",
+            "title": "Stocks Fall As Iran War Keeps Oil Just Above $100, Upends Rate Outlook - HuffPost",
             "sentiment": "NEGATIVE",
-            "score": 0.9742093682289124,
+            "score": 0.8648548722267151,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why a 1980s conflict may be the best market analog for the current Iran situation - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9123377203941345,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why Bank Stocks Are Getting Beaten Up Over Private Credit - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.942248523235321,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -169,81 +195,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "Alibaba Debuts OpenClaw App to Feed China\u2019s Agentic AI Addiction - Bloomberg.com",
+            "title": "American farmers pinched by high diesel prices ahead of spring planting season - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.943854808807373,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gas price surge over Iran hits Americans already struggling with affordability - The Hill",
+            "sentiment": "NEGATIVE",
+            "score": 0.9292402863502502,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Fuel crisis forces airlines to announce major fare increases, flight cancellations as Iran conflict escalates - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.8815514445304871,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Live Nation Gets To Keep Its Monopoly Thanks To Trump\u2019s Department Of Justice - Defector",
             "sentiment": "POSITIVE",
-            "score": 0.7356390357017517,
+            "score": 0.7480258345603943,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Trump may waive 106-year-old maritime law to ease gas prices - upi.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8689206838607788,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Fertilizer Stocks Jump With Shipments Stuck at the Strait of Hormuz - WSJ",
+            "title": "Costco sued by shopper in potential tariff class action case - The Hill",
             "sentiment": "NEGATIVE",
-            "score": 0.8132428526878357,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Honda Cancels Plans for Three News EVs as It Scrambles to Rethink Strategy - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.9667266607284546,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Average US long-term mortgage rate rises to 6.11%, back to where it was 5 weeks ago - WTOP",
-            "sentiment": "POSITIVE",
-            "score": 0.9305277466773987,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "A Costco shopper is suing, saying members deserve a slice of any tariff refunds - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.8333262801170349,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "What the Iran war could mean for gas prices, flights and your wallet - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9079965949058533,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Private Credit\u2019s \u2018Back Leverage\u2019 Is Another Pain Point for Funds - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9483238458633423,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Iran war is the largest oil supply disruption in history, report finds - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.9458078145980835,
+            "score": 0.8416672348976135,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
