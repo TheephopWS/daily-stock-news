@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-03-15 07:17:44 UTC",
-    "total_articles": 22,
-    "bullish_articles": 6,
-    "bearish_articles": 16,
+    "last_updated": "2026-03-15 09:54:09 UTC",
+    "total_articles": 23,
+    "bullish_articles": 9,
+    "bearish_articles": 14,
     "articles": [
+        {
+            "title": "Southwest Airlines is dropping service to two major US airports - AZ Family",
+            "sentiment": "NEGATIVE",
+            "score": 0.9634422659873962,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Fears for press freedom as billionaire takes control of East Africa's largest media house - BBC",
             "sentiment": "NEGATIVE",
@@ -14,13 +23,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Economy was shakier than it appeared heading into Iran conflict - The Washington Post",
+            "title": "Stock Market Today: Nasdaq Sinks Below Key Level As War Stokes Volatility, Adobe Plunges (Live Coverage) - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9659479856491089,
+            "score": 0.9700998067855835,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "ADBE"
+            ],
+            "primary_ticker": "ADBE",
+            "ticker_impacts": [
+                {
+                    "ticker": "ADBE",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "The Iran War Is Now Disrupting Global Trade - WSJ",
@@ -41,24 +58,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Markets News, March 13, 2026: Equities Finish Lower as Oil Resumes Ascent; Indexes Record 3rd Straight Week of Declines - Investopedia",
-            "sentiment": "NEGATIVE",
-            "score": 0.9737336039543152,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Yen Slides to Weakest Since July 2024 as Iran War Escalates - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8531084060668945,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Volkswagen\u2019s first custom-tailored EV rolls out as it retakes the top spot in China - Electrek",
             "sentiment": "POSITIVE",
             "score": 0.8246336579322815,
@@ -68,18 +67,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "Costco shopper is suing the retailer to get piece of $180 billion in tariff refunds - Fortune",
+            "title": "Amazon Raises Price Of Ad-Free Prime Video Plan, Tags \u201cUltra\u201d Onto Brand Name - Deadline",
+            "sentiment": "POSITIVE",
+            "score": 0.8421618938446045,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Honda Denies Killing The Prologue EV - Motor1.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9059373140335083,
+            "score": 0.9040666818618774,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Honda Denies Killing The Prologue EV - Motor1.com",
+            "title": "Wall Street warns Iran war will trigger prolonged energy crisis - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9040666818618774,
+            "score": 0.8661500811576843,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -95,47 +111,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Southwest drops Chicago O'Hare and Washington Dulles - The Points Guy",
-            "sentiment": "NEGATIVE",
-            "score": 0.9258625507354736,
-            "signal": "BEARISH",
-            "tickers": [
-                "ORD",
-                "IAD"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "ORD",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "IAD",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Lawsuit says protein bars marketed as low-fat actually pack a lot more calories - Scripps News",
-            "sentiment": "NEGATIVE",
-            "score": 0.872277021408081,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Canada sheds more than 100,000 jobs in first two months of year - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9762064218521118,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Key inflation gauge worsened in January, before Iran war lifted gas prices - AP News",
             "sentiment": "POSITIVE",
             "score": 0.9386103749275208,
@@ -145,9 +120,41 @@
             "ticker_impacts": []
         },
         {
-            "title": "Here\u2019s Where the U.S. Economy Is Most Vulnerable to Iran War - WSJ",
+            "title": "GDP (Second Estimate), 4th Quarter and Year 2025 - U.S. Bureau of Economic Analysis (BEA) (.gov)",
+            "sentiment": "POSITIVE",
+            "score": 0.9123920202255249,
+            "signal": "BULLISH",
+            "tickers": [
+                "BEA",
+                "GDP"
+            ],
+            "primary_ticker": "BEA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BEA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GDP",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Rivian Revealed Impressive R2 Details Thursday. Why the Stock Plunged. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.8999119997024536,
+            "score": 0.9126819968223572,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "California passed a law to curb spikes in gas prices. Why isn\u2019t it using those powers now? - CalMatters",
+            "sentiment": "NEGATIVE",
+            "score": 0.9650861620903015,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -161,6 +168,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Bull Case for Oracle Stock Predicts Massive 150%+ Upside in 2026 - TipRanks",
+            "sentiment": "POSITIVE",
+            "score": 0.7894811034202576,
+            "signal": "BULLISH",
+            "tickers": [
+                "ORCL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "ORCL",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Why Bank Stocks Are Getting Beaten Up Over Private Credit - WSJ",
@@ -203,6 +227,15 @@
             "sentiment": "POSITIVE",
             "score": 0.7480258345603943,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Customer sues Costco for tariff refunds - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9555140733718872,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
