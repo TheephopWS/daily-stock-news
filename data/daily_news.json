@@ -1,13 +1,40 @@
 {
-    "last_updated": "2026-03-16 03:43:09 UTC",
-    "total_articles": 30,
-    "bullish_articles": 6,
-    "bearish_articles": 24,
+    "last_updated": "2026-03-16 07:52:56 UTC",
+    "total_articles": 24,
+    "bullish_articles": 7,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "'Peak war panic' will likely hit markets in 1-3 weeks, as Trump balks at ceasefire deal - Fortune",
+            "title": "153 people on Princess cruise ship in the Caribbean infected with norovirus - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9573835134506226,
+            "score": 0.8259876370429993,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Major fried chicken franchisee closes in Chapter 11 bankruptcy - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9604349732398987,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Horror! Trump's Comments about Oil Price Rise Is Starting to Freak Out Oil Industry Executives! - Daily Kos",
+            "sentiment": "NEGATIVE",
+            "score": 0.8095934391021729,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Southwest no longer servicing flights to two major U.S. airports - Chron",
+            "sentiment": "NEGATIVE",
+            "score": 0.8887380957603455,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -35,6 +62,15 @@
             "title": "US oil groups in line for $63bn windfall from Gulf war disruption - Financial Times",
             "sentiment": "POSITIVE",
             "score": 0.7616215348243713,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gas Prices Won\u2019t Drop \u2018Until Later This Year,\u2019 Analyst Says - Forbes",
+            "sentiment": "POSITIVE",
+            "score": 0.9405191540718079,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -77,10 +113,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration - The Hacker News",
+            "title": "Meta reportedly considering layoffs that could affect 20% of the company - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9506193399429321,
+            "score": 0.9229211211204529,
             "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Flying taxis to connect Texas cities under new federal program - San Antonio Express-News",
+            "sentiment": "POSITIVE",
+            "score": 0.7376051545143127,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -104,45 +157,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Skyrocketing energy prices and inflation woes mount as the \u2018absurd\u2019 reality in Iran sinks in - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8890740871429443,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Snow causes major delays, cancellations at SEA Airport - KIRO 7 News Seattle",
-            "sentiment": "NEGATIVE",
-            "score": 0.9605152606964111,
-            "signal": "BEARISH",
-            "tickers": [
-                "SEA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "SEA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Costco to pass along tariff refunds to members after Trump\u2019s tariffs struck down - MyNorthwest.com",
+            "title": "Don't Get Used To Cheap AI - Slashdot",
             "sentiment": "POSITIVE",
-            "score": 0.8901639580726624,
+            "score": 0.7706784009933472,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Fears for press freedom as billionaire takes control of East Africa's largest media house - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8633591532707214,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -160,15 +178,6 @@
             "title": "Planned release of strategic reserve would put U.S. supplies at lowest levels in 44 years - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.9489114880561829,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Yen Slides to Weakest Since July 2024 as Iran War Escalates - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8531084060668945,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -193,29 +202,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Southwest drops Chicago O'Hare and Washington Dulles - The Points Guy",
-            "sentiment": "NEGATIVE",
-            "score": 0.9258625507354736,
-            "signal": "BEARISH",
-            "tickers": [
-                "ORD",
-                "IAD"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "ORD",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "IAD",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "US job openings rise to a better-than-expected 7 million despite sluggish labor market - AP News",
             "sentiment": "POSITIVE",
             "score": 0.9518170356750488,
@@ -234,71 +220,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "AI promised supreme productivity, but it\u2019s actually straining workloads for employees\u2014time spent emailing has doubled, and focused work sessions fell by 9% - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.964906632900238,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stanley Druckenmiller says stablecoins could power global payments in 10\u201315 years - CoinDesk",
-            "sentiment": "POSITIVE",
-            "score": 0.7143958806991577,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "BofA\u2019s Hartnett Warns Markets Are Starting to Look Like 2008 - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9295669198036194,
-            "signal": "BEARISH",
-            "tickers": [
-                "BAC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "BAC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "January's EV Registrations Fell 41% As The Full Weight Of Trump's Policy Changes Hit Home - Jalopnik",
-            "sentiment": "NEGATIVE",
-            "score": 0.9724751114845276,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why Gas Prices Will Stay High After the War Is Over - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.718630313873291,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Egg prices have taken a beating. What's behind the drop? - NPR",
             "sentiment": "NEGATIVE",
             "score": 0.9662680625915527,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gulf states lose $15bn in energy revenues since start of war - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9688405394554138,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
