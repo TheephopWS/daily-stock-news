@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-03-17 16:37:53 UTC",
-    "total_articles": 35,
-    "bullish_articles": 12,
-    "bearish_articles": 23,
+    "last_updated": "2026-03-17 19:33:27 UTC",
+    "total_articles": 30,
+    "bullish_articles": 11,
+    "bearish_articles": 19,
     "articles": [
+        {
+            "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.961193859577179,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Peloton is launching bikes and treadmills for gyms, accelerating commercial strategy - CNBC",
             "sentiment": "POSITIVE",
@@ -31,36 +40,21 @@
             ]
         },
         {
-            "title": "Nebius Stock Pops On Expanded Meta Platforms Artificial Intelligence Data Center Deal - Investor's Business Daily",
+            "title": "Nebius jumps 14% after company inks $27 billion infrastructure deal with Meta - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8838136792182922,
+            "score": 0.8759235739707947,
             "signal": "BULLISH",
             "tickers": [
-                "INTC",
                 "META"
             ],
-            "primary_ticker": "INTC",
+            "primary_ticker": "META",
             "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "META",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Oil Supplies in Focus Ahead of Stock, Bond Open: Markets Wrap - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9235243201255798,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Wall St underestimates private capital problems, says top credit hedge fund - Financial Times",
@@ -70,23 +64,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "IIT grad who moved from Bengaluru to Ireland reveals \u20b91.3 crore salary: 'My quality of life has improved' | Trending - Hindustan Times",
-            "sentiment": "POSITIVE",
-            "score": 0.877840518951416,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Risks of a bear market are growing, says Goldman Sachs. Here are the trades to make. - MarketWatch",
@@ -106,44 +83,9 @@
             ]
         },
         {
-            "title": "Oil prices moderate as Iran supply fears persist; Trump talks Hormuz intervention - Investing.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8992246985435486,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Iran war is making it harder for the Federal Reserve to cut interest rates - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.9191129803657532,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Iran war is driving an oil shock \u2014 but not a broad supply chain crisis, Goldman Sachs says - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.7029175162315369,
-            "signal": "BEARISH",
-            "tickers": [
-                "GS"
-            ],
-            "primary_ticker": "GS",
-            "ticker_impacts": [
-                {
-                    "ticker": "GS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US - abcnews.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9579569697380066,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -154,6 +96,15 @@
             "sentiment": "NEGATIVE",
             "score": 0.9417491555213928,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "XRP price: Ripple linked token jumps as breakout extends on broad bitcoin-led move - CoinDesk",
+            "sentiment": "POSITIVE",
+            "score": 0.8837250471115112,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -177,6 +128,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Crypto lender BlockFills files for Chapter 11 bankruptcy after weeks of turmoil - The Block",
+            "sentiment": "NEGATIVE",
+            "score": 0.9658374190330505,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "China\u2019s Economy Gets Off to Better-Than-Forecast Start to Year - Bloomberg.com",
             "sentiment": "POSITIVE",
             "score": 0.949433445930481,
@@ -193,6 +153,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "BitMine Stock Tracks Ethereum\u2019s Price to a T as it Proves to Be the Ultimate Proxy for ETH Investors - TipRanks",
+            "sentiment": "POSITIVE",
+            "score": 0.8218098878860474,
+            "signal": "BULLISH",
+            "tickers": [
+                "BMNR"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "BMNR",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Munitions Metal Tungsten Outshines Gold, Copper in 557% Rally - Bloomberg.com",
@@ -216,15 +193,6 @@
             "sentiment": "POSITIVE",
             "score": 0.75199955701828,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Exclusive | Oil Industry Warns Trump Administration That Fuel Crunch Will Likely Worsen - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8617250323295593,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -283,18 +251,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Silver Price Forecast: Rising Oil Prices and Inflation Risks Could Push Silver Toward $300 - FXEmpire",
-            "sentiment": "POSITIVE",
-            "score": 0.7693201899528503,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Hundreds of flights into and out of Minneapolis-St. Paul International Airport canceled amid winter storm - CBS News",
+            "title": "Memory Suppliers Are Actually Worried the Demand Boom Won\u2019t Last \u2018Too Long\u2019, and Are Already Rethinking Expansion Plans - Wccftech",
             "sentiment": "NEGATIVE",
-            "score": 0.9661412239074707,
+            "score": 0.7980690002441406,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -310,9 +269,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "The Private Credit Selloff: Rising Risk Of Bank Contagion (SP500) - Seeking Alpha",
+            "title": "The Fed cannot fix what it did not break - The Hill",
             "sentiment": "NEGATIVE",
-            "score": 0.8350034356117249,
+            "score": 0.8184615969657898,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -367,24 +326,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9405191540718079,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Honda is killing its EVs \u2014 and any chance of competing in the future - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.8906235098838806,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Live Nation Antitrust Trial to Continue After Majority of States Decline to Join DOJ Settlement - Consequence of Sound",
-            "sentiment": "NEGATIVE",
-            "score": 0.890947163105011,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
