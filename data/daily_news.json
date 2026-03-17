@@ -1,13 +1,135 @@
 {
-    "last_updated": "2026-03-17 10:12:54 UTC",
-    "total_articles": 32,
-    "bullish_articles": 7,
+    "last_updated": "2026-03-17 13:55:59 UTC",
+    "total_articles": 34,
+    "bullish_articles": 9,
     "bearish_articles": 25,
     "articles": [
         {
-            "title": "Oil prices keep rising as Trump seeks coalition to reopen Strait of Hormuz - Al Jazeera",
+            "title": "Wall St underestimates private capital problems, says top credit hedge fund - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9594736695289612,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "IIT grad who moved from Bengaluru to Ireland reveals \u20b91.3 crore salary: 'My quality of life has improved' | Trending - Hindustan Times",
             "sentiment": "POSITIVE",
-            "score": 0.7529098987579346,
+            "score": 0.8778406977653503,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Risks of a bear market are growing, says Goldman Sachs. Here are the trades to make. - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9547951817512512,
+            "signal": "BEARISH",
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Nebius signs AI infrastructure deals with Meta worth up to $27 billion over 5 years - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8982389569282532,
+            "signal": "BULLISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Iran war is making it harder for the Federal Reserve to cut interest rates - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9191129803657532,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Flying in America is about to get more expensive and less fun - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7680695652961731,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Iran war is driving an oil shock \u2014 but not a broad supply chain crisis, Goldman Sachs says - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.7029169201850891,
+            "signal": "BEARISH",
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US - abcnews.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9579570889472961,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Iran-Linked Hackers Carry Out 'Significant' Cyberattack - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.9417491555213928,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil prices climb despite Trump moves to temper market - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.9168190360069275,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "XRP price: Ripple linked token jumps as breakout extends on broad bitcoin-led move - CoinDesk",
+            "sentiment": "POSITIVE",
+            "score": 0.8837257027626038,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,7 +138,7 @@
         {
             "title": "Japan warns ready to take decisive action on FX - ramps up verbal intervention on yen - investingLive",
             "sentiment": "POSITIVE",
-            "score": 0.8725045919418335,
+            "score": 0.8725046515464783,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,16 +147,39 @@
         {
             "title": "China\u2019s Economy Gets Off to Better-Than-Forecast Start to Year - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.949433445930481,
+            "score": 0.9494336247444153,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Tech companies are blaming massive layoffs on AI. What\u2019s really going on? - The Conversation",
+            "sentiment": "NEGATIVE",
+            "score": 0.9568925499916077,
+            "signal": "BEARISH",
+            "tickers": [
+                "META",
+                "AMZN"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Stock futures rise slightly as oil hovers at $100 with S&P 500 on 3-week losing streak: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9653608202934265,
+            "score": 0.9653609395027161,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -43,7 +188,7 @@
         {
             "title": "Munitions Metal Tungsten Outshines Gold, Copper in 557% Rally - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9439422488212585,
+            "score": 0.9439423680305481,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -60,7 +205,7 @@
         {
             "title": "Exclusive | Oil Industry Warns Trump Administration That Fuel Crunch Will Likely Worsen - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8617250323295593,
+            "score": 0.8617239594459534,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -69,42 +214,16 @@
         {
             "title": "China Alarmed by Spread of OpenClaw Agents - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.8707686066627502,
+            "score": 0.8707685470581055,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "An OpenAI cofounder 'vibe coded' an analysis of the U.S. labor market's exposure to AI - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8716825246810913,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "S&P 500: An End In Sight (Technical Analysis) (SP500) - Seeking Alpha",
-            "sentiment": "NEGATIVE",
-            "score": 0.9615340828895569,
-            "signal": "BEARISH",
-            "tickers": [
-                "SPY"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "SPY",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Meta weighs drastic workforce decision after $135 billion guide - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8311956524848938,
+            "score": 0.8311947584152222,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -119,27 +238,9 @@
             ]
         },
         {
-            "title": "BTC price analysis: Bitcoin set for best week since September 2025 as correlation with tech stocks weakens - CoinDesk",
-            "sentiment": "POSITIVE",
-            "score": 0.8829260468482971,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Elon Musk's Data Centers Keep Getting Louder And Residents Are Fed Up - SlashGear",
             "sentiment": "NEGATIVE",
-            "score": 0.9443165063858032,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Sam\u2019s Club fixes problem that\u2019s a major pain point at Costco - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9526290893554688,
+            "score": 0.9443166255950928,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -148,8 +249,17 @@
         {
             "title": "Memory Suppliers Are Actually Worried the Demand Boom Won\u2019t Last \u2018Too Long\u2019, and Are Already Rethinking Expansion Plans - Wccftech",
             "sentiment": "NEGATIVE",
-            "score": 0.7980690002441406,
+            "score": 0.7980694770812988,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Silver Price Forecast: Rising Oil Prices and Inflation Risks Could Push Silver Toward $300 - FXEmpire",
+            "sentiment": "POSITIVE",
+            "score": 0.7693206071853638,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -158,15 +268,6 @@
             "title": "Hundreds of flights into and out of Minneapolis-St. Paul International Airport canceled amid winter storm - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.9661412239074707,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Norovirus outbreak on Princess cruise ship sickens more than 150 passengers and crew - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9253748059272766,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -182,35 +283,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "It's Getting Harder to Fix Errors on Credit Scores - Newser",
+            "title": "The Fed cannot fix what it did not break - The Hill",
             "sentiment": "NEGATIVE",
-            "score": 0.8482940196990967,
+            "score": 0.8184615969657898,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia\u2019s big GTC event is on deck, and the company faces a very high bar this year - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9415625929832458,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "F-35 Software Upgrades \u2018Stagnated\u2019 as Jets Fly Iran Missions - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9145380258560181,
+            "score": 0.9145379066467285,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -236,7 +320,7 @@
         {
             "title": "Rivian stock gets shocking upgrade as Iran fears raise the stakes - thestreet.com",
             "sentiment": "POSITIVE",
-            "score": 0.8642863631248474,
+            "score": 0.8642867207527161,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -245,25 +329,7 @@
         {
             "title": "A media-rating company says a Trump agency is threatening its livelihood - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9094365239143372,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Looming Fed meeting shifts bets for 2026 interest-rate cuts - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8960726857185364,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Iran War Brings Fuel Risk to Indonesia Ahead of Eid Travel Surge - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9526788592338562,
+            "score": 0.9094366431236267,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -272,16 +338,7 @@
         {
             "title": "The Washington Post Lost Over 60,000 Subscribers Following Winter Layoffs - TheWrap",
             "sentiment": "NEGATIVE",
-            "score": 0.9628427028656006,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bomb threat leaves Boston JetBlue passengers stuck on Florida tarmac for hours - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.936741292476654,
+            "score": 0.962842583656311,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -290,7 +347,7 @@
         {
             "title": "Gas Prices Won\u2019t Drop \u2018Until Later This Year,\u2019 Analyst Says - Forbes",
             "sentiment": "POSITIVE",
-            "score": 0.9405191540718079,
+            "score": 0.9405192732810974,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -299,7 +356,7 @@
         {
             "title": "Honda is killing its EVs \u2014 and any chance of competing in the future - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.8906235098838806,
+            "score": 0.8906230926513672,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -308,7 +365,7 @@
         {
             "title": "Live Nation Antitrust Trial to Continue After Majority of States Decline to Join DOJ Settlement - Consequence of Sound",
             "sentiment": "NEGATIVE",
-            "score": 0.890947163105011,
+            "score": 0.8909473419189453,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -317,17 +374,8 @@
         {
             "title": "Drone strikes halt a third of the world's helium supply, threatening chip production - TechSpot",
             "sentiment": "NEGATIVE",
-            "score": 0.8822818398475647,
+            "score": 0.8822817802429199,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Flying taxis to connect Texas cities under new federal program - San Antonio Express-News",
-            "sentiment": "POSITIVE",
-            "score": 0.7376051545143127,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
