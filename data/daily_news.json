@@ -1,34 +1,49 @@
 {
-    "last_updated": "2026-03-17 21:58:09 UTC",
-    "total_articles": 32,
-    "bullish_articles": 10,
-    "bearish_articles": 22,
+    "last_updated": "2026-03-18 03:25:00 UTC",
+    "total_articles": 20,
+    "bullish_articles": 7,
+    "bearish_articles": 13,
     "articles": [
         {
-            "title": "Teens allege Musk\u2019s Grok chatbot made sexual images of them as minors - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7630271911621094,
-            "signal": "BEARISH",
+            "title": "Asian Stocks Follow Wall Street Higher, Oil Gains: Markets Wrap - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9430505037307739,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC",
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "U.S. stocks have been surprisingly resilient as the Iran conflict threatens global economic disruption. Thank industry analysts? - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.942396879196167,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI - NVIDIA Newsroom",
-            "sentiment": "POSITIVE",
-            "score": 0.8896381258964539,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Teens sue Musk's xAI over Grok's pornographic images of them - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8407931923866272,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Live Updates: Iran war keeps oil and gas prices up, with Strait of Hormuz paralyzed despite Trump's demands - CBS News",
@@ -40,9 +55,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Thousands of US flights cancelled or delayed and several states under tornado watch - Sky News",
+            "title": "Judge Says Krafton Must Rehire Fired \u2018Subnautica\u2019 CEO - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9484369158744812,
+            "score": 0.9219819903373718,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -66,32 +81,6 @@
             ]
         },
         {
-            "title": "LME Trading Restored After Two-Hour Halt Roiled Metals Markets - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9473900198936462,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "3,800 workers are on strike at one of the largest meatpacking plants in the US - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.961193859577179,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "The dictionary sues OpenAI - TechCrunch",
             "sentiment": "NEGATIVE",
             "score": 0.8826282024383545,
@@ -104,6 +93,24 @@
             "title": "FDA investigating illnesses linked to raw cheddar cheese from California farm - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.9546549916267395,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Hyundai stops sales of some 2026 models and plans a recall after child's death - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9623819589614868,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.8794032335281372,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -127,46 +134,6 @@
             ]
         },
         {
-            "title": "Biggest Boeing 747 User Makes First Airbus Order for Freighters - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8095288276672363,
-            "signal": "BULLISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Walmart-backed PhonePe shelves IPO as global tensions rattle markets - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.942672848701477,
-            "signal": "BEARISH",
-            "tickers": [
-                "WMT",
-                "MSFT"
-            ],
-            "primary_ticker": "WMT",
-            "ticker_impacts": [
-                {
-                    "ticker": "WMT",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Peloton is launching bikes and treadmills for gyms, accelerating commercial strategy - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.7049126625061035,
@@ -176,28 +143,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Hyundai Stops Sales and Recalls 68,500 2026 Palisade Models Because the Power Seats Can Crush You - The Drive",
+            "title": "Thousands of JBS workers go on strike at meatpacking facility in Greeley - The Colorado Sun",
             "sentiment": "NEGATIVE",
-            "score": 0.964561939239502,
+            "score": 0.9632982015609741,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia Stock Investors Just Got Great News From CEO Jensen Huang. It's Time to Buy. - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.9468346834182739,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Oil Supplies in Focus Ahead of Stock, Bond Open: Markets Wrap - Bloomberg.com",
             "sentiment": "POSITIVE",
             "score": 0.9235243201255798,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Wall St underestimates private capital problems, says top credit hedge fund - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9594736695289612,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -212,46 +187,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Iran-Linked Hackers Carry Out 'Significant' Cyberattack - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.9417491555213928,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Japan warns ready to take decisive action on FX - ramps up verbal intervention on yen - investingLive",
+            "title": "China\u2019s economy rebounded ahead of Iran crisis - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.8725045919418335,
+            "score": 0.8331888914108276,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Crypto lender BlockFills files for Chapter 11 bankruptcy after weeks of turmoil - The Block",
-            "sentiment": "NEGATIVE",
-            "score": 0.9658374190330505,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China\u2019s Economy Gets Off to Better-Than-Forecast Start to Year - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.949433445930481,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock futures rise slightly as oil hovers at $100 with S&P 500 on 3-week losing streak: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9653608202934265,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -260,67 +199,6 @@
             "title": "Lynas Rare Earths Lines Up $96 Million Supply Deal With Pentagon - WSJ",
             "sentiment": "POSITIVE",
             "score": 0.9311028122901917,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "BitMine Stock Tracks Ethereum\u2019s Price to a T as it Proves to Be the Ultimate Proxy for ETH Investors - TipRanks",
-            "sentiment": "POSITIVE",
-            "score": 0.8218098878860474,
-            "signal": "BULLISH",
-            "tickers": [
-                "BMNR"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "BMNR",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Munitions Metal Tungsten Outshines Gold, Copper in 557% Rally - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9439422488212585,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Exclusive | Oil Industry Warns Trump Administration That Fuel Crunch Will Likely Worsen - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.7694897651672363,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China Alarmed by Spread of OpenClaw Agents - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.8707686066627502,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US launches $500M initiative to bolster critical minerals supply chain - Mining.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8886043429374695,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -342,32 +220,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Bahrain Starts Output Cuts at World\u2019s Top Aluminum Smelter - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9678853154182434,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Rivian stock gets shocking upgrade as Iran fears raise the stakes - thestreet.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8642863631248474,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Delayed projects, low morale: Boston\u2019s streets department is stalling under Wu, long a transit champion - The Boston Globe",
