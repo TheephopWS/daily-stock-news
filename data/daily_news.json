@@ -1,31 +1,44 @@
 {
-    "last_updated": "2026-03-18 03:25:00 UTC",
-    "total_articles": 20,
-    "bullish_articles": 7,
+    "last_updated": "2026-03-18 05:13:35 UTC",
+    "total_articles": 24,
+    "bullish_articles": 11,
     "bearish_articles": 13,
     "articles": [
         {
-            "title": "Asian Stocks Follow Wall Street Higher, Oil Gains: Markets Wrap - Bloomberg.com",
+            "title": "S&P 500 futures are little changed after major averages rebound on easing oil prices: Live updates - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9430505037307739,
+            "score": 0.9389616250991821,
             "signal": "BULLISH",
-            "tickers": [
-                "INTC",
-                "NVDA"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tennessee teens sue Elon Musk's xAI over AI-generated child sexual abuse material - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.7948752641677856,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "CEO Asks ChatGPT How to Void $250 Million Contract, Ignores His Lawyers, Loses Terribly in Court - 404 Media",
+            "sentiment": "NEGATIVE",
+            "score": 0.9305019378662109,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Asia-Pacific markets open higher after oil declines sent Wall Street higher overnight - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9464207887649536,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "U.S. stocks have been surprisingly resilient as the Iran conflict threatens global economic disruption. Thank industry analysts? - MarketWatch",
@@ -37,27 +50,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "Teens sue Musk's xAI over Grok's pornographic images of them - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8407931923866272,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "BYD, Geely, Isuzu and Nissan Adopt NVIDIA DRIVE Hyperion for Level 4 Vehicles - NVIDIA Newsroom",
+            "sentiment": "POSITIVE",
+            "score": 0.9204895496368408,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Live Updates: Iran war keeps oil and gas prices up, with Strait of Hormuz paralyzed despite Trump's demands - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.9190514087677002,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Judge Says Krafton Must Rehire Fired \u2018Subnautica\u2019 CEO - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9219819903373718,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -99,22 +111,70 @@
             "ticker_impacts": []
         },
         {
-            "title": "Hyundai stops sales of some 2026 models and plans a recall after child's death - CBS News",
+            "title": "Sandisk: This Nvidia GTC 2026 Announcement Could Be A Game Changer - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.9165914058685303,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Nebius Stock Pops On Expanded Meta Deal. Cloud Firm Reaffirms Guidance. - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9229971766471863,
+            "signal": "BULLISH",
+            "tickers": [
+                "META",
+                "INTC"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Oil Prices Slide As Iran Opts For 'Porous' Strait Of Hormuz - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9623819589614868,
+            "score": 0.9657929539680481,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
+            "title": "Bank of America settles lawsuit alleging it benefited from Epstein ties - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8794032335281372,
+            "score": 0.7379270792007446,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "BAC"
+            ],
+            "primary_ticker": "BAC",
+            "ticker_impacts": [
+                {
+                    "ticker": "BAC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Micron: Memory Downcycle Sooner Than Expected (NASDAQ:MU) - Seeking Alpha",
@@ -134,18 +194,35 @@
             ]
         },
         {
-            "title": "Peloton is launching bikes and treadmills for gyms, accelerating commercial strategy - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7049126625061035,
-            "signal": "BULLISH",
+            "title": "Thousands of Colorado Meatpacking Workers Are on Strike - Jacobin",
+            "sentiment": "NEGATIVE",
+            "score": 0.9525876641273499,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Thousands of JBS workers go on strike at meatpacking facility in Greeley - The Colorado Sun",
+            "title": "Biggest Boeing 747 User Makes First Airbus Order for Freighters - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8095288276672363,
+            "signal": "BULLISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Hyundai Stops Sales and Recalls 68,500 2026 Palisade Models Because the Power Seats Can Crush You - The Drive",
             "sentiment": "NEGATIVE",
-            "score": 0.9632982015609741,
+            "score": 0.964561939239502,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -169,9 +246,9 @@
             ]
         },
         {
-            "title": "Oil Supplies in Focus Ahead of Stock, Bond Open: Markets Wrap - Bloomberg.com",
+            "title": "Structure Therapeutics Reports Positive Topline Data from Phase 2 ACCESS II Trial with Once-Daily Oral Small Molecule GLP-1 Receptor Agonist, Aleniglipron - Structure Therapeutics",
             "sentiment": "POSITIVE",
-            "score": 0.9235243201255798,
+            "score": 0.945669949054718,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -187,9 +264,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "China\u2019s economy rebounded ahead of Iran crisis - Financial Times",
+            "title": "China\u2019s Economy Surprises With Rebound Even as War Risks Spread - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.8331888914108276,
+            "score": 0.93730628490448,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -220,15 +297,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Delayed projects, low morale: Boston\u2019s streets department is stalling under Wu, long a transit champion - The Boston Globe",
-            "sentiment": "NEGATIVE",
-            "score": 0.9683849811553955,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
