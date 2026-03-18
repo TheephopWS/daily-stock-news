@@ -1,14 +1,31 @@
 {
-    "last_updated": "2026-03-18 10:16:21 UTC",
-    "total_articles": 28,
-    "bullish_articles": 12,
-    "bearish_articles": 16,
+    "last_updated": "2026-03-18 13:58:29 UTC",
+    "total_articles": 24,
+    "bullish_articles": 7,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "S&P 500 futures fall after major averages rebound on easing oil prices: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9196724891662598,
-            "signal": "BULLISH",
+            "title": "Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Down; Oil Prices Rise; Nvidia, Micron, Delta, More Movers - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9688338041305542,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "How the Iran war is an economic world war - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.8314570784568787,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -41,32 +58,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bitcoin price: BTC surges past $75,000, XRP (XRP) and ether (ETH) jump 8% - CoinDesk",
-            "sentiment": "POSITIVE",
-            "score": 0.949463427066803,
-            "signal": "BULLISH",
-            "tickers": [
-                "ETH",
-                "XRP"
-            ],
-            "primary_ticker": "ETH",
-            "ticker_impacts": [
-                {
-                    "ticker": "ETH",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "XRP",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Australian dollar strengthens ahead of interest rate decision - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.8268301486968994,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "Tennessee teens sue Elon Musk's xAI over AI-generated child sexual abuse material - NPR",
+            "title": "Teens sue Elon Musk\u2019s xAI over Grok\u2019s AI-generated CSAM - The Verge",
             "sentiment": "NEGATIVE",
-            "score": 0.7948752641677856,
+            "score": 0.9258180856704712,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -125,15 +128,6 @@
             ]
         },
         {
-            "title": "Oil Declines, Giving Stocks and Bonds a Boost: Markets Wrap - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.890067994594574,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Why the Iran War Is Reviving US Stagflation Fears - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.7527965903282166,
@@ -173,6 +167,15 @@
             "title": "Hyundai stops sales of some 2026 models and plans a recall after child's death - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.9623819589614868,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil Prices Slide As Iran Opts For 'Porous' Strait Of Hormuz - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9657929539680481,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -222,29 +225,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Walmart-backed PhonePe shelves IPO as global tensions rattle markets - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.942672848701477,
-            "signal": "BEARISH",
-            "tickers": [
-                "WMT",
-                "MSFT"
-            ],
-            "primary_ticker": "WMT",
-            "ticker_impacts": [
-                {
-                    "ticker": "WMT",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Structure Therapeutics Reports Positive Topline Data from Phase 2 ACCESS II Trial with Once-Daily Oral Small Molecule GLP-1 Receptor Agonist, Aleniglipron - Structure Therapeutics",
             "sentiment": "POSITIVE",
             "score": 0.945669949054718,
@@ -252,23 +232,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Alibaba Plans Major Revamp to Heighten Focus on AI Profits - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7198643088340759,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Where rents are falling (or rising) most - Axios",
@@ -289,50 +252,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "\u2018Hormuz Flows Remain Low,\u2019 Says Goldman \u2014 What It Means for Oil Markets - TipRanks",
-            "sentiment": "NEGATIVE",
-            "score": 0.9632829427719116,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China\u2019s Economy Surprises With Rebound Even as War Risks Spread - Bloomberg.com",
+            "title": "China\u2019s economy rebounded ahead of Iran crisis - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.93730628490448,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tech companies are blaming massive layoffs on AI. What\u2019s really going on? - The Conversation",
-            "sentiment": "NEGATIVE",
-            "score": 0.9568925499916077,
-            "signal": "BEARISH",
-            "tickers": [
-                "META",
-                "AMZN"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Lynas Rare Earths Lines Up $96 Million Supply Deal With Pentagon - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9311028122901917,
+            "score": 0.8331888914108276,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
