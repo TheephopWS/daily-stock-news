@@ -1,14 +1,23 @@
 {
-    "last_updated": "2026-03-18 07:34:51 UTC",
-    "total_articles": 22,
-    "bullish_articles": 14,
-    "bearish_articles": 8,
+    "last_updated": "2026-03-18 10:16:21 UTC",
+    "total_articles": 28,
+    "bullish_articles": 12,
+    "bearish_articles": 16,
     "articles": [
         {
             "title": "S&P 500 futures fall after major averages rebound on easing oil prices: Live updates - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.9196724891662598,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gold Steady as Dollar Eases and Traders Weigh Oil-Supply Crunch - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7940680384635925,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -64,15 +73,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "CEO Asks ChatGPT How to Void $250 Million Contract, Ignores His Lawyers, Loses Terribly in Court - 404 Media",
-            "sentiment": "NEGATIVE",
-            "score": 0.9305019378662109,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "U.S. stocks have been surprisingly resilient as the Iran conflict threatens global economic disruption. Thank industry analysts? - MarketWatch",
             "sentiment": "POSITIVE",
             "score": 0.942396879196167,
@@ -80,6 +80,32 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "US diesel prices soar to almost $5 as Iran war pinches global supplies - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9092803597450256,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mistral AI partners with NVIDIA to accelerate open frontier models - Mistral AI",
+            "sentiment": "POSITIVE",
+            "score": 0.7016238570213318,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "BYD, Geely, Isuzu and Nissan Adopt NVIDIA DRIVE Hyperion for Level 4 Vehicles - NVIDIA Newsroom",
@@ -108,6 +134,24 @@
             "ticker_impacts": []
         },
         {
+            "title": "Why the Iran War Is Reviving US Stagflation Fears - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7527965903282166,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Judge Says Krafton Must Rehire Fired \u2018Subnautica\u2019 CEO - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9219819903373718,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "The dictionary sues OpenAI - TechCrunch",
             "sentiment": "NEGATIVE",
             "score": 0.8826282024383545,
@@ -126,29 +170,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nebius Stock Pops On Expanded Meta Deal. Cloud Firm Reaffirms Guidance. - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9229971766471863,
-            "signal": "BULLISH",
-            "tickers": [
-                "META",
-                "INTC"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Hyundai stops sales of some 2026 models and plans a recall after child's death - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.9623819589614868,
@@ -158,36 +179,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bank of America settles lawsuit alleging it benefited from Epstein ties - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8288341164588928,
-            "signal": "BULLISH",
+            "title": "Stryker attack raises concerns about role of device management tool - Cybersecurity Dive",
+            "sentiment": "NEGATIVE",
+            "score": 0.9516636729240417,
+            "signal": "BEARISH",
             "tickers": [
-                "BAC"
-            ],
-            "primary_ticker": "BAC",
-            "ticker_impacts": [
-                {
-                    "ticker": "BAC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Why Are SanDisk Shares Surging On Monday? - Benzinga",
-            "sentiment": "POSITIVE",
-            "score": 0.9267285466194153,
-            "signal": "BULLISH",
-            "tickers": [
-                "SNDK"
+                "MSFT"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "SNDK",
-                    "impact": "positive",
+                    "ticker": "MSFT",
+                    "impact": "negative",
                     "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Munitions Metal Tungsten Eclipses Gold, Copper in 557% Rally - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.95560222864151,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
@@ -201,19 +222,25 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia Stock Investors Just Got Great News From CEO Jensen Huang. It's Time to Buy. - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.9468346834182739,
-            "signal": "BULLISH",
+            "title": "Walmart-backed PhonePe shelves IPO as global tensions rattle markets - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.942672848701477,
+            "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "WMT",
+                "MSFT"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "WMT",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
-                    "impact": "positive",
+                    "ticker": "WMT",
+                    "impact": "negative",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -222,6 +249,32 @@
             "sentiment": "POSITIVE",
             "score": 0.945669949054718,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Alibaba Plans Major Revamp to Heighten Focus on AI Profits - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7198643088340759,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Where rents are falling (or rising) most - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9075073599815369,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -236,21 +289,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "MU Stock Rerating: Top Analysts Lift Micron Price Targets to $500 Before Q2 Results - TipRanks",
-            "sentiment": "POSITIVE",
-            "score": 0.7239213585853577,
-            "signal": "BULLISH",
-            "tickers": [
-                "MU"
-            ],
+            "title": "\u2018Hormuz Flows Remain Low,\u2019 Says Goldman \u2014 What It Means for Oil Markets - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.9632829427719116,
+            "signal": "BEARISH",
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "MU",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "China\u2019s Economy Surprises With Rebound Even as War Risks Spread - Bloomberg.com",
@@ -262,21 +307,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta weighs drastic workforce decision after $135 billion guide - thestreet.com",
+            "title": "Tech companies are blaming massive layoffs on AI. What\u2019s really going on? - The Conversation",
             "sentiment": "NEGATIVE",
-            "score": 0.8311956524848938,
+            "score": 0.9568925499916077,
             "signal": "BEARISH",
             "tickers": [
-                "META"
+                "META",
+                "AMZN"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
                     "ticker": "META",
                     "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Lynas Rare Earths Lines Up $96 Million Supply Deal With Pentagon - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9311028122901917,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         }
     ]
 }
