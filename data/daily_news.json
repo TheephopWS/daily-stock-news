@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-03-19 19:18:39 UTC",
-    "total_articles": 23,
-    "bullish_articles": 8,
-    "bearish_articles": 15,
+    "last_updated": "2026-03-19 21:52:41 UTC",
+    "total_articles": 21,
+    "bullish_articles": 10,
+    "bearish_articles": 11,
     "articles": [
+        {
+            "title": "Dow falls 500 points on hot inflation reading as Fed keeps rates unchanged: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7045590281486511,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Micron Earnings Face High Expectations as Its Stock Keeps Rising - Yahoo Finance",
             "sentiment": "POSITIVE",
@@ -14,36 +23,76 @@
             "ticker_impacts": []
         },
         {
-            "title": "Donald Trump Hit With Dire Warning of a Self-Inflicted Disaster - The Daily Beast",
+            "title": "Trump ally warns US economy not strong enough to cope with Iran war - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8047102689743042,
+            "score": 0.939202070236206,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "FDA approval of ICOTYDE\u2122 (icotrokinra) ushers in new era for first-line systemic treatment of plaque psoriasis with a targeted oral peptide - Johnson & Johnson",
+            "title": "Washington opens Tesla\u2019s direct EV sales loophole to Rivian and Lucid - Electrek",
             "sentiment": "POSITIVE",
-            "score": 0.8548156023025513,
+            "score": 0.7204028964042664,
+            "signal": "BULLISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "US wholesale prices rose by a surprisingly hot 3.4% last month, the most in a year - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.919074296951294,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Macy's expects sales to fall this year, even as store revamp shows progress - CNBC",
+            "title": "Why Trade Desk Stock (TTD) Is Down Today. Is Wall Street Overreacting? - TipRanks",
             "sentiment": "NEGATIVE",
-            "score": 0.9524446725845337,
+            "score": 0.9753034114837646,
             "signal": "BEARISH",
+            "tickers": [
+                "TTD",
+                "PUBGY"
+            ],
+            "primary_ticker": "TTD",
+            "ticker_impacts": [
+                {
+                    "ticker": "TTD",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "PUBGY",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "J&J wins approval for first-of-its-kind psoriasis pill | STAT - statnews.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9369243383407593,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "'Hidden' housing costs are sinking homeowners - Business Insider",
+            "title": "It\u2019s a \u2018black swan\u2019 moment in oil but nowhere else. The stock market is at risk of a 20% fall, say these strategists. - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9373659491539001,
+            "score": 0.9648147821426392,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -71,38 +120,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9147430062294006,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China\u2019s AI Stocks Rise as Nvidia\u2019s Huang Calls OpenClaw 'the Next ChatGPT' - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9174368977546692,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA",
-                "INTC"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Stock Market News, March 17, 2026: Dow Jumps, Brent Crude Pulls Back From $105 Oil Gains Amid Mideast Attacks - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.7609128952026367,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -160,44 +177,18 @@
             ]
         },
         {
+            "title": "Drone company backed by Erik Prince surges 500% in Wall Street debut - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.9398900270462036,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Trump\u2019s Oil Reserve Release Is Reshaping the Futures Curve - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.813004732131958,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Lululemon reports weak guidance as proxy battle, tariffs weigh on bottom line - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9662024974822998,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Trade Desk (TTD) Shares Sink As Publicis Drops Recommendation Following Audit - Benzinga",
-            "sentiment": "NEGATIVE",
-            "score": 0.974462628364563,
-            "signal": "BEARISH",
-            "tickers": [
-                "TTD"
-            ],
-            "primary_ticker": "TTD",
-            "ticker_impacts": [
-                {
-                    "ticker": "TTD",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Venture Capitalist Warns That It\u2019s All About to Come Crashing Down - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.9537700414657593,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -246,15 +237,6 @@
             "sentiment": "POSITIVE",
             "score": 0.8938395977020264,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Croft School board tells families it needs $5 million to keep doors open after founder allegedly lied about finances - The Boston Globe",
-            "sentiment": "NEGATIVE",
-            "score": 0.9380344152450562,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
