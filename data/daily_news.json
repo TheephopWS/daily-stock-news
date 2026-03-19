@@ -1,9 +1,36 @@
 {
-    "last_updated": "2026-03-19 13:46:55 UTC",
-    "total_articles": 22,
+    "last_updated": "2026-03-19 16:13:43 UTC",
+    "total_articles": 24,
     "bullish_articles": 10,
-    "bearish_articles": 12,
+    "bearish_articles": 14,
     "articles": [
+        {
+            "title": "Gold Holds Steady Near $5,000 as Traders Weigh Fed Rate-Cut Path - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9388270974159241,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Expectations for the next Fed rate cut get pushed back after hot inflation report - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8840681314468384,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "FDA approval of ICOTYDE\u2122 (icotrokinra) ushers in new era for first-line systemic treatment of plaque psoriasis with a targeted oral peptide - Johnson & Johnson",
+            "sentiment": "POSITIVE",
+            "score": 0.8548156023025513,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Macy's expects sales to fall this year, even as store revamp shows progress - CNBC",
             "sentiment": "NEGATIVE",
@@ -14,22 +41,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Here\u2019s BMW\u2019s first all-electric 3 series, the 2027 i3 - Ars Technica",
+            "title": "Nvidia gets China's approval to sell H200 chips: report - Seeking Alpha",
             "sentiment": "POSITIVE",
-            "score": 0.7672743201255798,
+            "score": 0.9469406008720398,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'Hidden' housing costs are sinking homeowners - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9373659491539001,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "'All bets are off': Trump's war on Iran confounds the world's central bankers - Politico",
@@ -64,13 +90,21 @@
             ]
         },
         {
-            "title": "Asia stocks: Nikkei, KOSPI lead gains on tech boost; Fed decision ahead - Investing.com",
+            "title": "DOCU Earnings: Docusign Stock Finally Gets a Boost after Reporting a Strong Q4 Beat - TipRanks",
             "sentiment": "POSITIVE",
-            "score": 0.8743411302566528,
+            "score": 0.9481903910636902,
             "signal": "BULLISH",
-            "tickers": [],
+            "tickers": [
+                "DOCU"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "DOCU",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Stock Market News, March 17, 2026: Dow Jumps, Brent Crude Pulls Back From $105 Oil Gains Amid Mideast Attacks - WSJ",
@@ -91,19 +125,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Top 5 Online Casinos for Real Money in the USA: Best US Casinos 2026 - Updated List - On Pattison",
-            "sentiment": "POSITIVE",
-            "score": 0.815814197063446,
-            "signal": "BULLISH",
+            "title": "BP Whiting refinery initiates lockout after failed contract negotiations with USW members - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9599186182022095,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Arizona AG files criminal charges against Kalshi over 'illegal gambling' - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9083369374275208,
-            "signal": "BEARISH",
+            "title": "Top 5 Online Casinos for Real Money in the USA: Best US Casinos 2026 - Updated List - On Pattison",
+            "sentiment": "POSITIVE",
+            "score": 0.815814197063446,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -135,23 +169,6 @@
             ]
         },
         {
-            "title": "\u2018He just sat there in flames\u2019: Sole survivor of Piedmont Cybertruck crash sues Tesla - San Francisco Chronicle",
-            "sentiment": "NEGATIVE",
-            "score": 0.8493465781211853,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Trump\u2019s Oil Reserve Release Is Reshaping the Futures Curve - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.813004732131958,
@@ -176,8 +193,8 @@
             "signal": "BEARISH",
             "tickers": [
                 "NVDA",
-                "LYFT",
-                "UBER"
+                "UBER",
+                "LYFT"
             ],
             "primary_ticker": "NVDA",
             "ticker_impacts": [
@@ -187,22 +204,40 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "LYFT",
+                    "ticker": "UBER",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "UBER",
+                    "ticker": "LYFT",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
+            "title": "Iran war pushes Asian nations into energy triage as they conserve power - PBS",
+            "sentiment": "NEGATIVE",
+            "score": 0.9289379715919495,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Allina Health to Join Sutter Health, Creating Bold Vision for Nonprofit Healthcare - Sutter Health",
             "sentiment": "POSITIVE",
             "score": 0.8938395977020264,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Croft School board tells families it needs $5 million to keep doors open after founder allegedly lied about finances - The Boston Globe",
+            "sentiment": "NEGATIVE",
+            "score": 0.9380344152450562,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -220,15 +255,6 @@
             "title": "Bill Gates-backed TerraPower to build $450M cancer treatment plant in Philadelphia - The Business Journals",
             "sentiment": "POSITIVE",
             "score": 0.7074589133262634,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "New renal disease biotech R1 Therapeutics nabs $77.5M for Phase 2b - Endpoints News",
-            "sentiment": "POSITIVE",
-            "score": 0.8991108536720276,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
