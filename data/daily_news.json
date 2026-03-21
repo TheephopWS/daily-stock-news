@@ -1,23 +1,59 @@
 {
-    "last_updated": "2026-03-21 15:46:05 UTC",
-    "total_articles": 21,
-    "bullish_articles": 5,
-    "bearish_articles": 16,
+    "last_updated": "2026-03-21 18:58:31 UTC",
+    "total_articles": 26,
+    "bullish_articles": 6,
+    "bearish_articles": 20,
     "articles": [
         {
-            "title": "Three Charged by US With Plot to Illegally Send AI Tech to China - Bloomberg.com",
+            "title": "Stocks slip, head for fourth-straight losing week as Iran war continues: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.721238374710083,
+            "score": 0.9730141758918762,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Traders Lift Bets on a Fed Hike This Year to 50% as Yields Surge - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.801372230052948,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "UK government borrowing costs hit their highest level since 2008 as inflation fears hit the gilt market - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8536520004272461,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Super Micro shares plunge as US charges co-founder, 2 more for smuggling AI chips to China - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9724482297897339,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Global oil price stuck in triple digits. Goldman Sachs says it may stay there for years - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.9669309854507446,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "GS"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "GS",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "GS",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
@@ -65,6 +101,15 @@
             ]
         },
         {
+            "title": "Exclusive | Saudi Arabia Sees a Spike to $180 Oil if Energy Shock Persists Past April - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8276510238647461,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Gold prices rebound but head for deep weekly loss as Iran war dents rate cut bets - Investing.com",
             "sentiment": "NEGATIVE",
             "score": 0.9415228366851807,
@@ -83,6 +128,35 @@
             "ticker_impacts": []
         },
         {
+            "title": "ARM Stock Forecast Jumps 46% as Citi Analyst Notes that Arm\u2019s Newest Tech Commands \u201c2x the Royalty Rate\u201d - TipRanks",
+            "sentiment": "POSITIVE",
+            "score": 0.9437531232833862,
+            "signal": "BULLISH",
+            "tickers": [
+                "ARM",
+                "C",
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "ARM",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "C",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "FDA Approves New High-Dose Wegovy in US For Boosted Weight Loss - ScienceAlert",
             "sentiment": "POSITIVE",
             "score": 0.8855046033859253,
@@ -98,6 +172,24 @@
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "The Worst-Case Economic Outcome of Trump\u2019s Iran War - The Bulwark",
+            "sentiment": "NEGATIVE",
+            "score": 0.8862429857254028,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Jet fuel prices jumped 60 percent: Your next flight will cost more - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9251730442047119,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Iran Leaves an Isolated Trump Grappling With Historic Oil Crisis - Bloomberg.com",
@@ -127,9 +219,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil prices could reach record highs, analysts warn. Here's what it could mean for the U.S. economy. - CBS News",
+            "title": "Eli Lilly Confirms 'Superior Weight Loss' Of Its Next-Generation Obesity Drug - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9667425751686096,
+            "score": 0.9440554976463318,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -154,23 +246,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tesla (TSLA) Stock Falls 3% as NHTSA Expands Full Self-Driving Probe - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9708061814308167,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "FBI seizes website tied to Iranian cyberattack on U.S. company, hacker group says - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.9040265679359436,
@@ -189,47 +264,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Uber to invest over 1 billion dollars in Rivian to deploy tens of thousands of R2 robotaxis - Electrek",
-            "sentiment": "POSITIVE",
-            "score": 0.7964327335357666,
-            "signal": "BULLISH",
-            "tickers": [
-                "UBER"
-            ],
-            "primary_ticker": "UBER",
-            "ticker_impacts": [
-                {
-                    "ticker": "UBER",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Trump\u2019s promised \u2018manufacturing boom\u2019 couldn\u2019t save these Whirlpool jobs - CNN",
+            "title": "Rivian sacrifices 2027 profit goal to push deeper into autonomy - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9669838547706604,
+            "score": 0.9065510630607605,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Silver Price Forecast: XAG/USD nosedives to $70 as Fed is unlikely to cut interest rates this year - FXStreet",
-            "sentiment": "NEGATIVE",
-            "score": 0.9678189158439636,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Fortune 500 firm updates AI price tag to $4.5 trillion, estimating 93% of jobs vulnerable to disruption - Fortune",
