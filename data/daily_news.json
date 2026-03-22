@@ -1,13 +1,39 @@
 {
-    "last_updated": "2026-03-22 07:12:32 UTC",
-    "total_articles": 27,
-    "bullish_articles": 6,
+    "last_updated": "2026-03-22 09:52:20 UTC",
+    "total_articles": 28,
+    "bullish_articles": 7,
     "bearish_articles": 21,
     "articles": [
         {
-            "title": "Dow Jones Jumps Late After Sell-Off As Trump Mulls 'Winding Down' Iran War - Investor's Business Daily",
+            "title": "Iran war halts Qatar helium output, threatening global tech supply chains - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9682593941688538,
+            "score": 0.9609133005142212,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Jury finds Elon Musk\u2019s \u2018stupid tweets\u2019 caused Twitter investors\u2019 losses - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.9162212014198303,
+            "signal": "BEARISH",
+            "tickers": [
+                "X"
+            ],
+            "primary_ticker": "X",
+            "ticker_impacts": [
+                {
+                    "ticker": "X",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Blackstone Private Credit Fund Has First Monthly Loss Since 2022 - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.974410355091095,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -17,6 +43,15 @@
             "title": "8 states file emergency motion to block Nexstar-Tegna merger after FCC approval - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.8263985514640808,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Deepening Energy Crisis Sends Stocks to Fourth Straight Weekly Loss - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9592252373695374,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -46,31 +81,22 @@
             "score": 0.9674265384674072,
             "signal": "BEARISH",
             "tickers": [
-                "SPY",
-                "QQQ"
+                "QQQ",
+                "SPY"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "SPY",
+                    "ticker": "QQQ",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "QQQ",
+                    "ticker": "SPY",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Gen Z can\u2019t afford a house. Some parents are choosing to fund their down payments over their college funds - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.7166140079498291,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "\u201cCheaper Repairs\u201d: Ford Stock (NYSE:F) Slips as Ford Takes on Unicasting - TipRanks",
@@ -94,6 +120,24 @@
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Gold Set for Worst Week in Six Years as War Curbs Rate-Cut Bets - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9474025368690491,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amid legal turmoil, Kalshi is temporarily banned in Nevada - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8890401721000671,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Bond Market\u2019s Big 2026 Fed Bet Flipped on Its Head by Oil Surge - Bloomberg.com",
@@ -122,18 +166,9 @@
             ]
         },
         {
-            "title": "Gold Set for Worst Week in Six Years as War Curbs Rate-Cut Bets - Bloomberg.com",
+            "title": "Airline industry hit by biggest crisis since pandemic - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9474025368690491,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Kalshi Has Been Temporarily Banned in Nevada - WIRED",
-            "sentiment": "NEGATIVE",
-            "score": 0.9257703423500061,
+            "score": 0.9626079797744751,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -149,19 +184,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Billionaire Trump\u2019s War Is Hammering Americans as Gas Prices Skyrocket - The Daily Beast",
-            "sentiment": "POSITIVE",
-            "score": 0.8777405023574829,
-            "signal": "BULLISH",
+            "title": "U.S. shoppers should brace for impact of higher oil prices, experts say - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9618414640426636,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Small businesses reeling from tariffs brace for spiking oil prices - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9594433307647705,
-            "signal": "BEARISH",
+            "title": "Billionaire Trump\u2019s War Is Hammering Americans as Gas Prices Skyrocket - The Daily Beast",
+            "sentiment": "POSITIVE",
+            "score": 0.8777405023574829,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -194,15 +229,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why are gas prices soaring and how could it affect you? - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9636479020118713,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Alibaba, Tencent Shed $66 Billion After AI Vision Falls Flat - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9729028940200806,
@@ -224,15 +250,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9478443264961243,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Airlines draw up contingency plans over jet fuel shortage fears - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9613933563232422,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -265,10 +282,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Higher Oil Prices From Trump\u2019s Iran War Risk Killing the AI Boom, WTO Says - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.9352148771286011,
-            "signal": "BEARISH",
+            "title": "Big Banks Score Win Under New Plan to Loosen Capital Rules - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9369434118270874,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
