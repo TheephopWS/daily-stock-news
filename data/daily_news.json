@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-03-22 18:59:32 UTC",
-    "total_articles": 22,
-    "bullish_articles": 0,
-    "bearish_articles": 22,
+    "last_updated": "2026-03-22 21:46:57 UTC",
+    "total_articles": 21,
+    "bullish_articles": 2,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "Iran war's economic shocks could reverberate for a while - Axios",
+            "title": "United Airlines warns rising oil prices will pressure the aviation industry - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7410745620727539,
+            "score": 0.957444429397583,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Financial markets are responding to the Iran conflict in unexpected ways \u2014 leaving some investors puzzled - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9736254811286926,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -61,7 +70,7 @@
         {
             "title": "8 states file emergency motion to block Nexstar-Tegna merger after FCC approval - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.8263987302780151,
+            "score": 0.8263985514640808,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -93,7 +102,7 @@
         {
             "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.7346347570419312,
+            "score": 0.7346346378326416,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -110,21 +119,21 @@
         {
             "title": "\u201cCheaper Repairs\u201d: Ford Stock (NYSE:F) Slips as Ford Takes on Unicasting - TipRanks",
             "sentiment": "NEGATIVE",
-            "score": 0.8101748824119568,
+            "score": 0.8101754784584045,
             "signal": "BEARISH",
             "tickers": [
-                "TSLA",
-                "F"
+                "F",
+                "TSLA"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "TSLA",
+                    "ticker": "F",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "F",
+                    "ticker": "TSLA",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -149,24 +158,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why This Energy Shock Will Hit Consumers Harder Than 2011 - Crude Oil Prices Today | OilPrice.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9466469883918762,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "90K Bottles of Children's Pain Medication Recalled - newser.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.945677638053894,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Airline industry hit by biggest crisis since pandemic - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9626079797744751,
@@ -178,7 +169,7 @@
         {
             "title": "Muni Market Rout Deepens as Iran War Stokes Inflation Concerns - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9494990706443787,
+            "score": 0.9494993090629578,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -203,31 +194,39 @@
             "ticker_impacts": []
         },
         {
-            "title": "Ozempic Copies to Cost $14 in India as Generic GLP-1 Era Starts - Bloomberg.com",
+            "title": "Trump Goon Cornered on Disastrous Oil Price Prediction - The Daily Beast",
             "sentiment": "NEGATIVE",
-            "score": 0.9050869941711426,
+            "score": 0.8322892189025879,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Why peak uncertainty about the Iran war signals a stock-market rally may be near - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.8115453124046326,
-            "signal": "BEARISH",
+            "title": "Abbott acquisition of Exact Sciences set to close on March 23, 2026 - Abbott MediaRoom",
+            "sentiment": "POSITIVE",
+            "score": 0.9066240787506104,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Passenger Plane Aborts Landing in Terrifying Close Call - The Daily Beast",
-            "sentiment": "NEGATIVE",
-            "score": 0.9508755803108215,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "FDA Approves New High-Dose Wegovy in US For Boosted Weight Loss - ScienceAlert",
+            "sentiment": "POSITIVE",
+            "score": 0.8855046033859253,
+            "signal": "BULLISH",
+            "tickers": [
+                "AP"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "AP",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "The Worst-Case Economic Outcome of Trump\u2019s Iran War - The Bulwark",
