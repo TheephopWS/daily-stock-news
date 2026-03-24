@@ -1,14 +1,32 @@
 {
-    "last_updated": "2026-03-24 19:33:52 UTC",
-    "total_articles": 7,
-    "bullish_articles": 2,
-    "bearish_articles": 5,
+    "last_updated": "2026-03-24 21:56:59 UTC",
+    "total_articles": 8,
+    "bullish_articles": 4,
+    "bearish_articles": 4,
     "articles": [
         {
-            "title": "LaGuardia Airport Closed After Fatal Crash, Adding to Travel Woes - Barron's",
+            "title": "Lyme disease vaccine shows 70 percent efficacy, Pfizer says - The Washington Post",
+            "sentiment": "POSITIVE",
+            "score": 0.7569570541381836,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Small comforts fade and big worries grow as fuel prices surge globally - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9679794907569885,
+            "score": 0.9563258290290833,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Micron Set For Massive AI Pricing Upside - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.7985196709632874,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -23,6 +41,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "US-Iran war damaged global oil markets more than Russia-Ukraine war, Chevron CEO says - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.8447647094726562,
+            "signal": "BEARISH",
+            "tickers": [
+                "CVX"
+            ],
+            "primary_ticker": "CVX",
+            "ticker_impacts": [
+                {
+                    "ticker": "CVX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Bitcoin price news: BTC surges 5% to $71,000 as Trump postpones Iran escalation - CoinDesk",
             "sentiment": "POSITIVE",
             "score": 0.9388529658317566,
@@ -32,27 +67,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dow jumps more than 1,000 points after Trump delays ultimatum for Iran to reopen the Strait of Hormuz - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9370461106300354,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "International Energy Agency head says global economy faces \u2018major, major threat\u2019 because of Iran war - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9209869503974915,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Asian stock markets plunge amid Trump\u2019s ultimatum on Iran - Al Jazeera",
-            "sentiment": "NEGATIVE",
-            "score": 0.9556271433830261,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
