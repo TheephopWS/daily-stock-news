@@ -1,22 +1,66 @@
 {
-    "last_updated": "2026-03-24 07:35:15 UTC",
-    "total_articles": 26,
+    "last_updated": "2026-03-24 10:13:29 UTC",
+    "total_articles": 24,
     "bullish_articles": 5,
-    "bearish_articles": 21,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "Traders Brace for Turbulent Open as War Rages On: Markets Wrap - Bloomberg.com",
+            "title": "Pilot and copilot killed in collision between jet and fire truck at LaGuardia - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9436938762664795,
+            "score": 0.9371301531791687,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oil prices volatile after Trump's Strait of Hormuz threat - Axios",
+            "title": "Goldman Boosts Oil Price Forecast by $8 for Brent and $7 for WTI - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9385393261909485,
+            "signal": "BULLISH",
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "More than 40 Middle East energy assets \u2018severely damaged,\u2019 IEA chief says - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9450920820236206,
+            "score": 0.950040876865387,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Traders Brace for Turbulent Open as War Rages On: Markets Wrap - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.943693995475769,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018Pandemonium\u2019 Fuels Surge in Yields as Fed Rate-Hike Bets Emerge - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9237464666366577,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Asian stock markets plunge amid Trump\u2019s ultimatum on Iran - Al Jazeera",
+            "sentiment": "NEGATIVE",
+            "score": 0.9556271433830261,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,49 +76,48 @@
             "ticker_impacts": []
         },
         {
+            "title": "Gold Whipsaws After Worst Week in 40 Years as War Risks Mount - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9576923251152039,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "A very 2026 weekend at the D.C. bar where bettors could \u2018monitor the situation\u2019 - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.7352481484413147,
+            "score": 0.7352491617202759,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Asia markets tumble as Trump-Iran threats keep investors on edge; Nikkei, Kospi fall 4% - CNBC",
+            "title": "Oil prices dip despite the US and Iran trading threats - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9693212509155273,
+            "score": 0.8946977257728577,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "U.S. stock futures flat as Trump and Iran trade threats against civilian infrastructure - MarketWatch",
+            "title": "Stock Market\u2019s Perfect Storm: Hormuz, Inflation, and the Fed - TipRanks",
             "sentiment": "NEGATIVE",
-            "score": 0.9324318170547485,
+            "score": 0.9710268974304199,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "DJIA"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Airlines Are Already Preparing for an Oil Crisis - WIRED",
-            "sentiment": "NEGATIVE",
-            "score": 0.8730077743530273,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Natural gas prices in Texas are negative and producers burn it off while shortages loom elsewhere - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9748499393463135,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "DJIA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Travelers urged to check flight status amid potential delays at San Diego Airport - NBC 7 San Diego",
@@ -86,9 +129,32 @@
             "ticker_impacts": []
         },
         {
+            "title": "Goldman Sachs sends blunt message on Nvidia stock after GTC - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8858752846717834,
+            "signal": "BEARISH",
+            "tickers": [
+                "GS",
+                "NVDA"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Stocks are teetering on the edge of correction territory. Why the \u2018TACO trade\u2019 could flop. - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9532417058944702,
+            "score": 0.9532418251037598,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -97,7 +163,16 @@
         {
             "title": "People Are Literally Slack-Jawed Over This Gas Station's Ridiculously High Prices - Yahoo News Singapore",
             "sentiment": "NEGATIVE",
-            "score": 0.9318861365318298,
+            "score": 0.9318860173225403,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Discount chain closes over 75 stores and raises prices - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8779847621917725,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -113,27 +188,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Wall Street\u2019s Favorite Emerging-Market Bet Falters as War Rages - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9458130598068237,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The price of menstrual products is skyrocketing from inflation, tariffs - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8107454180717468,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Trump touted bigger tax refunds this year, but Americans will likely spend them on gas - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.8368273377418518,
+            "score": 0.83682781457901,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -149,23 +206,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Apple CEO Praises China Partners as Beijing Applies Pressure - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7955626845359802,
-            "signal": "BULLISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Bath Iron Works union votes against company's offer, will strike March 23 - newscentermaine.com",
             "sentiment": "NEGATIVE",
             "score": 0.9491001963615417,
@@ -177,7 +217,7 @@
         {
             "title": "Ozempic Goes Generic \u2014But Not in the US - newser.com",
             "sentiment": "POSITIVE",
-            "score": 0.9025940299034119,
+            "score": 0.902594268321991,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -186,7 +226,7 @@
         {
             "title": "Elon Musk Found Liable For Misleading Twitter Shareholders Ahead Of $44B Acquisition - Deadline",
             "sentiment": "NEGATIVE",
-            "score": 0.8679651618003845,
+            "score": 0.8679652214050293,
             "signal": "BEARISH",
             "tickers": [
                 "X"
@@ -201,44 +241,9 @@
             ]
         },
         {
-            "title": "Jensen Huang says CEOs \u2018out of imagination\u2019 for culling workers because of AI. Why he\u2019s doubting his biggest customers - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.7602062225341797,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Iran war cuts off helium from Qatar, and shortages will start to bite in a few weeks - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9492414593696594,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Therapists Go on Strike, Saying They\u2019re Being Replaced by AI - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.9479753375053406,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. Postal Worker Caught on Video Throwing Jewish Boy to The Ground - TMZ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8509531021118164,
+            "score": 0.949241578578949,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -247,17 +252,8 @@
         {
             "title": "Ethereum, XRP, and Solana Price Prediction As CLARITY Act Advances After Senate\u2013White House Deal - CoinGape",
             "sentiment": "POSITIVE",
-            "score": 0.9282216429710388,
+            "score": 0.9282217025756836,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Security News This Week: Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck - WIRED",
-            "sentiment": "NEGATIVE",
-            "score": 0.9212914109230042,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
