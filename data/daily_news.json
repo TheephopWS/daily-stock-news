@@ -1,49 +1,39 @@
 {
-    "last_updated": "2026-03-24 21:56:59 UTC",
-    "total_articles": 8,
-    "bullish_articles": 4,
-    "bearish_articles": 4,
+    "last_updated": "2026-03-25 03:22:43 UTC",
+    "total_articles": 3,
+    "bullish_articles": 0,
+    "bearish_articles": 3,
     "articles": [
         {
-            "title": "Lyme disease vaccine shows 70 percent efficacy, Pfizer says - The Washington Post",
-            "sentiment": "POSITIVE",
-            "score": 0.7569570541381836,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Small comforts fade and big worries grow as fuel prices surge globally - AP News",
+            "title": "Oil rises with Brent crossing $100 a barrel again as Middle East tensions keep traders on edge - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9563258290290833,
+            "score": 0.777863085269928,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Micron Set For Massive AI Pricing Upside - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.7985196709632874,
-            "signal": "BULLISH",
-            "tickers": [],
+            "title": "Apollo Caps Private Credit Fund Withdrawals as Requests Hit 11% - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.885135293006897,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Toyota to invest $1 billion to increase U.S. production in Kentucky, Indiana plants - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9121094942092896,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "US-Iran war damaged global oil markets more than Russia-Ukraine war, Chevron CEO says - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.8447647094726562,
+            "score": 0.8447641730308533,
             "signal": "BEARISH",
             "tickers": [
                 "CVX"
@@ -56,33 +46,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Bitcoin price news: BTC surges 5% to $71,000 as Trump postpones Iran escalation - CoinDesk",
-            "sentiment": "POSITIVE",
-            "score": 0.9388529658317566,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "International Energy Agency head says global economy faces \u2018major, major threat\u2019 because of Iran war - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9209869503974915,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil prices dip despite the US and Iran trading threats - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.8946977257728577,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
