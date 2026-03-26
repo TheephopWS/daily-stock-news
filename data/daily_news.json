@@ -1,22 +1,47 @@
 {
-    "last_updated": "2026-03-26 16:38:27 UTC",
-    "total_articles": 13,
-    "bullish_articles": 2,
-    "bearish_articles": 11,
+    "last_updated": "2026-03-26 19:36:02 UTC",
+    "total_articles": 11,
+    "bullish_articles": 1,
+    "bearish_articles": 10,
     "articles": [
         {
-            "title": "NTSB flags missing transponder, tower staffing in LaGuardia crash - Gothamist",
+            "title": "Meta is laying off hundreds of employees across Reality Labs and other groups - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9576924443244934,
+            "score": 0.9599299430847168,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Sony and Honda ain\u2019t feelin\u2019 the Afeela anymore - The Verge",
+            "title": "Meta loses trial after arguing child exploitation was \u201cinevitable\u201d on its apps - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.7781404256820679,
+            "score": 0.9413837194442749,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Honda And Sony Are Killing Their Two Afeela Electric Cars - Motor1.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.955183744430542,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -26,6 +51,15 @@
             "title": "Large Polymarket, Wall Street bets on Trump\u2019s war news under scrutiny - Al Jazeera",
             "sentiment": "NEGATIVE",
             "score": 0.8817197680473328,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Italian gunmaker Beretta pushes to raise its stake in Sturm Ruger - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.8239980340003967,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -50,49 +84,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil price falls as Trump talks up Iran peace negotiations - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9359874725341797,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Some Meta employees were told to work remotely for the day as layoffs loom - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9650413990020752,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Santa Fe jury reaches $375 million verdict against social media giant Meta - Santa Fe New Mexican",
-            "sentiment": "NEGATIVE",
-            "score": 0.7693671584129333,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "First-ever American AI Jobs Risk Index released by Tufts University - The Brighter Side of News",
             "sentiment": "NEGATIVE",
             "score": 0.9496898055076599,
@@ -109,23 +100,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Disney CEO\u2019s First Week Marred by \u2018Fortnite,\u2019 OpenAI Woes - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.961671769618988,
-            "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "\u2018The worst I\u2019ve seen\u2019: Oil industry grapples with the fallout from US-Israel war with Iran - Politico",
@@ -145,10 +119,10 @@
             ]
         },
         {
-            "title": "The bond market is nearing a 5% threshold \u2014 but there\u2019s a crucial difference this time - MarketWatch",
-            "sentiment": "POSITIVE",
-            "score": 0.7231424450874329,
-            "signal": "BULLISH",
+            "title": "Higher gas prices put the squeeze on the people who deliver your food - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.8568874001502991,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
