@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-03-26 10:16:35 UTC",
+    "last_updated": "2026-03-26 14:03:16 UTC",
     "total_articles": 13,
-    "bullish_articles": 3,
-    "bearish_articles": 10,
+    "bullish_articles": 4,
+    "bearish_articles": 9,
     "articles": [
+        {
+            "title": "Mortgage demand drops more than 10% as rates hit the highest level since October - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9738682508468628,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Some Meta employees were told to work remotely for the day as layoffs loom - Business Insider",
             "sentiment": "NEGATIVE",
@@ -48,18 +57,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta Offers Top Execs Stock Options for First Time Since IPO - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7691213488578796,
-            "signal": "BULLISH",
+            "title": "Disney CEO\u2019s First Week Marred by \u2018Fortnite,\u2019 OpenAI Woes - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.961671769618988,
+            "signal": "BEARISH",
             "tickers": [
-                "META"
+                "DIS"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": "DIS",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
-                    "impact": "positive",
+                    "ticker": "DIS",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
@@ -69,15 +78,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9444025158882141,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "NTSB chair warns against 'pointing fingers at controllers' in LaGuardia crash - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.779468297958374,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -118,6 +118,24 @@
             "ticker_impacts": []
         },
         {
+            "title": "Ares Limits Private Credit Fund Withdrawals as Redemptions Surge - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9514392018318176,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Finally, Some Good News in the Fight Against Lyme Disease - Gizmodo",
+            "sentiment": "POSITIVE",
+            "score": 0.9133767485618591,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Iran war sends US borrowing costs soaring by most since 2024 - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9190832376480103,
@@ -127,47 +145,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Asia everyday life is being upended by Iran war fuel crisis - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9444589614868164,
-            "signal": "BEARISH",
+            "title": "Why Micron\u2019s AI Windfall Isn\u2019t Convincing Investors - Trefis",
+            "sentiment": "POSITIVE",
+            "score": 0.9559293389320374,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Amazon Says Its Cloud Facilities Were Disrupted Again Due to War in Iran - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.8917701244354248,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Micron Stock (MU) Slides as Rival SK Hynix Eyes a U.S. Listing - TipRanks",
-            "sentiment": "NEGATIVE",
-            "score": 0.9734534025192261,
-            "signal": "BEARISH",
-            "tickers": [
-                "MU"
-            ],
-            "primary_ticker": "MU",
-            "ticker_impacts": [
-                {
-                    "ticker": "MU",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
