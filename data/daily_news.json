@@ -1,13 +1,48 @@
 {
-    "last_updated": "2026-03-26 19:36:02 UTC",
-    "total_articles": 11,
-    "bullish_articles": 1,
-    "bearish_articles": 10,
+    "last_updated": "2026-03-26 21:50:35 UTC",
+    "total_articles": 9,
+    "bullish_articles": 2,
+    "bearish_articles": 7,
     "articles": [
         {
-            "title": "Meta is laying off hundreds of employees across Reality Labs and other groups - Business Insider",
+            "title": "Disney CEO\u2019s First Week Marred by \u2018Fortnite,\u2019 OpenAI Woes - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9599299430847168,
+            "score": 0.9584138989448547,
+            "signal": "BEARISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Oil Falls, US Stock Futures Climb on Iran Hopes: Markets Wrap - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8742160201072693,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "How the Iran war could crush the U.S. housing recovery, and it's not just about mortgage rates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8919563889503479,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta begins laying off hundreds of employees across five divisions - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9687492251396179,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -22,19 +57,51 @@
             ]
         },
         {
-            "title": "Meta loses trial after arguing child exploitation was \u201cinevitable\u201d on its apps - Ars Technica",
+            "title": "Unicorn Crushers: These 3 Names Could Become Largest IPOs Ever As Pipeline Swells - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.7769818305969238,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Elon Musk asks judge to recuse herself in Tesla shareholder case, saying she hearted post about him losing a lawsuit - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9413837194442749,
+            "score": 0.8104937672615051,
             "signal": "BEARISH",
             "tickers": [
-                "META"
+                "TSLA"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "TSLA",
                     "impact": "negative",
                     "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia Stock Is Rising. Why Arm\u2019s New AI Chip Is Not a Threat. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.7662870287895203,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "INTC"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -48,80 +115,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Large Polymarket, Wall Street bets on Trump\u2019s war news under scrutiny - Al Jazeera",
-            "sentiment": "NEGATIVE",
-            "score": 0.8817197680473328,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Italian gunmaker Beretta pushes to raise its stake in Sturm Ruger - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8239980340003967,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mortgage demand drops more than 10% as rates hit the highest level since October - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9738682508468628,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "How private credit could quickly become a public problem - CNN",
             "sentiment": "NEGATIVE",
             "score": 0.8707994818687439,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "First-ever American AI Jobs Risk Index released by Tufts University - The Brighter Side of News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9496898055076599,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock futures rise on report that the U.S. has sent Iran a plan to end the war: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9106647968292236,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "\u2018The worst I\u2019ve seen\u2019: Oil industry grapples with the fallout from US-Israel war with Iran - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.9481422305107117,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Higher gas prices put the squeeze on the people who deliver your food - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.8568874001502991,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
