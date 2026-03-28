@@ -1,13 +1,31 @@
 {
-    "last_updated": "2026-03-28 03:20:08 UTC",
-    "total_articles": 19,
-    "bullish_articles": 8,
-    "bearish_articles": 11,
+    "last_updated": "2026-03-28 05:08:13 UTC",
+    "total_articles": 22,
+    "bullish_articles": 7,
+    "bearish_articles": 15,
     "articles": [
+        {
+            "title": "Justice Department Files Antitrust Lawsuit Against NewYork-Presbyterian - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9417394399642944,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Asian Stocks to Drop as Trump Extends Iran Talks: Markets Wrap - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9657046794891357,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "How the Iran War Compares With Past Market Shocks, in Charts - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.8479678630828857,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -67,6 +85,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "FAA investigates close call between military helicopter, United flight near O.C. airport - KTLA",
+            "sentiment": "NEGATIVE",
+            "score": 0.7129564881324768,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "See How Much Trump's War On Iran Has Raised Your Gas Prices - HuffPost",
             "sentiment": "POSITIVE",
             "score": 0.7380219101905823,
@@ -76,13 +103,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Brown-Forman shares jump after Pernod \u2018deal talks\u2019 report - Just Drinks",
-            "sentiment": "POSITIVE",
-            "score": 0.7777990102767944,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Meta Stock Slides After Back-to-Back Courtroom Losses - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9328470826148987,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Trapped in Private Credit, Investors Wait to Pull Out $5 Billion - Bloomberg.com",
@@ -156,6 +191,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Inside Michigan\u2019s secret $261M plan to raze homes for megafactory that never came - Bridge Michigan",
+            "sentiment": "NEGATIVE",
+            "score": 0.7356524467468262,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Trump's attacks on offshore wind could hurt infrastructure spending across the economy - NPR",
             "sentiment": "NEGATIVE",
             "score": 0.9425336718559265,
@@ -197,15 +241,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Mortgage rates rise as Iran war affects U.S. housing market - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9625582098960876,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
