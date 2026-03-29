@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-03-29 07:33:33 UTC",
-    "total_articles": 23,
-    "bullish_articles": 6,
-    "bearish_articles": 17,
+    "last_updated": "2026-03-29 09:56:55 UTC",
+    "total_articles": 27,
+    "bullish_articles": 7,
+    "bearish_articles": 20,
     "articles": [
         {
             "title": "Stocks Dive, Oil Hits $100; What To Do Now - Investor's Business Daily",
@@ -47,6 +47,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Meta orders 10 gas-fired power plants for its Hyperion AI campus in rural Louisiana\u2014more than triple the initial plan - Fortune",
+            "sentiment": "POSITIVE",
+            "score": 0.9274431467056274,
+            "signal": "BULLISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "The Cushion Is Gone and the Oil Market Is Now Exposed - Crude Oil Prices Today | OilPrice.com",
@@ -102,9 +119,58 @@
             "ticker_impacts": []
         },
         {
+            "title": "Jim Cramer drops unexpected take on Microsoft stock - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9422096014022827,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Meta Stock: Mark Zuckerberg Won\u2019t Be Deterred From AI Push, Shares Pay the Price - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9706266522407532,
+            "signal": "BEARISH",
+            "tickers": [
+                "META",
+                "INTC"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Security leaders say the next two years are going to be \u2018insane\u2019 - CyberScoop",
             "sentiment": "NEGATIVE",
             "score": 0.7926332950592041,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Iran war could drag into 2027, analyst warns. The economic fallout is just getting started - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.7674588561058044,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -165,23 +231,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings - Entergy",
-            "sentiment": "POSITIVE",
-            "score": 0.8990868330001831,
-            "signal": "BULLISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Stock Market Today: S&P 500, Nasdaq Futures Drop As Trump Pushes Iran Deal Deadline\u2014Unity Software, Oracle, SoFi Technologies In Focus - State Street SPDR S&P 500 ETF Trust (ARCA:SPY) - Benzinga",
             "sentiment": "NEGATIVE",
             "score": 0.9726313352584839,
@@ -191,27 +240,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "The 3 big bad news items of new Disney CEO\u2019s first week on the job - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9444942474365234,
-            "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "title": "SpaceX or OpenAI IPO: Which Private Company Is the Better Bet? - TipRanks",
+            "sentiment": "POSITIVE",
+            "score": 0.9436010718345642,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Lawmakers push new bill to curb insider trading on prediction markets - Politico",
             "sentiment": "POSITIVE",
             "score": 0.7336864471435547,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Well-timed trades, bets before Trump actions fuel suspicion of leaks - washingtontimes.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9239804744720459,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -226,18 +276,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "War with Iran drives US mortgage rates higher for fourth-straight week - CNN",
+            "title": "Trapped in Private Credit, Investors Wait to Pull Out $5 Billion - Bloomberg",
             "sentiment": "NEGATIVE",
-            "score": 0.9248208403587341,
+            "score": 0.9619225263595581,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Iran war will jolt U.S. inflation, new analysis finds - Axios",
+            "title": "War with Iran drives US mortgage rates higher for fourth-straight week - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.7698046565055847,
+            "score": 0.9248208403587341,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
