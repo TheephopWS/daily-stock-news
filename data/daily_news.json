@@ -1,22 +1,39 @@
 {
-    "last_updated": "2026-03-29 03:42:54 UTC",
+    "last_updated": "2026-03-29 07:33:33 UTC",
     "total_articles": 23,
-    "bullish_articles": 5,
-    "bearish_articles": 18,
+    "bullish_articles": 6,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "Financial markets fall to new 2026 low as oil rises again - The Washington Post",
+            "title": "Stocks Dive, Oil Hits $100; What To Do Now - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9732193946838379,
+            "score": 0.9406487941741943,
             "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Washington diesel prices hit record high twice in a week - KOMO",
+            "sentiment": "POSITIVE",
+            "score": 0.8904668092727661,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Suspects ID\u2019d in case of missing American Airlines flight attendant in Colombia - NewsNation",
+            "title": "Body found amid search for missing flight attendant in Colombia - newsnationnow.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8803409934043884,
+            "score": 0.7520728707313538,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -50,6 +67,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Microsoft\u2019s stock hasn\u2019t been this oversold in a decade, with the tech giant \u2018really losing the AI narrative\u2019 - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.7847128510475159,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Wall Street Reels as Iran War Shatters Its Portfolio Defenses - Bloomberg",
             "sentiment": "NEGATIVE",
             "score": 0.9493930339813232,
@@ -59,26 +93,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta Finally Shows Weakness: A Bad Year Catches Up To Resilient Stock - Forbes",
+            "title": "Workers\u2019 strike at one of the largest US meatpacking plants will continue for a 3rd week - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9659971594810486,
+            "score": 0.9671332240104675,
             "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "Is Trump losing his grip on the stock market? Sustained declines suggest the president\u2019s influence has waned. - MarketWatch",
+            "title": "Security leaders say the next two years are going to be \u2018insane\u2019 - CyberScoop",
             "sentiment": "NEGATIVE",
-            "score": 0.9741606116294861,
+            "score": 0.7926332950592041,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -97,6 +123,15 @@
             "title": "The Iran War Is Crushing Consumer Sentiment - Investopedia",
             "sentiment": "NEGATIVE",
             "score": 0.9651375412940979,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Vital Oil Price Benchmarks Bent Out of Shape by Iran War - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8236650824546814,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -156,24 +191,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Massive power outage left more than 100,000 people in the dark in South Orange County, parts of San Diego County - ABC7 Los Angeles",
-            "sentiment": "NEGATIVE",
-            "score": 0.9430025219917297,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Iran war will jolt U.S. inflation, new analysis finds - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.7698046565055847,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "The 3 big bad news items of new Disney CEO\u2019s first week on the job - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.9444942474365234,
@@ -209,15 +226,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trapped in Private Credit, Investors Wait to Pull Out $5 Billion - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9637627005577087,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "War with Iran drives US mortgage rates higher for fourth-straight week - CNN",
             "sentiment": "NEGATIVE",
             "score": 0.9248208403587341,
@@ -227,9 +235,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tegna-Nexstar megamerger drama has national implications, but seismic impact on Denver news - The Colorado Sun",
+            "title": "Iran war will jolt U.S. inflation, new analysis finds - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.9128494262695312,
+            "score": 0.7698046565055847,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
