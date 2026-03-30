@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-03-29 21:51:51 UTC",
-    "total_articles": 26,
-    "bullish_articles": 3,
-    "bearish_articles": 23,
+    "last_updated": "2026-03-30 03:46:12 UTC",
+    "total_articles": 24,
+    "bullish_articles": 4,
+    "bearish_articles": 20,
     "articles": [
         {
-            "title": "Nestl\u00e9 says 413,793 KitKat candy bars stolen en route from Italy to Poland - AP News",
+            "title": "There are now nearly 50% more home sellers than buyers as mismatch widens to a record 630,000 - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9021657705307007,
+            "score": 0.9587229490280151,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Soaring gas prices and supply chain disruptions drive up costs across the economy - PBS",
+            "sentiment": "NEGATIVE",
+            "score": 0.9634706974029541,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -17,15 +26,6 @@
             "title": "US debt suddenly draws weaker demand as $10 trillion must be rolled over this year amid Iran war - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.9672021269798279,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nexstar-Tegna deal on ice after judge issues temporary restraining order - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.9456601738929749,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -85,15 +85,6 @@
             ]
         },
         {
-            "title": "Body found amid search for missing flight attendant in Colombia - newsnationnow.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7520728707313538,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "EPA issues record biofuel blending requirements - The Hill",
             "sentiment": "POSITIVE",
             "score": 0.7859647274017334,
@@ -120,15 +111,6 @@
             ]
         },
         {
-            "title": "US appeals court overturns $16 billion judgment over Argentina energy company nationalization - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9087263941764832,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "The Cushion Is Gone and the Oil Market Is Now Exposed - Crude Oil Prices Today | OilPrice.com",
             "sentiment": "NEGATIVE",
             "score": 0.9195982217788696,
@@ -145,6 +127,29 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "EPA Eliminates DEF Sensor Requirement, Projects Saving Farmers $4.4 Billion Annually - Successful Farming",
+            "sentiment": "NEGATIVE",
+            "score": 0.8558119535446167,
+            "signal": "BEARISH",
+            "tickers": [
+                "EPA",
+                "DEF"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "EPA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "DEF",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Wall Street Reels as Iran War Shatters Its Portfolio Defenses - Bloomberg",
@@ -182,27 +187,13 @@
             ]
         },
         {
-            "title": "Meta Stock: Mark Zuckerberg Won\u2019t Be Deterred From AI Push, Shares Pay the Price - Barron's",
+            "title": "Memory chip stocks shed $100bn as AI-driven shortage trade unwinds - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9706266522407532,
+            "score": 0.9486933946609497,
             "signal": "BEARISH",
-            "tickers": [
-                "META",
-                "INTC"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Security leaders say the next two years are going to be \u2018insane\u2019 - CyberScoop",
@@ -232,6 +223,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "The theory and practice of plug-in solar - pv magazine USA",
+            "sentiment": "POSITIVE",
+            "score": 0.8301544189453125,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Dealers Can Now Get In Trouble If They Advertise Cars That Aren't Actually Available - Jalopnik",
             "sentiment": "NEGATIVE",
             "score": 0.9405338168144226,
@@ -241,37 +241,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Elon Musk\u2019s Grok ordered to stop creating AI nudes by Dutch court as legal pressure mounts - CNBC",
+            "title": "Citi cuts U.S. stocks exposure. Firm is worried there's no 'quick end' to war - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9378419518470764,
+            "score": 0.8933136463165283,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Carnival Corp: 2026 Q1 Results Announced - Cruise Industry News",
+            "title": "Crusoe Scales Abilene AI Campus to 2.1 GW for Microsoft - Crusoe",
             "sentiment": "POSITIVE",
-            "score": 0.9541493058204651,
+            "score": 0.8841027021408081,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil market chaos will supercharge the electric car shift - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8051838278770447,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Microsoft Set for Worst Quarter Since 2008 as AI Takes Two Bites - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9685475826263428,
-            "signal": "BEARISH",
             "tickers": [
                 "MSFT"
             ],
@@ -279,7 +261,7 @@
             "ticker_impacts": [
                 {
                     "ticker": "MSFT",
-                    "impact": "negative",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
