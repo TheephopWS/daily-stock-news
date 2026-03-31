@@ -1,32 +1,136 @@
 {
-    "last_updated": "2026-03-31 14:06:27 UTC",
+    "last_updated": "2026-03-31 16:19:20 UTC",
     "total_articles": 21,
     "bullish_articles": 6,
     "bearish_articles": 15,
     "articles": [
         {
-            "title": "Saudi Oil Pricing in Disarray as Buyers Seek Alternatives - Bloomberg.com",
+            "title": "Fed chief Powell says risks to economy suggest rates could go lower or higher - marketwatch.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9087448120117188,
+            "score": 0.9491241574287415,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock futures inch higher ahead of a holiday-shortened trading week: Live updates - CNBC",
+            "title": "Iran's attacks on aluminum producers are sending 'shockwaves' through the metals market - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.969782829284668,
+            "score": 0.9283905029296875,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Uber Technologies, Inc. - Uber to Acquire Global Chauffeur Service Leader Blacklane - Uber Investor Relations",
+            "sentiment": "POSITIVE",
+            "score": 0.905787467956543,
+            "signal": "BULLISH",
+            "tickers": [
+                "UBER"
+            ],
+            "primary_ticker": "UBER",
+            "ticker_impacts": [
+                {
+                    "ticker": "UBER",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Starcloud raises $170 million Series A to build data centers in space - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.7452012896537781,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now - bleepingcomputer.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9321549534797668,
+            "signal": "BEARISH",
+            "tickers": [
+                "RCE"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "RCE",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Alphabet's Solution Is A Gift For Micron's Memory Sales (NASDAQ:MU) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.9476004242897034,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Travelers rattled after flight to O'Hare is diverted to Detroit due to unruly passenger - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9433943629264832,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Asian shares decline as oil prices soar amid the war in Iran, echoing last week's Wall Street drop - AP News",
+            "title": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened - fool.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9668101072311401,
+            "score": 0.9408738017082214,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Companies are making it easier than ever to spend \u2014 and harder to know what you can actually afford - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9462234973907471,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Budget airlines built on cheap fares now face a painful reality: Fuel is getting expensive - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8712225556373596,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "BYD Signals It\u2019s Confident Exports Will Beat 2026 Target By 15% - bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9493870139122009,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -35,15 +139,6 @@
             "title": "Government Bonds Rally Around the World on Slowdown Concerns - Bloomberg.com",
             "sentiment": "POSITIVE",
             "score": 0.9238921403884888,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Yen strengthens after Japan official warns of \u2018decisive action\u2019 - ft.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7389234900474548,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -59,6 +154,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Life with AI causing human brain 'fry' - France 24",
+            "sentiment": "NEGATIVE",
+            "score": 0.8650933504104614,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "South Korea stocks fall 5%, leading regional declines as Middle East war enters fifth week - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9729687571525574,
@@ -68,37 +180,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Thousands Of Passengers Stranded Across Asia Today As Thailand, Japan, Hong Kong, China, Malaysia, And T\u00fcrkiye Cancel 307 And Delay 2797 Flights, Disrupting Cathay Pacific, AirAsia, Malaysia Airlines, Pegasus Airlines, And Others In Bangkok, Tokyo, - Travel And Tour World",
+            "title": "MARKET CALL: Stock P/Es Discounting Higher-For-Longer Oil Prices & Interest Rates - Yardeni QuickTakes",
             "sentiment": "NEGATIVE",
-            "score": 0.9599355459213257,
+            "score": 0.7763345241546631,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "FBI responds after Chicago-bound American Airlines flight from New York diverted to Detroit: Wayne County Airport Authority Police - ABC7 Chicago",
+            "title": "Sora isn\u2019t the only thing OpenAI shut down this month - 9to5Mac",
             "sentiment": "NEGATIVE",
-            "score": 0.9132797718048096,
+            "score": 0.8123317360877991,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "56-year-old California winery closes down, lays off all workers - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9575334787368774,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AI drug developer Insilico Medicine and Lilly ink commercialization deal worth up to $2.75 billion - statnews.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8823785781860352,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -130,23 +224,6 @@
             ]
         },
         {
-            "title": "Verizon Will Raise The Price for Heavily Discounted Netflix & HBO Streaming Bundle - | Cord Cutters News",
-            "sentiment": "POSITIVE",
-            "score": 0.8601136803627014,
-            "signal": "BULLISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "These 5 Costco Products Just Hit Shelves, and Customers Are Already Stocking Up - Better Homes & Gardens",
             "sentiment": "NEGATIVE",
             "score": 0.9215314984321594,
@@ -156,80 +233,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "If You Think President Donald Trump and the Fed Are Feuding Now, Wait Until the Effects of the Iran War Hit the Inflation Report - The Motley Fool",
+            "title": "There are now nearly 50% more home sellers than buyers as mismatch widens to a record 630,000 - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.8844245672225952,
+            "score": 0.9587229490280151,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "OpenAI investor says AI requires an income tax overhaul - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8221039175987244,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Rivian Made Car Dealers Back Down in Washington. More States May Be Next. - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9370498657226562,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "CISA Warns of F5 BIG-IP Vulnerability Actively Exploited in Attacks - CyberSecurityNews",
-            "sentiment": "NEGATIVE",
-            "score": 0.7638840079307556,
-            "signal": "BEARISH",
-            "tickers": [
-                "CISA",
-                "KEV"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "CISA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "KEV",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Anthropic\u2019s Claude popularity with paying consumers is skyrocketing - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.8116071820259094,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Meta\u2019s legal defeat could be a victory for children, or a loss for everyone - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.9285154938697815,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
