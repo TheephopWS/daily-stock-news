@@ -1,17 +1,105 @@
 {
-    "last_updated": "2026-03-31 16:19:20 UTC",
-    "total_articles": 21,
-    "bullish_articles": 6,
-    "bearish_articles": 15,
+    "last_updated": "2026-03-31 19:32:39 UTC",
+    "total_articles": 30,
+    "bullish_articles": 9,
+    "bearish_articles": 21,
     "articles": [
         {
-            "title": "Fed chief Powell says risks to economy suggest rates could go lower or higher - marketwatch.com",
+            "title": "S&P 500 closes lower Monday as oil prices continue their climb: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9491241574287415,
+            "score": 0.9746341705322266,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "JetBlue Airways raises bag fees as fuel prices soar - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9119998812675476,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Air Canada CEO to retire after English-only response to LaGuardia tragedy - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.8610195517539978,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "An insurer canceled a woman\u2019s coverage over a nickel - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9233330488204956,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Judge reassigns 3 Elon Musk cases, but denies she showed bias against him with emoji - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.8886082172393799,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Sysco expands into high-margin restaurant segment with $29 billion deal - apnews.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8721559643745422,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Brussels says Europeans should consider traveling less to avoid energy shortages - politico.eu",
+            "sentiment": "NEGATIVE",
+            "score": 0.9513056874275208,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Delta flight's engine explodes in heart-stopping video \u2014 forcing packed plane to make emergency landing - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9431792497634888,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Micron Slides 5% as Google\u2019s AI Memory Algorithm Sparks Fresh Fears Across the Semiconductor Sector - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9754579663276672,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Iran's attacks on aluminum producers are sending 'shockwaves' through the metals market - CNBC",
@@ -31,6 +119,59 @@
             ]
         },
         {
+            "title": "Takeda begins US layoffs as part of massive $1.3B restructuring - Fierce Pharma",
+            "sentiment": "NEGATIVE",
+            "score": 0.9617366194725037,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "A Walmart-related recession indicator that's preceded the last 4 economic downturns is flashing red - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.804386556148529,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Oil prices jump and U.S. markets open higher as Iran war rounds one month - nbcnews.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8987563252449036,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Government Bonds Rally Around the World on Slowdown Concerns - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9430910348892212,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "FTC Takes Action Against Match and OkCupid for Deceiving Users by Sharing Personal Data with Third Party - Federal Trade Commission (.gov)",
+            "sentiment": "NEGATIVE",
+            "score": 0.8994107246398926,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Uber Technologies, Inc. - Uber to Acquire Global Chauffeur Service Leader Blacklane - Uber Investor Relations",
             "sentiment": "POSITIVE",
             "score": 0.905787467956543,
@@ -46,6 +187,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Plastic is the hidden cost of the war in Iran - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.8794368505477905,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Starcloud raises $170 million Series A to build data centers in space - TechCrunch",
@@ -74,23 +224,6 @@
             ]
         },
         {
-            "title": "Alphabet's Solution Is A Gift For Micron's Memory Sales (NASDAQ:MU) - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.9476004242897034,
-            "signal": "BULLISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Travelers rattled after flight to O'Hare is diverted to Detroit due to unruly passenger - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.9433943629264832,
@@ -103,15 +236,6 @@
             "title": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened - fool.com",
             "sentiment": "NEGATIVE",
             "score": 0.9408738017082214,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Companies are making it easier than ever to spend \u2014 and harder to know what you can actually afford - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9462234973907471,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -136,10 +260,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Government Bonds Rally Around the World on Slowdown Concerns - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9238921403884888,
-            "signal": "BULLISH",
+            "title": "Gas prices surge across Bay Area, with Marin County highest in nation - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8737034201622009,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -180,27 +304,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "MARKET CALL: Stock P/Es Discounting Higher-For-Longer Oil Prices & Interest Rates - Yardeni QuickTakes",
-            "sentiment": "NEGATIVE",
-            "score": 0.7763345241546631,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Sora isn\u2019t the only thing OpenAI shut down this month - 9to5Mac",
             "sentiment": "NEGATIVE",
             "score": 0.8123317360877991,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Global economy takes gut punch from war in Iran, with nobody untouched the longer it goes on - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9152652025222778,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -224,19 +330,10 @@
             ]
         },
         {
-            "title": "These 5 Costco Products Just Hit Shelves, and Customers Are Already Stocking Up - Better Homes & Gardens",
-            "sentiment": "NEGATIVE",
-            "score": 0.9215314984321594,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "There are now nearly 50% more home sellers than buyers as mismatch widens to a record 630,000 - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9587229490280151,
-            "signal": "BEARISH",
+            "title": "Nio opens first Costa Rica store to kick off Latin America expansion - CnEVPost",
+            "sentiment": "POSITIVE",
+            "score": 0.7539079785346985,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
