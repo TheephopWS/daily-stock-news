@@ -1,17 +1,40 @@
 {
-    "last_updated": "2026-04-02 14:01:24 UTC",
+    "last_updated": "2026-04-02 16:15:56 UTC",
     "total_articles": 17,
-    "bullish_articles": 4,
-    "bearish_articles": 13,
+    "bullish_articles": 6,
+    "bearish_articles": 11,
     "articles": [
         {
-            "title": "Anthropic leaked 500,000 lines of its own source code - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.8523027300834656,
-            "signal": "BEARISH",
+            "title": "Retail sales rose more than expected in February - CNN",
+            "sentiment": "POSITIVE",
+            "score": 0.8883374929428101,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "\u2018I\u2019m done\u2019: Rideshare drivers on the brink of quitting over higher gas prices - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.7889652252197266,
+            "signal": "BEARISH",
+            "tickers": [
+                "UBER",
+                "LYFT"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "UBER",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "LYFT",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "S&P 500 futures rise after major averages post best session since May: Live updates - CNBC",
@@ -23,27 +46,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Jamie Dimon Says Vital US Ensures Iran War Is \u2018Successfully Completed\u2019 - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7988921403884888,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nike Stock Slides on Tariff Impact Despite Earnings Beat; Turnaround Continues - Barron's",
+            "title": "Nike shares drop on unexpected forecast for sales decline - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9734992384910583,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Walking away from the Strait of Hormuz won\u2019t make gas cheap again - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.8576275706291199,
+            "score": 0.9614025950431824,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -59,6 +64,24 @@
             "ticker_impacts": []
         },
         {
+            "title": "Jamie Dimon Says Vital US Ensures Iran War Is \u2018Successfully Completed\u2019 - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7988921403884888,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock markets bottom in the early stages of military conflict, says Tom Lee. Here\u2019s what the strategist expects now. - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9069895148277283,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Watch Out Bitcoin: Cryptography-Breaking Quantum Computers May Be Closer Than Expected, Says Caltech - decrypt.co",
             "sentiment": "NEGATIVE",
             "score": 0.7295196652412415,
@@ -68,18 +91,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oracle Layoffs Lead To Heartbreaking Posts On LinkedIn - Forbes",
+            "title": "SFO flights expected to face major delays under new FAA landing limits - San Francisco Chronicle",
             "sentiment": "NEGATIVE",
-            "score": 0.9668360352516174,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FAA reduces SFO arrivals, setting up delays amid runway work and safety concerns - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9555662274360657,
+            "score": 0.9686803221702576,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -139,6 +153,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Unilever Foods to combine with McCormick - Unilever",
+            "sentiment": "POSITIVE",
+            "score": 0.704900860786438,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Alaska Airlines unveils its first-ever International Business Class Suites experience, setting a new standard for long-haul travel - Alaska Airlines",
             "sentiment": "POSITIVE",
             "score": 0.8656391501426697,
@@ -151,15 +174,6 @@
             "title": "Europe faces its next big problem: The Iran war is driving up inflation - politico.eu",
             "sentiment": "NEGATIVE",
             "score": 0.9332266449928284,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "World\u2019s best-performing stock market of 2026 is the worst-performing in March - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9750012755393982,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
