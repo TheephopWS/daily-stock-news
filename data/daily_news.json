@@ -1,81 +1,74 @@
 {
-    "last_updated": "2026-04-02 16:15:56 UTC",
-    "total_articles": 17,
-    "bullish_articles": 6,
-    "bearish_articles": 11,
+    "last_updated": "2026-04-02 19:29:01 UTC",
+    "total_articles": 19,
+    "bullish_articles": 5,
+    "bearish_articles": 14,
     "articles": [
         {
-            "title": "Retail sales rose more than expected in February - CNN",
+            "title": "Dow jumps 200 points to start April as traders bet Middle East conflict will soon end: Live updates - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8883374929428101,
+            "score": 0.9190701842308044,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "\u2018I\u2019m done\u2019: Rideshare drivers on the brink of quitting over higher gas prices - CNN",
+            "title": "The American consumer stands firm - axios.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9500458836555481,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Anthropic Accidentally Exposes System Behind Claude Code - bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7889652252197266,
+            "score": 0.9481549263000488,
             "signal": "BEARISH",
             "tickers": [
-                "UBER",
-                "LYFT"
+                "INTC"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "UBER",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "LYFT",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "S&P 500 futures rise after major averages post best session since May: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9650766253471375,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Nike shares drop on unexpected forecast for sales decline - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9614025950431824,
+            "score": 0.9704517126083374,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "North Korean hackers implicated in major supply chain attack - Axios",
+            "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069 - The Hacker News",
             "sentiment": "NEGATIVE",
-            "score": 0.8093525171279907,
+            "score": 0.8917707204818726,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Jamie Dimon Says Vital US Ensures Iran War Is \u2018Successfully Completed\u2019 - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7988921403884888,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock markets bottom in the early stages of military conflict, says Tom Lee. Here\u2019s what the strategist expects now. - MarketWatch",
+            "title": "SFO flights expected to face major delays under new FAA landing limits - San Francisco Chronicle",
             "sentiment": "NEGATIVE",
-            "score": 0.9069895148277283,
+            "score": 0.9686803221702576,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -91,9 +84,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "SFO flights expected to face major delays under new FAA landing limits - San Francisco Chronicle",
+            "title": "Oracle Layoffs Lead To Heartbreaking Posts On LinkedIn - forbes.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9686803221702576,
+            "score": 0.9667737483978271,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -109,9 +102,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bond Traders Caught in Inflation-Growth Tug-of-War as Oil Swings - Bloomberg.com",
+            "title": "Warren Buffett on the Recent Stock Market Selloff: 'This Is Nothing' - Investopedia",
+            "sentiment": "NEGATIVE",
+            "score": 0.9559854865074158,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stocks have their worst quarter since 2022, raising doubts about Trump's economic playbook - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9671646952629089,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Iran war gives Chinese exporters chance to grab global market share - ft.com",
             "sentiment": "POSITIVE",
-            "score": 0.8672211766242981,
+            "score": 0.9426157474517822,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Higher electric bills ahead for Oregon customers starting April 1 - KATU",
+            "sentiment": "POSITIVE",
+            "score": 0.9202473759651184,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -135,45 +155,59 @@
             ]
         },
         {
-            "title": "Hiring just hit a level not seen since the economy was \u2018closed down literally\u2019 during COVID, top economist says - Fortune",
+            "title": "Novo Nordisk cuts 400 roles at troubled Bloomington site - Fierce Pharma",
             "sentiment": "NEGATIVE",
-            "score": 0.9578279256820679,
+            "score": 0.9452829360961914,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The Mercedes-Benz GLE-Class Lives On with Extensive Upgrades for 2027 - Road & Track",
+            "title": "Micron (MU) and SanDisk (SNDK) Stocks Extend Gains \u2014 What\u2019s Driving the Continued Upside - tipranks.com",
             "sentiment": "POSITIVE",
-            "score": 0.7996488213539124,
+            "score": 0.9407473206520081,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "SNDK",
+                "MU"
+            ],
+            "primary_ticker": "SNDK",
+            "ticker_impacts": [
+                {
+                    "ticker": "SNDK",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MU",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Unilever Foods to combine with McCormick - Unilever",
-            "sentiment": "POSITIVE",
-            "score": 0.704900860786438,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Alaska Airlines unveils its first-ever International Business Class Suites experience, setting a new standard for long-haul travel - Alaska Airlines",
-            "sentiment": "POSITIVE",
-            "score": 0.8656391501426697,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Europe faces its next big problem: The Iran war is driving up inflation - politico.eu",
+            "title": "Anti-Marijuana Groups File Lawsuit To Block Trump Administration's Hemp CBD And THC Medicare Coverage Plan - Marijuana Moment",
             "sentiment": "NEGATIVE",
-            "score": 0.9332266449928284,
+            "score": 0.8539364337921143,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "U.S. Job Openings and Hiring Fell in February - wsj.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9530261754989624,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "World\u2019s best-performing stock market of 2026 is the worst performer in March - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9749959707260132,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
