@@ -1,173 +1,184 @@
 {
-    "last_updated": "2026-04-03 03:31:32 UTC",
-    "total_articles": 17,
-    "bullish_articles": 6,
-    "bearish_articles": 11,
+    "last_updated": "2026-04-03 07:41:29 UTC",
+    "total_articles": 16,
+    "bullish_articles": 3,
+    "bearish_articles": 13,
     "articles": [
         {
-            "title": "Futures Fall, Oil Jumps On Trump's Iran Speech - Investor's Business Daily",
+            "title": "Stock futures fall after Trump says Iran war will continue for weeks: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8359647393226624,
+            "score": 0.883242130279541,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nike Can\u2019t Fix Its China Problem and That\u2019s Tanking Its Stock - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9649689197540283,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9340553283691406,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Recently laid-off Oracle worker says AI is coming for jobs - theregister.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9691410660743713,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Food pantries serving nearly 40 Minnesota communities suddenly close - Star Tribune",
+            "sentiment": "NEGATIVE",
+            "score": 0.7060973644256592,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Nasdaq Leads Charge After Trump's War Comments; Amazon, Tesla Rise (Live Coverage) - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.8274880647659302,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN",
+                "TSLA"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Facing backlash, Hershey says it will go back to original Reese's recipe in 2027 - phillyvoice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9389462471008301,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "North Korean hackers implicated in major supply chain attack - axios.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.867556095123291,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018I\u2019m done\u2019: Rideshare drivers on the brink of quitting over higher gas prices - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.7889652252197266,
             "signal": "BEARISH",
             "tickers": [
-                "TSLA"
+                "LYFT",
+                "UBER"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "TSLA",
+                    "ticker": "LYFT",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "UBER",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "The FDA approves a new obesity pill, giving patients another option - NPR",
+            "title": "Weekly mortgage refinance demand is down more than 40% in the past month - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9754208922386169,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Passengers stranded in moving traffic after robotaxi outage in China\u2019s Wuhan - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.952157199382782,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nexstar Tells Judge Aspects Of Tegna Merger \"Cannot Be Reversed\" - Deadline",
+            "sentiment": "NEGATIVE",
+            "score": 0.8656297922134399,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI raises $3bn from retail investors as part of record funding haul - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.7988030910491943,
+            "score": 0.8624675869941711,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Micron Stock Rallies 11% Wednesday: What's Driving The Surge? - Micron Technology (NASDAQ:MU) - benzinga.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8344014286994934,
-            "signal": "BULLISH",
+            "title": "Meta was finally held accountable for harming teens. Now what? - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8605552911758423,
+            "signal": "BEARISH",
             "tickers": [
-                "MU"
+                "META"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "META",
             "ticker_impacts": [
                 {
-                    "ticker": "MU",
-                    "impact": "positive",
-                    "relevance": "medium"
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
         {
-            "title": "A 12,000-Mile Journey Shows the World\u2019s Scramble for Diesel - bloomberg.com",
+            "title": "Hiring just hit a level not seen since the economy was \u2018closed down literally\u2019 during COVID, top economist says - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9504520297050476,
+            "score": 0.9578279256820679,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nike CEO Blows Off Steam With Staff Over Stalled Turnaround - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9074781537055969,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Red Lobster Set to Bring Back Endless Shrimp That Drove It to Bankruptcy - bloomberg.com",
+            "title": "Unilever Foods to combine with McCormick - Unilever",
             "sentiment": "POSITIVE",
-            "score": 0.8488168120384216,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "East Portland has far fewer grocery stores than the rest of the city \u2014 and is slated to lose another one - oregonlive.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.970916748046875,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Are Trump insiders making a killing on the Iran war? - The Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.7561705112457275,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "North Korean hackers implicated in major supply chain attack - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.809352457523346,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tech giant Oracle reportedly blindsides thousands with emailed layoffs - SFGATE",
-            "sentiment": "NEGATIVE",
-            "score": 0.972241997718811,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stocks have their worst quarter since 2022, raising doubts about Trump's economic playbook - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9450429081916809,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FAA slashes SFO's max hourly flight arrivals, nearly doubling delays - SFGATE",
-            "sentiment": "NEGATIVE",
-            "score": 0.9698159098625183,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The wellness world is eager for RFK Jr.\u2019s promised move on peptides - npr.org",
-            "sentiment": "POSITIVE",
-            "score": 0.7097008228302002,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Marc Andreessen: Companies are 75% overstaffed and AI is the \u2018silver bullet excuse\u2019 to clean house - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9591551423072815,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "CoreWeave Closes Landmark $8.5 Billion Financing Facility, Achieving First Investment-Grade Rated GPU-backed Financing - investors.coreweave.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9328179359436035,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Europe faces its next big problem: The Iran war is driving up inflation - politico.eu",
-            "sentiment": "NEGATIVE",
-            "score": 0.9332267045974731,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Whoop Raises $575 Million at a $10 Billion Valuation on Its Way to an IPO - bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7715377807617188,
+            "score": 0.704900860786438,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
