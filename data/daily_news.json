@@ -1,72 +1,99 @@
 {
-    "last_updated": "2026-04-04 13:32:16 UTC",
-    "total_articles": 22,
+    "last_updated": "2026-04-04 15:51:26 UTC",
+    "total_articles": 25,
     "bullish_articles": 9,
-    "bearish_articles": 13,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "US Bonds Fall as Strong Jobs Data Undermines Fed Cut Outlook - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9375258088111877,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The cost to fly private is up as much as 20% with fuel prices soaring - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8805657029151917,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "3.1 million bottles of eye drops sold at Walgreens, CVS and more are recalled. Here's what to know. - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9561578631401062,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Morning Brief: Hope for Hormuz lifts markets - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9105070233345032,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Verdicts against Meta and Google may bring a new era of big tech accountability - npr.org",
             "sentiment": "POSITIVE",
             "score": 0.7955521941184998,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL",
-                "META"
+                "META",
+                "GOOGL"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "META",
             "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "META",
                     "impact": "positive",
                     "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "March jobs report expected to show labor market stabilizing before Iran war - NBC News",
-            "sentiment": "POSITIVE",
-            "score": 0.8933207392692566,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Amazon to slap a 3.5% surcharge on third-party sellers as Iran war drives up fuel prices - ABC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9206147789955139,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
+                },
                 {
-                    "ticker": "AMZN",
-                    "impact": "negative",
+                    "ticker": "GOOGL",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Oil prices surge while Asian share prices rise moderately - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.9393936991691589,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Asian Equities May Open Higher After US Rebound: Markets Wrap - Bloomberg",
             "sentiment": "POSITIVE",
             "score": 0.9271866679191589,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Japan's Sakura Internet jumps 20% as Microsoft plans $10 billion AI push with SoftBank - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7202836275100708,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "US hiring likely improved last month, but Iran war and oil prices could take a toll later in 2026 - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8308422565460205,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -89,21 +116,30 @@
             ]
         },
         {
-            "title": "Meta to eliminate nearly 200 Bay Area jobs - The Mercury News",
+            "title": "Amazon to slap a 3.5% surcharge on third-party sellers as Iran war drives up fuel prices - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9661586880683899,
+            "score": 0.9427712559700012,
             "signal": "BEARISH",
             "tickers": [
-                "META"
+                "AMZN"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Federal government sues three states over their regulation of prediction markets - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9435604214668274,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "United Airlines is raising bag fees by $10 beginning Friday - The Points Guy",
@@ -132,9 +168,9 @@
             ]
         },
         {
-            "title": "Fuel Shock Forces Airlines Into Emergency Mode - OilPrice.com",
+            "title": "Mortgage rate experts drop blunt message for 2026 - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9573981761932373,
+            "score": 0.9410439729690552,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -150,9 +186,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Iran Says It Hit Oracle Facilities in UAE - Gizmodo",
+            "title": "IRGC claims to have attacked Dubai Oracle data center, US fighter jets at Jordan's Al Azraq base - The Jerusalem Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8134283423423767,
+            "score": 0.7626614570617676,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN"
@@ -167,21 +203,13 @@
             ]
         },
         {
-            "title": "These Stocks Are Today\u2019s Movers: Tesla, Globalstar, Blue Owl, United Airlines, Carnival, Lumentum, and More - Barron's",
+            "title": "Wall Street Money Managers Hunker Down as Iran War Rages On - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9659905433654785,
+            "score": 0.9019986987113953,
             "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "SpaceX Targets More Than $2 Trillion Valuation in IPO - Bloomberg",
@@ -202,18 +230,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "CFTC sues Arizona, Connecticut, Illinois over prediction market regulation - CNBC",
+            "title": "Europe\u2019s airports thirst for jet fuel - politico.eu",
             "sentiment": "NEGATIVE",
-            "score": 0.9071683287620544,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Almost Half of US Data Centers That Were Supposed to Open This Year Slated to Be Canceled or Delayed - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.9091856479644775,
+            "score": 0.9645852446556091,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -238,6 +257,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "US Job-Cut Announcements in Tech Keep Rising With AI Adoption - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8312104344367981,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Higher gas prices have cost U.S. drivers an additional $8.4 billion, Democrats say - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.8282051086425781,
@@ -254,35 +290,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Charts show how much Meta, Google, and Amazon slashed H-1B petitions after Trump's visa crackdown - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9732722043991089,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL",
-                "AMZN",
-                "META"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
