@@ -1,13 +1,65 @@
 {
-    "last_updated": "2026-04-04 15:51:26 UTC",
-    "total_articles": 25,
-    "bullish_articles": 9,
+    "last_updated": "2026-04-04 19:05:35 UTC",
+    "total_articles": 23,
+    "bullish_articles": 7,
     "bearish_articles": 16,
     "articles": [
         {
-            "title": "US Bonds Fall as Strong Jobs Data Undermines Fed Cut Outlook - Bloomberg.com",
+            "title": "Dow Jones Futures: After Strong Week, Look For This Bullish Market Signal - investors.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9414814114570618,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Netflix must refund customers for years of price hikes, Italian court rules - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.9375258088111877,
+            "score": 0.8655304908752441,
+            "signal": "BEARISH",
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Why Seattle tech companies are still laying off workers - The Seattle Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9619926810264587,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Once-booming cookie chain closes all stores after Chapter 11 filing - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9584928750991821,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "This Oil Shock Is So Big It Is Fueling a Turnaround in Energy Stocks - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9483885765075684,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -46,31 +98,56 @@
             "score": 0.7955521941184998,
             "signal": "BULLISH",
             "tickers": [
-                "META",
-                "GOOGL"
+                "GOOGL",
+                "META"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "META",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Asian Equities May Open Higher After US Rebound: Markets Wrap - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.9271866679191589,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Tesla Is Sitting On A Record 50,000 Unsold EVs - insideevs.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7027207612991333,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "The Walmart billionaires next door: Quiet backlash is brewing against the heirs who remade the retailer\u2019s hometown - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8146809935569763,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Japan's Sakura Internet jumps 20% as Microsoft plans $10 billion AI push with SoftBank - CNBC",
@@ -88,15 +165,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "US hiring likely improved last month, but Iran war and oil prices could take a toll later in 2026 - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8308422565460205,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Trump labor board orders Amazon to bargain with Teamsters - The Washington Post",
@@ -133,15 +201,6 @@
             ]
         },
         {
-            "title": "Federal government sues three states over their regulation of prediction markets - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9435604214668274,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "United Airlines is raising bag fees by $10 beginning Friday - The Points Guy",
             "sentiment": "POSITIVE",
             "score": 0.8200425505638123,
@@ -149,23 +208,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Tesla EV sales \"underwhelming\" as Elon Musk pivots to AI - Axios",
-            "sentiment": "POSITIVE",
-            "score": 0.8515971302986145,
-            "signal": "BULLISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Mortgage rate experts drop blunt message for 2026 - thestreet.com",
@@ -177,39 +219,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Treasury moves to gut financial research office - politico.com",
+            "title": "What's next for Meta in the wake of trial losses and layoffs? - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9686146974563599,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "IRGC claims to have attacked Dubai Oracle data center, US fighter jets at Jordan's Al Azraq base - The Jerusalem Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7626614570617676,
+            "score": 0.9076234698295593,
             "signal": "BEARISH",
             "tickers": [
-                "AMZN"
+                "META"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "META",
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
+                    "ticker": "META",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Wall Street Money Managers Hunker Down as Iran War Rages On - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9019986987113953,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "SpaceX Targets More Than $2 Trillion Valuation in IPO - Bloomberg",
@@ -239,6 +263,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Iran launches attack against Amazon cloud data center in Bahrain - MyNorthwest.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7104181051254272,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Oracle 'Survivors' Reportedly Told to 'Stretch' After Massive Layoffs\u2014But Workers Are Refusing Extra Hours - International Business Times UK",
             "sentiment": "NEGATIVE",
             "score": 0.9080243110656738,
@@ -248,45 +289,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Panic at the Grocery Store - The Cut",
-            "sentiment": "NEGATIVE",
-            "score": 0.8513545393943787,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US Job-Cut Announcements in Tech Keep Rising With AI Adoption - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8312104344367981,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Higher gas prices have cost U.S. drivers an additional $8.4 billion, Democrats say - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.8282051086425781,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "New Getaway Means Subaru Has an Electric SUV in Every Size - Gizmodo",
-            "sentiment": "POSITIVE",
-            "score": 0.7368874549865723,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
