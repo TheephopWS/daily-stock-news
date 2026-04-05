@@ -1,39 +1,66 @@
 {
-    "last_updated": "2026-04-04 21:50:52 UTC",
-    "total_articles": 21,
-    "bullish_articles": 4,
-    "bearish_articles": 17,
+    "last_updated": "2026-04-05 03:42:25 UTC",
+    "total_articles": 16,
+    "bullish_articles": 3,
+    "bearish_articles": 13,
     "articles": [
         {
-            "title": "March jobs report blows past expectations - washingtonpost.com",
+            "title": "Nationwide recall for eye drops sold at multiple San Antonio stores, including H-E-B - ksat.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9407947063446045,
+            "score": 0.9373856782913208,
+            "signal": "BEARISH",
+            "tickers": [
+                "FDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "FDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "SAD! Trump\u2019s AI data center push is failing. Blame his own tariffs. - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.9503830075263977,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Netflix must refund customers for years of price hikes, Italian court rules - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.8655303120613098,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "title": "'Chinese Cars Are Ready For Prime Time In America': Geely SUV Crushes Every U.S. Competitor In New Test - InsideEVs",
+            "sentiment": "POSITIVE",
+            "score": 0.8750327229499817,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "Why Seattle tech companies are still laying off workers - The Seattle Times",
+            "title": "Jamie Dimon defends U.S. decision to wage war in Iran, and says the West may have actually waited too long to fight it - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9619926810264587,
+            "score": 0.8296865224838257,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US Bonds Fall as Strong Jobs Data Undermines Fed Cut Outlook - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9298983216285706,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "What's behind the layoffs in Seattle's tech sector - The Seattle Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9504255652427673,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -48,27 +75,9 @@
             ]
         },
         {
-            "title": "Wall Street closed for Good Friday, but US futures inch lower following strong March jobs report - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9222351908683777,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The cost to fly private is up as much as 20% with fuel prices soaring - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8805660605430603,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Morning Brief: Hope for Hormuz lifts markets - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9105075597763062,
+            "score": 0.9105070233345032,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -77,7 +86,7 @@
         {
             "title": "Verdicts against Meta and Google may bring a new era of big tech accountability - npr.org",
             "sentiment": "POSITIVE",
-            "score": 0.795552670955658,
+            "score": 0.7955521941184998,
             "signal": "BULLISH",
             "tickers": [
                 "GOOGL",
@@ -98,9 +107,9 @@
             ]
         },
         {
-            "title": "Tesla Is Sitting On A Record 50,000 Unsold EVs - insideevs.com",
+            "title": "Tesla outraces China\u2019s BYD in pure electric car sales to regain world\u2019s top spot - South China Morning Post",
             "sentiment": "NEGATIVE",
-            "score": 0.7027212381362915,
+            "score": 0.896040678024292,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -115,9 +124,18 @@
             ]
         },
         {
+            "title": "Outrage as Oracle files thousands of foreign-worker requests amid layoff bloodbath - finance.yahoo.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9650460481643677,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Trump labor board orders Amazon to bargain with Teamsters - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8891112208366394,
+            "score": 0.8891113996505737,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN"
@@ -132,18 +150,26 @@
             ]
         },
         {
-            "title": "Blue Owl Reels as Investors Who Fueled Its Growth Now Want Out - Bloomberg.com",
+            "title": "Amazon hits sellers with \u2018fuel surcharge\u2019 as Iran war roils global energy markets - techcrunch.com",
             "sentiment": "NEGATIVE",
-            "score": 0.957469642162323,
+            "score": 0.8523553013801575,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Mortgage rate experts drop blunt message for 2026 - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9410440921783447,
+            "score": 0.9410439729690552,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -152,7 +178,7 @@
         {
             "title": "What's next for Meta in the wake of trial losses and layoffs? - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9076237082481384,
+            "score": 0.9076234698295593,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -169,111 +195,20 @@
         {
             "title": "Gov. Gretchen Whitmer issues executive order to save Michigan drivers money amid rising gas prices - ClickOnDetroit | WDIV Local 4",
             "sentiment": "POSITIVE",
-            "score": 0.9182523488998413,
+            "score": 0.9182519316673279,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Europe\u2019s airports thirst for jet fuel - politico.eu",
+            "title": "Grocery shock on the horizon for approaching U.S. elections as Iran war drags on - cnbc.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9645852446556091,
+            "score": 0.9285956621170044,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Iran launches attack against Amazon cloud data center in Bahrain - MyNorthwest.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7104178667068481,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Almost Half of US Data Centers That Were Supposed to Open This Year Slated to Be Canceled or Delayed - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.9091855883598328,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oracle 'Survivors' Reportedly Told to 'Stretch' After Massive Layoffs\u2014But Workers Are Refusing Extra Hours - International Business Times UK",
-            "sentiment": "NEGATIVE",
-            "score": 0.9080243110656738,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Panic at the Grocery Store - The Cut",
-            "sentiment": "NEGATIVE",
-            "score": 0.851353645324707,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Higher gas prices have cost U.S. drivers an additional $8.4 billion, Democrats say - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.828204870223999,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "New Getaway Means Subaru Has an Electric SUV in Every Size - Gizmodo",
-            "sentiment": "POSITIVE",
-            "score": 0.7368873953819275,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Charts show how much Meta, Google, and Amazon slashed H-1B petitions after Trump's visa crackdown - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9732722043991089,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN",
-                "GOOGL",
-                "META"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
