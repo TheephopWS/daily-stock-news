@@ -1,9 +1,36 @@
 {
-    "last_updated": "2026-04-07 19:35:31 UTC",
-    "total_articles": 19,
-    "bullish_articles": 4,
-    "bearish_articles": 15,
+    "last_updated": "2026-04-07 22:02:21 UTC",
+    "total_articles": 22,
+    "bullish_articles": 10,
+    "bearish_articles": 12,
     "articles": [
+        {
+            "title": "Medicare Finalizes 2.48% Rate Hike for Private Insurers in 2027 - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9529876708984375,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "3 things to look out for on Tuesday - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.8605517745018005,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Grand theft uh-oh: Luxury vehicle thieves botch Hells Kitchen heist, NYPD says - Gothamist",
+            "sentiment": "NEGATIVE",
+            "score": 0.8576628565788269,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "The FCC's Router Ban Could Hit These Brands Hard. Is Yours on the List? - pcmag.com",
             "sentiment": "NEGATIVE",
@@ -14,10 +41,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "US stocks and oil prices flip-flop ahead of Trump\u2019s deadline to bomb Iranian power plants - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7130913138389587,
-            "signal": "BEARISH",
+            "title": "Rivian R2 EPA numbers out: 217 kW DC charge, up to 335mi range, heat pump - Electrek",
+            "sentiment": "POSITIVE",
+            "score": 0.8537571430206299,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Key Fed official sees possible rate hike amid higher gas prices, inflation concerns - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.7855373620986938,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -32,25 +68,25 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bank Warns of Tesla Stock Collapse by 60% - Yahoo Finance",
+            "title": "Tesla\u2019s stock could fall another 60%, JPMorgan analyst warns. Here\u2019s what\u2019s behind his \u2018high degree of caution.\u2019 - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9648746848106384,
+            "score": 0.771274745464325,
             "signal": "BEARISH",
             "tickers": [
-                "TSLA",
-                "JPM"
+                "JPM",
+                "TSLA"
             ],
-            "primary_ticker": "TSLA",
+            "primary_ticker": "JPM",
             "ticker_impacts": [
                 {
-                    "ticker": "TSLA",
+                    "ticker": "JPM",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "JPM",
+                    "ticker": "TSLA",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
@@ -64,37 +100,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "R2 EPA Docs Drop With 335-Mile Range, 210 kW Charging, and a Heat Pump Upgrade - RivianTrackr",
+            "title": "JPMorgan CEO Jamie Dimon predicts AI will cut the workweek down to 3.5 days - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.838643491268158,
+            "score": 0.7685381770133972,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Growth Slows at US Service Providers as Price Gauge Surges - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9694039225578308,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Paramount Skydance Secures $24 Billion From Gulf States for Warner Bros. Deal - Variety",
             "sentiment": "POSITIVE",
             "score": 0.9100673794746399,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Strategy Posts $14.5 Billion Unrealized Loss in First Quarter - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9734565615653992,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -132,13 +158,21 @@
             ]
         },
         {
-            "title": "Medicare dips a toe into hemp for seniors - Axios",
+            "title": "Jamie Dimon warns private credit losses will be larger than feared - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8126541376113892,
+            "score": 0.9649361968040466,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "JPM"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "How a four-month FDA delay forced a small biotech company to close its doors - statnews.com",
@@ -150,10 +184,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tailors and dressmakers retire their pincushions as US demand for skilled sewers grows - ABC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.967240035533905,
-            "signal": "BEARISH",
+            "title": "Stock futures edge higher after a winning week as oil prices tick higher: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9443650841712952,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -168,9 +202,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Vietnam\u2019s gig workers slammed by rising fuel costs amid fallout of Iran war - Al Jazeera",
+            "title": "Asia markets trade mixed as investors assess Trump's Iran war comments, extended deadline - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9582433700561523,
+            "score": 0.9306109547615051,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -186,10 +220,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Novo Nordisk CEO says weight-loss drug boom has barely begun (NVO:NYSE) - Seeking Alpha",
+            "title": "It\u2019s Not Just You: Six of 10 Drivers Say Headlight Glare Is a Problem - The Drive",
             "sentiment": "NEGATIVE",
-            "score": 0.804965615272522,
+            "score": 0.8407263159751892,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Forget The Noise - I\u2019m Preparing To Deploy More Capital Than Ever - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.7104438543319702,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
