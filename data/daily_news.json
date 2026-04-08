@@ -1,22 +1,65 @@
 {
-    "last_updated": "2026-04-08 19:44:44 UTC",
-    "total_articles": 13,
+    "last_updated": "2026-04-08 22:04:47 UTC",
+    "total_articles": 12,
     "bullish_articles": 4,
-    "bearish_articles": 9,
+    "bearish_articles": 8,
     "articles": [
         {
-            "title": "Delta Air Lines becomes latest US carrier to hike checked bag fees - The Points Guy",
+            "title": "Stock Market Today: Dow Loses Ground As Iran Deadline Nears; These IBD 50 Names Are Moving (Live Coverage) - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9590442776679993,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Anthropic withholds Mythos Preview model because it's hacking is too powerful - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.8474627137184143,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet - arstechnica.com",
             "sentiment": "POSITIVE",
-            "score": 0.8750612139701843,
+            "score": 0.7149083018302917,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Jet fuel supply concerns grow as war on Iran drags on, airlines cut flights - CNBC",
+            "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.9432939291000366,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Jet fuel supply concerns grow as war with Iran drags on, airlines cut flights - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9528124928474426,
+            "score": 0.9513087272644043,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,7 +68,7 @@
         {
             "title": "Why Tesla Stock (TSLA) Is Down Today \u2013 and Why One Investor Says It\u2019s Time to Cut Exposure - TipRanks",
             "sentiment": "NEGATIVE",
-            "score": 0.9365383982658386,
+            "score": 0.9753426313400269,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -84,47 +127,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "S&P 500 futures tumble as Trump\u2019s deadline to reopen Strait of Hormuz nears: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9457036852836609,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Goldman Warns on Copper as Iran War Threatens Global Economy - bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9642887115478516,
-            "signal": "BEARISH",
-            "tickers": [
-                "META",
-                "GS"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "GS",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Samsung shares rise after profit seen jumping 8-fold on AI chip boom - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9315158724784851,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Key Fed official sees possible rate hike amid higher gas prices, inflation concerns - AP News",
             "sentiment": "POSITIVE",
             "score": 0.7855373620986938,
@@ -132,23 +134,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "JPMorgan CEO Dimon: Iran war could reignite inflation and keep Fed rates higher for longer - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.918109655380249,
-            "signal": "BEARISH",
-            "tickers": [
-                "JPM"
-            ],
-            "primary_ticker": "JPM",
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "JPMorgan CEO Jamie Dimon predicts AI will cut the workweek down to 3.5 days - Fortune",
