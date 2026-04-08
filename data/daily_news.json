@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-04-08 16:40:58 UTC",
-    "total_articles": 16,
+    "last_updated": "2026-04-08 19:44:44 UTC",
+    "total_articles": 13,
     "bullish_articles": 4,
-    "bearish_articles": 12,
+    "bearish_articles": 9,
     "articles": [
+        {
+            "title": "Delta Air Lines becomes latest US carrier to hike checked bag fees - The Points Guy",
+            "sentiment": "POSITIVE",
+            "score": 0.8750612139701843,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Jet fuel supply concerns grow as war on Iran drags on, airlines cut flights - CNBC",
             "sentiment": "NEGATIVE",
@@ -14,19 +23,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Humana, UnitedHealth Soar as US Raises Medicare Advantage Rates - Bloomberg.com",
+            "title": "Why Tesla Stock (TSLA) Is Down Today \u2013 and Why One Investor Says It\u2019s Time to Cut Exposure - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.9365383982658386,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Used car prices rise to highest point since summer 2023 - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9513867497444153,
+            "score": 0.8759654760360718,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Delta raises checked bag fees $10 amid jet fuel price surge, joining other carriers - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.892012894153595,
-            "signal": "BULLISH",
+            "title": "Ford recalls nearly 423,000 vehicles over windshield wiper issue - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9632750749588013,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -49,35 +75,18 @@
             ]
         },
         {
-            "title": "Gemini is making it faster for distressed users to reach mental health resources - The Verge",
+            "title": "\u2018All roads lead to higher prices and slower growth,' warns IMF chief as Iran war hits global economy - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7495914101600647,
+            "score": 0.7800507545471191,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Doritos at $7 a Bag Ended Up Costing PepsiCo Billions - Bloomberg.com",
+            "title": "S&P 500 futures tumble as Trump\u2019s deadline to reopen Strait of Hormuz nears: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9752310514450073,
-            "signal": "BEARISH",
-            "tickers": [
-                "PEP"
-            ],
-            "primary_ticker": "PEP",
-            "ticker_impacts": [
-                {
-                    "ticker": "PEP",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "\u2018All roads lead to higher prices and slower growth,' warns IMF chief as Iran war hits global economy - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7800507545471191,
+            "score": 0.9457036852836609,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -89,18 +98,18 @@
             "score": 0.9642887115478516,
             "signal": "BEARISH",
             "tickers": [
-                "GS",
-                "META"
+                "META",
+                "GS"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "GS",
+                    "ticker": "META",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "META",
+                    "ticker": "GS",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -116,52 +125,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Car shell suspended on rock face above British Columbia highway in apparent prank - apnews.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8889443874359131,
-            "signal": "BEARISH",
+            "title": "Key Fed official sees possible rate hike amid higher gas prices, inflation concerns - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.7855373620986938,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Analysts Cut Tesla Price Targets As Regulators Shutter Investigation - Investor's Business Daily",
+            "title": "JPMorgan CEO Dimon: Iran war could reignite inflation and keep Fed rates higher for longer - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9735769629478455,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Exclusive | Amazon and U.S. Postal Service Reach Delivery Deal - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9440165758132935,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "JPMorgan CEO Dimon: Iran war could reignite inflation and keep Fed rates higher for longer - ABC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9536863565444946,
+            "score": 0.918109655380249,
             "signal": "BEARISH",
             "tickers": [
                 "JPM"
@@ -191,24 +166,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Paramount Skydance Secures $24 Billion From Saudi Arabia, Qatar and Abu Dhabi Funds for Warner Bros. Deal - Variety",
-            "sentiment": "POSITIVE",
-            "score": 0.7903338074684143,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Downtown Seattle visitors rebound to 2019 levels, but workers lag behind - seattletimes.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8978502154350281,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
