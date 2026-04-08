@@ -1,22 +1,65 @@
 {
-    "last_updated": "2026-04-08 10:34:00 UTC",
-    "total_articles": 17,
-    "bullish_articles": 7,
-    "bearish_articles": 10,
+    "last_updated": "2026-04-08 14:06:17 UTC",
+    "total_articles": 18,
+    "bullish_articles": 5,
+    "bearish_articles": 13,
     "articles": [
         {
-            "title": "Asian shares mostly higher ahead of Trump\u2019s deadline for Iran to reopen oil route - AP News",
+            "title": "A generational buying opportunity has opened up for U.S. tech stocks, says Goldman Sachs - MarketWatch",
             "sentiment": "POSITIVE",
-            "score": 0.7003699541091919,
+            "score": 0.8928868174552917,
+            "signal": "BULLISH",
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "European Gas Futures Jump 3% as Trump's Iran Strike Deadline Nears - OilPrice.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9391038417816162,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Universal Music set for takeover by Bill Ackman's Pershing Square - CNBC",
+            "title": "Doritos at $7 a Bag Ended Up Costing PepsiCo Billions - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9132933020591736,
+            "score": 0.9752310514450073,
+            "signal": "BEARISH",
+            "tickers": [
+                "PEP"
+            ],
+            "primary_ticker": "PEP",
+            "ticker_impacts": [
+                {
+                    "ticker": "PEP",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Iran war upends spring housing market. Here's what real estate agents are seeing - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.7215259075164795,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018All roads lead to higher prices and slower growth,' warns IMF chief as Iran war hits global economy - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.7800507545471191,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,6 +75,29 @@
             "ticker_impacts": []
         },
         {
+            "title": "Goldman Warns on Copper as Iran War Threatens Global Economy - bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9642887115478516,
+            "signal": "BEARISH",
+            "tickers": [
+                "GS",
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Samsung shares rise after profit seen jumping 8-fold on AI chip boom - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.9315158724784851,
@@ -41,56 +107,48 @@
             "ticker_impacts": []
         },
         {
-            "title": "UnitedHealth, Humana, Health Insurers Jump On Higher Medicare Advantage Payments - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9483354091644287,
-            "signal": "BULLISH",
+            "title": "AP plans staff cuts, restructuring amid broader business shift - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.7540411353111267,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Anthropic in chips deals with Google and Broadcom worth hundreds of billions - Financial Times",
+            "title": "Car shell suspended on rock face above British Columbia highway in apparent prank - apnews.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8889443874359131,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AMC Stock Spikes after Easter Weekend Sets Revenue Record and Drives Attendance Surge - TipRanks",
             "sentiment": "POSITIVE",
-            "score": 0.9052683711051941,
+            "score": 0.9494025707244873,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL"
+                "AMC"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "AMC",
                     "impact": "positive",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Phillips 66 forecasts up to $1B in derivatives losses as oil prices rise (PSX:NYSE) - Seeking Alpha",
+            "title": "Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9641730189323425,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Grand theft uh-oh: Luxury vehicle thieves botch Hells Kitchen heist, NYPD says - Gothamist",
-            "sentiment": "NEGATIVE",
-            "score": 0.8576628565788269,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Analysts Cut Tesla Price Targets As Regulators Shutter Investigation - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9735769629478455,
+            "score": 0.9736403822898865,
             "signal": "BEARISH",
             "tickers": [
-                "TSLA"
+                "TSLA",
+                "JPM"
             ],
             "primary_ticker": "TSLA",
             "ticker_impacts": [
@@ -98,35 +156,30 @@
                     "ticker": "TSLA",
                     "impact": "negative",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Burbank Airport Traffic Delays Hit Travelers Amid Construction - LAmag",
+            "title": "AI is cutting 16,000 U.S. jobs a month \u2014 and Gen Z is taking the brunt, Goldman Sachs says - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9622765183448792,
+            "score": 0.9574511647224426,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Rivian R2 EPA numbers out: 217 kW DC charge, up to 335mi range, heat pump - Electrek",
-            "sentiment": "POSITIVE",
-            "score": 0.8537571430206299,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China stands to benefit most from the war-driven energy crisis - The Washington Post",
-            "sentiment": "POSITIVE",
-            "score": 0.9436071515083313,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "JPMorgan CEO Jamie Dimon predicts AI will cut the workweek down to 3.5 days - Fortune",
@@ -146,15 +199,6 @@
             ]
         },
         {
-            "title": "AP plans staff cuts, restructuring amid broader business shift - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.7540411353111267,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Paramount Skydance Secures $24 Billion From Saudi Arabia, Qatar and Abu Dhabi Funds for Warner Bros. Deal - Variety",
             "sentiment": "POSITIVE",
             "score": 0.7903338074684143,
@@ -164,13 +208,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil Crisis Hitting Asia Foreshadows Tough Times for Europe - wsj.com",
+            "title": "Social Security issues serious warning to retirees - AL.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9613785743713379,
+            "score": 0.9174025654792786,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Tesla is down sharply in 2026. JPMorgan sees the stock falling another 60% - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.962601363658905,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA",
+                "JPM"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Asia markets trade mixed as investors assess Trump's Iran war comments, extended deadline - CNBC",
