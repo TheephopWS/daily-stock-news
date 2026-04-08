@@ -1,13 +1,30 @@
 {
-    "last_updated": "2026-04-07 22:02:21 UTC",
-    "total_articles": 22,
-    "bullish_articles": 10,
-    "bearish_articles": 12,
+    "last_updated": "2026-04-08 03:37:06 UTC",
+    "total_articles": 16,
+    "bullish_articles": 7,
+    "bearish_articles": 9,
     "articles": [
         {
-            "title": "Medicare Finalizes 2.48% Rate Hike for Private Insurers in 2027 - Bloomberg.com",
+            "title": "Broadcom to Supply AI Chips to Google, Computing Capacity to Anthropic in Expanded Collaboration - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9529876708984375,
+            "score": 0.8148744106292725,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Trump administration finalizes better-than-feared Medicare Advantage payment rate in boost to health insurers - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9413424730300903,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,7 +33,7 @@
         {
             "title": "3 things to look out for on Tuesday - Seeking Alpha",
             "sentiment": "POSITIVE",
-            "score": 0.8605517745018005,
+            "score": 0.8605524897575378,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,57 +49,15 @@
             "ticker_impacts": []
         },
         {
-            "title": "The FCC's Router Ban Could Hit These Brands Hard. Is Yours on the List? - pcmag.com",
+            "title": "Analysts Cut Tesla Price Targets As Regulators Shutter Investigation - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.7475085258483887,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Rivian R2 EPA numbers out: 217 kW DC charge, up to 335mi range, heat pump - Electrek",
-            "sentiment": "POSITIVE",
-            "score": 0.8537571430206299,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Key Fed official sees possible rate hike amid higher gas prices, inflation concerns - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.7855373620986938,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "North Korea's hijack of one of the web's most used open source projects was likely weeks in the making - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.8650348782539368,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tesla\u2019s stock could fall another 60%, JPMorgan analyst warns. Here\u2019s what\u2019s behind his \u2018high degree of caution.\u2019 - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.771274745464325,
+            "score": 0.9735769629478455,
             "signal": "BEARISH",
             "tickers": [
-                "JPM",
                 "TSLA"
             ],
-            "primary_ticker": "JPM",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "TSLA",
                     "impact": "negative",
@@ -91,18 +66,61 @@
             ]
         },
         {
-            "title": "Trading Open Shadowed by Trump Escalation Threats: Markets Wrap - Bloomberg.com",
+            "title": "AMC Stock Spikes after Easter Weekend Sets Revenue Record and Drives Attendance Surge - TipRanks",
             "sentiment": "POSITIVE",
-            "score": 0.7741209268569946,
+            "score": 0.9494025707244873,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AMC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Paramount Secures Agreements For Gulf State Funds To Back WBD Acquisition - Deadline",
+            "sentiment": "POSITIVE",
+            "score": 0.9170359373092651,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Rivian R2 EPA numbers out: 217 kW DC charge, up to 335mi range, heat pump - Electrek",
+            "sentiment": "POSITIVE",
+            "score": 0.8537575006484985,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AI is cutting 16,000 U.S. jobs a month \u2014 and Gen Z is taking the brunt, Goldman Sachs says - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9574511647224426,
+            "signal": "BEARISH",
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "JPMorgan CEO Jamie Dimon predicts AI will cut the workweek down to 3.5 days - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.7685381770133972,
+            "score": 0.7685397267341614,
             "signal": "BEARISH",
             "tickers": [
                 "JPM"
@@ -115,15 +133,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Paramount Skydance Secures $24 Billion From Gulf States for Warner Bros. Deal - Variety",
-            "sentiment": "POSITIVE",
-            "score": 0.9100673794746399,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "War-driven energy crisis boosts China\u2019s sales pitch for renewable tech - The Washington Post",
@@ -175,36 +184,9 @@
             ]
         },
         {
-            "title": "How a four-month FDA delay forced a small biotech company to close its doors - statnews.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8386601209640503,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock futures edge higher after a winning week as oil prices tick higher: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9443650841712952,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Oil Crisis Hitting Asia Foreshadows Tough Times for Europe - wsj.com",
             "sentiment": "NEGATIVE",
             "score": 0.9613785743713379,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Asia markets trade mixed as investors assess Trump's Iran war comments, extended deadline - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9306109547615051,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -224,24 +206,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.8407263159751892,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Forget The Noise - I\u2019m Preparing To Deploy More Capital Than Ever - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.7104438543319702,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Starbucks expands tipping options \u2014 and it could boost barista pay - AOL.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9511820673942566,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
