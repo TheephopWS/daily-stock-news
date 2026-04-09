@@ -1,13 +1,40 @@
 {
-    "last_updated": "2026-04-08 22:04:47 UTC",
-    "total_articles": 12,
-    "bullish_articles": 4,
-    "bearish_articles": 8,
+    "last_updated": "2026-04-09 03:32:50 UTC",
+    "total_articles": 18,
+    "bullish_articles": 11,
+    "bearish_articles": 7,
     "articles": [
         {
-            "title": "Stock Market Today: Dow Loses Ground As Iran Deadline Nears; These IBD 50 Names Are Moving (Live Coverage) - Investor's Business Daily",
+            "title": "Oil prices plunge following U.S.-Iran ceasefire - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.9590442776679993,
+            "score": 0.7315182089805603,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "South Korea stocks lead gains in Asia as oil prices plunge after U.S.-Iran ceasefire deal - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7772566080093384,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Delta joins the growing list of US airlines raising checked bag fees as jet fuel costs soar - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.7072047591209412,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Dow, S&P 500 Close Mixed As Critical Iran Deadline Nears (Live Coverage) - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9599806070327759,
             "signal": "BEARISH",
             "tickers": [
                 "AAPL"
@@ -22,18 +49,44 @@
             ]
         },
         {
-            "title": "Anthropic withholds Mythos Preview model because it's hacking is too powerful - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.8474627137184143,
-            "signal": "BEARISH",
+            "title": "Japanese \"megabank\" SMBC to open global hub with 2,000 jobs in Uptown Charlotte - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.7935609221458435,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Elon Musk Asks for OpenAI\u2019s Nonprofit to Get Any Damages From His Lawsuit - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.8818938732147217,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet - arstechnica.com",
             "sentiment": "POSITIVE",
             "score": 0.7149083018302917,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "How the Iran war affects Americans' inflation expectations - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.9182811975479126,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -57,28 +110,34 @@
             ]
         },
         {
-            "title": "Jet fuel supply concerns grow as war with Iran drags on, airlines cut flights - CNBC",
+            "title": "Trump Just Promised to Bomb Iran Back to the \u2018Stone Age.\u2019 These Are 2 Stocks to Buy Now - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.9513087272644043,
+            "score": 0.787380576133728,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Why Tesla Stock (TSLA) Is Down Today \u2013 and Why One Investor Says It\u2019s Time to Cut Exposure - TipRanks",
-            "sentiment": "NEGATIVE",
-            "score": 0.9753426313400269,
-            "signal": "BEARISH",
+            "title": "Fluor Awarded Contract to Engineer and Design the America First Refining Facility in Brownsville, Texas - Fluor",
+            "sentiment": "POSITIVE",
+            "score": 0.7995297908782959,
+            "signal": "BULLISH",
             "tickers": [
-                "TSLA"
+                "AFR",
+                "FEED"
             ],
-            "primary_ticker": "TSLA",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "ticker": "AFR",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "FEED",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -101,19 +160,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "A generational buying opportunity has opened up for U.S. tech stocks, says Goldman Sachs - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9733890891075134,
-            "signal": "BEARISH",
+            "title": "Gilead pays $3.1B for Tubulis to bolster oncology ADC pipeline - Fierce Biotech",
+            "sentiment": "POSITIVE",
+            "score": 0.9170227646827698,
+            "signal": "BULLISH",
             "tickers": [
-                "GS"
+                "ADC"
             ],
-            "primary_ticker": "GS",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "GS",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "ticker": "ADC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "China Ramps Up Gold Buying as Middle East War Dents Prices - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9381520748138428,
+            "signal": "BULLISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -127,30 +203,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "Key Fed official sees possible rate hike amid higher gas prices, inflation concerns - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.7855373620986938,
-            "signal": "BULLISH",
+            "title": "Treasury yields slide as oil prices ease at end of day on Iran ceasefire hope - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9737415313720703,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "JPMorgan CEO Jamie Dimon predicts AI will cut the workweek down to 3.5 days - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.7685381770133972,
-            "signal": "BEARISH",
-            "tickers": [
-                "JPM"
-            ],
-            "primary_ticker": "JPM",
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Exclusive | BNY, Robinhood Win Contract for Running Trump Accounts - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.7597911357879639,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         }
     ]
 }
