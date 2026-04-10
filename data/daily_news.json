@@ -1,25 +1,26 @@
 {
-    "last_updated": "2026-04-10 03:45:15 UTC",
-    "total_articles": 16,
-    "bullish_articles": 6,
-    "bearish_articles": 10,
+    "last_updated": "2026-04-10 08:03:57 UTC",
+    "total_articles": 14,
+    "bullish_articles": 5,
+    "bearish_articles": 9,
     "articles": [
         {
-            "title": "Exclusive | Disney Planning Layoffs Under New CEO Josh D\u2019Amaro - WSJ",
+            "title": "US Futures Waver as Iran Says Ceasefire Violated: Markets Wrap - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9628753662109375,
+            "score": 0.9451298713684082,
             "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bay Area institution Philz Coffee to remove Pride flags from all caf\u00e9s - San Francisco Chronicle",
+            "sentiment": "NEGATIVE",
+            "score": 0.933803915977478,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Constellation Brands, U.S. maker of Modelo and Corona, withdraws 2028 guidance due to uncertainty - CNBC",
@@ -40,24 +41,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "When will prices come down for gas, air travel and strawberries? - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9401518106460571,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Top drug lobbyist to depart PhRMA at year end - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.7977866530418396,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Dwindling Bay Area-based camera company cuts nearly a quarter of its workforce - SFGATE",
             "sentiment": "NEGATIVE",
             "score": 0.9725842475891113,
@@ -67,22 +50,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "More Interest Rate Cuts Could Happen If Iran War Drags On, Fed Says - Forbes",
+            "title": "New Study Finds No Link Between Rising Electricity Rates and AI Data Centers - The Washington Stand",
             "sentiment": "POSITIVE",
-            "score": 0.9223600029945374,
+            "score": 0.7984694242477417,
             "signal": "BULLISH",
-            "tickers": [],
+            "tickers": [
+                "INTC",
+                "AI"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Analysts warn the TACO trade won\u2019t last forever after an Iran ceasefire wipes out weeks of losses in markets - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.7132404446601868,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AI",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Iran war's economic aftershocks will be felt for some time - Axios",
@@ -120,15 +108,6 @@
             ]
         },
         {
-            "title": "Delta beats on Q1 earnings, maintains guidance despite fuel spike, TSA headwinds - AOL.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9361468553543091,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "The Trump administration just gave a surprise lift to Medicare starting next year. Here\u2019s how it could impact your budget - AOL.com",
             "sentiment": "POSITIVE",
             "score": 0.8795216083526611,
@@ -150,6 +129,15 @@
             "title": "Everyone agrees AI scribes are increasing health care costs. No one agrees what to do about it - statnews.com",
             "sentiment": "NEGATIVE",
             "score": 0.8467609286308289,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil Plunges as Iran Reopens Hormuz Under Two-Week Truce - Kyiv Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9480699300765991,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
