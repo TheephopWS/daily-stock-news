@@ -1,57 +1,142 @@
 {
-    "last_updated": "2026-04-10 16:12:30 UTC",
-    "total_articles": 18,
+    "last_updated": "2026-04-10 19:17:08 UTC",
+    "total_articles": 20,
     "bullish_articles": 6,
-    "bearish_articles": 12,
+    "bearish_articles": 14,
     "articles": [
         {
-            "title": "Stock Market Today: Dow Slides; Oil Rebounds After Iran Cease-Fire Gets Off to Shaky Start \u2014 Live Updates - WSJ",
+            "title": "'Big Short' investor Michael Burry says Anthropic is 'eating Palantir's lunch' as enterprise AI spending shifts - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.7311320304870605,
+            "score": 0.9670127034187317,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 4th Quarter and Year 2025 - U.S. Bureau of Economic Analysis (BEA) (.gov)",
+            "title": "Exclusive | Sazerac Eyes Deal With Jack Daniel\u2019s Maker Brown-Forman - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9256442189216614,
+            "score": 0.7229827046394348,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon Rises Toward Key Level; CEO Says This Is 'On Fire' - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9160134792327881,
             "signal": "BULLISH",
             "tickers": [
-                "BEA",
-                "GDP"
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "US Postal Service to suspend employer payments to workers\u2019 pensions, citing cash crunch - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9542920589447021,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "'No idea what he\u2019s thinking': New policy at Philz Coffee causes outrage - SFGATE",
+            "sentiment": "NEGATIVE",
+            "score": 0.9523805379867554,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Travelers face higher costs and fewer flight options as jet fuel prices swing - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9591646790504456,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mortgage rates fall on Iran ceasefire: Mortgage and refinance interest rates today - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9704895615577698,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stocks gain for a second day on hope Iran ceasefire can be sustained: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9337635636329651,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Kia plans to launch U.S. pickup truck by 2030 - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8473665714263916,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Disney plans layoffs of as many as 1,000 employees - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9361836314201355,
+            "signal": "BEARISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Personal Income and Outlays, February 2026 - U.S. Bureau of Economic Analysis (BEA) (.gov)",
+            "sentiment": "NEGATIVE",
+            "score": 0.9739994406700134,
+            "signal": "BEARISH",
+            "tickers": [
+                "BEA"
             ],
             "primary_ticker": "BEA",
             "ticker_impacts": [
                 {
                     "ticker": "BEA",
-                    "impact": "positive",
+                    "impact": "negative",
                     "relevance": "high"
-                },
-                {
-                    "ticker": "GDP",
-                    "impact": "positive",
-                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "CoreWeave Stock (CRWV) Soars on a Massive $21B AI Deal with Meta - TipRanks",
+            "title": "CoreWeave and Meta Expand $21B AI Cloud Deal - CoreWeave",
             "sentiment": "POSITIVE",
-            "score": 0.9477722644805908,
+            "score": 0.9431325197219849,
             "signal": "BULLISH",
             "tickers": [
-                "CRWV",
                 "META"
             ],
-            "primary_ticker": "CRWV",
+            "primary_ticker": "META",
             "ticker_impacts": [
-                {
-                    "ticker": "CRWV",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "META",
                     "impact": "positive",
@@ -60,35 +145,17 @@
             ]
         },
         {
-            "title": "Oil prices jump back up near $100 a barrel on skepticism over fragile US-Iran ceasefire - AP News",
+            "title": "OpenAI Pauses Stargate UK Data Center Citing Energy Costs - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9639023542404175,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Family offices piled into oil after capital dried up. The recent rally has made for big gains - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7558278441429138,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "OpenAI halts UK stargate project amid regulatory and energy price concerns - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8646330833435059,
+            "score": 0.9265501499176025,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "INTC"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -104,18 +171,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "TikTok's top star teased a $975 million deal and then went silent. Red flags are piling up. - Business Insider",
+            "title": "Why high oil prices are good for oil companies \u2014 until they aren\u2019t - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.950645387172699,
+            "score": 0.8325799107551575,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Why high oil prices are good for oil companies \u2014 until they aren\u2019t - NPR",
+            "title": "Oil Prices Rise To $100 Per Barrel As Stocks Slow On Doubts About The U.S.-Iran Ceasefire - HuffPost",
             "sentiment": "NEGATIVE",
-            "score": 0.8325799107551575,
+            "score": 0.9641501903533936,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -131,68 +198,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bay Area institution Philz Coffee to remove Pride flags from all caf\u00e9s - San Francisco Chronicle",
-            "sentiment": "NEGATIVE",
-            "score": 0.933803915977478,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Expensive jet fuel to drive up Delta\u2019s flight cuts, passenger costs - Star Tribune",
-            "sentiment": "POSITIVE",
-            "score": 0.8885210156440735,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Goodbye, Llama? Meta launches new proprietary AI model Muse Spark \u2014 first since Superintelligence Labs' formation - VentureBeat",
-            "sentiment": "POSITIVE",
-            "score": 0.8579971194267273,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC",
-                "META"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Iran war's economic aftershocks will be felt for some time - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9493501782417297,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Texas hemp leaders file lawsuit against smokeable ban - The Texas Tribune",
             "sentiment": "NEGATIVE",
             "score": 0.8847083449363708,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The vibes are off at OpenAI - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.9563031196594238,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
