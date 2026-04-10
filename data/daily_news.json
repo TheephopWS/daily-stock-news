@@ -1,13 +1,130 @@
 {
-    "last_updated": "2026-04-10 10:32:05 UTC",
-    "total_articles": 14,
-    "bullish_articles": 5,
-    "bearish_articles": 9,
+    "last_updated": "2026-04-10 13:53:58 UTC",
+    "total_articles": 18,
+    "bullish_articles": 6,
+    "bearish_articles": 12,
     "articles": [
         {
-            "title": "US Futures Waver as Iran Says Ceasefire Violated: Markets Wrap - Bloomberg.com",
+            "title": "Stock Market Today: Dow Slides; Oil Rebounds After Iran Cease-Fire Gets Off to Shaky Start \u2014 Live Updates - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9451298713684082,
+            "score": 0.7311320304870605,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 4th Quarter and Year 2025 - U.S. Bureau of Economic Analysis (BEA) (.gov)",
+            "sentiment": "POSITIVE",
+            "score": 0.9256442189216614,
+            "signal": "BULLISH",
+            "tickers": [
+                "BEA",
+                "GDP"
+            ],
+            "primary_ticker": "BEA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BEA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GDP",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "CoreWeave Stock (CRWV) Soars on a Massive $21B AI Deal with Meta - TipRanks",
+            "sentiment": "POSITIVE",
+            "score": 0.9477722644805908,
+            "signal": "BULLISH",
+            "tickers": [
+                "CRWV",
+                "META"
+            ],
+            "primary_ticker": "CRWV",
+            "ticker_impacts": [
+                {
+                    "ticker": "CRWV",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Oil prices jump back up near $100 a barrel on skepticism over fragile US-Iran ceasefire - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9639023542404175,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Family offices piled into oil after capital dried up. The recent rally has made for big gains - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7558278441429138,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI halts UK stargate project amid regulatory and energy price concerns - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8646330833435059,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "White-collar workers are quietly rebelling against AI as 80% outright refuse adoption mandates - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.7159714102745056,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "TikTok's top star teased a $975 million deal and then went silent. Red flags are piling up. - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.950645387172699,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why high oil prices are good for oil companies \u2014 until they aren\u2019t - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.8325799107551575,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "States are struggling to meet their clean energy goals. Data centers are to blame - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9612341523170471,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,52 +140,34 @@
             "ticker_impacts": []
         },
         {
-            "title": "Constellation Brands, U.S. maker of Modelo and Corona, withdraws 2028 guidance due to uncertainty - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9692873358726501,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market Today: Dow Rallies 1,300 Points Amid Iran Ceasefire; This Chip Stock Breaks Out (Live Coverage) - Investor's Business Daily",
+            "title": "Expensive jet fuel to drive up Delta\u2019s flight cuts, passenger costs - Star Tribune",
             "sentiment": "POSITIVE",
-            "score": 0.7326581478118896,
+            "score": 0.8885210156440735,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Dwindling Bay Area-based camera company cuts nearly a quarter of its workforce - SFGATE",
-            "sentiment": "NEGATIVE",
-            "score": 0.9725842475891113,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "New Study Finds No Link Between Rising Electricity Rates and AI Data Centers - The Washington Stand",
+            "title": "Goodbye, Llama? Meta launches new proprietary AI model Muse Spark \u2014 first since Superintelligence Labs' formation - VentureBeat",
             "sentiment": "POSITIVE",
-            "score": 0.7984694242477417,
+            "score": 0.8579971194267273,
             "signal": "BULLISH",
             "tickers": [
                 "INTC",
-                "AI"
+                "META"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "INTC",
             "ticker_impacts": [
                 {
                     "ticker": "INTC",
                     "impact": "positive",
-                    "relevance": "medium"
+                    "relevance": "high"
                 },
                 {
-                    "ticker": "AI",
+                    "ticker": "META",
                     "impact": "positive",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
@@ -91,21 +190,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Cathie Wood Defies Market Trends, Buys Robinhood and Tesla Shares amid Slump - TipRanks",
-            "sentiment": "POSITIVE",
-            "score": 0.897853672504425,
-            "signal": "BULLISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "title": "The vibes are off at OpenAI - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.9563031196594238,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "The Trump administration just gave a surprise lift to Medicare starting next year. Here\u2019s how it could impact your budget - AOL.com",
@@ -121,33 +212,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.7556122541427612,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Everyone agrees AI scribes are increasing health care costs. No one agrees what to do about it - statnews.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8467609286308289,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil Plunges as Iran Reopens Hormuz Under Two-Week Truce - Kyiv Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9480699300765991,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Delta, Southwest raise checked bag fees $10 amid jet fuel price surge, joining other carriers - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9004758596420288,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
