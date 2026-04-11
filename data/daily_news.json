@@ -1,14 +1,32 @@
 {
-    "last_updated": "2026-04-11 07:32:47 UTC",
+    "last_updated": "2026-04-11 10:00:57 UTC",
     "total_articles": 20,
-    "bullish_articles": 8,
-    "bearish_articles": 12,
+    "bullish_articles": 9,
+    "bearish_articles": 11,
     "articles": [
+        {
+            "title": "US Postal Service to suspend employer pay to workers\u2019 pensions, citing cash crunch - NewsNation",
+            "sentiment": "NEGATIVE",
+            "score": 0.9421659111976624,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Stock futures little changed as traders monitor fragile ceasefire between U.S. and Iran: Live updates - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.8138434886932373,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Iran war will leave a long-term \u2018scar\u2019 on Wall Street, investors warn - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9373580813407898,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -23,18 +41,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil Opens Higher With Focus on US-Iran Ceasefire: Markets Wrap - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.8759065866470337,
-            "signal": "BULLISH",
+            "title": "Travelers face higher costs and fewer flight options as jet fuel prices swing - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9591646790504456,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Bay Area institution Philz Coffee to remove Pride flags from all caf\u00e9s - San Francisco Chronicle",
+            "title": "xAI sues Colorado over first state AI anti-discrimination law - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.933803915977478,
+            "score": 0.8788411021232605,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -45,15 +63,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9446642398834229,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Michael Burry says Anthropic is 'eating Palantir's lunch' as enterprise AI spending shifts - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9678510427474976,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -110,22 +119,27 @@
             ]
         },
         {
-            "title": "Exclusive / SpaceX bankers game plan to blunt post-IPO selling tsunami - Semafor",
+            "title": "Micron Stock (MU) Rallies 124% in Six Months \u2013 Is There More Upside Left? - TipRanks",
             "sentiment": "POSITIVE",
-            "score": 0.8705554604530334,
+            "score": 0.9518366456031799,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil Prices Hit $100 With Hormuz Closed Despite Ceasefire, But S&P 500 Diverges - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9115415811538696,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "MU",
+                "HBM"
+            ],
+            "primary_ticker": "MU",
+            "ticker_impacts": [
+                {
+                    "ticker": "MU",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "HBM",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Paramount Seals, Refines Debt Financing As It Moves Towards WBD Deal - Deadline",
@@ -137,6 +151,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Treasury Launches Cybersecurity Information Sharing Initiative for the Digital Asset Industry - U.S. Department of the Treasury (.gov)",
+            "sentiment": "POSITIVE",
+            "score": 0.7208174467086792,
+            "signal": "BULLISH",
+            "tickers": [
+                "OCCIP"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "OCCIP",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Gen Z\u2019s Use of AI Is Plateauing as Youth Feel Less Hopeful About the Tech - Gizmodo",
             "sentiment": "NEGATIVE",
             "score": 0.8968296051025391,
@@ -144,23 +175,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Disney plans layoffs of as many as 1,000 employees - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9361836314201355,
-            "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "US economy grew a sluggish 0.5% in fourth quarter, government says, downgrading previous estimate - AP News",
@@ -172,21 +186,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Personal Income and Outlays, February 2026 - U.S. Bureau of Economic Analysis (BEA) (.gov)",
+            "title": "Bay Area-based Philz Coffee to remove Pride flags, all other flags from its locations - ABC7 San Francisco",
             "sentiment": "NEGATIVE",
-            "score": 0.9739994406700134,
+            "score": 0.9483159184455872,
             "signal": "BEARISH",
-            "tickers": [
-                "BEA"
-            ],
-            "primary_ticker": "BEA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BEA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "CoreWeave and Meta Expand $21B AI Cloud Deal - CoreWeave",
@@ -206,6 +212,15 @@
             ]
         },
         {
+            "title": "China EV Exports Jump to Record as Iran Oil Shock Entices Buyers - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9424458742141724,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "White-collar workers are quietly rebelling against AI as 80% outright refuse adoption mandates - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.7159714102745056,
@@ -218,15 +233,6 @@
             "title": "States are struggling to meet their clean energy goals. Data centers are to blame - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9612341523170471,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Texas hemp leaders file lawsuit against smokeable ban - The Texas Tribune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8847083449363708,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
