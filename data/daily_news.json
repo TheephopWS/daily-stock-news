@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-04-12 07:47:57 UTC",
+    "last_updated": "2026-04-12 10:05:02 UTC",
     "total_articles": 13,
-    "bullish_articles": 2,
-    "bearish_articles": 11,
+    "bullish_articles": 1,
+    "bearish_articles": 12,
     "articles": [
         {
             "title": "Record gas price surge fuels sharp rise in U.S. inflation - Honolulu Star-Advertiser",
@@ -32,27 +32,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "FCC Router Ban Is Bad News for These Brands. Is Yours on the List? - PCMag",
+            "title": "Oil-price disconnect obscures unprecedented energy shock - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.929216206073761,
+            "score": 0.9342092871665955,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Wall Street ignores rising inflation, falling consumer confidence - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.944644570350647,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "Anthropic Agrees to Rent CoreWeave AI Capacity to Power Claude - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8775893449783325,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "Iran War Hits US Economy With More Inflation, Record-Low Sentiment - Bloomberg.com",
+            "title": "Consumer Sentiment Hits Lowest Level on Record - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9312204718589783,
+            "score": 0.9502657651901245,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -68,15 +76,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "CoreWeave Announces Multi-Year Agreement With Anthropic - CoreWeave",
-            "sentiment": "POSITIVE",
-            "score": 0.8560904860496521,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Gallup: Gen Z growing more negative toward AI - Higher Ed Dive",
             "sentiment": "NEGATIVE",
             "score": 0.9666691422462463,
@@ -86,21 +85,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dow Jones Futures: Trump, Iran Issue Threats; Nvidia Chipmaker Beats Views, CPI Inflation Due - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.7885254621505737,
-            "signal": "BULLISH",
+            "title": "EV bloodbath: US sales plunge as Tesla tightens its grip - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9709078669548035,
+            "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "TSLA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
-                    "impact": "positive",
+                    "ticker": "TSLA",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Americans to Pay $1,096 Extra at Gas Pump Due to Trump-Israel War on Iran: Markey - Common Dreams",
+            "sentiment": "NEGATIVE",
+            "score": 0.8958361744880676,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Volkswagen Shuts Down Tennessee Plant\u2019s EV Production at the Worst Possible Time - Gizmodo",
