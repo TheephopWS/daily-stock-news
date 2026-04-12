@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-04-12 15:56:35 UTC",
-    "total_articles": 18,
+    "last_updated": "2026-04-12 19:12:06 UTC",
+    "total_articles": 20,
     "bullish_articles": 4,
-    "bearish_articles": 14,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "A Panicked Race for Barrels Is Gripping the Global Oil Market - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9111880660057068,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "'The plan is working': Trump's trade chief brushes off economic fears in Rust Belt tour - Politico",
             "sentiment": "POSITIVE",
@@ -14,9 +23,36 @@
             "ticker_impacts": []
         },
         {
+            "title": "Will AI start \u2018going rogue\u2019? The chorus of warnings is getting louder. - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.7954599261283875,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "FCC Router Ban Is Bad News for These Brands. Is Yours on the List? - PCMag",
             "sentiment": "NEGATIVE",
             "score": 0.929216206073761,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Anthropic closes in on OpenAI as US business use surges - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8206966519355774,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Philz Coffee removes Pride flags, says it seeks a more 'inclusive' experience - Chicago Sun-Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9474181532859802,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,6 +68,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "US appeals court declares 158-year-old home distilling ban unconstitutional - Yahoo",
+            "sentiment": "NEGATIVE",
+            "score": 0.8897215723991394,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Judge blocks new state rules that ban sale of smokable hemp - KUT",
             "sentiment": "NEGATIVE",
             "score": 0.9079244136810303,
@@ -41,9 +86,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil-price disconnect obscures unprecedented energy shock - Axios",
+            "title": "Investors are gloomy about inflation and risk-taking ahead of Saturday\u2019s Iran talks - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9342092871665955,
+            "score": 0.9098429083824158,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -54,15 +99,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9210924506187439,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "TSMC Tops Q1 Sales Target On Strong AI Chip Demand - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9393467903137207,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -85,6 +121,15 @@
             ]
         },
         {
+            "title": "Iran War Hits US Economy With More Inflation, Record-Low Sentiment - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9312204718589783,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Federal judge extends restraining order on $6.2B merger of local TV giants Nexstar and Tegna - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.8024811148643494,
@@ -103,13 +148,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Consumer sentiment plummets to record low as Iran war jacks up inflation - CNN",
+            "title": "Apple is Closing a Unionized Store in the U.S. and the Union is 'Outraged' - MacRumors",
             "sentiment": "NEGATIVE",
-            "score": 0.9728958010673523,
+            "score": 0.9466734528541565,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Gallup: Gen Z growing more negative toward AI - Higher Ed Dive",
@@ -139,44 +192,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Americans to Pay $1,096 Extra at Gas Pump Due to Trump-Israel War on Iran: Markey - Common Dreams",
+            "title": "Kevin Warsh Fed chair confirmation plan hits snag as nomination hearing is delayed - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8958361744880676,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Volkswagen Shuts Down Tennessee Plant\u2019s EV Production at the Worst Possible Time - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.9713572263717651,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "NALC statement on USPS\u2019s temporary suspension of FERS contributions - National Association of Letter Carriers",
-            "sentiment": "NEGATIVE",
-            "score": 0.7711114287376404,
-            "signal": "BEARISH",
-            "tickers": [
-                "FERS"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "FERS",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "xAI sues Colorado over first state AI anti-discrimination law - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8788411021232605,
+            "score": 0.9439213275909424,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
