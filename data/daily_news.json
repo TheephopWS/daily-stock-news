@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-04-12 19:12:06 UTC",
-    "total_articles": 20,
+    "last_updated": "2026-04-12 21:55:07 UTC",
+    "total_articles": 17,
     "bullish_articles": 4,
-    "bearish_articles": 16,
+    "bearish_articles": 13,
     "articles": [
         {
             "title": "A Panicked Race for Barrels Is Gripping the Global Oil Market - Bloomberg.com",
@@ -23,13 +23,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Will AI start \u2018going rogue\u2019? The chorus of warnings is getting louder. - MarketWatch",
+            "title": "People Who Lose Their Job to AI Are in for a World of Pain, Goldman Sachs Report Finds - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.7954599261283875,
+            "score": 0.9368988275527954,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "FCC Router Ban Is Bad News for These Brands. Is Yours on the List? - PCMag",
@@ -62,15 +70,6 @@
             "title": "Arizona's criminal case against Kalshi was halted by a federal judge after the Trump administration stepped in - Business Insider",
             "sentiment": "NEGATIVE",
             "score": 0.9270200133323669,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US appeals court declares 158-year-old home distilling ban unconstitutional - Yahoo",
-            "sentiment": "NEGATIVE",
-            "score": 0.8897215723991394,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -121,9 +120,9 @@
             ]
         },
         {
-            "title": "Iran War Hits US Economy With More Inflation, Record-Low Sentiment - Bloomberg.com",
+            "title": "\u2018America\u2019s Not OK\u2019: Surveys Show US Wellbeing in Steep Decline Under Trump - Common Dreams",
             "sentiment": "NEGATIVE",
-            "score": 0.9312204718589783,
+            "score": 0.9750969409942627,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -178,24 +177,6 @@
             "sentiment": "POSITIVE",
             "score": 0.8887404799461365,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Frontier Pilot Slams On Brakes At LAX After Trucks Nearly Cause Catastrophic Collision - Live and Let's Fly",
-            "sentiment": "NEGATIVE",
-            "score": 0.8986689448356628,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Kevin Warsh Fed chair confirmation plan hits snag as nomination hearing is delayed - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9439213275909424,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
