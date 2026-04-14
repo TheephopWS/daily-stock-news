@@ -1,9 +1,63 @@
 {
-    "last_updated": "2026-04-13 22:06:51 UTC",
-    "total_articles": 27,
-    "bullish_articles": 8,
-    "bearish_articles": 19,
+    "last_updated": "2026-04-14 03:47:01 UTC",
+    "total_articles": 25,
+    "bullish_articles": 5,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "Oil Climbs, Asian Equities Fall as U.S.-Iran Peace Talks Collapse - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.7748212814331055,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil Surges, US Futures Drop on Hormuz Blockade: Markets Wrap - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.956459641456604,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Hawaiian fast food chain closes Kansas City area locations - FOX4KC.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9503203630447388,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Sam Altman\u2019s home targeted in second attack - The San Francisco Standard",
+            "sentiment": "NEGATIVE",
+            "score": 0.8205892443656921,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Wary Investors Eye Another Escalation in Iran War - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9600417613983154,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bond Traders Snap Back to Inflation as Higher-for-Longer Sets In - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8458537459373474,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "X says it\u2019s reducing payments to clickbait accounts - TechCrunch",
             "sentiment": "NEGATIVE",
@@ -23,10 +77,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil prices soar above $100 per barrel as hope fades of end to Iran war - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9148992896080017,
-            "signal": "BULLISH",
+            "title": "Mortgage fraud scheme: Orange County couple shares warning after nearly losing down payment - ABC7 Los Angeles",
+            "sentiment": "NEGATIVE",
+            "score": 0.9477624893188477,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -76,27 +130,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "Have President Donald Trump's Actions in Iran Done Irreparable Damage to the Stock Market? One Data Point Tells the Tale. - The Motley Fool",
+            "title": "JPMorgan\u2019s Dimon warns of brewing market storm - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.917130172252655,
+            "score": 0.9301496744155884,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Lessons learned in '70s have made the US and world economies less vulnerable to oil shocks - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9111883044242859,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Fan World of Warcraft servers face shut down as Blizzard wins Turtle WoW case - PCGamesN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9582075476646423,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -120,15 +173,6 @@
             ]
         },
         {
-            "title": "Micron Technology: I'm Buying And Not Looking Back (NASDAQ:MU) - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.8918622136116028,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Cruise companies to Alaska are avoiding a popular excursion to Tracy Arm after a massive landslide - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.85074383020401,
@@ -147,18 +191,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "\u2018A big slap in the face\u2019: San Francisco protesters rally at Philz over Pride flags - San Francisco Chronicle",
+            "title": "Average price of new cars nears $50,000 as automakers focus on big pickups and SUVs - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9267792701721191,
+            "score": 0.9725463390350342,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Average price of new cars nears $50,000 as automakers focus on big pickups and SUVs - Fortune",
+            "title": "Why Wealthy Retirees Are Draining Their 401(k) Early to Lock In a Bigger Social Security Check at 70 - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.9725463390350342,
+            "score": 0.9564045667648315,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -183,13 +227,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Japan Bets $16 Billion to Propel Startup Rapidus Into AI Chips - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9408777356147766,
-            "signal": "BULLISH",
-            "tickers": [],
+            "title": "AI Is Causing Healthcare Costs to Surge - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.9148309230804443,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "There\u2019s a Mass Rebellion Against AI in the Workplace - Futurism",
@@ -201,72 +253,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "People Who Lose Their Job to AI Are in for a World of Pain, Goldman Sachs Report Finds - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.936898946762085,
-            "signal": "BEARISH",
-            "tickers": [
-                "GS"
-            ],
-            "primary_ticker": "GS",
-            "ticker_impacts": [
-                {
-                    "ticker": "GS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "\u201cEnough is enough!\u201d Tech and business leaders feel Colorado is losing its competitive edge - The Colorado Sun",
-            "sentiment": "NEGATIVE",
-            "score": 0.9440362453460693,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "High Gas Prices Are Tempting Americans Back to EVs - WSJ",
             "sentiment": "POSITIVE",
             "score": 0.797355055809021,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Clients\u2019 barrage of AI-generated queries risks pushing up lawyers\u2019 fees - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9604116678237915,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Judge bars Arizona from regulating prediction market operators and pauses prosecution of Kalshi - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8759984970092773,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Fuel Shortages From Iran War Threaten Asia\u2019s Biggest Food Staple - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9608204364776611,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Vineyard Wind sues GE Renewables to block it from abandoning project - The New Bedford Light",
-            "sentiment": "NEGATIVE",
-            "score": 0.9511880278587341,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
