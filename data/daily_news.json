@@ -1,14 +1,92 @@
 {
-    "last_updated": "2026-04-15 19:48:28 UTC",
-    "total_articles": 26,
-    "bullish_articles": 9,
-    "bearish_articles": 17,
+    "last_updated": "2026-04-15 22:08:31 UTC",
+    "total_articles": 22,
+    "bullish_articles": 10,
+    "bearish_articles": 12,
     "articles": [
         {
-            "title": "Iconic 99-year-old convenience store chain closing 645 stores - thestreet.com",
+            "title": "Disney Layoffs Hit Marvel Studios Hard - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.9639614820480347,
+            "score": 0.9654149413108826,
             "signal": "BEARISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "S&P 500 marches higher one day after benchmark wipes out Iran war losses: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.941683828830719,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Globalstar Stock Rises on Amazon Takeover. The Impact on AST SpaceMobile and Iridium. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.8550418615341187,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Painted Tree Boutiques abruptly closes all stores - WRAL",
+            "sentiment": "NEGATIVE",
+            "score": 0.9572938680648804,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "NVIDIA Rises Even as Quantum Computing Threat Looms and Insider Selling Sparks Debate - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9526916146278381,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Prediction markets will grow to $1 trillion by 2030, Bernstein estimates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8405836820602417,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Banks see a \u2018resilient\u2019 US economy but warn of negative impacts from rising energy prices - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.7332161664962769,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -41,6 +119,32 @@
             "ticker_impacts": []
         },
         {
+            "title": "Bloom Energy Stock (BE) Surges to All-Time High. Top Analysts See More Upside following Oracle Deal - TipRanks",
+            "sentiment": "POSITIVE",
+            "score": 0.9424471259117126,
+            "signal": "BULLISH",
+            "tickers": [
+                "BE"
+            ],
+            "primary_ticker": "BE",
+            "ticker_impacts": [
+                {
+                    "ticker": "BE",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "S&P 500 jumps 2% and these 20 stocks are fueling the rally - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.901434600353241,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "We haven't had this combo of slow hiring and low unemployment in 25 years of data - Business Insider",
             "sentiment": "NEGATIVE",
             "score": 0.9686498045921326,
@@ -48,23 +152,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Layoffs Hit Disney: 1,000 Jobs Cut as Josh D\u2019Amaro Unveils Streamlining Push - The Hollywood Reporter",
-            "sentiment": "NEGATIVE",
-            "score": 0.9349294900894165,
-            "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Bessent suggests Fed should hold off on rate cuts for now amid war uncertainty - Politico",
@@ -76,6 +163,29 @@
             "ticker_impacts": []
         },
         {
+            "title": "OpenAI rips Anthropic, distances itself from Microsoft - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9549123644828796,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT",
+                "AMZN"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "US wholesale prices surged 4% last month after the war in Iran sent energy prices soaring - AP News",
             "sentiment": "POSITIVE",
             "score": 0.9220160245895386,
@@ -85,40 +195,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Race for AI-developed drugs heats up: Wegovy-maker Novo Nordisk ties up with OpenAI after rival Eli Lilly seals deal - Mint",
-            "sentiment": "POSITIVE",
-            "score": 0.8978803753852844,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market Today: Dow Rises, Nasdaq Leads On Inflation Data; Credo Makes Another Big Move (Live Coverage) - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9319108128547668,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "S&P 500 continues higher one day after benchmark wipes out Iran war losses: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9441824555397034,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why two Wall Street titans just turned bullish on U.S. stocks - MarketWatch",
+            "title": "JPMorgan Posted a Blowout Quarter, Jamie Dimon Is Already Worried - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.827290415763855,
+            "score": 0.9045692682266235,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Morning Brief: Goldman rakes it in, but issues a warning - Yahoo Finance",
@@ -138,9 +229,9 @@
             ]
         },
         {
-            "title": "Anthropic is facing a wave of user backlash over reports of performance issues with its Claude AI chatbot - Fortune",
+            "title": "2 local TV giants merged. Then a court stepped in - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9697068333625793,
+            "score": 0.7838534116744995,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -156,103 +247,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bitcoin Price Skyrockets 6% Near $75,000 as Short Liquidations Accelerate - Bitcoin Magazine",
+            "title": "Ford's CEO said Chinese carmakers entering the US would be 'devastating' - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9479753971099854,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Chevron consolidates Venezuela heavy oil position in asset swap - Chevron",
             "sentiment": "POSITIVE",
-            "score": 0.9436029195785522,
+            "score": 0.8981578350067139,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bloom Energy Stock Surges On Expanded Oracle Partnership - Bloom Energy (NYSE:BE) - Benzinga",
-            "sentiment": "POSITIVE",
-            "score": 0.9426456093788147,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FDA urges clinical trial sponsors to report the results of their studies - Fierce Biotech",
-            "sentiment": "NEGATIVE",
-            "score": 0.8825486302375793,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stanford report highlights growing disconnect between AI insiders and everyone else - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.943721354007721,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Fed's Goolsbee: Oil futures show this will be a short-run problem (why he's wrong) - investingLive",
-            "sentiment": "NEGATIVE",
-            "score": 0.8813610672950745,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "IBM folds to Trump anti-DEI push, admits no misconduct but pays $17M penalty - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.8472728729248047,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oracle Rockets 11% Higher as AI Utility Tools and Technical Buying Collide in Heavy Trading - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.7573130130767822,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AI chatbots misdiagnose in over 80% of early medical cases, study finds - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.7086971402168274,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Strait of Hormuz Crisis Exposes a Fatal Flaw in Economic Thinking - Crude Oil Prices Today | OilPrice.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.933761477470398,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Video shows moment debris from Miami Mandarin Oriental implosion smashes into nearby condo lobby - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9199155569076538,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Allogene\u2019s off-the-shelf CAR-T erases lingering lymphoma cells in early slice of data - Fierce Biotech",
-            "sentiment": "POSITIVE",
-            "score": 0.9319058060646057,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "CVX"
+            ],
+            "primary_ticker": "CVX",
+            "ticker_impacts": [
+                {
+                    "ticker": "CVX",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
