@@ -1,14 +1,92 @@
 {
-    "last_updated": "2026-04-16 10:43:59 UTC",
-    "total_articles": 20,
-    "bullish_articles": 7,
-    "bearish_articles": 13,
+    "last_updated": "2026-04-16 14:19:36 UTC",
+    "total_articles": 23,
+    "bullish_articles": 8,
+    "bearish_articles": 15,
     "articles": [
         {
             "title": "Stock futures are little changed as S&P 500 approaches its all-time high: Live updates - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9651175737380981,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Futures: 2 Titans In Buy Areas As Iran Hopes Drive Rally; What To Do - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.8147764801979065,
+            "signal": "BULLISH",
+            "tickers": [
+                "BAC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "BAC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "BofA Stock Traders Notch Record Fueled by Momentum in Markets - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9384663105010986,
+            "signal": "BULLISH",
+            "tickers": [
+                "BAC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "BAC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Snap's stock jumps 11% on plans to axe 16% of its workforce citing AI efficiencies - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8019803166389465,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Quantum stocks surge as Nvidia launches new AI models - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9269055128097534,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "If you bought a home recently, you had some of the worst timing in decades - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9460941553115845,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams - The Hacker News",
+            "sentiment": "POSITIVE",
+            "score": 0.9346158504486084,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -30,23 +108,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic Attracts Investor Offers at an $800 Billion Valuation - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7961786389350891,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "The 10 busiest airports in the world: Atlanta extends its streak, O'Hare makes big gains - The Points Guy",
@@ -75,15 +136,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Nasdaq Rises for 10th Day in a Row, Oil Slips Below $100 \u2014 Live Markets - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8159858584403992,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Chevron says Venezuelan oil imports are helping curb U.S. gas prices - CBS News",
             "sentiment": "POSITIVE",
             "score": 0.9432970881462097,
@@ -99,6 +151,38 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Amazon-Globalstar Deal Is Poised to Boost Apple\u2019s Satellite Ambitions - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9393494725227356,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN",
+                "AAPL"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "7-Eleven plans to close 645 stores in North America this year - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.892929196357727,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Iran war triggered 'most severe oil supply shock in history,' the International Energy Agency says - abcnews.com",
@@ -121,7 +205,7 @@
         {
             "title": "Disney Layoffs Hit Marvel Studios Hard - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.9443510174751282,
+            "score": 0.9654149413108826,
             "signal": "BEARISH",
             "tickers": [
                 "DIS"
@@ -136,71 +220,10 @@
             ]
         },
         {
-            "title": "Globalstar Stock Rises on Amazon Takeover. The Impact on AST SpaceMobile and Iridium. - Barron's",
+            "title": "Iran war already taking a toll on the global economy, IMF says in new forecast - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8550418615341187,
+            "score": 0.9468702077865601,
             "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "From Molotov cocktails to data center shutdowns, the AI backlash is turning revolutionary - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9117069244384766,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "A Tax Day Cash Drain Is Coming for Calm US Funding Markets - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9079412221908569,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "NVIDIA Rises Even as Quantum Computing Threat Looms and Insider Selling Sparks Debate - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9526916146278381,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "IMF says Iran war \"halted\" global economic momentum, expects hotter inflation - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.7203927636146545,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Majority secured, Carney announces gas-tax holiday - Politico",
-            "sentiment": "POSITIVE",
-            "score": 0.8276330232620239,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -232,10 +255,28 @@
             ]
         },
         {
-            "title": "US wholesale prices surged 4% last month after the war in Iran sent energy prices soaring - AP News",
+            "title": "New Social Security COLA increase prediction is out amid plan to cap benefits at $50,000 - AL.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9025811553001404,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Wholesale inflation rose in March to three year-high - CNN",
             "sentiment": "POSITIVE",
-            "score": 0.9220160245895386,
+            "score": 0.9418638944625854,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil Price Slides Below $100 as China Defies US Hormuz Blockade - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9499861001968384,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
