@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-04-16 19:41:38 UTC",
+    "last_updated": "2026-04-16 22:03:39 UTC",
     "total_articles": 17,
     "bullish_articles": 8,
     "bearish_articles": 9,
     "articles": [
         {
-            "title": "S&P 500 rises to new record as investors move past Iran conflict concerns: Live updates - CNBC",
+            "title": "Spirit Airlines could liquidate as early as this week, sources say - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9195365309715271,
+            "score": 0.9068565368652344,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Disney\u2019s Massive Layoffs Have Seemingly Hit Marvel Hard - Gizmodo",
+            "title": "Here's the severance package Disney is giving to laid-off employees - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9703485369682312,
+            "score": 0.9273422360420227,
             "signal": "BEARISH",
             "tickers": [
                 "DIS"
@@ -31,9 +31,53 @@
             ]
         },
         {
+            "title": "Goldman Sachs bond traders stumbled as Wall Street rivals thrived: 'A fire is being lit under' them - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8611769676208496,
+            "signal": "BEARISH",
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "S&P 500 hits new all-time high as investors shrug off Iran war oil price spike - NBC News",
+            "sentiment": "POSITIVE",
+            "score": 0.9047524929046631,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump threatens to fire Powell, won\u2019t halt probe of Fed renovations - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8806306719779968,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "S&P 500, Nasdaq close at record as investors price in positive Middle East developments (SP500:) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.8570842146873474,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Anti-AI groups distance themselves from violence in wake of Sam Altman attack - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9011027812957764,
+            "score": 0.9011030793190002,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -49,30 +93,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "Snap is cutting 1,000 jobs, 16% of its workforce - TechCrunch",
+            "title": "Snap Laying Off 1,000 Employees as CEO Evan Spiegel Says Company Faces \u201cCrucible Moment\u201d - The Hollywood Reporter",
             "sentiment": "NEGATIVE",
-            "score": 0.963767945766449,
+            "score": 0.9441457986831665,
             "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "\u2018This too shall pass\u2019: Investors are seeing through Iran volatility, says J.P. Morgan strategist - Fortune",
+            "sentiment": "POSITIVE",
+            "score": 0.8367371559143066,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Bank of America joins big bank peers in reporting rising profits, calls US economy 'resilient' - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9487417936325073,
-            "signal": "BULLISH",
-            "tickers": [
-                "BAC"
-            ],
-            "primary_ticker": "BAC",
-            "ticker_impacts": [
-                {
-                    "ticker": "BAC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Chip Gear Giant ASML Beats Q1 Views, Misses With Q2 Sales Outlook - Investor's Business Daily",
@@ -86,7 +130,7 @@
         {
             "title": "Walmart Unveils Modern Redesign of Great Value, Its Flagship Private Brand - Walmart",
             "sentiment": "POSITIVE",
-            "score": 0.8256358504295349,
+            "score": 0.825636088848114,
             "signal": "BULLISH",
             "tickers": [
                 "WMT"
@@ -101,6 +145,23 @@
             ]
         },
         {
+            "title": "IonQ Stock Jumps 20% after Quantum Breakthrough and DARPA Deal - TipRanks",
+            "sentiment": "POSITIVE",
+            "score": 0.9309903979301453,
+            "signal": "BULLISH",
+            "tickers": [
+                "IONQ"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "IONQ",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "If you bought a home recently, you had some of the worst timing in decades - Business Insider",
             "sentiment": "NEGATIVE",
             "score": 0.9460941553115845,
@@ -110,70 +171,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock market cautious after rally with more earnings on tap (SPX:) - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.8604246973991394,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams - The Hacker News",
             "sentiment": "POSITIVE",
-            "score": 0.9346158504486084,
+            "score": 0.934615969657898,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The 10 busiest airports in the world: Atlanta extends its streak, O'Hare makes big gains - The Points Guy",
-            "sentiment": "POSITIVE",
-            "score": 0.7867105603218079,
-            "signal": "BULLISH",
-            "tickers": [
-                "ATL"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "ATL",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Chevron says Venezuelan oil imports are helping curb U.S. gas prices - CBS News",
-            "sentiment": "POSITIVE",
-            "score": 0.9432970881462097,
-            "signal": "BULLISH",
-            "tickers": [
-                "CVX"
-            ],
-            "primary_ticker": "CVX",
-            "ticker_impacts": [
-                {
-                    "ticker": "CVX",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Iran war triggered 'most severe oil supply shock in history,' the International Energy Agency says - abcnews.com",
+            "title": "Who\u2019s in charge at the Fed after May 15? A new fight may be brewing. - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.766176700592041,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Ford CEO warns Chinese EVs would hit \u2018the heart and soul\u2019 of the US - Electrek",
-            "sentiment": "NEGATIVE",
-            "score": 0.7622687816619873,
+            "score": 0.8543860912322998,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -182,17 +191,8 @@
         {
             "title": "US wholesale prices surged 4% last month after the war in Iran sent energy prices flying - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.9220618605613708,
+            "score": 0.9220619797706604,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "New Social Security COLA increase prediction is out amid plan to cap benefits at $50,000 - AL.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9025811553001404,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
