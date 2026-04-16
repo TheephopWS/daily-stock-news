@@ -1,41 +1,76 @@
 {
-    "last_updated": "2026-04-16 16:52:35 UTC",
-    "total_articles": 22,
-    "bullish_articles": 9,
-    "bearish_articles": 13,
+    "last_updated": "2026-04-16 19:41:38 UTC",
+    "total_articles": 17,
+    "bullish_articles": 8,
+    "bearish_articles": 9,
     "articles": [
         {
-            "title": "Trump threatens to fire Powell if the Fed chair doesn't leave office on his own - CNBC",
+            "title": "S&P 500 rises to new record as investors move past Iran conflict concerns: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8482182621955872,
+            "score": 0.9195365309715271,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock futures are little changed as S&P 500 approaches its all-time high: Live updates - CNBC",
+            "title": "Disney\u2019s Massive Layoffs Have Seemingly Hit Marvel Hard - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.9651175737380981,
+            "score": 0.9703485369682312,
+            "signal": "BEARISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Anti-AI groups distance themselves from violence in wake of Sam Altman attack - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9011027812957764,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "BofA Stock Traders Notch Record Fueled by Momentum in Markets - Bloomberg.com",
+            "title": "Home decor and fashion chain closes all stores, Chapter 7 next - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9634608626365662,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Snap is cutting 1,000 jobs, 16% of its workforce - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.963767945766449,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bank of America joins big bank peers in reporting rising profits, calls US economy 'resilient' - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9384663105010986,
+            "score": 0.9487417936325073,
             "signal": "BULLISH",
             "tickers": [
                 "BAC"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "BAC",
             "ticker_impacts": [
                 {
                     "ticker": "BAC",
                     "impact": "positive",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
@@ -49,17 +84,17 @@
             "ticker_impacts": []
         },
         {
-            "title": "Quantum stocks surge as Nvidia launches new AI models - Yahoo Finance",
+            "title": "Walmart Unveils Modern Redesign of Great Value, Its Flagship Private Brand - Walmart",
             "sentiment": "POSITIVE",
-            "score": 0.9269055128097534,
+            "score": 0.8256358504295349,
             "signal": "BULLISH",
             "tickers": [
-                "NVDA"
+                "WMT"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "WMT",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "WMT",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -75,10 +110,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "IMF sees global oil shortfall this year and warns Iran war could tip world into recession - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9306821823120117,
-            "signal": "BEARISH",
+            "title": "Stock market cautious after rally with more earnings on tap (SPX:) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.8604246973991394,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -88,15 +123,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9346158504486084,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Baltimore Banner\u2019s nonprofit publisher buys the Pittsburgh Post-Gazette - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9444034695625305,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -119,15 +145,6 @@
             ]
         },
         {
-            "title": "Painted Tree Boutiques closures leave hundreds of vendors scrambling - WSMV",
-            "sentiment": "NEGATIVE",
-            "score": 0.9655940532684326,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Chevron says Venezuelan oil imports are helping curb U.S. gas prices - CBS News",
             "sentiment": "POSITIVE",
             "score": 0.9432970881462097,
@@ -145,50 +162,9 @@
             ]
         },
         {
-            "title": "Amazon-Globalstar Deal Is Poised to Boost Apple\u2019s Satellite Ambitions - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9393494725227356,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN",
-                "AAPL"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "7-Eleven plans to close 645 stores in North America this year - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.892929196357727,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Iran war triggered 'most severe oil supply shock in history,' the International Energy Agency says - abcnews.com",
             "sentiment": "NEGATIVE",
             "score": 0.766176700592041,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "As S&P 500 approaches record highs, this is what could derail the stock-market rebound - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9520525932312012,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -204,32 +180,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Disney Layoffs Hit Marvel Studios Hard - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.9654149413108826,
-            "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "A Tax Day Cash Drain Is Coming for Calm US Funding Markets - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9367064237594604,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "US wholesale prices surged 4% last month after the war in Iran sent energy prices flying - AP News",
             "sentiment": "POSITIVE",
             "score": 0.9220618605613708,
@@ -237,23 +187,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Farm Bureau Survey Reveals Real Impact of Fertilizer Availability and Price | Market Intel - American Farm Bureau Federation",
-            "sentiment": "NEGATIVE",
-            "score": 0.9552825093269348,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "New Social Security COLA increase prediction is out amid plan to cap benefits at $50,000 - AL.com",
