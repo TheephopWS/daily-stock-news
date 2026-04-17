@@ -1,31 +1,56 @@
 {
-    "last_updated": "2026-04-17 19:35:42 UTC",
-    "total_articles": 20,
-    "bullish_articles": 9,
-    "bearish_articles": 11,
+    "last_updated": "2026-04-17 22:06:22 UTC",
+    "total_articles": 22,
+    "bullish_articles": 10,
+    "bearish_articles": 12,
     "articles": [
         {
-            "title": "AP Exclusive: Europe has \u2018maybe 6 weeks of jet fuel left,\u2019 energy agency head warns - AP News",
+            "title": "Europe has 'maybe six weeks of jet fuel left', energy boss warns - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9276638031005859,
+            "score": 0.9544519186019897,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "S&P 500 and Nasdaq rise, hit fresh record highs: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.899969756603241,
-            "signal": "BULLISH",
-            "tickers": [],
+            "title": "Stock Market Today: Chips Outperform As AMD Breaks Out; Abbott Labs Hits Multiyear Low (Live Coverage) - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9534115791320801,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "White House Moves to Give US Agencies Anthropic Mythos Access - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8338899612426758,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "QVC and HSN Owner Files for Chapter 11 Bankruptcy - The Hollywood Reporter",
             "sentiment": "NEGATIVE",
-            "score": 0.9292956590652466,
+            "score": 0.9292957782745361,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -41,10 +66,53 @@
             "ticker_impacts": []
         },
         {
-            "title": "Hims & Hers stock extends gains as RFK Jr. signals FDA will consider looser restrictions on peptides - Yahoo Finance",
+            "title": "Read the memo from Disney's brand and marketing chief about why his team got hit hard by layoffs - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9134950041770935,
+            "signal": "BEARISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "The Trump Administration Has Reportedly Approached Detroit Automakers About Building Weapons - Road & Track",
             "sentiment": "POSITIVE",
-            "score": 0.7936620116233826,
+            "score": 0.7023983001708984,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Allbirds Sinks as 582% AI Surge Comes to Screeching Halt - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7956477403640747,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Charles Schwab Stock Slides In Base Despite Record Earnings Report - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9389397501945496,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -52,7 +120,7 @@
         {
             "title": "Airline CEOs urged by lawmaker to lower fares if fuel prices come down - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8540175557136536,
+            "score": 0.8540186285972595,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -68,15 +136,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "US weekly jobless claims decline as labor market remains stable - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9717660546302795,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Strong ASML, TSMC forecasts signal AI spending boom is intact - Yahoo Finance",
             "sentiment": "POSITIVE",
             "score": 0.9457747936248779,
@@ -86,9 +145,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Chip Maker TSMC Is More Bullish Than Ever on AI, Despite Iran War - WSJ",
+            "title": "Taiwan's chipmaker TSMC reports 58% jump in profit, warns about Iran war impacts - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9240656495094299,
+            "score": 0.9406530857086182,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -97,7 +156,7 @@
         {
             "title": "PepsiCo earnings beat estimates as Doritos, Lay's price cuts win back shoppers - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9515244364738464,
+            "score": 0.951524555683136,
             "signal": "BULLISH",
             "tickers": [
                 "PEP"
@@ -114,7 +173,7 @@
         {
             "title": "CNBC Daily Open: Trading the truce and the Lebanon dilemma - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7861731052398682,
+            "score": 0.7861743569374084,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -130,27 +189,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Here's the severance package Disney is giving to laid-off employees - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9273422360420227,
-            "signal": "BEARISH",
+            "title": "Eli Lilly Stock (LLY) Gets Another Buy Rating as Its Obesity Pill Hits the Market - TipRanks",
+            "sentiment": "POSITIVE",
+            "score": 0.8755212426185608,
+            "signal": "BULLISH",
             "tickers": [
-                "DIS"
+                "LLY"
             ],
-            "primary_ticker": "DIS",
+            "primary_ticker": "LLY",
             "ticker_impacts": [
                 {
-                    "ticker": "DIS",
-                    "impact": "negative",
+                    "ticker": "LLY",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Painted Tree shuts down all 60 locations, leaving Houston vendors reeling - Houston Chronicle",
-            "sentiment": "NEGATIVE",
-            "score": 0.9634451270103455,
-            "signal": "BEARISH",
+            "title": "Cattle prices soar to record highs as grilling season heats up - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9109871983528137,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -173,45 +232,36 @@
             ]
         },
         {
-            "title": "Stock market today: S&P 500, Nasdaq, Dow futures hit pause near records amid hopes for US-Iran talks - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.7942227125167847,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Jane Street Signs $6 Billion AI Cloud Agreement with CoreWeave - CoreWeave",
+            "title": "Quantum Computing Stocks Rally Again On Nvidia Software Tools - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.9057185053825378,
+            "score": 0.862372875213623,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Snap Laying Off 1,000 Employees as CEO Evan Spiegel Says Company Faces \u201cCrucible Moment\u201d - The Hollywood Reporter",
-            "sentiment": "NEGATIVE",
-            "score": 0.944145917892456,
-            "signal": "BEARISH",
             "tickers": [
-                "INTC"
+                "NVDA"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
                 }
             ]
         },
         {
             "title": "\u2018This too shall pass\u2019: Investors are seeing through Iran volatility, says J.P. Morgan strategist - Fortune",
             "sentiment": "POSITIVE",
-            "score": 0.8367369174957275,
+            "score": 0.8367371559143066,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Snap is cutting 1,000 jobs, citing AI. Read the memo to staff. - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9572389125823975,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
