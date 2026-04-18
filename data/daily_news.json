@@ -1,9 +1,36 @@
 {
-    "last_updated": "2026-04-18 19:13:26 UTC",
-    "total_articles": 26,
-    "bullish_articles": 5,
+    "last_updated": "2026-04-18 21:55:10 UTC",
+    "total_articles": 30,
+    "bullish_articles": 9,
     "bearish_articles": 21,
     "articles": [
+        {
+            "title": "White House to meet with Anthropic CEO as Mythos anxiety spreads - Politico",
+            "sentiment": "POSITIVE",
+            "score": 0.7215723991394043,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gasoline could drop below $4 in coming days - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.7720354199409485,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "There Are Signs of a Massive AI Backlash - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.888315737247467,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Another regional airline shut down overnight, all flights off - thestreet.com",
             "sentiment": "NEGATIVE",
@@ -67,10 +94,28 @@
             ]
         },
         {
-            "title": "Ford recalls nearly 1.4 million F-150 pickup trucks due to gearshift issue - CBS News",
+            "title": "Ford recalls 1.4 million F-150 pickup trucks to fix a gearshift issue - abcnews.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9608135223388672,
+            "score": 0.9693685173988342,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Social Security benefit cuts could be coming \u2014 and there\u2019s an actual date attached - NJ.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9623005986213684,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Markets Are Pivoting From Iran War. But Earnings Pose a Reality Check and 4 Other Things to Know Today. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9151171445846558,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -120,6 +165,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "UPS jet has near-miss with plane at same Kentucky airport where 14 were killed in crash as controller shouts, 'What are you doing?' - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9094830751419067,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Chinese carmaker patents voice-controlled 'in-vehicle toilet' - BBC",
             "sentiment": "NEGATIVE",
             "score": 0.7659386992454529,
@@ -164,13 +218,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Justice Department settles with IBM over alleged DEI practices - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8629158735275269,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Netflix Failed Warner Deal Strengthens Future Acquisitions - Forbes",
+            "sentiment": "POSITIVE",
+            "score": 0.9464622139930725,
+            "signal": "BULLISH",
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Chip Foundry TSMC Beats First-Quarter Targets, Guides Up - Investor's Business Daily",
@@ -208,24 +270,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "After QR Code Fiasco, Walker Cuts Ties With Daniel del Prado\u2019s Cardamom - Racket MN",
-            "sentiment": "NEGATIVE",
-            "score": 0.7228758335113525,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "More tech layoffs hit the Seattle area - The Seattle Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9694002270698547,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "You Would Be A Millionaire Today If You Invested $35,000 In This Stock One Year Ago - Forbes",
             "sentiment": "POSITIVE",
             "score": 0.7773329019546509,
@@ -235,9 +279,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Read the memo from Disney's brand and marketing chief about why his team got hit hard by layoffs - Business Insider",
+            "title": "Disney Severance Packages Revealed for 1,000 Laid Off Employees - WDW News Today",
             "sentiment": "NEGATIVE",
-            "score": 0.9134953022003174,
+            "score": 0.9637039303779602,
             "signal": "BEARISH",
             "tickers": [
                 "DIS"
@@ -252,15 +296,6 @@
             ]
         },
         {
-            "title": "American Airlines pilot forced to \"slam on the brakes\" to avoid colliding with truck at Charlotte airport - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9360288381576538,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Nuclear stocks gain on White House space nuclear power initiative - Yahoo Finance",
             "sentiment": "POSITIVE",
             "score": 0.9420737624168396,
@@ -268,6 +303,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "PepsiCo earnings beat estimates as Doritos, Lay's price cuts win back shoppers - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.951524555683136,
+            "signal": "BULLISH",
+            "tickers": [
+                "PEP"
+            ],
+            "primary_ticker": "PEP",
+            "ticker_impacts": [
+                {
+                    "ticker": "PEP",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Trump issues ultimatum to Fed chair as Bitcoin trembles at $75,000. \u2018I\u2019ll have to fire him\u2019 - dlnews.com",
