@@ -1,17 +1,43 @@
 {
-    "last_updated": "2026-04-19 03:53:40 UTC",
-    "total_articles": 24,
-    "bullish_articles": 4,
-    "bearish_articles": 20,
+    "last_updated": "2026-04-19 07:51:14 UTC",
+    "total_articles": 22,
+    "bullish_articles": 7,
+    "bearish_articles": 15,
     "articles": [
         {
-            "title": "Nexstar-Tegna Merger Frozen As Antitrust Battle Continues; CA AG Says \u201cThis Merger Is Illegal, Plain & Simple\u201d - Deadline",
+            "title": "Trump plans to ease access to psychedelics like psilocybin, ibogaine - The Washington Post",
+            "sentiment": "POSITIVE",
+            "score": 0.7205942869186401,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI loses 3 top executives as it cuts back on 'side quests' - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9326536655426025,
+            "score": 0.9685556292533875,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "QVC Group, Whose Networks Popularized Shopping On TV, Files For Chapter 11 Bankruptcy - Deadline",
+            "sentiment": "NEGATIVE",
+            "score": 0.8692575097084045,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder. - TechCrunch",
@@ -23,30 +49,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed \u2018side quests\u2019 - TechCrunch",
+            "title": "Meta layoffs: Tech giant to cut about 8,000 jobs in May, report says - San Francisco Chronicle",
             "sentiment": "NEGATIVE",
-            "score": 0.8424946665763855,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Netflix Stock Mauled As Video Streamer Faces Sluggish Growth Outlook - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9747593998908997,
+            "score": 0.9658934473991394,
             "signal": "BEARISH",
             "tickers": [
-                "NFLX"
+                "META"
             ],
-            "primary_ticker": "NFLX",
+            "primary_ticker": "META",
             "ticker_impacts": [
                 {
-                    "ticker": "NFLX",
+                    "ticker": "META",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Jet fuel supplies are lagging. What does that mean for airlines and travelers? - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9649023413658142,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Gasoline could drop below $4 in coming days - NPR",
@@ -67,24 +93,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9569268226623535,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bay Area-based Philz Coffee reversing course, adding back Pride flags to all of its locations - ABC7 San Francisco",
-            "sentiment": "NEGATIVE",
-            "score": 0.8484617471694946,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Another regional airline shut down overnight, all flights off - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.962159276008606,
@@ -94,10 +102,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Home shopping network pioneer QVC files for bankruptcy protection - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9428776502609253,
-            "signal": "BEARISH",
+            "title": "UCB to acquire Neurona Therapeutics, advancing its innovative leadership in epilepsy through regenerative science - UCB",
+            "sentiment": "POSITIVE",
+            "score": 0.8929039835929871,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -112,15 +120,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Good News for Schwab Customers Into Crypto - Newser",
-            "sentiment": "POSITIVE",
-            "score": 0.7475373148918152,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Lilly's Pill Lags Novo's In First Week; But There Are Nuances - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.7529512643814087,
@@ -128,6 +127,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Why Netflix Stock Is Tanking Friday - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9711949229240417,
+            "signal": "BEARISH",
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Ford recalls 1.4 million F-150 pickup trucks to fix a gearshift issue - abcnews.com",
@@ -183,15 +199,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Chinese carmaker patents voice-controlled 'in-vehicle toilet' - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7659372687339783,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Federal officials order flight cuts at Chicago O\u2019Hare to reduce airport delays - Politico",
             "sentiment": "NEGATIVE",
             "score": 0.968993067741394,
@@ -218,31 +225,38 @@
             ]
         },
         {
-            "title": "Walker Art Center severs ties with Daniel del Prado\u2019s restaurant Cardamom - Star Tribune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9333974123001099,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "OpenAI to Spend More Than $20 Billion on Cerebras Chips, Receive Equity Stake - The Information",
+            "sentiment": "POSITIVE",
+            "score": 0.9064801335334778,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "Stocks usually take the escalator up and the elevator down. In this latest rebound, it is happening in reverse. - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9002061486244202,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "More tech layoffs hit the Seattle area - The Seattle Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9705336689949036,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "TSMC\u2019s Results Weren\u2019t a Great Sign for Apple - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9404630661010742,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
