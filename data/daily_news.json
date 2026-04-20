@@ -1,9 +1,36 @@
 {
-    "last_updated": "2026-04-20 16:39:28 UTC",
-    "total_articles": 24,
-    "bullish_articles": 8,
-    "bearish_articles": 16,
+    "last_updated": "2026-04-20 19:38:31 UTC",
+    "total_articles": 25,
+    "bullish_articles": 7,
+    "bearish_articles": 18,
     "articles": [
+        {
+            "title": "Phoenix Sky Harbor International Airport impacted by ground stop due to low visibility - ABC15 Arizona",
+            "sentiment": "NEGATIVE",
+            "score": 0.9612078666687012,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Vercel confirms breach as hackers claim to be selling stolen data - BleepingComputer",
+            "sentiment": "NEGATIVE",
+            "score": 0.9603260159492493,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Impact of Iran war will hurt US even after conflict ends, economists warn - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9249370098114014,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Soaring jet fuel prices and shortages could threaten your European vacation - The Washington Post",
             "sentiment": "NEGATIVE",
@@ -14,22 +41,62 @@
             "ticker_impacts": []
         },
         {
-            "title": "Baby food brand HiPP recalls jars in Austria after samples test positive for rat poison - AP News",
+            "title": "57-year-old celebrity fried chicken chain down to 1 location - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9063501954078674,
+            "score": 0.937912106513977,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "How dangerous trucking companies escape their past, change names and get back on the road. - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8979321718215942,
-            "signal": "BEARISH",
+            "title": "The S&P 500 blows past 7,000 in an epic comeback rally. Here\u2019s why it can keep going. - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.8961920738220215,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Morgan Stanley issues blunt call on Netflix stock post earnings - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7746534943580627,
+            "signal": "BEARISH",
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Google, Marvell In AI Chip Talks As Nvidia Competition Heats Up - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.937771201133728,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "GOOGL"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Big Tech\u2019s $4 Trillion Boomerang Powers S&P 500 to New Heights - Bloomberg.com",
@@ -44,6 +111,24 @@
             "title": "Why Seattle renters struggle to find this coveted option - The Seattle Times",
             "sentiment": "NEGATIVE",
             "score": 0.7786310315132141,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Rat poison found in HiPP baby food jar in Austria, police say - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9173774123191833,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "For wealthy buyers, Mar-a-Lago\u2019s security perimeter is Palm Beach\u2019s hottest amenity - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8868710398674011,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -68,9 +153,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "BlackRock warns of hit to European stocks from energy crisis - Financial Times",
+            "title": "United flight from Chicago's O'Hare airport bound for New York LaGuardia diverted to Pittsburgh for 'potential security concern' - ABC7 Chicago",
             "sentiment": "NEGATIVE",
-            "score": 0.9232921600341797,
+            "score": 0.9453395009040833,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -95,28 +180,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Ranked: The Busiest U.S. Airports by Flights - Visual Capitalist",
-            "sentiment": "POSITIVE",
-            "score": 0.710856556892395,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Experimental drug doubles one-year survival in pancreatic cancer - Live Science",
             "sentiment": "POSITIVE",
             "score": 0.9446023106575012,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Berkshire shares left behind as S&P 500 rallies to record high - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9715412855148315,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -175,18 +242,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder. - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.7918065786361694,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Meta layoffs: Tech giant to cut about 8,000 jobs in May, report says - San Francisco Chronicle",
+            "title": "'8,000 Jobs'\u2014Polymarket Sees Tech Layoff Surge As Meta AI Push Bites - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.9658934473991394,
+            "score": 0.9541612863540649,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -201,44 +259,9 @@
             ]
         },
         {
-            "title": "Huge Ford F-150 Recall No Trouble to Investors, Ford Stock (NYSE:F) Jumps - TipRanks",
-            "sentiment": "NEGATIVE",
-            "score": 0.9330634474754333,
-            "signal": "BEARISH",
-            "tickers": [
-                "F"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "F",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "AACR: Merck unveils PD-1xVEGF bispecific data in NSCLC, remains tight-lipped on phase 3 plans - Fierce Biotech",
+            "title": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder. - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.740670919418335,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Satellite and drone images reveal big delays in US data center construction - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.9622003436088562,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "UCB to acquire Neurona Therapeutics, advancing its innovative leadership in epilepsy through regenerative science - UCB",
-            "sentiment": "POSITIVE",
-            "score": 0.8929039835929871,
+            "score": 0.7918065786361694,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
