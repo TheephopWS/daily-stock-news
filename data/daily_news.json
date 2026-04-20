@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-04-20 11:00:53 UTC",
-    "total_articles": 26,
-    "bullish_articles": 3,
-    "bearish_articles": 23,
+    "last_updated": "2026-04-20 14:17:37 UTC",
+    "total_articles": 21,
+    "bullish_articles": 5,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "Soaring jet fuel prices and shortages could threaten your European vacation - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9521206021308899,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Here\u2019s what the stock market might have gotten wrong about the Iran war - The Washington Post",
             "sentiment": "NEGATIVE",
@@ -18,15 +27,6 @@
             "sentiment": "POSITIVE",
             "score": 0.710856556892395,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Marvel Studios\u2019 Former Art Staff Discuss \u2018Shortsighted\u2019 Layoffs - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.81918865442276,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -50,13 +50,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Airline industry faces a shakeup as jet fuel hits hard - Axios",
+            "title": "Meta layoffs: 8,000 employees likely to be sacked in massive workforce purge on May 20 - Mint",
             "sentiment": "NEGATIVE",
-            "score": 0.9514340162277222,
+            "score": 0.9678226709365845,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Things You Told ChatGPT or Claude My Have Already Doomed You in Court - Futurism",
@@ -121,70 +129,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Airline Bankrupted by Trump\u2019s Soaring Fuel Prices Pleads for Bailout - The Daily Beast",
-            "sentiment": "NEGATIVE",
-            "score": 0.9530859589576721,
-            "signal": "BEARISH",
+            "title": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder. - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.7918065786361694,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "QVC Group, Whose Networks Popularized Shopping On TV, Files For Chapter 11 Bankruptcy - Deadline",
+            "title": "Here Are The Biggest Losers From Oil Stock Rout - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.8692575097084045,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Meta layoffs: Tech giant to cut about 8,000 jobs in May, report says - San Francisco Chronicle",
-            "sentiment": "NEGATIVE",
-            "score": 0.9658934473991394,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Controller to Small Plane: 'What Are You Doing?' - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.9280076026916504,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Ford recalling nearly 1.4 million F-150 pickup trucks over gearshift issue - NewsNation",
-            "sentiment": "NEGATIVE",
-            "score": 0.8726285696029663,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bezos Met Gala Fury Spills Underground - The Hollywood Reporter",
-            "sentiment": "NEGATIVE",
-            "score": 0.8249016404151917,
+            "score": 0.9608586430549622,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -209,6 +165,32 @@
             "ticker_impacts": []
         },
         {
+            "title": "Huge Ford F-150 Recall No Trouble to Investors, Ford Stock (NYSE:F) Jumps - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.9330634474754333,
+            "signal": "BEARISH",
+            "tickers": [
+                "F"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "F",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "AACR: Merck unveils PD-1xVEGF bispecific data in NSCLC, remains tight-lipped on phase 3 plans - Fierce Biotech",
+            "sentiment": "POSITIVE",
+            "score": 0.740670919418335,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Satellite and drone images reveal big delays in US data center construction - Ars Technica",
             "sentiment": "NEGATIVE",
             "score": 0.9622003436088562,
@@ -227,45 +209,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "UCB pays $650M+ for Neurona, marking 'strategic expansion' into regenerative medicine - Fierce Biotech",
+            "title": "UCB to acquire Neurona Therapeutics, advancing its innovative leadership in epilepsy through regenerative science - UCB",
             "sentiment": "POSITIVE",
-            "score": 0.9211406707763672,
+            "score": 0.8929039835929871,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Popular BBQ restaurant closes another location, down to just 5 restaurants - MassLive",
-            "sentiment": "NEGATIVE",
-            "score": 0.8519788980484009,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "\u2018Expect Netflix Shares to Trade Lower,\u2019 Warns Five-Star Analyst - TipRanks",
-            "sentiment": "NEGATIVE",
-            "score": 0.9674267768859863,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Social Security benefit cuts could be coming \u2014 and there\u2019s an actual date attached - NJ.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9623005986213684,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
