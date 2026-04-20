@@ -1,9 +1,45 @@
 {
-    "last_updated": "2026-04-20 19:38:31 UTC",
-    "total_articles": 25,
-    "bullish_articles": 7,
-    "bearish_articles": 18,
+    "last_updated": "2026-04-20 22:07:25 UTC",
+    "total_articles": 33,
+    "bullish_articles": 10,
+    "bearish_articles": 23,
     "articles": [
+        {
+            "title": "Oil prices rise after Iran restricts access to Strait of Hormuz and ceasefire nears expiration - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.7544657588005066,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Cloud development platform Vercel was hacked - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.7782355546951294,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The explosion of U.S. debt is wiping out the 'safety premium' of Treasury bonds, IMF warns - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8752251863479614,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Blue Origin\u2019s New Glenn put a customer satellite in the wrong orbit during its third launch - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9525051116943359,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Phoenix Sky Harbor International Airport impacted by ground stop due to low visibility - ABC15 Arizona",
             "sentiment": "NEGATIVE",
@@ -14,10 +50,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Vercel confirms breach as hackers claim to be selling stolen data - BleepingComputer",
-            "sentiment": "NEGATIVE",
-            "score": 0.9603260159492493,
-            "signal": "BEARISH",
+            "title": "US Draft Update: Major Tech Company Urges Universal National Service - Newsweek",
+            "sentiment": "POSITIVE",
+            "score": 0.9338050484657288,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -59,6 +95,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "His neighbor kept stealing gas from his backyard. His two-part revenge ended with a police arrest. - Upworthy",
+            "sentiment": "NEGATIVE",
+            "score": 0.702041745185852,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Morgan Stanley issues blunt call on Netflix stock post earnings - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.7746534943580627,
@@ -72,6 +117,32 @@
                     "ticker": "NFLX",
                     "impact": "negative",
                     "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "High Gas Prices Are Boosting EV Sales Around The World. Will The U.S. Be Left Out? - InsideEVs",
+            "sentiment": "POSITIVE",
+            "score": 0.8007141351699829,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Elon Musk bans r\u00e9sum\u00e9s and cover letters. These are the 3 bullet points he\u2019s looking for instead - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8406672477722168,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -93,6 +164,23 @@
                 },
                 {
                     "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "The Best AI Stock to Buy Now: Micron vs. Nvidia - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.8665987253189087,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -126,19 +214,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "For wealthy buyers, Mar-a-Lago\u2019s security perimeter is Palm Beach\u2019s hottest amenity - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8868710398674011,
-            "signal": "BEARISH",
+            "title": "SpaceX IPO: Which Cryptocurrencies Stand to Benefit From the Biggest IPO in History? - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.8839729428291321,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX IPO: Which Cryptocurrencies Stand to Benefit From the Biggest IPO in History? - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.8839729428291321,
-            "signal": "BULLISH",
+            "title": "She can't get payment relief on $137,000 in private student loans. It's a warning for millions. - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.94329434633255,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -175,6 +263,24 @@
             "sentiment": "NEGATIVE",
             "score": 0.9036113023757935,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Suspect stole Lego pieces, replaced them with dried pasta, Irvine police say - ABC7 Los Angeles",
+            "sentiment": "NEGATIVE",
+            "score": 0.8537968397140503,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Ranked: The Busiest U.S. Airports by Flights - Visual Capitalist",
+            "sentiment": "POSITIVE",
+            "score": 0.710856556892395,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -224,15 +330,6 @@
             ]
         },
         {
-            "title": "Tariffs alone won\u2019t save American manufacturing \u2014 here\u2019s what actually will - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.721428632736206,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Trump\u2019s War Sends Airlines Scrambling in Mass Cancellations - The Daily Beast",
             "sentiment": "NEGATIVE",
             "score": 0.9637302756309509,
@@ -257,15 +354,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder. - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.7918065786361694,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
