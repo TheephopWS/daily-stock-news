@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-04-19 21:55:41 UTC",
-    "total_articles": 30,
-    "bullish_articles": 5,
-    "bearish_articles": 25,
+    "last_updated": "2026-04-20 03:56:13 UTC",
+    "total_articles": 25,
+    "bullish_articles": 3,
+    "bearish_articles": 22,
     "articles": [
+        {
+            "title": "Iconic 42-year-old BBQ chain has closed half its restaurants - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9559314250946045,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "What consumers can do as the Iran war impacts the cost and availability of flights - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7032855153083801,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Here\u2019s what the stock market might have gotten wrong about the Iran war - The Washington Post",
             "sentiment": "NEGATIVE",
@@ -23,10 +41,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Lesson for China? Iran\u2019s low-cost 358 missile takes out million-dollar US assets - South China Morning Post",
-            "sentiment": "POSITIVE",
-            "score": 0.7075769305229187,
-            "signal": "BULLISH",
+            "title": "Marvel Studios\u2019 Former Art Staff Discuss \u2018Shortsighted\u2019 Layoffs - Gizmodo",
+            "sentiment": "NEGATIVE",
+            "score": 0.81918865442276,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -50,9 +68,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Airline industry faces a shake-up as jet fuel hits hard - Axios",
+            "title": "Things You Told ChatGPT or Claude My Have Already Doomed You in Court - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.9555245041847229,
+            "score": 0.9151872396469116,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -68,18 +86,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "'It's just scale': Local mom-and-pop car dealerships are growing or dying amid industry consolidation, rise of mega-retailers - CNBC",
+            "title": "Social Security's 2027 Cost-of-Living Adjustment (COLA) Estimate Is Getting a \"Trump Bump\" -- Here's How Much Extra You Might Receive - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.7155020236968994,
+            "score": 0.9067323207855225,
+            "signal": "BEARISH",
+            "tickers": [
+                "COLA"
+            ],
+            "primary_ticker": "COLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "COLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Economic pain from Iran war will hit poor countries hardest, officials say - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9535565972328186,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Economic pain from Iran war will hit poor countries hardest, officials say - Financial Times",
+            "title": "Tariffs alone won\u2019t save American manufacturing \u2014 here\u2019s what actually will - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9535565972328186,
+            "score": 0.721428632736206,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -121,32 +156,6 @@
             ]
         },
         {
-            "title": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder. - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.7918065786361694,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Disney just laid off the team responsible for giving the MCU its shared visual identity - AV Club",
-            "sentiment": "NEGATIVE",
-            "score": 0.8376241326332092,
-            "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Meta layoffs: Tech giant to cut about 8,000 jobs in May, report says - San Francisco Chronicle",
             "sentiment": "NEGATIVE",
             "score": 0.9658934473991394,
@@ -173,18 +182,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bezos Met Gala Fury Spills Underground - The Hollywood Reporter",
+            "title": "Here Are The Biggest Losers From Oil Stock Rout - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.8249016404151917,
+            "score": 0.9608586430549622,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Here Are The Biggest Losers From Oil Stock Rout - Investor's Business Daily",
+            "title": "Tech CEO accused of running $420M AI business scam - NewsNation",
             "sentiment": "NEGATIVE",
-            "score": 0.9608586430549622,
+            "score": 0.8903440833091736,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -217,15 +226,6 @@
             ]
         },
         {
-            "title": "Gasoline could drop below $4 in coming days - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.7720356583595276,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "There Are Signs of a Massive AI Backlash - Futurism",
             "sentiment": "NEGATIVE",
             "score": 0.8883160352706909,
@@ -253,54 +253,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bay Area-based Philz Coffee reversing course, adding back Pride flags to all of its locations - ABC7 San Francisco",
+            "title": "UPS jet has near-miss with plane at same Kentucky airport where 14 were killed in crash as controller shouts, 'What are you doing?' - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8484617471694946,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Another regional airline shut down overnight, all flights off - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.962159276008606,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FAA Cuts Chicago O\u2019Hare Flights, Ending A \u201cPointless\u201d Capacity War Between United And American - Live and Let's Fly",
-            "sentiment": "NEGATIVE",
-            "score": 0.9653088450431824,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Lilly's Pill Lags Novo's In First Week; But There Are Nuances - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.7529512643814087,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mapped: Where Affordability Got Crushed After the Pandemic - Realtor.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7135180234909058,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Older millennials are starting to act like boomers in the housing market\u2014and pulling away from the pack - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.7844442129135132,
+            "score": 0.924869179725647,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
