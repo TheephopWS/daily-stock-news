@@ -1,22 +1,57 @@
 {
-    "last_updated": "2026-04-21 03:49:42 UTC",
-    "total_articles": 30,
-    "bullish_articles": 7,
-    "bearish_articles": 23,
+    "last_updated": "2026-04-21 08:14:28 UTC",
+    "total_articles": 27,
+    "bullish_articles": 8,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "Baby food brand HiPP recalls jars in Austria after samples test positive for rat poison - AP News",
+            "title": "Dow futures fall over 350 points as Iranian war tensions escalate: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9063501954078674,
+            "score": 0.9413684010505676,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Markets shudder as Strait of Hormuz starts resembling a combat zone. 'We're prepared to subject you to disabling fire' - Fortune",
+            "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials - The Hacker News",
             "sentiment": "NEGATIVE",
-            "score": 0.9224652051925659,
+            "score": 0.9495813250541687,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Air Canada scraps key US routes as fuel costs surge amid Iran war - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9602231383323669,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Popular baby food brand hit by 'criminal act' as rat poison found in seized jar - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9489577412605286,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China keeps benchmark lending rates unchanged as economic growth revs up, Mideast risks loom - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.7825038433074951,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,15 +67,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dow futures drop 400 points as Iranian war tensions escalate: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9420984983444214,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "New York ticket wins $1 million second-place prize in Sunday\u2019s Powerball drawing - Syracuse.com",
             "sentiment": "NEGATIVE",
             "score": 0.9354562759399414,
@@ -50,18 +76,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Cloud development platform Vercel was hacked - The Verge",
+            "title": "Hedge Fund Pay Spirals Even Higher in New Trader-Poaching Strategy - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7782355546951294,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The explosion of U.S. debt is wiping out the 'safety premium' of Treasury bonds, IMF warns - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8752251863479614,
+            "score": 0.7217280864715576,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -95,19 +112,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "57-year-old celebrity fried chicken chain down to 1 location - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.937912106513977,
-            "signal": "BEARISH",
+            "title": "The S&P 500 blows past 7,000 in an epic comeback rally. Here\u2019s why it can keep going. - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.8961920738220215,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The S&P 500 blows past 7,000 in an epic comeback rally. Here\u2019s why it can keep going. - MarketWatch",
-            "sentiment": "POSITIVE",
-            "score": 0.8961920738220215,
-            "signal": "BULLISH",
+            "title": "His neighbor kept stealing gas from his backyard. His two-part revenge ended with a police arrest. - Upworthy",
+            "sentiment": "NEGATIVE",
+            "score": 0.702041745185852,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -139,40 +156,23 @@
             "ticker_impacts": []
         },
         {
-            "title": "Elon Musk bans r\u00e9sum\u00e9s and cover letters. These are the 3 bullet points he\u2019s looking for instead - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8406672477722168,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Google, Marvell In AI Chip Talks As Nvidia Competition Heats Up - Investor's Business Daily",
             "sentiment": "POSITIVE",
             "score": 0.937771201133728,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL",
-                "NVDA"
+                "NVDA",
+                "GOOGL"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -188,19 +188,27 @@
             "ticker_impacts": []
         },
         {
+            "title": "Meta to cut 8,000 jobs on 20 May with more layoffs planned for second half of 2026 - The Next Web",
+            "sentiment": "NEGATIVE",
+            "score": 0.9681683778762817,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "China Is Starting to Pull Ahead of US in AI Race - Futurism",
             "sentiment": "POSITIVE",
             "score": 0.8969533443450928,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why Seattle renters struggle to find this coveted option - The Seattle Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.7786310315132141,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -215,36 +223,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "China to Form Brokerage With $86 Billion Assets by Merging Firms - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8102419972419739,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "She can't get payment relief on $137,000 in private student loans. It's a warning for millions. - Business Insider",
             "sentiment": "NEGATIVE",
             "score": 0.94329434633255,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How the Fed chair succession saga could become a real mess - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.8728187084197998,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "United flight from Chicago's O'Hare airport bound for New York LaGuardia diverted to Pittsburgh for 'potential security concern' - ABC7 Chicago",
-            "sentiment": "NEGATIVE",
-            "score": 0.9453395009040833,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Suspect stole Lego pieces, replaced them with dried pasta, Irvine police say - ABC7 Los Angeles",
-            "sentiment": "NEGATIVE",
-            "score": 0.8537968397140503,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -269,23 +259,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta layoffs: 8,000 employees likely to be sacked in massive workforce purge on May 20 - Mint",
-            "sentiment": "NEGATIVE",
-            "score": 0.9678226709365845,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Things You Told ChatGPT or Claude My Have Already Doomed You in Court - Futurism",
             "sentiment": "NEGATIVE",
             "score": 0.9151872396469116,
@@ -304,13 +277,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump\u2019s War Sends Airlines Scrambling in Mass Cancellations - The Daily Beast",
+            "title": "Nvidia's once-tight bond with gamers is cracking over AI - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9637302756309509,
+            "score": 0.9582897424697876,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
