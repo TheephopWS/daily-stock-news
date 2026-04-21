@@ -1,22 +1,39 @@
 {
-    "last_updated": "2026-04-21 16:35:59 UTC",
-    "total_articles": 33,
-    "bullish_articles": 8,
-    "bearish_articles": 25,
+    "last_updated": "2026-04-21 19:43:53 UTC",
+    "total_articles": 30,
+    "bullish_articles": 10,
+    "bearish_articles": 20,
     "articles": [
         {
-            "title": "Stocks fall on U.S.-Iran war uncertainty, though losses kept in check: Live updates - CNBC",
+            "title": "Alarms sound in the cockpit as two Southwest jets fly dangerously close near Nashville International Airport - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9552726149559021,
+            "score": 0.9586254358291626,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "This talent CEO says laid-off tech workers are ignoring a $300K \u2018white-collar trade job\u2019 with 81K openings a year - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.934637188911438,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Blue Origin\u2019s New Glenn rocket grounded after delivering satellite to wrong orbit - The Verge",
+            "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9558854699134827,
+            "score": 0.9660747647285461,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -30,6 +47,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Car Owners Are Revolting Over Tesla\u2019s Self-Driving Promises - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.7051095366477966,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Tesla Earnings: EV Sales Gain As Cash Flows Turn Negative - Investor's Business Daily",
@@ -49,6 +83,15 @@
             ]
         },
         {
+            "title": "Saw a show through Ticketmaster? You may get a refund in D.C. - The Washington Post",
+            "sentiment": "POSITIVE",
+            "score": 0.91959148645401,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Rivian\u2019s factory hit by tornado ahead of R2 launch - TechCrunch",
             "sentiment": "NEGATIVE",
             "score": 0.9389153718948364,
@@ -58,18 +101,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bond investors propose crisis 'pause clauses' for emerging countries - Yahoo Finance",
+            "title": "How Pentagon Budget Reveal Could Boost Palantir Stock Amid AI Wave - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.8021674156188965,
+            "score": 0.891620934009552,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Another airline shuts down for summer, cancels all flights - thestreet.com",
+            "title": "Extended use of Nektar Therapeutics drug shows promise in alopecia - statnews.com",
+            "sentiment": "POSITIVE",
+            "score": 0.942184329032898,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "United Airlines pilots called in a bomb threat when they heard a mysterious beeping on the plane - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9516458511352539,
+            "score": 0.8857969641685486,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -85,39 +137,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why a $33 billion stock market buying spree is now winding down - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.8758410811424255,
-            "signal": "BEARISH",
+            "title": "Why the hidden mechanics behind the market\u2019s record run may no longer be helping stocks - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.9234253168106079,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "AI chatbots could be making you stupider - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9280211925506592,
-            "signal": "BEARISH",
+            "title": "UniCredit boss plots Commerzbank shake-up as lender continues its takeover pursuit of German rival - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9459674954414368,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Morning Coffee: Hedge fund gardening leave and the $100m+ job offer. Deutsche Bank's richest ex-trader passed over by Google - eFinancialCareers",
-            "sentiment": "NEGATIVE",
-            "score": 0.9368496537208557,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "PTO, parental leave, pensions: Even the most prized benefits are on the chopping block - Business Insider",
@@ -138,19 +173,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Data centers are expensive, unpopular \u2014 and could be a tipping point in the midterms - NPR",
+            "title": "Nike's stock is down 70% \u2014 but now there's hope that the swoosh can be cool again - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9286816120147705,
+            "score": 0.917216420173645,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Rising Real Estate Trend: 'Accidental Landlords' - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.9467933773994446,
-            "signal": "BEARISH",
+            "title": "QXO Stock Rises. The Building Products Distributor Strikes a $17 Billion Deal. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.7819954752922058,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -160,15 +195,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9363961219787598,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "IEA: Solar overtakes all energy sources in a major global first - Electrek",
-            "sentiment": "POSITIVE",
-            "score": 0.8369222283363342,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -200,18 +226,26 @@
             "ticker_impacts": []
         },
         {
+            "title": "Morgan Stanley Weighs In on Amazon Stock (AMZN) Following Globalstar Acquisition - TipRanks",
+            "sentiment": "POSITIVE",
+            "score": 0.8354190587997437,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "China keeps benchmark lending rates unchanged as economic growth revs up, Mideast risks loom - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.7825038433074951,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gold Falls as Renewed Hormuz Disruption Stokes Inflation Concern - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9177952408790588,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -239,15 +273,6 @@
             "title": "Impact of Iran war will hurt US even after conflict ends, economists warn - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9249370098114014,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "His neighbor kept stealing gas from his backyard. His two-part revenge ended with a police arrest. - Upworthy",
-            "sentiment": "NEGATIVE",
-            "score": 0.702041745185852,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -289,60 +314,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Google, Marvell In AI Chip Design Talks As Nvidia Competition Heats Up - Investor's Business Daily",
+            "title": "Kalshi, Polymarket lobby as insider trading, betting eyed by Congress - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9390867352485657,
+            "score": 0.9238190054893494,
             "signal": "BULLISH",
-            "tickers": [
-                "NVDA",
-                "GOOGL"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "SpaceX IPO: Which Cryptocurrencies Stand to Benefit From the Biggest IPO in History? - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.8839729428291321,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The race to catch KRAS, pancreatic cancer\u2019s \u2018greasy ball,\u2019 and create the most promising drug in decades - statnews.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8938782215118408,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "$3 million prize goes to duo whose research led to first sickle cell CRISPR therapy - Live Science",
-            "sentiment": "POSITIVE",
-            "score": 0.7912482023239136,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "In a rare move, Buc-ee\u2019s is closing a location - AL.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8052862286567688,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
