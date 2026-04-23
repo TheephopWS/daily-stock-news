@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-04-23 03:51:11 UTC",
-    "total_articles": 9,
+    "last_updated": "2026-04-23 08:15:49 UTC",
+    "total_articles": 12,
     "bullish_articles": 3,
-    "bearish_articles": 6,
+    "bearish_articles": 9,
     "articles": [
+        {
+            "title": "SpaceX nears deal with Cursor - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.9256539344787598,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Former Republican Rep. Devin Nunes out as Trump Media CEO - Politico",
             "sentiment": "NEGATIVE",
@@ -23,15 +32,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX obtains right to buy AI start-up Cursor for $60bn - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.7823315262794495,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "New York sues Coinbase and Gemini, seeking to halt unlicensed prediction market businesses - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.8746743202209473,
@@ -41,22 +41,53 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Dow Falls As Oil Prices Rise, Trump Extends Ceasefire; These Gold Miners Fall (Live Coverage) - Investor's Business Daily",
+            "title": "United Airlines to Reduce Capacity as Fuel Costs Soar - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9151650667190552,
+            "score": 0.9483367204666138,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "United Airlines slashes 2026 forecast as fuel costs surge - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8008531332015991,
-            "signal": "BULLISH",
-            "tickers": [],
+            "title": "Stock Market Today: SPY, QQQ Reverse Gains as Iran Calls Off Peace Talks; Trump Extends Ceasefire Deadline - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.9690894484519958,
+            "signal": "BEARISH",
+            "tickers": [
+                "QQQ",
+                "SPY"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "QQQ",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "SPY",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "How CVS And Amazon Chipped Away At Eli Lilly, Novo Nordisk Stocks - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9492748379707336,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says - Ars Technica",
@@ -71,6 +102,23 @@
                 {
                     "ticker": "AMZN",
                     "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Amazon launches GLP-1 weight loss program, promising 'fast, convenient' access - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8140857219696045,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
@@ -96,6 +144,23 @@
             "ticker_impacts": [
                 {
                     "ticker": "UBER",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Tesla (TSLA) Q1 2026 earnings preview: the growth story is dead - Electrek",
+            "sentiment": "NEGATIVE",
+            "score": 0.9447903037071228,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
                     "impact": "negative",
                     "relevance": "high"
                 }
