@@ -1,14 +1,85 @@
 {
-    "last_updated": "2026-04-23 19:46:06 UTC",
-    "total_articles": 18,
+    "last_updated": "2026-04-23 22:05:21 UTC",
+    "total_articles": 21,
     "bullish_articles": 8,
-    "bearish_articles": 10,
+    "bearish_articles": 13,
     "articles": [
         {
-            "title": "S&P 500 rises, Nasdaq hits new high after U.S. extends Iran ceasefire: Live updates - CNBC",
+            "title": "Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.7473376393318176,
+            "score": 0.9541680812835693,
             "signal": "BULLISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "SpaceX and Cursor have explored a team-up with Mistral to take on AI rivals - Business Insider",
+            "sentiment": "POSITIVE",
+            "score": 0.7795414328575134,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SOUTHWEST AIRLINES REPORTS FIRST QUARTER RESULTS, BUSINESS TRANSFORMATION INITIATIVES DELIVER MEANINGFUL MARGIN EXPANSION - southwestairlinesinvestorrelations.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9574110507965088,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Wright downplays energy price forecast after Trump rebuke - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9207660555839539,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "S&P 500, Nasdaq close at records after U.S. extends Iran ceasefire - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8047424554824829,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "ServiceNow CEO dismisses AI software threats as 'parlor tricks' as he raises forecasts - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.7411656975746155,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump Media CEO\u2019s Exit Caps a 90% Drop as MAGA Stocks Stumble - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8670859336853027,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Anthropic investigating possible breach of its Mythos AI model - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8904215693473816,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -17,51 +88,6 @@
             "title": "AbbVie Selects North Carolina for New $1.4 Billion Manufacturing Campus - AbbVie News Center",
             "sentiment": "POSITIVE",
             "score": 0.9502386450767517,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump family's crypto firm sued over alleged 'extortion' - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.894385576248169,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Devin Nunes steps down as head of Trump\u2019s struggling media company - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9331992268562317,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Airlines are cutting routes in response to high fuel prices \u2014 here\u2019s the latest - The Points Guy",
-            "sentiment": "NEGATIVE",
-            "score": 0.9387984275817871,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Iran attacks oil tankers in Hormuz, sending oil back above $100 a barrel - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9681941270828247,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Palantir Lands $300M Deal to Strengthen Farm Security - Newser",
-            "sentiment": "POSITIVE",
-            "score": 0.917137086391449,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -77,9 +103,53 @@
             "ticker_impacts": []
         },
         {
-            "title": "Iran war: Jet fuel crisis deepens as Lufthansa cuts flights - dw.com",
+            "title": "Trump family's crypto firm sued over alleged 'extortion' - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.968890368938446,
+            "score": 0.894385576248169,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Rivian R2 production has started despite tornado damage to factory - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.7607268691062927,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Boeing Trounces Estimates, FAA Sees Path To Key Certifications - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9701361060142517,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Seattle grows bitter over Starbucks expansion in Nashville - The Seattle Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9373706579208374,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Most serious cyberattacks against the UK now from Russia, Iran and China, cyber chief says - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8428182601928711,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -103,32 +173,6 @@
             ]
         },
         {
-            "title": "Boeing regains delivery lead over Airbus as revenues jump - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.7922096848487854,
-            "signal": "BULLISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "AT&T Earnings Top Views, Revenue In-Line Amid 'Convergence' Push - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9414656758308411,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Mortgage rates sink again, and homebuyers jump back in - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.9061620235443115,
@@ -138,53 +182,50 @@
             "ticker_impacts": []
         },
         {
-            "title": "New York sues Coinbase and Gemini, seeking to halt unlicensed prediction market businesses - AP News",
+            "title": "Iran war: Jet fuel crisis deepens as Lufthansa cuts flights - dw.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8746743202209473,
+            "score": 0.968890368938446,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Condom maker may raise prices because of Iran war - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9336766004562378,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.8244622945785522,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "UnitedHealth posts quarterly profit above Wall Street estimates, on track for turnaround - Yahoo Finance",
+            "title": "Deutsche Telekom, T-Mobile Would Be World\u2019s Biggest M&A Deal - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9504194259643555,
+            "score": 0.872104287147522,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Citi spells out 3 scenarios for the Strait of Hormuz \u2014 and where oil prices would go in each - CNBC",
+            "title": "Stock Market Today: SPY, QQQ Reverse Gains as Iran Calls Off Peace Talks; Trump Extends Ceasefire Deadline - TipRanks",
             "sentiment": "NEGATIVE",
-            "score": 0.9445044994354248,
+            "score": 0.9690894484519958,
+            "signal": "BEARISH",
+            "tickers": [
+                "QQQ",
+                "SPY"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "QQQ",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "SPY",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Portland woman claims Trader Joe\u2019s orange juice contained glove, fingertip - OregonLive.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7180227041244507,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
