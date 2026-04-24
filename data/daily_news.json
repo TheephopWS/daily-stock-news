@@ -1,14 +1,46 @@
 {
-    "last_updated": "2026-04-24 10:49:01 UTC",
-    "total_articles": 19,
-    "bullish_articles": 9,
-    "bearish_articles": 10,
+    "last_updated": "2026-04-24 14:12:50 UTC",
+    "total_articles": 21,
+    "bullish_articles": 7,
+    "bearish_articles": 14,
     "articles": [
         {
-            "title": "Tesla earnings rise, but AI expenses add up for Elon Musk - Axios",
-            "sentiment": "POSITIVE",
-            "score": 0.9418536424636841,
-            "signal": "BULLISH",
+            "title": "American Airlines cuts 2026 earnings projections after surge in jet fuel - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9708954095840454,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to decline as Trump says 'no time frame' for ending war; Intel results on tap; Tesla shares slip - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9720112681388855,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC",
+                "TSLA"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Stock Falls On Huge Capital Spending Plans, Elon Musk Comments - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.8943712711334229,
+            "signal": "BEARISH",
             "tickers": [
                 "TSLA"
             ],
@@ -16,15 +48,32 @@
             "ticker_impacts": [
                 {
                     "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Netflix announces $25 billion share buyback - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9268494844436646,
+            "signal": "BULLISH",
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Flurry Of Protests As WBD Shareholders Set To Vote On Paramount Merger - Deadline",
+            "title": "IBM Earnings Beat Estimates. The Stock Is Still Falling. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.8923251032829285,
+            "score": 0.9747424125671387,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -57,27 +106,9 @@
             ]
         },
         {
-            "title": "StanChart $95 Per Barrel Is The New Oil Price Equilibrium - Crude Oil Prices Today | OilPrice.com",
+            "title": "SK Hynix posts record first-quarter profit, in line with estimates as memory prices climb - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9290707111358643,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Airline company Lufthansa cuts 20,000 flights as war squeezes fuel prices and supplies - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9670580625534058,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "S&P futures are little changed following another record-setting day for benchmark: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8882618546485901,
+            "score": 0.9524207711219788,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -110,15 +141,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "ServiceNow Earnings Meet Views As Armis Deal Clouds Margin Outlook - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9734219908714294,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Stock Market Today: S&P 500, Nasdaq Score Record Highs On War Ceasefire; Tesla Shares Jump (Live Coverage) - Investor's Business Daily",
             "sentiment": "POSITIVE",
             "score": 0.7917004823684692,
@@ -136,10 +158,10 @@
             ]
         },
         {
-            "title": "IBM RELEASES FIRST-QUARTER RESULTS - IBM Newsroom",
-            "sentiment": "POSITIVE",
-            "score": 0.9550721645355225,
-            "signal": "BULLISH",
+            "title": "ServiceNow Stock Tumbles On Q1 Earnings, Company Flags Delayed Deals Due To Middle East Conflict - Benzinga",
+            "sentiment": "NEGATIVE",
+            "score": 0.9257441163063049,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -197,6 +219,32 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Iran war: Jet fuel crisis deepens as Lufthansa cuts flights - DW.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.968890368938446,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "36 S&P 500 Stocks Blew Away Tim Cook's Apple With Less Fanfare - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.7706823348999023,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Trump admin shifts course on Medicare GLP-1 coverage - Axios",
