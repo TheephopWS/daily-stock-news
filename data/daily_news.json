@@ -1,9 +1,26 @@
 {
-    "last_updated": "2026-04-24 08:26:53 UTC",
+    "last_updated": "2026-04-24 10:49:01 UTC",
     "total_articles": 19,
-    "bullish_articles": 10,
-    "bearish_articles": 9,
+    "bullish_articles": 9,
+    "bearish_articles": 10,
     "articles": [
+        {
+            "title": "Tesla earnings rise, but AI expenses add up for Elon Musk - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.9418536424636841,
+            "signal": "BULLISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Flurry Of Protests As WBD Shareholders Set To Vote On Paramount Merger - Deadline",
             "sentiment": "NEGATIVE",
@@ -23,6 +40,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Mark Zuckerberg sends shocking message to Meta employees - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7172123789787292,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "StanChart $95 Per Barrel Is The New Oil Price Equilibrium - Crude Oil Prices Today | OilPrice.com",
             "sentiment": "POSITIVE",
             "score": 0.9290707111358643,
@@ -35,15 +69,6 @@
             "title": "Airline company Lufthansa cuts 20,000 flights as war squeezes fuel prices and supplies - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9670580625534058,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US Stock Futures Decline, Brent Stays Above $100: Markets Wrap - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9670335650444031,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -94,9 +119,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tesla\u2019s revenue rises again as it prepares for more AI and robotics - The Verge",
+            "title": "Stock Market Today: S&P 500, Nasdaq Score Record Highs On War Ceasefire; Tesla Shares Jump (Live Coverage) - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.9215777516365051,
+            "score": 0.7917004823684692,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -120,10 +145,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "SOUTHWEST AIRLINES REPORTS FIRST QUARTER RESULTS, BUSINESS TRANSFORMATION INITIATIVES DELIVER MEANINGFUL MARGIN EXPANSION - southwestairlinesinvestorrelations.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9574110507965088,
-            "signal": "BULLISH",
+            "title": "Billionaire Justin Sun sues Trump family's crypto business - upi.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8744269013404846,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -169,15 +194,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9373706579208374,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mortgage rates sink again, and homebuyers jump back in - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9061620235443115,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
