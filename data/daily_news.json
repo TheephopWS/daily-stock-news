@@ -1,13 +1,67 @@
 {
-    "last_updated": "2026-04-24 14:12:50 UTC",
-    "total_articles": 21,
-    "bullish_articles": 7,
-    "bearish_articles": 14,
+    "last_updated": "2026-04-24 16:16:10 UTC",
+    "total_articles": 25,
+    "bullish_articles": 8,
+    "bearish_articles": 17,
     "articles": [
+        {
+            "title": "Stocks fall, S&P 500 and Nasdaq pull back from all-time highs: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9664252400398254,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "ServiceNow Stock Falls On Q1 Results, Outlook. Analyst Day Set For May 4. - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9733075499534607,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US weekly jobless claims increase marginally as labor market remains stable - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9026709794998169,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Lockheed Martin Retreats On Earnings Miss, Defense Demand Remains Elevated - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.8579296469688416,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "'CAR' crash: Avis Budget stock plunge reminding some on Wall Street of GameStop - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.7962926030158997,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "American Airlines cuts 2026 earnings projections after surge in jet fuel - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9708954095840454,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "When interest on national debt overtook military spending, it triggered a limit where the U.S. may 'cease to be a great power', warns Hoover historian - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8338549733161926,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -19,18 +73,18 @@
             "score": 0.9720112681388855,
             "signal": "BEARISH",
             "tickers": [
-                "INTC",
-                "TSLA"
+                "TSLA",
+                "INTC"
             ],
-            "primary_ticker": "INTC",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "TSLA",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "TSLA",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -52,6 +106,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "A historic rally for the S&P 500 is just getting started, says Wall Street veteran who called the April 2025 bottom - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.8526090383529663,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Netflix announces $25 billion share buyback - Yahoo Finance",
@@ -80,13 +143,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Anthropic has surged to a trillion-dollar valuation on secondary markets, overtaking OpenAI. - Business Insider",
-            "sentiment": "POSITIVE",
-            "score": 0.7717017531394958,
-            "signal": "BULLISH",
-            "tickers": [],
+            "title": "\u2018F\u2013k this coin\u2019: Crypto traders fall out of love with Trump\u2019s digital ventures - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.7949598431587219,
+            "signal": "BEARISH",
+            "tickers": [
+                "TRUMP"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "TRUMP",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Mark Zuckerberg sends shocking message to Meta employees - thestreet.com",
@@ -115,6 +186,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Airline company Lufthansa cuts 20,000 flights as war squeezes fuel prices and supplies - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9670580625534058,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Andreessen, Thrive Poised for Windfall From SpaceX\u2019s Cursor Bid - Bloomberg.com",
             "sentiment": "POSITIVE",
             "score": 0.7483232617378235,
@@ -130,15 +210,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Trump team backs away from gasoline price promises - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.8011786937713623,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Stock Market Today: S&P 500, Nasdaq Score Record Highs On War Ceasefire; Tesla Shares Jump (Live Coverage) - Investor's Business Daily",
@@ -158,9 +229,9 @@
             ]
         },
         {
-            "title": "ServiceNow Stock Tumbles On Q1 Earnings, Company Flags Delayed Deals Due To Middle East Conflict - Benzinga",
+            "title": "Wright downplays energy price forecast after Trump rebuke - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.9257441163063049,
+            "score": 0.9207660555839539,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -185,15 +256,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Anthropic investigating possible breach of its Mythos AI model - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8904215693473816,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "AbbVie Selects North Carolina for New $1.4 Billion Manufacturing Campus - AbbVie News Center",
             "sentiment": "POSITIVE",
             "score": 0.9502386450767517,
@@ -212,44 +274,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "UK government says 100 countries have spyware that can hack people\u2019s phones - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.7879278659820557,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Seattle grows bitter over Starbucks expansion in Nashville - The Seattle Times",
             "sentiment": "NEGATIVE",
             "score": 0.9373706579208374,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Iran war: Jet fuel crisis deepens as Lufthansa cuts flights - DW.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.968890368938446,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "36 S&P 500 Stocks Blew Away Tim Cook's Apple With Less Fanfare - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.7706823348999023,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Trump admin shifts course on Medicare GLP-1 coverage - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.8744697570800781,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
