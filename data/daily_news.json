@@ -1,32 +1,23 @@
 {
-    "last_updated": "2026-04-25 10:10:48 UTC",
-    "total_articles": 24,
-    "bullish_articles": 8,
-    "bearish_articles": 16,
+    "last_updated": "2026-04-25 13:42:38 UTC",
+    "total_articles": 27,
+    "bullish_articles": 6,
+    "bearish_articles": 21,
     "articles": [
         {
-            "title": "China\u2019s DeepSeek Launches Long-Awaited AI Model - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.7169694900512695,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Asia stocks fall as tech losses, oil surge weigh; Japan CPI in focus - Investing.com",
+            "title": "S&P 500 futures rise slightly after Trump announces 3-week extension to Israel-Lebanon ceasefire: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9617509245872498,
+            "score": 0.9737151861190796,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Intel CEO Lip Bu Tan crushed Wall Street targets on his 1-year anniversary: We are embracing our 'paranoid' roots - Fortune",
-            "sentiment": "POSITIVE",
-            "score": 0.9455224275588989,
-            "signal": "BULLISH",
+            "title": "Intel\u2019s stock extends its spectacular run \u2014 and could see its best day in four decades - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8169678449630737,
+            "signal": "BEARISH",
             "tickers": [
                 "INTC"
             ],
@@ -34,24 +25,91 @@
             "ticker_impacts": [
                 {
                     "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips - About Amazon",
+            "sentiment": "POSITIVE",
+            "score": 0.921055793762207,
+            "signal": "BULLISH",
+            "tickers": [
+                "META",
+                "AMZN"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "NTSB report describes chaos at LaGuardia Airport ahead of deadly Air Canada crash - Gothamist",
+            "title": "China\u2019s DeepSeek Launches Long-Awaited AI Model - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9317069053649902,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stocks slump globally as Trump says he is in no rush to end the war\u2014and California is running out of jet fuel - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9491114020347595,
+            "score": 0.7852250337600708,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Global stock markets are too high and set to fall, says Bank of England deputy - BBC",
+            "title": "China to Curb US Investment in Tech Companies After Meta Deal - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8778306841850281,
+            "score": 0.797343909740448,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Asia\u2019s spiraling supply shock is coming for America - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.9660578966140747,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump Faces Conservative Mutiny Over Potential $500M Spirit Airlines Bailout - NOTUS \u2014 News of the United States",
+            "sentiment": "NEGATIVE",
+            "score": 0.9410504102706909,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "NTSB report describes chaos at LaGuardia Airport ahead of deadly Air Canada crash - Gothamist",
+            "sentiment": "NEGATIVE",
+            "score": 0.9491114020347595,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -102,6 +160,23 @@
             ]
         },
         {
+            "title": "Tesla stock dives on news that it earned next to nothing on cars in Q1, and plans to spend $25 billion in CapEx anyway - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9674272537231445,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "ServiceNow Stock Has Worst Day Ever on Disappointing Sales - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9725722670555115,
@@ -120,18 +195,24 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta to lay off 8,000 as part of AI efficiency push - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.906105637550354,
-            "signal": "BEARISH",
+            "title": "Prediction: The Nasdaq Could Soar to 30,000 by 2027. These Are the Best Artificial Intelligence (AI) Growth Stocks to Own Until Then. - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.951323390007019,
+            "signal": "BULLISH",
             "tickers": [
-                "META"
+                "AI",
+                "INTC"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": "AI",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
-                    "impact": "negative",
+                    "ticker": "AI",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
@@ -144,6 +225,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Meta to Lay Off 8,000 Employees Amid Tech\u2019s AI-Driven Cuts - The Hollywood Reporter",
+            "sentiment": "NEGATIVE",
+            "score": 0.9583885073661804,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Airlines in Europe slash thousands of flights as Iran war cuts jet fuel supplies - NPR",
@@ -182,44 +280,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Brent oil tops $105 as tensions simmer in Strait of Hormuz, Israel threatens attacks - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7909505367279053,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Prediction: This Artificial Intelligence (AI) Growth Stock Will Be the Nasdaq's Best Performer by Year-End - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.9400957822799683,
-            "signal": "BULLISH",
-            "tickers": [
-                "AI",
-                "INTC",
-                "AMD"
-            ],
-            "primary_ticker": "AI",
-            "ticker_impacts": [
-                {
-                    "ticker": "AI",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "\u2018The biggest energy security threat in history\u2019: IEA chief warns 13 million barrels a day are gone with no cure in sight - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.9580808281898499,
@@ -229,10 +289,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "US Jobless Claims Edge Up to 214,000 as Layoffs Stay Limited - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7565572261810303,
-            "signal": "BULLISH",
+            "title": "IBM Stock Tumbles. Solid Quarter Can't Offset Tepid Forecast - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9567529559135437,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -242,15 +302,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9188987016677856,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "ServiceNow and IBM earnings reignite AI fears, sending software shares lower - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9684759974479675,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
