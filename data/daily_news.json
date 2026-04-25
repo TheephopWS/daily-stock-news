@@ -1,31 +1,84 @@
 {
-    "last_updated": "2026-04-24 22:06:55 UTC",
-    "total_articles": 23,
-    "bullish_articles": 9,
-    "bearish_articles": 14,
+    "last_updated": "2026-04-25 03:38:02 UTC",
+    "total_articles": 26,
+    "bullish_articles": 8,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Nike cuts 1,400 roles in second round of layoffs this year - CNBC",
+            "title": "NTSB report describes chaos at LaGuardia Airport ahead of deadly Air Canada crash - Gothamist",
             "sentiment": "NEGATIVE",
-            "score": 0.973448634147644,
+            "score": 0.9491114020347595,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stocks close lower, retreating from records as software shares slump, oil jumps - CNBC",
+            "title": "Global stock markets are too high and set to fall, says Bank of England deputy - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9721778631210327,
+            "score": 0.8778306841850281,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Intel stock soars on Q1 earnings beat, strong outlook - Yahoo Finance",
+            "title": "Stock Market Today: Dow, Nasdaq Close Lower; Software Stocks Retreat \u2014 Live Updates - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9673023819923401,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "French police probe suspected weather device tampering after odd Polymarket bet - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.9269651174545288,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Anthropic says Claude Code did get worse \u2014 but shoots down speculation it 'nerfed' the model - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9636064767837524,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nike Cuts 1,400 Jobs in Operations and Tech in Latest Round of Layoffs - WWD",
+            "sentiment": "NEGATIVE",
+            "score": 0.9737953543663025,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump says Americans should expect higher gas prices for 'a little while' - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9646046161651611,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Intel Stock: Earnings Were Strong Enough to Put Shares at Highest Level in 25 Years - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9326879978179932,
+            "score": 0.9498489499092102,
             "signal": "BULLISH",
             "tickers": [
                 "INTC"
@@ -40,9 +93,44 @@
             ]
         },
         {
-            "title": "Meta says it will cut 8,000 jobs as AI spending grows - BBC",
+            "title": "Air travel prices likely to get worse in coming weeks, Chevron CEO says - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9679599404335022,
+            "score": 0.9591073393821716,
+            "signal": "BEARISH",
+            "tickers": [
+                "CVX"
+            ],
+            "primary_ticker": "CVX",
+            "ticker_impacts": [
+                {
+                    "ticker": "CVX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Trump is swaying the market like no president has in decades, analysis shows - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8061379790306091,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Capital One lawsuit: Millions of customers could get payout after judge approves $425 million settlement - ABC7 Los Angeles",
+            "sentiment": "POSITIVE",
+            "score": 0.9469344019889832,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta to lay off 8,000 as part of AI efficiency push - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9061053395271301,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -57,116 +145,146 @@
             ]
         },
         {
-            "title": "Citadel Raises Halting NYC Expansion in Rebuke of Mamdani - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9131121635437012,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMD"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI \u2018super app\u2019 - TechCrunch",
+            "title": "Regeneron inks drug pricing deal with Trump, will offer new hearing-loss therapy for free - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8550693988800049,
+            "score": 0.8726575970649719,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "What's Going On With Microsoft Stock Today? - Benzinga",
+            "title": "Airlines in Europe slash thousands of flights as Iran war cuts jet fuel supplies - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9700440168380737,
+            "score": 0.9682891964912415,
             "signal": "BEARISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump\u2019s meme coin is down 80% since his first event promoting it. He\u2019s holding another gala for it this weekend. - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9728829264640808,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "No quick rebound from Hormuz disruption, oil execs tell Dallas Fed - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.952369749546051,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bernard Arnault Warns Middle East Conflict Could Spell \u2018Catastrophe\u2019 for World Economy - WWD",
+            "sentiment": "NEGATIVE",
+            "score": 0.9287017583847046,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Brent oil tops $105 as tensions simmer in Strait of Hormuz, Israel threatens attacks - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7909512519836426,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Why IBM\u2019s Earnings Beat Spurred a Selloff in Software Stocks - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9306161999702454,
+            "score": 0.9306160807609558,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Blue Origin Offers an Explanation for Its Embarrassing Satellite Mishap - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.9240099787712097,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Biggest stock movers Thursday: TSLA, IBM, QS, NOW, and more - Seeking Alpha",
-            "sentiment": "NEGATIVE",
-            "score": 0.9510537385940552,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign - The Hacker News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9148992896080017,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US Jobless Claims Edge Up to 214,000 as Layoffs Stay Limited - Bloomberg.com",
+            "title": "Prediction: This Artificial Intelligence (AI) Growth Stock Will Be the Nasdaq's Best Performer by Year-End - The Motley Fool",
             "sentiment": "POSITIVE",
-            "score": 0.7565573453903198,
+            "score": 0.9400957822799683,
+            "signal": "BULLISH",
+            "tickers": [
+                "AI",
+                "INTC",
+                "AMD"
+            ],
+            "primary_ticker": "AI",
+            "ticker_impacts": [
+                {
+                    "ticker": "AI",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "\u2018The biggest energy security threat in history\u2019: IEA chief warns 13 million barrels a day are gone with no cure in sight - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9580808281898499,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "New Security Breaches at Anthropic and OpenAI Proved Mark Zuckerberg Right - The Information",
+            "sentiment": "NEGATIVE",
+            "score": 0.9084680080413818,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US Jobless Claims Edge Up to 214,000 as Layoffs Stay Limited - Bloomberg",
+            "sentiment": "POSITIVE",
+            "score": 0.825217068195343,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "ServiceNow: Strong Q1, But 52-Week Lows After Hours Offer A Good Entry Point (NYSE:NOW) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.7787993550300598,
+            "signal": "BULLISH",
+            "tickers": [
+                "NOW"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NOW",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "CMS and FDA Announce RAPID Coverage Pathway to Accelerate Patient Access to Life-Changing Medical Devices - Centers for Medicare & Medicaid Services | CMS (.gov)",
             "sentiment": "POSITIVE",
-            "score": 0.9188988208770752,
+            "score": 0.9188989400863647,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Lockheed Martin Retreats On Earnings Miss, Defense Demand Remains Elevated - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.8579288721084595,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'CAR' crash: Avis Budget stock plunge reminding some on Wall Street of GameStop - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7962898015975952,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -174,7 +292,7 @@
         {
             "title": "Tesla Stock Falls On Huge Capital Spending Plans, Elon Musk Comments - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.894371509552002,
+            "score": 0.8943716883659363,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -187,101 +305,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Netflix boosts share buyback plan by $25 billion after failed Warner Bros bid - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9437640309333801,
-            "signal": "BULLISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "\u2018F\u2013k this coin\u2019: Crypto traders fall out of love with Trump\u2019s digital ventures - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.7949602603912354,
-            "signal": "BEARISH",
-            "tickers": [
-                "TRUMP"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "TRUMP",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "ServiceNow Inc (NOW) Q1 2026 Earnings Call Highlights: Strong Growth Amid Geopolitical Challenges - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9566031694412231,
-            "signal": "BULLISH",
-            "tickers": [
-                "NOW"
-            ],
-            "primary_ticker": "NOW",
-            "ticker_impacts": [
-                {
-                    "ticker": "NOW",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Airline company Lufthansa cuts 20,000 flights as war squeezes fuel prices and supplies - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9670580625534058,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Andreessen, Thrive Poised for Windfall From SpaceX\u2019s Cursor Bid - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.748324453830719,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "AbbVie Selects North Carolina for New $1.4 Billion Manufacturing Campus - AbbVie News Center",
-            "sentiment": "POSITIVE",
-            "score": 0.9502386450767517,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Rivian R2 production has started despite tornado damage to factory - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.760726809501648,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
