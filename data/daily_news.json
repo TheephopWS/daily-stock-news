@@ -1,13 +1,39 @@
 {
-    "last_updated": "2026-04-26 16:01:54 UTC",
-    "total_articles": 24,
-    "bullish_articles": 11,
+    "last_updated": "2026-04-26 19:17:29 UTC",
+    "total_articles": 23,
+    "bullish_articles": 10,
     "bearish_articles": 13,
     "articles": [
+        {
+            "title": "Elon Musk makes shocking admission about Tesla - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7744951248168945,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Trump\u2019s plan for $500 million Spirit Airlines bailout draws GOP division - The Washington Post",
             "sentiment": "NEGATIVE",
             "score": 0.8324687480926514,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "North Korean IT workers are stealing remote jobs and raking in billions\u2014and Americans are helping them do it - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.7442027926445007,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -21,6 +47,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Meta employees face a slow-swinging axe and a tough choice: hustle or job hunt - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9462418556213379,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Musk Drops Fraud Claims Against OpenAI, Altman Ahead of Trial - Bloomberg.com",
@@ -133,53 +176,13 @@
             ]
         },
         {
-            "title": "This is a \u2018come to Jesus moment\u2019: Ford CEO says American carmakers are battling a perfect storm - Fortune",
+            "title": "Restaurant Scorecard: Dead mice, ice machine violations found - WBRC",
             "sentiment": "NEGATIVE",
-            "score": 0.716158390045166,
+            "score": 0.9661694765090942,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Meta Layoffs: Is the Facebook Parent Getting Ready for Another \"Year of Efficiency\"? - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.7436028122901917,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Musk Admits Tesla (TSLA) Full Self-Driving Claims Were Lies - TipRanks",
-            "sentiment": "NEGATIVE",
-            "score": 0.939186155796051,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA",
-                "FSD"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "FSD",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Top Analysts Raise Amazon Stock (AMZN) Price Targets Ahead of Q1 Earnings - TipRanks",
@@ -234,28 +237,19 @@
             ]
         },
         {
-            "title": "A secretive AI hacking system has sparked a global scramble - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7281525135040283,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SAP Stock Soars After Earnings. AI Hope Defies Software Slump. - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9402320981025696,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "FCC Tells SpaceX, AST SpaceMobile to Stay in Their Lane With Satellite Spectrum - PCMag",
             "sentiment": "NEGATIVE",
             "score": 0.7448447346687317,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Capital One lawsuit: Millions of customers could get payout after judge approves $425 million settlement - ABC7 New York",
+            "sentiment": "POSITIVE",
+            "score": 0.9460957646369934,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -287,38 +281,13 @@
             ]
         },
         {
-            "title": "Tesla stock dives on news that it earned next to nothing on cars in Q1, and plans to spend $25 billion in CapEx anyway - Fortune",
+            "title": "The Worst Neo Robber Baron of Them All - Robert Reich | Substack",
             "sentiment": "NEGATIVE",
-            "score": 0.9674272537231445,
+            "score": 0.8631139397621155,
             "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Fact Sheet: President Donald J. Trump Announces Deal with Regeneron to Bring Most-Favored-Nation Pricing to American Patients - The White House (.gov)",
-            "sentiment": "POSITIVE",
-            "score": 0.8285191655158997,
-            "signal": "BULLISH",
-            "tickers": [
-                "MFN"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "MFN",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         }
     ]
 }
