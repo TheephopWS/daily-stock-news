@@ -1,9 +1,35 @@
 {
-    "last_updated": "2026-04-26 03:59:41 UTC",
-    "total_articles": 27,
-    "bullish_articles": 9,
-    "bearish_articles": 18,
+    "last_updated": "2026-04-26 07:58:04 UTC",
+    "total_articles": 31,
+    "bullish_articles": 12,
+    "bearish_articles": 19,
     "articles": [
+        {
+            "title": "Walmart recalls about 50,000 adjustable dumbbells after weight plates dislodge, causing injuries - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9699084162712097,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Utah medical board calls for immediate suspension of state\u2019s AI doctor experiment - statnews.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9336588382720947,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "China car giant BYD says it can thrive without US - BBC",
             "sentiment": "POSITIVE",
@@ -54,32 +80,23 @@
             ]
         },
         {
-            "title": "This is a \u2018come to Jesus moment\u2019: Ford CEO says American carmakers are battling a perfect storm - Fortune",
+            "title": "Musk Admits Tesla (TSLA) Full Self-Driving Claims Were Lies - TipRanks",
             "sentiment": "NEGATIVE",
-            "score": 0.716158390045166,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market Today: Nasdaq Eyes New Highs As Magnificent Seven Earnings Loom (Live Coverage) - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9519824981689453,
+            "score": 0.939186155796051,
             "signal": "BEARISH",
             "tickers": [
-                "AMD",
-                "INTC"
+                "TSLA",
+                "FSD"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "AMD",
+                    "ticker": "TSLA",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "FSD",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -90,6 +107,15 @@
             "sentiment": "NEGATIVE",
             "score": 0.9523271322250366,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump administration makes Fannie, Freddie change it says will benefit 'tens of millions' of Americans - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.8086959719657898,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -130,6 +156,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Judge sanctions law firm that has pursued Leon Black over Epstein ties - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.7757810950279236,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "DeepSeek-V4 arrives with near state-of-the-art intelligence at 1/6th the cost of Opus 4.7, GPT-5.5 - VentureBeat",
             "sentiment": "POSITIVE",
             "score": 0.7470805644989014,
@@ -142,23 +177,6 @@
                 {
                     "ticker": "INTC",
                     "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Meta Employees React to Pending Job Cuts: '28 Days of Hell' - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9536764025688171,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
@@ -191,9 +209,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "All Time Highs (SP500) versus All Time Lows (Consumer Sentiment) - The Big Picture - The Big Picture",
+            "title": "Capital One lawsuit: Millions of customers could get payout after judge approves $425 million settlement - ABC7 New York",
+            "sentiment": "POSITIVE",
+            "score": 0.9460957646369934,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "FDA OKs \u2018life-changing\u2019 gene therapy for hearing loss \u2014 and it\u2019s free - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.8279138207435608,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Shocking Safety Flaw Exposed After Plane Crash Killed Two - The Daily Beast",
             "sentiment": "NEGATIVE",
-            "score": 0.8045105338096619,
+            "score": 0.961355447769165,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -217,9 +253,32 @@
             ]
         },
         {
-            "title": "Meta Inks Multibillion-Dollar Deal to Use Amazon Chips for AI - Bloomberg.com",
+            "title": "Meta to cut 8,000 jobs, Microsoft offers buyouts to staff as AI spending costs hit Big Tech workers - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9614906907081604,
+            "signal": "BEARISH",
+            "tickers": [
+                "META",
+                "MSFT"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips - About Amazon",
             "sentiment": "POSITIVE",
-            "score": 0.8989912867546082,
+            "score": 0.921055793762207,
             "signal": "BULLISH",
             "tickers": [
                 "META",
@@ -243,15 +302,6 @@
             "title": "Oil Declines as Officials in Pakistan Say US-Iran Talks Expected - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9746475219726562,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "New Lawsuit Is Not Looking Good for MrBeast - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.9487568140029907,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -284,27 +334,36 @@
             ]
         },
         {
-            "title": "Asia\u2019s spiraling supply shock is coming for America - CNN",
+            "title": "Nike announces roughly 1,400 layoffs in latest round of cuts - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9660578966140747,
+            "score": 0.9694395661354065,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "NTSB report describes chaos at LaGuardia Airport ahead of deadly Air Canada crash - Gothamist",
+            "title": "Veteran loses access to Social Security funds amid credit union merger - WDBJ7",
             "sentiment": "NEGATIVE",
-            "score": 0.9491114020347595,
+            "score": 0.963756263256073,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nike Cuts 1,400 Jobs in Operations and Tech in Latest Round of Layoffs - WWD",
+            "title": "WATCH: Trump unveils deal with Regeneron to lower its drug prices for Medicaid - PBS",
+            "sentiment": "POSITIVE",
+            "score": 0.754447877407074,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump says Americans should expect higher gas prices for 'a little while' - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9737953543663025,
+            "score": 0.9646046161651611,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -326,15 +385,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Capital One lawsuit: Millions of customers could get payout after judge approves $425 million settlement - ABC7 Los Angeles",
-            "sentiment": "POSITIVE",
-            "score": 0.9469344019889832,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Stocks fall from record highs amid a software slump and rocky negotiations with Iran - Sherwood News",
