@@ -1,14 +1,23 @@
 {
-    "last_updated": "2026-04-26 13:44:51 UTC",
-    "total_articles": 27,
-    "bullish_articles": 8,
-    "bearish_articles": 19,
+    "last_updated": "2026-04-26 16:01:54 UTC",
+    "total_articles": 24,
+    "bullish_articles": 11,
+    "bearish_articles": 13,
     "articles": [
         {
             "title": "Trump\u2019s plan for $500 million Spirit Airlines bailout draws GOP division - The Washington Post",
             "sentiment": "NEGATIVE",
             "score": 0.8324687480926514,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "'Hoping to Fool the American People': In Dead of Night, GOP Sets Vote on Trump Fed Pick - Common Dreams",
+            "sentiment": "POSITIVE",
+            "score": 0.779762327671051,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -32,10 +41,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Utah medical board calls for immediate suspension of state\u2019s AI doctor experiment - statnews.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9336588382720947,
-            "signal": "BEARISH",
+            "title": "Insurers step up prior authorization reforms - The Hill",
+            "sentiment": "POSITIVE",
+            "score": 0.7504941821098328,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -133,6 +142,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Meta Layoffs: Is the Facebook Parent Getting Ready for Another \"Year of Efficiency\"? - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.7436028122901917,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Musk Admits Tesla (TSLA) Full Self-Driving Claims Were Lies - TipRanks",
             "sentiment": "NEGATIVE",
             "score": 0.939186155796051,
@@ -182,27 +208,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil analyst guarantees next few months 'will be an ongoing, absolute disaster' even if Hormuz opens - Fortune",
+            "title": "IEA says Iran war will keep the global natural gas market tight for two years - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9652023315429688,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Judge sanctions law firm that has pursued Leon Black over Epstein ties - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.7757810950279236,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "DOJ Drops Powell Probe, Smoothing Path for Warsh to Lead Fed - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8555267453193665,
+            "score": 0.9610981941223145,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -226,23 +234,6 @@
             ]
         },
         {
-            "title": "Meta Employees React to Pending Job Cuts: '28 Days of Hell' - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9536764025688171,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "A secretive AI hacking system has sparked a global scramble - The Washington Post",
             "sentiment": "NEGATIVE",
             "score": 0.7281525135040283,
@@ -256,6 +247,15 @@
             "sentiment": "POSITIVE",
             "score": 0.9402320981025696,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "FCC Tells SpaceX, AST SpaceMobile to Stay in Their Lane With Satellite Spectrum - PCMag",
+            "sentiment": "NEGATIVE",
+            "score": 0.7448447346687317,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -287,41 +287,6 @@
             ]
         },
         {
-            "title": "China to Curb US Investment in Tech Companies After Meta Deal - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.797343909740448,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "FCC throws out satellite spectrum challenges as D2D dealmaking heats up - SpaceNews",
-            "sentiment": "NEGATIVE",
-            "score": 0.8929519653320312,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump says Americans should expect higher gas prices for 'a little while' - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9646046161651611,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Tesla stock dives on news that it earned next to nothing on cars in Q1, and plans to spend $25 billion in CapEx anyway - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.9674272537231445,
@@ -339,13 +304,21 @@
             ]
         },
         {
-            "title": "Nike cuts 1,400 roles in second round of layoffs this year - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9733256101608276,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "Fact Sheet: President Donald J. Trump Announces Deal with Regeneron to Bring Most-Favored-Nation Pricing to American Patients - The White House (.gov)",
+            "sentiment": "POSITIVE",
+            "score": 0.8285191655158997,
+            "signal": "BULLISH",
+            "tickers": [
+                "MFN"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "MFN",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         }
     ]
 }
