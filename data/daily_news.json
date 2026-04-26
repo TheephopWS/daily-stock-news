@@ -1,14 +1,23 @@
 {
-    "last_updated": "2026-04-25 21:57:11 UTC",
-    "total_articles": 24,
-    "bullish_articles": 6,
+    "last_updated": "2026-04-26 03:59:41 UTC",
+    "total_articles": 27,
+    "bullish_articles": 9,
     "bearish_articles": 18,
     "articles": [
         {
-            "title": "S&P 500 rises as Intel soars, investors bet on Iran talks restarting: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9733871817588806,
-            "signal": "BEARISH",
+            "title": "China car giant BYD says it can thrive without US - BBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9374627470970154,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Intel Stock Surges 23% After Earnings, On Track for Record Close. Can AI Drive It Higher? - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9469784498214722,
+            "signal": "BULLISH",
             "tickers": [
                 "INTC"
             ],
@@ -16,27 +25,83 @@
             "ticker_impacts": [
                 {
                     "ticker": "INTC",
-                    "impact": "negative",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Google to invest up to $40B in Anthropic in cash and compute - TechCrunch",
+            "title": "Nvidia stock closes at record, pushing market cap past $5 trillion - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7642841935157776,
+            "score": 0.8633170127868652,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL"
+                "NVDA",
+                "INTC"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "This is a \u2018come to Jesus moment\u2019: Ford CEO says American carmakers are battling a perfect storm - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.716158390045166,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Nasdaq Eyes New Highs As Magnificent Seven Earnings Loom (Live Coverage) - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9519824981689453,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD",
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Eli Lilly Stock Falls. Novo Extends Lead in Weight-Loss Drug Race - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9523271322250366,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil analyst guarantees next few months 'will be an ongoing, absolute disaster' even if Hormuz opens - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9652023315429688,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "X-Energy\u2019s Shares Jump in IPO, Delivering Wins to Amazon and Ken Griffin - WSJ",
@@ -56,13 +121,30 @@
             ]
         },
         {
-            "title": "Judge sanctions law firm that has pursued Leon Black over Epstein ties - Politico",
+            "title": "Anthropic says engineering missteps were behind Claude Code\u2019s monthlong decline after weeks of user backlash - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.7757810950279236,
+            "score": 0.9692831635475159,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "DeepSeek-V4 arrives with near state-of-the-art intelligence at 1/6th the cost of Opus 4.7, GPT-5.5 - VentureBeat",
+            "sentiment": "POSITIVE",
+            "score": 0.7470805644989014,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Meta Employees React to Pending Job Cuts: '28 Days of Hell' - Business Insider",
@@ -91,6 +173,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "SAP Stock Soars After Earnings. AI Hope Defies Software Slump. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9402320981025696,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Tickets for Trump\u2019s \u2018VIP\u2019 Event Now Going at a Steep Discount - The Daily Beast",
             "sentiment": "NEGATIVE",
             "score": 0.9711200594902039,
@@ -100,35 +191,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "Intel Stock Surges 23% After Earnings, On Track for Record Close. Can AI Drive It Higher? - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9469784498214722,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Battle Of The Weight-Loss Pills Continues With A Shocking Twist - Investor's Business Daily",
+            "title": "All Time Highs (SP500) versus All Time Lows (Consumer Sentiment) - The Big Picture - The Big Picture",
             "sentiment": "NEGATIVE",
-            "score": 0.9692379236221313,
+            "score": 0.8045105338096619,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips - About Amazon",
+            "title": "Google Conference \u2018Further Proves that Demand Is Not Just Anthropic and OpenAI\u2019 - TipRanks",
             "sentiment": "POSITIVE",
-            "score": 0.921055793762207,
+            "score": 0.9144685864448547,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Meta Inks Multibillion-Dollar Deal to Use Amazon Chips for AI - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8989912867546082,
             "signal": "BULLISH",
             "tickers": [
                 "META",
@@ -152,6 +243,15 @@
             "title": "Oil Declines as Officials in Pakistan Say US-Iran Talks Expected - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9746475219726562,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "New Lawsuit Is Not Looking Good for MrBeast - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.9487568140029907,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -182,32 +282,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Porsche is selling its Bugatti Rimac stake and walking away from Rimac - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9598486423492432,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "What to know if your flight is canceled amid rising jet fuel costs - ABC News - Breaking News, Latest News and Videos",
-            "sentiment": "NEGATIVE",
-            "score": 0.9536427855491638,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Asia\u2019s spiraling supply shock is coming for America - CNN",
@@ -254,29 +328,6 @@
             ]
         },
         {
-            "title": "Stock Market Today: Dow Falls As Iran Tensions Flare, Meta Slammed; Utility Breaks Out Again (Live Coverage) - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9670631885528564,
-            "signal": "BEARISH",
-            "tickers": [
-                "META",
-                "TSLA"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Capital One lawsuit: Millions of customers could get payout after judge approves $425 million settlement - ABC7 Los Angeles",
             "sentiment": "POSITIVE",
             "score": 0.9469344019889832,
@@ -286,28 +337,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Airlines in Europe slash thousands of flights as Iran war cuts jet fuel supplies - NPR",
+            "title": "Stocks fall from record highs amid a software slump and rocky negotiations with Iran - Sherwood News",
             "sentiment": "NEGATIVE",
-            "score": 0.9682891964912415,
+            "score": 0.9688658118247986,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bernard Arnault Warns Middle East Conflict Could Spell \u2018Catastrophe\u2019 for World Economy - WWD",
-            "sentiment": "NEGATIVE",
-            "score": 0.9287017583847046,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "CMS and FDA Announce RAPID Coverage Pathway to Accelerate Patient Access to Life-Changing Medical Devices - Centers for Medicare & Medicaid Services | CMS (.gov)",
-            "sentiment": "POSITIVE",
-            "score": 0.9188987016677856,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
