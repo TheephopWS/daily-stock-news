@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-04-27 14:31:36 UTC",
-    "total_articles": 30,
-    "bullish_articles": 11,
-    "bearish_articles": 19,
+    "last_updated": "2026-04-27 17:00:21 UTC",
+    "total_articles": 27,
+    "bullish_articles": 7,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "Freezing dormant BTC would trigger worst single day repricing in bitcoin\u2019s history, says maximalist - CoinDesk",
+            "sentiment": "NEGATIVE",
+            "score": 0.9314517378807068,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Americans\u2019 electricity was shut off 13 million times in a year, data shows - The Washington Post",
             "sentiment": "NEGATIVE",
@@ -12,6 +21,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Here\u2019s why companies like Microsoft are offering voluntary buyouts instead of laying off workers - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8677356839179993,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "American Express, Chase set a new precedent for credit card fees - thestreet.com",
@@ -23,18 +49,43 @@
             "ticker_impacts": []
         },
         {
+            "title": "NVIDIA Beats Everyone To DeepSeek V4 With Day-0 Blackwell Support, Pushing 3,500 Tokens Per Second On 1.6T Models - Wccftech",
+            "sentiment": "POSITIVE",
+            "score": 0.8338080048561096,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "I thought I'd retire from Intel. Then I got laid off in my 60s \u2014 and I'm still struggling to find a job. - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.8768364191055298,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "SpaceX Becoming a Publicly Traded Company May Rob Elon Musk of a Cool Source of Easy Cash - Gizmodo",
             "sentiment": "NEGATIVE",
             "score": 0.8417753577232361,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Wizz Air And airBaltic Might Not Survive The Winter, Says Ryanair CEO - Simple Flying",
-            "sentiment": "NEGATIVE",
-            "score": 0.9693114161491394,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -69,14 +120,14 @@
             "score": 0.9180110692977905,
             "signal": "BULLISH",
             "tickers": [
-                "AMZN",
+                "MSFT",
                 "GOOGL",
-                "MSFT"
+                "AMZN"
             ],
-            "primary_ticker": "AMZN",
+            "primary_ticker": "MSFT",
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "high"
                 },
@@ -86,7 +137,7 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "MSFT",
+                    "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -102,9 +153,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Sam Altman apologises after OpenAI chose not to report ChatGPT user who carried out Tumbler Ridge school shooting - The Next Web",
+            "title": "What to know if your flight is canceled as jet fuel costs rise - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.9142290353775024,
+            "score": 0.8344769477844238,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -116,19 +167,19 @@
             "score": 0.736920952796936,
             "signal": "BULLISH",
             "tickers": [
-                "AMZN",
                 "AMD",
+                "AMZN",
                 "XE"
             ],
-            "primary_ticker": "AMZN",
+            "primary_ticker": "AMD",
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
+                    "ticker": "AMD",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMD",
+                    "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "high"
                 },
@@ -149,15 +200,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why Cohere is merging with Aleph Alpha - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.7175394892692566,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Lockheed Martin CEO sends strong 2-word message on Middle East - thestreet.com",
             "sentiment": "POSITIVE",
             "score": 0.9002209305763245,
@@ -167,9 +209,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Elon Musk makes shocking admission about Tesla - thestreet.com",
+            "title": "He Paid $8K Extra for a Self-Driving Tesla, Is Suing - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.7744951248168945,
+            "score": 0.9316319823265076,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -219,6 +261,41 @@
             ]
         },
         {
+            "title": "Amazon-Backed X-Energy\u2019s IPO Batters Oklo, NuScale Power (SMR) Stocks - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.9689388871192932,
+            "signal": "BEARISH",
+            "tickers": [
+                "SMR",
+                "AMZN",
+                "XE",
+                "OKLO"
+            ],
+            "primary_ticker": "SMR",
+            "ticker_impacts": [
+                {
+                    "ticker": "SMR",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "XE",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "OKLO",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Musk Drops Fraud Claims Against OpenAI, Altman Ahead of Trial - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9323000907897949,
@@ -228,44 +305,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Ahead of Q1 Earnings on April 29, Let\u2019s Look at Who Owns Alphabet Stock (GOOGL) - TipRanks",
-            "sentiment": "POSITIVE",
-            "score": 0.9321612119674683,
-            "signal": "BULLISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "\u2018Shot across the bow\u2019: How Washington plans to take on prediction markets - Politico",
             "sentiment": "NEGATIVE",
             "score": 0.7560126781463623,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Insurers step up prior authorization reforms - The Hill",
-            "sentiment": "POSITIVE",
-            "score": 0.7504941821098328,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Utah medical board calls for immediate suspension of state\u2019s AI doctor experiment - statnews.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9336588382720947,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -295,29 +337,6 @@
             ]
         },
         {
-            "title": "Firestarter malware survives Cisco firewall updates, security patches - BleepingComputer",
-            "sentiment": "NEGATIVE",
-            "score": 0.9257441163063049,
-            "signal": "BEARISH",
-            "tickers": [
-                "FTD",
-                "ASA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "FTD",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "ASA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Did Mamdani\u2019s 'tax the rich' video outside a billionaire's NYC penthouse cross a line? - Gothamist",
             "sentiment": "NEGATIVE",
             "score": 0.8059953451156616,
@@ -333,15 +352,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "X-energy stock pops 27% on first day of trading following upsized IPO - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.9306291937828064,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Markets News, April 24, 2026: Nasdaq, S&P 500 Hit Records as Intel Soars; Oil Falls on US-Iran Talks; DOJ Drops Powell Probe - Investopedia",
@@ -386,23 +396,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "DeepSeek-V4 arrives with near state-of-the-art intelligence at 1/6th the cost of Opus 4.7, GPT-5.5 - VentureBeat",
-            "sentiment": "POSITIVE",
-            "score": 0.7470805644989014,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
