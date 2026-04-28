@@ -1,32 +1,98 @@
 {
-    "last_updated": "2026-04-28 17:06:14 UTC",
-    "total_articles": 20,
-    "bullish_articles": 9,
+    "last_updated": "2026-04-28 20:00:22 UTC",
+    "total_articles": 21,
+    "bullish_articles": 10,
     "bearish_articles": 11,
     "articles": [
         {
-            "title": "Shell Agrees to Buy Canada\u2019s Arc Resources for $13.6 Billion - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8958016037940979,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Verizon Rises On Earnings Beat, Surprise Subscriber Gain - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.8931264281272888,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "S&P 500 futures edge lower as Iran peace talks stall, oil rises: Live updates - CNBC",
+            "title": "Google workers petition CEO to refuse classified AI work with Pentagon - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9277566075325012,
+            "score": 0.9249101877212524,
             "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.871293306350708,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT",
+                "AMZN"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Domino's Pizza stock falls on disappointing sales \u2014 and CEO thinks more chains will follow - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9741560816764832,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AI, chip stocks fall ahead of Big Tech earnings, Iran war developments - Seeking Alpha",
+            "sentiment": "NEGATIVE",
+            "score": 0.9653650522232056,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018Capitalism works because the losers die\u2019: Kevin O\u2019Leary says it\u2019s a \u2018really bad idea\u2019 for the federal government to bail out Spirit Airlines - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8980152010917664,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "John Ternus says Apple has \u2018so much\u2019 opportunity to expand services - 9to5Mac",
+            "sentiment": "POSITIVE",
+            "score": 0.9338884353637695,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Oruka\u2019s psoriasis data hailed as \u2018outright win over Skyrizi,\u2019 spurring big blockbuster forecasts - Fierce Biotech",
+            "sentiment": "POSITIVE",
+            "score": 0.8926047086715698,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -34,24 +100,30 @@
         {
             "title": "See the Corporate Layoffs So Far in 2026 - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8991031646728516,
+            "score": 0.9745402932167053,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The next chapter of the Microsoft\u2013OpenAI partnership - OpenAI",
+            "title": "Intel\u2019s CPU Comeback Lifts All Boats \u2014 Can AMD and ARM Ride the Same AI Wave? - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9157937169075012,
+            "score": 0.9135125875473022,
             "signal": "BULLISH",
             "tickers": [
-                "MSFT"
+                "INTC",
+                "AMD"
             ],
-            "primary_ticker": "MSFT",
+            "primary_ticker": "INTC",
             "ticker_impacts": [
                 {
-                    "ticker": "MSFT",
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -67,19 +139,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "How A Small Biotech Name Just Rattled AbbVie's $18 Billion Franchise - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.8184149861335754,
-            "signal": "BEARISH",
+            "title": "Shell announces agreement to acquire Canadian energy company, ARC Resources Ltd (\u201cARC\u201d). - Shell Global",
+            "sentiment": "POSITIVE",
+            "score": 0.7901183366775513,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Taiwan court sentences ex-Tokyo Electron staff to 10 years in TSMC trade secrets case - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8800709843635559,
-            "signal": "BEARISH",
+            "title": "Thermo Fisher Scientific Signs Agreement to Sell its Microbiology Business to Astorg - Thermo Fisher Scientific",
+            "sentiment": "POSITIVE",
+            "score": 0.8011936545372009,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -87,42 +159,16 @@
         {
             "title": "Veradermics\u2019 hair loss drug succeeds in late-stage trial | STAT - statnews.com",
             "sentiment": "POSITIVE",
-            "score": 0.8747175931930542,
+            "score": 0.8747180104255676,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Intellia Therapeutics says its Crispr-based treatment succeeds in pivotal trial - CNBC",
+            "title": "Verizon\u2019s Transformation Actions Deliver Growth & Profitability in 1Q26; Company Raises Adjusted EPS Guidance - Verizon",
             "sentiment": "POSITIVE",
-            "score": 0.9186979532241821,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "A Supreme Court case over pesticides is bringing out the \u2018MAHA moms\u2019 \u2014 and threats of consequences for the midterms - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.8571637272834778,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The $50 Movie Ticket Has Arrived - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9362468719482422,
+            "score": 0.954358696937561,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -131,7 +177,16 @@
         {
             "title": "Clash over Trump family businesses entangles Senate crypto bill - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.7611827254295349,
+            "score": 0.7611821889877319,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Ex-Tokyo Electron Worker Gets 10-Year Sentence for TSMC Leak - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9316853284835815,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -172,44 +227,18 @@
             ]
         },
         {
-            "title": "\u2018More Upside Ahead\u2019: Intel Stock (INTC) Wins a New Street-High Price Target - TipRanks",
-            "sentiment": "POSITIVE",
-            "score": 0.947566568851471,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Spirit Airlines Didn\u2019t Die Because Biden Blocked The JetBlue Merger - View from the Wing",
+            "title": "Bond Traders Eye Packed Week of Rate Decisions for Sell Signals - Bloomberg",
             "sentiment": "NEGATIVE",
-            "score": 0.8205103278160095,
+            "score": 0.8553350567817688,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Gas station owner speaks for every Californian with four-word message to Gavin Newsom \u2014 as another hike looms - Yahoo",
+            "title": "Video: Florida teens drove lawn mower through Target in viral prank; both arrested, police say - FOX 35 Orlando",
             "sentiment": "NEGATIVE",
-            "score": 0.9723767638206482,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How the AI-driven data center boom is leading to skyrocketing energy bills for many Americans - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.754412055015564,
+            "score": 0.8172250986099243,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
