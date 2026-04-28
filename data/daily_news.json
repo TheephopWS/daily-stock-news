@@ -1,26 +1,34 @@
 {
-    "last_updated": "2026-04-28 04:11:08 UTC",
-    "total_articles": 18,
-    "bullish_articles": 4,
-    "bearish_articles": 14,
+    "last_updated": "2026-04-28 08:42:29 UTC",
+    "total_articles": 15,
+    "bullish_articles": 5,
+    "bearish_articles": 10,
     "articles": [
         {
-            "title": "eBay Server Errors Cause Major Disruption In Search, Log In, Checkout, Descriptions & More - Value Added Resource",
+            "title": "U.S. stock futures mixed, oil rises ahead of a busy week for Wall Street - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9598549008369446,
+            "score": 0.7057002782821655,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oil rises as US-Iran peace talks stall - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.909427285194397,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "China\u2019s Industrial Profits Surge as Reflation Offsets Cost Shock - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9422558546066284,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Goldman Hikes Oil Price Forecasts on \u2018Extreme\u2019 Inventory Draws - Bloomberg.com",
@@ -40,6 +48,15 @@
             ]
         },
         {
+            "title": "Chip toolmaker Tokyo Electron cuts ties with executive linked to Chinese rivals - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9614386558532715,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "\u2018More Upside Ahead\u2019: Intel Stock (INTC) Wins a New Street-High Price Target - TipRanks",
             "sentiment": "POSITIVE",
             "score": 0.947566568851471,
@@ -57,28 +74,19 @@
             ]
         },
         {
-            "title": "Stock futures fall as Iran peace talks stall, oil rises: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9438579082489014,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "47-year-old high-end steakhouse closed over 80% of its restaurants - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9580467939376831,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Spirit Airlines Didn\u2019t Die Because Biden Blocked The JetBlue Merger - View from the Wing",
             "sentiment": "NEGATIVE",
             "score": 0.8205103278160095,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tillis will support Warsh, clearing way for Trump's Fed pick - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.725609302520752,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -111,59 +119,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "NVIDIA Beats Everyone To DeepSeek V4 With Day-0 Blackwell Support, Pushing 3,500 Tokens Per Second On 1.6T Models - Wccftech",
-            "sentiment": "POSITIVE",
-            "score": 0.8338080048561096,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "'You feel radicalized': A Meta AI exec watched agents beat her top workers. Now she's built a nonprofit to help Gen Z find jobs before they disappear - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.7911110520362854,
-            "signal": "BEARISH",
-            "tickers": [
-                "META",
-                "CRM"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "CRM",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft - Financial Times",
             "sentiment": "POSITIVE",
             "score": 0.9180110692977905,
             "signal": "BULLISH",
             "tickers": [
-                "AMZN",
+                "MSFT",
                 "GOOGL",
-                "MSFT"
+                "AMZN"
             ],
-            "primary_ticker": "AMZN",
+            "primary_ticker": "MSFT",
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "high"
                 },
@@ -173,7 +141,7 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "MSFT",
+                    "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -201,15 +169,6 @@
             "title": "Hertz Dumped 30,000 EVs, Now Renters Are Begging For Them - Carscoops",
             "sentiment": "NEGATIVE",
             "score": 0.9008971452713013,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Hormuz Crisis Is \u2018Biggest Energy Disruption Ever,\u2019 Yergin Says - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9065767526626587,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
