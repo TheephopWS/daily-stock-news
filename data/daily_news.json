@@ -1,17 +1,52 @@
 {
-    "last_updated": "2026-04-28 08:42:29 UTC",
-    "total_articles": 15,
-    "bullish_articles": 5,
-    "bearish_articles": 10,
+    "last_updated": "2026-04-28 11:20:51 UTC",
+    "total_articles": 19,
+    "bullish_articles": 7,
+    "bearish_articles": 12,
     "articles": [
         {
-            "title": "U.S. stock futures mixed, oil rises ahead of a busy week for Wall Street - MarketWatch",
+            "title": "Dow Set to Open Down Ahead of Busy Week for Markets - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.7057002782821655,
+            "score": 0.8369324207305908,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "MAHA activists mobilize over weedkiller case - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.7299801707267761,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Musk vs. Altman: Tech CEOs head to court over the fate of OpenAI - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.8651383519172668,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Goldman Sachs Raises Oil Price Forecast Yet Again - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7204663157463074,
+            "signal": "BULLISH",
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "China\u2019s Industrial Profits Surge as Reflation Offsets Cost Shock - Bloomberg.com",
@@ -31,21 +66,13 @@
             ]
         },
         {
-            "title": "Goldman Hikes Oil Price Forecasts on \u2018Extreme\u2019 Inventory Draws - Bloomberg.com",
+            "title": "Exclusive | Budget Airlines Pitch Trump Administration on $2.5 Billion Relief Plan - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.7128177285194397,
+            "score": 0.7776098847389221,
             "signal": "BULLISH",
-            "tickers": [
-                "GS"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GS",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Chip toolmaker Tokyo Electron cuts ties with executive linked to Chinese rivals - Financial Times",
@@ -74,6 +101,33 @@
             ]
         },
         {
+            "title": "Stocks Rise on Iran Offer Report, Oil Pares Gain: Markets Wrap - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7481520771980286,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Seattle mayor signs $480M library levy proposal, doubling amount sought from taxpayers - komonews.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8614339828491211,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bond Traders Eye Packed Week of Rate Decisions for Sell Signals - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.849480152130127,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Spirit Airlines Didn\u2019t Die Because Biden Blocked The JetBlue Merger - View from the Wing",
             "sentiment": "NEGATIVE",
             "score": 0.8205103278160095,
@@ -83,27 +137,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tillis will support Warsh, clearing way for Trump's Fed pick - Axios",
-            "sentiment": "POSITIVE",
-            "score": 0.725609302520752,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Gas station owner speaks for every Californian with four-word message to Gavin Newsom \u2014 as another hike looms - Yahoo",
             "sentiment": "NEGATIVE",
             "score": 0.9723767638206482,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Freezing dormant BTC would trigger worst single day repricing in bitcoin\u2019s history, says maximalist - CoinDesk",
-            "sentiment": "NEGATIVE",
-            "score": 0.9314517378807068,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -119,24 +155,56 @@
             "ticker_impacts": []
         },
         {
+            "title": "Trump Coins Crash After WHCD Shooting Shocks Washington - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9706145524978638,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "'You feel radicalized': A Meta AI exec watched agents beat her top workers. Now she's built a nonprofit to help Gen Z find jobs before they disappear - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.7911110520362854,
+            "signal": "BEARISH",
+            "tickers": [
+                "META",
+                "CRM"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "CRM",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft - Financial Times",
             "sentiment": "POSITIVE",
             "score": 0.9180110692977905,
             "signal": "BULLISH",
             "tickers": [
-                "MSFT",
                 "GOOGL",
+                "MSFT",
                 "AMZN"
             ],
-            "primary_ticker": "MSFT",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "MSFT",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "high"
                 },
@@ -164,32 +232,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Hertz Dumped 30,000 EVs, Now Renters Are Begging For Them - Carscoops",
-            "sentiment": "NEGATIVE",
-            "score": 0.9008971452713013,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Meta employees face a slow-swinging axe and a tough choice: hustle or job hunt - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9462418556213379,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
