@@ -1,13 +1,48 @@
 {
-    "last_updated": "2026-04-29 19:59:14 UTC",
-    "total_articles": 11,
-    "bullish_articles": 2,
-    "bearish_articles": 9,
+    "last_updated": "2026-04-29 22:15:57 UTC",
+    "total_articles": 17,
+    "bullish_articles": 7,
+    "bearish_articles": 10,
     "articles": [
         {
-            "title": "UAE to leave OPEC amid Hormuz oil crisis, a blow to Saudi Arabia - The Washington Post",
+            "title": "Stock Market Today: Nasdaq Falls More Than 1% on AI Jitters \u2014 Live Updates - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9627655744552612,
+            "score": 0.8913537859916687,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Live updates: UAE to quit OPEC in blow to world\u2019s leading oil exporters, as Iran war roils energy sector - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.8082494735717773,
+            "signal": "BEARISH",
+            "tickers": [
+                "OPEC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "OPEC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Starbucks raises full-year outlook after earnings, revenue top estimates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9589411616325378,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why Erasca, Up 415% This Year Amid Revolution-Tied Furor, Just Lost Half Its Value - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9704016447067261,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,7 +51,7 @@
         {
             "title": "JPMorgan\u2019s Dimon Warns Again on Risks of Credit Market Downturn - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9032381176948547,
+            "score": 0.9032384157180786,
             "signal": "BEARISH",
             "tickers": [
                 "JPM"
@@ -31,22 +66,21 @@
             ]
         },
         {
-            "title": "S&P 500 slips from record, Nasdaq falls as OpenAI report knocks chip stocks: Live updates - CNBC",
+            "title": "Spotify Stock Falls As Subscriber Target Comes In Light After In-Line Q1 - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.974658727645874,
+            "score": 0.9692714214324951,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "McDonald\u2019s is the latest fast food chain to offer fancier drinks - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.8159234523773193,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "SPOT"
+            ],
+            "primary_ticker": "SPOT",
+            "ticker_impacts": [
+                {
+                    "ticker": "SPOT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "A split within the Fed impedes Trump\u2019s deregulation of Wall Street - The Washington Post",
@@ -58,10 +92,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Budget airlines seek help as United gives up on American deal - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.8921498656272888,
-            "signal": "BEARISH",
+            "title": "US Consumer Confidence Edged Up Again in April - Forex Factory",
+            "sentiment": "POSITIVE",
+            "score": 0.9317384362220764,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "BP Profit Jumps as Oil Trading Boomed During Iran War - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9385815262794495,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -69,7 +112,7 @@
         {
             "title": "Google and Pentagon reportedly agree on deal for \u2018any lawful\u2019 use of AI - The Verge",
             "sentiment": "POSITIVE",
-            "score": 0.7997146844863892,
+            "score": 0.7997143268585205,
             "signal": "BULLISH",
             "tickers": [
                 "GOOGL"
@@ -84,9 +127,35 @@
             ]
         },
         {
+            "title": "Coca-Cola Reports First Quarter 2026 Results and Updates Full Year Guidance - The Coca-Cola Company",
+            "sentiment": "POSITIVE",
+            "score": 0.9528611898422241,
+            "signal": "BULLISH",
+            "tickers": [
+                "KO"
+            ],
+            "primary_ticker": "KO",
+            "ticker_impacts": [
+                {
+                    "ticker": "KO",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Trump Hit by Devastating Poll as Voters Say They\u2019re Getting Poorer - The Daily Beast",
+            "sentiment": "NEGATIVE",
+            "score": 0.955687940120697,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Will the Fed cut interest rates? Here's what to expect at Wednesday's meeting. - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9615197777748108,
+            "score": 0.9615196585655212,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -95,17 +164,17 @@
         {
             "title": "The MAHA movement is mad about glyphosate and Trump's EPA - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9127905368804932,
+            "score": 0.9127904176712036,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "More than half of Americans say their finances are getting worse - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9642119407653809,
-            "signal": "BEARISH",
+            "title": "Other Airlines Want Help From Administration With Fuel Costs - Newser",
+            "sentiment": "POSITIVE",
+            "score": 0.9081022143363953,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -118,6 +187,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Intellia Therapeutics says its Crispr-based treatment succeeds in pivotal trial - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9186979532241821,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
