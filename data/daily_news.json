@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-04-30 04:09:28 UTC",
-    "total_articles": 17,
-    "bullish_articles": 7,
-    "bearish_articles": 10,
+    "last_updated": "2026-04-30 08:38:31 UTC",
+    "total_articles": 14,
+    "bullish_articles": 5,
+    "bearish_articles": 9,
     "articles": [
+        {
+            "title": "UBS profits rocket 80% to $3 billion for first quarter beat - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9496244192123413,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Australia reports lower-than-expected first-quarter inflation \u2014 but price rise highest in 2 years - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9716567397117615,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "S&P 500 futures are flat as Wall Street looks ahead to \u2018Mag 7\u2019 earnings and Fed decision: Live updates - CNBC",
             "sentiment": "NEGATIVE",
@@ -14,92 +32,44 @@
             "ticker_impacts": []
         },
         {
-            "title": "UAE to leave OPEC amid Hormuz oil crisis, a blow to Saudi Arabia - The Washington Post",
+            "title": "Nvidia Stock Drops. Why Chip Stocks Keep Getting Hit. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9627655744552612,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oracle Stock Is Paying the Price for OpenAI\u2019s Failures - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9721282124519348,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "These Stocks Are Today\u2019s Movers: Oracle, AMD, Intel, Corning, Centene, Erasca, Rambus, Coca-Cola, UPS, and More - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9728441834449768,
+            "score": 0.9713653326034546,
             "signal": "BEARISH",
             "tickers": [
-                "KO",
-                "AMD",
-                "INTC"
+                "NVDA"
             ],
-            "primary_ticker": "KO",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "KO",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "U.S. airlines are hiking fares \u2014 and travelers keep booking - CNBC",
+            "title": "Starbucks raises full-year outlook as turnaround takes hold \u2014 despite higher gas prices - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7247503399848938,
+            "score": 0.9598097801208496,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Starbucks Reports Q2 Fiscal Year 2026 Results - Starbucks Investor Relations",
-            "sentiment": "POSITIVE",
-            "score": 0.9554124474525452,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bill Ackman expected to hit lowest end of target in second IPO push - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8983266353607178,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Google expands Pentagon\u2019s access to its AI after Anthropic\u2019s refusal - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.9289143085479736,
-            "signal": "BULLISH",
+            "title": "JP Morgan's Jamie Dimon warns of looming bond market crisis (JPM:NYSE) - Seeking Alpha",
+            "sentiment": "NEGATIVE",
+            "score": 0.8131057024002075,
+            "signal": "BEARISH",
             "tickers": [
-                "GOOGL"
+                "JPM"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "JPM",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
+                    "ticker": "JPM",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
@@ -116,7 +86,7 @@
         {
             "title": "McDonald\u2019s is the latest fast food chain to offer fancier drinks - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.815922737121582,
+            "score": 0.8159231543540955,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -130,23 +100,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Spotify stock plummets after earnings beat expectations as guidance disappoints - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9693650603294373,
-            "signal": "BEARISH",
-            "tickers": [
-                "SPOT"
-            ],
-            "primary_ticker": "SPOT",
-            "ticker_impacts": [
-                {
-                    "ticker": "SPOT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "BP Profit Jumps as Oil Trading Boomed During Iran War - Yahoo Finance",
@@ -177,7 +130,7 @@
         {
             "title": "The MAHA movement is mad about glyphosate and Trump's EPA - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9127904176712036,
+            "score": 0.9127906560897827,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -195,7 +148,7 @@
         {
             "title": "Other Airlines Want Help From Administration With Fuel Costs - Newser",
             "sentiment": "POSITIVE",
-            "score": 0.9081022143363953,
+            "score": 0.9081024527549744,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
