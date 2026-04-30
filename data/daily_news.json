@@ -1,22 +1,74 @@
 {
-    "last_updated": "2026-04-30 08:38:31 UTC",
-    "total_articles": 14,
-    "bullish_articles": 5,
+    "last_updated": "2026-04-30 11:12:03 UTC",
+    "total_articles": 13,
+    "bullish_articles": 4,
     "bearish_articles": 9,
     "articles": [
         {
-            "title": "UBS profits rocket 80% to $3 billion for first quarter beat - CNBC",
+            "title": "Smokey Bones abruptly closes locations as NY closure sparks wave of surprise shutdowns - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9044181704521179,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The housing market's summer rebound is falling apart - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.8194006681442261,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta Accused of Failing to Keep Children Off Instagram and Facebook in Europe - The New York Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.8544889688491821,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "UBS profits rocket 80% to $3 billion for first quarter beat, shares pop 5% - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9496244192123413,
+            "score": 0.8446021676063538,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "China\u2019s Mao-era regulator in a stand-off with Meta over AI - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9202364087104797,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Australia reports lower-than-expected first-quarter inflation \u2014 but price rise highest in 2 years - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9716567397117615,
+            "score": 0.9716566205024719,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,44 +84,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia Stock Drops. Why Chip Stocks Keep Getting Hit. - Barron's",
+            "title": "Stock market today: Dow, S&P 500, Nasdaq drop as chip stocks sink on OpenAI report, oil rises - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9713653326034546,
+            "score": 0.9131611585617065,
             "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "Starbucks raises full-year outlook as turnaround takes hold \u2014 despite higher gas prices - CNBC",
+            "title": "McDonald's USA Enters a New Era of Drinks with First-Ever Lineup of Refreshers and Crafted Sodas - McDonald\u2019s Corporation",
             "sentiment": "POSITIVE",
-            "score": 0.9598097801208496,
+            "score": 0.7544915676116943,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "JP Morgan's Jamie Dimon warns of looming bond market crisis (JPM:NYSE) - Seeking Alpha",
-            "sentiment": "NEGATIVE",
-            "score": 0.8131057024002075,
-            "signal": "BEARISH",
+            "title": "Google expands Pentagon\u2019s access to its AI after Anthropic\u2019s refusal - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.9289143085479736,
+            "signal": "BULLISH",
             "tickers": [
-                "JPM"
+                "GOOGL"
             ],
-            "primary_ticker": "JPM",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "JPM",
-                    "impact": "negative",
+                    "ticker": "GOOGL",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
@@ -78,24 +122,6 @@
             "title": "Why Erasca, Up 415% This Year Amid Revolution-Tied Furor, Just Lost Half Its Value - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.9704016447067261,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "McDonald\u2019s is the latest fast food chain to offer fancier drinks - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.8159231543540955,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "A split within the Fed impedes Trump\u2019s deregulation of Wall Street - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9599716067314148,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -111,45 +137,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Chinese Billionaire Overhauls AI Startup After Warning on Manus - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.9439603090286255,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "The MAHA movement is mad about glyphosate and Trump's EPA - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9127906560897827,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Affordability Still Dominates Americans' Financial Worries - Gallup News",
             "sentiment": "NEGATIVE",
             "score": 0.9454309344291687,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Other Airlines Want Help From Administration With Fuel Costs - Newser",
-            "sentiment": "POSITIVE",
-            "score": 0.9081024527549744,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
