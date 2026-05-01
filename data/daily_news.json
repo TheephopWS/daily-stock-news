@@ -1,31 +1,13 @@
 {
-    "last_updated": "2026-05-01 08:28:00 UTC",
+    "last_updated": "2026-05-01 10:49:25 UTC",
     "total_articles": 7,
-    "bullish_articles": 1,
-    "bearish_articles": 6,
+    "bullish_articles": 0,
+    "bearish_articles": 7,
     "articles": [
         {
-            "title": "Talks to bail out Spirit Airlines stall as company teeters toward collapse - CBS News",
+            "title": "Meta Stock Falls Sharply After Strong Earnings. What\u2019s Dragging It Down. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.8984524607658386,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "MTA braces for LIRR strike, threatens fare hike and service cuts if workers get demands - Gothamist",
-            "sentiment": "NEGATIVE",
-            "score": 0.9213237762451172,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Meta shares fall on concerns over AI spending, legal scrutiny - Reuters",
-            "sentiment": "NEGATIVE",
-            "score": 0.9230806231498718,
+            "score": 0.7934057712554932,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -40,17 +22,40 @@
             ]
         },
         {
+            "title": "Talks to bail out Spirit Airlines stall as company teeters toward collapse - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8984521627426147,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "MTA braces for LIRR strike, threatens fare hike and service cuts if workers get demands - Gothamist",
+            "sentiment": "NEGATIVE",
+            "score": 0.9213238954544067,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "OpenAI Rattles Big Tech as Microsoft (MSFT), Amazon (AMZN) and Alphabet (GOOGL) Face Earnings Test - TipRanks",
             "sentiment": "NEGATIVE",
-            "score": 0.7872059941291809,
+            "score": 0.7872076034545898,
             "signal": "BEARISH",
             "tickers": [
+                "MSFT",
                 "AMZN",
-                "GOOGL",
-                "MSFT"
+                "GOOGL"
             ],
-            "primary_ticker": "AMZN",
+            "primary_ticker": "MSFT",
             "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
                 {
                     "ticker": "AMZN",
                     "impact": "negative",
@@ -60,19 +65,14 @@
                     "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Ford raises 2026 guidance as $1.3 billion tariff refund assists in offsetting higher costs - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7548827528953552,
-            "signal": "BULLISH",
+            "title": "Families sue OpenAI over Canadian mass shooter's use of ChatGPT - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.8461614847183228,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -80,7 +80,7 @@
         {
             "title": "Bill Ackman\u2019s Pershing Square USA Sinks 16% After $5 Billion IPO - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9336018562316895,
+            "score": 0.9336013793945312,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
