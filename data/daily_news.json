@@ -1,9 +1,110 @@
 {
-    "last_updated": "2026-05-01 19:46:22 UTC",
-    "total_articles": 18,
+    "last_updated": "2026-05-01 22:10:30 UTC",
+    "total_articles": 20,
     "bullish_articles": 7,
-    "bearish_articles": 11,
+    "bearish_articles": 13,
     "articles": [
+        {
+            "title": "Dow surges nearly 800 points, S&P 500 posts first close above 7,200 and best month since 2020: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8912585377693176,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market News, April 30, 2026: Dow rises 790 points, S&P 500 and Nasdaq close at records as GDP data shows the U.S. economy continues to grow; Big Tech slips; oil falls back from four-year high; Alphabet shares jump as Meta falls - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.7603800892829895,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL",
+                "META"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Amazon's AI Commentary Helps Stock Reverse Higher - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9234521389007568,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Pershing Square Shares Rebound After Ackman Bought Stock - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9512054920196533,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta just told staff in an internal meeting that it isn't ruling out further layoffs - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9724839925765991,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Meta threatens to pull its apps from New Mexico if forced to make \u2018technologically impractical\u2019 changes - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.9124863147735596,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "More popular restaurants close as situation worsens for Birmingham\u2019s Pihakis Group - AL.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9645618200302124,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Meta Stock Loses $175 Billion After AI Expense Estimate Shakes Shareholders - Yahoo Finance",
             "sentiment": "NEGATIVE",
@@ -28,41 +129,6 @@
             ]
         },
         {
-            "title": "Stock Market Today: Nasdaq Slips After Tech Earnings \u2014 Live Updates - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.819465696811676,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump expected to sign executive order expanding retirement account access for workers - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.781893789768219,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Larry Page\u2019s Worth Over $300 Billion For First Time Amid Alphabet Earnings Rally - Forbes",
-            "sentiment": "POSITIVE",
-            "score": 0.9528546929359436,
-            "signal": "BULLISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Live Updates: Iran war pushes oil prices to 4-year high as Hegseth set to face fresh round of questioning - CBS News",
             "sentiment": "POSITIVE",
             "score": 0.7921195030212402,
@@ -72,9 +138,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Wall Street rises as investors assess economic reports (SP500:) - Seeking Alpha",
+            "title": "'Shock coming': Trump economy grows but war fallout stokes inflation - Politico",
+            "sentiment": "POSITIVE",
+            "score": 0.8188892602920532,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Eli Lilly's 'Blowout' Quarter: Here's What Has 'Overwhelming' Demand - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9279808402061462,
+            "score": 0.9376735687255859,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -99,6 +174,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "ECB holds interest rates at 2% as inflation rises - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9022961854934692,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "State gas prices hit record average of $5.57 a gallon, squeezing drivers\u2019 budgets - KOMO",
             "sentiment": "NEGATIVE",
             "score": 0.9675809741020203,
@@ -108,18 +192,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil prices hit wartime peak, pushing U.S. gas costs to highest since level July 2022 - CBS News",
+            "title": "This company says nuclear fusion could finally power the grid \u2014 and soon - CNN",
             "sentiment": "POSITIVE",
-            "score": 0.905580461025238,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Eli Lilly profits more than double as weight-loss drug sales soar - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9555425643920898,
+            "score": 0.8007243871688843,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -135,15 +210,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Berkshire\u2019s Ailing Share Price Clouds Abel\u2019s First Annual Meeting as CEO - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9191075563430786,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "San Francisco International United Airlines pilot reports drone strike on approach to San Diego International Airport, FAA says - ABC7 San Francisco",
             "sentiment": "NEGATIVE",
             "score": 0.9273241758346558,
@@ -151,40 +217,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Microsoft Stock Trying to Bounce Back on Strong Azure Growth Outlook - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9506639242172241,
-            "signal": "BULLISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Amazon Offers Q1 Shoutout To \u2018Project Hail Mary\u2019, Tops Wall Street Forecasts Amid AI Arms Race - Deadline",
-            "sentiment": "POSITIVE",
-            "score": 0.9343432784080505,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "MTA braces for LIRR strike, threatens fare hike and service cuts if workers get demands - Gothamist",
@@ -196,9 +228,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bill Ackman\u2019s Pershing Square USA Sinks 16% After $5 Billion IPO - Bloomberg.com",
+            "title": "The Global Energy Order Is Breaking Down - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9716058969497681,
+            "score": 0.8614164590835571,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
