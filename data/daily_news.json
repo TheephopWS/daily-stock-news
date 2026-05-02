@@ -1,18 +1,9 @@
 {
-    "last_updated": "2026-05-02 08:02:53 UTC",
-    "total_articles": 26,
-    "bullish_articles": 10,
-    "bearish_articles": 16,
+    "last_updated": "2026-05-02 10:14:57 UTC",
+    "total_articles": 27,
+    "bullish_articles": 13,
+    "bearish_articles": 14,
     "articles": [
-        {
-            "title": "Stock futures are little changed after the S&P 500 hits a record to wrap April's trading: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8619783520698547,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
         {
             "title": "Former Chick-fil-A employee charged in $80,000 mac-and-cheese scheme - BBC",
             "sentiment": "NEGATIVE",
@@ -23,6 +14,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Rivian Stock (RIVN) Dips 5% Despite Q1 Beat \u2014 What Spooked Investors? - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.9761916399002075,
+            "signal": "BEARISH",
+            "tickers": [
+                "RIVN"
+            ],
+            "primary_ticker": "RIVN",
+            "ticker_impacts": [
+                {
+                    "ticker": "RIVN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "AI Investment Boosted Economic Growth, While Consumers Tapped the Brakes - WSJ",
             "sentiment": "POSITIVE",
             "score": 0.900697648525238,
@@ -30,6 +38,32 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Yen Soars After Japan Intervened Following \u2018Final\u2019 Warning - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9351543188095093,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says - Forbes",
+            "sentiment": "NEGATIVE",
+            "score": 0.9723939299583435,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Apple earnings beat forecasts on iPhone 17 demand - Yahoo Finance",
@@ -49,46 +83,23 @@
             ]
         },
         {
-            "title": "Bank of America resets Microsoft stock forecast after earnings - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7040911316871643,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT",
-                "BAC"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "BAC",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Stock Market News, April 30, 2026: Dow rises 790 points, S&P 500 and Nasdaq close at records as GDP data shows the U.S. economy continues to grow; Big Tech slips; oil falls back from four-year high; Alphabet shares jump as Meta falls - MarketWatch",
             "sentiment": "POSITIVE",
             "score": 0.7603800892829895,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL",
-                "META"
+                "META",
+                "GOOGL"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "META",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "META",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "META",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -125,32 +136,6 @@
             "title": "Rivian downsizes DOE loan to $4.5B for Georgia factory - TechCrunch",
             "sentiment": "NEGATIVE",
             "score": 0.9725252389907837,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Meta just told staff it isn't ruling out further layoffs - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9725708365440369,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "AI boom: Big Tech capital expenditures now seen topping $1 trillion in 2027 - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8961465954780579,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -212,15 +197,6 @@
             ]
         },
         {
-            "title": "Live Updates: Iran war pushes oil prices to 4-year high as Hegseth set to face fresh round of questioning - CBS News",
-            "sentiment": "POSITIVE",
-            "score": 0.7921195030212402,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Eli Lilly's 'Blowout' Quarter: Here's What Has 'Overwhelming' Demand - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.9376735687255859,
@@ -243,6 +219,15 @@
             "sentiment": "NEGATIVE",
             "score": 0.8226338624954224,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil prices hit highest level since Iran war's start - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.7886645793914795,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -293,10 +278,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "Amazon Stock (AMZN) Gains 3% Post Q1 Earnings \u2014 What\u2019s Driving the Rally? Top Evercore Analyst Weighs In - TipRanks",
-            "sentiment": "NEGATIVE",
-            "score": 0.9691179990768433,
-            "signal": "BEARISH",
+            "title": "FDA Approves First Non-Antipsychotic Drug to Treat Agitation Associated with Dementia - fda.gov",
+            "sentiment": "POSITIVE",
+            "score": 0.8909321427345276,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Samsung profit surges over eightfold to beat estimates as AI boom fuels memory chip crunch - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9481349587440491,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon.com, Inc. - Amazon.com Announces First Quarter Results - Amazon Investor Relations",
+            "sentiment": "POSITIVE",
+            "score": 0.9519873857498169,
+            "signal": "BULLISH",
             "tickers": [
                 "AMZN"
             ],
@@ -304,15 +307,15 @@
             "ticker_impacts": [
                 {
                     "ticker": "AMZN",
-                    "impact": "negative",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "San Francisco International United Airlines pilot reports drone strike on approach to San Diego International Airport, FAA says - ABC7 San Francisco",
+            "title": "United flight from SFO disrupted by 'possible drone strike' - SFGATE",
             "sentiment": "NEGATIVE",
-            "score": 0.9273241758346558,
+            "score": 0.9161405563354492,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
