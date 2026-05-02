@@ -1,14 +1,31 @@
 {
-    "last_updated": "2026-05-02 19:32:56 UTC",
-    "total_articles": 38,
+    "last_updated": "2026-05-02 22:03:35 UTC",
+    "total_articles": 28,
     "bullish_articles": 12,
-    "bearish_articles": 26,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "Stock Market Today: Dow flat, S&P 500 and Nasdaq trim gains as Trump threatens to raise tariffs on European vehicles - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9523466229438782,
-            "signal": "BEARISH",
+            "title": "S&P 500 closes at a new record to usher in May as oil prices cool and Apple rises: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8949801921844482,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Ozempic Breath Is on the Rise\u2014and So Is This Unlikely Winner - Gizmodo",
+            "sentiment": "POSITIVE",
+            "score": 0.9352887868881226,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -16,17 +33,8 @@
         {
             "title": "Trump Says Spirit Airlines May Get An \u2018America First\u2019 Rescue - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.8514575362205505,
+            "score": 0.8514571785926819,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Michigan gas prices jump 90 cents in a week, closing in on record high - Detroit Free Press",
-            "sentiment": "POSITIVE",
-            "score": 0.9085103869438171,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -34,20 +42,15 @@
         {
             "title": "Top AI companies agree to work with Pentagon on secret data - The Washington Post",
             "sentiment": "POSITIVE",
-            "score": 0.937724232673645,
+            "score": 0.9377241134643555,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL",
                 "AMZN",
-                "MSFT"
+                "MSFT",
+                "GOOGL"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
                 {
                     "ticker": "AMZN",
                     "impact": "positive",
@@ -57,60 +60,54 @@
                     "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Meta threatens to pull Facebook and Instagram from New Mexico over child safety trial requirements - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9548031091690063,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
+                },
                 {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
         {
             "title": "Yen Traders Alert After Japan\u2019s $34.5 Billion Intervention - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8932684659957886,
+            "score": 0.893268346786499,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: S&P 500, Nasdaq Hit New Records at Tech Shares Jump; Apple Shares Gain on Results, Rosy Outlook - Investopedia",
+            "title": "Over 8 million Thermos jars and bottles recalled after 3 people suffer 'permanent vision loss' - ABC News - Breaking News, Latest News and Videos",
             "sentiment": "NEGATIVE",
-            "score": 0.8349747657775879,
+            "score": 0.8446247577667236,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Chevron, Exxon Earnings Show Resilience, But Oil Stocks Retreat - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9327477216720581,
+            "signal": "BULLISH",
             "tickers": [
-                "AAPL"
+                "XOM",
+                "CVX"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": "XOM",
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
-                    "impact": "negative",
+                    "ticker": "XOM",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "CVX",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Merck's Biggest Looming Rival In Cancer Just Took A Gut Punch - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9580357670783997,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Apple Delivers Strong Forecast in Sign It\u2019s Weathering Shortages - Bloomberg.com",
@@ -130,28 +127,19 @@
             ]
         },
         {
-            "title": "Thermos recalls 8M jars, bottles after stoppers \u2018forcefully eject,\u2019 3 users left with permanent vision loss - Fox Business",
+            "title": "OpenAI CFO Says Product Demand Will Go Vertical Despite Internal Target Flop - TipRanks",
             "sentiment": "NEGATIVE",
-            "score": 0.9649960994720459,
+            "score": 0.9232167601585388,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Fed Chair Jerome Powell and the FOMC Just Updated Their Interest Rate Outlook -- and It's Terrible News for Wall Street - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.7677596807479858,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.931067705154419,
-            "signal": "BEARISH",
+            "title": "New York bill would tax luxury second homes outside of NYC - Times Union",
+            "sentiment": "POSITIVE",
+            "score": 0.7344635128974915,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -166,76 +154,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "Pentagon tech chief says Anthropic is still blacklisted, but Mythos is a separate issue - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8327284455299377,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "What SaaSpocalypse? Atlassian, Twilio, and Five9 stocks soar as their AI moves deliver earnings beats - Business Insider",
             "sentiment": "POSITIVE",
-            "score": 0.8511513471603394,
+            "score": 0.851150393486023,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Was JPMorgan's 'Sex Harassment' Lawsuit Against an Exec a Complete Fabrication? | NewsRadio 1080 KRLD - Audacy",
+            "title": "\u2018Cut up the credit cards:\u2019 Congress is getting brutal about \u2018embarrassing\u2019 $31 trillion national debt - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.787708580493927,
+            "score": 0.9033854007720947,
             "signal": "BEARISH",
             "tickers": [
                 "JPM"
             ],
-            "primary_ticker": "JPM",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
                     "ticker": "JPM",
                     "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "\u2018Cut up the credit cards:\u2019 Congress is getting brutal about \u2018embarrassing\u2019 $31 trillion national debt - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8617067337036133,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Exxon Mobil and Chevron earnings fall as Iran war disrupts oil shipments - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.974790096282959,
-            "signal": "BEARISH",
-            "tickers": [
-                "XOM",
-                "CVX"
-            ],
-            "primary_ticker": "XOM",
-            "ticker_impacts": [
-                {
-                    "ticker": "XOM",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "CVX",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
         },
         {
             "title": "Exxon and Chevron defy Trump pressure to boost oil production - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.7872282862663269,
+            "score": 0.7872279286384583,
             "signal": "BULLISH",
             "tickers": [
                 "XOM",
@@ -258,7 +205,7 @@
         {
             "title": "Dan Patrick eyes closing \u201cgambling loophole\u201d for prediction markets. The feds stand in Texas\u2019 way. - The Texas Tribune",
             "sentiment": "NEGATIVE",
-            "score": 0.7066307663917542,
+            "score": 0.7066305875778198,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -283,28 +230,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Build-A-Bear recalls 36,000 plush bears over choking hazard from detachable zipper slider on pouch - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9386759400367737,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Paramount Faces Suit From Streaming Subscribers Seeking to Block Warner Bros. Deal - Variety",
-            "sentiment": "NEGATIVE",
-            "score": 0.9614103436470032,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Former Chick-fil-A employee charged in $80,000 mac-and-cheese scheme - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7465019226074219,
+            "score": 0.746502697467804,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta raises specter of shutting down service to New Mexico in legal clash over child safety - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8887178897857666,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Economy picked up in early 2026, but inflation jumped, too - The Washington Post",
+            "sentiment": "POSITIVE",
+            "score": 0.9199308156967163,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -332,18 +287,18 @@
             "score": 0.9297804236412048,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL",
-                "NVDA"
+                "NVDA",
+                "GOOGL"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -352,7 +307,7 @@
         {
             "title": "Bank of America resets Microsoft stock forecast after earnings - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7040911912918091,
+            "score": 0.7040911316871643,
             "signal": "BEARISH",
             "tickers": [
                 "BAC",
@@ -382,28 +337,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "US economy grows 2% as layoffs plunge to 55-year low, inflation lingers - New York Post",
-            "sentiment": "POSITIVE",
-            "score": 0.8587172627449036,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "\u2018This is not normal\u2019: Former Fed economist sounds alarm on Kevin Warsh after one-sided confirmation - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.8001293540000916,
+            "score": 0.8001288771629333,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Axsome Hits Record High On Alzheimer's Agitation Approval - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.935008704662323,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -420,17 +357,8 @@
         {
             "title": "AI Just Beat Doctors at Diagnosing ER Patients. Don\u2019t Get All Excited - Gizmodo",
             "sentiment": "POSITIVE",
-            "score": 0.8794030547142029,
+            "score": 0.8794025778770447,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Cigna To Exit Obamacare In 2027, Affecting Coverage For 369,000 - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.8226342797279358,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -440,24 +368,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9675809741020203,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Prediction markets say they're different from sportsbooks. Gambling addicts say it's all the same - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7919100522994995,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "High gas prices eating into Texans\u2019 budgets, fueling inflation - The Texas Tribune",
-            "sentiment": "POSITIVE",
-            "score": 0.9307383298873901,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
