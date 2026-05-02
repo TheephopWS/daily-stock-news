@@ -1,17 +1,40 @@
 {
-    "last_updated": "2026-05-01 22:10:30 UTC",
-    "total_articles": 20,
-    "bullish_articles": 7,
-    "bearish_articles": 13,
+    "last_updated": "2026-05-02 03:57:05 UTC",
+    "total_articles": 21,
+    "bullish_articles": 6,
+    "bearish_articles": 15,
     "articles": [
         {
-            "title": "Dow surges nearly 800 points, S&P 500 posts first close above 7,200 and best month since 2020: Live updates - CNBC",
+            "title": "AI Investment Boosted Economic Growth, While Consumers Tapped the Brakes - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.8912585377693176,
+            "score": 0.900697648525238,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Bank of America resets Microsoft stock forecast after earnings - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7040911316871643,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT",
+                "BAC"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "BAC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Stock Market News, April 30, 2026: Dow rises 790 points, S&P 500 and Nasdaq close at records as GDP data shows the U.S. economy continues to grow; Big Tech slips; oil falls back from four-year high; Alphabet shares jump as Meta falls - MarketWatch",
@@ -37,18 +60,27 @@
             ]
         },
         {
-            "title": "Amazon's AI Commentary Helps Stock Reverse Higher - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9234521389007568,
-            "signal": "BULLISH",
+            "title": "Weekly U.S. jobless claims fall to 189,000, lowest in more than five decades - PBS",
+            "sentiment": "NEGATIVE",
+            "score": 0.9739920496940613,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Disney is slashing stock-based compensation for some tech employees - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9625329971313477,
+            "signal": "BEARISH",
             "tickers": [
-                "AMZN"
+                "DIS"
             ],
-            "primary_ticker": "AMZN",
+            "primary_ticker": "DIS",
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
-                    "impact": "positive",
+                    "ticker": "DIS",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
@@ -63,9 +95,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta just told staff in an internal meeting that it isn't ruling out further layoffs - Business Insider",
+            "title": "Rivian downsizes DOE loan to $4.5B for Georgia factory - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9724839925765991,
+            "score": 0.9725252389907837,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta just told staff it isn't ruling out further layoffs - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9725708365440369,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -97,6 +138,29 @@
             ]
         },
         {
+            "title": "New Wave of Lawsuits Hits OpenAI After Canada School Massacre - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.8972475528717041,
+            "signal": "BEARISH",
+            "tickers": [
+                "AI",
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AI",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "More popular restaurants close as situation worsens for Birmingham\u2019s Pihakis Group - AL.com",
             "sentiment": "NEGATIVE",
             "score": 0.9645618200302124,
@@ -104,6 +168,29 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "BofA resets Google stock price target after earnings smasher - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8008174300193787,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL",
+                "BAC"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "BAC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Meta Stock Loses $175 Billion After AI Expense Estimate Shakes Shareholders - Yahoo Finance",
@@ -138,15 +225,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "'Shock coming': Trump economy grows but war fallout stokes inflation - Politico",
-            "sentiment": "POSITIVE",
-            "score": 0.8188892602920532,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Eli Lilly's 'Blowout' Quarter: Here's What Has 'Overwhelming' Demand - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.9376735687255859,
@@ -156,10 +234,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Unemployment Claims Plummet To Nearly 60-Year Low - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.9590946435928345,
-            "signal": "BEARISH",
+            "title": "Fed Inflation Gauge Hits 2-Year High As AI Boosts GDP; S&P 500 Rises - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.7356964349746704,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -168,15 +246,6 @@
             "title": "Cigna To Exit Obamacare In 2027, Affecting Coverage For 369,000 - Forbes",
             "sentiment": "NEGATIVE",
             "score": 0.8226338624954224,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "ECB holds interest rates at 2% as inflation rises - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9022961854934692,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -192,9 +261,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "This company says nuclear fusion could finally power the grid \u2014 and soon - CNN",
+            "title": "Supreme Court considers how much states can protect consumers when federal agencies won\u2019t - The Conversation",
+            "sentiment": "NEGATIVE",
+            "score": 0.8482334613800049,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil prices hit wartime peak, pushing U.S. gas costs to highest since level July 2022 - CBS News",
             "sentiment": "POSITIVE",
-            "score": 0.8007243871688843,
+            "score": 0.905580461025238,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -204,33 +282,6 @@
             "title": "The global economy has a month\u2014eight weeks at most\u2014to avoid a recession, warns top economist - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.9457322359085083,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "San Francisco International United Airlines pilot reports drone strike on approach to San Diego International Airport, FAA says - ABC7 San Francisco",
-            "sentiment": "NEGATIVE",
-            "score": 0.9273241758346558,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "MTA braces for LIRR strike, threatens fare hike and service cuts if workers get demands - Gothamist",
-            "sentiment": "NEGATIVE",
-            "score": 0.9648323059082031,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Global Energy Order Is Breaking Down - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8614164590835571,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
