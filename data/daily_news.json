@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-05-02 03:57:05 UTC",
-    "total_articles": 21,
-    "bullish_articles": 6,
-    "bearish_articles": 15,
+    "last_updated": "2026-05-02 08:02:53 UTC",
+    "total_articles": 26,
+    "bullish_articles": 10,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "Stock futures are little changed after the S&P 500 hits a record to wrap April's trading: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8619783520698547,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Former Chick-fil-A employee charged in $80,000 mac-and-cheese scheme - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.746502697467804,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "AI Investment Boosted Economic Growth, While Consumers Tapped the Brakes - WSJ",
             "sentiment": "POSITIVE",
@@ -12,6 +30,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Apple earnings beat forecasts on iPhone 17 demand - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.948139488697052,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Bank of America resets Microsoft stock forecast after earnings - thestreet.com",
@@ -69,21 +104,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Disney is slashing stock-based compensation for some tech employees - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9625329971313477,
-            "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Reddit Stock Jumps As Q1 Results Beat Expectations - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9333938956260681,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Pershing Square Shares Rebound After Ackman Bought Stock - Yahoo Finance",
@@ -121,44 +148,13 @@
             ]
         },
         {
-            "title": "Meta threatens to pull its apps from New Mexico if forced to make \u2018technologically impractical\u2019 changes - The Verge",
+            "title": "AI boom: Big Tech capital expenditures now seen topping $1 trillion in 2027 - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9124863147735596,
+            "score": 0.8961465954780579,
             "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "New Wave of Lawsuits Hits OpenAI After Canada School Massacre - TipRanks",
-            "sentiment": "NEGATIVE",
-            "score": 0.8972475528717041,
-            "signal": "BEARISH",
-            "tickers": [
-                "AI",
-                "INTC"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AI",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "More popular restaurants close as situation worsens for Birmingham\u2019s Pihakis Group - AL.com",
@@ -282,6 +278,41 @@
             "title": "The global economy has a month\u2014eight weeks at most\u2014to avoid a recession, warns top economist - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.9457322359085083,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "High gas prices eating into Texans\u2019 budgets, fueling inflation - The Texas Tribune",
+            "sentiment": "POSITIVE",
+            "score": 0.9307381510734558,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon Stock (AMZN) Gains 3% Post Q1 Earnings \u2014 What\u2019s Driving the Rally? Top Evercore Analyst Weighs In - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.9691179990768433,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "San Francisco International United Airlines pilot reports drone strike on approach to San Diego International Airport, FAA says - ABC7 San Francisco",
+            "sentiment": "NEGATIVE",
+            "score": 0.9273241758346558,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
