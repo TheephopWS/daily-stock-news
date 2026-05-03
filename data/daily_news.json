@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-05-03 04:16:08 UTC",
-    "total_articles": 19,
-    "bullish_articles": 6,
-    "bearish_articles": 13,
+    "last_updated": "2026-05-03 08:20:09 UTC",
+    "total_articles": 20,
+    "bullish_articles": 4,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "Spirit Airlines ceases operations after escalating financial struggles - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.9563222527503967,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "S.F. supervisors, state senator arrested as May Day protest closes SFO roadway - San Francisco Chronicle",
             "sentiment": "NEGATIVE",
-            "score": 0.84739750623703,
+            "score": 0.8473976254463196,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,43 +25,70 @@
         {
             "title": "Why is gas so high in Illinois? Gas prices today increased amid Iran war, after BP Whiting, Indiana refinery power loss - ABC7 Chicago",
             "sentiment": "NEGATIVE",
-            "score": 0.7745931148529053,
+            "score": 0.7745934128761292,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "S&P 500 closes at a new record to usher in May as oil prices cool and Apple rises: Live updates - CNBC",
+            "title": "GameStop is preparing offer for eBay, WSJ reports - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8949801921844482,
-            "signal": "BULLISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Charlotte-based Atrium Health targets WakeMed in proposed combination - North Carolina Health News",
-            "sentiment": "POSITIVE",
-            "score": 0.9413601160049438,
+            "score": 0.8405994772911072,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Ozempic Breath Is on the Rise\u2014and So Is This Unlikely Winner - Gizmodo",
+            "title": "Stock Market Today: Nasdaq, S&P Make History; Buffett's Berkshire Reports Earnings Saturday (Live Coverage) - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.7443040013313293,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Big Oil CEOs Warn Energy Market Is Moving Closer to Cliff\u2019s Edge - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8812830448150635,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Charlotte-based Atrium Health targets WakeMed in proposed combination - North Carolina Health News",
             "sentiment": "POSITIVE",
-            "score": 0.9352889060974121,
+            "score": 0.9413600564002991,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018Wow!\u2019: CNBC host stunned as \u2018truly incredible\u2019 US jobs number plunges to 189,000 \u2014 the lowest level since 1960s - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9507355690002441,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8714411854743958,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -64,8 +100,8 @@
             "signal": "BULLISH",
             "tickers": [
                 "GOOGL",
-                "AMZN",
-                "MSFT"
+                "MSFT",
+                "AMZN"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
@@ -75,12 +111,12 @@
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "MSFT",
+                    "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -105,9 +141,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Yen Traders Alert After Japan\u2019s $34.5 Billion Intervention - Yahoo Finance",
+            "title": "Yen Resumes Rally Sparked by First Intervention in Two Years - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8932684659957886,
+            "score": 0.8098626732826233,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -116,42 +152,42 @@
         {
             "title": "Chefs step in to save prominent Homewood restaurants as company struggles to survive - AL.com",
             "sentiment": "NEGATIVE",
-            "score": 0.794955849647522,
+            "score": 0.7949557304382324,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Apple Delivers Strong Forecast in Sign It\u2019s Weathering Shortages - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9439563751220703,
-            "signal": "BULLISH",
+            "title": "OpenAI CFO Says Product Demand Will Go Vertical Despite Internal Target Flop - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.9232165813446045,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Who Are Lorna Hajdini and Chirayu Rana? Inside the JPMorgan Sex Harassment Case Rocking Wall Street - Mashable India",
+            "sentiment": "NEGATIVE",
+            "score": 0.8575600981712341,
+            "signal": "BEARISH",
             "tickers": [
-                "AAPL"
+                "JPM"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": "JPM",
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
-                    "impact": "positive",
+                    "ticker": "JPM",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "OpenAI CFO Says Product Demand Will Go Vertical Despite Internal Target Flop - TipRanks",
-            "sentiment": "NEGATIVE",
-            "score": 0.923216700553894,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Fed Chair Jerome Powell and the FOMC Just Updated Their Interest Rate Outlook -- and It's Terrible News for Wall Street - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.7677599787712097,
+            "score": 0.7677596807479858,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -160,51 +196,16 @@
         {
             "title": "New York bill would tax luxury second homes outside of NYC - Times Union",
             "sentiment": "POSITIVE",
-            "score": 0.7344648241996765,
+            "score": 0.7344645261764526,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "\u2018Cut up the credit cards:\u2019 Congress is getting brutal about \u2018embarrassing\u2019 $31 trillion national debt - Fortune",
+            "title": "\u2018Cut up the credit cards:\u2019 Congress is getting brutal about \u2018embarrassing\u2019 $31 trillion national debt - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.903385579586029,
-            "signal": "BEARISH",
-            "tickers": [
-                "JPM"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "AstraZeneca stock falls after FDA panel votes against new cancer drug - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.959587812423706,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The weirdest aspect of the Iran war that has befuddled oil experts - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.850644588470459,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Weekly U.S. jobless claims fall to 189,000, lowest in more than five decades - PBS",
-            "sentiment": "NEGATIVE",
-            "score": 0.9739920496940613,
+            "score": 0.8345183730125427,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -213,7 +214,7 @@
         {
             "title": "\u2018This is not normal\u2019: Former Fed economist sounds alarm on Kevin Warsh after one-sided confirmation - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.8001295924186707,
+            "score": 0.8001293540000916,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
