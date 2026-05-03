@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-05-02 22:03:35 UTC",
-    "total_articles": 28,
-    "bullish_articles": 12,
-    "bearish_articles": 16,
+    "last_updated": "2026-05-03 04:16:08 UTC",
+    "total_articles": 19,
+    "bullish_articles": 6,
+    "bearish_articles": 13,
     "articles": [
+        {
+            "title": "S.F. supervisors, state senator arrested as May Day protest closes SFO roadway - San Francisco Chronicle",
+            "sentiment": "NEGATIVE",
+            "score": 0.84739750623703,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why is gas so high in Illinois? Gas prices today increased amid Iran war, after BP Whiting, Indiana refinery power loss - ABC7 Chicago",
+            "sentiment": "NEGATIVE",
+            "score": 0.7745931148529053,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "S&P 500 closes at a new record to usher in May as oil prices cool and Apple rises: Live updates - CNBC",
             "sentiment": "POSITIVE",
@@ -22,19 +40,19 @@
             ]
         },
         {
-            "title": "Ozempic Breath Is on the Rise\u2014and So Is This Unlikely Winner - Gizmodo",
+            "title": "Charlotte-based Atrium Health targets WakeMed in proposed combination - North Carolina Health News",
             "sentiment": "POSITIVE",
-            "score": 0.9352887868881226,
+            "score": 0.9413601160049438,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Trump Says Spirit Airlines May Get An \u2018America First\u2019 Rescue - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.8514571785926819,
-            "signal": "BEARISH",
+            "title": "Ozempic Breath Is on the Rise\u2014and So Is This Unlikely Winner - Gizmodo",
+            "sentiment": "POSITIVE",
+            "score": 0.9352889060974121,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -42,15 +60,20 @@
         {
             "title": "Top AI companies agree to work with Pentagon on secret data - The Washington Post",
             "sentiment": "POSITIVE",
-            "score": 0.9377241134643555,
+            "score": 0.937724232673645,
             "signal": "BULLISH",
             "tickers": [
+                "GOOGL",
                 "AMZN",
-                "MSFT",
-                "GOOGL"
+                "MSFT"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
                 {
                     "ticker": "AMZN",
                     "impact": "positive",
@@ -60,54 +83,44 @@
                     "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "medium"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "A Chick-fil-A worker got fired and returned to allegedly refund himself over $80,000 in mac n cheese - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9465453028678894,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "New Pittsburgh Post-Gazette owners making deep cuts to newsroom staff - 90.5 WESA",
+            "sentiment": "NEGATIVE",
+            "score": 0.9680539965629578,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Yen Traders Alert After Japan\u2019s $34.5 Billion Intervention - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.893268346786499,
+            "score": 0.8932684659957886,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Over 8 million Thermos jars and bottles recalled after 3 people suffer 'permanent vision loss' - ABC News - Breaking News, Latest News and Videos",
+            "title": "Chefs step in to save prominent Homewood restaurants as company struggles to survive - AL.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8446247577667236,
+            "score": 0.794955849647522,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Chevron, Exxon Earnings Show Resilience, But Oil Stocks Retreat - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9327477216720581,
-            "signal": "BULLISH",
-            "tickers": [
-                "XOM",
-                "CVX"
-            ],
-            "primary_ticker": "XOM",
-            "ticker_impacts": [
-                {
-                    "ticker": "XOM",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "CVX",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Apple Delivers Strong Forecast in Sign It\u2019s Weathering Shortages - Bloomberg.com",
@@ -129,7 +142,16 @@
         {
             "title": "OpenAI CFO Says Product Demand Will Go Vertical Despite Internal Target Flop - TipRanks",
             "sentiment": "NEGATIVE",
-            "score": 0.9232167601585388,
+            "score": 0.923216700553894,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Fed Chair Jerome Powell and the FOMC Just Updated Their Interest Rate Outlook -- and It's Terrible News for Wall Street - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.7677599787712097,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -138,25 +160,7 @@
         {
             "title": "New York bill would tax luxury second homes outside of NYC - Times Union",
             "sentiment": "POSITIVE",
-            "score": 0.7344635128974915,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "People are finally using Reddit\u2019s search - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.9400863647460938,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "What SaaSpocalypse? Atlassian, Twilio, and Five9 stocks soar as their AI moves deliver earnings beats - Business Insider",
-            "sentiment": "POSITIVE",
-            "score": 0.851150393486023,
+            "score": 0.7344648241996765,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -165,7 +169,7 @@
         {
             "title": "\u2018Cut up the credit cards:\u2019 Congress is getting brutal about \u2018embarrassing\u2019 $31 trillion national debt - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9033854007720947,
+            "score": 0.903385579586029,
             "signal": "BEARISH",
             "tickers": [
                 "JPM"
@@ -178,38 +182,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Exxon and Chevron defy Trump pressure to boost oil production - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.7872279286384583,
-            "signal": "BULLISH",
-            "tickers": [
-                "XOM",
-                "CVX"
-            ],
-            "primary_ticker": "XOM",
-            "ticker_impacts": [
-                {
-                    "ticker": "XOM",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "CVX",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Dan Patrick eyes closing \u201cgambling loophole\u201d for prediction markets. The feds stand in Texas\u2019 way. - The Texas Tribune",
-            "sentiment": "NEGATIVE",
-            "score": 0.7066305875778198,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "AstraZeneca stock falls after FDA panel votes against new cancer drug - CNBC",
@@ -230,104 +202,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Former Chick-fil-A employee charged in $80,000 mac-and-cheese scheme - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.746502697467804,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Meta raises specter of shutting down service to New Mexico in legal clash over child safety - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8887178897857666,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Economy picked up in early 2026, but inflation jumped, too - The Washington Post",
-            "sentiment": "POSITIVE",
-            "score": 0.9199308156967163,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Zuckerberg Reportedly Attributes Meta Layoffs To Increasing AI Costs - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.9724760055541992,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Alphabet hits a milestone as it closes in on Nvidia - MarketWatch",
-            "sentiment": "POSITIVE",
-            "score": 0.9297804236412048,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA",
-                "GOOGL"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Bank of America resets Microsoft stock forecast after earnings - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7040911316871643,
-            "signal": "BEARISH",
-            "tickers": [
-                "BAC",
-                "MSFT"
-            ],
-            "primary_ticker": "BAC",
-            "ticker_impacts": [
-                {
-                    "ticker": "BAC",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Weekly U.S. jobless claims fall to 189,000, lowest in more than five decades - PBS",
             "sentiment": "NEGATIVE",
             "score": 0.9739920496940613,
@@ -339,34 +213,7 @@
         {
             "title": "\u2018This is not normal\u2019: Former Fed economist sounds alarm on Kevin Warsh after one-sided confirmation - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.8001288771629333,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "More popular restaurants close as situation worsens for Birmingham\u2019s Pihakis Group - AL.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9645618200302124,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AI Just Beat Doctors at Diagnosing ER Patients. Don\u2019t Get All Excited - Gizmodo",
-            "sentiment": "POSITIVE",
-            "score": 0.8794025778770447,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "State gas prices hit record average of $5.57 a gallon, squeezing drivers\u2019 budgets - KOMO",
-            "sentiment": "NEGATIVE",
-            "score": 0.9675809741020203,
+            "score": 0.8001295924186707,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
