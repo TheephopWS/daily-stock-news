@@ -1,75 +1,171 @@
 {
-    "last_updated": "2026-05-06 15:06:51 UTC",
-    "total_articles": 20,
-    "bullish_articles": 7,
-    "bearish_articles": 13,
+    "last_updated": "2026-05-06 16:58:14 UTC",
+    "total_articles": 23,
+    "bullish_articles": 8,
+    "bearish_articles": 15,
     "articles": [
         {
-            "title": "Ferrari tops Wall Street's first-quarter expectations ahead of EV debut - CNBC",
+            "title": "Key US Yield at 5% Highlights Mounting Pressure in Bond Market - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9345991015434265,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Anthropic Releases New AI Agents for Financial Services Firms - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9546633958816528,
+            "score": 0.8116932511329651,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Coinbase cuts headcount by 14% citing AI acceleration. The shares are gaining - CNBC",
+            "title": "FDA commissioner defends agency's drug approval decisions after wave of backlash - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9703439474105835,
+            "score": 0.7783007621765137,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Dow, S&P 500 and Nasdaq called higher as oil dips from highs; Palantir slips after results; AMD earnings on tap. - MarketWatch",
+            "title": "Stock Market Today: Nasdaq Drives To Record High As Intel Soars; Palantir Dives (Live Coverage) - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.8306666612625122,
+            "score": 0.9718685746192932,
             "signal": "BEARISH",
             "tickers": [
-                "AMD"
+                "INTC"
             ],
-            "primary_ticker": "AMD",
+            "primary_ticker": "INTC",
             "ticker_impacts": [
                 {
-                    "ticker": "AMD",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Wealthy families regret rushing to give gifts after tax law changed - USA Today",
+            "title": "Stock Market Today: Dow, S&P 500, Nasdaq Rise; Trump, Iran Fears; Palantir, Intel, AMD, More Movers - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.7983266711235046,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC",
+                "AMD"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Micron\u2019s stock soars as new report throws cold water on the bear case: \u2018This time is different.\u2019 - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.8597036004066467,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Dow Opens Higher, Oil Prices Slip as U.S. Downplays Mideast Tensions \u2014 Live Updates - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9233447313308716,
+            "score": 0.8926783204078674,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Palantir Q1 revenue jumps 85% on booming US business - Yahoo Finance",
+            "title": "CAISI Signs Agreements Regarding Frontier AI National Security Testing With Google DeepMind, Microsoft and xAI - National Institute of Standards and Technology (.gov)",
             "sentiment": "POSITIVE",
-            "score": 0.933386504650116,
+            "score": 0.9015456438064575,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "MSFT",
+                "GOOGL"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "JetBlue Steps in to Help Stranded Spirit Customers with $99 Rescue Fares, Announces Plans to Add 11 Destinations From Fort Lauderdale - news.jetblue.com",
-            "sentiment": "POSITIVE",
-            "score": 0.901154637336731,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock futures are higher as Wall Street eyes latest developments in Middle East and oil prices: Live updates - CNBC",
+            "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals - WIRED",
             "sentiment": "NEGATIVE",
-            "score": 0.964139461517334,
+            "score": 0.9378328323364258,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL",
+                "INTC"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Cytokinetics Announces Positive Topline Results from ACACIA-HCM, the Pivotal Phase 3 Clinical Trial of Aficamten in Patients with Non-Obstructive Hypertrophic Cardiomyopathy - Cytokinetics",
+            "sentiment": "POSITIVE",
+            "score": 0.7876152396202087,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Shopify Operating Profit Light As Revenue Edges By Estimates. Shares Fall. - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9753293991088867,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Palantir Shares Slip Despite Strong Growth and Upgraded Outlook - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9284390211105347,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Robot Passenger Delays Southwest Flight - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.8794268369674683,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -80,33 +176,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9763405919075012,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Officials warn of banking spoof callers draining customers' accounts - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.932137668132782,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Asian shares slip and oil prices retreat from latest flare in Iran tensions - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.967593252658844,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Treasury Selloff Pushes 30-Year Yield to Brink of 18-Year High - BeInCrypto",
-            "sentiment": "POSITIVE",
-            "score": 0.8283560276031494,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -130,27 +199,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Frozen pizza sold at Walmart, Aldi recalled over salmonella concerns - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.8494082689285278,
-            "signal": "BEARISH",
-            "tickers": [
-                "WMT"
-            ],
-            "primary_ticker": "WMT",
-            "ticker_impacts": [
-                {
-                    "ticker": "WMT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Paramount Making \u201cGreat Progress\u201d on Warner Bros. Buy, Reaffirms Deal Close Timing - The Hollywood Reporter",
             "sentiment": "POSITIVE",
             "score": 0.9593044519424438,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "California says State Farm violated the law in handling of insurance claims after Eaton, Palisades fires in 2025 - ABC7 Los Angeles",
+            "sentiment": "NEGATIVE",
+            "score": 0.9480494856834412,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -173,37 +234,53 @@
             ]
         },
         {
-            "title": "Robot passenger causes flight delay in California - upi.com",
+            "title": "Why Circle (CRCL) Stock Is Surging 18% Today \u2013 May 4, 2026 - TipRanks",
+            "sentiment": "POSITIVE",
+            "score": 0.9447032809257507,
+            "signal": "BULLISH",
+            "tickers": [
+                "CRCL"
+            ],
+            "primary_ticker": "CRCL",
+            "ticker_impacts": [
+                {
+                    "ticker": "CRCL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Delta Air Lines will no longer serve snacks and drinks to these passengers - Yahoo Creators",
             "sentiment": "NEGATIVE",
-            "score": 0.9193291068077087,
+            "score": 0.7778196930885315,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "DOJ confirms antitrust probe of major meatpackers over beef price inflation - Fox Business",
+            "title": "USDA Issues Nationwide Health Alert for Contaminated Frozen Pizzas as Salmonella Risk Spreads Across Major Retail Brands - Nbsla.ca",
             "sentiment": "NEGATIVE",
-            "score": 0.9015803337097168,
+            "score": 0.8915538787841797,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "USDA"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "USDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "Gas prices rise to $4.46 per gallon and oil jumps as shippers stay out of Strait of Hormuz - NBC News",
-            "sentiment": "POSITIVE",
-            "score": 0.9008714556694031,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Berkshire shares trade higher as Buffett successor Abel scores good marks at meeting, earnings jump - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9325463771820068,
-            "signal": "BULLISH",
+            "title": "Last Middle East oil shipment reportedly reaches Long Beach amid rising gas prices - ABC7 Los Angeles",
+            "sentiment": "NEGATIVE",
+            "score": 0.9605423212051392,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
