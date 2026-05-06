@@ -1,14 +1,110 @@
 {
-    "last_updated": "2026-05-06 20:05:08 UTC",
-    "total_articles": 18,
-    "bullish_articles": 5,
-    "bearish_articles": 13,
+    "last_updated": "2026-05-06 22:13:39 UTC",
+    "total_articles": 24,
+    "bullish_articles": 8,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "Wall Street rallies to records after oil prices ease and corporate profits keep topping expectations - AP News",
+            "title": "Gasoline costs 50% more in the US than it did before the Iran war - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.9211987257003784,
+            "score": 0.935370683670044,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AMD Stock Jumps As AI Data Center Sales Drive Q1 Beat - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9173529148101807,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Super Micro\u2019s stock surges as Wall Street cheers its margin recovery - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.9434705376625061,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US to safety test new AI models from Google, Microsoft, xAI - BBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8859265446662903,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT",
+                "GOOGL"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "ServiceNow Stock Slides despite Expanded Nvidia, Microsoft AI Deals - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.9674406051635742,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT",
+                "NVDA",
+                "NOW"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NOW",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Historic LaGuardia Airport terminal deserted after Spirit Airlines shutdown - Gothamist",
+            "sentiment": "NEGATIVE",
+            "score": 0.8961944580078125,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "This is the most layoff-prone job in tech right now - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9586934447288513,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -16,7 +112,7 @@
         {
             "title": "Brockman Says Musk\u2019s Lack of AI Knowledge Was Concern at OpenAI - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.791183590888977,
+            "score": 0.7911832928657532,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,7 +121,7 @@
         {
             "title": "Meta, Zuckerberg Sued Over Alleged Copyright Infringement by Book Publishers and Scott Turow - Variety",
             "sentiment": "NEGATIVE",
-            "score": 0.8306921720504761,
+            "score": 0.8306925892829895,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -40,13 +136,21 @@
             ]
         },
         {
-            "title": "Delta cuts free drinks service: Here are the 10 MSP routes likely affected - Bring Me The News",
+            "title": "PayPal Earnings Beat Estimates. The Stock Is Tumbling Anyway. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.8302328586578369,
+            "score": 0.9678634405136108,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "PYPL"
+            ],
+            "primary_ticker": "PYPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "PYPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Palantir\u2019s stock falls despite upbeat earnings. Here are Wall Street\u2019s quibbles. - MarketWatch",
@@ -84,9 +188,27 @@
             ]
         },
         {
+            "title": "FDA Announces Potato Chip Recall: Toss These Bags for Salmonella Concerns - Health: Trusted and Empathetic Health and Wellness Information",
+            "sentiment": "NEGATIVE",
+            "score": 0.8467482328414917,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "James Murdoch in Talks to Buy Vox\u2019s New York Magazine and Podcast Division - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9081041812896729,
+            "score": 0.9081041216850281,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Hackers steal students\u2019 data during breach at education tech giant Instructure - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8416839838027954,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -95,16 +217,16 @@
         {
             "title": "Micron\u2019s stock soars as new report throws cold water on the bear case: \u2018This time is different.\u2019 - MarketWatch",
             "sentiment": "POSITIVE",
-            "score": 0.8597036004066467,
+            "score": 0.8597040772438049,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Michael Burry sells GameStop after Ryan Cohen's hefty eBay bid: 'Never confuse debt for creativity' - CNBC",
+            "title": "Stock Market Today: Dow Opens Higher, Oil Prices Slip as U.S. Downplays Mideast Tensions \u2014 Live Updates - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8053143620491028,
+            "score": 0.8926781415939331,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -113,57 +235,42 @@
         {
             "title": "a16z crypto raises $2.2 billion for fifth fund, promotes CTO to general partner - The Block",
             "sentiment": "POSITIVE",
-            "score": 0.8409207463264465,
+            "score": 0.8409212231636047,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals - WIRED",
-            "sentiment": "NEGATIVE",
-            "score": 0.9378328323364258,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL",
-                "INTC"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Cytokinetics Announces Positive Topline Results from ACACIA-HCM, the Pivotal Phase 3 Clinical Trial of Aficamten in Patients with Non-Obstructive Hypertrophic Cardiomyopathy - Cytokinetics",
             "sentiment": "POSITIVE",
-            "score": 0.7876152396202087,
+            "score": 0.7876160740852356,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "HSBC profits hit by $400mn \u2018fraud-related\u2019 exposure - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9589961767196655,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Amazon\u2019s Durability - Stratechery by Ben Thompson",
+            "sentiment": "POSITIVE",
+            "score": 0.7576416730880737,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Robot Passenger Delays Southwest Flight - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.8794268369674683,
+            "score": 0.8794264793395996,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -186,23 +293,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Why Circle (CRCL) Stock Is Surging 18% Today \u2013 May 4, 2026 - TipRanks",
-            "sentiment": "POSITIVE",
-            "score": 0.9447032809257507,
-            "signal": "BULLISH",
-            "tickers": [
-                "CRCL"
-            ],
-            "primary_ticker": "CRCL",
-            "ticker_impacts": [
-                {
-                    "ticker": "CRCL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
