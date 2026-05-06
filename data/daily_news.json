@@ -1,17 +1,150 @@
 {
-    "last_updated": "2026-05-06 04:12:17 UTC",
-    "total_articles": 9,
-    "bullish_articles": 6,
-    "bearish_articles": 3,
+    "last_updated": "2026-05-06 11:26:14 UTC",
+    "total_articles": 20,
+    "bullish_articles": 7,
+    "bearish_articles": 13,
     "articles": [
         {
-            "title": "Baltimore bakery truck hit by United Airlines jet on New Jersey Turnpike, video shows - CBS News",
+            "title": "Ferrari tops Wall Street's first-quarter expectations ahead of EV debut - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9546635150909424,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Coinbase cuts headcount by 14% citing AI acceleration. The shares are gaining - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9102721810340881,
+            "score": 0.9703439474105835,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Dow, S&P 500 and Nasdaq called higher as oil dips from highs; Palantir slips after results; AMD earnings on tap. - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8306663632392883,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Wealthy families regret rushing to give gifts after tax law changed - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.9233449101448059,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Palantir Q1 revenue jumps 85% on booming US business - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.933386504650116,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "JetBlue Steps in to Help Stranded Spirit Customers with $99 Rescue Fares, Announces Plans to Add 11 Destinations From Fort Lauderdale - news.jetblue.com",
+            "sentiment": "POSITIVE",
+            "score": 0.901154637336731,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock futures are higher as Wall Street eyes latest developments in Middle East and oil prices: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.964139461517334,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "HSBC Profit Misses on Charges Related to the UK, Middle East - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9763405919075012,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Officials warn of banking spoof callers draining customers' accounts - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9321377873420715,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Asian shares slip and oil prices retreat from latest flare in Iran tensions - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.967593252658844,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Treasury Selloff Pushes 30-Year Yield to Brink of 18-Year High - BeInCrypto",
+            "sentiment": "POSITIVE",
+            "score": 0.8283569812774658,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Australia hikes rates again and warns inflation will stay higher for longer - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.759384274482727,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Baltimore bakery truck hit by United Airlines jet on New Jersey Turnpike, video shows - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9102721214294434,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Frozen pizza sold at Walmart, Aldi recalled over salmonella concerns - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.8494083285331726,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Paramount Making \u201cGreat Progress\u201d on Warner Bros. Buy, Reaffirms Deal Close Timing - The Hollywood Reporter",
@@ -23,28 +156,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Delta is canceling hundreds of flights due to crew and scheduling challenges, an internal memo shows - Business Insider",
+            "title": "FedEx, UPS Shares Sink on \u2018Watershed\u2019 Amazon Logistics Move - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9710420370101929,
+            "score": 0.9695373773574829,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Robot passenger causes flight delay in California - upi.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.919329047203064,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Dow Slips, Oil Rises on Fears of Hormuz Escalation \u2014 Live Updates - WSJ",
+            "title": "DOJ confirms antitrust probe of major meatpackers over beef price inflation - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8145430088043213,
+            "score": 0.9015805125236511,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How Spirit Airlines' demise will benefit rivals \u2014 and raise airfares even more - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8720453381538391,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -59,27 +200,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.8380798101425171,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Berkshire shares trade higher as Buffett successor Abel scores good marks at meeting, earnings jump - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.9325463771820068,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "OPEC+ countries agree modest rise in production as Iran retains chokehold on key Strait of Hormuz - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.9198508858680725,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
