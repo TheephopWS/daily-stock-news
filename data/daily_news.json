@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-05-08 03:57:47 UTC",
-    "total_articles": 20,
-    "bullish_articles": 7,
-    "bearish_articles": 13,
+    "last_updated": "2026-05-08 08:03:33 UTC",
+    "total_articles": 19,
+    "bullish_articles": 8,
+    "bearish_articles": 11,
     "articles": [
+        {
+            "title": "McDonald's is about to report earnings. Here's what to expect - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9742627739906311,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "'That's not how it works' - the judge crossing swords with Musk in court - BBC",
             "sentiment": "NEGATIVE",
@@ -12,6 +21,32 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Airbus wins $19bn order in Canada\u2019s biggest ever aircraft deal - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.9302473664283752,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "IonQ Doubles Down on Nvidia Comparison. Why the Stock Is Falling After Blowout Earnings. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.7811167240142822,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Chip Designer Arm Tops Estimates With March-Quarter Results, Outlook - Investor's Business Daily",
@@ -23,10 +58,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why gasoline costs 52% more in the US than it did before the Iran war - AP News",
+            "title": "HBO Max Beats Internal Forecasts, Topping 140M Subscribers In Q1; WBD Now Sees It At 150M By Year-End - Deadline",
             "sentiment": "POSITIVE",
-            "score": 0.8744374513626099,
+            "score": 0.9172941446304321,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Iran War Is Crushing Whirlpool\u2019s Profit\u2014and Higher Prices Are Coming - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9522150754928589,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -49,23 +93,6 @@
             ]
         },
         {
-            "title": "WBD Sees $2.9 Billion Q1 Loss On M&A Charges Including Termination Fee Paramount Paid Netflix - Deadline",
-            "sentiment": "NEGATIVE",
-            "score": 0.9658949375152588,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "TikTok is pulling back on an AI feature that went haywire - Business Insider",
             "sentiment": "NEGATIVE",
             "score": 0.9610618352890015,
@@ -75,19 +102,27 @@
             "ticker_impacts": []
         },
         {
+            "title": "Uber Stock Jumps After Earnings. These Are the Numbers to Know. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9448791742324829,
+            "signal": "BULLISH",
+            "tickers": [
+                "UBER"
+            ],
+            "primary_ticker": "UBER",
+            "ticker_impacts": [
+                {
+                    "ticker": "UBER",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Did Dems block Jet Blue, Spirit Airlines merger? - PolitiFact",
             "sentiment": "NEGATIVE",
             "score": 0.9419050216674805,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Dow is about to exit correction territory. What fueled its recovery. - MarketWatch",
-            "sentiment": "POSITIVE",
-            "score": 0.7550153136253357,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -102,9 +137,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia\u2019s new deal with Corning validates one of the hottest AI trends out there - MarketWatch",
+            "title": "Billionaire Compares 'Tax the Rich' Calls to Hate Speech as Study Finds Barely Half of Americans Earn Living Wage - Common Dreams",
+            "sentiment": "NEGATIVE",
+            "score": 0.9666478633880615,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gas prices top $4.50 a gallon, reaching highest level since July 2022 - CBS News",
             "sentiment": "POSITIVE",
-            "score": 0.7997591495513916,
+            "score": 0.9366393089294434,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia to Invest $500 Million in Corning, Expand Fiber Optic Manufacturing - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.7172382473945618,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -117,15 +170,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "AirAsia places landmark order for 150 A220s - Airbus",
-            "sentiment": "POSITIVE",
-            "score": 0.7033350467681885,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "AMD Shares Jump 15% on Stunning AI-Fueled Revenue Jump and Strong Outlook - Yahoo Finance",
@@ -145,28 +189,10 @@
             ]
         },
         {
-            "title": "Trump's tariffs have done 'significant damage' to the U.S. economy, says Moody's chief economist - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9471801519393921,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Diesel price spike raises stakes for Trump, GOP ahead of midterms - Politico",
             "sentiment": "POSITIVE",
             "score": 0.7692273855209351,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Buc-ee\u2019s sues Georgia competitor with \u2018confusingly similar\u2019 brand - AJC.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9095516204833984,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -184,41 +210,6 @@
             "title": "\u201cPAY OR LEAK\u201d: Hackers Target Big Higher Ed Vendor - Inside Higher Ed",
             "sentiment": "NEGATIVE",
             "score": 0.8608841300010681,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "This is the most layoff-prone job in tech right now - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9586933255195618,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "James Patterson, Biden publishers say Mark Zuckerberg 'personally authorized' copyright infringement - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8749148845672607,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Delta cuts free drinks service: Here are the 10 MSP routes likely affected - Bring Me The News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8302328586578369,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
