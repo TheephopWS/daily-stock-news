@@ -1,48 +1,71 @@
 {
-    "last_updated": "2026-05-09 19:38:40 UTC",
-    "total_articles": 22,
-    "bullish_articles": 8,
+    "last_updated": "2026-05-09 22:06:06 UTC",
+    "total_articles": 23,
+    "bullish_articles": 9,
     "bearish_articles": 14,
     "articles": [
         {
-            "title": "Why Rocket Lab (RKLB) Stock Blasted Higher Today and Why Stifel Thinks It Is a Buy - TipRanks",
+            "title": "White House prepares to replace FDA leader Marty Makary amid agency turmoil - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9169186353683472,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9329253435134888,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Apple, Intel Have Reached Preliminary Chip-Making Agreement - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9481039047241211,
+            "score": 0.7303813695907593,
             "signal": "BULLISH",
             "tickers": [
-                "RKLB"
+                "AAPL",
+                "INTC"
             ],
-            "primary_ticker": "RKLB",
+            "primary_ticker": "AAPL",
             "ticker_impacts": [
                 {
-                    "ticker": "RKLB",
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "When Spirit folded, this tiny airport suddenly had zero flights - The Washington Post",
+            "title": "Disney\u2019s Josh D\u2019Amaro Manifesto Translator - Puck",
             "sentiment": "NEGATIVE",
-            "score": 0.9220671057701111,
+            "score": 0.8266840577125549,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Cloudflare To Cut More Than 1,100 Jobs In Latest AI Layoff. Stock Falls. - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.971050500869751,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "S&P 500 rises to fresh record on strong jobs report and Iran deal hopes, heads for 6th winning week in a row: Live updates - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9336556196212769,
+            "score": 0.9336556792259216,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -51,7 +74,7 @@
         {
             "title": "Nvidia Stock Heads for Record as AI Push Expands - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9368481040000916,
+            "score": 0.9368481636047363,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -66,9 +89,69 @@
             ]
         },
         {
+            "title": "Mamdani\u2019s $6 billion mistake - The Hill",
+            "sentiment": "NEGATIVE",
+            "score": 0.9480840563774109,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Rocket Lab Q1 2026 earnings beat with record $200M revenue - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9551676511764526,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.9323834180831909,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Amazon Stock (AMZN) Feels the Heat of Yet Another Outage - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.9618427753448486,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Why Is Micron Technology Stock Surging On Friday? - Benzinga",
             "sentiment": "POSITIVE",
-            "score": 0.797680675983429,
+            "score": 0.7976809740066528,
             "signal": "BULLISH",
             "tickers": [
                 "MU"
@@ -85,7 +168,7 @@
         {
             "title": "Tesla Stock: Toyota Earnings, the AI Trade, and Where Shares Go From Here - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9070902466773987,
+            "score": 0.9070906043052673,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -102,7 +185,7 @@
         {
             "title": "GameStop CEO's eBay account reinstated following takeover PR stunt - The Register",
             "sentiment": "NEGATIVE",
-            "score": 0.8663982152938843,
+            "score": 0.8663978576660156,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -113,24 +196,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9380634427070618,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "ServiceNow CEO Bill McDermott interview: Saaspocalypse nonsense and trillion dollar ambition - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8286269903182983,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil Prices Jump After U.S. and Iran Exchange Fire in Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8632713556289673,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -156,7 +221,7 @@
         {
             "title": "Airbus Lands $19 Bil Order; Boeing Wins Air Force One Contract - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.8134343028068542,
+            "score": 0.8134350180625916,
             "signal": "BULLISH",
             "tickers": [
                 "BA"
@@ -190,16 +255,7 @@
         {
             "title": "California farmers will destroy 420,000 peach trees after Del Monte closes canning facilities - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9659374952316284,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Seattle Sound Transit Leaders Rally to Avoid Light Rail Delays - The Urbanist",
-            "sentiment": "NEGATIVE",
-            "score": 0.7270682454109192,
+            "score": 0.965937614440918,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -208,7 +264,7 @@
         {
             "title": "Elon Musk\u2019s lawsuit is putting OpenAI\u2019s safety record under the microscope - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.7417346239089966,
+            "score": 0.7417344450950623,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -225,25 +281,16 @@
         {
             "title": "Kalshi doubles valuation in 5 months, hitting $22B - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.9397457838058472,
+            "score": 0.9397457242012024,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Whirlpool has been rattled by rising costs and that now means higher prices for customers - ABC News - Breaking News, Latest News and Videos",
+            "title": "Consumers Are \u2018Running Out of Money\u2019 and Cutting Back, CEOs Warn - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8855881690979004,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Duke among 9,000 schools affected by Canvas cyberattack - The Duke Chronicle",
-            "sentiment": "NEGATIVE",
-            "score": 0.7360841631889343,
+            "score": 0.9652845859527588,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
