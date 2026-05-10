@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-05-10 04:30:12 UTC",
-    "total_articles": 28,
+    "last_updated": "2026-05-10 08:25:20 UTC",
+    "total_articles": 29,
     "bullish_articles": 11,
-    "bearish_articles": 17,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "White House prepares to replace FDA leader Marty Makary amid agency turmoil - The Washington Post",
+            "title": "Gavin Newsom rejects gas tax suspension, blames Trump for soaring prices - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9169186353683472,
+            "score": 0.9393917918205261,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump reportedly plans to fire FDA Commissioner Marty Makary - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.7268121838569641,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -40,10 +49,42 @@
             ]
         },
         {
+            "title": "Intel\u2019s stock achieves a never-before-seen feat as Apple enthusiasm builds - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.7970988750457764,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC",
+                "AAPL"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Memory Stocks Continue to Surge. What\u2019s Driving Micron and Sandisk Higher. - Barron's",
             "sentiment": "POSITIVE",
             "score": 0.7607129812240601,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9329253435134888,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -142,15 +183,6 @@
             ]
         },
         {
-            "title": "Cloudflare To Cut More Than 1,100 Jobs In Latest AI Layoff. Stock Falls. - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.971050500869751,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Markets are banking on the \u2018Bliss trade\u2019 - Financial Times",
             "sentiment": "POSITIVE",
             "score": 0.8154932260513306,
@@ -222,6 +254,32 @@
             "ticker_impacts": []
         },
         {
+            "title": "CoreWeave Slides on Soft Revenue Outlook - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9035996198654175,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Palantir Stock Shudders as Record 85% Growth Hits a Valuation Wall and Michael Burry Bets on a Total Collapse - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.7782503366470337,
+            "signal": "BEARISH",
+            "tickers": [
+                "PLTR"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "PLTR",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Tesla Stock: Toyota Earnings, the AI Trade, and Where Shares Go From Here - Barron's",
             "sentiment": "POSITIVE",
             "score": 0.9070902466773987,
@@ -248,15 +306,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "IMF Warns That Evolving AI Threat Could Upend Financial Markets - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8961791396141052,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "AI emerges as a top cause of layoffs, accounting for 26% of April's job cuts - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.9605340361595154,
@@ -274,27 +323,9 @@
             ]
         },
         {
-            "title": "CoreWeave Reports Strong First Quarter 2026 Results - Business Wire",
-            "sentiment": "POSITIVE",
-            "score": 0.923438549041748,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Seattle Sound Transit Leaders Rally to Avoid Light Rail Delays - The Urbanist",
             "sentiment": "NEGATIVE",
             "score": 0.7270682454109192,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Dozens Charged With Insider Trading. FBI Says They Made Out \u2018Like Bandits.\u2019 - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.8273031115531921,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
