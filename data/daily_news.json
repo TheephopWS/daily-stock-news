@@ -1,9 +1,45 @@
 {
-    "last_updated": "2026-05-10 08:25:20 UTC",
-    "total_articles": 29,
-    "bullish_articles": 11,
-    "bearish_articles": 18,
+    "last_updated": "2026-05-10 10:42:36 UTC",
+    "total_articles": 30,
+    "bullish_articles": 8,
+    "bearish_articles": 22,
     "articles": [
+        {
+            "title": "Frontier Airlines jet bound for LAX hits person on runway in Denver, aviation source tells ABC News - ABC7 Los Angeles",
+            "sentiment": "NEGATIVE",
+            "score": 0.9541528820991516,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Delta employee dies on the job at Orlando International Airport, officials say - WESH",
+            "sentiment": "NEGATIVE",
+            "score": 0.8987255096435547,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China defies Strait of Hormuz crisis with record monthly export value in April - South China Morning Post",
+            "sentiment": "POSITIVE",
+            "score": 0.9507055878639221,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nike faces class action lawsuit accusing it of pocketing tariff refunds while charging consumers more - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9539808034896851,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Gavin Newsom rejects gas tax suspension, blames Trump for soaring prices - New York Post",
             "sentiment": "NEGATIVE",
@@ -14,18 +50,53 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump reportedly plans to fire FDA Commissioner Marty Makary - Ars Technica",
+            "title": "115 people sickened in norovirus outbreak on cruise ship: CDC - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
-            "score": 0.7268121838569641,
+            "score": 0.9315881133079529,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Tesla recalls Cybertrucks over fears wheels could fall off while driving - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9627654552459717,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "White House\u2019s \u2018lack of organization\u2019 has AI lobbyists fretting - Politico",
             "sentiment": "NEGATIVE",
             "score": 0.9429969191551208,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Banking Industry Says Clarity Act Stablecoin Proposal Would Enable 'Evasion' - Decrypt",
+            "sentiment": "NEGATIVE",
+            "score": 0.8125863075256348,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "CoreWeave stock sinks after forecast miss - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.966324508190155,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -49,9 +120,9 @@
             ]
         },
         {
-            "title": "Intel\u2019s stock achieves a never-before-seen feat as Apple enthusiasm builds - MarketWatch",
+            "title": "Intel stocks jump after reaching preliminary chip manufacturing deal with Apple - qz.com",
             "sentiment": "POSITIVE",
-            "score": 0.7970988750457764,
+            "score": 0.9069148898124695,
             "signal": "BULLISH",
             "tickers": [
                 "INTC",
@@ -72,54 +143,10 @@
             ]
         },
         {
-            "title": "Memory Stocks Continue to Surge. What\u2019s Driving Micron and Sandisk Higher. - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.7607129812240601,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9329253435134888,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul - TechCrunch",
             "sentiment": "NEGATIVE",
             "score": 0.872279942035675,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tesla\u2019s Latest Recall? Wheels May Fall Off Cybertrucks - WIRED",
-            "sentiment": "NEGATIVE",
-            "score": 0.9274805188179016,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Jane Street earned $10bn in first quarter as it doubled trading revenue - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.949510395526886,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -183,10 +210,28 @@
             ]
         },
         {
-            "title": "Markets are banking on the \u2018Bliss trade\u2019 - Financial Times",
+            "title": "Jane Street Pulls In Record $16.1 Billion Quarterly Trading Haul - Bloomberg",
             "sentiment": "POSITIVE",
-            "score": 0.8154932260513306,
+            "score": 0.9466811418533325,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Micron Rockets 11%, SanDisk Rallies 11%, Western Digital Up 3% on AI Memory Supercycle Bull Case - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8616644740104675,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Cloudflare To Cut More Than 1,100 Jobs In Latest AI Layoff. Stock Falls. - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.971050500869751,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -209,18 +254,9 @@
             ]
         },
         {
-            "title": "Rocket Lab Q1 2026 earnings beat with record $200M revenue - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9551676511764526,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Delta Airlines worker dies on the job at Orlando International Airport - Orlando Weekly",
+            "title": "Consumer sentiment falls to fresh record low in May as surging gas prices hit outlook - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9102433323860168,
+            "score": 0.9733623266220093,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -234,50 +270,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Trade Desk Is in a World of Hurt After Earnings - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9726459383964539,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US economy adds 115,000 jobs in April despite Iran war - BBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8915322422981262,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "CoreWeave Slides on Soft Revenue Outlook - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9035996198654175,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Palantir Stock Shudders as Record 85% Growth Hits a Valuation Wall and Michael Burry Bets on a Total Collapse - TipRanks",
-            "sentiment": "NEGATIVE",
-            "score": 0.7782503366470337,
-            "signal": "BEARISH",
-            "tickers": [
-                "PLTR"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "PLTR",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Tesla Stock: Toyota Earnings, the AI Trade, and Where Shares Go From Here - Barron's",
@@ -306,6 +298,24 @@
             "ticker_impacts": []
         },
         {
+            "title": "Aunt of Atlanta Falcons stars AJ and Avieon Terrell killed after driver plows into her car in supermarket parking lot - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8356847167015076,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "California climate law dramatically backfires as massive loophole discovered - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.7302918434143066,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "AI emerges as a top cause of layoffs, accounting for 26% of April's job cuts - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.9605340361595154,
@@ -323,27 +333,18 @@
             ]
         },
         {
-            "title": "Seattle Sound Transit Leaders Rally to Avoid Light Rail Delays - The Urbanist",
+            "title": "Coinbase posts steep first-quarter loss after slide in crypto prices; shares fall 4% - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7270682454109192,
+            "score": 0.9748343825340271,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Kalshi doubles valuation in 5 months, hitting $22B - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.9397457838058472,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Americans sentenced for running 'laptop farms' for North Korea - BleepingComputer",
+            "title": "Seattle Sound Transit Leaders Rally to Avoid Light Rail Delays - The Urbanist",
             "sentiment": "NEGATIVE",
-            "score": 0.9177914261817932,
+            "score": 0.7270682454109192,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
