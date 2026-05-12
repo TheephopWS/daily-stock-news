@@ -1,34 +1,60 @@
 {
-    "last_updated": "2026-05-12 15:13:46 UTC",
-    "total_articles": 35,
-    "bullish_articles": 7,
-    "bearish_articles": 28,
+    "last_updated": "2026-05-12 17:28:23 UTC",
+    "total_articles": 30,
+    "bullish_articles": 11,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "New Disney cruise ejects every passenger after boarding \u2014 leaving families stranded thousands of miles from home - New York Post",
+            "title": "Stock Market Today: S&P 500, Nasdaq Rise to New Records; Oil Gains as Trump Rejects 'Unacceptable' Iran Peace Plan Response - Investopedia",
+            "sentiment": "POSITIVE",
+            "score": 0.902021050453186,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia (NVDA) CEO Jensen Huang Excluded from Trump\u2019s China Trip - TipRanks",
             "sentiment": "NEGATIVE",
-            "score": 0.9290676116943359,
+            "score": 0.8711053729057312,
             "signal": "BEARISH",
             "tickers": [
-                "DIS"
+                "NVDA"
             ],
-            "primary_ticker": "DIS",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "DIS",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "April home sales disappoint as higher mortgage rates weigh on buyers - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9582652449607849,
-            "signal": "BEARISH",
+            "title": "Housing Market\u2019s Spring Is Shaping Up as a Bust After April Sales Were Flat - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.914415180683136,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "AI Chipmaker Cerebras Seeks $4.8 Billion in Upsized US IPO - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9475548267364502,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "High gas prices are hurting restaurant sales \u2014 but not all chains - CNBC",
@@ -48,6 +74,46 @@
             ]
         },
         {
+            "title": "A data center used 29 million gallons of water without a bill, while residents complained about low water pressure - TechSpot",
+            "sentiment": "NEGATIVE",
+            "score": 0.9600756168365479,
+            "signal": "BEARISH",
+            "tickers": [
+                "QTS"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "QTS",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Anthropic Blames \u201cEvil AI\u201d Internet Stories After Claude Blackmailed Its Own Engineers - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.8003081679344177,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC",
+                "AI"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AI",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Sony's failed war against Internet piracy may doom other copyright lawsuits - Ars Technica",
             "sentiment": "POSITIVE",
             "score": 0.7918680310249329,
@@ -57,10 +123,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "House prices are set to plummet across the country, say experts - The Mirror US",
-            "sentiment": "NEGATIVE",
-            "score": 0.9446365833282471,
-            "signal": "BEARISH",
+            "title": "China\u2019s passenger car exports surge nearly 85% in April as domestic sales slump - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.9420185089111328,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -84,23 +150,40 @@
             "ticker_impacts": []
         },
         {
+            "title": "GOOGL Stock Falls as Alphabet Explores First Yen Bond Sale to Fund AI Growth - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.9435873031616211,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "IonQ Stock Rises as SkyWater Shareholders Approve SKYT Merger Deal - TipRanks",
             "sentiment": "POSITIVE",
             "score": 0.8945199847221375,
             "signal": "BULLISH",
             "tickers": [
-                "IONQ",
-                "SKYT"
+                "SKYT",
+                "IONQ"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "IONQ",
+                    "ticker": "SKYT",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "SKYT",
+                    "ticker": "IONQ",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -111,24 +194,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9282412528991699,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Young Americans\u2019 job market optimism falls as older adults stay upbeat, new Gallup poll finds - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9632301926612854,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China Exports More EVs Than Traditional Cars for First Time in April - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.7746657729148865,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -169,15 +234,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock futures slide as investors monitor the latest Iran war negotiations: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9459165334701538,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Xi\u2019s China: Dazzling Technology, Military Muscle\u2014and an Economic Mess - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.953540563583374,
@@ -187,62 +243,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "United flight from Cabo to Houston diverted due to in-flight emergency - KHOU",
-            "sentiment": "NEGATIVE",
-            "score": 0.9519630670547485,
-            "signal": "BEARISH",
+            "title": "China Green Tech Firms Target New Consumers Hit by Iran War Energy Shock - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8829842209815979,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "\u2018It Just Isn\u2019t Enough,\u2019 Says Investor About Palantir Stock - TipRanks",
+            "title": "Disney abruptly cancels cruise sailing, offers refunds - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9423589706420898,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Silver (XAG) Forecast: Silver Rally Faces CPI Risk as Inflation Heats Up - FXEmpire",
-            "sentiment": "NEGATIVE",
-            "score": 0.9245904684066772,
+            "score": 0.9477422833442688,
             "signal": "BEARISH",
             "tickers": [
-                "XAG"
+                "DIS"
             ],
-            "primary_ticker": "XAG",
+            "primary_ticker": "DIS",
             "ticker_impacts": [
                 {
-                    "ticker": "XAG",
+                    "ticker": "DIS",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Oil Market Runs Down Safety Cushion as Supply Shock Worsens - Crude Oil Prices Today | OilPrice.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9730530977249146,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Denver airport incident: NTSB gathering details about evacuation after Frontier plane hits person at Denver International Airport - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
             "score": 0.9454006552696228,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Elon Musk backs Buffett\u2019s powerful 3% plan to fire Congress - Rolling Out",
-            "sentiment": "NEGATIVE",
-            "score": 0.8443853855133057,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -293,15 +322,6 @@
             ]
         },
         {
-            "title": "Iran war could prompt Federal Reserve to raise rates, Pimco says - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.752301037311554,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Bank of America raises red flag on summer gas prices - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.8654769659042358,
@@ -345,27 +365,9 @@
             ]
         },
         {
-            "title": "Women at the sharp end as AI takes over administrative roles - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9601548314094543,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Banks and Crypto Backers Tussle as Senators Eye Landmark Digital Asset Bill - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9008545279502869,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Fintech startup Parker files for bankruptcy - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.8937098979949951,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -376,15 +378,6 @@
             "sentiment": "POSITIVE",
             "score": 0.7823970317840576,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'A good scapegoat': Wall Street assesses latest AI-linked job cuts - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9263125061988831,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
