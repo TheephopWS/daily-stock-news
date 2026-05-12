@@ -1,9 +1,54 @@
 {
-    "last_updated": "2026-05-11 22:32:49 UTC",
-    "total_articles": 34,
-    "bullish_articles": 11,
+    "last_updated": "2026-05-12 04:11:22 UTC",
+    "total_articles": 31,
+    "bullish_articles": 8,
     "bearish_articles": 23,
     "articles": [
+        {
+            "title": "Stock futures slide as investors monitor the latest Iran war negotiations: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9459165334701538,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "United flight from Cabo to Houston diverted due to in-flight emergency - KHOU",
+            "sentiment": "NEGATIVE",
+            "score": 0.9519630670547485,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil prices jump after Trump dismisses Iran proposal to end war - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9544980525970459,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "$7 Billion In Perfectly Timed Oil Bets Sparks Insider Trading Fears - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9084999561309814,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US Stock Futures Slip as US-Iran Deal Hope Fades: Markets Wrap - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8016838431358337,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Disney abruptly cancels cruise sailing, offers refunds - thestreet.com",
             "sentiment": "NEGATIVE",
@@ -22,19 +67,19 @@
             ]
         },
         {
-            "title": "Saudi oil giant Aramco sees 25% jump in Q1 profit after shifting exports from Strait of Hormuz - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.9410887360572815,
-            "signal": "BULLISH",
+            "title": "Oil Market Runs Down Safety Cushion as Supply Shock Worsens - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9730530977249146,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Momentum-Obsessed Traders Seek Clues on Iran Truce - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.7151545882225037,
-            "signal": "BEARISH",
+            "title": "Market guru Yardeni sees S&P 500 hitting 8,250 this year as earnings bolster 'Roaring 2020s' - Fortune",
+            "sentiment": "POSITIVE",
+            "score": 0.9222013354301453,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -42,7 +87,7 @@
         {
             "title": "Oil price hikes could mean big shifts for Florida\u2019s crucial tourism industry - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.7758268117904663,
+            "score": 0.7758278846740723,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -51,65 +96,56 @@
         {
             "title": "Popular convenience store chain files for Chapter 11 bankruptcy - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9025953412055969,
+            "score": 0.9025951027870178,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "A $2 billion tech firm is halting 401k contributions for staff - thestreet.com",
+            "title": "\u2018Load Up Ahead of May 20,\u2019 Says Investor About Nvidia Stock - TipRanks",
             "sentiment": "NEGATIVE",
-            "score": 0.8702434301376343,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "A chocolate laboratory in Italy will be good for chocolate eaters \u2014 and farmers - NPR",
-            "sentiment": "POSITIVE",
-            "score": 0.716995120048523,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Big Tech\u2019s AI spending is depriving investors of juicy payouts - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9520512223243713,
+            "score": 0.8861803412437439,
             "signal": "BEARISH",
             "tickers": [
-                "GS"
+                "NVDA"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "GS",
+                    "ticker": "NVDA",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
         {
+            "title": "A chocolate laboratory in Italy will be good for chocolate eaters \u2014 and farmers - NPR",
+            "sentiment": "POSITIVE",
+            "score": 0.7169938087463379,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Proof of Concept: S&P 500 Posts Record Earnings as AI Monetization Arrives - TipRanks",
             "sentiment": "POSITIVE",
-            "score": 0.9378772974014282,
+            "score": 0.9378771781921387,
             "signal": "BULLISH",
             "tickers": [
-                "SPX",
-                "NDX"
+                "NDX",
+                "SPX"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "SPX",
+                    "ticker": "NDX",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "NDX",
+                    "ticker": "SPX",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -118,7 +154,16 @@
         {
             "title": "Royal Caribbean to Temporarily Stop Serving Alcoholic Beverages at CocoCay - Cruise Industry News",
             "sentiment": "NEGATIVE",
-            "score": 0.704069972038269,
+            "score": 0.7040698528289795,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "'I want to see somebody fired': Jake calls for accountability over Sound Transit's $35B hole, project delays - MyNorthwest.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9603463411331177,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -144,7 +189,7 @@
         {
             "title": "Iran war could prompt Federal Reserve to raise rates, Pimco says - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.7523000240325928,
+            "score": 0.752301037311554,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -153,34 +198,33 @@
         {
             "title": "\u2018This is the way\u2019: Elon Musk endorses Warren Buffett\u2019s famed 5-minute plan to fix the national debt - Fortune",
             "sentiment": "POSITIVE",
-            "score": 0.7243430614471436,
+            "score": 0.7243410348892212,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "A $730,000 Portfolio That Pays More Than What Most Americans Earn at Work - 24/7 Wall St.",
+            "title": "Bank of America raises red flag on summer gas prices - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7350479364395142,
+            "score": 0.8654769659042358,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "BAC"
+            ],
+            "primary_ticker": "BAC",
+            "ticker_impacts": [
+                {
+                    "ticker": "BAC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Oakland home values continue to fall \u2014 at one of the fastest rates in the nation - San Francisco Chronicle",
             "sentiment": "NEGATIVE",
-            "score": 0.9726029634475708,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Marjorie Taylor Greene Singles Out $920 Million Worth Of Crude Oil Shorts And Says On-Again, Off-Again War Rehetoric Is Just 'Insider Trading' - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.7143194675445557,
+            "score": 0.9726030826568604,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -189,7 +233,7 @@
         {
             "title": "Last Tesla Model S and X Roll Off Production Line - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.720323920249939,
+            "score": 0.7203242182731628,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -204,52 +248,9 @@
             ]
         },
         {
-            "title": "The Week That Was, The Week Ahead: Macro and Markets, May 10 - TipRanks",
-            "sentiment": "POSITIVE",
-            "score": 0.9441766142845154,
-            "signal": "BULLISH",
-            "tickers": [
-                "SPX"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "SPX",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "3 AI Stocks to Buy Immediately - InvestorPlace",
+            "title": "Banks and Crypto Backers Tussle as Senators Eye Landmark Digital Asset Bill - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7540720105171204,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Women at the sharp end as AI takes over administrative roles - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9601548314094543,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Iran war is draining world\u2019s oil buffer at an unprecedented pace - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9739984273910522,
+            "score": 0.9008545279502869,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -258,7 +259,7 @@
         {
             "title": "Jim Cramer makes a bold call on AI as stocks waver - thestreet.com",
             "sentiment": "POSITIVE",
-            "score": 0.876802384853363,
+            "score": 0.8768021464347839,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -267,7 +268,7 @@
         {
             "title": "Fintech startup Parker files for bankruptcy - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.893710196018219,
+            "score": 0.8937098979949951,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -276,8 +277,17 @@
         {
             "title": "GM agrees to pay $12.75M in California driver privacy settlement - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.7823977470397949,
+            "score": 0.7823970317840576,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "'MAGA vibe shift': Conservative media darling's demise 'a long time coming' - Alternet",
+            "sentiment": "NEGATIVE",
+            "score": 0.9730318784713745,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -292,94 +302,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "National burger chain cuts jobs amid store closures - thestreet.com",
+            "title": "'A good scapegoat': Wall Street assesses latest AI-linked job cuts - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9662313461303711,
+            "score": 0.9263125061988831,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Trump Touted The \u201cTens Of Billions Of Dollars\u201d The Government Has Made From Intel, While Selling A Deal To Apple That Undercuts TSMC By 25% On Wafer Pricing - Wccftech",
-            "sentiment": "POSITIVE",
-            "score": 0.9291223287582397,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC",
-                "AAPL"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Pedestrian killed after being struck by Frontier Airlines plane taking off in Denver - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.9257598519325256,
+            "score": 0.9257596135139465,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Why Is Palantir Stock (PLTR) Falling Despite Accelerating Revenue Growth? - TipRanks",
-            "sentiment": "POSITIVE",
-            "score": 0.8367950916290283,
-            "signal": "BULLISH",
-            "tickers": [
-                "PLTR"
-            ],
-            "primary_ticker": "PLTR",
-            "ticker_impacts": [
-                {
-                    "ticker": "PLTR",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "15 Photos Of Gas Prices Across The Country That Have Me Clutching My Wallet And Crying - BuzzFeed",
-            "sentiment": "NEGATIVE",
-            "score": 0.8400020003318787,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Micron Stock Is Up 700% Over the Past Year. Its Shares Still Look Relatively Cheap. - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.7610976099967957,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC",
-                "AI"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "AI",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "The Iran war will change global energy markets in these important ways, oil executives say - CNBC",
@@ -391,26 +329,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oral Ozempic and Wegovy pills now available for same-day delivery on Amazon - New York Post",
-            "sentiment": "POSITIVE",
-            "score": 0.8562940955162048,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Companies are abandoning \u2018peanut butter\u2019 raises as pay-for-performance takes over the workplace in the AI era - Fortune",
+            "title": "Bosses Horrified as \"AI Native\" College Graduates Hit the Workplace - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.7512735724449158,
+            "score": 0.9655450582504272,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
