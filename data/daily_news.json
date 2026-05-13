@@ -1,14 +1,31 @@
 {
-    "last_updated": "2026-05-13 04:18:21 UTC",
-    "total_articles": 25,
-    "bullish_articles": 9,
-    "bearish_articles": 16,
+    "last_updated": "2026-05-13 09:23:10 UTC",
+    "total_articles": 23,
+    "bullish_articles": 6,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "Trump Clears Way for More Beef Imports, Aiming to Bring Down Record-High Prices - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9128724932670593,
-            "signal": "BULLISH",
+            "title": "Fake Trump and Oprah ads fuel a wave of Medicare scams on Facebook, report says - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9591564536094666,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Cell phone data shows Trump's trade policies are hurting more than just Canadian tourism - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9745961427688599,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -75,23 +92,14 @@
             "ticker_impacts": []
         },
         {
-            "title": "Starbucks lays off 61 people at Seattle corporate headquarters - KOMO",
-            "sentiment": "NEGATIVE",
-            "score": 0.9704558849334717,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Strong Demand Boosts Nvidia Rival Cerebras Ahead of Its IPO - The Motley Fool",
             "sentiment": "POSITIVE",
             "score": 0.9372022747993469,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA",
-                "AI",
-                "INTC"
+                "INTC",
+                "AI"
             ],
             "primary_ticker": "NVDA",
             "ticker_impacts": [
@@ -101,16 +109,25 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AI",
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "AI",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Aramco Sees 100 Million-Barrel Oil Loss Each Week Hormuz Is Shut - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9697740077972412,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "A Disney Adventure cruise was canceled after guests boarded - USA Today",
@@ -139,18 +156,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "U.S. automakers urge Trump to keep Chinese cars out of country - qz.com",
+            "title": "Michael Burry Warns of Stock Crash as Tech Jump Echoes 2000 Peak - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9408688545227051,
+            "score": 0.8299841284751892,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Saudi Aramco warns fuel stocks heading for \u2018critically low levels\u2019 - Financial Times",
+            "title": "U.S. automakers urge Trump to keep Chinese cars out of country - qz.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9645634889602661,
+            "score": 0.9408688545227051,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -175,28 +192,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "'The market has jumped the shark': Michael Burry says stocks may finally be at the precipice of a major reversal - Business Insider",
-            "sentiment": "POSITIVE",
-            "score": 0.7094135284423828,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Amid M&A buzz, Inhibrx's OX40-Keytruda combo shows promise in early look at midphase data - Fierce Biotech",
             "sentiment": "POSITIVE",
             "score": 0.8615955710411072,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Short Seller Andrew Left to Face Jury Over Alleged Manipulation - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8655490279197693,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -209,6 +208,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "JPMorgan issues stark warning on gas prices and inflation - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.916247546672821,
+            "signal": "BEARISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Sony's failed war against Internet piracy may doom other copyright lawsuits - Ars Technica",
@@ -245,32 +261,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Budget-conscious shoppers are feeding a boom in discount groceries - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.7302632927894592,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Goldman Says Yuan 20% Undervalued, Boosts Currency Forecasts - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8459653854370117,
-            "signal": "BULLISH",
-            "tickers": [
-                "GS"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GS",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Oakland Home Prices Crater, Tie For Nation\u2019s Steepest Drop - Hoodline",
