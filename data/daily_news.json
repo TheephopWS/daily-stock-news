@@ -1,13 +1,30 @@
 {
-    "last_updated": "2026-05-13 20:16:04 UTC",
-    "total_articles": 16,
-    "bullish_articles": 4,
-    "bearish_articles": 12,
+    "last_updated": "2026-05-13 22:42:36 UTC",
+    "total_articles": 21,
+    "bullish_articles": 5,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "Laid off GM employees describe ominous meeting, AI and severance - CNBC",
+            "title": "Walmart Lays Off or Relocates About 1,000 Corporate Workers - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9561348557472229,
+            "score": 0.9701827764511108,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "This Is the Real Swatch x Audemars Piguet Royal Pop Collaboration - WIRED",
+            "sentiment": "NEGATIVE",
+            "score": 0.8333969116210938,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,18 +40,97 @@
             "ticker_impacts": []
         },
         {
-            "title": "Their son died of a drug overdose after consulting ChatGPT. Now they're suing OpenAI. - CBS News",
+            "title": "Michael Burry's Latest Warning: Stock Market 'Feeling Like the Last Months' of Dotcom Bubble - Investopedia",
             "sentiment": "NEGATIVE",
-            "score": 0.9069045782089233,
+            "score": 0.7121767997741699,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Small US town left completely isolated and cut off from world after only airlines in town goes under - New York Post",
+            "title": "Why the oil crisis could become a full-blown catastrophe within a month - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.8041137456893921,
+            "score": 0.9591872692108154,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why Kevin Warsh is likely to run afoul of Trump at the Fed - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9601548314094543,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Laid off GM employees describe ominous meeting, AI and severance - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9561348557472229,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Report: Google and SpaceX in talks to put data centers into orbit - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.7370128035545349,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Crypto bill ethics talks wobble as senators eye Trump engagement - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.8236653804779053,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "United Airlines flight attendants ratify new contract with 31% raises this summer - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.861299991607666,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia\u2019s Huang Wants to Sell Chips to China. Trump Has Other Priorities. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9216676354408264,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Biggest US Grid May Be Too Large to Function, Regulator Says - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9609902501106262,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -50,45 +146,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "Howard Schultz takes a jab at Seattle after moving to Miami - The Seattle Times",
+            "title": "Nearly 3,800 Waymo Robotaxis Recalled Over Concerns About Driving In Flooded Roadways - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.885375440120697,
+            "score": 0.9555534720420837,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "GameStop stock trims losses after eBay rejects takeover bid - Yahoo Finance",
+            "title": "EBay listed 6 short reasons it's rejecting GameStop CEO Ryan Cohen's takeover offer - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9712349772453308,
+            "score": 0.7701209783554077,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Micron Technology Stock Forecast 2026 \u2014 What Financial Analysts Expect Right Now - TipRanks",
-            "sentiment": "POSITIVE",
-            "score": 0.8237666487693787,
-            "signal": "BULLISH",
-            "tickers": [
-                "HBM",
-                "MU"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "HBM",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "MU",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "UK 30-Year Yields Jump to Highest Since 1998 on Starmer Pressure - Bloomberg.com",
@@ -155,32 +228,6 @@
             "ticker_impacts": [
                 {
                     "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Michael Burry Warns of Stock Crash as Tech Jump Echoes 2000 Peak - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8299841284751892,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "JPMorgan issues stark warning on gas prices and inflation - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.916247546672821,
-            "signal": "BEARISH",
-            "tickers": [
-                "JPM"
-            ],
-            "primary_ticker": "JPM",
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
                     "impact": "negative",
                     "relevance": "high"
                 }
