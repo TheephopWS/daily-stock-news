@@ -1,67 +1,143 @@
 {
-    "last_updated": "2026-05-14 11:25:18 UTC",
-    "total_articles": 11,
-    "bullish_articles": 4,
-    "bearish_articles": 7,
+    "last_updated": "2026-05-14 14:49:13 UTC",
+    "total_articles": 13,
+    "bullish_articles": 3,
+    "bearish_articles": 10,
     "articles": [
         {
-            "title": "SoftBank posts $46 billion gain at Vision Fund driven mainly by massive OpenAI bet - CNBC",
+            "title": "Dow Falls On Hot Inflation But Nvidia, These AI Winners Rally (Live) - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.9525392055511475,
+            "score": 0.7566543817520142,
             "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "OPEC sees slower demand growth this year as production falls more than 30% on Hormuz closure - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9706581234931946,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Waymo recalls robotaxis after vehicle swept away in San Antonio flood - San Antonio Express-News",
+            "title": "AI chip stocks surge again as Nvidia\u2019s Huang joins Trump on visit to China - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9322930574417114,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Waymo recalls thousands of robotaxis after Texas flood incident - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9265240430831909,
+            "score": 0.8585848808288574,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Alibaba's core profit plunges 84% even as AI and cloud growth accelerate - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9759982228279114,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Short flights are popular. Will they last? - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.7539855241775513,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mira Murati's AI dream team got their stock options. Now many are out. - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9410313963890076,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Meta employees protest new mouse-tracking software days before mass layoffs - The Next Web",
+            "sentiment": "NEGATIVE",
+            "score": 0.8650809526443481,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Why Physical Crude Premiums Collapse Despite the Hormuz Crisis - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9647335410118103,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Walmart Lays Off or Relocates About 1,000 Corporate Workers - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9701827764511108,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Clarity Act Text Reveals Stablecoin Rules, Crypto Provisions Ahead Of Hearing - Investor's Business Daily",
             "sentiment": "POSITIVE",
             "score": 0.89996337890625,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why Kevin Warsh is likely to run afoul of Trump at the Fed - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.9601548314094543,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "United Flight Attendants Ratify New Contract - Association of Flight Attendants-CWA",
-            "sentiment": "POSITIVE",
-            "score": 0.906470537185669,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Parents say ChatGPT got their son killed with bad advice on party drugs - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.9200297594070435,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US household debt ticks up to new all-time high as inflation continues to rise - ABC News - Breaking News, Latest News and Videos",
-            "sentiment": "POSITIVE",
-            "score": 0.7256777286529541,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -84,32 +160,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Tech boom vs oil crisis: Asia\u2019s new economic reality is a warning for the world - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9199526906013489,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Fake Trump and Oprah ads fuel a wave of Medicare scams on Facebook, report says - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9591564536094666,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
