@@ -1,9 +1,72 @@
 {
-    "last_updated": "2026-05-14 14:49:13 UTC",
-    "total_articles": 13,
-    "bullish_articles": 3,
-    "bearish_articles": 10,
+    "last_updated": "2026-05-14 17:16:18 UTC",
+    "total_articles": 21,
+    "bullish_articles": 9,
+    "bearish_articles": 12,
     "articles": [
+        {
+            "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.7111600637435913,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Read the internal memo from LinkedIn's CEO on layoffs and 'scaling back investments' - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9624583721160889,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Ford shares jump 6% as Morgan Stanley hails CATL-backed energy business - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9508700370788574,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US 10-Year Treasury Yield Hits Highest Since July After PPI Data - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9332453012466431,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "7 in 10 Americans oppose data centers being built in their communities - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8544326424598694,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Anduril raises $5B, doubles valuation to $61B - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.9148203730583191,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "S&P 500 hits another record driven by tech alone as most stocks decline on the day: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.974040687084198,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Dow Falls On Hot Inflation But Nvidia, These AI Winners Rally (Live) - Investor's Business Daily",
             "sentiment": "POSITIVE",
@@ -22,30 +85,82 @@
             ]
         },
         {
-            "title": "OPEC sees slower demand growth this year as production falls more than 30% on Hormuz closure - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9706581234931946,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AI chip stocks surge again as Nvidia\u2019s Huang joins Trump on visit to China - Yahoo Finance",
+            "title": "Space Stocks Jump As SpaceX, Google Explore Orbital Data Center Deal - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.9322930574417114,
+            "score": 0.8728972673416138,
             "signal": "BULLISH",
             "tickers": [
-                "NVDA"
+                "GOOGL"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Why AI Chip Stocks INTC, AMD, NVDA Are Rising Today, 05/13/26 - TipRanks",
+            "sentiment": "POSITIVE",
+            "score": 0.9352924227714539,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMD",
+                "QCOM",
+                "NVDA",
+                "INTC"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "QCOM",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Walmart cuts 1,000 roles to simplify operations, Reuters reports - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9472395181655884,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Will California gas hit $7? Experts are split. - CalMatters",
+            "sentiment": "NEGATIVE",
+            "score": 0.89309161901474,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Waymo recalls thousands of robotaxis after Texas flood incident - BBC",
@@ -57,10 +172,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Alibaba's core profit plunges 84% even as AI and cloud growth accelerate - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9759982228279114,
-            "signal": "BEARISH",
+            "title": "Alibaba's AI spending to exceed goals on signs of payoff, says margin 'secondary' - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8831446766853333,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -73,23 +188,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Mira Murati's AI dream team got their stock options. Now many are out. - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9410313963890076,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Meta employees protest new mouse-tracking software days before mass layoffs - The Next Web",
@@ -109,30 +207,13 @@
             ]
         },
         {
-            "title": "Why Physical Crude Premiums Collapse Despite the Hormuz Crisis - Crude Oil Prices Today | OilPrice.com",
+            "title": "There Is a Fire Sale on M.B.A.s - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9647335410118103,
+            "score": 0.8510093688964844,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Walmart Lays Off or Relocates About 1,000 Corporate Workers - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9701827764511108,
-            "signal": "BEARISH",
-            "tickers": [
-                "WMT"
-            ],
-            "primary_ticker": "WMT",
-            "ticker_impacts": [
-                {
-                    "ticker": "WMT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Clarity Act Text Reveals Stablecoin Rules, Crypto Provisions Ahead Of Hearing - Investor's Business Daily",
@@ -144,19 +225,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "EBay listed 6 short reasons it's rejecting GameStop CEO Ryan Cohen's takeover offer - Business Insider",
+            "title": "United Flight Attendants Ratify New Contract - Association of Flight Attendants-CWA",
+            "sentiment": "POSITIVE",
+            "score": 0.906470537185669,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Parents say ChatGPT got their son killed with bad advice on party drugs - The Verge",
             "sentiment": "NEGATIVE",
-            "score": 0.7701209783554077,
+            "score": 0.9200297594070435,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "UK 30-Year Yields Jump to Highest Since 1998 on Starmer Pressure - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9663178324699402,
-            "signal": "BEARISH",
+            "title": "SAP and Palantir Enhance Partnership | SAP Sapphire - SAP News Center",
+            "sentiment": "POSITIVE",
+            "score": 0.9448201060295105,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
