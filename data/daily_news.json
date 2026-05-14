@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-14 17:16:18 UTC",
+    "last_updated": "2026-05-14 20:09:35 UTC",
     "total_articles": 21,
     "bullish_articles": 9,
     "bearish_articles": 12,
@@ -108,9 +108,9 @@
             "signal": "BULLISH",
             "tickers": [
                 "AMD",
+                "INTC",
                 "QCOM",
-                "NVDA",
-                "INTC"
+                "NVDA"
             ],
             "primary_ticker": "AMD",
             "ticker_impacts": [
@@ -120,17 +120,17 @@
                     "relevance": "high"
                 },
                 {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
                     "ticker": "QCOM",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
                     "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "medium"
                 }
