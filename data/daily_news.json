@@ -1,17 +1,68 @@
 {
-    "last_updated": "2026-05-15 09:27:23 UTC",
-    "total_articles": 21,
-    "bullish_articles": 7,
+    "last_updated": "2026-05-15 14:43:05 UTC",
+    "total_articles": 22,
+    "bullish_articles": 8,
     "bearish_articles": 14,
     "articles": [
         {
-            "title": "Asia stocks uneven as investors assess high-stakes Trump-Xi talks, AI rally - Yahoo Finance",
+            "title": "The Dow is poised to retake 50,000 as Cisco jumps, Boeing gains: Live updates - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8254182934761047,
+            "score": 0.9225283861160278,
             "signal": "BULLISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Versant reports first-quarter revenue decline, with bright spots in platforms and licensing - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9751282334327698,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Meta\u2019s New Reality: Record High Profits. Record Low Morale - WIRED",
+            "sentiment": "NEGATIVE",
+            "score": 0.9646270275115967,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Exclusive-US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.7199603319168091,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Oil Steadies Ahead of Trump-Xi Talks as Iran War Tensions Simmer - Yahoo Finance",
@@ -29,8 +80,8 @@
             "signal": "BULLISH",
             "tickers": [
                 "NVDA",
-                "AMD",
-                "BAC"
+                "BAC",
+                "AMD"
             ],
             "primary_ticker": "NVDA",
             "ticker_impacts": [
@@ -40,12 +91,12 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMD",
+                    "ticker": "BAC",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "BAC",
+                    "ticker": "AMD",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -70,42 +121,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia Rallies As CEO Jensen Huang Joins Trump's China Trip - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9364131093025208,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA",
-                "INTC"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Iran war is fueling China\u2019s clean energy surge ahead of Trump-Xi talks - Politico",
             "sentiment": "POSITIVE",
             "score": 0.7731035351753235,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "LinkedIn's layoffs will come with operational changes, memo shows - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.728737473487854,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -161,10 +180,28 @@
             ]
         },
         {
+            "title": "At Least 8 Recalls Have Been Linked To A Potentially Deadly Ingredient\u2014What To Know - Delish",
+            "sentiment": "NEGATIVE",
+            "score": 0.9542399644851685,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Frontier Passengers File $10 Million Claim Against Denver For Failing To Stop Runway Suicide - View from the Wing",
             "sentiment": "NEGATIVE",
             "score": 0.8758299350738525,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Ford shares jump 6% as Morgan Stanley hails CATL-backed energy business - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9508700370788574,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -176,8 +213,8 @@
             "signal": "BEARISH",
             "tickers": [
                 "BABA",
-                "AI",
-                "INTC"
+                "INTC",
+                "AI"
             ],
             "primary_ticker": "BABA",
             "ticker_impacts": [
@@ -187,12 +224,12 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AI",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "AI",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -243,49 +280,23 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta employees protest new mouse-tracking software days before mass layoffs - The Next Web",
-            "sentiment": "NEGATIVE",
-            "score": 0.8650809526443481,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Hot inflation report throws cold water on Fed rate cuts - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9297091960906982,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "GME, EBAY: \u2018Takeover Fight May Just Be Starting,\u2019 Says Morgan Stanley after eBay Rejects GameStop Bid - TipRanks",
             "sentiment": "NEGATIVE",
             "score": 0.8487234115600586,
             "signal": "BEARISH",
             "tickers": [
-                "EBAY",
-                "GME"
+                "GME",
+                "EBAY"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "EBAY",
+                    "ticker": "GME",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "GME",
+                    "ticker": "EBAY",
                     "impact": "negative",
                     "relevance": "medium"
                 }
