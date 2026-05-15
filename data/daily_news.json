@@ -1,40 +1,70 @@
 {
-    "last_updated": "2026-05-15 04:33:33 UTC",
-    "total_articles": 20,
+    "last_updated": "2026-05-15 09:27:23 UTC",
+    "total_articles": 21,
     "bullish_articles": 7,
-    "bearish_articles": 13,
+    "bearish_articles": 14,
     "articles": [
         {
-            "title": "Futures Rise As Cisco Surges Late; AI Chipmaker Prices IPO High - Investor's Business Daily",
+            "title": "Asia stocks uneven as investors assess high-stakes Trump-Xi talks, AI rally - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8232316374778748,
+            "score": 0.8254182934761047,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Asian Stocks to Climb as Wall Street Hits New High: Markets Wrap - Bloomberg.com",
+            "title": "Oil Steadies Ahead of Trump-Xi Talks as Iran War Tensions Simmer - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9372151494026184,
+            "score": 0.9031126499176025,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia, Micron and AMD: AI Stocks Score New Price Target Hikes From Bank of America - TipRanks",
+            "sentiment": "POSITIVE",
+            "score": 0.92914217710495,
             "signal": "BULLISH",
             "tickers": [
-                "INTC"
+                "NVDA",
+                "AMD",
+                "BAC"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "NVDA",
                     "impact": "positive",
-                    "relevance": "medium"
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "BAC",
+                    "impact": "positive",
+                    "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Cisco Earnings, Revenue Beat As Stock Hits Record High Amid Strong AI Orders - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9469850063323975,
-            "signal": "BULLISH",
+            "title": "Silicon Valley tech giant posts record revenue, then cuts 4,000 jobs - San Francisco Chronicle",
+            "sentiment": "NEGATIVE",
+            "score": 0.9657955169677734,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Wall Street-crypto clash creates strange bedfellows in the Senate - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9413371086120605,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -99,10 +129,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.7111600637435913,
-            "signal": "BEARISH",
+            "title": "Trump Mobile's CEO says gold-plated Trump phone will begin shipping to buyers this week after delays - Fortune",
+            "sentiment": "POSITIVE",
+            "score": 0.9078601002693176,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -113,35 +143,56 @@
             "score": 0.9132179021835327,
             "signal": "BULLISH",
             "tickers": [
-                "NDX",
-                "SPX"
+                "SPX",
+                "NDX"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "NDX",
+                    "ticker": "SPX",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "SPX",
+                    "ticker": "NDX",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Mark Zuckerberg Is Realizing That When You Treat Your Workers Like Human Garbage, They Might Not Like You Anymore - Futurism",
+            "title": "Frontier Passengers File $10 Million Claim Against Denver For Failing To Stop Runway Suicide - View from the Wing",
             "sentiment": "NEGATIVE",
-            "score": 0.9626326560974121,
+            "score": 0.8758299350738525,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Alibaba (BABA) Sees Profits Drain 84% Despite Cloud and AI Growth Surge - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.9756524562835693,
             "signal": "BEARISH",
             "tickers": [
-                "META"
+                "BABA",
+                "AI",
+                "INTC"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "BABA",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "BABA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AI",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -183,23 +234,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Alibaba Stock (BABA) Jumps 6% Despite Q4 Earnings Miss \u2014 What\u2019s Driving the Rally? - TipRanks",
-            "sentiment": "POSITIVE",
-            "score": 0.9217187762260437,
-            "signal": "BULLISH",
-            "tickers": [
-                "BABA"
-            ],
-            "primary_ticker": "BABA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BABA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Waymo recalls thousands of robotaxis after Texas flood incident - BBC",
             "sentiment": "NEGATIVE",
             "score": 0.8585848808288574,
@@ -209,13 +243,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Short flights are popular. Will they last? - NPR",
+            "title": "Meta employees protest new mouse-tracking software days before mass layoffs - The Next Web",
             "sentiment": "NEGATIVE",
-            "score": 0.7539855241775513,
+            "score": 0.8650809526443481,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Hot inflation report throws cold water on Fed rate cuts - thestreet.com",
@@ -248,15 +290,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Man hit by Frontier Airlines plane taking off at Denver airport intended to kill himself, officials say - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.7480130195617676,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
