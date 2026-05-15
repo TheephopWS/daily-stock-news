@@ -1,9 +1,35 @@
 {
-    "last_updated": "2026-05-14 22:34:44 UTC",
-    "total_articles": 23,
-    "bullish_articles": 8,
-    "bearish_articles": 15,
+    "last_updated": "2026-05-15 04:33:33 UTC",
+    "total_articles": 20,
+    "bullish_articles": 7,
+    "bearish_articles": 13,
     "articles": [
+        {
+            "title": "Futures Rise As Cisco Surges Late; AI Chipmaker Prices IPO High - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.8232316374778748,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Asian Stocks to Climb as Wall Street Hits New High: Markets Wrap - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9372151494026184,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
         {
             "title": "Cisco Earnings, Revenue Beat As Stock Hits Record High Amid Strong AI Orders - Investor's Business Daily",
             "sentiment": "POSITIVE",
@@ -14,10 +40,42 @@
             "ticker_impacts": []
         },
         {
-            "title": "Allegiant CEO makes case for low-cost airline model as Sun Country acquisition closes - CNBC",
+            "title": "Nvidia Rallies As CEO Jensen Huang Joins Trump's China Trip - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.9288817048072815,
+            "score": 0.9364131093025208,
             "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "INTC"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Iran war is fueling China\u2019s clean energy surge ahead of Trump-Xi talks - Politico",
+            "sentiment": "POSITIVE",
+            "score": 0.7731035351753235,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "LinkedIn's layoffs will come with operational changes, memo shows - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.728737473487854,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -41,15 +99,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump Mobile's CEO says gold-plated Trump phone will begin shipping to buyers this week after delays - Fortune",
-            "sentiment": "POSITIVE",
-            "score": 0.9078601002693176,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar - Ars Technica",
             "sentiment": "NEGATIVE",
             "score": 0.7111600637435913,
@@ -59,48 +108,53 @@
             "ticker_impacts": []
         },
         {
-            "title": "Read the internal memo from LinkedIn's CEO on layoffs and 'scaling back investments' - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9624583721160889,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Ford shares jump 6% as Morgan Stanley hails CATL-backed energy business - Yahoo Finance",
+            "title": "Why Is the Stock Market Up Today, 5/13/26? - TipRanks",
             "sentiment": "POSITIVE",
-            "score": 0.9508700370788574,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US 10-Year Treasury Yield Hits Highest Since July After PPI Data - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9332453012466431,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Space Stocks Jump As SpaceX, Google Explore Orbital Data Center Deal - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.8728972673416138,
+            "score": 0.9132179021835327,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL"
+                "NDX",
+                "SPX"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "NDX",
                     "impact": "positive",
-                    "relevance": "high"
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "SPX",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Mark Zuckerberg Is Realizing That When You Treat Your Workers Like Human Garbage, They Might Not Like You Anymore - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.9626326560974121,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "r/WallStreetBets really hates the SEC\u2019s proposal to weaken quarterly reporting - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9506438970565796,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Walmart cuts 1,000 roles to simplify operations, Reuters reports - CNBC",
@@ -164,23 +218,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta employees protest new mouse-tracking software days before mass layoffs - The Next Web",
-            "sentiment": "NEGATIVE",
-            "score": 0.8650809526443481,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Hot inflation report throws cold water on Fed rate cuts - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.9297091960906982,
@@ -195,71 +232,27 @@
             "score": 0.8487234115600586,
             "signal": "BEARISH",
             "tickers": [
-                "GME",
-                "EBAY"
+                "EBAY",
+                "GME"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
-                {
-                    "ticker": "GME",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
                 {
                     "ticker": "EBAY",
                     "impact": "negative",
                     "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Asia markets mixed as investors watch Trump-Xi meeting and Iran tensions - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9331548810005188,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
+                },
                 {
-                    "ticker": "AAPL",
+                    "ticker": "GME",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Why Are Stock Market Futures Flat Today, 5/12/26? - TipRanks",
+            "title": "Man hit by Frontier Airlines plane taking off at Denver airport intended to kill himself, officials say - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9628649950027466,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SAP Unveils the Autonomous Enterprise - SAP News Center",
-            "sentiment": "POSITIVE",
-            "score": 0.7246309518814087,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "United Flight Attendants Ratify New Contract - Association of Flight Attendants-CWA",
-            "sentiment": "POSITIVE",
-            "score": 0.906470537185669,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Denver, Colorado airport incident news: Officials ID man hit by Frontier flight as Michael Mott, give new details - ABC7 Los Angeles",
-            "sentiment": "NEGATIVE",
-            "score": 0.7305231690406799,
+            "score": 0.7480130195617676,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
