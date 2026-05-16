@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-05-16 16:15:19 UTC",
-    "total_articles": 22,
-    "bullish_articles": 8,
+    "last_updated": "2026-05-16 19:37:55 UTC",
+    "total_articles": 19,
+    "bullish_articles": 5,
     "bearish_articles": 14,
     "articles": [
+        {
+            "title": "Stock Market Today: Dow, S&P 500 and Nasdaq fall amid inflation jitters as oil prices climb; Treasury yields are up as U.S. oil prices trade above $100 a barrel; S&P 500's tech sector under pressure - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9720124006271362,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Honda shows off new hybrids for America as it absorbs $9 billion EV loss - Ars Technica",
             "sentiment": "NEGATIVE",
@@ -23,60 +32,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Chip Stocks Slide After U.S.-China Summit Ends Without Major Tech Deals - Yahoo Finance",
+            "title": "Bill Ackman has been quietly buying Microsoft since February, when AI fears were dragging the stock - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9454054236412048,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump misses deadline to disclose tens of millions of dollars in stock trades - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9352154731750488,
+            "score": 0.7270054817199707,
             "signal": "BEARISH",
             "tickers": [
-                "MSFT",
-                "AMZN"
+                "MSFT"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "MSFT",
             "ticker_impacts": [
                 {
                     "ticker": "MSFT",
                     "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Chip Stocks Slide After U.S.-China Summit Ends Without Major Tech Deals - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9286907315254211,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Starbucks to lay off 300 U.S. employees, shutter some regional support offices - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9311419725418091,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Detroit automakers have cut more than 20,000 U.S. salaried jobs as AI threat looms - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9626931548118591,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Winklevoss-founded Gemini shares surge after founders' $100 million lifeline - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9076541662216187,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -109,38 +94,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bill Ackman says he built Microsoft position in first quarter - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7645461559295654,
-            "signal": "BULLISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Boeing Stock Hit. Its Big Jet Order From China Isn\u2019t Big Enough. - Barron's",
+            "title": "Trump\u2019s Iran war is pushing American farmers to the brink - Salon.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9741119742393494,
+            "score": 0.956031084060669,
             "signal": "BEARISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "FDA blocked melanoma drug as confusion reigned under Makary - CBS News",
@@ -161,18 +121,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX IPO set to lock in Elon Musk\u2019s control with Mars-linked pay deal - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9605906009674072,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market News May 14, 2026: S&P 500 and Nasdaq notch new records, Dow ends above 50,000 with U.S. retail-sales data and Trump\u2019s China trip in focus - MarketWatch",
+            "title": "Cisco leads Wall Street to more records and the Dow back to 50,000 - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.862047016620636,
+            "score": 0.8753365278244019,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -188,10 +139,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bitcoin hits $82,000, Coinbase leads crypto stock gains as Clarity act advances - CoinDesk",
-            "sentiment": "POSITIVE",
-            "score": 0.9345174431800842,
-            "signal": "BULLISH",
+            "title": "The tech job market is a bloodbath. It's likely going to get even worse. - SFGATE",
+            "sentiment": "NEGATIVE",
+            "score": 0.964214563369751,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
