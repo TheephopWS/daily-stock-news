@@ -1,13 +1,65 @@
 {
-    "last_updated": "2026-05-16 19:37:55 UTC",
+    "last_updated": "2026-05-16 22:09:28 UTC",
     "total_articles": 19,
     "bullish_articles": 5,
     "bearish_articles": 14,
     "articles": [
         {
-            "title": "Stock Market Today: Dow, S&P 500 and Nasdaq fall amid inflation jitters as oil prices climb; Treasury yields are up as U.S. oil prices trade above $100 a barrel; S&P 500's tech sector under pressure - MarketWatch",
+            "title": "Dow loses more than 500 points Friday as tech slumps and yields spike: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9720124006271362,
+            "score": 0.9736171960830688,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Power Prices in Eastern U.S. Spike 76% Thanks to AI Data Centers - Gizmodo",
+            "sentiment": "NEGATIVE",
+            "score": 0.7848433256149292,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI feels \u201cburned\u201d by Apple\u2019s crappy ChatGPT integration, insiders say - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.9562394618988037,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Microsoft Stock Jumps After Bill Ackman Reveals New Position - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.7153754830360413,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Demand for longer-term U.S. debt gets weaker as one shock after another stokes fear that high inflation is here to stay - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8899086117744446,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,44 +75,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Dow Falls 400 Points Lower on Oil Price Fears \u2014 Live Updates - WSJ",
+            "title": "Xi-Trump Summit Disappoints as Oil Bulls Regain Momentum - Crude Oil Prices Today | OilPrice.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9180726408958435,
+            "score": 0.7144666314125061,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Bill Ackman has been quietly buying Microsoft since February, when AI fears were dragging the stock - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.7270054817199707,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Chip Stocks Slide After U.S.-China Summit Ends Without Major Tech Deals - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.9286907315254211,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Starbucks to lay off 300 U.S. employees, shutter some regional support offices - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9311419725418091,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -112,10 +138,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "30-year Treasury yield tops 5.1%, highest in nearly a year - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8313246965408325,
-            "signal": "BULLISH",
+            "title": "SpaceX IPO set to ensure Elon Musk cannot be fired - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9637153148651123,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -125,24 +151,6 @@
             "sentiment": "POSITIVE",
             "score": 0.8753365278244019,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Claude is telling users to go to sleep mid-session. Users are annoyed but Anthropic says it's a tic - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9180720448493958,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The tech job market is a bloodbath. It's likely going to get even worse. - SFGATE",
-            "sentiment": "NEGATIVE",
-            "score": 0.964214563369751,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
