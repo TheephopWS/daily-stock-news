@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-05-17 04:36:53 UTC",
+    "last_updated": "2026-05-17 07:23:07 UTC",
     "total_articles": 15,
-    "bullish_articles": 6,
-    "bearish_articles": 9,
+    "bullish_articles": 3,
+    "bearish_articles": 12,
     "articles": [
         {
             "title": "Trump talks up trade deals with China, but experts see no big wins for U.S. - CBS News",
@@ -14,13 +14,44 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market on May 15, 2026: Dow, S&P 500 and Nasdaq close sharply lower on inflation jitters as U.S. oil prices climb to $105 a barrel and Treasury yields jump; Tech stocks under pressure - MarketWatch",
+            "title": "Pershing Square Snapped Up Microsoft Shares, Exited Hilton, Slashed Alphabet Stake in First Quarter - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.973137617111206,
+            "score": 0.9437387585639954,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "GOOGL",
+                "MSFT"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Berkshire Boosted Stake in Alphabet in First Quarter, Bought Delta Air, Sold Visa, Mastercard - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.938099205493927,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "US federal watchdog sues Chick-fil-A operator for religious discrimination - BBC",
@@ -32,35 +63,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Berkshire Hathaway returns to airlines with $2.6 billion stake in Delta Air Lines - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7748348116874695,
-            "signal": "BULLISH",
+            "title": "Global Bond Selloff Worsens as Rising Oil Prices Spook Investors - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9588979482650757,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "FDA Announces Nationwide Recall of Popular Ice Cream Due To Potential Metal Contamination - Allrecipes",
-            "sentiment": "NEGATIVE",
-            "score": 0.9570002555847168,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Fire that caused Penn Station commuting nightmare likely sparked by debris from new Amtrak Acela - New York Daily News",
             "sentiment": "NEGATIVE",
             "score": 0.9187886118888855,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Residents Fume as Fleet of Empty Self-Driving Cars Circle Their Homes for Hours - The Daily Beast",
+            "sentiment": "NEGATIVE",
+            "score": 0.9097536206245422,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -76,53 +99,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "FAA Releases Bold, New Air Traffic Controller Hiring Plan - Federal Aviation Administration (.gov)",
-            "sentiment": "POSITIVE",
-            "score": 0.8826907873153687,
-            "signal": "BULLISH",
-            "tickers": [
-                "FAA"
-            ],
+            "title": "Ford City Mall To Close In June - Block Club Chicago",
+            "sentiment": "NEGATIVE",
+            "score": 0.8218052387237549,
+            "signal": "BEARISH",
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "FAA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Traders now see next Fed interest rate move as a hike following inflation surge - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.8007664084434509,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Microsoft Stock Jumps After Bill Ackman Reveals New Position - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.7153754830360413,
-            "signal": "BULLISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "North America\u2019s largest commuter rail system faces a potential shutdown - PBS",
-            "sentiment": "NEGATIVE",
-            "score": 0.9648562669754028,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -137,6 +126,29 @@
             "ticker_impacts": []
         },
         {
+            "title": "Coinbase Stock Stumbles as the Senate Vote Progresses the CLARITY Act; CEO Critiques the Bill - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.9633413553237915,
+            "signal": "BEARISH",
+            "tickers": [
+                "HOOD",
+                "COIN"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "HOOD",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "COIN",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "WallStreetBets versus the SEC - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.8489438891410828,
@@ -146,26 +158,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "CATURUS ANNOUNCES FINAL INVESTMENT DECISION FOR 9.5 MTPA COMMONWEALTH LNG EXPORT FACILITY IN CAMERON, LA - PR Newswire",
-            "sentiment": "POSITIVE",
-            "score": 0.9433674216270447,
-            "signal": "BULLISH",
-            "tickers": [
-                "FID"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "FID",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Trump\u2019s Iran war is pushing American farmers to the brink - Salon.com",
             "sentiment": "NEGATIVE",
             "score": 0.956031084060669,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The tech job market is a bloodbath. It's likely going to get even worse. - SFGATE",
+            "sentiment": "NEGATIVE",
+            "score": 0.964214563369751,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
