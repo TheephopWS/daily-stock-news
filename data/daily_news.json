@@ -1,13 +1,66 @@
 {
-    "last_updated": "2026-05-16 22:09:28 UTC",
-    "total_articles": 19,
-    "bullish_articles": 5,
-    "bearish_articles": 14,
+    "last_updated": "2026-05-17 04:36:53 UTC",
+    "total_articles": 15,
+    "bullish_articles": 6,
+    "bearish_articles": 9,
     "articles": [
         {
-            "title": "Dow loses more than 500 points Friday as tech slumps and yields spike: Live updates - CNBC",
+            "title": "Trump talks up trade deals with China, but experts see no big wins for U.S. - CBS News",
+            "sentiment": "POSITIVE",
+            "score": 0.9355632066726685,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market on May 15, 2026: Dow, S&P 500 and Nasdaq close sharply lower on inflation jitters as U.S. oil prices climb to $105 a barrel and Treasury yields jump; Tech stocks under pressure - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9736171960830688,
+            "score": 0.973137617111206,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US federal watchdog sues Chick-fil-A operator for religious discrimination - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9353794455528259,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Berkshire Hathaway returns to airlines with $2.6 billion stake in Delta Air Lines - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7748348116874695,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "FDA Announces Nationwide Recall of Popular Ice Cream Due To Potential Metal Contamination - Allrecipes",
+            "sentiment": "NEGATIVE",
+            "score": 0.9570002555847168,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Fire that caused Penn Station commuting nightmare likely sparked by debris from new Amtrak Acela - New York Daily News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9187886118888855,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,21 +76,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI feels \u201cburned\u201d by Apple\u2019s crappy ChatGPT integration, insiders say - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.9562394618988037,
-            "signal": "BEARISH",
+            "title": "FAA Releases Bold, New Air Traffic Controller Hiring Plan - Federal Aviation Administration (.gov)",
+            "sentiment": "POSITIVE",
+            "score": 0.8826907873153687,
+            "signal": "BULLISH",
             "tickers": [
-                "AAPL"
+                "FAA"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "ticker": "FAA",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Traders now see next Fed interest rate move as a hike following inflation surge - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8007664084434509,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Microsoft Stock Jumps After Bill Ackman Reveals New Position - Yahoo Finance",
@@ -57,9 +119,9 @@
             ]
         },
         {
-            "title": "Demand for longer-term U.S. debt gets weaker as one shock after another stokes fear that high inflation is here to stay - Fortune",
+            "title": "North America\u2019s largest commuter rail system faces a potential shutdown - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.8899086117744446,
+            "score": 0.9648562669754028,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -75,42 +137,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Xi-Trump Summit Disappoints as Oil Bulls Regain Momentum - Crude Oil Prices Today | OilPrice.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7144666314125061,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Chip Stocks Slide After U.S.-China Summit Ends Without Major Tech Deals - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9286907315254211,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "North America\u2019s largest commuter rail system faces a potential shutdown - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.963296115398407,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "LIRR service to Penn Station 'extremely limited' as East River tunnel repairs continue - Gothamist",
-            "sentiment": "NEGATIVE",
-            "score": 0.9702045917510986,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "WallStreetBets versus the SEC - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.8489438891410828,
@@ -120,73 +146,27 @@
             "ticker_impacts": []
         },
         {
+            "title": "CATURUS ANNOUNCES FINAL INVESTMENT DECISION FOR 9.5 MTPA COMMONWEALTH LNG EXPORT FACILITY IN CAMERON, LA - PR Newswire",
+            "sentiment": "POSITIVE",
+            "score": 0.9433674216270447,
+            "signal": "BULLISH",
+            "tickers": [
+                "FID"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "FID",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Trump\u2019s Iran war is pushing American farmers to the brink - Salon.com",
             "sentiment": "NEGATIVE",
             "score": 0.956031084060669,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FDA blocked melanoma drug as confusion reigned under Makary - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8814971446990967,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX IPO set to ensure Elon Musk cannot be fired - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9637153148651123,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Cisco leads Wall Street to more records and the Dow back to 50,000 - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.8753365278244019,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic's Mythos is evolving faster than expected, reports AI safety agency - ZDNET",
-            "sentiment": "POSITIVE",
-            "score": 0.8523709774017334,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Carney Rolls Out Pitch to Double Canada\u2019s Electricity Output - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7909961938858032,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports \u2018record quarterly revenue\u2019 - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9664739370346069,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Regenxbio says Duchenne gene therapy succeeded in clinical trial, paving way for FDA submission - statnews.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8661152124404907,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
