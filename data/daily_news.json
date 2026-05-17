@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-05-17 15:46:29 UTC",
-    "total_articles": 17,
-    "bullish_articles": 3,
-    "bearish_articles": 14,
+    "last_updated": "2026-05-17 18:46:15 UTC",
+    "total_articles": 20,
+    "bullish_articles": 4,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "LIRR strike shuts down nation's busiest commuter train line, union says 'we're far apart' - Gothamist",
+            "sentiment": "NEGATIVE",
+            "score": 0.9587739706039429,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "LIRR, NJ Transit divert trains through Friday rush as Penn Station debacle drags on - Gothamist",
+            "sentiment": "NEGATIVE",
+            "score": 0.942111611366272,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Farmers growing increasingly desperate amid rising energy and fertilizer prices - Axios",
             "sentiment": "NEGATIVE",
@@ -23,9 +41,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Argentina\u2019s beef consumption falls to lowest level in 20 years as prices soar - Yahoo",
+            "title": "I lost my flight attendant job when Spirit shut down. I've had to manage my emotions and am hopeful I'll find new work soon. - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9704126715660095,
+            "score": 0.8568052053451538,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -41,24 +59,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Pershing Square Snapped Up Microsoft Shares, Exited Hilton, Slashed Alphabet Stake in First Quarter - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9437386393547058,
-            "signal": "BEARISH",
+            "title": "NextEra and Dominion in talks over tie-up to create $400bn US utility giant - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8095027208328247,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Berkshire Boosted Stake in Alphabet in First Quarter, Bought Delta Air, Sold Visa, Mastercard - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9380990862846375,
+            "signal": "BULLISH",
             "tickers": [
-                "GOOGL",
-                "MSFT"
+                "GOOGL"
             ],
             "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
                     "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
@@ -82,9 +103,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Fire that caused Penn Station commuting nightmare likely sparked by debris from new Amtrak Acela - New York Daily News",
+            "title": "FAA cuts target for air traffic control staffing - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9187886118888855,
+            "score": 0.7119810581207275,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -152,18 +173,38 @@
             "ticker_impacts": []
         },
         {
-            "title": "Traders now see next Fed interest rate move as a hike following inflation surge - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8007668852806091,
-            "signal": "BULLISH",
-            "tickers": [],
+            "title": "U.S. Chip Stocks Drop as Trump\u2019s China Trip Ends with No Major Deal - TipRanks",
+            "sentiment": "NEGATIVE",
+            "score": 0.9700993299484253,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC",
+                "AMD",
+                "NVDA"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "Starbucks to lay off 300 US corporate workers and close regional offices - AP News",
+            "title": "Starbucks to lay off 300 U.S. employees, shutter some regional support offices - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9667921662330627,
+            "score": 0.9311417937278748,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
