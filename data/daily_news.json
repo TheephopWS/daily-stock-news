@@ -1,9 +1,26 @@
 {
-    "last_updated": "2026-05-18 04:52:03 UTC",
-    "total_articles": 19,
-    "bullish_articles": 4,
-    "bearish_articles": 15,
+    "last_updated": "2026-05-18 07:48:44 UTC",
+    "total_articles": 23,
+    "bullish_articles": 6,
+    "bearish_articles": 17,
     "articles": [
+        {
+            "title": "Stocks Near Highs But Note This; What To Do Now - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.7953733801841736,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
         {
             "title": "Ice cream sold in 17 states recalled over possible metal contamination - NBC News",
             "sentiment": "NEGATIVE",
@@ -57,6 +74,47 @@
             ]
         },
         {
+            "title": "ASML Partners With Tata Electronics to Advance India Chip Plans - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9400676488876343,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "LIRR strike shuts down nation's busiest commuter train line, union says 'we're far apart' - Gothamist",
+            "sentiment": "NEGATIVE",
+            "score": 0.9587739109992981,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon has huge Memorial Day sales that start early this weekend \u2014 here's what to buy from brands like Apple, Ninja, Adidas and more - Yahoo",
+            "sentiment": "NEGATIVE",
+            "score": 0.9494856595993042,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN",
+                "AAPL"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Major pet supplies store franchisee files Chapter 11 bankruptcy - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.9220477938652039,
@@ -83,23 +141,6 @@
             ]
         },
         {
-            "title": "Buy Nvidia Under $250 on Trump\u2019s China Visit and Warsh\u2019s Dovish AI Signals - 24/7 Wall St.",
-            "sentiment": "POSITIVE",
-            "score": 0.8678898811340332,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "MTA raised alarms about Amtrak tunnel plan before this week's Penn Station meltdown - Gothamist",
             "sentiment": "NEGATIVE",
             "score": 0.7760244011878967,
@@ -118,10 +159,28 @@
             "ticker_impacts": []
         },
         {
+            "title": "I lost my flight attendant job when Spirit shut down. I've had to manage my emotions and am hopeful I'll find new work soon. - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.8568055629730225,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Cisco CEO reveals real reason behind 4,000 job cuts - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.8842993974685669,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018Unhinged\u2019 bond yields resets Fed rate-cut odds - thestreet.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8086023330688477,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -145,24 +204,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "US federal watchdog sues Chick-fil-A operator for religious discrimination - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9353794455528259,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FAA cuts target for air traffic control staffing - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7119805216789246,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Coinbase, Robinhood Stocks Lose Momentum After Big Crypto Bill Win - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.967344343662262,
@@ -177,17 +218,12 @@
             "score": 0.9700993299484253,
             "signal": "BEARISH",
             "tickers": [
-                "AMD",
                 "NVDA",
-                "INTC"
+                "INTC",
+                "AMD"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
                 {
                     "ticker": "NVDA",
                     "impact": "negative",
@@ -195,6 +231,11 @@
                 },
                 {
                     "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -210,18 +251,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dominoes are steadily falling in the path of the rate cuts Trump wants to see from Kevin Warsh - Fortune",
+            "title": "Feds hit Texas Chick-fil-A operator with discrimination lawsuit - Chron",
             "sentiment": "NEGATIVE",
-            "score": 0.9633625745773315,
+            "score": 0.950413167476654,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Starbucks announces 300 more corporate layoffs, shutters multiple regional offices - MyNorthwest.com",
+            "title": "Gas Prices Remain High as Oil Stocks Rise Today - TipRanks",
+            "sentiment": "POSITIVE",
+            "score": 0.9271818399429321,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Starbucks to lay off 300 US corporate workers and close regional offices - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9714852571487427,
+            "score": 0.9667921662330627,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
