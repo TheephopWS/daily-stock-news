@@ -1,39 +1,147 @@
 {
-    "last_updated": "2026-05-19 13:32:58 UTC",
-    "total_articles": 33,
+    "last_updated": "2026-05-19 16:31:56 UTC",
+    "total_articles": 35,
     "bullish_articles": 10,
-    "bearish_articles": 23,
+    "bearish_articles": 25,
     "articles": [
         {
-            "title": "Dow Set to Open Down as Inflation Fears Grip Markets - Barron's",
+            "title": "Stocks Waver As Oil Falls On Iran News - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9705268144607544,
+            "score": 0.7892536520957947,
             "signal": "BEARISH",
             "tickers": [
-                "AAPL"
+                "NVDA",
+                "WMT"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "WMT",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Three ways the AI boom may fizzle \u2014 and what happens to stocks next - MarketWatch",
+            "title": "S&P 500, Nasdaq fall for a second day as Micron drops, traders eye oil and yields: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9573273658752441,
+            "score": 0.8335059285163879,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Wall St set to open higher as chips rebound, yields retreat - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9351001977920532,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Lululemon calls founder\u2019s ideas \u2018misguided\u2019 in public letter - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.9307812452316284,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Summer travelers who relied on Spirit Airlines may struggle to find budget alternatives - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9607610106468201,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon's Big Rally Takes A Breather Just Short Of $3 Trillion Club. What To Watch Next. - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.8228569626808167,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "New York commuters face rush-hour chaos in first major rail strike in 30 years - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.95793217420578,
+            "score": 0.9579320549964905,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Announces TroFuse-005 Trial Evaluating Sacituzumab Tirumotecan (Sac-TMT) Met Primary Endpoints of Overall Survival (OS) and Progression-Free Survival (PFS) in Certain Patients With Advanced or Recurrent Endometrial Cancer - Merck.com - Merck.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9160827994346619,
+            "signal": "BULLISH",
+            "tickers": [
+                "PFS",
+                "OS"
+            ],
+            "primary_ticker": "PFS",
+            "ticker_impacts": [
+                {
+                    "ticker": "PFS",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "OS",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Trump says he should've asked for 'more' of Intel when negotiating stake with CEO - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9329432845115662,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Donald Trump\u2019s Gold T1 Phone Facing Fury Over Major US Flag Error - Yahoo",
+            "sentiment": "NEGATIVE",
+            "score": 0.9179071187973022,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Data centers could actually be good for your hometown - vox.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8783704042434692,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -42,7 +150,7 @@
         {
             "title": "China\u2019s Economy Slows Sharply as Investment Resumes Declines - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9716131687164307,
+            "score": 0.9716132879257202,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -51,7 +159,7 @@
         {
             "title": "Prediction: Nvidia's Stock Will Soar After May 20 - The Motley Fool",
             "sentiment": "POSITIVE",
-            "score": 0.8200399875640869,
+            "score": 0.820040225982666,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -68,11 +176,28 @@
         {
             "title": "Wow! The Federal Reserve's May Inflation Forecast Was Just Updated, and Things Are Looking Worse for Wall Street. - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9259556531906128,
+            "score": 0.9259558320045471,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Meta employees reportedly stuffed bags with snacks before layoffs hit - \u2018felt like doomsday\u2019 - The Times of India",
+            "sentiment": "NEGATIVE",
+            "score": 0.8643226027488708,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Kioxia Shares Hit New High After AI Fuels Huge Profit Increase - Yahoo Finance",
@@ -84,18 +209,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "China is not Japan - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9187988638877869,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Why a small UK lender has major U.S. credit firms on edge - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9375209212303162,
+            "score": 0.9375210404396057,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -104,7 +220,7 @@
         {
             "title": "US Long Bond Yield Hits Highest Since 2023 on Inflation Concern - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.7423795461654663,
+            "score": 0.7423785924911499,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -113,7 +229,7 @@
         {
             "title": "Samsung strike involving 47,000 workers looms as South Korea\u2019s president urges labor deal - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9427505135536194,
+            "score": 0.9427503943443298,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -122,7 +238,7 @@
         {
             "title": "Donald Trump\u2019s Iran war hits Americans with $40bn fuel bill - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.7042743563652039,
+            "score": 0.7042776346206665,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -147,27 +263,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Asia-Pacific markets mostly fall as Trump\u2019s Iran warning stokes fresh oil supply fears - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9682221412658691,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Australia Orders Chinese Investors to Sell Rare Earth Stakes - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8550130128860474,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil Shortage Scenario Looms Large - Crude Oil Prices Today | OilPrice.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9651086926460266,
+            "score": 0.8550133109092712,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -176,7 +274,7 @@
         {
             "title": "President Trump Threw a Wrench in Kevin Warsh's Plans as Federal Reserve Chairman, and It Could Be the Undoing of the Current Bull Market - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7600529193878174,
+            "score": 0.7600532174110413,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -185,7 +283,7 @@
         {
             "title": "Publicis to buy US data company in $2.2bn deal as it deepens AI marketing push - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.8809647560119629,
+            "score": 0.8809646368026733,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -194,17 +292,17 @@
         {
             "title": "Denver police respond to Cherry Creek Shopping Center amid chaotic Swatch launch - The Denver Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9558883905410767,
+            "score": 0.9558882713317871,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Spirit\u2019s Gone, And Now Look What Fares Did On Its Routes - Live and Let's Fly",
-            "sentiment": "POSITIVE",
-            "score": 0.941655695438385,
-            "signal": "BULLISH",
+            "title": "Hospitals are taking the fall for high health care costs - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.8953653573989868,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -212,17 +310,8 @@
         {
             "title": "The top foreign holders of US debt may soon dump Treasury bonds and bring their money back home - Fortune",
             "sentiment": "POSITIVE",
-            "score": 0.8385644555091858,
+            "score": 0.8385640382766724,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "University of Arizona students boo Eric Schmidt\u2019s AI cheerleading during commencement - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.8671935796737671,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -230,7 +319,7 @@
         {
             "title": "Swarm of Empty Waymos Descends on Unsuspecting Suburb, Circle Cul-de-Sacs for Hours on End Like Strange Ghosts - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.8634042739868164,
+            "score": 0.863404393196106,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -239,37 +328,11 @@
         {
             "title": "Gas Prices Up 56% In USA - CleanTechnica",
             "sentiment": "POSITIVE",
-            "score": 0.9452270865440369,
+            "score": 0.9452270269393921,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic and OpenAI\u2019s Share of AI Startup Revenues Rises to 89% - The Information",
-            "sentiment": "POSITIVE",
-            "score": 0.9300991296768188,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Dallas-Bound Qantas 787 Diverts To Tahiti After Belligerent Man Bites Crew - One Mile at a Time",
-            "sentiment": "NEGATIVE",
-            "score": 0.960191011428833,
-            "signal": "BEARISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Top Wall Street analysts suggest these 3 stocks for their long-term prospects - CNBC",
@@ -290,15 +353,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Gen Z calls degrees 'useless'\u2014but 20 years of data tells a different story about employment - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8540078401565552,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "The Young Are Being Battered by AI as Hiring Shifts to Older Workers - Gizmodo",
             "sentiment": "NEGATIVE",
             "score": 0.9697912335395813,
@@ -308,18 +362,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "American Jobs with AI Exposure Really Are Starting to Disappear, Data Show - Gizmodo",
+            "title": "Prediction: The Trump Bull Market Will Come to an Abrupt End Because of 2 Decisions Made by the President - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9667202830314636,
+            "score": 0.8830780982971191,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Green energy will have the last laugh \u2014 because of Trump - Salon.com",
+            "title": "American Jobs with AI Exposure Really Are Starting to Disappear, Data Show - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.7320225238800049,
+            "score": 0.9667202830314636,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
