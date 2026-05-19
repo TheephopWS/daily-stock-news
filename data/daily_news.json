@@ -1,13 +1,54 @@
 {
-    "last_updated": "2026-05-19 04:47:07 UTC",
-    "total_articles": 22,
-    "bullish_articles": 6,
-    "bearish_articles": 16,
+    "last_updated": "2026-05-19 07:38:58 UTC",
+    "total_articles": 20,
+    "bullish_articles": 2,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Oil rises as Iran-U.S. deadlocked peace talks fan fears of extended supply disruption - CNBC",
+            "title": "Stock futures fall after record-setting week for Wall Street; traders await Nvidia and retail earnings: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8612210154533386,
+            "score": 0.9052984714508057,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "WMT"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Delta flight bound for Shanghai forced to divert to Seattle due to disruptive passenger - KOMO",
+            "sentiment": "NEGATIVE",
+            "score": 0.9681099653244019,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Korean Stocks Extend Slump as Higher Yields Threaten AI Rally - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9640225172042847,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "LIRR strike update: National Mediation Board summons unions, MTA; New York Gov. Hochul calls for talks to resume - ABC7 New York",
+            "sentiment": "NEGATIVE",
+            "score": 0.8546286225318909,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -50,27 +91,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Denver police respond to Cherry Creek Shopping Center amid chaotic Swatch launch - The Denver Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9558882713317871,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Spirit\u2019s Gone, And Now Look What Fares Did On Its Routes - Live and Let's Fly",
             "sentiment": "POSITIVE",
             "score": 0.941655695438385,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The top foreign holders of US debt may soon dump Treasury bonds and bring their money back home - Fortune",
-            "sentiment": "POSITIVE",
-            "score": 0.8385640382766724,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -86,10 +109,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "U.S. federal debt hits 100% of GDP, but Washington keeps spending (TLT:NASDAQ) - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.9266611933708191,
-            "signal": "BULLISH",
+            "title": "Mayhem breaks out at Swatch stores as fans rush to nab its Audemars Piguet pocket watch collab - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9139040112495422,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -98,6 +121,15 @@
             "title": "Fidelity to pay out $2.5M in new settlement: Check now if you qualify for a payout of up to $5,000 - Tom's Guide",
             "sentiment": "NEGATIVE",
             "score": 0.9285902976989746,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Swarm of Empty Waymos Descends on Unsuspecting Suburb, Circle Cul-de-Sacs for Hours on End Like Strange Ghosts - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.863404393196106,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -130,15 +162,6 @@
             ]
         },
         {
-            "title": "Bond Traders See Tipping Point Toward New Era of Higher Yields - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9014988541603088,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Gen Z is right about the job hunt\u2014it really is worse than it was for millennials - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.9355252385139465,
@@ -166,15 +189,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump Mobile Called Out for Suspicious Blunders Amid Fresh Cash Grab - The Daily Beast",
-            "sentiment": "NEGATIVE",
-            "score": 0.9014946818351746,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Farmers growing increasingly desperate amid rising energy and fertilizer prices - Axios",
             "sentiment": "NEGATIVE",
             "score": 0.9335935711860657,
@@ -187,24 +201,6 @@
             "title": "American Jobs with AI Exposure Really Are Starting to Disappear, Data Show - Gizmodo",
             "sentiment": "NEGATIVE",
             "score": 0.9667202830314636,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Verizon adds generous offers for customers after price increase - thestreet.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9447901248931885,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Cisco CEO reveals real reason behind 4,000 job cuts - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8842993974685669,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
