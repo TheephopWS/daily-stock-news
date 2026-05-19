@@ -1,31 +1,40 @@
 {
-    "last_updated": "2026-05-19 19:08:31 UTC",
-    "total_articles": 24,
-    "bullish_articles": 6,
-    "bearish_articles": 18,
+    "last_updated": "2026-05-19 21:54:02 UTC",
+    "total_articles": 13,
+    "bullish_articles": 4,
+    "bearish_articles": 9,
     "articles": [
         {
-            "title": "Nasdaq drops for a second day as tech pullback picks up steam, Micron shares slide 7%: Live updates - CNBC",
+            "title": "Day 3 of LIRR strike brings no clear sign of a deal as NYC commuters cope - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9597079157829285,
+            "score": 0.9585740566253662,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "LIRR riders experiencing hours-long commutes to NYC as train strike enters its third day - CBS News",
+            "title": "Nasdaq posts back-to-back losses as Micron's decline weighs down tech sector: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9505985379219055,
+            "score": 0.965428352355957,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Jury tosses Elon Musk's lawsuit against OpenAI and its boss Sam Altman - BBC",
+            "title": "Elon Musk Loses Case Against Sam Altman Over OpenAI\u2019s Future - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7592498064041138,
+            "score": 0.8305884599685669,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Micron Stock Drops as Samsung Strike Spikes Fears Over Memory-Chip Shortage - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9730984568595886,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -34,101 +43,48 @@
         {
             "title": "The oil market is reaching a \u2018tipping point\u2019 that could create problems for stocks, according to this Wall Street legend - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.8232567310333252,
+            "score": 0.9009960889816284,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Gold Holds Decline as Hormuz Quagmire Keeps Inflation Fear High - Bloomberg.com",
+            "title": "Shein To Reportedly Acquire Everlane For $100 Million - Forbes",
             "sentiment": "POSITIVE",
-            "score": 0.7316964864730835,
+            "score": 0.9052221179008484,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stocks Waver As Oil Falls On Iran News - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.789250910282135,
-            "signal": "BEARISH",
+            "title": "Berkshire CEO Greg Abel sells 16 stocks, triples Alphabet - qz.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8752980828285217,
+            "signal": "BULLISH",
             "tickers": [
-                "WMT",
-                "NVDA"
+                "GOOGL",
+                "AMZN"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "WMT",
-                    "impact": "negative",
-                    "relevance": "medium"
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
                 },
                 {
-                    "ticker": "NVDA",
-                    "impact": "negative",
+                    "ticker": "AMZN",
+                    "impact": "positive",
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Meta employee gets dark about horror of working there as jobs bloodbath looms: \u2018I tend to cry in the shower\u2019 - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8142807483673096,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Lululemon calls founder\u2019s ideas \u2018misguided\u2019 in public letter - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9307813048362732,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Citi, BlackRock\u2019s HPS Sign \u20ac15 Billion Private Credit Agreement - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9348095655441284,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Summer travelers who relied on Spirit Airlines may struggle to find budget alternatives - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9607610106468201,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Commerzbank rejects \u20ac39bn UniCredit takeover offer - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8970478177070618,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Announces TroFuse-005 Trial Evaluating Sacituzumab Tirumotecan (Sac-TMT) Met Primary Endpoints of Overall Survival (OS) and Progression-Free Survival (PFS) in Certain Patients With Advanced or Recurrent Endometrial Cancer - Merck.com - Merck.com",
             "sentiment": "POSITIVE",
-            "score": 0.916083037853241,
+            "score": 0.9160827994346619,
             "signal": "BULLISH",
             "tickers": [
                 "PFS",
@@ -151,7 +107,7 @@
         {
             "title": "Trump says he should've asked for 'more' of Intel when negotiating stake with CEO - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9329431653022766,
+            "score": 0.9329432845115662,
             "signal": "BULLISH",
             "tickers": [
                 "INTC"
@@ -166,107 +122,36 @@
             ]
         },
         {
-            "title": "Donald Trump\u2019s Gold T1 Phone Facing Fury Over Major US Flag Error - Yahoo",
-            "sentiment": "NEGATIVE",
-            "score": 0.9157630801200867,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Data centers could actually be good for your hometown - vox.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8783706426620483,
+            "score": 0.8783704042434692,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "JPMorgan cuts gold forecast on soft demand, expects H2 recovery - Investing.com",
+            "title": "China\u2019s Economy Slows Sharply as Investment Resumes Declines - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7425081729888916,
-            "signal": "BEARISH",
-            "tickers": [
-                "JPM"
-            ],
-            "primary_ticker": "JPM",
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "China is not Japan - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9187988638877869,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Samsung strike involving 47,000 workers looms as South Korea\u2019s president urges labor deal - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9427505135536194,
+            "score": 0.9716132879257202,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Donald Trump\u2019s Iran war hits Americans with $40bn fuel bill - Financial Times",
+            "title": "Markets jittery as oil crisis bleeds into debt selloff, while Trump weighs military options on Iran - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.7042743563652039,
+            "score": 0.9474000930786133,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oil Shortage Scenario Looms Large - Crude Oil Prices Today | OilPrice.com",
+            "title": "There's no joy in Silicon Valley these days, Menlo Ventures partner says: 'The rich aren't particularly happy either' - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9651086926460266,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "President Trump Threw a Wrench in Kevin Warsh's Plans as Federal Reserve Chairman, and It Could Be the Undoing of the Current Bull Market - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.7600529193878174,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The top foreign holders of US debt may soon dump Treasury bonds and bring their money back home - Fortune",
-            "sentiment": "POSITIVE",
-            "score": 0.8385644555091858,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US sues Chick-fil-A franchisee for allegedly denying manager Saturdays off - WNDU",
-            "sentiment": "NEGATIVE",
-            "score": 0.9393028020858765,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Prediction: The Trump Bull Market Will Come to an Abrupt End Because of 2 Decisions Made by the President - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8522239923477173,
+            "score": 0.9416459798812866,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
