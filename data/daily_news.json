@@ -1,14 +1,31 @@
 {
-    "last_updated": "2026-05-20 13:20:55 UTC",
-    "total_articles": 9,
-    "bullish_articles": 2,
-    "bearish_articles": 7,
+    "last_updated": "2026-05-20 16:32:06 UTC",
+    "total_articles": 18,
+    "bullish_articles": 7,
+    "bearish_articles": 11,
     "articles": [
         {
-            "title": "U.S. Treasury sell-off eases, traders eye highest 30-year yield since 1999 - CNBC",
+            "title": "Futures Fall As AI Leaders Keep Sliding; Google I/O Kicks Off - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.7218743562698364,
+            "score": 0.9687207341194153,
             "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "US Long Bond Yield Hits Highest Since 2007 on Inflation Concern - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9182415008544922,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -23,70 +40,98 @@
             "ticker_impacts": []
         },
         {
-            "title": "How Nvidia Stock Can Hit $300 After Earnings - Barron's",
+            "title": "Meta Platforms Restructures Workforce To Prioritize AI And Test Valuation Gap - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9738855361938477,
+            "score": 0.9673622846603394,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "META"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "META",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "META",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Stocks Waver As Oil Falls On Iran News - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.7892536520957947,
-            "signal": "BEARISH",
+            "title": "Petrol hits highest price since start of Iran war - BBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9287196397781372,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "ImmunityBio Presents Favorable Comparative Effectiveness Data in Complete Response Rates of NAI + BCG Versus Nadofaragene and TAR-200 at AUA 2026 - ImmunityBio",
+            "sentiment": "POSITIVE",
+            "score": 0.9215506911277771,
+            "signal": "BULLISH",
             "tickers": [
-                "WMT",
-                "NVDA"
+                "CR",
+                "NMIBC"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "WMT",
-                    "impact": "negative",
+                    "ticker": "CR",
+                    "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "NVDA",
-                    "impact": "negative",
+                    "ticker": "NMIBC",
+                    "impact": "positive",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Tech drags down stocks as semiconductors slip - Sherwood News",
+            "title": "Startup backed by American Eagle CEO reaches unicorn status in latest funding round - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7773487567901611,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018Lower-value human capital\u2019 is what bank CEO calls thousands of workers he\u2019s cutting because of AI - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.97234046459198,
+            "score": 0.9669057130813599,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "\u201cShould Have Asked for More\u201d: Trump Regrets Intel Deal, Intel Stock (NASDAQ:INTC) Slides - TipRanks",
+            "title": "Allegiant Air adds 8 new Florida routes starting fall 2026 - WINK News",
             "sentiment": "POSITIVE",
-            "score": 0.8983896374702454,
+            "score": 0.8286439776420593,
             "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Starbucks Korea CEO fired after \u2018Tank Day\u2019 promo evokes brutal crackdown on democracy - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.9297150373458862,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Veteran analyst stuns Wall Street with Fed interest rate forecast - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9343702793121338,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Dell Stock Slides despite Adding 1,000 New Enterprise AI Customers - TipRanks",
@@ -106,9 +151,45 @@
             ]
         },
         {
-            "title": "AI CEOs Baffled by Hatred of Their Technology - Futurism",
+            "title": "The oil market is reaching a \u2018tipping point\u2019 that could create problems for stocks, according to this Wall Street legend - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.814812183380127,
+            "score": 0.9009960889816284,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Shein To Reportedly Acquire Everlane For $100 Million - Forbes",
+            "sentiment": "POSITIVE",
+            "score": 0.9052221179008484,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Leaked AutoZone Memo Warns of Massive Motor Oil Shortages as Supply Chain Fears Spread - Yahoo Autos",
+            "sentiment": "NEGATIVE",
+            "score": 0.9502358436584473,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "IEA Chief Warns Only 'Weeks' of Oil Inventories Left Thanks to Trump's Iran War - Common Dreams",
+            "sentiment": "NEGATIVE",
+            "score": 0.9603880047798157,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Reasons Investors Are Selling Government Bonds From UK to US - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7752498984336853,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
