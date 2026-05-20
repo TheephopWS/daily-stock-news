@@ -1,31 +1,13 @@
 {
-    "last_updated": "2026-05-20 10:30:30 UTC",
-    "total_articles": 10,
-    "bullish_articles": 3,
+    "last_updated": "2026-05-20 13:20:55 UTC",
+    "total_articles": 9,
+    "bullish_articles": 2,
     "bearish_articles": 7,
     "articles": [
         {
-            "title": "Stock futures fall, putting the S&P 500 and Nasdaq on pace for third losing day in a row: Live updates - CNBC",
+            "title": "U.S. Treasury sell-off eases, traders eye highest 30-year yield since 1999 - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.969283938407898,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Home Depot says core shopper is resilient in the face of higher gas prices, sales rise 5% - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9499362707138062,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Standard Chartered to cut over 15% of corporate functions roles as it targets higher returns - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.869839072227478,
+            "score": 0.7218743562698364,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -41,32 +23,58 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stocks Waver As Oil Falls On Iran News - Investor's Business Daily",
+            "title": "How Nvidia Stock Can Hit $300 After Earnings - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.7892507314682007,
+            "score": 0.9738855361938477,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA",
-                "WMT"
+                "NVDA"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
                     "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Stocks Waver As Oil Falls On Iran News - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.7892536520957947,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT",
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "WMT",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
+            "title": "Tech drags down stocks as semiconductors slip - Sherwood News",
+            "sentiment": "NEGATIVE",
+            "score": 0.97234046459198,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "\u201cShould Have Asked for More\u201d: Trump Regrets Intel Deal, Intel Stock (NASDAQ:INTC) Slides - TipRanks",
             "sentiment": "POSITIVE",
-            "score": 0.8983902931213379,
+            "score": 0.8983896374702454,
             "signal": "BULLISH",
             "tickers": [
                 "INTC"
@@ -98,9 +106,9 @@
             ]
         },
         {
-            "title": "Micron Stock Drops as Samsung Strike Spikes Fears Over Memory-Chip Shortage - Barron's",
+            "title": "AI CEOs Baffled by Hatred of Their Technology - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.9730984568595886,
+            "score": 0.814812183380127,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -109,7 +117,7 @@
         {
             "title": "Announces TroFuse-005 Trial Evaluating Sacituzumab Tirumotecan (Sac-TMT) Met Primary Endpoints of Overall Survival (OS) and Progression-Free Survival (PFS) in Certain Patients With Advanced or Recurrent Endometrial Cancer - Merck.com - Merck.com",
             "sentiment": "POSITIVE",
-            "score": 0.9160830974578857,
+            "score": 0.9160827994346619,
             "signal": "BULLISH",
             "tickers": [
                 "OS",
@@ -128,15 +136,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "AI skepticism grows among US youth - Semafor",
-            "sentiment": "NEGATIVE",
-            "score": 0.9588613510131836,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
