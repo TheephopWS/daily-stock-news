@@ -1,58 +1,101 @@
 {
-    "last_updated": "2026-05-20 07:38:45 UTC",
-    "total_articles": 9,
-    "bullish_articles": 1,
-    "bearish_articles": 8,
+    "last_updated": "2026-05-20 10:30:30 UTC",
+    "total_articles": 10,
+    "bullish_articles": 3,
+    "bearish_articles": 7,
     "articles": [
+        {
+            "title": "Stock futures fall, putting the S&P 500 and Nasdaq on pace for third losing day in a row: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.969283938407898,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Home Depot says core shopper is resilient in the face of higher gas prices, sales rise 5% - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9499362707138062,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Standard Chartered to cut over 15% of corporate functions roles as it targets higher returns - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8698390126228333,
+            "score": 0.869839072227478,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Long Island Rail Road strike to end as MTA, unions reach tentative deal - CBS News",
+            "title": "LIRR strike ends as MTA reaches deal with unions after chaotic commute - Gothamist",
             "sentiment": "NEGATIVE",
-            "score": 0.7414000630378723,
+            "score": 0.9438809752464294,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Meta Moves 7,000 Workers Into AI Roles Ahead of Job Cuts - Bloomberg.com",
+            "title": "Stocks Waver As Oil Falls On Iran News - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9588925838470459,
+            "score": 0.7892507314682007,
             "signal": "BEARISH",
             "tickers": [
-                "META",
-                "INTC"
+                "NVDA",
+                "WMT"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "NVDA",
                     "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "WMT",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Oil climbs as Trump warns the \u2018clock is ticking\u2019 on Iran, but there\u2019s a bigger danger lurking on the horizon - MarketWatch",
+            "title": "\u201cShould Have Asked for More\u201d: Trump Regrets Intel Deal, Intel Stock (NASDAQ:INTC) Slides - TipRanks",
+            "sentiment": "POSITIVE",
+            "score": 0.8983902931213379,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Dell Stock Slides despite Adding 1,000 New Enterprise AI Customers - TipRanks",
             "sentiment": "NEGATIVE",
-            "score": 0.9299706816673279,
+            "score": 0.9733132123947144,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "DELL"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "DELL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Micron Stock Drops as Samsung Strike Spikes Fears Over Memory-Chip Shortage - Barron's",
@@ -64,41 +107,23 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump Insiders Face Wild Allegations After \u2018Insane Pattern\u2019 Spotted on Polymarket and Kalshi - The Daily Beast",
-            "sentiment": "NEGATIVE",
-            "score": 0.701799750328064,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Lululemon calls founder\u2019s ideas \u2018misguided\u2019 in public letter - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9307812452316284,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Announces TroFuse-005 Trial Evaluating Sacituzumab Tirumotecan (Sac-TMT) Met Primary Endpoints of Overall Survival (OS) and Progression-Free Survival (PFS) in Certain Patients With Advanced or Recurrent Endometrial Cancer - Merck.com - Merck.com",
             "sentiment": "POSITIVE",
-            "score": 0.9160827994346619,
+            "score": 0.9160830974578857,
             "signal": "BULLISH",
             "tickers": [
-                "PFS",
-                "OS"
+                "OS",
+                "PFS"
             ],
-            "primary_ticker": "PFS",
+            "primary_ticker": "OS",
             "ticker_impacts": [
                 {
-                    "ticker": "PFS",
+                    "ticker": "OS",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "OS",
+                    "ticker": "PFS",
                     "impact": "positive",
                     "relevance": "high"
                 }
