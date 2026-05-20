@@ -1,22 +1,54 @@
 {
-    "last_updated": "2026-05-20 04:52:19 UTC",
-    "total_articles": 8,
+    "last_updated": "2026-05-20 07:38:45 UTC",
+    "total_articles": 9,
     "bullish_articles": 1,
-    "bearish_articles": 7,
+    "bearish_articles": 8,
     "articles": [
         {
-            "title": "Long Island Rail Road strike to end as MTA, unions reach tentative deal - CBS News",
+            "title": "Standard Chartered to cut over 15% of corporate functions roles as it targets higher returns - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.741398274898529,
+            "score": 0.8698390126228333,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "OSHA probing worker death at SpaceX\u2019s Starbase site - TechCrunch",
+            "title": "Long Island Rail Road strike to end as MTA, unions reach tentative deal - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9394757151603699,
+            "score": 0.7414000630378723,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta Moves 7,000 Workers Into AI Roles Ahead of Job Cuts - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9588925838470459,
+            "signal": "BEARISH",
+            "tickers": [
+                "META",
+                "INTC"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Oil climbs as Trump warns the \u2018clock is ticking\u2019 on Iran, but there\u2019s a bigger danger lurking on the horizon - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9299706816673279,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -34,33 +66,16 @@
         {
             "title": "Trump Insiders Face Wild Allegations After \u2018Insane Pattern\u2019 Spotted on Polymarket and Kalshi - The Daily Beast",
             "sentiment": "NEGATIVE",
-            "score": 0.7017989754676819,
+            "score": 0.701799750328064,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Former Google CEO Eric Schmidt booed by graduates at mention of AI - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9569902420043945,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Lululemon calls founder\u2019s ideas \u2018misguided\u2019 in public letter - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9307813048362732,
+            "score": 0.9307812452316284,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -69,21 +84,21 @@
         {
             "title": "Announces TroFuse-005 Trial Evaluating Sacituzumab Tirumotecan (Sac-TMT) Met Primary Endpoints of Overall Survival (OS) and Progression-Free Survival (PFS) in Certain Patients With Advanced or Recurrent Endometrial Cancer - Merck.com - Merck.com",
             "sentiment": "POSITIVE",
-            "score": 0.916083037853241,
+            "score": 0.9160827994346619,
             "signal": "BULLISH",
             "tickers": [
-                "OS",
-                "PFS"
+                "PFS",
+                "OS"
             ],
-            "primary_ticker": "OS",
+            "primary_ticker": "PFS",
             "ticker_impacts": [
                 {
-                    "ticker": "OS",
+                    "ticker": "PFS",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "PFS",
+                    "ticker": "OS",
                     "impact": "positive",
                     "relevance": "high"
                 }
