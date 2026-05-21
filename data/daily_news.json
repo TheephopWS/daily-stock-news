@@ -1,22 +1,39 @@
 {
-    "last_updated": "2026-05-20 22:04:32 UTC",
-    "total_articles": 21,
-    "bullish_articles": 9,
-    "bearish_articles": 12,
+    "last_updated": "2026-05-21 01:25:18 UTC",
+    "total_articles": 13,
+    "bullish_articles": 3,
+    "bearish_articles": 10,
     "articles": [
         {
-            "title": "S&P 500 posts third straight losing session as rising yields drag down stocks: Live updates - CNBC",
+            "title": "Meta Begins 8,000 Global Job Cuts in Asian Hub of Singapore - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.972714364528656,
+            "score": 0.9673736691474915,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Stock Market Today: Bond Selloff Deepens on Inflation Fears \u2014 Live Updates - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9493930339813232,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "US 30-Year Yield Hits Highest Since 2007 as Selloff Deepens - Yahoo Finance",
+            "title": "SEC announces new rules to \"make IPOs great again\" - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.9444433450698853,
+            "score": 0.7485697865486145,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -46,15 +63,6 @@
             ]
         },
         {
-            "title": "Cerebras Stock Rises On Possible Inclusion In S&P Indexes - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9420866370201111,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Allegiant Air expands at KCI with new nonstop flight from Kansas City - FOX4KC.com",
             "sentiment": "POSITIVE",
             "score": 0.8507349491119385,
@@ -72,35 +80,9 @@
             ]
         },
         {
-            "title": "LIRR strike ends as MTA reaches deal with unions after chaotic commute - Gothamist",
+            "title": "Everlane customers shocked after \u2018radical transparency\u2019 retailer is acquired by Shein - The San Francisco Standard",
             "sentiment": "NEGATIVE",
-            "score": 0.9438809752464294,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Meta Platforms Restructures Workforce To Prioritize AI And Test Valuation Gap - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9673622846603394,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Lululemon calls founder's ideas 'misguided' in public letter - KSL.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9332408308982849,
+            "score": 0.8136103749275208,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -116,54 +98,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "ImmunityBio Presents Favorable Comparative Effectiveness Data in Complete Response Rates of NAI + BCG Versus Nadofaragene and TAR-200 at AUA 2026 - ImmunityBio",
-            "sentiment": "POSITIVE",
-            "score": 0.9215506911277771,
-            "signal": "BULLISH",
-            "tickers": [
-                "CR",
-                "NMIBC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "CR",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "NMIBC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "SpaceX Is Kicking Off IPO Mania -- but It's Also Reviving Stock-Split Euphoria - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8938226699829102,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Trump Bull Market Has a Very Dark Side That Could End Badly for Investors - Yahoo Finance",
+            "title": "Brawls, Pepper Spray, and Store Closures: Inside the Madness of Royal Pop Release Day - GQ",
             "sentiment": "NEGATIVE",
-            "score": 0.9181042909622192,
+            "score": 0.9361041188240051,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Startup backed by American Eagle CEO reaches unicorn status in latest funding round - CNBC",
+            "title": "ImmunityBio Presents Favorable Comparative Effectiveness Data in Complete Response Rates of NAI + BCG Versus Nadofaragene and TAR-200 at AUA 2026 - ImmunityBio",
             "sentiment": "POSITIVE",
-            "score": 0.7773487567901611,
+            "score": 0.9215506911277771,
             "signal": "BULLISH",
-            "tickers": [],
+            "tickers": [
+                "NMIBC",
+                "CR"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "NMIBC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "CR",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Auto industry braces for motor oil shortage - CNN",
@@ -175,30 +139,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "Gautam Adani: US justice department moves to drop criminal fraud charges - BBC",
+            "title": "Downtown Las Vegas eatery closes after 15 years - Las Vegas Review-Journal",
             "sentiment": "NEGATIVE",
-            "score": 0.7180368304252625,
+            "score": 0.9221770763397217,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Dell Stock Slides despite Adding 1,000 New Enterprise AI Customers - TipRanks",
+            "title": "U.S. prosecutors drop fraud charges against billionaire Indian businessman Gautam Adani - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.9733132123947144,
+            "score": 0.819867730140686,
             "signal": "BEARISH",
-            "tickers": [
-                "DELL"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "DELL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "AI CEOs Baffled by Hatred of Their Technology - Futurism",
@@ -208,56 +164,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Shein To Reportedly Acquire Everlane For $100 Million - Forbes",
-            "sentiment": "POSITIVE",
-            "score": 0.9052221179008484,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tech Workers, Long Treated Like Aristocracy, Are Now Human Waste - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.9605777263641357,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The 5 Most Popular Pizza Chains in America, According to 44,000 Diners - Food & Wine",
-            "sentiment": "POSITIVE",
-            "score": 0.836385190486908,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Announces TroFuse-005 Trial Evaluating Sacituzumab Tirumotecan (Sac-TMT) Met Primary Endpoints of Overall Survival (OS) and Progression-Free Survival (PFS) in Certain Patients With Advanced or Recurrent Endometrial Cancer - Merck.com - Merck.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9160827994346619,
-            "signal": "BULLISH",
-            "tickers": [
-                "PFS",
-                "OS"
-            ],
-            "primary_ticker": "PFS",
-            "ticker_impacts": [
-                {
-                    "ticker": "PFS",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "OS",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
