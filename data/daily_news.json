@@ -1,13 +1,97 @@
 {
-    "last_updated": "2026-05-22 19:03:41 UTC",
-    "total_articles": 12,
-    "bullish_articles": 3,
-    "bearish_articles": 9,
+    "last_updated": "2026-05-22 21:47:33 UTC",
+    "total_articles": 19,
+    "bullish_articles": 5,
+    "bearish_articles": 14,
     "articles": [
         {
-            "title": "Walmart Stock Falls As Dow Giant Guides Low Amid High Gas Prices - Investor's Business Daily",
+            "title": "Stock Market Today: S&P 500 and Nasdaq turn higher, Dow on pace for fresh record; investors digest Nvidia earnings; oil trims gain; Walmart results in focus - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.9125356674194336,
+            "signal": "BULLISH",
+            "tickers": [
+                "WMT",
+                "NVDA"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Zillow loses access to thousands of home listings amid bitter legal feud - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.9698108434677124,
+            "score": 0.9670344591140747,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why Kevin Warsh Will Have to Defy Trump on Interest Rate Cuts - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.8016673922538757,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "U.S. Markets Decline as Tech-Stock Rebound Loses Steam After Nvidia Earnings - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9704959392547607,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Private credit defaults hit record high as interest rates soar - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.930130124092102,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Spotify is launching AI-generated remixes - theverge.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7584308981895447,
+            "signal": "BULLISH",
+            "tickers": [
+                "SPOT"
+            ],
+            "primary_ticker": "SPOT",
+            "ticker_impacts": [
+                {
+                    "ticker": "SPOT",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Walmart warns US shoppers are cutting spending as higher petrol prices bite - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9671195149421692,
             "signal": "BEARISH",
             "tickers": [
                 "WMT"
@@ -22,6 +106,24 @@
             ]
         },
         {
+            "title": "How Bond Yield Surge Will Impact Economies, Markets - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9060876965522766,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Intuit shares drop despite Q3 beat on TurboTax weakness - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9541773200035095,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Oil prices fall more than 6% as Trump says Iran negotiations in final stages - Fox News",
             "sentiment": "NEGATIVE",
             "score": 0.9425153136253357,
@@ -33,8 +135,61 @@
         {
             "title": "Stellantis Unveils \u20ac60 Billion Strategic Plan to Accelerate Growth and Profit - Stellantis.com",
             "sentiment": "POSITIVE",
-            "score": 0.8318730592727661,
+            "score": 0.8318731784820557,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta lays off thousands of employees to offset AI investments - theverge.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9707819223403931,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "TSA's new 'Gold+' program looks to increase private security screening at airports - NPR",
+            "sentiment": "POSITIVE",
+            "score": 0.8016312718391418,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "A Hacker Group Is Poisoning Open Source Code at an Unprecedented Scale - WIRED",
+            "sentiment": "NEGATIVE",
+            "score": 0.8618262410163879,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Beef prices are soaring \u2014 and so is America's protein obsession - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.7237017750740051,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "'Pathetic': Critics Rip Jeff Bezos After 'Single Most Embarrassing' Pro-Trump Claim Ever - HuffPost",
+            "sentiment": "NEGATIVE",
+            "score": 0.9407140612602234,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -59,26 +214,8 @@
         {
             "title": "One of California\u2019s largest insurers will hike rates nearly 30% this fall - San Francisco Chronicle",
             "sentiment": "POSITIVE",
-            "score": 0.9318923354148865,
+            "score": 0.9316565990447998,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Senators consider taking legislative action on prediction markets - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.8798159956932068,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "TurboTax Maker Intuit Files Beat-And-Raise Report, Announces Job Cuts - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9692062735557556,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -99,50 +236,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Jeff Bezos says raising taxes on the wealthy won\u2019t help the average American - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8568706512451172,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Kansas farmers hit hard by weather extremes and growing costs, wheat crop could be worst since 1972 - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9479381442070007,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Samsung has a tentative deal with workers to avoid a memory chip strike - theverge.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9626016020774841,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Treasuries Rally as Trump Cites \u2018Final Stages\u2019 of US-Iran Talks - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8924462199211121,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
