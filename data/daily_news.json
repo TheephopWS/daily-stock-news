@@ -1,13 +1,30 @@
 {
-    "last_updated": "2026-05-22 04:48:23 UTC",
-    "total_articles": 11,
+    "last_updated": "2026-05-22 07:38:57 UTC",
+    "total_articles": 9,
     "bullish_articles": 3,
-    "bearish_articles": 8,
+    "bearish_articles": 6,
     "articles": [
         {
-            "title": "Sinkhole at LaGuardia Airport forces runway to shut down - CBS News",
+            "title": "Nvidia posts record profit of $58.3bn amid AI chip boom - Al Jazeera",
+            "sentiment": "POSITIVE",
+            "score": 0.7666307687759399,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Samsung strike on hold - but the fight isn't over yet. Why? - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9492533802986145,
+            "score": 0.9173523783683777,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -30,6 +47,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Texas man intentionally drove his Tesla Cybertruck into Grapevine Lake to use vehicle's \"wade mode\", police say - ABC7 Los Angeles",
+            "sentiment": "NEGATIVE",
+            "score": 0.8972755670547485,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Ram Revives the Muscle Truck With 3 New Rumble Bee Models, Including a 777-HP Hellcat Version - Road & Track",
@@ -58,47 +92,6 @@
             ]
         },
         {
-            "title": "Meta cuts 8,000 jobs in sweeping global layoffs - Al Jazeera",
-            "sentiment": "NEGATIVE",
-            "score": 0.9690787196159363,
-            "signal": "BEARISH",
-            "tickers": [
-                "META",
-                "INTC"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Trump gives blas\u00e9 response to rate hike possibility - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.8590450882911682,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8910268545150757,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Treasuries Rally as Trump Cites \u2018Final Stages\u2019 of US-Iran Talks - Bloomberg.com",
             "sentiment": "POSITIVE",
             "score": 0.8924462199211121,
@@ -112,15 +105,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9232035875320435,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "All 50 states top $4 a gallon gas as Iran impacts linger - Axios",
-            "sentiment": "POSITIVE",
-            "score": 0.9272616505622864,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
