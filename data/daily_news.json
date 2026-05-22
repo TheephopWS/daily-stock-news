@@ -1,14 +1,14 @@
 {
-    "last_updated": "2026-05-21 21:55:46 UTC",
-    "total_articles": 16,
-    "bullish_articles": 10,
-    "bearish_articles": 6,
+    "last_updated": "2026-05-22 01:23:30 UTC",
+    "total_articles": 11,
+    "bullish_articles": 3,
+    "bearish_articles": 8,
     "articles": [
         {
-            "title": "Nvidia forecasts quarterly revenue above estimates, announces $80 billion share buyback - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.7981568574905396,
-            "signal": "BULLISH",
+            "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9639884233474731,
+            "signal": "BEARISH",
             "tickers": [
                 "NVDA"
             ],
@@ -16,16 +16,34 @@
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
-                    "impact": "positive",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "E.l.f. Beauty to walk back some tariff price increases amid high gas prices and consumer 'suffering' - CNBC",
+            "title": "Factbox-Mega IPOs loom on Wall St as Elon Musk's SpaceX reveals paperwork - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.818426251411438,
+            "score": 0.8900433778762817,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Sinkhole shuts runway at LaGuardia Airport, delaying flights, Port Authority warns - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9631417393684387,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "TurboTax Maker Intuit Files Beat-And-Raise Report, Announces Job Cuts - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9692062735557556,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -49,18 +67,32 @@
             "ticker_impacts": []
         },
         {
-            "title": "Ram Revives the Muscle Truck With 3 New Rumble Bee Models, Including a 777-HP Hellcat Version - Road & Track",
-            "sentiment": "POSITIVE",
-            "score": 0.814738929271698,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Mamdani fires back at Bezos over Queens teacher tax remark - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9275411367416382,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD",
+                "AMZN"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Jeff Bezos says raising taxes on the wealthy won\u2019t help the average American - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.8568708300590515,
+            "score": 0.8568706512451172,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN"
@@ -75,52 +107,9 @@
             ]
         },
         {
-            "title": "Meta slashes 8,000 jobs as it pivots towards AI - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9636361598968506,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Stock Market Today: Dow Closes Above 50,000; Nvidia Rises Ahead Of Earnings (Live Coverage) - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.7317013740539551,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Samsung has a tentative deal with workers to avoid a memory chip strike - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.9607628583908081,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Trump gives blas\u00e9 response to rate hike possibility - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.8590452075004578,
+            "score": 0.8590450882911682,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -129,7 +118,7 @@
         {
             "title": "U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8910267353057861,
+            "score": 0.8910268545150757,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -139,42 +128,6 @@
             "title": "Treasuries Rally as Trump Cites \u2018Final Stages\u2019 of US-Iran Talks - Bloomberg.com",
             "sentiment": "POSITIVE",
             "score": 0.8924462199211121,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stellantis And Jaguar Land Rover: The Partnership No One Saw Coming - Motor1.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7486700415611267,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gas hits $4 per gallon in every US state for first time in horror new price map - The Mirror US",
-            "sentiment": "POSITIVE",
-            "score": 0.9375988841056824,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "All 50 states top $4 a gallon gas as Iran impacts linger - Axios",
-            "sentiment": "POSITIVE",
-            "score": 0.9272616505622864,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Rising mortgage rates cause surge in demand for riskier loans - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8839443325996399,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
