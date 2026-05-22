@@ -1,14 +1,14 @@
 {
-    "last_updated": "2026-05-22 07:38:57 UTC",
-    "total_articles": 9,
-    "bullish_articles": 3,
-    "bearish_articles": 6,
+    "last_updated": "2026-05-22 10:30:42 UTC",
+    "total_articles": 8,
+    "bullish_articles": 1,
+    "bearish_articles": 7,
     "articles": [
         {
-            "title": "Nvidia posts record profit of $58.3bn amid AI chip boom - Al Jazeera",
-            "sentiment": "POSITIVE",
-            "score": 0.7666307687759399,
-            "signal": "BULLISH",
+            "title": "S&P 500 futures edge lower as traders analyze Nvidia earnings: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9694040417671204,
+            "signal": "BEARISH",
             "tickers": [
                 "NVDA"
             ],
@@ -16,24 +16,15 @@
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
-                    "impact": "positive",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Samsung strike on hold - but the fight isn't over yet. Why? - BBC",
+            "title": "Australian judge fines X $465,000 for online safety breach after 3-year court battle - Yahoo",
             "sentiment": "NEGATIVE",
-            "score": 0.9173523783683777,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Senators consider taking legislative action on prediction markets - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.8798159956932068,
+            "score": 0.9615371823310852,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -42,7 +33,7 @@
         {
             "title": "Something Strange Is Happening at College Graduations Across the Country. It\u2019s Causing Shocking Outbursts\u2014and for Good Reasons. - Slate",
             "sentiment": "NEGATIVE",
-            "score": 0.7399792671203613,
+            "score": 0.7399794459342957,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -66,18 +57,9 @@
             ]
         },
         {
-            "title": "Ram Revives the Muscle Truck With 3 New Rumble Bee Models, Including a 777-HP Hellcat Version - Road & Track",
-            "sentiment": "POSITIVE",
-            "score": 0.8147383332252502,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Jeff Bezos says raising taxes on the wealthy won\u2019t help the average American - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.8568706512451172,
+            "score": 0.8568707704544067,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN"
@@ -92,9 +74,32 @@
             ]
         },
         {
+            "title": "Meta cuts 8,000 jobs in sweeping global layoffs - Al Jazeera",
+            "sentiment": "NEGATIVE",
+            "score": 0.9690787196159363,
+            "signal": "BEARISH",
+            "tickers": [
+                "META",
+                "INTC"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Treasuries Rally as Trump Cites \u2018Final Stages\u2019 of US-Iran Talks - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.8924462199211121,
+            "score": 0.8924463391304016,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
