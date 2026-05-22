@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-05-22 13:16:21 UTC",
-    "total_articles": 12,
+    "last_updated": "2026-05-22 16:13:19 UTC",
+    "total_articles": 13,
     "bullish_articles": 3,
-    "bearish_articles": 9,
+    "bearish_articles": 10,
     "articles": [
+        {
+            "title": "Oil prices fall more than 6% as Trump says Iran negotiations in final stages - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9425155520439148,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Walmart says U.S. consumers are under pressure from rising costs - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9145567417144775,
+            "score": 0.914557158946991,
             "signal": "BEARISH",
             "tickers": [
                 "WMT"
@@ -24,17 +33,8 @@
         {
             "title": "Stellantis Unveils \u20ac60 Billion Strategic Plan to Accelerate Growth and Profit - Stellantis.com",
             "sentiment": "POSITIVE",
-            "score": 0.8318730592727661,
+            "score": 0.8318734169006348,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Sinkhole at LaGuardia Airport forces runway to shut down - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9515146017074585,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -57,13 +57,27 @@
             ]
         },
         {
-            "title": "Detroit-bound flight diverted to Canada after Congolese passenger boarded \u2018in error\u2019 amid Ebola outbreak - NBC News",
+            "title": "SMCI Stock Loses Shine as Taiwan Probes $2.5B Nvidia (NVDA) Chip-Smuggling Scandal - TipRanks",
             "sentiment": "NEGATIVE",
-            "score": 0.9250618815422058,
+            "score": 0.9673165678977966,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA",
+                "SMCI"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "SMCI",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "S&P 500 futures edge lower as traders analyze Nvidia earnings: Live updates - CNBC",
@@ -85,12 +99,12 @@
         {
             "title": "Stock Market Today: SPY, QQQ Rally as Oil Sinks 5%; Nvidia Blasts Past Earnings Estimates - TipRanks",
             "sentiment": "POSITIVE",
-            "score": 0.8623360991477966,
+            "score": 0.8623365163803101,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA",
-                "QQQ",
-                "SPY"
+                "SPY",
+                "QQQ"
             ],
             "primary_ticker": "NVDA",
             "ticker_impacts": [
@@ -100,21 +114,30 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "QQQ",
+                    "ticker": "SPY",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "SPY",
+                    "ticker": "QQQ",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Intuit Stock Falls on Earnings\u2014and the Company Plans to Cut 17% of Its Workforce - Barron's",
+            "title": "Air France Flight to Detroit Forced to Divert to Montreal After Alleged Virus Scare - PYOK",
             "sentiment": "NEGATIVE",
-            "score": 0.9723977446556091,
+            "score": 0.9379397034645081,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Something Strange Is Happening at College Graduations Across the Country. It\u2019s Causing Shocking Outbursts\u2014and for Good Reasons. - Slate",
+            "sentiment": "NEGATIVE",
+            "score": 0.7399792671203613,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -123,7 +146,7 @@
         {
             "title": "Texas man intentionally drove his Tesla Cybertruck into Grapevine Lake to use vehicle's \"wade mode\", police say - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
-            "score": 0.8972755670547485,
+            "score": 0.8972756862640381,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -140,7 +163,7 @@
         {
             "title": "Jeff Bezos says raising taxes on the wealthy won\u2019t help the average American - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.8568706512451172,
+            "score": 0.8568708300590515,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN"
@@ -157,7 +180,7 @@
         {
             "title": "Chicago Zillow Listings Disappear After Local Group Yanks Data - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.841657280921936,
+            "score": 0.8416572213172913,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
