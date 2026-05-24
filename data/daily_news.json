@@ -1,9 +1,41 @@
 {
-    "last_updated": "2026-05-24 12:46:18 UTC",
-    "total_articles": 28,
-    "bullish_articles": 9,
-    "bearish_articles": 19,
+    "last_updated": "2026-05-24 15:48:09 UTC",
+    "total_articles": 24,
+    "bullish_articles": 8,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "We found the best deals at the Amazon Memorial Day sale \u2014 Apple, Ninja, Adidas and more are up to 70% off - Yahoo",
+            "sentiment": "NEGATIVE",
+            "score": 0.944499671459198,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL",
+                "AMZN"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Summer electric bills sizzle as the cost of cooling climbs - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.7978876233100891,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "E. coli outbreak linked to California restaurant chain sickens nine people across state - San Francisco Chronicle",
             "sentiment": "NEGATIVE",
@@ -17,46 +49,6 @@
             "title": "'I got drafted': Inside Meta's push to move 7,000 staff into its AI task force - Business Insider",
             "sentiment": "NEGATIVE",
             "score": 0.9099113941192627,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Amazon Memorial Day sales are live\u2014 here's what to buy from brands like Apple, Ninja, Adidas and more - Yahoo",
-            "sentiment": "NEGATIVE",
-            "score": 0.955429196357727,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN",
-                "AAPL"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Texas AG sues Meta over claims that WhatsApp doesn\u2019t provide end-to-end encryption - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.9422520399093628,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -98,18 +90,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "FTC Fines Marketers Nearly $1 Million for Not Actually Listening to People\u2019s Conversations - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.9316816329956055,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Uber Said to Study Full Takeover of European Rival Delivery Hero - Bloomberg",
+            "title": "Uber evaluating takeover of Delivery Hero - Bloomberg (UBER:NYSE) - Seeking Alpha",
             "sentiment": "POSITIVE",
-            "score": 0.8466902375221252,
+            "score": 0.7843623161315918,
             "signal": "BULLISH",
             "tickers": [
                 "UBER"
@@ -133,23 +116,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Waymo suspends freeway driving amid safety concerns - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.9566990733146667,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Indeed chief economist says we\u2019re entering an era of \u2018great mismatch\u2019 thanks to a generational imbalance of workers - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.8789470195770264,
@@ -157,6 +123,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia Slumps Amid 'Parabolic' Data Center Demand, Earnings Beat; Is Nvidia A Buy Now? - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.971609890460968,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Oil prices rise as investors doubt US-Iran peace talks breakthrough - Yahoo Finance",
@@ -207,32 +190,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9106212258338928,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "BofA\u2019s Hartnett Warns Mega-IPOs Risk Bubble Like Roaring \u201820s - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9190998673439026,
-            "signal": "BEARISH",
-            "tickers": [
-                "BAC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "BAC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Abandoned 20-story Midtown Atlanta high-rise deemed 'unsafe' - FOX 5 Atlanta",
-            "sentiment": "NEGATIVE",
-            "score": 0.9018073081970215,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -309,18 +266,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Mortgage Rates Hit a Nine-Month High in Blow to Prime Buying Season - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9444423913955688,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Americans face major decision after new mortgage rate forecast - thestreet.com",
+            "title": "Hormuz Closure Threatens Recession Rivaling 2008, Rapidan Says - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9324710965156555,
+            "score": 0.9600827693939209,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
