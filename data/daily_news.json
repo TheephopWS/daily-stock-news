@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-05-24 10:04:58 UTC",
-    "total_articles": 19,
-    "bullish_articles": 6,
-    "bearish_articles": 13,
+    "last_updated": "2026-05-24 12:46:18 UTC",
+    "total_articles": 28,
+    "bullish_articles": 9,
+    "bearish_articles": 19,
     "articles": [
         {
             "title": "E. coli outbreak linked to California restaurant chain sickens nine people across state - San Francisco Chronicle",
@@ -16,7 +16,7 @@
         {
             "title": "'I got drafted': Inside Meta's push to move 7,000 staff into its AI task force - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9099113345146179,
+            "score": 0.9099113941192627,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -33,7 +33,7 @@
         {
             "title": "Amazon Memorial Day sales are live\u2014 here's what to buy from brands like Apple, Ninja, Adidas and more - Yahoo",
             "sentiment": "NEGATIVE",
-            "score": 0.955428957939148,
+            "score": 0.955429196357727,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN",
@@ -54,9 +54,26 @@
             ]
         },
         {
+            "title": "Texas AG sues Meta over claims that WhatsApp doesn\u2019t provide end-to-end encryption - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.9422520399093628,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Shein acquiring Everlane feels like the end of the millennial sustainable fashion dream - Business Insider",
             "sentiment": "POSITIVE",
-            "score": 0.7262265682220459,
+            "score": 0.7262265086174011,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -74,25 +91,34 @@
         {
             "title": "LIRR strike serves as reminder: It pays big to work for the MTA - Gothamist",
             "sentiment": "NEGATIVE",
-            "score": 0.8811677098274231,
+            "score": 0.8811675310134888,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Microsoft reports are exposing AI's real cost problem: Using the tech is more expensive than paying human employees - Fortune",
+            "title": "FTC Fines Marketers Nearly $1 Million for Not Actually Listening to People\u2019s Conversations - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.826387882232666,
+            "score": 0.9316816329956055,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Uber Said to Study Full Takeover of European Rival Delivery Hero - Bloomberg",
+            "sentiment": "POSITIVE",
+            "score": 0.8466902375221252,
+            "signal": "BULLISH",
             "tickers": [
-                "MSFT"
+                "UBER"
             ],
-            "primary_ticker": "MSFT",
+            "primary_ticker": "UBER",
             "ticker_impacts": [
                 {
-                    "ticker": "MSFT",
-                    "impact": "negative",
+                    "ticker": "UBER",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
@@ -100,7 +126,7 @@
         {
             "title": "Trump to Fed chair Warsh: \"Don't look at me, don't look at anybody\" - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.7266910076141357,
+            "score": 0.726691484451294,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -109,7 +135,7 @@
         {
             "title": "Waymo suspends freeway driving amid safety concerns - The Verge",
             "sentiment": "NEGATIVE",
-            "score": 0.9566989541053772,
+            "score": 0.9566990733146667,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -124,13 +150,48 @@
             ]
         },
         {
+            "title": "Indeed chief economist says we\u2019re entering an era of \u2018great mismatch\u2019 thanks to a generational imbalance of workers - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8789470195770264,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Oil prices rise as investors doubt US-Iran peace talks breakthrough - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.925087034702301,
+            "score": 0.9250871539115906,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Tears in Chicago\u2019s beer as bars serve final rounds of Schlitz to nostalgic drinkers - Chicago Sun-Times",
+            "sentiment": "POSITIVE",
+            "score": 0.7544285655021667,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Former Google CEO Eric Schmidt booed after AI remarks at the University of Arizona - Android Central",
+            "sentiment": "NEGATIVE",
+            "score": 0.9102872014045715,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Burst pipe sends hundreds of gallons of crude oil into East LA streets, prompting road closures due to hazmat situation - ABC7 Los Angeles",
@@ -144,7 +205,7 @@
         {
             "title": "Traders Bet Fed Under Warsh Will Hike Rates by December - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.910620927810669,
+            "score": 0.9106212258338928,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -153,7 +214,7 @@
         {
             "title": "BofA\u2019s Hartnett Warns Mega-IPOs Risk Bubble Like Roaring \u201820s - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9190999865531921,
+            "score": 0.9190998673439026,
             "signal": "BEARISH",
             "tickers": [
                 "BAC"
@@ -168,9 +229,35 @@
             ]
         },
         {
+            "title": "Abandoned 20-story Midtown Atlanta high-rise deemed 'unsafe' - FOX 5 Atlanta",
+            "sentiment": "NEGATIVE",
+            "score": 0.9018073081970215,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Walmart Among Retailers Issuing Price Warnings: Full List - Newsweek",
+            "sentiment": "NEGATIVE",
+            "score": 0.908886730670929,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Earlier broker liability victory for Echo sent back to lower court after Montgomery - FreightWaves",
             "sentiment": "NEGATIVE",
-            "score": 0.8718008995056152,
+            "score": 0.8718001842498779,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -179,8 +266,17 @@
         {
             "title": "Samsung\u2019s memory chip employees negotiated $340,000 bonuses this year - The Verge",
             "sentiment": "POSITIVE",
-            "score": 0.925085723400116,
+            "score": 0.9250858426094055,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "How the AI backlash could cost investors - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9601665139198303,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -188,7 +284,7 @@
         {
             "title": "A proposed additive ban could change New York\u2019s pizza and bagels, some say for the better - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.8247953057289124,
+            "score": 0.824796199798584,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -197,7 +293,16 @@
         {
             "title": "Biogen axes Denali-partnered Parkinson\u2019s drug after phase 2 flop - Fierce Biotech",
             "sentiment": "POSITIVE",
-            "score": 0.7002995014190674,
+            "score": 0.7003005743026733,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Rocket Lab wins first GEO satellite production contract from U.S. Space Force - SpaceNews",
+            "sentiment": "POSITIVE",
+            "score": 0.847409725189209,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -213,9 +318,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Hormuz Closure Threatens Recession Rivaling 2008, Rapidan Says - Bloomberg.com",
+            "title": "Americans face major decision after new mortgage rate forecast - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9600827693939209,
+            "score": 0.9324710965156555,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
