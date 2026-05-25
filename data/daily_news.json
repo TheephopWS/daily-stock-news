@@ -1,13 +1,39 @@
 {
-    "last_updated": "2026-05-25 01:25:35 UTC",
-    "total_articles": 23,
+    "last_updated": "2026-05-25 04:57:18 UTC",
+    "total_articles": 24,
     "bullish_articles": 5,
-    "bearish_articles": 18,
+    "bearish_articles": 19,
     "articles": [
+        {
+            "title": "Walmart shares a dire warning to customers - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.960547924041748,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "'Biggest Wealth Divide in Modern History': Graphic Shows Shocking Reality of US Economy - Common Dreams",
             "sentiment": "NEGATIVE",
             "score": 0.8832005858421326,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mexican chain Guzman y Gomez suddenly closes all restaurants in Lake, McHenry counties and surrounding area - Lake and McHenry County Scanner",
+            "sentiment": "NEGATIVE",
+            "score": 0.94808030128479,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -29,6 +55,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Chefs and Butchers Agree: These 4 Grocery Chains Have the Best Steak - Food & Wine",
+            "sentiment": "POSITIVE",
+            "score": 0.7059035301208496,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "US oil producers increase output to capture price surge from Iran war - Financial Times",
@@ -86,6 +121,15 @@
             "title": "County Reports Two Local Cases in Statewide Kebab Shop E.Coli Outbreak - San Diego County News Center",
             "sentiment": "NEGATIVE",
             "score": 0.859443724155426,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AI is being used to resurrect the voices of dead pilots - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.772099494934082,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -162,15 +206,6 @@
             ]
         },
         {
-            "title": "Shein acquiring Everlane feels like the end of the millennial sustainable fashion dream - Business Insider",
-            "sentiment": "POSITIVE",
-            "score": 0.7262265682220459,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "United flight rerouted after passenger tries to open door at 36,000 feet - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.9410029053688049,
@@ -185,17 +220,12 @@
             "score": 0.9450074434280396,
             "signal": "BULLISH",
             "tickers": [
-                "INTC",
                 "NVDA",
-                "AMD"
+                "AMD",
+                "INTC"
             ],
-            "primary_ticker": "INTC",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "NVDA",
                     "impact": "positive",
@@ -203,6 +233,11 @@
                 },
                 {
                     "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -236,39 +271,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Burst pipe sends hundreds of gallons of crude oil into East LA streets, reaches LA River - ABC7 Los Angeles",
+            "title": "BofA\u2019s Hartnett Warns Mega-IPOs Risk Bubble Like Roaring \u201820s - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9508416056632996,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Walmart Among Retailers Issuing Price Warnings: Full List - Newsweek",
-            "sentiment": "NEGATIVE",
-            "score": 0.9088866114616394,
+            "score": 0.9190999865531921,
             "signal": "BEARISH",
             "tickers": [
-                "WMT"
+                "BAC"
             ],
-            "primary_ticker": "WMT",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "WMT",
+                    "ticker": "BAC",
                     "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Another airline files for bankruptcy protection and cancels all flights - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8743396401405334,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "A proposed additive ban could change New York\u2019s pizza and bagels, some say for the better - NBC News",
