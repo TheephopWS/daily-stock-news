@@ -1,14 +1,40 @@
 {
-    "last_updated": "2026-05-24 21:42:37 UTC",
-    "total_articles": 19,
-    "bullish_articles": 4,
-    "bearish_articles": 15,
+    "last_updated": "2026-05-25 01:25:35 UTC",
+    "total_articles": 23,
+    "bullish_articles": 5,
+    "bearish_articles": 18,
     "articles": [
         {
             "title": "'Biggest Wealth Divide in Modern History': Graphic Shows Shocking Reality of US Economy - Common Dreams",
             "sentiment": "NEGATIVE",
             "score": 0.8832005858421326,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Former CEO Bobby Kotick claims lawsuit against Microsoft's acquisition of Activision was only filed to help Embracer - Eurogamer",
+            "sentiment": "NEGATIVE",
+            "score": 0.8348369598388672,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "US oil producers increase output to capture price surge from Iran war - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.7581706047058105,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -23,13 +49,38 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump to Fed chair Warsh: \"Don't look at me, don't look at anybody\" - Axios",
+            "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak - Krebs on Security",
             "sentiment": "NEGATIVE",
-            "score": 0.7266910076141357,
+            "score": 0.9249847531318665,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "CISA"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "CISA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Newsom escalates feud with Chevron, urging boycott amid soaring California gas prices - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.876346230506897,
+            "signal": "BEARISH",
+            "tickers": [
+                "CVX"
+            ],
+            "primary_ticker": "CVX",
+            "ticker_impacts": [
+                {
+                    "ticker": "CVX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "County Reports Two Local Cases in Statewide Kebab Shop E.Coli Outbreak - San Diego County News Center",
@@ -41,45 +92,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Western Washington drivers are skipping out on Memorial Day travel amid high gas prices - KOMO",
+            "title": "Waymo pauses driverless car service in Nashville after Atlanta flooding incident - WSMV",
             "sentiment": "NEGATIVE",
-            "score": 0.7697746157646179,
+            "score": 0.9543972611427307,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "AI is being used to resurrect the voices of dead pilots - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.772099494934082,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Zohran Mamdani Fires Back After Jeff Bezos Says Doubling His Taxes Won't Help Teachers In Queens: 'I Know A Few\u2026Who Would Beg To Differ' - Yahoo",
-            "sentiment": "NEGATIVE",
-            "score": 0.958361804485321,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMD",
-                "AMZN"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "'I got drafted': Inside Meta's push to move 7,000 staff into its AI task force - Business Insider",
@@ -102,6 +121,24 @@
             "title": "FDA staff blindsided by move allowing more e-cigarettes and nicotine pouches onto US market - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.950049877166748,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bond Traders Bet Fed Under Warsh Will Hike Rates This Year - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8796260356903076,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump wants new Fed chair to be 'totally independent' - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.7997027635574341,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -143,6 +180,53 @@
             "ticker_impacts": []
         },
         {
+            "title": "NVIDIA\u2019s Vera CPUs Set to Outrun Intel and AMD x86 Chips by 1.5x at Computex 2026, Analysts Predict - Wccftech",
+            "sentiment": "POSITIVE",
+            "score": 0.9450074434280396,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC",
+                "NVDA",
+                "AMD"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "FTC Fines Marketers Nearly $1 Million for Not Actually Listening to People\u2019s Conversations - Gizmodo",
+            "sentiment": "NEGATIVE",
+            "score": 0.9316815137863159,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Samsung Mobile Workers Revolt Over $4,000 Bonus While Memory Employees Pocket $400,000 Each, Vowing Court Injunction To Block The Deal - Wccftech",
+            "sentiment": "NEGATIVE",
+            "score": 0.9608150124549866,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Tears in Chicago\u2019s beer as bars serve final rounds of Schlitz to nostalgic drinkers - Chicago Sun-Times",
             "sentiment": "POSITIVE",
             "score": 0.7544270157814026,
@@ -152,27 +236,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Traders Bet Fed Under Warsh Will Hike Rates by December - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.910620927810669,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "High gas prices, cost of living send US consumer sentiment to all-time low - CNN",
+            "title": "Burst pipe sends hundreds of gallons of crude oil into East LA streets, reaches LA River - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
-            "score": 0.9485253095626831,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How the AI backlash could cost investors - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9601665139198303,
+            "score": 0.9508416056632996,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -205,10 +271,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Biogen axes Denali-partnered Parkinson\u2019s drug after phase 2 flop - Fierce Biotech",
-            "sentiment": "POSITIVE",
-            "score": 0.7002995014190674,
-            "signal": "BULLISH",
+            "title": "A proposed additive ban could change New York\u2019s pizza and bagels, some say for the better - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8247953057289124,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
