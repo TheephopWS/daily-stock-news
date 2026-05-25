@@ -1,13 +1,45 @@
 {
-    "last_updated": "2026-05-25 16:12:01 UTC",
-    "total_articles": 22,
+    "last_updated": "2026-05-25 18:56:11 UTC",
+    "total_articles": 19,
     "bullish_articles": 1,
-    "bearish_articles": 21,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Prediction: It's Only a Matter of Time Before President Donald Trump and Fed Chair Kevin Warsh Are Butting Heads -- and Wall Street May Be the Big Loser - Yahoo Finance",
+            "title": "How scientists found a weakness in one of the the deadliest \u2018undruggable\u2019 cancers - The Washington Post",
+            "sentiment": "POSITIVE",
+            "score": 0.7696059346199036,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "NVIDIA\u2019s Jensen Huang & AMD\u2019s Lisa Su Touch Down in Taipei as Computex Showdown Looms, Showcasing Next-Gen Technologies - Wccftech",
             "sentiment": "NEGATIVE",
-            "score": 0.8737278580665588,
+            "score": 0.8951276540756226,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD",
+                "NVDA"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "What to Expect in Markets this Week: A Slew of Retailers Report Earnings\u2014Along with Dell and Other AI Players - Investopedia",
+            "sentiment": "NEGATIVE",
+            "score": 0.782154381275177,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,7 +48,7 @@
         {
             "title": "How AI is forcing McKinsey and its peers to rethink pricing - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8876132965087891,
+            "score": 0.8876131176948547,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,7 +57,7 @@
         {
             "title": "Nvidia CEO Urges Super Micro to Tighten Up Amid Taiwan Crackdown - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8836070895195007,
+            "score": 0.8836075067520142,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -40,26 +72,9 @@
             ]
         },
         {
-            "title": "Ex-Meta employee says non-Chinese workers were targeted for layoffs | Hindustan Times - Hindustan Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.959282398223877,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Walmart shares a dire warning to customers - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9605478048324585,
+            "score": 0.960547924041748,
             "signal": "BEARISH",
             "tickers": [
                 "WMT"
@@ -74,24 +89,6 @@
             ]
         },
         {
-            "title": "US debt is the 'elephant in the room' amid bond rout as interest costs could drive larger deficits - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9656404256820679,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'Biggest Wealth Divide in Modern History': Graphic Shows Shocking Reality of US Economy - Common Dreams",
-            "sentiment": "NEGATIVE",
-            "score": 0.8831999897956848,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Mexican chain Guzman y Gomez suddenly closes all restaurants in Lake, McHenry counties and surrounding area - Lake and McHenry County Scanner",
             "sentiment": "NEGATIVE",
             "score": 0.94808030128479,
@@ -101,9 +98,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stocks tend to sink during the summer before midterm elections. Will history repeat itself? - MarketWatch",
+            "title": "Family demands answers after eldery woman dies following altercation at Tim Hortons - TheGrio",
             "sentiment": "NEGATIVE",
-            "score": 0.9503134489059448,
+            "score": 0.9318128824234009,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta CEO Mark Zuckerberg's goodbye message to 8,000 fired employees also has two promises for the 70,000 - The Times of India",
+            "sentiment": "NEGATIVE",
+            "score": 0.8443045616149902,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Another airline files for bankruptcy and cancels all flights - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9380266070365906,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -112,7 +135,7 @@
         {
             "title": "Even Republicans are souring on Trump's economy - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.9526651501655579,
+            "score": 0.9526650309562683,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -138,33 +161,25 @@
         {
             "title": "Summer electric bills sizzle as the cost of cooling climbs - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.7978876233100891,
+            "score": 0.7978871464729309,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak - Krebs on Security",
+            "title": "Charting the Global Economy: Factory Activity Sags on Inflation - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9249847531318665,
+            "score": 0.9688075184822083,
             "signal": "BEARISH",
-            "tickers": [
-                "CISA"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "CISA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Newsom escalates feud with Chevron, urging boycott amid soaring California gas prices - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.8763460516929626,
+            "score": 0.876346230506897,
             "signal": "BEARISH",
             "tickers": [
                 "CVX"
@@ -181,7 +196,7 @@
         {
             "title": "County Reports Two Local Cases in Statewide Kebab Shop E.Coli Outbreak - San Diego County News Center",
             "sentiment": "NEGATIVE",
-            "score": 0.8594435453414917,
+            "score": 0.859443724155426,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -197,63 +212,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump Envoy Accuses Canada of New Trade Barriers With Streaming Revamp - WSJ",
+            "title": "Two top Walmart executives leave company under new CEO John Furner - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8236767053604126,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FDA staff blindsided by move allowing more e-cigarettes and nicotine pouches onto US market - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9500497579574585,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Texas AG sues Meta over claims that WhatsApp doesn\u2019t provide end-to-end encryption - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.9422520399093628,
+            "score": 0.7211683392524719,
             "signal": "BEARISH",
             "tickers": [
-                "META"
+                "WMT"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": "WMT",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "WMT",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "United flight rerouted after passenger tries to open door at 36,000 feet - NBC News",
+            "title": "Top economist issues warning: The economy is about to get 'really ugly' - Alternet",
             "sentiment": "NEGATIVE",
-            "score": 0.9410029053688049,
+            "score": 0.9644358158111572,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Samsung Mobile Workers Revolt Over $4,000 Bonus While Memory Employees Pocket $400,000 Each, Vowing Court Injunction To Block The Deal - Wccftech",
-            "sentiment": "NEGATIVE",
-            "score": 0.9608150124549866,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tears in Chicago\u2019s beer as bars serve final rounds of Schlitz to nostalgic drinkers - Chicago Sun-Times",
-            "sentiment": "POSITIVE",
-            "score": 0.7544285655021667,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
