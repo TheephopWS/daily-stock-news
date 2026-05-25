@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-05-25 04:57:18 UTC",
-    "total_articles": 24,
+    "last_updated": "2026-05-25 07:59:05 UTC",
+    "total_articles": 26,
     "bullish_articles": 5,
-    "bearish_articles": 19,
+    "bearish_articles": 21,
     "articles": [
         {
             "title": "Walmart shares a dire warning to customers - thestreet.com",
@@ -40,6 +40,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Even Republicans are souring on Trump's economy - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.882667601108551,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Former CEO Bobby Kotick claims lawsuit against Microsoft's acquisition of Activision was only filed to help Embracer - Eurogamer",
             "sentiment": "NEGATIVE",
             "score": 0.8348369598388672,
@@ -57,28 +66,19 @@
             ]
         },
         {
-            "title": "Chefs and Butchers Agree: These 4 Grocery Chains Have the Best Steak - Food & Wine",
-            "sentiment": "POSITIVE",
-            "score": 0.7059035301208496,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US oil producers increase output to capture price surge from Iran war - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.7581706047058105,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Summer electric bills sizzle as the cost of cooling climbs - NPR",
             "sentiment": "NEGATIVE",
             "score": 0.7978871464729309,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Electric rates increasing by as much as 20% in Pennsylvania starting June 1, regulators say - PennLive.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8848400712013245,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -162,6 +162,24 @@
             ]
         },
         {
+            "title": "Trump Envoy Accuses Canada of New Trade Barriers With Streaming Revamp - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.8236768245697021,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Ford\u2019s stock climbs to highest close in three years. Here\u2019s what\u2019s behind its run. - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.9381852746009827,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "FDA staff blindsided by move allowing more e-cigarettes and nicotine pouches onto US market - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.950049877166748,
@@ -220,19 +238,19 @@
             "score": 0.9450074434280396,
             "signal": "BULLISH",
             "tickers": [
-                "NVDA",
                 "AMD",
+                "NVDA",
                 "INTC"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "AMD",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "AMD",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMD",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 },
@@ -242,15 +260,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "FTC Fines Marketers Nearly $1 Million for Not Actually Listening to People\u2019s Conversations - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.9316815137863159,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Samsung Mobile Workers Revolt Over $4,000 Bonus While Memory Employees Pocket $400,000 Each, Vowing Court Injunction To Block The Deal - Wccftech",
@@ -271,6 +280,32 @@
             "ticker_impacts": []
         },
         {
+            "title": "Tech layoffs have already passed 100,000 in 2026 as the industry cuts jobs to fund AI - TechSpot",
+            "sentiment": "NEGATIVE",
+            "score": 0.9634627103805542,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Burst pipe sends hundreds of gallons of crude oil into East LA streets, reaches LA River - ABC7 Los Angeles",
+            "sentiment": "NEGATIVE",
+            "score": 0.9508416056632996,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "BofA\u2019s Hartnett Warns Mega-IPOs Risk Bubble Like Roaring \u201820s - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9190999865531921,
@@ -286,15 +321,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "A proposed additive ban could change New York\u2019s pizza and bagels, some say for the better - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8247953057289124,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
