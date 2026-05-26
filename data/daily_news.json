@@ -1,17 +1,25 @@
 {
-    "last_updated": "2026-05-26 13:26:29 UTC",
-    "total_articles": 26,
-    "bullish_articles": 9,
-    "bearish_articles": 17,
+    "last_updated": "2026-05-26 16:38:46 UTC",
+    "total_articles": 23,
+    "bullish_articles": 5,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Oil prices sink on signs of U.S.-Iran deal - Axios",
+            "title": "Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them - Kotaku",
             "sentiment": "NEGATIVE",
-            "score": 0.9656174182891846,
+            "score": 0.930296778678894,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "META"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Expert Says Traders Should Brace for July Jump in Oil Prices - Crude Oil Prices Today | OilPrice.com",
@@ -32,6 +40,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Flight diverted because of power bank charging device in hold luggage - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.9261706471443176,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Bond traders are surrendering to inflation fears. It's raising the stakes for Washington - qz.com",
             "sentiment": "POSITIVE",
             "score": 0.8902298212051392,
@@ -39,6 +56,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Uh-Oh! The Fed Meeting Minutes Point to a Big Shift in Monetary Policy That May Upend a Historically Pricey Stock Market. - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.8632818460464478,
+            "signal": "BEARISH",
+            "tickers": [
+                "FOMC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "FOMC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "China Traders Rush for Exit After Cross-Border Flow Crackdown - Bloomberg.com",
@@ -59,35 +93,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta CEO Mark Zuckerberg's goodbye message to 8,000 fired employees also has two promises for the 70,000 - The Times of India",
-            "sentiment": "NEGATIVE",
-            "score": 0.8443045616149902,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "A Western Auto Giant Found a Lifeline: Working With a Chinese Upstart - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.7531442642211914,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gold Gains as Prospects of Iran Deal Temper Inflation Concerns - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9380519390106201,
+            "score": 0.9395008087158203,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -121,44 +129,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Uber weighs higher bid for Delivery Hero after \u20ac11.5bn offer rebuffed - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9322112202644348,
-            "signal": "BULLISH",
-            "tickers": [
-                "UBER"
-            ],
-            "primary_ticker": "UBER",
-            "ticker_impacts": [
-                {
-                    "ticker": "UBER",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Krispy Kreme deadline approaching, some people eligible for up to $3,500 - LiveNOW from FOX",
             "sentiment": "NEGATIVE",
             "score": 0.7962266802787781,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "99% of CEOs Expect AI-Driven Layoffs in the Next Two Years - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.8402801752090454,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Investors drop bold Fed rate-cut signal to Warsh - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9029664397239685,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -195,6 +168,24 @@
             "sentiment": "POSITIVE",
             "score": 0.8266133069992065,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "A Mississippi warehouse full of comic books is at the center of a legal battle - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.7908602952957153,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\"Trumpflation\" Is Roiling Wall Street -- and It May Not Be a Short-Term Issue as the President Suggests - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9245869517326355,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -257,24 +248,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Bitcoin prices news: BTC heads back to $77,000 on Middle East peace deal - CoinDesk",
-            "sentiment": "POSITIVE",
-            "score": 0.8981523513793945,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Map Reveals Cities Where Home Sales Are Soaring - Newsweek",
-            "sentiment": "POSITIVE",
-            "score": 0.93660968542099,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
