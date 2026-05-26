@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-05-26 16:38:46 UTC",
-    "total_articles": 23,
-    "bullish_articles": 5,
-    "bearish_articles": 18,
+    "last_updated": "2026-05-26 19:12:57 UTC",
+    "total_articles": 26,
+    "bullish_articles": 7,
+    "bearish_articles": 19,
     "articles": [
+        {
+            "title": "Ferrari Launches $640,000, Jony Ive-Designed, Glass-Clad Electric Speedster - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8138082027435303,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Some of Texas\u2019s oldest barbecue joints close as meat prices skyrocket - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9558889269828796,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them - Kotaku",
             "sentiment": "NEGATIVE",
@@ -42,11 +60,37 @@
         {
             "title": "Flight diverted because of power bank charging device in hold luggage - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9261706471443176,
+            "score": 0.9660608768463135,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Wix to cut 1,000 jobs in largest layoff round in company history - CTech",
+            "sentiment": "NEGATIVE",
+            "score": 0.9721293449401855,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia's Jensen Huang says CEOs who blame AI for layoffs are giving a 'lazy' excuse - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.955739438533783,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Bond traders are surrendering to inflation fears. It's raising the stakes for Washington - qz.com",
@@ -58,9 +102,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Uh-Oh! The Fed Meeting Minutes Point to a Big Shift in Monetary Policy That May Upend a Historically Pricey Stock Market. - The Motley Fool",
+            "title": "Uh-Oh! The Fed Meeting Minutes Point to a Big Shift in Monetary Policy That May Upend a Historically Pricey Stock Market. - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8632818460464478,
+            "score": 0.9042053818702698,
             "signal": "BEARISH",
             "tickers": [
                 "FOMC"
@@ -93,10 +137,28 @@
             "ticker_impacts": []
         },
         {
+            "title": "Singapore tells banks to speed up account openings for wealthy clients - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.9345418214797974,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "A Western Auto Giant Found a Lifeline: Working With a Chinese Upstart - WSJ",
             "sentiment": "POSITIVE",
             "score": 0.9395008087158203,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "UK beer boom goes flat as breweries call last orders - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9679222106933594,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -138,54 +200,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "AI is getting worse as Google and Anthropic nerf AI models and limit usage - thestreet.com",
+            "title": "Chipotle rival Guzman y Gomez Mexican Kitchen closes all US restaurants - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.924133837223053,
+            "score": 0.9556271433830261,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Report Exposes How Trump Administration Has 'Mowed Down' Regulators Overseeing Prediction Markets - Common Dreams",
+            "sentiment": "NEGATIVE",
+            "score": 0.9147955179214478,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Walmart CEO sends shoppers troubling message on prices - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9628768563270569,
             "signal": "BEARISH",
             "tickers": [
-                "GOOGL"
+                "WMT"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "WMT",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "WMT",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Short sellers reap more than $2.3bn profit betting against gambling companies - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8139108419418335,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "SpaceX's next-gen Starship rocket enables high valuation, early investor says - Fortune",
             "sentiment": "POSITIVE",
             "score": 0.8266133069992065,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "A Mississippi warehouse full of comic books is at the center of a legal battle - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.7908602952957153,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "\"Trumpflation\" Is Roiling Wall Street -- and It May Not Be a Short-Term Issue as the President Suggests - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9245869517326355,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -203,24 +256,6 @@
             "title": "Drinks Recall Issued For 25 States Over Salmonella Risk - Newsweek",
             "sentiment": "NEGATIVE",
             "score": 0.9660300612449646,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Shinsegae chief to issue in-person apology over Starbucks Korea's 'Tank Day' marketing controversy - The Korea Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.7322336435317993,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How AI is forcing McKinsey and its peers to rethink pricing - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8876131176948547,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
