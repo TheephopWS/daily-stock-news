@@ -1,9 +1,36 @@
 {
-    "last_updated": "2026-05-27 04:54:38 UTC",
-    "total_articles": 24,
+    "last_updated": "2026-05-27 07:50:12 UTC",
+    "total_articles": 25,
     "bullish_articles": 8,
-    "bearish_articles": 16,
+    "bearish_articles": 17,
     "articles": [
+        {
+            "title": "Ferrari Launches $640,000, Jony Ive-Designed, Glass-Clad Electric Speedster - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8138082027435303,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Starbucks\u2019 Korean sales fall after backlash to \u2018Tank Day\u2019 ad campaign - Al Jazeera",
+            "sentiment": "NEGATIVE",
+            "score": 0.9735063910484314,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dow futures jump over 300 points as U.S. oil tumbles on hope Iran deal is close: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9129542708396912,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Why China Is Tightening Controls on Overseas Stock Trading - Bloomberg.com",
             "sentiment": "NEGATIVE",
@@ -14,10 +41,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil prices mixed as U.S. military strikes against Iran cloud Middle East peace prospects - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8604686260223389,
-            "signal": "BEARISH",
+            "title": "Taiwan Overtakes India as World's Fifth-Largest Stock Market - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9206793904304504,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -41,22 +68,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dow futures jump over 300 points as U.S. oil tumbles on hope Iran deal is close: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9129542708396912,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Top CEO\u2019s \u2018Very Nervous\u2019 To Criticize Trump, And A Crash Is \u2018Coming,\u2019 Warns CNBC Host - HuffPost",
+            "title": "These AI Gurus Are Charging Wall Street Banks $25,000 a Day - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9075337052345276,
+            "score": 0.8828465938568115,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Cox Media fined after bragging it spied on users through their phones - The Verge",
@@ -66,23 +92,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Canada Tripling \u201cNetflix Tax\u201d on U.S. Streamers Draws Skepticism From Local Unions, Creatives - The Hollywood Reporter",
-            "sentiment": "NEGATIVE",
-            "score": 0.9514523148536682,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them - Kotaku",
@@ -137,6 +146,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Delta Flight Forced to Divert After Running Low on Fuel - The Daily Beast",
+            "sentiment": "NEGATIVE",
+            "score": 0.957718551158905,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Bond traders are surrendering to inflation fears. It's raising the stakes for Washington - qz.com",
             "sentiment": "POSITIVE",
             "score": 0.8902298212051392,
@@ -146,9 +164,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Uh-Oh! The Fed Meeting Minutes Point to a Big Shift in Monetary Policy That May Upend a Historically Pricey Stock Market. - Yahoo Finance",
+            "title": "Uh-Oh! The Fed Meeting Minutes Point to a Big Shift in Monetary Policy That May Upend a Historically Pricey Stock Market. - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.9042053818702698,
+            "score": 0.8632818460464478,
             "signal": "BEARISH",
             "tickers": [
                 "FOMC"
@@ -163,32 +181,9 @@
             ]
         },
         {
-            "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8845301270484924,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA",
-                "AAPL"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "A Western Auto Giant Found a Lifeline: Working With a Chinese Upstart - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9395008087158203,
+            "score": 0.7531442642211914,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -204,10 +199,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron vs. Sandisk: Which Memory Stock Wins From the AI Boom? - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.9322381615638733,
-            "signal": "BULLISH",
+            "title": "8 Discontinued Costco Membership Benefits Customers Still Miss - Mashed",
+            "sentiment": "NEGATIVE",
+            "score": 0.9498037695884705,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -240,9 +235,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "GDP, Earnings and Other Key Things to Watch this Week - Barchart.com",
+            "title": "Stocks are riding an earnings hot streak \u2014 but investors are facing a summer that\u2019s rife with risks - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9104605317115784,
+            "score": 0.9664445519447327,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
