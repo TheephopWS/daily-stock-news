@@ -1,9 +1,36 @@
 {
-    "last_updated": "2026-05-26 21:59:48 UTC",
-    "total_articles": 24,
-    "bullish_articles": 7,
-    "bearish_articles": 17,
+    "last_updated": "2026-05-27 01:25:42 UTC",
+    "total_articles": 25,
+    "bullish_articles": 9,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "Asian Stocks Set to Extend Gains on US-Iran Hopes: Markets Wrap - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.794544517993927,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dow futures jump 400 points as oil tumbles on hope U.S.-Iran deal is close: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8918793797492981,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Top CEO\u2019s \u2018Very Nervous\u2019 To Criticize Trump, And A Crash Is \u2018Coming,\u2019 Warns CNBC Host - HuffPost",
+            "sentiment": "NEGATIVE",
+            "score": 0.9075337052345276,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Cox Media fined after bragging it spied on users through their phones - The Verge",
             "sentiment": "NEGATIVE",
@@ -14,13 +41,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Some of Texas\u2019s oldest barbecue joints close as meat prices skyrocket - The Washington Post",
+            "title": "Canada Tripling \u201cNetflix Tax\u201d on U.S. Streamers Draws Skepticism From Local Unions, Creatives - The Hollywood Reporter",
             "sentiment": "NEGATIVE",
-            "score": 0.9558889269828796,
+            "score": 0.9514523148536682,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them - Kotaku",
@@ -34,6 +69,23 @@
             "ticker_impacts": [
                 {
                     "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Can Local Outrage Over Data Centers Tilt the Midterms? - Rolling Stone",
+            "sentiment": "NEGATIVE",
+            "score": 0.8447521924972534,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -58,15 +110,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "VW Group\u2019s $7,900 Indian SUV Could Become One Of Europe\u2019s Cheapest New Cars - Carscoops",
-            "sentiment": "POSITIVE",
-            "score": 0.8750731945037842,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Flight diverted because of power bank charging device in hold luggage - CNN",
             "sentiment": "NEGATIVE",
             "score": 0.9660608768463135,
@@ -76,18 +119,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Wix to cut 1,000 jobs in largest layoff round in company history - CTech",
-            "sentiment": "NEGATIVE",
-            "score": 0.9721293449401855,
-            "signal": "BEARISH",
+            "title": "Bond traders are surrendering to inflation fears. It's raising the stakes for Washington - qz.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8902298212051392,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Uh-Oh! The Fed Meeting Minutes Point to a Big Shift in Monetary Policy That May Upend a Historically Pricey Stock Market. - The Motley Fool",
+            "title": "Uh-Oh! The Fed Meeting Minutes Point to a Big Shift in Monetary Policy That May Upend a Historically Pricey Stock Market. - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8632818460464478,
+            "score": 0.9042053818702698,
             "signal": "BEARISH",
             "tickers": [
                 "FOMC"
@@ -100,15 +143,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Bond traders surrender to inflation fears, raising stakes for Washington - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9160106778144836,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "China Traders Rush for Exit After Cross-Border Flow Crackdown - Bloomberg.com",
@@ -138,15 +172,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "UK beer boom goes flat as breweries call last orders - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9679222106933594,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "US consumer sentiment falls as Dow hits record - Semafor",
             "sentiment": "NEGATIVE",
             "score": 0.9476698637008667,
@@ -156,10 +181,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil, Dollar Slide on Optimism Over US-Iran Deal: Markets Wrap - Bloomberg.com",
+            "title": "8 Discontinued Costco Membership Benefits Customers Still Miss - Mashed",
             "sentiment": "NEGATIVE",
-            "score": 0.9580332636833191,
+            "score": 0.9498037695884705,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Micron vs. Sandisk: Which Memory Stock Wins From the AI Boom? - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.9322381615638733,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -174,9 +208,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Krispy Kreme deadline approaching, some people eligible for up to $3,500 - FOX 5 Atlanta",
+            "title": "Krispy Kreme deadline approaching, some people eligible for up to $3,500 - LiveNOW from FOX",
             "sentiment": "NEGATIVE",
-            "score": 0.8219223618507385,
+            "score": 0.7962266802787781,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -201,19 +235,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX's next-gen Starship rocket enables high valuation, early investor says - Fortune",
-            "sentiment": "POSITIVE",
-            "score": 0.8266133069992065,
-            "signal": "BULLISH",
+            "title": "Stocks are riding an earnings hot streak \u2014 but investors are facing a summer that\u2019s rife with risks - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9664445519447327,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "What to Expect in Markets this Week: A Slew of Retailers Report Earnings\u2014Along with Dell and Other AI Players - Investopedia",
-            "sentiment": "NEGATIVE",
-            "score": 0.782154381275177,
-            "signal": "BEARISH",
+            "title": "SpaceX's next-gen Starship rocket enables high valuation, early investor says - Fortune",
+            "sentiment": "POSITIVE",
+            "score": 0.8266133069992065,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -226,29 +260,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Jeff Bezos just told Amazon users: If we ran Amazon the way New York City runs its School system, your pa - The Times of India",
-            "sentiment": "NEGATIVE",
-            "score": 0.9084252119064331,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN",
-                "AMD"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         }
     ]
 }
