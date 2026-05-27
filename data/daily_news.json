@@ -1,22 +1,49 @@
 {
-    "last_updated": "2026-05-27 01:25:42 UTC",
-    "total_articles": 25,
-    "bullish_articles": 9,
+    "last_updated": "2026-05-27 04:54:38 UTC",
+    "total_articles": 24,
+    "bullish_articles": 8,
     "bearish_articles": 16,
     "articles": [
         {
-            "title": "Asian Stocks Set to Extend Gains on US-Iran Hopes: Markets Wrap - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.794544517993927,
-            "signal": "BULLISH",
+            "title": "Why China Is Tightening Controls on Overseas Stock Trading - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9300907850265503,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Dow futures jump 400 points as oil tumbles on hope U.S.-Iran deal is close: Live updates - CNBC",
+            "title": "Oil prices mixed as U.S. military strikes against Iran cloud Middle East peace prospects - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8604686260223389,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil Could Stay Above $100 for Years, Analysts Warn - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9660371541976929,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Japan Slips to World\u2019s No. 3 Creditor Behind Germany and China - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9044917225837708,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dow futures jump over 300 points as U.S. oil tumbles on hope Iran deal is close: Live updates - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8918793797492981,
+            "score": 0.9129542708396912,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -110,15 +137,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Flight diverted because of power bank charging device in hold luggage - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9660608768463135,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Bond traders are surrendering to inflation fears. It's raising the stakes for Washington - qz.com",
             "sentiment": "POSITIVE",
             "score": 0.8902298212051392,
@@ -145,22 +163,27 @@
             ]
         },
         {
-            "title": "China Traders Rush for Exit After Cross-Border Flow Crackdown - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8145633339881897,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Huawei Touts Chipmaking Breakthrough to Shorten Gap with TSMC - Bloomberg.com",
+            "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9336891770362854,
+            "score": 0.8845301270484924,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA",
+                "AAPL"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "A Western Auto Giant Found a Lifeline: Working With a Chinese Upstart - WSJ",
@@ -175,15 +198,6 @@
             "title": "US consumer sentiment falls as Dow hits record - Semafor",
             "sentiment": "NEGATIVE",
             "score": 0.9476698637008667,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "8 Discontinued Costco Membership Benefits Customers Still Miss - Mashed",
-            "sentiment": "NEGATIVE",
-            "score": 0.9498037695884705,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -208,9 +222,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Krispy Kreme deadline approaching, some people eligible for up to $3,500 - LiveNOW from FOX",
+            "title": "Krispy Kreme deadline approaching, some people eligible for up to $3,500 - FOX 5 Atlanta",
             "sentiment": "NEGATIVE",
-            "score": 0.7962266802787781,
+            "score": 0.8219223618507385,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -226,18 +240,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Report Exposes How Trump Administration Has 'Mowed Down' Regulators Overseeing Prediction Markets - Common Dreams",
+            "title": "GDP, Earnings and Other Key Things to Watch this Week - Barchart.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9147955179214478,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stocks are riding an earnings hot streak \u2014 but investors are facing a summer that\u2019s rife with risks - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9664445519447327,
+            "score": 0.9104605317115784,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
