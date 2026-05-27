@@ -1,31 +1,83 @@
 {
-    "last_updated": "2026-05-27 19:11:13 UTC",
+    "last_updated": "2026-05-27 22:07:11 UTC",
     "total_articles": 17,
-    "bullish_articles": 7,
-    "bearish_articles": 10,
+    "bullish_articles": 6,
+    "bearish_articles": 11,
     "articles": [
+        {
+            "title": "AutoZone stock on pace for worst trading day since March 2020, despite retailer beating Wall Street estimates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9681276082992554,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Controversial electric Ferrari outrages transport minister (and the rest of Italy) - politico.eu",
+            "sentiment": "NEGATIVE",
+            "score": 0.9147974848747253,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Stock Market Today: Tech Rally Leads Stocks Higher, Oil Strengthens After Fresh Mideast Tensions \u2014 Live Updates - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.7215298414230347,
+            "score": 0.7215301990509033,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Meta to cut nearly 1,400 jobs across Puget Sound region - KING5.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9702880382537842,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Micron Stock Hits $1 Trillion. Trump and Wall Street Unite Behind the Chip Titan. - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9350618124008179,
+            "score": 0.9350619316101074,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Nvidia Wavers After Weekly Loss Follows Earnings Beat; Is Nvidia A Buy Now? - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9393905401229858,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "'Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8462437987327576,
+            "score": 0.8462439179420471,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -34,7 +86,7 @@
         {
             "title": "Starship V3\u2019s Heat Shield Was the Real Star of Flight 12 - Gizmodo",
             "sentiment": "POSITIVE",
-            "score": 0.8313773274421692,
+            "score": 0.8313777446746826,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -50,27 +102,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "Rocket Lab, AST, Other Space Stocks Take Off After SpaceX\u2019s Starship Blows Up - Barron's",
+            "title": "Qualcomm Strikes AI Chip Deal With TikTok Owner ByteDance - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.8577706813812256,
+            "score": 0.9429178237915039,
             "signal": "BULLISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nokia\u2019s 140% Rally Turns AI Comeback Into Valuation Puzzle - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8259175419807434,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "South Korean Starbucks boss apologizes anew for ad campaign that evoked massacre - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.937212347984314,
+            "score": 0.9372124075889587,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -79,7 +130,7 @@
         {
             "title": "Exclusive | Venture Fund Launches $200 Million Bet on U.S. Maritime Revival - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.8935938477516174,
+            "score": 0.893593966960907,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -88,7 +139,7 @@
         {
             "title": "The bond market is telling us the free lunch is over - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.8152523040771484,
+            "score": 0.8152520060539246,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -122,44 +173,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Taiwan Overtakes India as World's Fifth-Largest Stock Market - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9206793904304504,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tourists Boycott U.S. at Record Rates After Trump Takeover - The Daily Beast",
-            "sentiment": "NEGATIVE",
-            "score": 0.9370731711387634,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them - Kotaku",
-            "sentiment": "NEGATIVE",
-            "score": 0.930296778678894,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Eli Lilly says Verve\u2019s gene editor lowers cholesterol levels in early study - statnews.com",
             "sentiment": "POSITIVE",
-            "score": 0.8759008049964905,
+            "score": 0.8759006857872009,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
