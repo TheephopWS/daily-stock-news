@@ -1,40 +1,129 @@
 {
-    "last_updated": "2026-05-28 16:45:02 UTC",
-    "total_articles": 27,
-    "bullish_articles": 14,
-    "bearish_articles": 13,
+    "last_updated": "2026-05-28 19:19:17 UTC",
+    "total_articles": 18,
+    "bullish_articles": 9,
+    "bearish_articles": 9,
     "articles": [
         {
-            "title": "Space stocks surge after SpaceX IPO S-1 filing - qz.com",
+            "title": "Exclusive | Amazon Strikes $6 Billion Deal With Snowflake for Its Agentic Computing Chips - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.946140468120575,
+            "score": 0.9393516182899475,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "AMZN",
+                "AAPL",
+                "META"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "See how your pay compares to the CEOs of the top US companies - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.9388265609741211,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Foot Locker returns to growth but weighs on Dick's Sporting Goods as earnings miss - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8008604645729065,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Americans Are About to Pay Even More at the Grocery Store - Bloomberg.com",
+            "title": "More people are going hungry now than at the height of the pandemic - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.7610560059547424,
+            "score": 0.8870537281036377,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Zuckerberg\u2019s superyacht lands in Seattle the day Meta announces layoffs of 1,400 local employees - The Seattle Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9373546242713928,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Boeing increasing 737 production after consulting FAA - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9537243247032166,
+            "signal": "BULLISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin price updates: BTC slips back near $75,000 as investors turn elsewhere for gains - CoinDesk",
+            "sentiment": "NEGATIVE",
+            "score": 0.8463784456253052,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "BofA Trading Revenue Seen Up 15% in Second Quarter, CEO Says - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9516282677650452,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tesla is recovering in Europe. BYD is still beating it. - Sherwood News",
+            "sentiment": "POSITIVE",
+            "score": 0.9595248699188232,
+            "signal": "BULLISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "US Mortgage Rates Climb to Highest Level Since August - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.842090904712677,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "FDA delays ruling on AstraZeneca drug after negative adcomm vote - Fierce Biotech",
+            "sentiment": "NEGATIVE",
+            "score": 0.9492009282112122,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -50,53 +139,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Goldman Strategists Lift S&P 500 Target to 8,000 on AI, Earnings - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9493345618247986,
-            "signal": "BULLISH",
-            "tickers": [
-                "GS"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GS",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Trump risks triggering financial crisis with Iran war, warns ECB - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.964458703994751,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AkzoNobel Shares Jump After $14.5 Billion Nippon Paint, Sherwin-Williams Bid - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9434775710105896,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Memory Chip Frenzy Sends SK Hynix, Micron Into $1 Trillion Club - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9054485559463501,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Ferrari Luce EV Draws Rare Public Criticism From Former Boss Luca di Montezemolo After Reveal - Motor1.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9153147339820862,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -112,37 +157,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Hong Kong overtakes Switzerland as hub for global offshore wealth - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8760887980461121,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Canada and Germany make liquefied natural gas deal as Carney looks to diversify from US - AP News",
             "sentiment": "POSITIVE",
             "score": 0.8970997333526611,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump administration permits Volvo to keep selling connected cars in the US - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.7633504867553711,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "BP removes chair Albert Manifold after claims of bullying - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9482555389404297,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -157,10 +175,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX wins $2.29 billion Space Force contract for military data network - SpaceNews",
-            "sentiment": "POSITIVE",
-            "score": 0.8501447439193726,
-            "signal": "BULLISH",
+            "title": "Clover restaurants to close down after more than 17 years - The Boston Globe",
+            "sentiment": "NEGATIVE",
+            "score": 0.8553881049156189,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -183,81 +201,18 @@
             ]
         },
         {
-            "title": "Rocket Lab, AST, Other Space Stocks Take Off After SpaceX\u2019s Starship Blows Up - Barron's",
+            "title": "Micron Hits a $1 Trillion Market Cap After UBS \u2014 and Trump \u2014 Praise It - Business Insider",
             "sentiment": "POSITIVE",
-            "score": 0.8577706813812256,
+            "score": 0.9413248300552368,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX\u2019s Starlink nabs American Airlines contract, another win for its IPO - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.9190707802772522,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AutoZone Races Past Earnings Estimates. Why the Stock Is Falling. - Barron's",
+            "title": "Largest study of AI hiring algorithms to date finds 'clear racial disparities' \u2014 over 25% of Black applicants tainted by bias - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9728349447250366,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Some of Texas\u2019 most famous BBQ joints forced to close due to sky-high beef prices - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9701359868049622,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "As US stock market hits new highs, 2 of 3 Americans are cutting back on spending, survey shows - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.975081205368042,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why Brent and WTI Crude Price Movements Are Diverging Today - Crude Oil Prices Today | OilPrice.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8448742032051086,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "South Korean Starbucks boss apologizes anew for ad campaign that evoked massacre - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.937212347984314,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Treasury yields slide after Memorial Day break as traders weigh Iran peace prospects - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9732766151428223,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Workers are relying on AI more and coworkers less. It's unraveling the social fabric of work. - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.7306795716285706,
+            "score": 0.9338310360908508,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
