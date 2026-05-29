@@ -1,13 +1,65 @@
 {
-    "last_updated": "2026-05-28 22:05:07 UTC",
-    "total_articles": 23,
-    "bullish_articles": 9,
-    "bearish_articles": 14,
+    "last_updated": "2026-05-29 01:25:03 UTC",
+    "total_articles": 22,
+    "bullish_articles": 10,
+    "bearish_articles": 12,
     "articles": [
         {
-            "title": "Zuckerberg's $300M superyacht passes through Seattle's Ballard locks right when Meta cuts 1,400 local jobs - MyNorthwest.com",
+            "title": "Google engineer charged with insider trading after making $1.2M on Polymarket - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.7928059101104736,
+            "score": 0.8765208721160889,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Stock Market Today: Dow, S&P 500 and Nasdaq close at record highs on hopes for Iran war ending; oil prices drop; Micron extends epic run - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9309237599372864,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Snowflake Stock Jumps 34%. How Amazon and an Earnings Beat Are Fueling the Gains. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9404737949371338,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Marvell Technology, Inc. Reports First Quarter of Fiscal Year 2027 Financial Results - Marvell Technology",
+            "sentiment": "POSITIVE",
+            "score": 0.9512729048728943,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mark Zuckerberg\u2019s mega yacht docks in Seattle in the wake of Meta layoffs - KUOW",
+            "sentiment": "NEGATIVE",
+            "score": 0.7290621995925903,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -22,84 +74,9 @@
             ]
         },
         {
-            "title": "Dow Jones Futures: Stocks At Highs As Oil Prices Tumble, Marvell, Snowflake Jump Late On Earnings - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.7745946645736694,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Stock Market Today: Chip Stocks Pare Recent Gains; Oil Drops on Hopes of Mideast Deal \u2014 Live Updates - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.7526289820671082,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Salesforce Gives Lukewarm Outlook That Fuels Disruption Fear - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9430636763572693,
-            "signal": "BEARISH",
-            "tickers": [
-                "CRM"
-            ],
-            "primary_ticker": "CRM",
-            "ticker_impacts": [
-                {
-                    "ticker": "CRM",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.924005925655365,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN",
-                "NVDA"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Marvell Technology, Inc. Reports First Quarter of Fiscal Year 2027 Financial Results - Marvell Technology",
-            "sentiment": "POSITIVE",
-            "score": 0.9512729048728943,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Silicon Valley is spending billions on AI tokens and nobody can agree if it's working - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9568225741386414,
+            "score": 0.9568226933479309,
             "signal": "BEARISH",
             "tickers": [
                 "UBER"
@@ -114,39 +91,45 @@
             ]
         },
         {
+            "title": "Three Charts Capturing Micron\u2019s Record Rise to $1 Trillion - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8373507857322693,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "More people are going hungry now than at the height of the pandemic - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.8870537281036377,
+            "score": 0.887053906917572,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Boeing increasing 737 production after consulting FAA - Yahoo Finance",
+            "title": "Salesforce Earnings Can Put AI Fears to Bed, Give Stock a Lift - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9537243247032166,
+            "score": 0.8725011944770813,
             "signal": "BULLISH",
             "tickers": [
-                "BA"
+                "CRM",
+                "INTC"
             ],
-            "primary_ticker": "BA",
+            "primary_ticker": "CRM",
             "ticker_impacts": [
                 {
-                    "ticker": "BA",
+                    "ticker": "CRM",
                     "impact": "positive",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Hundreds Sign Letter Warning Paramount Takeover Of CNN Will Lead To 'Improper Political Meddling' - HuffPost",
-            "sentiment": "NEGATIVE",
-            "score": 0.8625100255012512,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "BofA Trading Revenue Seen Up 15% in Second Quarter, CEO Says - Bloomberg.com",
@@ -158,26 +141,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tesla is recovering in Europe. BYD is still beating it. - Sherwood News",
+            "title": "Median pay for CEOs rose nearly 6% in 2025, but some compensation packages were eye-popping - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.9595248699188232,
+            "score": 0.9425204992294312,
             "signal": "BULLISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "US Mortgage Rates Climb to Highest Level Since August - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.842090904712677,
+            "score": 0.8420917391777039,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -193,19 +168,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "FDA delays ruling on AstraZeneca drug after negative adcomm vote - Fierce Biotech",
+            "title": "Americans Are About to Pay Even More at the Grocery Store - Bloomberg",
             "sentiment": "NEGATIVE",
-            "score": 0.9492009282112122,
+            "score": 0.7436536550521851,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock futures are little changed after the S&P 500 closes at another record: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8456030488014221,
-            "signal": "BULLISH",
+            "title": "FDA delays ruling on AstraZeneca drug after negative adcomm vote - Fierce Biotech",
+            "sentiment": "NEGATIVE",
+            "score": 0.9492009282112122,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -220,10 +195,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Samsung workers set for $400,000 bonus after deal to share AI profits - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9470619559288025,
-            "signal": "BEARISH",
+            "title": "Memory Chip Frenzy Sends SK Hynix, Micron Into $1 Trillion Club - Bloomberg",
+            "sentiment": "POSITIVE",
+            "score": 0.8859791159629822,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -231,16 +206,16 @@
         {
             "title": "Canada and Germany make liquefied natural gas deal as Carney looks to diversify from US - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.8970997333526611,
+            "score": 0.8971000909805298,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Clover restaurants to close down after more than 17 years - The Boston Globe",
+            "title": "BP\u2019s Ousted Chair Says He Was Fired Without Explanation - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8553881049156189,
+            "score": 0.9230461120605469,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -249,26 +224,26 @@
         {
             "title": "Largest study of AI hiring algorithms to date finds 'clear racial disparities' \u2014 over 25% of Black applicants tainted by bias - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9338310360908508,
+            "score": 0.9338311553001404,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oil giant BP ousts new chairman over \u2018conduct\u2019 and shares slide - AP News",
+            "title": "As US stock market hits new highs, 2 of 3 Americans are cutting back on spending, survey shows - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9486262202262878,
+            "score": 0.975081205368042,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "U.S. Consumer Sentiment Worsened in May - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9524055123329163,
-            "signal": "BEARISH",
+            "title": "Starship V3\u2019s Heat Shield Was the Real Star of Flight 12 - Gizmodo",
+            "sentiment": "POSITIVE",
+            "score": 0.831377387046814,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
