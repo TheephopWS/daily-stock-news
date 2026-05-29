@@ -1,22 +1,13 @@
 {
-    "last_updated": "2026-05-29 04:53:02 UTC",
-    "total_articles": 20,
-    "bullish_articles": 7,
-    "bearish_articles": 13,
+    "last_updated": "2026-05-29 07:43:50 UTC",
+    "total_articles": 21,
+    "bullish_articles": 9,
+    "bearish_articles": 12,
     "articles": [
         {
-            "title": "CNBC Daily Open: Oil falls on Iran peace hopes \u2014 then U.S. launches airstrikes - CNBC",
+            "title": "Google engineer made $1.2M by placing bets on Polymarket using confidential info, prosecutors allege - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9031640291213989,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Google engineer charged with insider trading after making $1.2M on Polymarket - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.8765208721160889,
+            "score": 0.8139421939849854,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -29,6 +20,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Bus and MAX reductions coming this summer as TriMet is struggling for new revenue - OregonLive.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8220978379249573,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Salesforce Earnings, Revenue Beat. Software Stock Falls On Guidance. - Investor's Business Daily",
@@ -56,19 +56,20 @@
         {
             "title": "Stock Market Today: Dow, S&P 500 and Nasdaq close at record highs on hopes for Iran war ending; oil prices drop; Micron extends epic run - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9309239387512207,
+            "score": 0.9309238791465759,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Snowflake Stock Jumps 34%. How Amazon and an Earnings Beat Are Fueling the Gains. - Barron's",
+            "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.9404739141464233,
+            "score": 0.9240061044692993,
             "signal": "BULLISH",
             "tickers": [
-                "AMZN"
+                "AMZN",
+                "NVDA"
             ],
             "primary_ticker": "AMZN",
             "ticker_impacts": [
@@ -76,13 +77,18 @@
                     "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
         {
             "title": "Marvell Technology, Inc. Reports First Quarter of Fiscal Year 2027 Financial Results - Marvell Technology",
             "sentiment": "POSITIVE",
-            "score": 0.9512729048728943,
+            "score": 0.9512727856636047,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -91,7 +97,7 @@
         {
             "title": "Mark Zuckerberg\u2019s mega yacht docks in Seattle in the wake of Meta layoffs - KUOW",
             "sentiment": "NEGATIVE",
-            "score": 0.7290618419647217,
+            "score": 0.7290623784065247,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -106,9 +112,26 @@
             ]
         },
         {
+            "title": "FAA expects Boeing MAX 7 to be certified this summer, sees more production hikes - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9163614511489868,
+            "signal": "BULLISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Silicon Valley is spending billions on AI tokens and nobody can agree if it's working - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9568225741386414,
+            "score": 0.9568226933479309,
             "signal": "BEARISH",
             "tickers": [
                 "UBER"
@@ -125,7 +148,7 @@
         {
             "title": "More people are going hungry now than at the height of the pandemic - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.8870537281036377,
+            "score": 0.8870537877082825,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -134,7 +157,7 @@
         {
             "title": "SK Hynix Surges 1,000% As AI Memory Stocks Hit $1 Trillion - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.7267403602600098,
+            "score": 0.7267407178878784,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -143,7 +166,7 @@
         {
             "title": "Tesla EV Sales Jump In Europe. The Stock Is Nearing A Buy Point. - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.8615593314170837,
+            "score": 0.8615596294403076,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -158,15 +181,6 @@
             ]
         },
         {
-            "title": "BofA Trading Revenue Seen Up 15% in Second Quarter, CEO Says - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9516282677650452,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Median pay for CEOs rose nearly 6% in 2025, but some compensation packages were eye-popping - AP News",
             "sentiment": "POSITIVE",
             "score": 0.9425204992294312,
@@ -176,9 +190,53 @@
             "ticker_impacts": []
         },
         {
+            "title": "6,000-acre solar project permit nixed by Ohio Supreme Court, for now at least - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8525670170783997,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump Hit With Dire Warning That He Could Spark Financial Crisis - The Daily Beast",
+            "sentiment": "NEGATIVE",
+            "score": 0.8265244960784912,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tencent links PayPal to WeChat Pay network, enabling US users to spend across China - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.7559328675270081,
+            "signal": "BULLISH",
+            "tickers": [
+                "PYPL"
+            ],
+            "primary_ticker": "PYPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "PYPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "US Mortgage Rates Climb to Highest Level Since August - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8420915007591248,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "99% of CEOs are planning AI layoffs in the next 2 years \u2014 and entry-level workers are facing the biggest hit - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9061195254325867,
+            "score": 0.9061194062232971,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -194,28 +252,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump risks triggering financial crisis with Iran war, warns ECB - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.964458703994751,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Canada and Germany make liquefied natural gas deal as Carney looks to diversify from US - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.8970997333526611,
+            "score": 0.8970999717712402,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "BP\u2019s Ousted Chair Says He Was Fired Without Explanation - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9230459332466125,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -223,16 +263,7 @@
         {
             "title": "Largest study of AI hiring algorithms to date finds 'clear racial disparities' \u2014 over 25% of Black applicants tainted by bias - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9338310360908508,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "As US stock market hits new highs, 2 of 3 Americans are cutting back on spending, survey shows - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.975081205368042,
+            "score": 0.9338311553001404,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
