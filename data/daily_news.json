@@ -1,9 +1,97 @@
 {
-    "last_updated": "2026-05-30 18:46:35 UTC",
-    "total_articles": 18,
+    "last_updated": "2026-05-30 21:44:22 UTC",
+    "total_articles": 20,
     "bullish_articles": 5,
-    "bearish_articles": 13,
+    "bearish_articles": 15,
     "articles": [
+        {
+            "title": "Trump claims he\u2019s making food more affordable but his examples ignore the big picture - The Seattle Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.8630008101463318,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Music giant Universal rejects billionaire Bill Ackman's takeover bid - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.7753901481628418,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Drag queen Pattie Gonia asks apparel company Patagonia to drop trademark infringement lawsuit - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7822930216789246,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Here's how we're coping with high gas prices, according to Costco and Walmart - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.7565444111824036,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Donald Trump\u2019s Personal Investment in Dell Pays Off Bigly - Gizmodo",
+            "sentiment": "POSITIVE",
+            "score": 0.9311966896057129,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Citadel Securities Reels In Record $4.3 Billion Trading Haul - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9447862505912781,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil Prices Slip Amid Trump Demands; Exxon Warns Of Nasty Surprise - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9691901206970215,
+            "signal": "BEARISH",
+            "tickers": [
+                "XOM"
+            ],
+            "primary_ticker": "XOM",
+            "ticker_impacts": [
+                {
+                    "ticker": "XOM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Anthropic Co-Founders Worth $8 Billion Each After Funding Round - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7707544565200806,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Sound Transit rebuffs Ballard, OKs other light-rail routes - The Seattle Times",
             "sentiment": "NEGATIVE",
@@ -27,18 +115,18 @@
             "score": 0.9552174806594849,
             "signal": "BEARISH",
             "tickers": [
-                "XOM",
-                "CVX"
+                "CVX",
+                "XOM"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "XOM",
+                    "ticker": "CVX",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "CVX",
+                    "ticker": "XOM",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -48,24 +136,6 @@
             "title": "How Ferrari bungled the design of its first EV - The Verge",
             "sentiment": "NEGATIVE",
             "score": 0.8654890656471252,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Blue Origin's New Glenn rocket explodes in massive fireball during prelaunch test - Space",
-            "sentiment": "NEGATIVE",
-            "score": 0.9608940482139587,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The China surprise: How it has kept a lid on global oil prices - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.943417489528656,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -90,42 +160,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "GM Just Teased Its Answer To The Wrangler And Bronco - CarBuzz",
-            "sentiment": "POSITIVE",
-            "score": 0.8908408284187317,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tomatoes become latest symbol of America\u2019s affordability squeeze - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.9464579224586487,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Japan, South Korea markets hit records on hopes for a winding down of the Iran war - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.9342571496963501,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why the U.S. cattle herd is at a 75-year low \u2014 and what it means for beef prices - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9683215022087097,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Dell inks $9.7 billion Pentagon contract after Trump acquires stock, praises company - The Washington Post",
             "sentiment": "NEGATIVE",
             "score": 0.8448023200035095,
@@ -133,6 +167,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Meta\u2019s mass layoffs hit nearly 3,200 Bay Area workers, among region\u2019s worst job losses in years - San Francisco Chronicle",
+            "sentiment": "NEGATIVE",
+            "score": 0.9710865616798401,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Costco Tops Sales Views But Earnings, Membership Numbers Fall Short - Investor's Business Daily",
@@ -144,21 +195,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8897347450256348,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Autodesk to acquire MaintainX, advancing unified platform in operations - Autodesk News",
+            "sentiment": "POSITIVE",
+            "score": 0.9396675825119019,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Micron, Sandisk Score Price-Target Hikes Amid Record Climbs - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9016038775444031,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Inflation Jumps to 3-Year High as Critics Say Trump Economic Promises Have Turned to Dust - Common Dreams",
@@ -185,24 +237,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Unilever unveils plans for $270 million US-based global innovation centre - Unilever",
-            "sentiment": "POSITIVE",
-            "score": 0.7308417558670044,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era - IBM Newsroom",
-            "sentiment": "POSITIVE",
-            "score": 0.7750036120414734,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
