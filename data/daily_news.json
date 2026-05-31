@@ -1,14 +1,49 @@
 {
-    "last_updated": "2026-05-30 21:44:22 UTC",
-    "total_articles": 20,
-    "bullish_articles": 5,
-    "bearish_articles": 15,
+    "last_updated": "2026-05-31 01:28:58 UTC",
+    "total_articles": 22,
+    "bullish_articles": 6,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "Trump claims he\u2019s making food more affordable but his examples ignore the big picture - The Seattle Times",
+            "title": "Blue Origin explosion threatens to delay NASA's moon program - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.8630008101463318,
+            "score": 0.8735781311988831,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Jim Cramer says Dell\u2019s blowout quarter sets up a crucial week for AI stocks - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7250008583068848,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018He\u2019s full of s--t\u2019: JPMorgan\u2019s Dimon rips Coinbase CEO, escalates fight over crypto bill - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.8522326946258545,
+            "signal": "BEARISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Markets News, May 29, 2026: Indexes Close at Records as Dell Leads Tech Gains; S&P 500 Rises for 9th Straight Week - Investopedia",
+            "sentiment": "POSITIVE",
+            "score": 0.8490694761276245,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -17,6 +52,41 @@
             "title": "Music giant Universal rejects billionaire Bill Ackman's takeover bid - BBC",
             "sentiment": "NEGATIVE",
             "score": 0.7753901481628418,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil market nearing a breaking point, Exxon executive warns - Chron",
+            "sentiment": "NEGATIVE",
+            "score": 0.9654129147529602,
+            "signal": "BEARISH",
+            "tickers": [
+                "XOM"
+            ],
+            "primary_ticker": "XOM",
+            "ticker_impacts": [
+                {
+                    "ticker": "XOM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Citadel Securities posts record $4.3bn in trading revenues on Iran volatility - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8039408326148987,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Company Blew $500M On Claude AI In One Month Due To No Usage Limit On Licenses For Employees - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9450539350509644,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -58,39 +128,57 @@
             "ticker_impacts": []
         },
         {
-            "title": "Citadel Securities Reels In Record $4.3 Billion Trading Haul - Bloomberg.com",
+            "title": "Anthropic leapfrogs OpenAI with a record $965 billion valuation and says its \u2018Mythos\u2019 AI model is coming soon - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9447862505912781,
+            "score": 0.8164572715759277,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oil Prices Slip Amid Trump Demands; Exxon Warns Of Nasty Surprise - Investor's Business Daily",
+            "title": "Meg O\u2019Neill, the no-nonsense CEO steering BP through crisis - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9691901206970215,
+            "score": 0.79962158203125,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil Prices Suffer Biggest Weekly Collapse in Two Months - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9678866863250732,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "This is Where Micron Stock Will Trade in 5 Years - 24/7 Wall St.",
+            "sentiment": "POSITIVE",
+            "score": 0.9192119836807251,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tesla Stock Fans Just Got Worrying News From Texas - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.8695147633552551,
             "signal": "BEARISH",
             "tickers": [
-                "XOM"
+                "TSLA"
             ],
-            "primary_ticker": "XOM",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "XOM",
+                    "ticker": "TSLA",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Anthropic Co-Founders Worth $8 Billion Each After Funding Round - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7707544565200806,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Sound Transit rebuffs Ballard, OKs other light-rail routes - The Seattle Times",
@@ -110,29 +198,6 @@
             ]
         },
         {
-            "title": "Supermajor Warns Oil Prices Could Hit $160 Within Weeks - Crude Oil Prices Today | OilPrice.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9552174806594849,
-            "signal": "BEARISH",
-            "tickers": [
-                "CVX",
-                "XOM"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "CVX",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "XOM",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "How Ferrari bungled the design of its first EV - The Verge",
             "sentiment": "NEGATIVE",
             "score": 0.8654890656471252,
@@ -142,27 +207,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Grocery Shoppers Are In For a Summer of Pain - Bloomberg.com",
+            "title": "Why the U.S. cattle herd is at a 75-year low \u2014 and what it means for beef prices - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.7431175112724304,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Client Accidentally Burns $500 Million on Claude AI in One Month: Here\u2019s How - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.7454428672790527,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Dell inks $9.7 billion Pentagon contract after Trump acquires stock, praises company - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8448023200035095,
+            "score": 0.9683215022087097,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -186,33 +233,6 @@
             ]
         },
         {
-            "title": "Costco Tops Sales Views But Earnings, Membership Numbers Fall Short - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9513832926750183,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Autodesk to acquire MaintainX, advancing unified platform in operations - Autodesk News",
-            "sentiment": "POSITIVE",
-            "score": 0.9396675825119019,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Micron, Sandisk Score Price-Target Hikes Amid Record Climbs - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9016038775444031,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Inflation Jumps to 3-Year High as Critics Say Trump Economic Promises Have Turned to Dust - Common Dreams",
             "sentiment": "NEGATIVE",
             "score": 0.7835170030593872,
@@ -222,17 +242,17 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tech layoffs 2026: Over 142,000 jobs cut at Meta, LinkedIn, Wix, Webflow and more - Yahoo Tech",
+            "title": "Google Engineer Charged With Using Insider Info for $1 Million Haul on Polymarket - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.9385707974433899,
+            "score": 0.7100963592529297,
             "signal": "BEARISH",
             "tickers": [
-                "META"
+                "GOOGL"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "high"
                 }
