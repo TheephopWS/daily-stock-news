@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-05-31 10:09:17 UTC",
-    "total_articles": 25,
-    "bullish_articles": 10,
-    "bearish_articles": 15,
+    "last_updated": "2026-05-31 12:54:38 UTC",
+    "total_articles": 21,
+    "bullish_articles": 9,
+    "bearish_articles": 12,
     "articles": [
         {
-            "title": "Why Dell Stock Skyrocketed to a New All-Time High Today - Yahoo Finance",
+            "title": "United Airlines plane diverted and \u2018unruly passenger\u2019 detained after in-flight incident - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9598783254623413,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX gets $4 billion contract to build missile-tracking \u2018Golden Dome\u2019 satellites - The Verge",
             "sentiment": "POSITIVE",
-            "score": 0.8098931908607483,
+            "score": 0.8858613967895508,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,15 +41,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Eastern and Western WA residents sickened with salmonella linked to supplement - Tri-City Herald",
-            "sentiment": "NEGATIVE",
-            "score": 0.9319819211959839,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Gas prices sink as oil set for 20% drop \u2014 largest one-month decline since 2020 - New York Post",
             "sentiment": "NEGATIVE",
             "score": 0.9731437563896179,
@@ -48,6 +48,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Exxon Mobil 'approaching unheard-of inventory levels' as Iran war blocks oil trade - KOMO",
+            "sentiment": "POSITIVE",
+            "score": 0.8258441090583801,
+            "signal": "BULLISH",
+            "tickers": [
+                "XOM"
+            ],
+            "primary_ticker": "XOM",
+            "ticker_impacts": [
+                {
+                    "ticker": "XOM",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Meta lays off more than 2,000 from Menlo Park headquarters - SFGATE",
@@ -76,9 +93,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Blue Origin explosion threatens to delay NASA's moon program - CBS News",
+            "title": "UnitedHealthcare defrauded MassHealth of $100M, AG Campbell alleges - WBUR",
             "sentiment": "NEGATIVE",
-            "score": 0.8735781311988831,
+            "score": 0.9035468101501465,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -112,6 +129,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Cerebras Is Down 22% Since Its IPO Popped. Should You Buy It Now? - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.9182529449462891,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Donald Trump\u2019s Personal Investment in Dell Pays Off Bigly - Gizmodo",
             "sentiment": "POSITIVE",
             "score": 0.9311966896057129,
@@ -138,18 +164,9 @@
             ]
         },
         {
-            "title": "Anthropic Co-Founders Worth $8 Billion Each After Funding Round - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7707544565200806,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Canada Dips Into Technical Recession for First Time Since 2020 - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.82802814245224,
+            "score": 0.9750177264213562,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -173,21 +190,13 @@
             ]
         },
         {
-            "title": "Exxon warns oil inventories near record lows, price spike ahead - Yahoo Finance",
+            "title": "How Ferrari bungled the design of its first EV - The Verge",
             "sentiment": "NEGATIVE",
-            "score": 0.7367987036705017,
+            "score": 0.8654890656471252,
             "signal": "BEARISH",
-            "tickers": [
-                "XOM"
-            ],
-            "primary_ticker": "XOM",
-            "ticker_impacts": [
-                {
-                    "ticker": "XOM",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Nvidia Stock: How the Chip Maker Is Trading Today - Barron's",
@@ -207,36 +216,9 @@
             ]
         },
         {
-            "title": "The China surprise: How it has kept a lid on global oil prices - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.943417489528656,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "This strategist is using prediction-market shifts to calculate what happens when an Iran deal is announced - MarketWatch",
+            "title": "Micron Gets Higher Target From DA Davidson - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9213238954544067,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Ferrari\u2019s $640,000 electric car is getting roasted online\u2014and its former chairman says it risks \u2018destruction of a myth\u2019 - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.7751443982124329,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "For the third time this month, a chip giant has joined the $1 trillion club - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8285233378410339,
+            "score": 0.9302302598953247,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -258,24 +240,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "US Postal Service suspends non-essential spending amid cash crunch - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9435093998908997,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "No solace: Inflation rises and the economy slows as the Iran war drags on - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.9617200493812561,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
