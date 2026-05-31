@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-05-31 18:48:51 UTC",
-    "total_articles": 24,
-    "bullish_articles": 5,
-    "bearish_articles": 19,
+    "last_updated": "2026-05-31 21:43:22 UTC",
+    "total_articles": 19,
+    "bullish_articles": 6,
+    "bearish_articles": 13,
     "articles": [
         {
             "title": "Cockpit breach attempt prompts plane to divert to Madison, recordings indicate - WISN",
             "sentiment": "NEGATIVE",
             "score": 0.7375311255455017,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Blue Origin faces months of delays after rocket explosion damages launch pad - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9693112969398499,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,9 +32,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Surging Treasury yields expose a brutal truth: America has no margin for error on its $39 trillion debt - Yahoo Finance",
+            "title": "Ferrari\u2019s new EV sparks Italian angst over Agnelli legacy - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8855240345001221,
+            "score": 0.8707230687141418,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -35,15 +44,6 @@
             "title": "Red Lobster in Times Square to close June 14 due to significant building construction impacts - ABC7 Eyewitness News",
             "sentiment": "NEGATIVE",
             "score": 0.8104941248893738,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Blue Origin rocket explosion rattles NASA\u2019s mission to put humans back on the Moon - Nature",
-            "sentiment": "NEGATIVE",
-            "score": 0.8364095091819763,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -77,9 +77,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dell Stock Jumps 33% On Heady AI Data Center Sales - Investor's Business Daily",
+            "title": "The Lowest Consumer Sentiment EVER - A Wealth of Common Sense",
+            "sentiment": "NEGATIVE",
+            "score": 0.8916624784469604,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Exxon Mobil 'approaching unheard-of inventory levels' as Iran war blocks oil trade - KOMO",
             "sentiment": "POSITIVE",
-            "score": 0.9275377988815308,
+            "score": 0.8258441090583801,
+            "signal": "BULLISH",
+            "tickers": [
+                "XOM"
+            ],
+            "primary_ticker": "XOM",
+            "ticker_impacts": [
+                {
+                    "ticker": "XOM",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Micron Joined The $1 Trillion Club With Its Blistering Rally This Week. Here's How Much Traders See It Moving Next Week - Investopedia",
+            "sentiment": "POSITIVE",
+            "score": 0.9049480557441711,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -103,41 +129,6 @@
             ]
         },
         {
-            "title": "Music giant Universal rejects billionaire Bill Ackman's takeover bid - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7753901481628418,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil market nearing a breaking point, Exxon executive warns - Chron",
-            "sentiment": "NEGATIVE",
-            "score": 0.9654129147529602,
-            "signal": "BEARISH",
-            "tickers": [
-                "XOM"
-            ],
-            "primary_ticker": "XOM",
-            "ticker_impacts": [
-                {
-                    "ticker": "XOM",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "UnitedHealthcare defrauded MassHealth of $100M, AG Campbell alleges - WBUR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9035468101501465,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Nvidia Stock Could Rally Again if Huang Delivers on AI Growth Targets - Yahoo Finance",
             "sentiment": "POSITIVE",
             "score": 0.9365905523300171,
@@ -155,9 +146,18 @@
             ]
         },
         {
-            "title": "Cerebras Is Down 22% Since Its IPO Popped. Should You Buy It Now? - The Motley Fool",
+            "title": "Palantir Stock Is Having Its Best Day in a Year. Software Looks Like a Buy Again. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9530626535415649,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Company Blew $500M On Claude AI In One Month Due To No Usage Limit On Licenses For Employees - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9182529449462891,
+            "score": 0.9450539350509644,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -171,32 +171,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic leapfrogs OpenAI with a record $965 billion valuation and says its \u2018Mythos\u2019 AI model is coming soon - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8164572715759277,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oracle (ORCL) Shares Skyrocket, What You Need To Know - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.946175217628479,
-            "signal": "BULLISH",
-            "tickers": [
-                "ORCL"
-            ],
-            "primary_ticker": "ORCL",
-            "ticker_impacts": [
-                {
-                    "ticker": "ORCL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Oil Prices Slip Amid Trump Demands; Exxon Warns Of Nasty Surprise - Investor's Business Daily",
@@ -216,15 +190,6 @@
             ]
         },
         {
-            "title": "Canada Dips Into Technical Recession for First Time Since 2020 - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9750177264213562,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Sound Transit rebuffs Ballard, OKs other light-rail routes - The Seattle Times",
             "sentiment": "NEGATIVE",
             "score": 0.904625654220581,
@@ -242,28 +207,10 @@
             ]
         },
         {
-            "title": "A company spent $500 million in one month after forgetting to set AI usage limits - Android Authority",
-            "sentiment": "NEGATIVE",
-            "score": 0.7742384672164917,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Ferrari\u2019s $640,000 electric car is getting roasted online\u2014and its former chairman says it risks \u2018destruction of a myth\u2019 - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.7751443982124329,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Dell inks $9.7 billion Pentagon contract after Trump acquires stock, praises company - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8448023200035095,
-            "signal": "BEARISH",
+            "title": "Dell Surges 33% on AI Server Boom, Super Micro Computer Adds 16% as Hyperscaler Spend Accelerates - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9500542879104614,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
