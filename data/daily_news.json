@@ -1,22 +1,57 @@
 {
-    "last_updated": "2026-05-31 21:43:22 UTC",
-    "total_articles": 19,
-    "bullish_articles": 6,
-    "bearish_articles": 13,
+    "last_updated": "2026-06-01 01:32:42 UTC",
+    "total_articles": 25,
+    "bullish_articles": 7,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Cockpit breach attempt prompts plane to divert to Madison, recordings indicate - WISN",
+            "title": "United Airlines flight bound for Minneapolis is diverted because of an unruly passenger - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.7375311255455017,
+            "score": 0.9537503123283386,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Blue Origin faces months of delays after rocket explosion damages launch pad - Yahoo Finance",
+            "title": "After Blue Origin rocket explosion, NASA's entire moon exploration program depends on SpaceX for now - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9693112969398499,
+            "score": 0.9136448502540588,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Waymo Is Fleetmogging Tesla in Texas - Gizmodo",
+            "sentiment": "NEGATIVE",
+            "score": 0.7340781688690186,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "America's New Car Market Just Lost 1 Million Buyers, And It's Getting Worse - SlashGear",
+            "sentiment": "NEGATIVE",
+            "score": 0.9538757801055908,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Historic cattle shortages push US beef prices to record highs - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.971989631652832,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -35,6 +70,15 @@
             "title": "Ferrari\u2019s new EV sparks Italian angst over Agnelli legacy - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.8707230687141418,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US agrees \u2018perpetual\u2019 futures trading after offshore Hyperliquid\u2019s huge growth - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.7193593978881836,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -129,27 +173,10 @@
             ]
         },
         {
-            "title": "Nvidia Stock Could Rally Again if Huang Delivers on AI Growth Targets - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9365905523300171,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Palantir Stock Is Having Its Best Day in a Year. Software Looks Like a Buy Again. - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9530626535415649,
-            "signal": "BULLISH",
+            "title": "The China surprise: How it has kept a lid on global oil prices - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.943417489528656,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -173,6 +200,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Anthropic leapfrogs OpenAI with a record $965 billion valuation and says its \u2018Mythos\u2019 AI model is coming soon - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8164572715759277,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Oil Prices Slip Amid Trump Demands; Exxon Warns Of Nasty Surprise - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.9691901206970215,
@@ -190,30 +226,56 @@
             ]
         },
         {
-            "title": "Sound Transit rebuffs Ballard, OKs other light-rail routes - The Seattle Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.904625654220581,
-            "signal": "BEARISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Dell Surges 33% on AI Server Boom, Super Micro Computer Adds 16% as Hyperscaler Spend Accelerates - Yahoo Finance",
+            "title": "Billionaire Michael Dell's Fortune Swells By $34 Billion On Dell\u2019s Best Day Ever\u2014Now Richer Than Zuckerberg - Forbes",
             "sentiment": "POSITIVE",
-            "score": 0.9500542879104614,
+            "score": 0.9231029152870178,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Canada Dips Into Technical Recession for First Time Since 2020 - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9750177264213562,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia Stock: How the Chip Maker Is Trading Today - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.8884865045547485,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Rivian R2 matches Tesla Model Y efficiency despite bigger, heavier body - Electrek",
+            "sentiment": "POSITIVE",
+            "score": 0.9024405479431152,
+            "signal": "BULLISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
