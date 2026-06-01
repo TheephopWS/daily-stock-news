@@ -1,22 +1,57 @@
 {
-    "last_updated": "2026-06-01 14:27:46 UTC",
+    "last_updated": "2026-06-01 17:11:24 UTC",
     "total_articles": 24,
-    "bullish_articles": 5,
-    "bearish_articles": 19,
+    "bullish_articles": 4,
+    "bearish_articles": 20,
     "articles": [
         {
-            "title": "A hotly debated lung cancer drug cut the risk of death by 34% in a late-stage trial in China - CNBC",
+            "title": "United flight forced to turn around because of a Bluetooth speaker name - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.9457691311836243,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Alaska Airlines accused of letting drunken passengers board flights, faces stiff penalty - KING5.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.798605740070343,
+            "signal": "BEARISH",
+            "tickers": [
+                "AP"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AP",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "ASCO: Akeso\u2019s ivonescimab bests PD-1 inhibitor in lung cancer chemo combos, slashing death risk by 34% - Fierce Pharma",
             "sentiment": "POSITIVE",
-            "score": 0.8769604563713074,
+            "score": 0.8775152564048767,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "\"Four-Letter Word\": United Airlines 767 Returns To Newark After Bluetooth Name Sparks Alert - Simple Flying",
+            "title": "What to Expect in Markets This Week: The May Jobs Report, Plus Tech and Retailer Earnings - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7557989358901978,
+            "score": 0.7423815131187439,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China\u2019s factory activity slows in May, raising questions over its economy - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.967329740524292,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,7 +60,7 @@
         {
             "title": "After the AI binge, companies balk at soaring bills - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8591861128807068,
+            "score": 0.8591864109039307,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -40,10 +75,10 @@
             ]
         },
         {
-            "title": "Largest specialty clothing chain closes stores, sales plan flops - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9683240652084351,
-            "signal": "BEARISH",
+            "title": "The Family Farmers Making More From Clicks Than Crops - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8005220890045166,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -51,7 +86,7 @@
         {
             "title": "Oil bosses warn prices will soar within weeks as inventories near 'really, really low levels' - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.8686836361885071,
+            "score": 0.8686835765838623,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -60,29 +95,40 @@
         {
             "title": "SEC sues Privvy founder over $12.3 million crypto scheme as AI 'bots' turn out to be neither - The Block",
             "sentiment": "NEGATIVE",
-            "score": 0.7907981276512146,
+            "score": 0.7907980680465698,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "United Airlines flight bound for Minneapolis is diverted because of an unruly passenger - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9537503123283386,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Palantir soars as Dell earnings validate their Al partnership - thestreet.com",
+            "title": "These Artificial Intelligence (AI) Stocks Have Crushed Nvidia in 2026 With Gains of 67% and 121%. They Can Still Soar Higher - The Motley Fool",
             "sentiment": "POSITIVE",
-            "score": 0.8069658875465393,
+            "score": 0.894726037979126,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "INTC",
+                "NVDA",
+                "AI"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AI",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Salmonella outbreak tied to supplements sickens people in Connecticut, FDA says - CT Insider",
@@ -96,16 +142,33 @@
         {
             "title": "Honda recalls nearly 99,000 vehicles over air bag defect - kare11.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9640565514564514,
+            "score": 0.9640564322471619,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Rivian R2 Performance official efficiency numbers are out - ArenaEV - ArenaEV",
+            "sentiment": "POSITIVE",
+            "score": 0.90971839427948,
+            "signal": "BULLISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Waymo Is Fleetmogging Tesla in Texas - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.7340781688690186,
+            "score": 0.734078586101532,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -114,6 +177,23 @@
             "ticker_impacts": [
                 {
                     "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Facebook founder\u2019s flotilla fascinates, infuriates Seattle - The Seattle Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.916907787322998,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -131,7 +211,7 @@
         {
             "title": "We did the math on Ken Griffin's pied-\u00e0-terre tax bill - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.7836244702339172,
+            "score": 0.7836242318153381,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -140,16 +220,16 @@
         {
             "title": "Why does Trump want to transfer Cold War-era plutonium to nuclear start-ups? - France 24",
             "sentiment": "NEGATIVE",
-            "score": 0.8134691715240479,
+            "score": 0.813469648361206,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Surging Treasury yields expose a brutal truth: America has no margin for error on its $39 trillion debt - Yahoo Finance",
+            "title": "US agrees \u2018perpetual\u2019 futures trading after offshore Hyperliquid\u2019s huge growth - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8855240345001221,
+            "score": 0.7193580269813538,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -158,7 +238,7 @@
         {
             "title": "Red Lobster in Times Square to close June 14 due to significant building construction impacts - ABC7 Eyewitness News",
             "sentiment": "NEGATIVE",
-            "score": 0.8104941248893738,
+            "score": 0.8104935884475708,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -167,16 +247,7 @@
         {
             "title": "Oil Declines Lift Stocks to Fresh Records - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9732152223587036,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Huge AI Bonuses in South Korea Spark Fight Over Sharing Tech Wealth - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9355046153068542,
+            "score": 0.9732153415679932,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -201,40 +272,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dell stock surges on deal with Pentagon, making CEO $31B richer overnight - New York Post",
-            "sentiment": "POSITIVE",
-            "score": 0.9445350766181946,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "IPO Stock Of The Week: Drone Maker Unusual Machines Rockets On Trump Reports - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.8858511447906494,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Drag queen Pattie Gonia asks apparel company Patagonia to drop trademark infringement lawsuit - NBC News",
+            "title": "\u2018The banks will not accept it\u2019: Dimon escalates battle over stablecoin rewards in CLARITY Act debate - CoinDesk",
             "sentiment": "NEGATIVE",
-            "score": 0.7822930216789246,
+            "score": 0.9435709714889526,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "JPM"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Donald Trump\u2019s Personal Investment in Dell Pays Off Bigly - Gizmodo",
-            "sentiment": "POSITIVE",
-            "score": 0.9311966896057129,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         }
     ]
 }
