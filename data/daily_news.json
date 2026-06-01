@@ -1,22 +1,48 @@
 {
-    "last_updated": "2026-06-01 01:32:42 UTC",
-    "total_articles": 25,
+    "last_updated": "2026-06-01 05:06:21 UTC",
+    "total_articles": 24,
     "bullish_articles": 7,
-    "bearish_articles": 18,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "United Airlines flight bound for Minneapolis is diverted because of an unruly passenger - AP News",
+            "title": "United flight declares emergency over Bluetooth broadcast, passengers say - Boing Boing",
             "sentiment": "NEGATIVE",
-            "score": 0.9537503123283386,
+            "score": 0.9142711758613586,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "After Blue Origin rocket explosion, NASA's entire moon exploration program depends on SpaceX for now - Fortune",
+            "title": "China Factory Activity Worsens in Warning Sign for Economy - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9136448502540588,
+            "score": 0.9728230237960815,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "After the AI binge, companies balk at soaring bills - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.8591861128807068,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "United Airlines flight bound for Minneapolis is diverted because of an unruly passenger - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9537503123283386,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -49,18 +75,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Historic cattle shortages push US beef prices to record highs - Financial Times",
+            "title": "We did the math on Ken Griffin's pied-\u00e0-terre tax bill - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.971989631652832,
+            "score": 0.7836244702339172,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "We did the math on Ken Griffin's pied-\u00e0-terre tax bill - Business Insider",
+            "title": "Surging Treasury yields expose a brutal truth: America has no margin for error on its $39 trillion debt - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.7836244702339172,
+            "score": 0.8756903409957886,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -94,19 +120,42 @@
             "ticker_impacts": []
         },
         {
-            "title": "5 economic signals suggest U.S. consumers are feeling the strain - CBS News",
+            "title": "Stock Market News, May 29, 2026: Oil Suffers Biggest Monthly Drop Since 2020 - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.969998836517334,
+            "score": 0.9605388045310974,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oil Declines Lift Stocks to Fresh Records - WSJ",
+            "title": "Supplements sold via Amazon, Walmart, Target, more recalled. See products - Yahoo",
             "sentiment": "NEGATIVE",
-            "score": 0.9732152223587036,
+            "score": 0.8641261458396912,
             "signal": "BEARISH",
+            "tickers": [
+                "WMT",
+                "AMZN"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "3 N.J. pizzerias named among best in USA by Italian website - NJ.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8292356133460999,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -156,21 +205,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta lays off more than 2,000 from Menlo Park headquarters - SFGATE",
+            "title": "Dell stock surges on deal with Pentagon, making CEO $31B richer overnight - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.9445350766181946,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Drag queen Pattie Gonia asks apparel company Patagonia to drop trademark infringement lawsuit - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9695415496826172,
+            "score": 0.7822930216789246,
             "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "The China surprise: How it has kept a lid on global oil prices - Axios",
@@ -182,71 +232,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Company Blew $500M On Claude AI In One Month Due To No Usage Limit On Licenses For Employees - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9450539350509644,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Donald Trump\u2019s Personal Investment in Dell Pays Off Bigly - Gizmodo",
+            "title": "Nvidia Stock Could Rally Again if Huang Delivers on AI Growth Targets - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9311966896057129,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic leapfrogs OpenAI with a record $965 billion valuation and says its \u2018Mythos\u2019 AI model is coming soon - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8164572715759277,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil Prices Slip Amid Trump Demands; Exxon Warns Of Nasty Surprise - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9691901206970215,
-            "signal": "BEARISH",
-            "tickers": [
-                "XOM"
-            ],
-            "primary_ticker": "XOM",
-            "ticker_impacts": [
-                {
-                    "ticker": "XOM",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Billionaire Michael Dell's Fortune Swells By $34 Billion On Dell\u2019s Best Day Ever\u2014Now Richer Than Zuckerberg - Forbes",
-            "sentiment": "POSITIVE",
-            "score": 0.9231029152870178,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Canada Dips Into Technical Recession for First Time Since 2020 - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9750177264213562,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia Stock: How the Chip Maker Is Trading Today - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.8884865045547485,
+            "score": 0.9365905523300171,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -259,6 +247,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Donald Trump\u2019s Personal Investment in Dell Pays Off Bigly - Gizmodo",
+            "sentiment": "POSITIVE",
+            "score": 0.9311966896057129,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Rivian R2 matches Tesla Model Y efficiency despite bigger, heavier body - Electrek",
