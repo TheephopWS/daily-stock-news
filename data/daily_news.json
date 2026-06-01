@@ -1,39 +1,67 @@
 {
-    "last_updated": "2026-06-01 20:00:02 UTC",
-    "total_articles": 23,
-    "bullish_articles": 4,
+    "last_updated": "2026-06-01 22:22:10 UTC",
+    "total_articles": 27,
+    "bullish_articles": 8,
     "bearish_articles": 19,
     "articles": [
         {
-            "title": "United flight forced to turn around because of a Bluetooth speaker name - The Verge",
+            "title": "Stock futures are flat in overnight trading as June trading begins near record highs: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7881991267204285,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "United Airlines flight to Spain pulls U-turn, apparently over Bluetooth device name - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9457692503929138,
+            "score": 0.9366574883460999,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Alaska Airlines accused of letting drunken passengers board flights, faces stiff penalty - KING5.com",
+            "title": "United Airlines flight bound for Minneapolis is diverted because of an unruly passenger - ABC News - Breaking News, Latest News and Videos",
             "sentiment": "NEGATIVE",
-            "score": 0.79860520362854,
+            "score": 0.9660214781761169,
             "signal": "BEARISH",
-            "tickers": [
-                "AP"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AP",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mercedes-Benz faces a potential U.S. sales ban - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7630071043968201,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Investigating alleged image of chained McDonald's worker preparing food - Snopes",
+            "sentiment": "NEGATIVE",
+            "score": 0.7531224489212036,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "For prostate cancer patients set on surgery, new hormone regimen may improve outcomes, study finds - statnews.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9476691484451294,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "ASCO: Akeso\u2019s ivonescimab bests PD-1 inhibitor in lung cancer chemo combos, slashing death risk by 34% - Fierce Pharma",
             "sentiment": "POSITIVE",
-            "score": 0.8775153756141663,
+            "score": 0.8775152564048767,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -42,7 +70,7 @@
         {
             "title": "What to Expect in Markets This Week: The May Jobs Report, Plus Tech and Retailer Earnings - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7423809766769409,
+            "score": 0.7423815131187439,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -60,7 +88,7 @@
         {
             "title": "After the AI binge, companies balk at soaring bills - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8591861128807068,
+            "score": 0.8591864109039307,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -77,8 +105,17 @@
         {
             "title": "The Family Farmers Making More From Clicks Than Crops - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.8005220293998718,
+            "score": 0.8005220890045166,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China's Oil Buying Pause Won't Last Forever - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9012713432312012,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -86,7 +123,7 @@
         {
             "title": "Oil bosses warn prices will soar within weeks as inventories near 'really, really low levels' - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.8686836361885071,
+            "score": 0.8686835765838623,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -95,7 +132,7 @@
         {
             "title": "Salmonella outbreak tied to supplements sickens people in Connecticut, FDA says - News-Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9625141024589539,
+            "score": 0.9625142216682434,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -104,7 +141,7 @@
         {
             "title": "SEC sues Privvy founder over $12.3 million crypto scheme as AI 'bots' turn out to be neither - The Block",
             "sentiment": "NEGATIVE",
-            "score": 0.7907981276512146,
+            "score": 0.7907980680465698,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -113,17 +150,17 @@
         {
             "title": "These Artificial Intelligence (AI) Stocks Have Crushed Nvidia in 2026 With Gains of 67% and 121%. They Can Still Soar Higher - The Motley Fool",
             "sentiment": "POSITIVE",
-            "score": 0.8947256803512573,
+            "score": 0.894726037979126,
             "signal": "BULLISH",
             "tickers": [
-                "INTC",
+                "AI",
                 "NVDA",
-                "AI"
+                "INTC"
             ],
-            "primary_ticker": "INTC",
+            "primary_ticker": "AI",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "AI",
                     "impact": "positive",
                     "relevance": "high"
                 },
@@ -133,7 +170,7 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AI",
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -142,33 +179,16 @@
         {
             "title": "Honda recalls nearly 99,000 vehicles over air bag defect - kare11.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9640565514564514,
+            "score": 0.9640564322471619,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "YouTuber Banned From Cedar Point After Eating Chicken Nuggets On Coaster - Kotaku",
-            "sentiment": "NEGATIVE",
-            "score": 0.8568524718284607,
-            "signal": "BEARISH",
-            "tickers": [
-                "UBER"
-            ],
-            "primary_ticker": "UBER",
-            "ticker_impacts": [
-                {
-                    "ticker": "UBER",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Rivian R2 Performance official efficiency numbers are out - ArenaEV - ArenaEV",
             "sentiment": "POSITIVE",
-            "score": 0.9097185134887695,
+            "score": 0.90971839427948,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -183,10 +203,10 @@
             ]
         },
         {
-            "title": "This Just-Released Economic Indicator Spells Doom for President Trump\u2019s Economy - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8274747729301453,
-            "signal": "BEARISH",
+            "title": "The Quantum Computing Boom Is Back. IBM Proves It Is the Smartest Stock to Buy - Barchart.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7709563374519348,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -194,7 +214,7 @@
         {
             "title": "Waymo Is Fleetmogging Tesla in Texas - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.7340781688690186,
+            "score": 0.734078586101532,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -209,9 +229,18 @@
             ]
         },
         {
+            "title": "Micron Stock Is Trading at 42x Trailing Earnings. Analysts Say That\u2019s Still Cheap. - Barchart.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9382107257843018,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Facebook founder\u2019s flotilla fascinates, infuriates Seattle - The Seattle Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9169079065322876,
+            "score": 0.916907787322998,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -226,18 +255,9 @@
             ]
         },
         {
-            "title": "Historic cattle shortages push US beef prices to record highs - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.971989631652832,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "We did the math on Ken Griffin's pied-\u00e0-terre tax bill - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.7836244702339172,
+            "score": 0.7836242318153381,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -246,7 +266,7 @@
         {
             "title": "Why does Trump want to transfer Cold War-era plutonium to nuclear start-ups? - France 24",
             "sentiment": "NEGATIVE",
-            "score": 0.8134691715240479,
+            "score": 0.813469648361206,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -255,7 +275,7 @@
         {
             "title": "Surging Treasury yields expose a brutal truth: America has no margin for error on its $39 trillion debt - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.8756903409957886,
+            "score": 0.8756906986236572,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -264,7 +284,7 @@
         {
             "title": "US agrees \u2018perpetual\u2019 futures trading after offshore Hyperliquid\u2019s huge growth - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.7193593978881836,
+            "score": 0.7193580269813538,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -273,7 +293,7 @@
         {
             "title": "Red Lobster in Times Square to close June 14 due to significant building construction impacts - ABC7 Eyewitness News",
             "sentiment": "NEGATIVE",
-            "score": 0.8104941248893738,
+            "score": 0.8104935884475708,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
