@@ -1,22 +1,13 @@
 {
-    "last_updated": "2026-06-01 05:06:21 UTC",
-    "total_articles": 24,
-    "bullish_articles": 7,
-    "bearish_articles": 17,
+    "last_updated": "2026-06-01 08:15:31 UTC",
+    "total_articles": 27,
+    "bullish_articles": 8,
+    "bearish_articles": 19,
     "articles": [
         {
             "title": "United flight declares emergency over Bluetooth broadcast, passengers say - Boing Boing",
             "sentiment": "NEGATIVE",
             "score": 0.9142711758613586,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China Factory Activity Worsens in Warning Sign for Economy - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9728230237960815,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -49,6 +40,24 @@
             "ticker_impacts": []
         },
         {
+            "title": "Palantir soars as Dell earnings validate their Al partnership - thestreet.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8069658875465393,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots - CoinDesk",
+            "sentiment": "NEGATIVE",
+            "score": 0.8604283928871155,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Waymo Is Fleetmogging Tesla in Texas - Gizmodo",
             "sentiment": "NEGATIVE",
             "score": 0.7340781688690186,
@@ -66,9 +75,9 @@
             ]
         },
         {
-            "title": "America's New Car Market Just Lost 1 Million Buyers, And It's Getting Worse - SlashGear",
+            "title": "Historic cattle shortages push US beef prices to record highs - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9538757801055908,
+            "score": 0.971989631652832,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -84,9 +93,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Surging Treasury yields expose a brutal truth: America has no margin for error on its $39 trillion debt - Fortune",
+            "title": "Surging Treasury yields expose a brutal truth: America has no margin for error on its $39 trillion debt - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8756903409957886,
+            "score": 0.8855240345001221,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -120,32 +129,23 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market News, May 29, 2026: Oil Suffers Biggest Monthly Drop Since 2020 - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9605388045310974,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Supplements sold via Amazon, Walmart, Target, more recalled. See products - Yahoo",
             "sentiment": "NEGATIVE",
             "score": 0.8641261458396912,
             "signal": "BEARISH",
             "tickers": [
-                "WMT",
-                "AMZN"
+                "AMZN",
+                "WMT"
             ],
-            "primary_ticker": "WMT",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "WMT",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "WMT",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -156,6 +156,15 @@
             "sentiment": "POSITIVE",
             "score": 0.8292356133460999,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil Declines Lift Stocks to Fresh Records - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9732152223587036,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -214,6 +223,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Tesla Insiders Admit They Wouldn't Use FSD If Their Lives Depended on It - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.8698078393936157,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Drag queen Pattie Gonia asks apparel company Patagonia to drop trademark infringement lawsuit - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.7822930216789246,
@@ -256,6 +282,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Oil Prices Slip Amid Trump Demands; Exxon Warns Of Nasty Surprise - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9691901206970215,
+            "signal": "BEARISH",
+            "tickers": [
+                "XOM"
+            ],
+            "primary_ticker": "XOM",
+            "ticker_impacts": [
+                {
+                    "ticker": "XOM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Rivian R2 matches Tesla Model Y efficiency despite bigger, heavier body - Electrek",
