@@ -1,9 +1,44 @@
 {
-    "last_updated": "2026-06-02 05:02:47 UTC",
+    "last_updated": "2026-06-02 08:04:29 UTC",
     "total_articles": 28,
-    "bullish_articles": 5,
-    "bearish_articles": 23,
+    "bullish_articles": 8,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "SoftBank overtakes Toyota after more than 20 years to become Japan\u2019s largest company - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.9331603050231934,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "NVIDIA, Foxconn and Taiwan Medical Centers Bring Agentic and Physical AI to \u2018Healthy Taiwan\u2019 - NVIDIA Newsroom",
+            "sentiment": "POSITIVE",
+            "score": 0.8955510854721069,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Trump is facing a new inflation warning from the bond market, adding to his midterm challenges - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7892226576805115,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "UAW to Strike at Key General Motors Truck Supplier Plant - WSJ",
             "sentiment": "NEGATIVE",
@@ -14,18 +49,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "Jerome Powell warns that the Fed's credibility is at risk - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9227696061134338,
-            "signal": "BEARISH",
+            "title": "Intel targets new AI data centre chip by year end - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.7698829174041748,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Stock futures rise in overnight trading as June trading begins near record highs: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9411770105361938,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Entire NJ Transit rail system delayed after 'fire department activity' at operations center - Gothamist",
+            "title": "DIRECTV Loses 52 ABC, CBS, FOX, & NBC Stations - | Cord Cutters News",
             "sentiment": "NEGATIVE",
-            "score": 0.9463323354721069,
+            "score": 0.938795804977417,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -34,7 +86,7 @@
         {
             "title": "Oil Climbs as US-Iran Ceasefire Remains Elusive: Markets Wrap - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9155759215354919,
+            "score": 0.9090819954872131,
             "signal": "BULLISH",
             "tickers": [
                 "INTC"
@@ -45,6 +97,32 @@
                     "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Thanks to AI, Folks Don't Think They Need Lawyers Anymore - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.947519063949585,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta faces employee backlash over tracking tool - Mashable",
+            "sentiment": "NEGATIVE",
+            "score": 0.9660003781318665,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
@@ -76,13 +154,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Apollo's chief economist says he sees 'zero evidence' of AI-related job losses, even as CEOs cite the tech in layoffs - Business Insider",
+            "title": "Fire blamed for suspended service on multiple NJ Transit rail lines - NJ.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9497277140617371,
+            "score": 0.8611292839050293,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia\u2019s $150 billion bet trumps AMD - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.924346387386322,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD",
+                "NVDA"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Nearly 100,000 Honda vehicles recalled over airbag issues - NBC News",
@@ -94,9 +195,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Mercedes-Benz faces a potential U.S. sales ban - thestreet.com",
+            "title": "Why a Chinese-owned company is bringing factory jobs back to the U.S. - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8838979005813599,
+            "score": 0.9380115270614624,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -148,40 +249,23 @@
             "ticker_impacts": []
         },
         {
-            "title": "It Will \u2018Blow Up\u2019\u2014JPMorgan CEO Issues \u2018Huge\u2019 Crypto And Bitcoin Price Prediction - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.8742903470993042,
-            "signal": "BEARISH",
-            "tickers": [
-                "JPM"
-            ],
-            "primary_ticker": "JPM",
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Exxon and Chevron Are Warning That Oil Prices Could Skyrocket in the Coming Weeks. Here's What That Could Mean for Investors. - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9332172870635986,
             "signal": "BEARISH",
             "tickers": [
-                "CVX",
-                "XOM"
+                "XOM",
+                "CVX"
             ],
-            "primary_ticker": "CVX",
+            "primary_ticker": "XOM",
             "ticker_impacts": [
                 {
-                    "ticker": "CVX",
+                    "ticker": "XOM",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "XOM",
+                    "ticker": "CVX",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -232,79 +316,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "SEC sues Privvy founder over $12.3 million crypto scheme as AI 'bots' turn out to be neither - The Block",
-            "sentiment": "NEGATIVE",
-            "score": 0.7907981276512146,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Rivian R2 Performance official efficiency numbers are out - ArenaEV - ArenaEV",
-            "sentiment": "POSITIVE",
-            "score": 0.9097185134887695,
-            "signal": "BULLISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "This Just-Released Economic Indicator Spells Doom for President Trump\u2019s Economy - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8274747729301453,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Waymo Is Fleetmogging Tesla in Texas - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.7340781688690186,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "We did the math on Ken Griffin's pied-\u00e0-terre tax bill - Business Insider",
             "sentiment": "NEGATIVE",
             "score": 0.7836244702339172,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why does Trump want to transfer Cold War-era plutonium to nuclear start-ups? - France 24",
-            "sentiment": "NEGATIVE",
-            "score": 0.8134691715240479,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Surging Treasury yields expose a brutal truth: America has no margin for error on its $39 trillion debt - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8756903409957886,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
