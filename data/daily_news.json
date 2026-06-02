@@ -1,9 +1,26 @@
 {
-    "last_updated": "2026-06-02 08:04:29 UTC",
-    "total_articles": 28,
-    "bullish_articles": 8,
-    "bearish_articles": 20,
+    "last_updated": "2026-06-02 10:57:48 UTC",
+    "total_articles": 27,
+    "bullish_articles": 9,
+    "bearish_articles": 18,
     "articles": [
+        {
+            "title": "Japan, South Korea stocks hit more records, as oil gains on Iran war ending fragility - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.9500005841255188,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
         {
             "title": "SoftBank overtakes Toyota after more than 20 years to become Japan\u2019s largest company - Financial Times",
             "sentiment": "POSITIVE",
@@ -38,6 +55,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "NVIDIA Vera Rubin Ramps Into Full Production to Power Agentic AI Factories Worldwide - NVIDIA Newsroom",
+            "sentiment": "POSITIVE",
+            "score": 0.7334005832672119,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "UAW to Strike at Key General Motors Truck Supplier Plant - WSJ",
@@ -75,6 +109,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Oil prices climb over 3% as U.S.-Iran talks at impasse, Israel expands Lebanon offensive - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8968974351882935,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "DIRECTV Loses 52 ABC, CBS, FOX, & NBC Stations - | Cord Cutters News",
             "sentiment": "NEGATIVE",
             "score": 0.938795804977417,
@@ -82,23 +125,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Oil Climbs as US-Iran Ceasefire Remains Elusive: Markets Wrap - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9090819954872131,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Thanks to AI, Folks Don't Think They Need Lawyers Anymore - Newser",
@@ -168,46 +194,28 @@
             "score": 0.924346387386322,
             "signal": "BEARISH",
             "tickers": [
-                "AMD",
-                "NVDA"
+                "NVDA",
+                "AMD"
             ],
-            "primary_ticker": "AMD",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "AMD",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Nearly 100,000 Honda vehicles recalled over airbag issues - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9680518507957458,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Why a Chinese-owned company is bringing factory jobs back to the U.S. - The Washington Post",
             "sentiment": "NEGATIVE",
             "score": 0.9380115270614624,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Kohl\u2019s scrambles to restore customer loyalty after major loss - thestreet.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7803798913955688,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -310,15 +318,6 @@
             "title": "Salmonella outbreak tied to supplements sickens people in Connecticut, FDA says - News-Times",
             "sentiment": "NEGATIVE",
             "score": 0.9625141024589539,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "We did the math on Ken Griffin's pied-\u00e0-terre tax bill - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.7836244702339172,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
