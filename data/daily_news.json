@@ -1,14 +1,67 @@
 {
-    "last_updated": "2026-06-01 22:22:10 UTC",
-    "total_articles": 27,
+    "last_updated": "2026-06-02 01:31:01 UTC",
+    "total_articles": 31,
     "bullish_articles": 8,
-    "bearish_articles": 19,
+    "bearish_articles": 23,
     "articles": [
+        {
+            "title": "Jerome Powell warns that the Fed's credibility is at risk - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9227696061134338,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Entire NJ Transit rail system delayed after 'fire department activity' at operations center - Gothamist",
+            "sentiment": "NEGATIVE",
+            "score": 0.9463323354721069,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil Climbs as US-Iran Ceasefire Remains Elusive: Markets Wrap - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9155759215354919,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
         {
             "title": "Stock futures are flat in overnight trading as June trading begins near record highs: Live updates - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7881991267204285,
+            "score": 0.7881981134414673,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX\u2019s IPO Forces Wall Street to Reorganize Around It - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8749304413795471,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Iran War's First 90 Days Upended Energy Markets - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9735702276229858,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -16,26 +69,49 @@
         {
             "title": "United Airlines flight to Spain pulls U-turn, apparently over Bluetooth device name - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9366574883460999,
+            "score": 0.9366576075553894,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "United Airlines flight bound for Minneapolis is diverted because of an unruly passenger - ABC News - Breaking News, Latest News and Videos",
+            "title": "Nvidia\u2019s $150 billion bet trumps AMD - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9660214781761169,
+            "score": 0.924346387386322,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "AMD",
+                "NVDA"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Mercedes-Benz faces a potential U.S. sales ban - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7630071043968201,
+            "score": 0.8838979005813599,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Kohl\u2019s scrambles to restore customer loyalty after major loss - thestreet.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7803798913955688,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -43,7 +119,7 @@
         {
             "title": "Investigating alleged image of chained McDonald's worker preparing food - Snopes",
             "sentiment": "NEGATIVE",
-            "score": 0.7531224489212036,
+            "score": 0.7531229257583618,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -52,7 +128,7 @@
         {
             "title": "For prostate cancer patients set on surgery, new hormone regimen may improve outcomes, study finds - statnews.com",
             "sentiment": "POSITIVE",
-            "score": 0.9476691484451294,
+            "score": 0.947669267654419,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -61,16 +137,65 @@
         {
             "title": "ASCO: Akeso\u2019s ivonescimab bests PD-1 inhibitor in lung cancer chemo combos, slashing death risk by 34% - Fierce Pharma",
             "sentiment": "POSITIVE",
-            "score": 0.8775152564048767,
+            "score": 0.8775153756141663,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "It Will \u2018Blow Up\u2019\u2014JPMorgan CEO Issues \u2018Huge\u2019 Crypto And Bitcoin Price Prediction - Forbes",
+            "sentiment": "NEGATIVE",
+            "score": 0.8742903470993042,
+            "signal": "BEARISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Exxon and Chevron Are Warning That Oil Prices Could Skyrocket in the Coming Weeks. Here's What That Could Mean for Investors. - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9332172870635986,
+            "signal": "BEARISH",
+            "tickers": [
+                "XOM",
+                "CVX"
+            ],
+            "primary_ticker": "XOM",
+            "ticker_impacts": [
+                {
+                    "ticker": "XOM",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "CVX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "What to Expect in Markets This Week: The May Jobs Report, Plus Tech and Retailer Earnings - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7423815131187439,
+            "score": 0.7423809766769409,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "EU frets as China builds an industrial base in Morocco - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9521021246910095,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -88,7 +213,7 @@
         {
             "title": "After the AI binge, companies balk at soaring bills - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8591864109039307,
+            "score": 0.8591861128807068,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -103,27 +228,9 @@
             ]
         },
         {
-            "title": "The Family Farmers Making More From Clicks Than Crops - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.8005220890045166,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "China's Oil Buying Pause Won't Last Forever - Crude Oil Prices Today | OilPrice.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9012713432312012,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil bosses warn prices will soar within weeks as inventories near 'really, really low levels' - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8686835765838623,
+            "score": 0.9012709259986877,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -132,7 +239,7 @@
         {
             "title": "Salmonella outbreak tied to supplements sickens people in Connecticut, FDA says - News-Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9625142216682434,
+            "score": 0.9625141024589539,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -141,45 +248,16 @@
         {
             "title": "SEC sues Privvy founder over $12.3 million crypto scheme as AI 'bots' turn out to be neither - The Block",
             "sentiment": "NEGATIVE",
-            "score": 0.7907980680465698,
+            "score": 0.7907981276512146,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "These Artificial Intelligence (AI) Stocks Have Crushed Nvidia in 2026 With Gains of 67% and 121%. They Can Still Soar Higher - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.894726037979126,
-            "signal": "BULLISH",
-            "tickers": [
-                "AI",
-                "NVDA",
-                "INTC"
-            ],
-            "primary_ticker": "AI",
-            "ticker_impacts": [
-                {
-                    "ticker": "AI",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Honda recalls nearly 99,000 vehicles over air bag defect - kare11.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9640564322471619,
+            "score": 0.9640565514564514,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -188,7 +266,7 @@
         {
             "title": "Rivian R2 Performance official efficiency numbers are out - ArenaEV - ArenaEV",
             "sentiment": "POSITIVE",
-            "score": 0.90971839427948,
+            "score": 0.9097185134887695,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -205,7 +283,7 @@
         {
             "title": "The Quantum Computing Boom Is Back. IBM Proves It Is the Smartest Stock to Buy - Barchart.com",
             "sentiment": "POSITIVE",
-            "score": 0.7709563374519348,
+            "score": 0.7709558010101318,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -214,7 +292,7 @@
         {
             "title": "Waymo Is Fleetmogging Tesla in Texas - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.734078586101532,
+            "score": 0.7340781688690186,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -231,33 +309,16 @@
         {
             "title": "Micron Stock Is Trading at 42x Trailing Earnings. Analysts Say That\u2019s Still Cheap. - Barchart.com",
             "sentiment": "POSITIVE",
-            "score": 0.9382107257843018,
+            "score": 0.938210666179657,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Facebook founder\u2019s flotilla fascinates, infuriates Seattle - The Seattle Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.916907787322998,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "We did the math on Ken Griffin's pied-\u00e0-terre tax bill - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.7836242318153381,
+            "score": 0.7836244702339172,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -266,7 +327,7 @@
         {
             "title": "Why does Trump want to transfer Cold War-era plutonium to nuclear start-ups? - France 24",
             "sentiment": "NEGATIVE",
-            "score": 0.813469648361206,
+            "score": 0.8134691715240479,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -275,7 +336,7 @@
         {
             "title": "Surging Treasury yields expose a brutal truth: America has no margin for error on its $39 trillion debt - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.8756906986236572,
+            "score": 0.8756903409957886,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -284,16 +345,7 @@
         {
             "title": "US agrees \u2018perpetual\u2019 futures trading after offshore Hyperliquid\u2019s huge growth - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.7193580269813538,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Red Lobster in Times Square to close June 14 due to significant building construction impacts - ABC7 Eyewitness News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8104935884475708,
+            "score": 0.7193593978881836,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
