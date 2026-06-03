@@ -1,28 +1,99 @@
 {
-    "last_updated": "2026-06-03 14:06:30 UTC",
-    "total_articles": 16,
+    "last_updated": "2026-06-03 17:11:27 UTC",
+    "total_articles": 20,
     "bullish_articles": 8,
-    "bearish_articles": 8,
+    "bearish_articles": 12,
     "articles": [
         {
-            "title": "U.S. jury finds investor Andrew Left guilty of securities fraud - CNBC",
+            "title": "Blue Origin has set a very aggressive return-to-flight timeline - Ars Technica",
+            "sentiment": "POSITIVE",
+            "score": 0.903733491897583,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Dow Opens Lower; AI Fervor Powers Tech Stocks \u2014 Live Updates - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8256081342697144,
+            "score": 0.7793251872062683,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US job openings climbed to 7.6 million in April despite economic fallout from the Iran war - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.7601001858711243,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Virgin Galactic Shares Slide After Debt Redemption Plan Involving New Stock Issuance (SPCE) - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9741020202636719,
             "signal": "BEARISH",
             "tickers": [
-                "TSLA",
-                "NVDA"
+                "SPCE"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "SPCE",
             "ticker_impacts": [
                 {
-                    "ticker": "TSLA",
+                    "ticker": "SPCE",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Anthropic to expand Mythos access to more than 15 countries - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.7213634252548218,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "HPE Stock Surges On Fiscal Q2 Earnings Beat, Raised Guidance, Fiscal 2027 Outlook - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9502188563346863,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bra Sales Power Victoria\u2019s Secret Turnaround and Shares Soar 35% - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8804347515106201,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Broadcom Stock Gets a Double Boost From Google and Marvell - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9410063028335571,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL",
+                "NVDA"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
                 },
                 {
                     "ticker": "NVDA",
-                    "impact": "negative",
+                    "impact": "positive",
                     "relevance": "medium"
                 }
             ]
@@ -55,10 +126,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "South Korea Overtakes India as World\u2019s Sixth-Largest Stock Market - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8928467631340027,
-            "signal": "BULLISH",
+            "title": "\u2018Utter disregard for the risk to human life\u2019: Florida sues OpenAI and Sam Altman over AI safety - The Conversation",
+            "sentiment": "NEGATIVE",
+            "score": 0.8171501755714417,
+            "signal": "BEARISH",
             "tickers": [
                 "INTC"
             ],
@@ -66,15 +137,15 @@
             "ticker_impacts": [
                 {
                     "ticker": "INTC",
-                    "impact": "positive",
+                    "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Nvidia Releases Its Best Open AI Model Yet\u2014But Still Lags Behind China - Decrypt",
+            "title": "Nvidia's Jensen Huang Just Announced Something Big - The Motley Fool",
             "sentiment": "POSITIVE",
-            "score": 0.8843094706535339,
+            "score": 0.9292815923690796,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -107,54 +178,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "Here's why a Newark flight to Spain had to turn around over the Atlantic - Gothamist",
+            "title": "New Iran Clashes Send Oil Prices and Bond Yields Surging - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9156200885772705,
+            "score": 0.9404069781303406,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Florida sues OpenAI and CEO Sam Altman over ChatGPT - Axios",
+            "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.9018200039863586,
+            "score": 0.8693308234214783,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "HPE Sees Strong Growth Over Next 18 Months on Server Demand - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9505277276039124,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market Today: Dow Up As Trump Says This On Iran; AI Stocks Pop On Anthropic IPO Move (Live Coverage) - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.701198935508728,
-            "signal": "BULLISH",
             "tickers": [
-                "NVDA"
+                "META"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "META",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "medium"
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Jensen Huang Says Nvidia Has Unlocked a New Growth Opportunity the Company Hasn't Gone After Before - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.9212012887001038,
-            "signal": "BULLISH",
+            "title": "Remote Work May Be Fueling Youth Unemployment - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9152867794036865,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Software Stocks Gain After Nvidia CEO Dispels SaaSpocalypse Fears - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.7970369458198547,
+            "signal": "BEARISH",
             "tickers": [
                 "NVDA"
             ],
@@ -162,28 +224,10 @@
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
-                    "impact": "positive",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Sam Altman: I think this is the most-fair criticism of Ai right now - investingLive",
-            "sentiment": "POSITIVE",
-            "score": 0.9118938446044922,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "IBM shares surge 15% after Trump video resurfaces - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9374576210975647,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "One by one, U.S. civil rights agency dismantles tools to fight discrimination - NPR",
