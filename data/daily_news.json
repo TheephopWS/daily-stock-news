@@ -1,9 +1,59 @@
 {
-    "last_updated": "2026-06-03 17:11:27 UTC",
-    "total_articles": 20,
-    "bullish_articles": 8,
-    "bearish_articles": 12,
+    "last_updated": "2026-06-03 19:40:04 UTC",
+    "total_articles": 23,
+    "bullish_articles": 10,
+    "bearish_articles": 13,
     "articles": [
+        {
+            "title": "Neiman Marcus will close landmark downtown Dallas store - Dallas News",
+            "sentiment": "NEGATIVE",
+            "score": 0.89927738904953,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bitcoin drops back under $70,000, Strategy extends its slide - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9725900888442993,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Uber Caps Usage of AI Tools Like Claude Code to Cut Costs - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9302635788917542,
+            "signal": "BEARISH",
+            "tickers": [
+                "UBER",
+                "INTC"
+            ],
+            "primary_ticker": "UBER",
+            "ticker_impacts": [
+                {
+                    "ticker": "UBER",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Biotech Plummets On Cancer Disappointment. What Happened? - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9692534804344177,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Blue Origin has set a very aggressive return-to-flight timeline - Ars Technica",
             "sentiment": "POSITIVE",
@@ -14,10 +64,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Dow Opens Lower; AI Fervor Powers Tech Stocks \u2014 Live Updates - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.7793251872062683,
-            "signal": "BEARISH",
+            "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.7163707613945007,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -26,32 +76,6 @@
             "title": "US job openings climbed to 7.6 million in April despite economic fallout from the Iran war - AP News",
             "sentiment": "POSITIVE",
             "score": 0.7601001858711243,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Virgin Galactic Shares Slide After Debt Redemption Plan Involving New Stock Issuance (SPCE) - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9741020202636719,
-            "signal": "BEARISH",
-            "tickers": [
-                "SPCE"
-            ],
-            "primary_ticker": "SPCE",
-            "ticker_impacts": [
-                {
-                    "ticker": "SPCE",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Anthropic to expand Mythos access to more than 15 countries - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.7213634252548218,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -99,6 +123,38 @@
             ]
         },
         {
+            "title": "Morning Minute: Saylor Sells Bitcoin for First Time Since 2022 - Decrypt",
+            "sentiment": "NEGATIVE",
+            "score": 0.9705999493598938,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "U.S. jury finds investor Andrew Left guilty of securities fraud - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8256081342697144,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA",
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "America has a muddled recovery in manufacturing - Axios",
             "sentiment": "NEGATIVE",
             "score": 0.8323656916618347,
@@ -117,30 +173,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "What next for BTC prices as Bitcoin slides below $70,000 on Strategy's sale - CoinDesk",
-            "sentiment": "NEGATIVE",
-            "score": 0.974260151386261,
-            "signal": "BEARISH",
+            "title": "STMicroelectronics Shares Rally After Chip Maker Raises Data-Center Revenue Target - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.7201213836669922,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "\u2018Utter disregard for the risk to human life\u2019: Florida sues OpenAI and Sam Altman over AI safety - The Conversation",
-            "sentiment": "NEGATIVE",
-            "score": 0.8171501755714417,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Nvidia's Jensen Huang Just Announced Something Big - The Motley Fool",
@@ -169,9 +208,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why This Biotech Plummeted Despite Its 'Best-Case' Study - Investor's Business Daily",
+            "title": "Abivax ulcerative colitis drug shows strong efficacy, but cases of cancer raise concerns - statnews.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9671347737312317,
+            "score": 0.9036877155303955,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -204,9 +243,26 @@
             ]
         },
         {
-            "title": "Remote Work May Be Fueling Youth Unemployment - WSJ",
+            "title": "Stock Market Today: Dow Up As Trump Says This On Iran; AI Stocks Pop On Anthropic IPO Move (Live Coverage) - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.701198935508728,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Florida sues OpenAI and Sam Altman over alleged safety lapses - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9152867794036865,
+            "score": 0.926658570766449,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -228,15 +284,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "One by one, U.S. civil rights agency dismantles tools to fight discrimination - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.7511093020439148,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
