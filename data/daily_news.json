@@ -1,13 +1,54 @@
 {
-    "last_updated": "2026-06-03 08:09:23 UTC",
-    "total_articles": 19,
+    "last_updated": "2026-06-03 11:06:59 UTC",
+    "total_articles": 16,
     "bullish_articles": 8,
-    "bearish_articles": 11,
+    "bearish_articles": 8,
     "articles": [
         {
-            "title": "Stock futures slip after all three major indexes close at new records: Live updates - CNBC",
+            "title": "U.S. jury finds investor Andrew Left guilty of securities fraud - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9631872773170471,
+            "score": 0.8256081342697144,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA",
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "America has a muddled recovery in manufacturing - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.8323656916618347,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Inflation hits 3.2% in the euro zone as Iran war pushes energy costs higher - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8623107075691223,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "What next for BTC prices as Bitcoin slides below $70,000 on Strategy's sale - CoinDesk",
+            "sentiment": "NEGATIVE",
+            "score": 0.974260151386261,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -31,39 +72,21 @@
             ]
         },
         {
-            "title": "Short Seller Andrew Left Found Guilty of Securities Fraud - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.7860422134399414,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Peak Performance: Toyota Introduces the 2026 GRMN Corolla - Toyota USA Newsroom",
+            "title": "Nvidia Releases Its Best Open AI Model Yet\u2014But Still Lags Behind China - Decrypt",
             "sentiment": "POSITIVE",
-            "score": 0.7572739124298096,
+            "score": 0.8843094706535339,
             "signal": "BULLISH",
             "tickers": [
-                "GR"
+                "NVDA"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "GR",
+                    "ticker": "NVDA",
                     "impact": "positive",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Bay Area Target's grocery section closed following rat infestation - SFGATE",
-            "sentiment": "NEGATIVE",
-            "score": 0.9630430936813354,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Trump faces a new inflation warning from the bond market, adding to his midterm challenges - PBS",
@@ -75,10 +98,37 @@
             "ticker_impacts": []
         },
         {
-            "title": "Investors are piling into bullish options bets \u2014 another sign that the stock market is getting overheated - MarketWatch",
+            "title": "Why This Biotech Plummeted Despite Its 'Best-Case' Study - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9725488424301147,
+            "score": 0.9671347737312317,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Here's why a Newark flight to Spain had to turn around over the Atlantic - Gothamist",
+            "sentiment": "NEGATIVE",
+            "score": 0.9156200885772705,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Florida sues OpenAI and CEO Sam Altman over ChatGPT - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9018200039863586,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "HPE Sees Strong Growth Over Next 18 Months on Server Demand - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9505277276039124,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -101,100 +151,45 @@
             ]
         },
         {
-            "title": "HPE Pulls Forward Long-Term Targets as Surging AI Compute Demand Boosts Revenue - WSJ",
+            "title": "Jensen Huang Says Nvidia Has Unlocked a New Growth Opportunity the Company Hasn't Gone After Before - The Motley Fool",
             "sentiment": "POSITIVE",
-            "score": 0.9211034774780273,
+            "score": 0.9212012887001038,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Sam Altman: I think this is the most-fair criticism of Ai right now - investingLive",
+            "sentiment": "POSITIVE",
+            "score": 0.9118938446044922,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.727436900138855,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil prices jump after U.S.-Iran talks reportedly collapse, erasing recent declines - NBC News",
+            "title": "IBM shares surge 15% after Trump video resurfaces - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8411221504211426,
+            "score": 0.9374576210975647,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Remote work \u2014 not AI \u2014 has sidelined recent college graduates, research finds - NPR",
+            "title": "One by one, U.S. civil rights agency dismantles tools to fight discrimination - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9555442333221436,
+            "score": 0.7511093020439148,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Unfortunate Company Accidentally Blows Half a Billion Dollars on Claude in One Month - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.9502005577087402,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Virgin Galactic Rockets 18% Monday: AST SpaceMobile Sinks 9%, Rocket Lab Drops 13% as Space Divergence Widens - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.9639654755592346,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "IBM Shares Surge as Old Clip of Trump Praise Recirculates Online - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8290678262710571,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "UAW Goes on Strike at Key General Motors Truck Supplier Plant - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.931041419506073,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "A personalized vaccine for melanoma cut the risk of cancer returning after five years - NBC News",
-            "sentiment": "POSITIVE",
-            "score": 0.8564174175262451,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9550201892852783,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SoftBank overtakes Toyota after over 20 years to become Japan\u2019s largest company - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9295821785926819,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
