@@ -1,9 +1,44 @@
 {
-    "last_updated": "2026-06-03 19:40:04 UTC",
-    "total_articles": 23,
-    "bullish_articles": 10,
-    "bearish_articles": 13,
+    "last_updated": "2026-06-03 22:16:45 UTC",
+    "total_articles": 20,
+    "bullish_articles": 11,
+    "bearish_articles": 9,
     "articles": [
+        {
+            "title": "Palo Alto Reports Earnings as It Prepares for AI Security - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9433985948562622,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Micron Price Targets Can\u2019t Keep Up With the Stock - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.823934018611908,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Marvell Stock Soars 29%. Why Nvidia CEO Says It Will Join the $1 Trillion Club. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9458627700805664,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Neiman Marcus will close landmark downtown Dallas store - Dallas News",
             "sentiment": "NEGATIVE",
@@ -23,33 +58,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "Uber Caps Usage of AI Tools Like Claude Code to Cut Costs - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9302635788917542,
-            "signal": "BEARISH",
-            "tickers": [
-                "UBER",
-                "INTC"
-            ],
-            "primary_ticker": "UBER",
-            "ticker_impacts": [
-                {
-                    "ticker": "UBER",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Biotech Plummets On Cancer Disappointment. What Happened? - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.9692534804344177,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Dow, S&P 500 and Nasdaq move higher, pushing towards new records; semiconductor stocks gain - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.9242261052131653,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Anthropic expands access to cyber-capable Mythos model beyond US - politico.eu",
+            "sentiment": "POSITIVE",
+            "score": 0.8876980543136597,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -64,18 +94,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries - TechCrunch",
+            "title": "Virgin Galactic Crashes 32% on Settlement Dilution Fears, AST SpaceMobile Rises 10%, Planet Labs Climbs 9% - 24/7 Wall St.",
             "sentiment": "POSITIVE",
-            "score": 0.7163707613945007,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US job openings climbed to 7.6 million in April despite economic fallout from the Iran war - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.7601001858711243,
+            "score": 0.9062769412994385,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -100,61 +121,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Broadcom Stock Gets a Double Boost From Google and Marvell - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9410063028335571,
-            "signal": "BULLISH",
-            "tickers": [
-                "GOOGL",
-                "NVDA"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Morning Minute: Saylor Sells Bitcoin for First Time Since 2022 - Decrypt",
-            "sentiment": "NEGATIVE",
-            "score": 0.9705999493598938,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. jury finds investor Andrew Left guilty of securities fraud - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8256081342697144,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA",
-                "NVDA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "America has a muddled recovery in manufacturing - Axios",
             "sentiment": "NEGATIVE",
             "score": 0.8323656916618347,
@@ -167,15 +133,6 @@
             "title": "Inflation hits 3.2% in the euro zone as Iran war pushes energy costs higher - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.8623107075691223,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "STMicroelectronics Shares Rally After Chip Maker Raises Data-Center Revenue Target - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.7201213836669922,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -199,18 +156,18 @@
             ]
         },
         {
-            "title": "Trump faces a new inflation warning from the bond market, adding to his midterm challenges - PBS",
+            "title": "Abivax ulcerative colitis drug shows strong efficacy, but cases of cancer raise concerns - statnews.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8309713006019592,
+            "score": 0.9036877155303955,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Abivax ulcerative colitis drug shows strong efficacy, but cases of cancer raise concerns - statnews.com",
+            "title": "Florida sues OpenAI and CEO Sam Altman over ChatGPT - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.9036877155303955,
+            "score": 0.9018200039863586,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -241,32 +198,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Stock Market Today: Dow Up As Trump Says This On Iran; AI Stocks Pop On Anthropic IPO Move (Live Coverage) - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.701198935508728,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Florida sues OpenAI and Sam Altman over alleged safety lapses - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.926658570766449,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Software Stocks Gain After Nvidia CEO Dispels SaaSpocalypse Fears - WSJ",
