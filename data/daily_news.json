@@ -1,34 +1,67 @@
 {
-    "last_updated": "2026-06-04 01:36:05 UTC",
-    "total_articles": 26,
-    "bullish_articles": 12,
-    "bearish_articles": 14,
+    "last_updated": "2026-06-04 05:02:53 UTC",
+    "total_articles": 25,
+    "bullish_articles": 16,
+    "bearish_articles": 9,
     "articles": [
         {
-            "title": "Victoria\u2019s Secret Hits Record High as Bra Strategy Resonates - Yahoo Finance",
+            "title": "Stock futures are little changed after S&P 500 closes at another record: Live updates - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9491122364997864,
+            "score": 0.7609591484069824,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Wall Street inches to more records thanks to booming AI stocks - AP News",
+            "title": "Japan's Nikkei hits record high as Asia markets rise amid Middle East concerns - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9071924686431885,
+            "score": 0.9329004287719727,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "GameStop Posts Higher Profit, Launches $2 Billion Buyback Program - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9551852941513062,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Broadcom Stock Closes at a Record. It\u2019s Getting a Double Boost From Google and Marvell. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.936704158782959,
             "signal": "BULLISH",
             "tickers": [
-                "INTC"
+                "GOOGL",
+                "NVDA"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "SpaceX Halo, Virgin Galactic Reality: Behind a 39% Stock Crash. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9614461660385132,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Ulta shares pop as beauty retailer beats Wall Street expectations and hikes earnings outlook - CNBC",
@@ -40,18 +73,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why This Biotech Plummeted Despite Its 'Best-Case' Study - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9713179469108582,
-            "signal": "BEARISH",
+            "title": "Bra Sales Power Victoria\u2019s Secret Turnaround and Shares Soar - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.7729492783546448,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Biotech Plummets On Cancer Disappointment. What Happened? - Investor's Business Daily",
+            "title": "Why This Biotech Plummeted Despite Its 'Best-Case' Study - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9692534804344177,
+            "score": 0.9713179469108582,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -76,6 +109,29 @@
             "ticker_impacts": []
         },
         {
+            "title": "Analyst Spots Major AI Winners as Nvidia, Intel, and Marvell Shine at Computex - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8547285199165344,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "INTC"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "New York Fed research is just one of many saying remote work is behind the real Gen Z hiring nightmare - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.9534732699394226,
@@ -97,15 +153,6 @@
             "title": "Neiman Marcus will close landmark downtown Dallas store - Dallas News",
             "sentiment": "NEGATIVE",
             "score": 0.89927738904953,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Paramount Lawyer Claims Warner Bros. Deal Opponents Have 'Antisemitic Views' - Variety",
-            "sentiment": "NEGATIVE",
-            "score": 0.8139429688453674,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -162,35 +209,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Virgin Galactic Shares Slide After Debt Redemption Plan Involving New Stock Issuance (SPCE) - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9741020202636719,
-            "signal": "BEARISH",
-            "tickers": [
-                "SPCE"
-            ],
-            "primary_ticker": "SPCE",
-            "ticker_impacts": [
-                {
-                    "ticker": "SPCE",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "The Four-Letter Bluetooth Device Name That Made A United Airlines Flight Turn Around - bgr.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7492035627365112,
-            "signal": "BEARISH",
+            "title": "US job openings climbed to 7.6 million in April despite economic fallout from the Iran war - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.7601001858711243,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "America has a muddled recovery in manufacturing - Axios",
+            "title": "The Four-Letter Bluetooth Device Name That Made A United Airlines Flight Turn Around - bgr.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8323656916618347,
+            "score": 0.7492035627365112,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -232,32 +262,6 @@
             ]
         },
         {
-            "title": "As Micron\u2019s stock blows past $1,000, Wall Street sees more gains in store - MarketWatch",
-            "sentiment": "POSITIVE",
-            "score": 0.9497938752174377,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "New Iran Clashes Send Oil Prices and Bond Yields Surging - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9404069781303406,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "HPE\u2019s stock soars toward record gain as earnings show a networking bonanza - MarketWatch",
             "sentiment": "POSITIVE",
             "score": 0.9541305303573608,
@@ -274,23 +278,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Amazon Shuts Down Internal AI Leaderboard After Employees Cheated - 404 Media",
-            "sentiment": "NEGATIVE",
-            "score": 0.9548672437667847,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
