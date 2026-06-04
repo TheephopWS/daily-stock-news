@@ -1,9 +1,53 @@
 {
-    "last_updated": "2026-06-04 13:32:08 UTC",
-    "total_articles": 27,
+    "last_updated": "2026-06-04 16:30:39 UTC",
+    "total_articles": 29,
     "bullish_articles": 14,
-    "bearish_articles": 13,
+    "bearish_articles": 15,
     "articles": [
+        {
+            "title": "Stock market today: Dow, S&P 500 and Nasdaq trade lower as S&P 500\u2019s 9-day win streak comes under threat; ADP and ISM data in focus - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9550741314888,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Plunging global oil supplies threaten to push fuel prices even higher - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9665657877922058,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "EU plots long game against US digital supremacy - politico.eu",
+            "sentiment": "POSITIVE",
+            "score": 0.7351057529449463,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Jim Cramer Issues Stark Warning on Marvell's Trillion-Dollar Call - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.8853228092193604,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
         {
             "title": "Investors would be crazy to turn bearish on stocks now, says veteran strategist. Maybe not, in six months. - MarketWatch",
             "sentiment": "POSITIVE",
@@ -16,8 +60,17 @@
         {
             "title": "Macy's posts strongest Q1 growth in four years, raises guidance despite consumer worries - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9258764386177063,
+            "score": 0.9258763194084167,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bitcoin's Inflation-Hedging Promise in Tatters After Plunge - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.971972644329071,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -32,71 +85,93 @@
             "ticker_impacts": []
         },
         {
-            "title": "Elon Musk is expected to become the world\u2019s first trillionaire. Democrats are taking aim. - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8583308458328247,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock futures are little changed after S&P 500 closes at another record: Live updates - CNBC",
+            "title": "The hottest stock market in the world has doubled this year. Now Goldman Sachs sees another 40% gain from here. - MarketWatch",
             "sentiment": "POSITIVE",
-            "score": 0.760959804058075,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Futures: Palo Alto Falls After Market Extends Win Streak - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9627127051353455,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why Did MRVL, AVGO, HPE Stocks Climb To 52-Week Highs Today? - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9433869123458862,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Broadcom Stock Just Hit a Record High. You Can Thank Nvidia, Alphabet, and Marvell. - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.8208605051040649,
+            "score": 0.9024128913879395,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL",
-                "NVDA",
-                "INTC",
-                "AI"
+                "GS"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "GS",
             "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Partners Group limits withdrawals in private equity fund for wealthy individuals - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9509575963020325,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Elon Musk is expected to become the world\u2019s first trillionaire. Democrats are taking aim. - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.858331024646759,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market News, June 2, 2026: Dow, S&P 500 end at fresh records and extend longest win streaks of the year; Alphabet, Microsoft slide; Bitcoin below $68,000 - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.8535366058349609,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT",
+                "GOOGL"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
                 {
                     "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "high"
-                },
+                }
+            ]
+        },
+        {
+            "title": "Broadcom Stock Just Hit a Record High. You Can Thank Nvidia, Alphabet, and Marvell. - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.8208598494529724,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "GOOGL",
+                "AI",
+                "INTC"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
                 {
                     "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AI",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "AI",
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -114,33 +189,16 @@
         {
             "title": "Three quarters of workers not on track for 'moderate' pension income, report suggests - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7719430923461914,
+            "score": 0.7719441056251526,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Gorgeous New Alaska Lounge Portland Opens: Talk About An Upgrade! - One Mile at a Time",
-            "sentiment": "POSITIVE",
-            "score": 0.8999269604682922,
-            "signal": "BULLISH",
-            "tickers": [
-                "PDX"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "PDX",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "GameStop Posts Higher Profit, Launches $2 Billion Buyback Program - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.8827768564224243,
+            "score": 0.8827767372131348,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -149,7 +207,7 @@
         {
             "title": "HPE Is Having a Dell-Like Move. But It\u2019s Not Dell. - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9575132727622986,
+            "score": 0.957513153553009,
             "signal": "BULLISH",
             "tickers": [
                 "INTC"
@@ -164,15 +222,6 @@
             ]
         },
         {
-            "title": "SpaceX Halo, Virgin Galactic Reality: Behind a 39% Stock Crash. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9614461660385132,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Bra Sales Power Victoria\u2019s Secret Turnaround and Shares Soar - WSJ",
             "sentiment": "POSITIVE",
             "score": 0.9511834979057312,
@@ -182,9 +231,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Biotech Plummets On Cancer Disappointment. What Happened? - Investor's Business Daily",
+            "title": "S&P 500, Nasdaq, Dow Futures Ease After Another Record Close As AI Momentum Cushions Iran's Expanding Strikes: MRVL, AVGO, MSFT, PANW In Focus - Stocktwits",
             "sentiment": "NEGATIVE",
-            "score": 0.9692534804344177,
+            "score": 0.7015674114227295,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -202,7 +251,7 @@
         {
             "title": "Goldman chief David Solomon sees \u2018more greed than there is fear\u2019 on Wall Street - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.7102735638618469,
+            "score": 0.7102698087692261,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -220,7 +269,7 @@
         {
             "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.829204797744751,
+            "score": 0.8292044401168823,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN"
@@ -237,7 +286,7 @@
         {
             "title": "US Emergency Oil Reserve Approaching All-Time Low Despite Trump Promise - Newsweek",
             "sentiment": "NEGATIVE",
-            "score": 0.8747138977050781,
+            "score": 0.8747143745422363,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -246,17 +295,8 @@
         {
             "title": "Anthropic expands access to cyber-capable Mythos model beyond US - politico.eu",
             "sentiment": "POSITIVE",
-            "score": 0.887698233127594,
+            "score": 0.8876980543136597,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Vitol Says Europe and US Aren\u2019t Facing Up to Oil Supply Crunch - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8974806666374207,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -264,7 +304,7 @@
         {
             "title": "US job openings climbed to 7.6 million in April despite economic fallout from the Iran war - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.7601009011268616,
+            "score": 0.7601001858711243,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -273,7 +313,7 @@
         {
             "title": "Office of Public Affairs | Activist Short Seller Convicted for $21M Stock Market Manipulation Scheme - Department of Justice (.gov)",
             "sentiment": "NEGATIVE",
-            "score": 0.7844648361206055,
+            "score": 0.7844659090042114,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -282,7 +322,7 @@
         {
             "title": "The Four-Letter Bluetooth Device Name That Made A United Airlines Flight Turn Around - bgr.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7492036819458008,
+            "score": 0.7492035627365112,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -291,7 +331,7 @@
         {
             "title": "Florida is now OpenAI's biggest problem in red America - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.7768161296844482,
+            "score": 0.7768165469169617,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
