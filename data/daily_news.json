@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-06-04 05:02:53 UTC",
-    "total_articles": 25,
-    "bullish_articles": 16,
-    "bearish_articles": 9,
+    "last_updated": "2026-06-04 08:00:51 UTC",
+    "total_articles": 24,
+    "bullish_articles": 12,
+    "bearish_articles": 12,
     "articles": [
         {
             "title": "Stock futures are little changed after S&P 500 closes at another record: Live updates - CNBC",
@@ -14,9 +14,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Japan's Nikkei hits record high as Asia markets rise amid Middle East concerns - CNBC",
+            "title": "IBM CEO sends strong message on quantum computing - thestreet.com",
             "sentiment": "POSITIVE",
-            "score": 0.9329004287719727,
+            "score": 0.8850001096725464,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,11 +25,28 @@
         {
             "title": "GameStop Posts Higher Profit, Launches $2 Billion Buyback Program - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9551852941513062,
+            "score": 0.8827767372131348,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "HPE Is Having a Dell-Like Move. But It\u2019s Not Dell. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.957513153553009,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Broadcom Stock Closes at a Record. It\u2019s Getting a Double Boost From Google and Marvell. - Barron's",
@@ -55,19 +72,19 @@
             ]
         },
         {
-            "title": "SpaceX Halo, Virgin Galactic Reality: Behind a 39% Stock Crash. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9614461660385132,
-            "signal": "BEARISH",
+            "title": "Palo Alto Fiscal Q3 Earnings, Revenue, Key Metrics Top Wall Street Targets - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9426657557487488,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Ulta shares pop as beauty retailer beats Wall Street expectations and hikes earnings outlook - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9155276417732239,
-            "signal": "BULLISH",
+            "title": "SpaceX Halo, Virgin Galactic Reality: Behind a 39% Stock Crash. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9614461660385132,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -82,51 +99,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why This Biotech Plummeted Despite Its 'Best-Case' Study - Investor's Business Daily",
+            "title": "Biotech Plummets On Cancer Disappointment. What Happened? - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9713179469108582,
+            "score": 0.9692534804344177,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Palo Alto Reports Earnings as It Prepares for AI Security - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9433985948562622,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bernie Sanders, Elizabeth Warren Urge Labor Department to Drop Bitcoin, Crypto 401K Plan - Decrypt",
+            "title": "Uber caps employee AI spending after blowing through budget in 4 months - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9081857800483704,
+            "score": 0.9309307932853699,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Analyst Spots Major AI Winners as Nvidia, Intel, and Marvell Shine at Computex - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8547285199165344,
-            "signal": "BULLISH",
             "tickers": [
-                "NVDA",
-                "INTC"
+                "UBER"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "UBER",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
+                    "ticker": "UBER",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
@@ -141,15 +134,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Goldman\u2019s David Solomon sees \u2018more greed than there is fear\u2019 on Wall Street - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8282766938209534,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Neiman Marcus will close landmark downtown Dallas store - Dallas News",
             "sentiment": "NEGATIVE",
             "score": 0.89927738904953,
@@ -157,6 +141,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Amazon faces class action lawsuit over Ring facial-recognition feature - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8292044401168823,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "US Emergency Oil Reserve Approaching All-Time Low Despite Trump Promise - Newsweek",
@@ -168,29 +169,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9320612549781799,
-            "signal": "BEARISH",
-            "tickers": [
-                "UBER",
-                "INTC"
-            ],
-            "primary_ticker": "UBER",
-            "ticker_impacts": [
-                {
-                    "ticker": "UBER",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Anthropic expands access to cyber-capable Mythos model beyond US - politico.eu",
             "sentiment": "POSITIVE",
             "score": 0.8876980543136597,
@@ -200,10 +178,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Blue Origin has set a very aggressive return-to-flight timeline - Ars Technica",
-            "sentiment": "POSITIVE",
-            "score": 0.903733491897583,
-            "signal": "BULLISH",
+            "title": "Vitol Says Europe and US Aren\u2019t Facing Up to Oil Supply Crunch - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8974802494049072,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -218,9 +196,50 @@
             "ticker_impacts": []
         },
         {
+            "title": "Standard Chartered says Strategy's bitcoin sale may mark start of ETH outperformance - The Block",
+            "sentiment": "POSITIVE",
+            "score": 0.8221111297607422,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "The Four-Letter Bluetooth Device Name That Made A United Airlines Flight Turn Around - bgr.com",
             "sentiment": "NEGATIVE",
             "score": 0.7492035627365112,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "U.S. jury finds investor Andrew Left guilty of securities fraud - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8256081342697144,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "TSLA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "BTC price hits April lows while AI tokens surge, exposing a split in the crypto market - CoinDesk",
+            "sentiment": "NEGATIVE",
+            "score": 0.9675489664077759,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -245,39 +264,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Gold replaces US Treasuries as world\u2019s top reserve asset, ECB says - Financial Times",
+            "title": "South Korea Overtakes India as World\u2019s Sixth-Largest Stock Market - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9435825943946838,
+            "score": 0.8928467631340027,
             "signal": "BULLISH",
             "tickers": [
-                "META"
+                "INTC"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "HPE\u2019s stock soars toward record gain as earnings show a networking bonanza - MarketWatch",
-            "sentiment": "POSITIVE",
-            "score": 0.9541305303573608,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "McDonald's unveils new global growth strategy to win over diners as competition rises - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.932966411113739,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
