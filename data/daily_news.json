@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-06-07 07:44:55 UTC",
-    "total_articles": 6,
+    "last_updated": "2026-06-07 10:17:07 UTC",
+    "total_articles": 12,
     "bullish_articles": 1,
-    "bearish_articles": 5,
+    "bearish_articles": 11,
     "articles": [
         {
             "title": "Chips sector bloodbath drags Nasdaq down 4.2% - Axios",
@@ -14,22 +14,64 @@
             "ticker_impacts": []
         },
         {
-            "title": "Traders Fully Price in Fed Rate Hike This Year After Jobs Data - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9330453872680664,
-            "signal": "BULLISH",
+            "title": "50-year-old theme park to close forever after summer season - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9210821390151978,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Wall Street's hottest trade is cracking - Yahoo Finance",
+            "title": "Broadcom, Quantinuum, Strategy, FedEx Freight, and More Stocks That Explain Today\u2019s Market - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.966704785823822,
+            "score": 0.9644088745117188,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "NVDA"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Chip selloff erases over $1 trillion in stock market value - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.972976803779602,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Gold Erases This Year\u2019s Gains as Jobs Data Fuel Fed-Hike Bets - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9247274994850159,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests - CNBC",
@@ -53,6 +95,50 @@
             "title": "Bitcoin loses $60,000, falls to weakest price since October 2024 - CoinDesk",
             "sentiment": "NEGATIVE",
             "score": 0.968778133392334,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Social Security faces a 24% cut in 2032\u2014that's a $345 billion hit to retirees nationwide, watchdog says - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9215245246887207,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "MU, SNDK, WDC: Memory Stocks Dip As Broadcom\u2019s Forecast Dampens AI Sentiment, Retail Turns Buyer - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9736371040344238,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "PGE requests large rate increase for Oregon data centers - KPTV",
+            "sentiment": "POSITIVE",
+            "score": 0.9358336329460144,
+            "signal": "BULLISH",
+            "tickers": [
+                "PGE"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "PGE",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.8643102645874023,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
