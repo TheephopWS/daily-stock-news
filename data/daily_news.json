@@ -1,22 +1,63 @@
 {
-    "last_updated": "2026-06-08 01:30:56 UTC",
-    "total_articles": 13,
-    "bullish_articles": 0,
-    "bearish_articles": 13,
+    "last_updated": "2026-06-08 05:01:22 UTC",
+    "total_articles": 17,
+    "bullish_articles": 1,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "The lawsuits that could give AI its \u2018Big Tobacco\u2019 moment - Politico",
+            "title": "Samantha Salomon, 18, arrested after throwing food at Chipotle worker in Santa Ana - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
-            "score": 0.7045833468437195,
+            "score": 0.9261844158172607,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Baby wipes recalled for contamination that could lead to sepsis - MLive.com",
+            "title": "Emotions Spill Over at Town Hall of Industry Workers Opposed to Paramount-WBD Merger: \u201cIt\u2019s the Death of a Great American Industry\u201d - The Hollywood Reporter",
             "sentiment": "NEGATIVE",
-            "score": 0.8958749175071716,
+            "score": 0.8473997712135315,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Crosslake Light Rail Pushes Sound Transit to Most-Used Light Rail System in US - The Urbanist",
+            "sentiment": "POSITIVE",
+            "score": 0.9080802202224731,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Crypto's brutal week: Bitcoin (BTC), Ether (ETH) suffer worst weekly drop since FTX crash - CoinDesk",
+            "sentiment": "NEGATIVE",
+            "score": 0.9726142287254333,
+            "signal": "BEARISH",
+            "tickers": [
+                "BTC",
+                "ETH"
+            ],
+            "primary_ticker": "BTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "BTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "ETH",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Fed\u2019s Barr Warns of Risks Tied to Looser Wall Street Bank Rules - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9495319724082947,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,31 +73,100 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bitcoin\u2019s Broken Promise Wipes Out Billions in Bullish Crypto Bets - Bloomberg.com",
+            "title": "Man Sneaks Onto United Airlines Flight With Fake Boarding Pass After Multiple Security Failures - Live and Let's Fly",
             "sentiment": "NEGATIVE",
-            "score": 0.9569315910339355,
+            "score": 0.7695292830467224,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out - Yahoo Finance",
+            "title": "Target voluntarily recalling 2 types of baby wipes over contamination concerns - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9061956405639648,
+            "score": 0.93243408203125,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "50-year-old theme park to close forever after summer season - thestreet.com",
+            "title": "McDonald's Introduces AI Drive-Thru System, Sparking Customer Backlash - Yahoo Tech",
             "sentiment": "NEGATIVE",
-            "score": 0.9210821390151978,
+            "score": 0.8486630916595459,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Amazon, Microsoft fare better than most in tech stock sell-off spree - The Seattle Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9443392157554626,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT",
+                "AMZN",
+                "INTC"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "OpenAI, Anthropic, Google CEOs call for DNA screening law - qz.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8832253217697144,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL",
+                "MSFT"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Broadcom, Quantinuum, Strategy, FedEx Freight, and More Stocks That Explain Today\u2019s Market - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9644088745117188,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Nvidia Stock Falls On Concerns Of Backdoor AI Chip Sales To China - Investor's Business Daily",
@@ -76,38 +186,13 @@
             ]
         },
         {
-            "title": "AI Layoffs Already Have Surpassed Last Year\u2019s Total. Tech Workers Are Being Cut First. - 24/7 Wall St.",
+            "title": "'AI is now the leading reason companies give for cutting jobs,' says new report\u2014what that means for workers - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9670433402061462,
+            "score": 0.892196774482727,
             "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Gold Erases This Year\u2019s Gains as Jobs Data Fuel Fed-Hike Bets - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9247274994850159,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "The deficit climbing by $3.4 trillion is keeping your mortgage rate at 6.48% \u2014 not the Fed - Fortune",
@@ -151,15 +236,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Social Security faces a 24% cut in 2032\u2014that's a $345 billion hit to retirees nationwide, watchdog says - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9215245246887207,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
