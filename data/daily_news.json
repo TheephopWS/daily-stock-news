@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-06-08 05:01:22 UTC",
-    "total_articles": 17,
-    "bullish_articles": 1,
-    "bearish_articles": 16,
+    "last_updated": "2026-06-08 08:09:31 UTC",
+    "total_articles": 18,
+    "bullish_articles": 3,
+    "bearish_articles": 15,
     "articles": [
+        {
+            "title": "OpenAI plots biggest ChatGPT overhaul since launch - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8623374104499817,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Samantha Salomon, 18, arrested after throwing food at Chipotle worker in Santa Ana - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
@@ -37,18 +46,18 @@
             "score": 0.9726142287254333,
             "signal": "BEARISH",
             "tickers": [
-                "BTC",
-                "ETH"
+                "ETH",
+                "BTC"
             ],
-            "primary_ticker": "BTC",
+            "primary_ticker": "ETH",
             "ticker_impacts": [
                 {
-                    "ticker": "BTC",
+                    "ticker": "ETH",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "ETH",
+                    "ticker": "BTC",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -73,10 +82,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Man Sneaks Onto United Airlines Flight With Fake Boarding Pass After Multiple Security Failures - Live and Let's Fly",
-            "sentiment": "NEGATIVE",
-            "score": 0.7695292830467224,
-            "signal": "BEARISH",
+            "title": "Detailed data show Pfizer\u2019s monthly obesity drug continues to show potential - statnews.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8321431875228882,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -105,19 +114,19 @@
             "score": 0.9443392157554626,
             "signal": "BEARISH",
             "tickers": [
-                "MSFT",
                 "AMZN",
+                "MSFT",
                 "INTC"
             ],
-            "primary_ticker": "MSFT",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "MSFT",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "MSFT",
                     "impact": "negative",
                     "relevance": "high"
                 },
@@ -150,6 +159,15 @@
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Americans\u2019 spending props up the economy as rising prices sap savings - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.7311427593231201,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Broadcom, Quantinuum, Strategy, FedEx Freight, and More Stocks That Explain Today\u2019s Market - Barron's",
@@ -202,23 +220,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "United Co-Pilot Warned Captain Of Low Approach Before Boeing 767 Hit Pole - One Mile at a Time",
-            "sentiment": "NEGATIVE",
-            "score": 0.8585497736930847,
-            "signal": "BEARISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Why Is Marvell Technology Stock Falling On Friday? - Benzinga",
