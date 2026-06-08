@@ -1,14 +1,40 @@
 {
-    "last_updated": "2026-06-08 13:51:59 UTC",
-    "total_articles": 23,
-    "bullish_articles": 5,
-    "bearish_articles": 18,
+    "last_updated": "2026-06-08 16:41:56 UTC",
+    "total_articles": 20,
+    "bullish_articles": 3,
+    "bearish_articles": 17,
     "articles": [
         {
             "title": "Harry's and Coterie owner Mammoth Brands has ambitions to be the next CPG giant - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.7735130786895752,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why Growth Investors Should Avoid the SpaceX IPO - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9032729268074036,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "High-earning millennials and Gen Zers feel broke and conflicted: 'I make a good salary, I shouldn't be struggling this much' - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.7881205081939697,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -30,23 +56,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "China\u2019s PBOC Adds Gold Again as Bullion Remains Under Pressure - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9354409575462341,
-            "signal": "BULLISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Samantha Salomon, 18, arrested after throwing food at Chipotle worker in Santa Ana - ABC7 Los Angeles",
@@ -94,36 +103,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Crosslake Light Rail Pushes Sound Transit to Most-Used Light Rail System in US - The Urbanist",
-            "sentiment": "POSITIVE",
-            "score": 0.9080802202224731,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Crypto's brutal week: Bitcoin (BTC), Ether (ETH) suffer worst weekly drop since FTX crash - CoinDesk",
             "sentiment": "NEGATIVE",
             "score": 0.9726142287254333,
             "signal": "BEARISH",
             "tickers": [
-                "BTC",
-                "ETH"
+                "ETH",
+                "BTC"
             ],
-            "primary_ticker": "BTC",
+            "primary_ticker": "ETH",
             "ticker_impacts": [
-                {
-                    "ticker": "BTC",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "ETH",
                     "impact": "negative",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "BTC",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "From banks to blockchains: US opens new front in Iran sanctions - \u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
+            "sentiment": "NEGATIVE",
+            "score": 0.9204744100570679,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "The lawsuits that could give AI its \u2018Big Tobacco\u2019 moment - Politico",
@@ -167,28 +176,10 @@
             ]
         },
         {
-            "title": "Verizon CEO sends shocking message to employees - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9191100597381592,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Detailed data show Pfizer\u2019s monthly obesity drug continues to show potential - statnews.com",
             "sentiment": "POSITIVE",
             "score": 0.8321431875228882,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Indians on H-1B visas exit Texas and its housing boom is dying. Other states could see similar decline - WION",
-            "sentiment": "NEGATIVE",
-            "score": 0.9706670045852661,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -212,44 +203,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Chips sector bloodbath drags Nasdaq down 4.2% - Axios",
+            "title": "S&P 500 sees $1.8 trillion wipeout, Nasdaq tallies biggest point drop on record: What investors need to know about Friday\u2019s selloff - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9645653963088989,
+            "score": 0.8701705932617188,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia Stock Falls On Concerns Of Backdoor AI Chip Sales To China - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9727264642715454,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.931482195854187,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The deficit climbing by $3.4 trillion is keeping your mortgage rate at 6.48% \u2014 not the Fed - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.827785849571228,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
