@@ -1,14 +1,32 @@
 {
-    "last_updated": "2026-06-08 11:06:31 UTC",
-    "total_articles": 20,
-    "bullish_articles": 3,
-    "bearish_articles": 17,
+    "last_updated": "2026-06-08 13:51:59 UTC",
+    "total_articles": 23,
+    "bullish_articles": 5,
+    "bearish_articles": 18,
     "articles": [
+        {
+            "title": "Harry's and Coterie owner Mammoth Brands has ambitions to be the next CPG giant - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7735130786895752,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "OpenAI plots biggest ChatGPT overhaul since launch - Financial Times",
             "sentiment": "POSITIVE",
             "score": 0.8623374104499817,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "WWE shareholder lawsuit trial canceled, removed from court schedule - F4W/WON",
+            "sentiment": "NEGATIVE",
+            "score": 0.8075002431869507,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -49,6 +67,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Baby wipes sold nationwide at popular retailer recalled for infectious contamination - komonews.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9636351466178894,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "World\u2019s Hottest Market Has Korea Bulls Reaching for Protection - Bloomberg",
             "sentiment": "NEGATIVE",
             "score": 0.9134296178817749,
@@ -81,18 +108,18 @@
             "score": 0.9726142287254333,
             "signal": "BEARISH",
             "tickers": [
-                "ETH",
-                "BTC"
+                "BTC",
+                "ETH"
             ],
-            "primary_ticker": "ETH",
+            "primary_ticker": "BTC",
             "ticker_impacts": [
                 {
-                    "ticker": "ETH",
+                    "ticker": "BTC",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "BTC",
+                    "ticker": "ETH",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -117,6 +144,29 @@
             "ticker_impacts": []
         },
         {
+            "title": "Over $1T wiped out as chip selloff impacts Nvidia, Broadcom, Micron - Seeking Alpha",
+            "sentiment": "NEGATIVE",
+            "score": 0.9407073259353638,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "AVG"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AVG",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Verizon CEO sends shocking message to employees - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.9191100597381592,
@@ -126,9 +176,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Target voluntarily recalling 2 types of baby wipes over contamination concerns - CBS News",
+            "title": "Detailed data show Pfizer\u2019s monthly obesity drug continues to show potential - statnews.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8321431875228882,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Indians on H-1B visas exit Texas and its housing boom is dying. Other states could see similar decline - WION",
             "sentiment": "NEGATIVE",
-            "score": 0.93243408203125,
+            "score": 0.9706670045852661,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AI jobs apocalypse reaches a new high - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9260836243629456,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -144,41 +212,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out - Yahoo Finance",
+            "title": "Chips sector bloodbath drags Nasdaq down 4.2% - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.9061956405639648,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "OpenAI, Anthropic, Google CEOs call for DNA screening law - qz.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8832253217697144,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL",
-                "MSFT"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Americans\u2019 spending props up the economy as rising prices sap savings - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7311427593231201,
+            "score": 0.9645653963088989,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -200,15 +236,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "'AI is now the leading reason companies give for cutting jobs,' says new report\u2014what that means for workers - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.892196774482727,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests - CNBC",
