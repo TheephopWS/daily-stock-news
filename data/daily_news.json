@@ -1,13 +1,31 @@
 {
-    "last_updated": "2026-06-09 16:20:15 UTC",
-    "total_articles": 27,
-    "bullish_articles": 9,
-    "bearish_articles": 18,
+    "last_updated": "2026-06-09 19:09:28 UTC",
+    "total_articles": 19,
+    "bullish_articles": 7,
+    "bearish_articles": 12,
     "articles": [
         {
-            "title": "Oil prices pares gains after Iran announces end to attacks on Israel - Yahoo Finance",
+            "title": "The Countdown to a Major Oil Price Surge Has Begun - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9504351615905762,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "McDonald\u2019s worker suffers severe burns on face and body after coworker throws hot oil on him, family says - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9435787796974182,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil prices pare gains after Iran and Israel say they have halted attacks - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9448310732841492,
+            "score": 0.9393764138221741,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -21,6 +39,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Amazon's multibillion-dollar deal with Corning creates 1,000 jobs in North Carolina - About Amazon",
+            "sentiment": "POSITIVE",
+            "score": 0.9206777215003967,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Johnson & Johnson to Acquire Firefly Bio, Inc. to Expand Oncology Pipeline with Novel Degrader Antibody Conjugate Platform - Johnson & Johnson",
@@ -103,9 +138,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Indonesia\u2019s Foreign Reserves Suffer Longest Decline Since 2018 - Bloomberg.com",
+            "title": "Software buyout deals collapse to lowest level since pandemic after AI rout - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9748845100402832,
+            "score": 0.9720478653907776,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -118,9 +153,9 @@
             "signal": "BULLISH",
             "tickers": [
                 "NVDA",
+                "MSFT",
                 "META",
-                "GOOGL",
-                "MSFT"
+                "GOOGL"
             ],
             "primary_ticker": "NVDA",
             "ticker_impacts": [
@@ -128,6 +163,11 @@
                     "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "medium"
                 },
                 {
                     "ticker": "META",
@@ -138,28 +178,6 @@
                     "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "medium"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories - NVIDIA Newsroom",
-            "sentiment": "POSITIVE",
-            "score": 0.9240407347679138,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
                 }
             ]
         },
@@ -173,62 +191,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Yuba City McDonald\u2019s boss rushed to ICU with horrific injuries after colleague threw scorching hot oil over him - Yahoo",
+            "title": "Banks lay groundwork for mass workforce cuts as AI takes hold - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.841825008392334,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "USD Implodes 17% And June 8th Could Be Worse - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.9752047657966614,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why most politicians are not calling for data center bans despite voters\u2019 anger - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7887841463088989,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Trump stunned as stocks fall on great jobs report. Barclays explains why \u2018we are entering the warning zone - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.778815746307373,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "OPEC+ approves fourth oil output quota hike since Hormuz closure - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9391553401947021,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'The golden years are not golden': Boomers are hoarding most of America's wealth and power because they're terrified of outliving their money - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.7327975630760193,
+            "score": 0.9694163799285889,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -244,54 +209,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Incyte nears up to $2bn deal for blood disorder biotech Star - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8567559719085693,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Emotions Spill Over at Town Hall of Industry Workers Opposed to Paramount-WBD Merger: \u201cIt\u2019s the Death of a Great American Industry\u201d - The Hollywood Reporter",
-            "sentiment": "NEGATIVE",
-            "score": 0.8473997712135315,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Baby wipes sold nationwide at popular retailer recalled for infectious contamination - komonews.com",
             "sentiment": "NEGATIVE",
             "score": 0.9636351466178894,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "When public charging stations aren\u2019t so public, and why it matters - Electrek",
-            "sentiment": "NEGATIVE",
-            "score": 0.909796416759491,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "From banks to blockchains: US opens new front in Iran sanctions - \u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
-            "sentiment": "NEGATIVE",
-            "score": 0.9204744100570679,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The lawsuits that could give AI its \u2018Big Tobacco\u2019 moment - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.7045833468437195,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
