@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-06-09 04:49:53 UTC",
-    "total_articles": 24,
-    "bullish_articles": 5,
-    "bearish_articles": 19,
+    "last_updated": "2026-06-09 07:39:23 UTC",
+    "total_articles": 27,
+    "bullish_articles": 6,
+    "bearish_articles": 21,
     "articles": [
         {
             "title": "Tech sell-off widens as South Korea index plunges - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9723304510116577,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Man\u2019s Car Won\u2019t Start After Oil Change At Dealership. Then Another Mechanic Checks\u2014And Realizes It Was A Setup: \u2018Isn\u2019t Adding Up' - Motor1.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7945087552070618,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -21,8 +30,8 @@
             "tickers": [
                 "NVDA",
                 "META",
-                "GOOGL",
-                "MSFT"
+                "MSFT",
+                "GOOGL"
             ],
             "primary_ticker": "NVDA",
             "ticker_impacts": [
@@ -37,16 +46,25 @@
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "MSFT",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Markets face triple threat of Iran war reigniting, AI bubble popping, and Fed rates rising - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8995537161827087,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "US Stock Futures Drop After Tech Selloff, Oil Up: Markets Wrap - Bloomberg.com",
@@ -75,36 +93,26 @@
             "ticker_impacts": []
         },
         {
+            "title": "Marvell leads chip wreck unseen since the pandemic - thestreet.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7642526030540466,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Man arrested after allegedly sneaking onto United Airlines flight with fake boarding pass - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.8236642479896545,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Yuba City McDonald\u2019s boss rushed to ICU with horrific injuries after colleague threw scorching hot oil over him - Yahoo",
-            "sentiment": "NEGATIVE",
-            "score": 0.841825008392334,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Sammy's Grill on Highland Road announces closure as it searches for new location - WBRZ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9005217552185059,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Donald Trump piles pressure on Kevin Warsh with call for rate cut - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.7042356729507446,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -138,9 +146,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "\u2018Only One Scenario Saves Bitcoin\u2019\u2014Crypto Is Suddenly Braced For A Massive $52 Billion Price Earthquake - Forbes",
+            "title": "High-earning millennials and Gen Zers feel broke and conflicted: 'I make a good salary, I shouldn't be struggling this much' - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9663318395614624,
+            "score": 0.7881205081939697,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -160,6 +168,24 @@
             "sentiment": "POSITIVE",
             "score": 0.9162605404853821,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Yuba City McDonald's employee hospitalized after coworker threw hot oil on him, police say - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9277698993682861,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Samantha Salomon, 18, arrested after throwing food at Chipotle worker in Santa Ana - ABC7 Los Angeles",
+            "sentiment": "NEGATIVE",
+            "score": 0.9261844158172607,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -199,6 +225,29 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Crypto's brutal week: Bitcoin (BTC), Ether (ETH) suffer worst weekly drop since FTX crash - CoinDesk",
+            "sentiment": "NEGATIVE",
+            "score": 0.9726142287254333,
+            "signal": "BEARISH",
+            "tickers": [
+                "BTC",
+                "ETH"
+            ],
+            "primary_ticker": "BTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "BTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "ETH",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "From banks to blockchains: US opens new front in Iran sanctions - \u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
