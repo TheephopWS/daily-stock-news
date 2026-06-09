@@ -1,22 +1,98 @@
 {
-    "last_updated": "2026-06-09 19:09:28 UTC",
-    "total_articles": 19,
-    "bullish_articles": 7,
-    "bearish_articles": 12,
+    "last_updated": "2026-06-09 22:00:51 UTC",
+    "total_articles": 26,
+    "bullish_articles": 12,
+    "bearish_articles": 14,
     "articles": [
         {
-            "title": "The Countdown to a Major Oil Price Surge Has Begun - Crude Oil Prices Today | OilPrice.com",
+            "title": "Intel Stock Jumps As Google Reportedly Signs On As Foundry Customer - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.749064564704895,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC",
+                "GOOGL"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "US carriers spent $6.5B on fuel in April; global profit forecast is cut nearly in half - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9504351615905762,
+            "score": 0.8653228878974915,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "McDonald\u2019s worker suffers severe burns on face and body after coworker throws hot oil on him, family says - NBC News",
+            "title": "Why Micron Stock Is Rising After Rival SK Hynix\u2019s Fresh Deal with Nvidia - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9514147043228149,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Yuba City McDonald's employee in Northern California hospitalized after coworker threw hot oil on him, police say - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9435787796974182,
+            "score": 0.907642662525177,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why Marvell Stock Is Surging in Rebound From Brutal AI Selloff - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9501903057098389,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Novo Drops 3.2% As CEO Eyes Longevity And Aesthetics - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9487970471382141,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nearly half of Americans say they're worse off financially than a year ago, NY Fed finds - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9207959175109863,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Countdown to a Major Oil Price Surge Has Begun - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9504351615905762,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,10 +108,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tango Skyrockets 47% On Eye-Popping Pancreatic Cancer Results - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.941192626953125,
-            "signal": "BULLISH",
+            "title": "Fed Faces Rising Rate Hike Expectations, Schwab Center\u2019s Martin Says - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9641949534416199,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -43,7 +119,7 @@
         {
             "title": "Amazon's multibillion-dollar deal with Corning creates 1,000 jobs in North Carolina - About Amazon",
             "sentiment": "POSITIVE",
-            "score": 0.9206777215003967,
+            "score": 0.9206778407096863,
             "signal": "BULLISH",
             "tickers": [
                 "AMZN"
@@ -60,7 +136,25 @@
         {
             "title": "Johnson & Johnson to Acquire Firefly Bio, Inc. to Expand Oncology Pipeline with Novel Degrader Antibody Conjugate Platform - Johnson & Johnson",
             "sentiment": "POSITIVE",
-            "score": 0.9476245045661926,
+            "score": 0.9476243853569031,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Exclusive | Once on the Brink, U.S. Steel\u2019s Oldest Plant Is Getting a Big Renovation - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8721604943275452,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Combination of pancreatic cancer drugs from Tango, Revolution leads to high response rate - statnews.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9479537606239319,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -76,27 +170,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Korean Stocks Tumble as AI Trades Unwind, Threatening Bull Run - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9539715647697449,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Eli Lilly Shares Rise Premarket on Late-Stage Weight Loss Trial Success - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9461206197738647,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "People love working from home. But does it love them back? A new study says no - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.8088157773017883,
+            "score": 0.8088161945343018,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -105,7 +181,7 @@
         {
             "title": "AMD Commits up to \u00a32 Billion to Accelerate AI Innovation and Research in the United Kingdom - AMD",
             "sentiment": "POSITIVE",
-            "score": 0.8675325512886047,
+            "score": 0.8675329089164734,
             "signal": "BULLISH",
             "tickers": [
                 "AMD"
@@ -122,25 +198,7 @@
         {
             "title": "\u2018Yet another way in which 2026 is looking like 1999\u2019: Top analyst fears bubble popping with investors and Wall Street out over their skis - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.845257043838501,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Iranian Crude Offered to China at Discount as Demand Softens - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.943455159664154,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Software buyout deals collapse to lowest level since pandemic after AI rout - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9720478653907776,
+            "score": 0.8452571034431458,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -149,12 +207,12 @@
         {
             "title": "Nvidia Takes the Top Spot in the 2026 List of Best Companies for the Future - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.7407616972923279,
+            "score": 0.7407627701759338,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA",
-                "MSFT",
                 "META",
+                "MSFT",
                 "GOOGL"
             ],
             "primary_ticker": "NVDA",
@@ -165,12 +223,12 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "MSFT",
+                    "ticker": "META",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "META",
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "medium"
                 },
@@ -182,9 +240,35 @@
             ]
         },
         {
+            "title": "NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories - NVIDIA Newsroom",
+            "sentiment": "POSITIVE",
+            "score": 0.9240407943725586,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Man arrested after allegedly sneaking onto United Airlines flight with fake boarding pass - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.8236642479896545,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump stunned as stocks fall on great jobs report. Barclays explains why \u2018we are entering the warning zone - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.7335397005081177,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -200,6 +284,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "OPEC+ approves fourth oil output quota hike since Hormuz closure - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9391554594039917,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "\u2018Only One Scenario Saves Bitcoin\u2019\u2014Crypto Is Suddenly Braced For A Massive $52 Billion Price Earthquake - Forbes",
             "sentiment": "NEGATIVE",
             "score": 0.9663318395614624,
@@ -209,9 +302,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Baby wipes sold nationwide at popular retailer recalled for infectious contamination - komonews.com",
+            "title": "Baby wipes sold nationwide at popular retailer recalled for infectious contamination - KOMO",
             "sentiment": "NEGATIVE",
-            "score": 0.9636351466178894,
+            "score": 0.9593133330345154,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
