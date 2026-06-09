@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-06-09 01:21:02 UTC",
-    "total_articles": 21,
+    "last_updated": "2026-06-09 04:49:53 UTC",
+    "total_articles": 24,
     "bullish_articles": 5,
-    "bearish_articles": 16,
+    "bearish_articles": 19,
     "articles": [
+        {
+            "title": "Tech sell-off widens as South Korea index plunges - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9723304510116577,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Nvidia Takes the Top Spot in the 2026 List of Best Companies for the Future - WSJ",
             "sentiment": "POSITIVE",
@@ -40,22 +49,21 @@
             ]
         },
         {
-            "title": "Tech sell-off widens as South Korea index plunges - Financial Times",
+            "title": "US Stock Futures Drop After Tech Selloff, Oil Up: Markets Wrap - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9723304510116577,
+            "score": 0.9717605113983154,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. stock futures fall as Iran attacks Israel; South Korea's Kospi plunges 8%: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8205794095993042,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Charter and Comcast rival files Chapter 11 bankruptcy - thestreet.com",
@@ -94,6 +102,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Donald Trump piles pressure on Kevin Warsh with call for rate cut - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.7042356729507446,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Banks lay groundwork for mass workforce cuts as AI takes hold - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.9694163799285889,
@@ -112,18 +129,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "\u2018Only One Scenario Saves Bitcoin\u2019\u2014Crypto Is Suddenly Braced For A Massive $52 Billion Price Earthquake - Forbes",
+            "title": "'The golden years are not golden': Boomers are hoarding most of America's wealth and power because they're terrified of outliving their money - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9663318395614624,
+            "score": 0.7327975630760193,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "High-earning millennials and Gen Zers feel broke and conflicted: 'I make a good salary, I shouldn't be struggling this much' - Fortune",
+            "title": "\u2018Only One Scenario Saves Bitcoin\u2019\u2014Crypto Is Suddenly Braced For A Massive $52 Billion Price Earthquake - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.7881205081939697,
+            "score": 0.9663318395614624,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -148,23 +165,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "China\u2019s PBOC Adds Gold Again as Bullion Remains Under Pressure - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9354409575462341,
-            "signal": "BULLISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Emotions Spill Over at Town Hall of Industry Workers Opposed to Paramount-WBD Merger: \u201cIt\u2019s the Death of a Great American Industry\u201d - The Hollywood Reporter",
             "sentiment": "NEGATIVE",
             "score": 0.8473997712135315,
@@ -186,6 +186,24 @@
             "title": "Bouygues Telecom consortium agrees to buy Patrick Drahi\u2019s SFR for \u20ac20.35bn - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.7551459074020386,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX and other mega IPOs may wait years to join the S&P 500 - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8381567597389221,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "From banks to blockchains: US opens new front in Iran sanctions - \u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
+            "sentiment": "NEGATIVE",
+            "score": 0.9204744100570679,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -231,6 +249,15 @@
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Beef prices surge close to $7 a pound in latest data (Price tracker) - Syracuse.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7275075316429138,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Emotional hearing for ex-McDonald's manager accused of serving contaminated fries - NBC Boston",
