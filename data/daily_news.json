@@ -1,22 +1,31 @@
 {
-    "last_updated": "2026-06-09 07:39:23 UTC",
-    "total_articles": 27,
-    "bullish_articles": 6,
-    "bearish_articles": 21,
+    "last_updated": "2026-06-09 10:36:38 UTC",
+    "total_articles": 26,
+    "bullish_articles": 8,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Tech sell-off widens as South Korea index plunges - Financial Times",
+            "title": "U.S. stock futures mixed as Mideast tensions rise; South Korea's Kospi plunges 8%: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9723304510116577,
+            "score": 0.8034689426422119,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Man\u2019s Car Won\u2019t Start After Oil Change At Dealership. Then Another Mechanic Checks\u2014And Realizes It Was A Setup: \u2018Isn\u2019t Adding Up' - Motor1.com",
+            "title": "People love working from home. But does it love them back? A new study says no - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.7945087552070618,
+            "score": 0.8088157773017883,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tech stock sell-off accelerates; SoftBank drops 6% as investors sour on AI-linked names - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9712398052215576,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -29,9 +38,9 @@
             "signal": "BULLISH",
             "tickers": [
                 "NVDA",
+                "GOOGL",
                 "META",
-                "MSFT",
-                "GOOGL"
+                "MSFT"
             ],
             "primary_ticker": "NVDA",
             "ticker_impacts": [
@@ -39,6 +48,11 @@
                     "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "medium"
                 },
                 {
                     "ticker": "META",
@@ -49,37 +63,23 @@
                     "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "medium"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Markets face triple threat of Iran war reigniting, AI bubble popping, and Fed rates rising - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8995537161827087,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US Stock Futures Drop After Tech Selloff, Oil Up: Markets Wrap - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9717605113983154,
-            "signal": "BEARISH",
+            "title": "Nvidia, SK Hynix Seal Multi-Year Pact to Develop AI Chips - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9368441104888916,
+            "signal": "BULLISH",
             "tickers": [
-                "INTC"
+                "NVDA"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
                 }
             ]
         },
@@ -119,6 +119,32 @@
             "ticker_impacts": []
         },
         {
+            "title": "USD Implodes 17% And June 8th Could Be Worse - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.9752047657966614,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why most politicians are not calling for data center bans despite voters\u2019 anger - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.7887841463088989,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Banks lay groundwork for mass workforce cuts as AI takes hold - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.9694163799285889,
@@ -140,15 +166,6 @@
             "title": "'The golden years are not golden': Boomers are hoarding most of America's wealth and power because they're terrified of outliving their money - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.7327975630760193,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "High-earning millennials and Gen Zers feel broke and conflicted: 'I make a good salary, I shouldn't be struggling this much' - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.7881205081939697,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -182,13 +199,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Samantha Salomon, 18, arrested after throwing food at Chipotle worker in Santa Ana - ABC7 Los Angeles",
-            "sentiment": "NEGATIVE",
-            "score": 0.9261844158172607,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "China\u2019s PBOC Adds Gold Again as Bullion Remains Under Pressure - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9354409575462341,
+            "signal": "BULLISH",
+            "tickers": [
+                "META"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Emotions Spill Over at Town Hall of Industry Workers Opposed to Paramount-WBD Merger: \u201cIt\u2019s the Death of a Great American Industry\u201d - The Hollywood Reporter",
@@ -218,9 +243,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX and other mega IPOs may wait years to join the S&P 500 - Fortune",
+            "title": "When public charging stations aren\u2019t so public, and why it matters - Electrek",
             "sentiment": "NEGATIVE",
-            "score": 0.8381567597389221,
+            "score": 0.909796416759491,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -232,18 +257,18 @@
             "score": 0.9726142287254333,
             "signal": "BEARISH",
             "tickers": [
-                "BTC",
-                "ETH"
+                "ETH",
+                "BTC"
             ],
-            "primary_ticker": "BTC",
+            "primary_ticker": "ETH",
             "ticker_impacts": [
                 {
-                    "ticker": "BTC",
+                    "ticker": "ETH",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "ETH",
+                    "ticker": "BTC",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -277,42 +302,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Over $1T wiped out as chip selloff impacts Nvidia, Broadcom, Micron - Seeking Alpha",
-            "sentiment": "NEGATIVE",
-            "score": 0.9407073259353638,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA",
-                "AVG"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AVG",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Beef prices surge close to $7 a pound in latest data (Price tracker) - Syracuse.com",
             "sentiment": "POSITIVE",
             "score": 0.7275075316429138,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Emotional hearing for ex-McDonald's manager accused of serving contaminated fries - NBC Boston",
-            "sentiment": "NEGATIVE",
-            "score": 0.900082528591156,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
