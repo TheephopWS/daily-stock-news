@@ -1,23 +1,67 @@
 {
-    "last_updated": "2026-06-10 07:53:04 UTC",
+    "last_updated": "2026-06-10 10:45:02 UTC",
     "total_articles": 23,
-    "bullish_articles": 6,
-    "bearish_articles": 17,
+    "bullish_articles": 8,
+    "bearish_articles": 15,
     "articles": [
         {
-            "title": "Stock futures fall as investors assess fragile Iran-Israel ceasefire: Live updates - CNBC",
+            "title": "China Export Growth Accelerates in May on AI Demand, U.S. Shipments Surge - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8516413569450378,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Paramount blasts Netflix, pushes back on Teamsters\u2019 warnings about Warner Bros. deal - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.8030925989151001,
+            "score": 0.9268646240234375,
+            "signal": "BEARISH",
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Asia chip-linked shares recover after U.S. peers bounce back - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9195651412010193,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX IPO Is Well Oversubscribed With Orders Closing Wednesday - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.7690564393997192,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Penn Station critics demand answers on Trump-led overhaul, developer selection - Gothamist",
-            "sentiment": "NEGATIVE",
-            "score": 0.7232442498207092,
-            "signal": "BEARISH",
+            "title": "New Penn Station renderings show plan for $8 billion transformation: \"America's world-class station\" - CBS News",
+            "sentiment": "POSITIVE",
+            "score": 0.7526378631591797,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "U.S. Steel pledges up to $2.5 billion in upgrades to Mon Valley Works - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.8767989277839661,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -26,6 +70,15 @@
             "title": "US carriers spent $6.5B on fuel in April; global profit forecast is cut nearly in half - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.8653228282928467,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Killing the mood: smartphones reduce birth rate, studies say - Yahoo",
+            "sentiment": "NEGATIVE",
+            "score": 0.9112323522567749,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -41,35 +94,6 @@
             ],
             "primary_ticker": "NVDA",
             "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Intel Jumps After Reports of Breakthrough Foundry Deals with Google and Nvidia - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.7540194392204285,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC",
-                "GOOGL",
-                "NVDA"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "NVDA",
                     "impact": "positive",
@@ -114,21 +138,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "\"Pure Advocacy-Driven Click Bait\": Meta Furious Over Bombshell Smart Glasses Revelation - Futurism",
+            "title": "S&P 500\u2019s worst day since October has a major asterisk - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7496472597122192,
+            "score": 0.9485651254653931,
             "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Fed Faces Rising Rate Hike Expectations, Schwab Center\u2019s Martin Says - Bloomberg.com",
@@ -184,15 +200,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Smartphones broke dating. AI might finish the job. - vox.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9562936425209045,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Korean Stocks Tumble as AI Trades Unwind, Threatening Bull Run - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9539715647697449,
@@ -220,36 +227,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Roche Enters $2.3 Billion Blood-Cancer Drug Deal With Nurix Therapeutics - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9219734072685242,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Man arrested and accused of sneaking onto United Airlines flight with fake boarding pass - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.8141489624977112,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump stunned as stocks fall on great jobs report. Barclays explains why \u2018we are entering the warning zone - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.7335406541824341,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "\u2018Only One Scenario Saves Bitcoin\u2019\u2014Crypto Is Suddenly Braced For A Massive $52 Billion Price Earthquake - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.9663318395614624,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
