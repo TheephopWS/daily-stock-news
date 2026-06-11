@@ -1,22 +1,40 @@
 {
-    "last_updated": "2026-06-11 04:59:52 UTC",
-    "total_articles": 19,
-    "bullish_articles": 3,
-    "bearish_articles": 16,
+    "last_updated": "2026-06-11 08:07:51 UTC",
+    "total_articles": 22,
+    "bullish_articles": 4,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Stock Market News, June 9, 2026: Nasdaq Rebounds Off Session Lows - WSJ",
+            "title": "GSK enters agreement to acquire Nuvalent, Inc. - GSK",
+            "sentiment": "POSITIVE",
+            "score": 0.8252051472663879,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China May wholesale inflation hits near 4-year high on Iran war-led higher input costs, AI boom - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8872122764587402,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Broadcom CEO unnerves biggest AI backers in rattling pivot - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8523806929588318,
+            "score": 0.964841365814209,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock futures slip after U.S. launches \u2018self-defense strikes\u2019 against Iran: Live updates - CNBC",
+            "title": "Disconnected Oil Futures Market Could See Price Spike within Weeks - Crude Oil Prices Today | OilPrice.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9242812991142273,
+            "score": 0.9695680737495422,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,7 +43,7 @@
         {
             "title": "Wall Street dumped nearly $1 trillion in tech stocks by midday\u2014then clawed it back and bought peanut butter and paint - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9299445748329163,
+            "score": 0.9299446940422058,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -34,29 +52,28 @@
         {
             "title": "Remote Work Comes With a Little-Known Downside - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.7608298063278198,
+            "score": 0.7608304023742676,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Social Security\u2019s retirement trust fund faces a funding shortfall a year earlier than expected - AP News",
+            "title": "As Salesforce begins layoffs, here's the standard severance package the company offers employees - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9566112160682678,
+            "score": 0.8962374925613403,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Exclusive-SpaceX IPO demand is approaching four times oversubscribed, source says - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9245933294296265,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "CRM"
+            ],
+            "primary_ticker": "CRM",
+            "ticker_impacts": [
+                {
+                    "ticker": "CRM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Musk\u2019s xAI, SpaceX hit with class action over data center \u2018nuisance\u2019 - Yahoo Finance",
@@ -86,10 +103,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Small Biotech Catapults To Record High On $10.6 Billion Deal - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.8998164534568787,
-            "signal": "BULLISH",
+            "title": "Gold And Silver Price Hit 2-Month Lows Following Iran Tensions, Interest Rate Hike Fears - Forbes",
+            "sentiment": "NEGATIVE",
+            "score": 0.9722528457641602,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -104,43 +121,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Last Month, Salesforce Announced It Hit $1.2 Billion in AI Revenue\u2014Now It's Laying Off Staff Tied to the Product - inc.com",
+            "title": "Barron Trump Faces Negative News After the Real Reason He Missed His Brother's Wedding Was Finally Revealed - stylecaster.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9308087825775146,
-            "signal": "BEARISH",
-            "tickers": [
-                "CRM"
-            ],
-            "primary_ticker": "CRM",
-            "ticker_impacts": [
-                {
-                    "ticker": "CRM",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "There is no AI boom without these workers. Meta just proved it. - Business Insider",
-            "sentiment": "POSITIVE",
-            "score": 0.8350570201873779,
-            "signal": "BULLISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Nasdaq falls 3% as chip stocks sell off, Iran deal hopes fade - qz.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.71954745054245,
+            "score": 0.9406774640083313,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -156,15 +139,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "NAR Existing-Home Sales Report Shows 3.2% Increase in May - National Association of REALTORS\u00ae",
-            "sentiment": "NEGATIVE",
-            "score": 0.9391290545463562,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "The iPhone lowered the birth rate, new paper finds - Axios",
             "sentiment": "NEGATIVE",
             "score": 0.9331451058387756,
@@ -174,18 +148,79 @@
             "ticker_impacts": []
         },
         {
-            "title": "Alibaba, Baidu Accused by Pentagon of Aiding Chinese Military - Bloomberg.com",
+            "title": "Dear Nvidia Stock Fans, Mark Your Calendars for June 11 - Barchart.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8250550627708435,
+            "score": 0.9567195773124695,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "NAR Existing-Home Sales Report Shows 3.2% Increase in May - National Association of REALTORS\u00ae",
+            "sentiment": "NEGATIVE",
+            "score": 0.9391290545463562,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "US carriers spent $6.5B on fuel in April; global profit forecast is cut nearly in half - AP News",
+            "title": "Audi's Mid-Size SUV Gets A Major Overhaul For 2027 - Motor1.com",
+            "sentiment": "POSITIVE",
+            "score": 0.720016598701477,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "McDonald's Worker: 'Why Would He Do This to Me?' - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.8653228282928467,
+            "score": 0.9094545841217041,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon employees ask Seattle to put the brakes on new data centers - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.8213517069816589,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Oregon Releases Provisional 2027 Health Insurance Prices and They\u2019re Not Pretty - Willamette Week",
+            "sentiment": "POSITIVE",
+            "score": 0.9143458008766174,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Spring Break a bust for Vail earnings, especially in Colorado - Colorado Public Radio",
+            "sentiment": "NEGATIVE",
+            "score": 0.9734258055686951,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
