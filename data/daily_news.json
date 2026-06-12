@@ -1,17 +1,87 @@
 {
-    "last_updated": "2026-06-12 16:29:18 UTC",
-    "total_articles": 15,
-    "bullish_articles": 4,
-    "bearish_articles": 11,
+    "last_updated": "2026-06-12 19:07:52 UTC",
+    "total_articles": 19,
+    "bullish_articles": 5,
+    "bearish_articles": 14,
     "articles": [
         {
-            "title": "Oracle Shares Tumble Amid Pricey Data-Center Build-Out - WSJ",
+            "title": "Musk\u2019s Net Worth Down More Than $50 Billion Ahead Of SpaceX IPO - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.8943548798561096,
+            "score": 0.962652325630188,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Stocks rebound, fueled by chip stocks, but gains limited on new Trump Iran threat: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.965671181678772,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Russell 2000 Leads Upside Ahead Of SpaceX IPO; AI Stocks Rally (Live Coverage) - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9436743259429932,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Exclusive | SpaceX IPO Draws At Least $5 Billion Order from BlackRock - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8601836562156677,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Dow, S&P 500 and Nasdaq rise after latest wholesale inflation data and as tech sector rebounds ahead of SpaceX IPO; Oracle shares slide after earnings results; U.S. and Iran exchange strikes for second day - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9270205497741699,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why These 3 Analysts Say Oracle\u2019s Post-Earnings Stock Slump Is a Buying Opportunity - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9495111107826233,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "A Google director resigned over the company's military deals: 'management has lost its moral compass' - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9408511519432068,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "SpaceX IPO Draws More Than $70 Billion in Retail Orders - Bloomberg.com",
@@ -23,9 +93,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "ECB hikes interest rates for first time since 2023 as Iran war ramps-up energy costs - CNBC",
+            "title": "ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9278679490089417,
+            "score": 0.9272177815437317,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -34,7 +104,7 @@
         {
             "title": "Dana Incorporated Announces Agreement to Combine with Eaton's Mobility Business, Strengthens Dana's Position as a Leading Global Powertrain Systems Provider - Dana Incorporated",
             "sentiment": "POSITIVE",
-            "score": 0.9387763738632202,
+            "score": 0.9401963949203491,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -44,6 +114,15 @@
             "title": "Gold sinks to 6-month low as speculative investors exit - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9597854018211365,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "People Living Near xAI\u2019s Dirty Data Centers Are Pissed About the SpaceX IPO - WIRED",
+            "sentiment": "NEGATIVE",
+            "score": 0.8857883810997009,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -68,31 +147,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ - CNBC",
+            "title": "Justice Department opens sweeping 'debanking' probe into JPMorgan, Bank of America and more - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9511864185333252,
+            "score": 0.8989667296409607,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic's Amodei suggests universal basic income could offset 'intrinsic' AI-related job losses - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9169650673866272,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Supermicro Stock Tumbles On Financing Deals To Fund AI Orders - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9730337858200073,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "JPM",
+                "BAC"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "BAC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Stocks sink amid escalating tensions with Iran, chips stocks\u2019 continued slide - Sherwood News",
@@ -130,27 +205,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Amazon's Early Prime Day Deals Expand With New Sales on Desktop NAS and More - MacRumors",
+            "title": "Trump's Iran War Fuels Skyrocketing Airfare: Data Shows 30% Increase In Five Months - One Mile at a Time",
             "sentiment": "POSITIVE",
-            "score": 0.8594695329666138,
+            "score": 0.9428562521934509,
             "signal": "BULLISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "America\u2019s emergency oil reserve is about to hit its lowest level since Reagan was in office - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9431610107421875,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
