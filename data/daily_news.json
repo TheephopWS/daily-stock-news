@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-06-11 22:06:47 UTC",
-    "total_articles": 13,
-    "bullish_articles": 7,
-    "bearish_articles": 6,
+    "last_updated": "2026-06-12 01:32:16 UTC",
+    "total_articles": 8,
+    "bullish_articles": 3,
+    "bearish_articles": 5,
     "articles": [
         {
-            "title": "Oracle Reports Higher-Than-Expected Data Center Spending - Bloomberg",
+            "title": "Stock futures slip after U.S. launches additional strikes against Iran, oil rises: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9681987762451172,
+            "score": 0.9682039618492126,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX Leaves Some Banks Peeved at Junior Roles in IPO Lineup - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9228644371032715,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,52 +25,42 @@
         {
             "title": "OPM awards major HR IT modernization contract to Oracle - Federal News Network",
             "sentiment": "POSITIVE",
-            "score": 0.8680972456932068,
+            "score": 0.8680973649024963,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Commercial real estate saw record lending competition in April, according to JLL - CNBC",
+            "title": "Analysts expected oil to surge above $200 but China has quietly kept prices half of that\u2014and can\u2019t for much longer - Fortune",
             "sentiment": "POSITIVE",
-            "score": 0.9530820846557617,
+            "score": 0.8803600072860718,
             "signal": "BULLISH",
-            "tickers": [],
+            "tickers": [
+                "JPM"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Honda recalls more than 880,000 vehicles for suspension issue that could cause crashes - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9584062695503235,
+            "score": 0.958406388759613,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "U.S. Oil Inventories Continue Slide as Refiners Boost Runs - Crude Oil Prices Today | OilPrice.com",
+            "title": "Brit workers waste nearly six hours a week 'botsitting' - The Register",
             "sentiment": "NEGATIVE",
-            "score": 0.9736990332603455,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Cracker Barrel Jumps Into A Short Squeeze On Upgrade, Target Hikes - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.7315587401390076,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "BYD threatens to sue Trump administration over Pentagon military list - Electrek",
-            "sentiment": "NEGATIVE",
-            "score": 0.9592747092247009,
+            "score": 0.7781394720077515,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -70,64 +69,20 @@
         {
             "title": "Cancer-focused Parabilis\u2019 upsized $670M IPO breaks new record for biotechs - Fierce Biotech",
             "sentiment": "POSITIVE",
-            "score": 0.9249557852745056,
+            "score": 0.9249559044837952,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Solar beats coal in the US electricity mix for the first month ever - Electrek",
-            "sentiment": "POSITIVE",
-            "score": 0.8001830577850342,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "New sunscreen ingredient wins FDA approval after years of delay - CBS News",
-            "sentiment": "POSITIVE",
-            "score": 0.8520961403846741,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Musk\u2019s xAI, SpaceX hit with class action over data center \u2018nuisance\u2019 - Yahoo Finance",
+            "title": "America\u2019s emergency oil reserve is about to hit its lowest level since Reagan was in office - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9594557285308838,
+            "score": 0.943161129951477,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Consumer Alert: Urgent Park Outside Warning Issued for 1 Million Jeeps - National Highway Traffic Safety Administration (.gov)",
-            "sentiment": "NEGATIVE",
-            "score": 0.9533427953720093,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "There is no AI boom without these workers. Meta just proved it. - Business Insider",
-            "sentiment": "POSITIVE",
-            "score": 0.8350570201873779,
-            "signal": "BULLISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
