@@ -1,31 +1,31 @@
 {
-    "last_updated": "2026-06-17 19:14:12 UTC",
-    "total_articles": 17,
-    "bullish_articles": 7,
-    "bearish_articles": 10,
+    "last_updated": "2026-06-17 22:06:19 UTC",
+    "total_articles": 27,
+    "bullish_articles": 8,
+    "bearish_articles": 19,
     "articles": [
         {
             "title": "Dow jumps 450 points as oil drop fuels economy bets; Chip rollover knocks Nasdaq: Live updates - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9317624568939209,
+            "score": 0.9317625761032104,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "General Motors announces new defense partnership with Lockheed Martin - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8901951313018799,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Antidepressant taken by millions recalled over possible contamination with cancer-causing chemical - New York Post",
+            "title": "Rivian cuts hundreds of workers after R2 deliveries start - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9488367438316345,
+            "score": 0.9443085193634033,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump's fight with Anthropic is now a fight over cybersecurity - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9344931840896606,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -34,16 +34,25 @@
         {
             "title": "Elon Musk could lose nearly $1 trillion and still be the world's richest person - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8220318555831909,
+            "score": 0.8220323920249939,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Exclusive | EV Startup Rivian Lays Off Hundreds of Workers - WSJ",
+            "title": "Trump Admin Wants to Make It Easier for White Men to Sue for Discrimination - The Intercept",
             "sentiment": "NEGATIVE",
-            "score": 0.9390424489974976,
+            "score": 0.8187458515167236,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Robinhood to Cut 10% of Workforce in Restructuring - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9671000838279724,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -52,11 +61,34 @@
         {
             "title": "Leaked financial docs show OpenAI is losing billions of dollars a year - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.8849257826805115,
+            "score": 0.9695708751678467,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia\u2019s Huang pledges AI will boost manufacturing jobs. A test will come in Texas - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.704233705997467,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "INTC"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Johnson & Johnson CEO credits Trump tax policy for $55B US investment push, including $1B in Florida - Fox Business",
@@ -94,9 +126,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Robinhood\u2019s note on 10% layoffs shows blaming AI isn\u2019t cutting it - TechCrunch",
+            "title": "Why NY\u2019s pied-\u00e0-terre tax could leave entire co-ops on hook for massive bills: \u2018Whole building suffers\u2019 - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9563663005828857,
+            "score": 0.7996081113815308,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -112,35 +144,35 @@
             "ticker_impacts": []
         },
         {
+            "title": "Mark Zuckerberg Orders His Employees to Start Having Fun Again After Brutal Layoffs Culled Their Colleagues - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.9674359560012817,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Micron Stock Rises Toward New High and Could Reach This Level - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9181798696517944,
+            "score": 0.918179988861084,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Why This AI Data Center Stock Is Surging 25% on an AMD Partnership - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9283201098442078,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMD"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Fast-food giant dethroned as customer study crowns America's new favorite restaurant chain - Fox News",
             "sentiment": "POSITIVE",
-            "score": 0.7892498970031738,
+            "score": 0.7892513275146484,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -156,18 +188,90 @@
             "ticker_impacts": []
         },
         {
-            "title": "Higher prices for gas, groceries and flights will likely outlast the Iran war - AP News",
+            "title": "How SoFi Went From Fintech Darling To Wall Street Pariah - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.858381450176239,
+            "score": 0.8746347427368164,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Brent oil dips below $80 per barrel for first time since March - CNBC",
+            "title": "Higher prices for gas, groceries and flights will likely outlast the Iran war - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9711619019508362,
+            "score": 0.8583816885948181,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Central banks repatriate gold as global insecurity rises - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.915468156337738,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China economy weakens further in May as retail sales post first drop in over three years - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9741331338882446,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Antidepressant recalled due to presence of potentially cancer-causing impurity - Yahoo",
+            "sentiment": "NEGATIVE",
+            "score": 0.7010715007781982,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Outdoor retailer to close 59 stores, including in Oregon, amid bankruptcy - OregonLive.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8037503361701965,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dermatologist explains benefits of newly approved sunscreen ingredient - PBS",
+            "sentiment": "POSITIVE",
+            "score": 0.8291978240013123,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "FDA Issues Warning to Maker of $1,700 Snoo Baby Bassinets - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9591580033302307,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "KFC launches new menu items and updated logo \u2014 establishes \u2018next chapter\u2019 in its global brand refresh - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.8465330004692078,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "10-year Treasury yield slides as Iran deal drives rethink on Fed interest rate hikes - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9722480773925781,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
