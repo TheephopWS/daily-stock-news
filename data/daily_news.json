@@ -1,26 +1,43 @@
 {
-    "last_updated": "2026-06-17 01:34:36 UTC",
-    "total_articles": 7,
+    "last_updated": "2026-06-17 05:05:39 UTC",
+    "total_articles": 9,
     "bullish_articles": 2,
-    "bearish_articles": 5,
+    "bearish_articles": 7,
     "articles": [
         {
-            "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5 - WIRED",
+            "title": "China retail sales sink for first time since Covid - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8604592084884644,
+            "score": 0.9658266305923462,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock futures are little changed after Dow posts new record close on potential U.S.-Iran deal: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7772127389907837,
-            "signal": "BULLISH",
+            "title": "Inside the fight over Claude Mythos 5 - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.9057814478874207,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Microsoft is resorting to its biggest cloud rival to deal with GitHub AI capacity issues - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9342554807662964,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Online portal used to send US deliveries to Cuba stops taking orders - AP News",
@@ -32,27 +49,52 @@
             "ticker_impacts": []
         },
         {
-            "title": "Average US petrol price falls below $4 on deal to reopen Strait of Hormuz - Financial Times",
+            "title": "US Oil Reserve Hits 43-Year Low as Trump Aims to Tame Prices - Bloomberg",
             "sentiment": "NEGATIVE",
-            "score": 0.9695143103599548,
+            "score": 0.9698021411895752,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX IPO raised $10bn more than thought - BBC",
+            "title": "Amazon strengthens its investment in Missouri to bring new community programs, new jobs, and hundreds of millions in tax revenue - About Amazon",
             "sentiment": "POSITIVE",
-            "score": 0.9468369483947754,
+            "score": 0.9094418287277222,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "US Oil Reserve Hits 43-Year Low as Trump Aims to Tame Prices - Bloomberg",
+            "title": "Salesforce acquires AI customer service platform Fin for $3.6B - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.7990754842758179,
+            "signal": "BULLISH",
+            "tickers": [
+                "CRM"
+            ],
+            "primary_ticker": "CRM",
+            "ticker_impacts": [
+                {
+                    "ticker": "CRM",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Starbucks Korea to close stores early for mandatory history training after marketing row - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9698021411895752,
+            "score": 0.9629992842674255,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
