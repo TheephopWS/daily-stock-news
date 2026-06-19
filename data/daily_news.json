@@ -1,25 +1,58 @@
 {
-    "last_updated": "2026-06-19 05:06:15 UTC",
-    "total_articles": 13,
-    "bullish_articles": 2,
+    "last_updated": "2026-06-19 08:18:11 UTC",
+    "total_articles": 12,
+    "bullish_articles": 1,
     "bearish_articles": 11,
     "articles": [
         {
-            "title": "Apple CEO says price hikes are \u2018unavoidable\u2019 as rising chip costs squeeze tech giant: report - Fox Business",
+            "title": "Stock futures rise as Fed hints at possible rate hike in 2026; Kospi hits over 9,000 for the first time: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9403733611106873,
+            "score": 0.9689517617225647,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "JPMorgan Chase cuts off Anthropic access for its Hong Kong staff - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9206021428108215,
             "signal": "BEARISH",
             "tickers": [
-                "AAPL"
+                "JPM",
+                "GS"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": "JPM",
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
+                    "ticker": "JPM",
                     "impact": "negative",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Oil falls as International Energy Agency forecasts supply glut next year after U.S.-Iran deal - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.967477023601532,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "State of Global Oil Inventories Ruins Iran Peace Optimism - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.931563675403595,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "The Korean Telecom Giant at the Center of Anthropic\u2019s Mythos Controversy - WIRED",
@@ -58,27 +91,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Fed 'dot plot': Almost half of FOMC members project at least one interest rate hike this year - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8387423753738403,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Three Infant Botulism Cases Linked to Recalled Baby Formula - Redheaded Blackbelt",
             "sentiment": "NEGATIVE",
             "score": 0.9523012042045593,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Iran War Has Rewired the Global Economy - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.8178229331970215,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -98,24 +113,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.8121827244758606,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "From supply shock to oil glut: IEA flags scale of demand destruction caused by Iran war - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9582217931747437,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "OpenAI Burned $3.7 Billion in First Three Months of 2026 - The Information",
-            "sentiment": "POSITIVE",
-            "score": 0.850143313407898,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
