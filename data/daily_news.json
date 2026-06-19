@@ -1,9 +1,26 @@
 {
-    "last_updated": "2026-06-19 08:18:11 UTC",
-    "total_articles": 12,
-    "bullish_articles": 1,
-    "bearish_articles": 11,
+    "last_updated": "2026-06-19 10:58:50 UTC",
+    "total_articles": 16,
+    "bullish_articles": 3,
+    "bearish_articles": 13,
     "articles": [
+        {
+            "title": "Tim Cook says iPhone price increase is 'unavoidable' - Mashable",
+            "sentiment": "NEGATIVE",
+            "score": 0.956463634967804,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
         {
             "title": "Stock futures rise as Fed hints at possible rate hike in 2026; Kospi hits over 9,000 for the first time: Live updates - CNBC",
             "sentiment": "NEGATIVE",
@@ -46,9 +63,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "State of Global Oil Inventories Ruins Iran Peace Optimism - Crude Oil Prices Today | OilPrice.com",
+            "title": "CME CEO Terrence Duffy says the exchange operator will sue CFTC over perpetual futures - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.931563675403595,
+            "score": 0.911457359790802,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -59,6 +76,32 @@
             "sentiment": "NEGATIVE",
             "score": 0.8918653130531311,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Netflix\u2019s Roku loss points to bigger streaming risk - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9434971809387207,
+            "signal": "BEARISH",
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Fed\u2019s Warsh Rocks Bond Market in Debut, Sparks Surge in Rate-Hike Bets - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7744482159614563,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -125,6 +168,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Among the large new rockets Amazon was counting on, only Europe has delivered - Ars Technica",
+            "sentiment": "POSITIVE",
+            "score": 0.914600133895874,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
