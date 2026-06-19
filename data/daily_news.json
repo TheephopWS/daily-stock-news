@@ -1,9 +1,128 @@
 {
-    "last_updated": "2026-06-19 10:58:50 UTC",
-    "total_articles": 16,
-    "bullish_articles": 3,
-    "bearish_articles": 13,
+    "last_updated": "2026-06-19 13:37:14 UTC",
+    "total_articles": 26,
+    "bullish_articles": 9,
+    "bearish_articles": 17,
     "articles": [
+        {
+            "title": "Stock futures rise as Wall Street tries to rebound from Fed-led sell-off; Intel leads chips higher: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9672703742980957,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Qantas to launch world's longest nonstop commercial flight between Sydney and London - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.7308954000473022,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Hollister partners with Target to tap into $89 billion back-to-college shopping market - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.854889988899231,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US Treasuries Rebound After Warsh\u2019s Debut at Fed Stoked Selloff - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9329699277877808,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Accenture to Strengthen Critical Infrastructure Defense with End-to-End Cybersecurity Platform in Age of AI-Driven Cyber Threats and Geopolitical Risk - Accenture",
+            "sentiment": "POSITIVE",
+            "score": 0.9296561479568481,
+            "signal": "BULLISH",
+            "tickers": [
+                "OT"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "OT",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Jeff Bezos Called Washington Post His Worst Investment and Staff He Laid Off 'Terrible' People - Gizmodo",
+            "sentiment": "NEGATIVE",
+            "score": 0.9496402144432068,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Eager to work, teens find a frustrating summer job search - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9667009115219116,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Intel Shares Soar After Trump Says It Struck Apple Chip Deal - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9264956116676331,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC",
+                "AAPL"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "EVs are winners in the Iran war. So is US oil. - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9388233423233032,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Tim Cook says iPhone price increase is 'unavoidable' - Mashable",
             "sentiment": "NEGATIVE",
@@ -22,36 +141,13 @@
             ]
         },
         {
-            "title": "Stock futures rise as Fed hints at possible rate hike in 2026; Kospi hits over 9,000 for the first time: Live updates - CNBC",
+            "title": "Should You Buy SpaceX Stock This Week or Wait for the Hype to Die Down? - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.9689517617225647,
+            "score": 0.9033306837081909,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "JPMorgan Chase cuts off Anthropic access for its Hong Kong staff - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9206021428108215,
-            "signal": "BEARISH",
-            "tickers": [
-                "JPM",
-                "GS"
-            ],
-            "primary_ticker": "JPM",
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GS",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Oil falls as International Energy Agency forecasts supply glut next year after U.S.-Iran deal - CNBC",
@@ -72,6 +168,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "State of Global Oil Inventories Ruins Iran Peace Optimism - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.931563675403595,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "The Korean Telecom Giant at the Center of Anthropic\u2019s Mythos Controversy - WIRED",
             "sentiment": "NEGATIVE",
             "score": 0.8918653130531311,
@@ -81,36 +186,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "Netflix\u2019s Roku loss points to bigger streaming risk - thestreet.com",
+            "title": "LaGuardia Airport runway 4/22 temporarily shut down after 'depression' found during inspection, officials say - ABC7 New York",
             "sentiment": "NEGATIVE",
-            "score": 0.9434971809387207,
+            "score": 0.9372056126594543,
             "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "Fed\u2019s Warsh Rocks Bond Market in Debut, Sparks Surge in Rate-Hike Bets - Bloomberg.com",
+            "title": "Cure for certain cancers is \u2018realistic\u2019 goal in next decade, pharma lead says - Fox News",
             "sentiment": "POSITIVE",
-            "score": 0.7744482159614563,
+            "score": 0.728573739528656,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX Shares Fall for First Time Since Blockbuster Debut - Yahoo Finance",
+            "title": "Intel, SpaceX, Robinhood, Carvana, and More Stocks That Explain Today\u2019s Market - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9753581881523132,
+            "score": 0.7746854424476624,
             "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Why Biotech Stocks Are Celebrating This Nail-Biter - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.8935147523880005,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -134,6 +248,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Just 16% of Americans Believe AI Will Positively Impact Society, Pew Poll Finds - Gizmodo",
+            "sentiment": "POSITIVE",
+            "score": 0.9421172142028809,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Three Infant Botulism Cases Linked to Recalled Baby Formula - Redheaded Blackbelt",
             "sentiment": "NEGATIVE",
             "score": 0.9523012042045593,
@@ -143,31 +266,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX Stock Continues Decline After Initial Spike - Futurism",
+            "title": "SpaceX Stock Continues Decline After Initial Spike - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9756308794021606,
+            "score": 0.9716690182685852,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "\"Truly evil\" FDA rejection of gene therapy overturned after Trump official ousted - Ars Technica",
+            "title": "Netflix's stock slide is getting worse - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8121827244758606,
+            "score": 0.9721306562423706,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX purchases Bay Area AI coding startup for $60 billion - SFGATE",
-            "sentiment": "POSITIVE",
-            "score": 0.9231247305870056,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Among the large new rockets Amazon was counting on, only Europe has delivered - Ars Technica",
