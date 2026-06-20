@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-06-20 07:43:03 UTC",
-    "total_articles": 20,
-    "bullish_articles": 8,
-    "bearish_articles": 12,
+    "last_updated": "2026-06-20 10:20:04 UTC",
+    "total_articles": 27,
+    "bullish_articles": 10,
+    "bearish_articles": 17,
     "articles": [
         {
             "title": "Asia markets fall as investors assess durability of U.S.-Iran peace deal - CNBC",
@@ -14,9 +14,32 @@
             "ticker_impacts": []
         },
         {
-            "title": "Woman sues New York McDonald\u2019s after \u2018unfit\u2019 sandwich caused injuries - NewsNation",
+            "title": "Apple to work with Intel on US chip design and production, Trump says - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.8814440965652466,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL",
+                "INTC"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "'Not the old sleepy agency\u2019: Energy regulator dives into fight over data center connections - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.9399372339248657,
+            "score": 0.8246946930885315,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -45,6 +68,15 @@
             "sentiment": "POSITIVE",
             "score": 0.9414194226264954,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Texas woman says a McMuffin changed her life. Now she\u2019s suing - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.9380929470062256,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -112,13 +144,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "White House talks with Anthropic shift to setting AI security rules - Politico",
-            "sentiment": "POSITIVE",
-            "score": 0.8130921721458435,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Amazon investigating engineers who criticized AI data center expansion - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8807821273803711,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips - TechCrunch",
@@ -126,27 +166,45 @@
             "score": 0.8142183423042297,
             "signal": "BULLISH",
             "tickers": [
-                "NVDA",
-                "AMZN"
+                "AMZN",
+                "NVDA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Gas prices fall below $4 a gallon for the first time in nearly 3 months - CBS News",
+            "title": "Paramount-Warner\u2019s \u2018Too Low\u2019 Deal Odds Leave Room for Arb Profit - Bloomberg",
+            "sentiment": "POSITIVE",
+            "score": 0.8899173140525818,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Study: Climate Risk to Data Centers Much Higher Than Thought - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.9735967516899109,
+            "score": 0.9183927178382874,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US gas prices dip below $4 for 1st time since March but remain 25% higher than last year - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9583331346511841,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -160,6 +218,32 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Oil Prices Fall to Lowest Since War Began After Trump Signs Iran Deal - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.8906210064888,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Accenture to Strengthen Critical Infrastructure Defense with End-to-End Cybersecurity Platform in Age of AI-Driven Cyber Threats and Geopolitical Risk - Accenture",
+            "sentiment": "POSITIVE",
+            "score": 0.9296561479568481,
+            "signal": "BULLISH",
+            "tickers": [
+                "OT"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "OT",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Eager to work, teens find a frustrating summer job search - AP News",
@@ -213,6 +297,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "California says AT&T lied to FCC in attempt to shut off old phone network - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.9109394550323486,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         }
     ]
 }
