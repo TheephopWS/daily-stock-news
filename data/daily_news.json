@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-06-20 15:57:36 UTC",
-    "total_articles": 28,
-    "bullish_articles": 8,
-    "bearish_articles": 20,
+    "last_updated": "2026-06-20 18:54:01 UTC",
+    "total_articles": 26,
+    "bullish_articles": 9,
+    "bearish_articles": 17,
     "articles": [
         {
             "title": "Income needed to afford a median-priced home has nearly doubled since 2020, report finds - Fox Business",
@@ -32,18 +32,53 @@
             "ticker_impacts": []
         },
         {
-            "title": "What's open and closed on Juneteenth 2026? Find out if banks, USPS and stores are operating. - CBS News",
+            "title": "Report: iPhone 18 Pro Could Start at $1,399 Amid Price Hikes - MacRumors",
+            "sentiment": "POSITIVE",
+            "score": 0.8661165237426758,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Weight-loss drugs linked to 'Ozempic ears' and other cosmetic complaints, surgeons say - Fox News",
             "sentiment": "NEGATIVE",
-            "score": 0.7911646962165833,
+            "score": 0.7108585834503174,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "US export ban on Anthropic\u2019s AI models further strains alliances - Al Jazeera",
+            "title": "MDA Space announces definitive agreement to acquire US-based Blue Canyon Technologies LLC - MDA Space",
+            "sentiment": "POSITIVE",
+            "score": 0.8650331497192383,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX stock sinks another 7%. The IPO honeymoon is over - qz.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9515379071235657,
+            "score": 0.9633290767669678,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "What's open and closed on Juneteenth 2026? Find out if banks, USPS and stores are operating. - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7911646962165833,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -57,29 +92,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Apple to work with Intel on US chip design and production, Trump says - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.8814440965652466,
-            "signal": "BULLISH",
-            "tickers": [
-                "AAPL",
-                "INTC"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "New First-of-Its-Kind Flu Vaccine Approved by FDA Expert Panel - ScienceAlert",
@@ -97,15 +109,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "The discount for student loan payers who enroll in autopay just went up - The Washington Post",
-            "sentiment": "POSITIVE",
-            "score": 0.9337364435195923,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "TSA sounds alarm after World Cup fans pack their bags with American staple - Fox News",
@@ -152,22 +155,30 @@
             ]
         },
         {
-            "title": "SpaceX Stock Plunges Despite Getting 2 Big Price Targets - Barron's",
+            "title": "Trump administration plans to spend $765 million to cancel 4 more wind farms \u2014 bringing the total to $2.6 billion - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9735842347145081,
+            "score": 0.8216310143470764,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Accenture Shares Sink 20% After Revenue Outlook Misses Expectations - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9727270007133484,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Accenture PLC (ACN) Q3 2026 Earnings Call Highlights: Strong Revenue Growth Amid Middle East ... - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9584698677062988,
+            "signal": "BULLISH",
+            "tickers": [
+                "ACN"
+            ],
+            "primary_ticker": "ACN",
+            "ticker_impacts": [
+                {
+                    "ticker": "ACN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Texas government data breach allowed hackers to steal 3 million driver's licenses and passports - TechCrunch",
@@ -214,28 +225,31 @@
             "ticker_impacts": []
         },
         {
-            "title": "Study: Climate Risk to Data Centers Much Higher Than Thought - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.9183927178382874,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SanDisk and Micron surge as Apple confirms memory price pass-through - Yahoo Finance",
+            "title": "Amazon in Talks to Sell Custom AI Chips in Bid to Undercut Nvidia - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9472411870956421,
+            "score": 0.8026353716850281,
             "signal": "BULLISH",
             "tickers": [
-                "AAPL"
+                "AMZN",
+                "NVDA",
+                "INTC"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
+                    "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -243,15 +257,6 @@
             "title": "Gas prices fall below $4 a gallon for the first time in nearly 3 months - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.9735967516899109,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Woman sues New York McDonald\u2019s after \u2018unfit\u2019 sandwich caused injuries - NewsNation",
-            "sentiment": "NEGATIVE",
-            "score": 0.9399372339248657,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -292,23 +297,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Netflix\u2019s Roku loss points to bigger streaming risk - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9552854299545288,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
