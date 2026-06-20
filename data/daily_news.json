@@ -1,13 +1,85 @@
 {
-    "last_updated": "2026-06-20 18:54:01 UTC",
-    "total_articles": 26,
-    "bullish_articles": 9,
-    "bearish_articles": 17,
+    "last_updated": "2026-06-20 21:51:12 UTC",
+    "total_articles": 34,
+    "bullish_articles": 10,
+    "bearish_articles": 24,
     "articles": [
+        {
+            "title": "Kroger\u2019s new CEO reveals the chain\u2019s biggest problems - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9377964735031128,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Ground Beef Now Costs More Per Pound Than Federal Minimum Wage - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.7725132703781128,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "World\u2019s largest meat supplier shuts two plants \u2014 and it\u2019s bad news for beef lovers - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9677928686141968,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9105253219604492,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mortgage rates fall to lowest level in over a month as Iran deal framework takes shape - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9764469861984253,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX stock price drops after Cursor purchase. How low could it go? - Mashable",
+            "sentiment": "NEGATIVE",
+            "score": 0.9589575529098511,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices - The Hacker News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9372551441192627,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Income needed to afford a median-priced home has nearly doubled since 2020, report finds - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9700680375099182,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Schwebel Baking Co. to wind down operations, liquidate its business - WPXI",
+            "sentiment": "NEGATIVE",
+            "score": 0.8953143358230591,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,6 +104,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "US Tells ASML It\u2019s Concerned China May Have Top Chip Tool - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.912720799446106,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Report: iPhone 18 Pro Could Start at $1,399 Amid Price Hikes - MacRumors",
             "sentiment": "POSITIVE",
             "score": 0.8661165237426758,
@@ -49,28 +130,10 @@
             ]
         },
         {
-            "title": "Weight-loss drugs linked to 'Ozempic ears' and other cosmetic complaints, surgeons say - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7108585834503174,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "MDA Space announces definitive agreement to acquire US-based Blue Canyon Technologies LLC - MDA Space",
             "sentiment": "POSITIVE",
             "score": 0.8650331497192383,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX stock sinks another 7%. The IPO honeymoon is over - qz.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9633290767669678,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -85,9 +148,41 @@
             "ticker_impacts": []
         },
         {
-            "title": "Asia markets fall as investors assess durability of U.S.-Iran peace deal - CNBC",
+            "title": "U.S.-Iran talks postponed; oil on pace for weekly decline - what\u2019s moving markets - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9564047455787659,
+            "score": 0.9695157408714294,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Apple to work with Intel on US chip design and production, Trump says - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.8814440965652466,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL",
+                "INTC"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Gas prices fall below $4 per gallon as oil loses steam - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9072444438934326,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -111,15 +206,6 @@
             ]
         },
         {
-            "title": "TSA sounds alarm after World Cup fans pack their bags with American staple - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8748294115066528,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Japan core inflation holds steady in May, matching expectations despite energy price concerns - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.9414194226264954,
@@ -129,30 +215,31 @@
             "ticker_impacts": []
         },
         {
-            "title": "Elon Musk\u2019s SpaceX plots $20bn bond deal after record IPO - Financial Times",
+            "title": "MBTA boss Phillip Eng accused of pulling employee's hair - WCVB",
+            "sentiment": "NEGATIVE",
+            "score": 0.8993375897407532,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US to Fast-Track Grid Connections for AI Data Centers - Bloomberg",
             "sentiment": "POSITIVE",
-            "score": 0.7410728931427002,
+            "score": 0.7808105945587158,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Nasdaq, Russell 2000 Pace Rebound; SpaceX Slumps 24% Off Its Peak - Investor's Business Daily",
+            "title": "SpaceX Stock Plunges Despite Getting 2 Big Price Targets - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9569501876831055,
+            "score": 0.9735842347145081,
             "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Trump administration plans to spend $765 million to cancel 4 more wind farms \u2014 bringing the total to $2.6 billion - Yahoo Finance",
@@ -181,6 +268,29 @@
             ]
         },
         {
+            "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.8142183423042297,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "AMZN"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Texas government data breach allowed hackers to steal 3 million driver's licenses and passports - TechCrunch",
             "sentiment": "NEGATIVE",
             "score": 0.9457468390464783,
@@ -190,10 +300,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Paramount-Warner\u2019s \u2018Too Low\u2019 Deal Odds Leave Room for Arb Profit - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.8899173140525818,
-            "signal": "BULLISH",
+            "title": "US weekly jobless claims stay elevated amid seasonal volatility, but labor market stable - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9610505104064941,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -225,38 +335,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Amazon in Talks to Sell Custom AI Chips in Bid to Undercut Nvidia - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8026353716850281,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN",
-                "NVDA",
-                "INTC"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Gas prices fall below $4 a gallon for the first time in nearly 3 months - CBS News",
+            "title": "Tech Workers Who Don\u2019t Embrace AI Face Triple the Layoff Risk, Gallup Finds - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9735967516899109,
+            "score": 0.9657738208770752,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -272,27 +353,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "The Department of War's Office of Strategic Capital Signs $725 Million Conditional Loan Co - U.S. Department of War (.gov)",
+            "sentiment": "POSITIVE",
+            "score": 0.8956992626190186,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "EVs are winners in the Iran war. So is US oil. - Politico",
             "sentiment": "NEGATIVE",
             "score": 0.9388233423233032,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "New infant botulism outbreak puts fancy formulas under scrutiny - statnews.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9029918909072876,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "CME CEO Terrence Duffy says the exchange operator will sue CFTC over perpetual futures - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.911457359790802,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
