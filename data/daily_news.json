@@ -1,22 +1,31 @@
 {
-    "last_updated": "2026-06-21 18:56:47 UTC",
-    "total_articles": 22,
+    "last_updated": "2026-06-21 21:53:07 UTC",
+    "total_articles": 17,
     "bullish_articles": 3,
-    "bearish_articles": 19,
+    "bearish_articles": 14,
     "articles": [
         {
-            "title": "One of the 'Most Marginalized' Groups Can't Find Summer Jobs - Newser",
+            "title": "Comically small NJ home listed for $500K\u2014as seller tries to capitalize on \u2018extremely low inventory\u2019 - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9623550176620483,
+            "score": 0.7882767915725708,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Kroger\u2019s new CEO reveals the chain\u2019s biggest problems - thestreet.com",
+            "title": "Popular sporting goods store chain files Chapter 11 bankruptcy - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9377964735031128,
+            "score": 0.9540008902549744,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "One of the 'Most Marginalized' Groups Can't Find Summer Jobs - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.9623550176620483,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -41,40 +50,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Latest Type of Mail Fraud Is Actually an Old-School Scam - Newser",
+            "title": "Why odds of SpaceX merger with Tesla keep climbing every time the stock shoots up - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.8721259236335754,
+            "score": 0.8936147093772888,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "GOP bullish on political impact for Republicans of Trump MOU with Iran - The Hill",
-            "sentiment": "NEGATIVE",
-            "score": 0.9095977544784546,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9105253219604492,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "M&M's maker scrapping two iconic colors amid push to remove artificial dyes, reports say - kare11.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7735694646835327,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Stocks Stall as Iran Nuclear Talks Hit Early Snag: Markets Wrap - Yahoo Finance",
@@ -95,9 +85,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "TSA issues warning as ranch dressing causes issues at airports - KCTV",
+            "title": "Popular antidepressant recalled over high levels of a cancer-causing compound - NBC New York",
             "sentiment": "NEGATIVE",
-            "score": 0.768714427947998,
+            "score": 0.8273924589157104,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -130,6 +120,32 @@
             ]
         },
         {
+            "title": "MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market - SpaceNews",
+            "sentiment": "POSITIVE",
+            "score": 0.7708386182785034,
+            "signal": "BULLISH",
+            "tickers": [
+                "BCT"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "BCT",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Aviation officials turn to AI for combating runway issues - Politico",
+            "sentiment": "POSITIVE",
+            "score": 0.8185247182846069,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices - The Hacker News",
             "sentiment": "NEGATIVE",
             "score": 0.9372551441192627,
@@ -139,19 +155,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Income needed to afford a median-priced home has nearly doubled since 2020, report finds - Fox Business",
+            "title": "US Tells ASML It\u2019s Concerned China May Have Top Chip Tool - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9700680375099182,
+            "score": 0.912720799446106,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How SpaceX benefits from its Cursor acquisition - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9435219168663025,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -164,46 +171,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Goldman Sachs Lops $500 Off Gold Target on No Fed Cuts This Year - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.9573197364807129,
-            "signal": "BEARISH",
-            "tickers": [
-                "GS"
-            ],
-            "primary_ticker": "GS",
-            "ticker_impacts": [
-                {
-                    "ticker": "GS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Apple to work with Intel on US chip design and production, Trump says - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.8814440965652466,
-            "signal": "BULLISH",
-            "tickers": [
-                "AAPL",
-                "INTC"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "New First-of-Its-Kind Flu Vaccine Approved by FDA Expert Panel - ScienceAlert",
@@ -219,40 +186,6 @@
                     "ticker": "AP",
                     "impact": "positive",
                     "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Meta faces calls for Congress to probe scam ads targeting seniors - Live Updates - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.930046021938324,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Amazon investigating engineers who criticized AI data center expansion - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8807821273803711,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
                 }
             ]
         }
