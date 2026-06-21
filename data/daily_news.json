@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-06-21 01:35:10 UTC",
-    "total_articles": 27,
-    "bullish_articles": 8,
-    "bearish_articles": 19,
+    "last_updated": "2026-06-21 05:06:41 UTC",
+    "total_articles": 30,
+    "bullish_articles": 7,
+    "bearish_articles": 23,
     "articles": [
+        {
+            "title": "M&M's maker scrapping two iconic colors amid push to remove artificial dyes, reports say - KING5.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7604213356971741,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Kroger\u2019s new CEO reveals the chain\u2019s biggest problems - thestreet.com",
             "sentiment": "NEGATIVE",
@@ -41,6 +50,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "TSA issues warning as ranch dressing causes issues at airports - KCTV",
+            "sentiment": "NEGATIVE",
+            "score": 0.768714427947998,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Mortgage rates fall to lowest level in over a month as Iran deal framework takes shape - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9764469861984253,
@@ -50,9 +68,35 @@
             "ticker_impacts": []
         },
         {
+            "title": "Elon Musk says this part of Tesla \u2018makes no sense\u2019 - Teslarati",
+            "sentiment": "NEGATIVE",
+            "score": 0.7800025343894958,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "SpaceX stock price drops after Cursor purchase. How low could it go? - Mashable",
             "sentiment": "NEGATIVE",
             "score": 0.9589575529098511,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices - The Hacker News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9372551441192627,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -77,19 +121,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron Stock Faces Tough Earnings Test. What History Says Happens Next. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9605771899223328,
-            "signal": "BEARISH",
+            "title": "How SpaceX benefits from its Cursor acquisition - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9435219168663025,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "One in three adults under 35 lives with parents as housing costs soar, data shows - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.8740188479423523,
-            "signal": "BULLISH",
+            "title": "Micron Stock Faces Tough Earnings Test. What History Says Happens Next. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9605771899223328,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -119,6 +163,32 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "World shares are mixed and US futures fall after a tech-led rally on Wall St - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9618554711341858,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gold Set for Third Weekly Loss as Fed Rate Outlook Supports Dollar - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9633774161338806,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "What's open and closed on Juneteenth 2026? Find out if banks, USPS and stores are operating. - CBS News",
@@ -153,18 +223,18 @@
             "score": 0.8814440965652466,
             "signal": "BULLISH",
             "tickers": [
-                "INTC",
-                "AAPL"
+                "AAPL",
+                "INTC"
             ],
-            "primary_ticker": "INTC",
+            "primary_ticker": "AAPL",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "AAPL",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AAPL",
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -197,10 +267,10 @@
             ]
         },
         {
-            "title": "Japan core inflation holds steady in May, matching expectations despite energy price concerns - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9414194226264954,
-            "signal": "BULLISH",
+            "title": "'Not the old sleepy agency\u2019: Energy regulator dives into fight over data center connections - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.8246946930885315,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -219,24 +289,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9261884093284607,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US to Fast-Track Grid Connections for AI Data Centers - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.7808105945587158,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX Stock Plunges Despite Getting 2 Big Price Targets - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9735842347145081,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -268,30 +320,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tech Workers Who Don\u2019t Embrace AI Face Triple the Layoff Risk, Gallup Finds - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9657738208770752,
-            "signal": "BEARISH",
+            "title": "Hollister partners with Target to tap into $89 billion back-to-college shopping market - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.854889988899231,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Accenture\u2019s Outlook Disappoints in Uncertain Consultancy Market - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9680824875831604,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         }
     ]
 }
