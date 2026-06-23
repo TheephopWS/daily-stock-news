@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-06-23 16:15:03 UTC",
-    "total_articles": 31,
+    "last_updated": "2026-06-23 19:08:41 UTC",
+    "total_articles": 29,
     "bullish_articles": 10,
-    "bearish_articles": 21,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "US stocks drift near their records in mixed trading after oil prices fall - AP News",
+            "title": "Stock Market Today: Dow rises 200 points, S&P 500 and Nasdaq fall as U.S. oil prices drop below $74 a barrel after Treasury allows Iran oil sales for 60 days - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9729886651039124,
+            "score": 0.9366880059242249,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -31,19 +31,42 @@
             ]
         },
         {
-            "title": "Dead endangered whale discovered on bow of cruise ship in Alaska dock - USA Today",
+            "title": "SpaceX stock falls third day as post-IPO rally fades - qz.com",
             "sentiment": "NEGATIVE",
-            "score": 0.740494430065155,
+            "score": 0.9750319123268127,
             "signal": "BEARISH",
+            "tickers": [
+                "MSFT",
+                "AMZN"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "FDA to launch pilot program to speed up early-stage clinical trials - statnews.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8912414908409119,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oil Declines After US-Iran Deal Progress, Sanctions Waiver - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8583097457885742,
-            "signal": "BULLISH",
+            "title": "Dead endangered whale discovered on bow of cruise ship in Alaska dock - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.740494430065155,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -62,6 +85,23 @@
                     "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Florida Walmart cashier swiped $2,700 winning lottery ticket from elderly customer: cops - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8420262336730957,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
@@ -92,28 +132,65 @@
             "ticker_impacts": []
         },
         {
-            "title": "Lucid to lay off roughly 18% of U.S. workforce, COO Marc Winterhoff leaves - CNBC",
+            "title": "Lucid Motors\u2019 new CEO cuts 18% of staff to \u2018simplify the company\u2019 - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9641655683517456,
+            "score": 0.9477026462554932,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stocks Relatively Muted After Tense U.S.-Iran Talks - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9023993611335754,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Google Backs $3.2B AI Chip Push Against Nvidia - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.7633064389228821,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL",
+                "NVDA"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "GE Vernova Supplier Soars After $8.5 Billion Sale To CRH - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9552685618400574,
-            "signal": "BEARISH",
+            "title": "Microsoft and Chevron Sign 20-Year Power Deal For Texas Data Center - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9060291051864624,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT",
+                "CVX"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "CVX",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Micron stock surges amid memory trade boom - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9432520270347595,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -128,32 +205,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Chevron to fuel massive Microsoft data center in Texas using natural gas - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7787095904350281,
-            "signal": "BULLISH",
-            "tickers": [
-                "CVX",
-                "MSFT"
-            ],
-            "primary_ticker": "CVX",
-            "ticker_impacts": [
-                {
-                    "ticker": "CVX",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Blood pressure medication recalled for potential ineffectiveness - WSFA",
+            "title": "Blood pressure medication recalled for potential ineffectiveness - KCTV",
             "sentiment": "NEGATIVE",
-            "score": 0.9538540840148926,
+            "score": 0.9484344720840454,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -178,51 +232,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Intel, Micron, SpaceX, Apogee Therapeutics, and More Stocks That Explain Today\u2019s Market - Barron's",
+            "title": "Definium\u2019s LSD formula produces \u2018best data ever seen\u2019 in a pivotal depression trial, CEO says - Fierce Biotech",
             "sentiment": "NEGATIVE",
-            "score": 0.9484913945198059,
+            "score": 0.9546241760253906,
             "signal": "BEARISH",
-            "tickers": [
-                "INTC",
-                "GOOGL"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Getty Images Soars 200% in Early Trading After OpenAI Deal - Bloomberg.com",
             "sentiment": "POSITIVE",
             "score": 0.9357522130012512,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX stock falls 9%, pacing for third-straight day of losses after red-hot IPO start - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9724712371826172,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gold Falls As Traders Weigh U.S.-Iran Progress, Hawkish Fed Signals - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8479372262954712,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -272,9 +294,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Jets were 300 feet apart in Boston close call that forced Delta flight to abort landing, expert says - PBS",
+            "title": "Market News From June 21: Futures Fall, Oil Jumps - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.8344841003417969,
+            "score": 0.9545207619667053,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -299,10 +321,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Soaring Profits in EM Build the Case for a Raging Bull Market - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.9037138223648071,
-            "signal": "BULLISH",
+            "title": "Degree Holder With Experience Gets Rejected for Server Gig - The Mary Sue",
+            "sentiment": "NEGATIVE",
+            "score": 0.8699163794517517,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -328,24 +350,6 @@
             "title": "Yet Another Piece of AI-Pilled Speculative Fiction Has Gone Dangerously Viral - Gizmodo",
             "sentiment": "NEGATIVE",
             "score": 0.7934882640838623,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "$47M Buc-ee's nears opening in new Texas Hill Country spot as new sign appears - Yahoo",
-            "sentiment": "POSITIVE",
-            "score": 0.9038960337638855,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "One of the 'Most Marginalized' Groups Can't Find Summer Jobs - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.9623550176620483,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
