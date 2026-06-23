@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-06-23 04:46:42 UTC",
-    "total_articles": 25,
-    "bullish_articles": 2,
-    "bearish_articles": 23,
+    "last_updated": "2026-06-23 07:39:40 UTC",
+    "total_articles": 21,
+    "bullish_articles": 3,
+    "bearish_articles": 18,
     "articles": [
+        {
+            "title": "Dow futures drop as first day of US-Iran talks sees Trump threaten Tehran on Hormuz - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9585858583450317,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Stock futures fall as investors weigh Iran deal progress and await key reading on inflation: Live updates - CNBC",
             "sentiment": "NEGATIVE",
@@ -41,15 +50,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Morgan Stanley says homebuyers face a harsh reset - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9247624278068542,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Ford City Mall closes by June 22 after city of Chicago files emergency motion over fire suppression system concerns, judge's order - ABC7 Chicago",
             "sentiment": "NEGATIVE",
             "score": 0.9536280035972595,
@@ -68,6 +68,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Most Married Parents Now Work Full Time - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.82135009765625,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "GM replaces more than 1,000 workers with 50 robots at flagship Detroit plant: \u2018We\u2019re disgusted\u2019 - New York Post",
             "sentiment": "NEGATIVE",
             "score": 0.8248918056488037,
@@ -77,30 +86,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Ken Griffin fires back at Mamdani, says business leaders must 'fight for their city' - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9505003690719604,
-            "signal": "BEARISH",
+            "title": "Trump says Intel will make chips for Apple in a major win for U.S. manufacturing - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9357787370681763,
+            "signal": "BULLISH",
             "tickers": [
-                "AMD"
+                "AAPL",
+                "INTC"
             ],
-            "primary_ticker": "AMD",
+            "primary_ticker": "AAPL",
             "ticker_impacts": [
                 {
-                    "ticker": "AMD",
-                    "impact": "negative",
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Kevin Warsh\u2019s push to axe Fed guidance may lift US borrowing costs, investors warn - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8680927753448486,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Former Florida hospital CEO accused of funneling $14M for \u2018lavish lifestyle\u2019 - Tampa Bay Times",
@@ -121,45 +127,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Soaring Profits in EM Build the Case for a Raging Bull Market - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.9037138223648071,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How Fed Chairman Kevin Warsh just screwed AI tech beasts - Yahoo Finance",
+            "title": "Micron Must Do This on June 24, or Its Stock Could Crash - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.8813890814781189,
+            "score": 0.9451811909675598,
             "signal": "BEARISH",
             "tickers": [
-                "AAPL"
+                "INTC"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Bread sold by major retailer recalled for presence of 'oily and sticky substance' - WKRC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9591741561889648,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'Running off the cliff': An explosion of household debt has put the US economy in a tough spot - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9637871980667114,
-            "signal": "BEARISH",
+            "title": "Soaring Profits in EM Build the Case for a Raging Bull Market - Bloomberg",
+            "sentiment": "POSITIVE",
+            "score": 0.9037138223648071,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -191,6 +179,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "\u2018It would do very well:\u2019 DeSantis agrees Buc-ee\u2019s should open new spot at this Florida junction - WKMG",
+            "sentiment": "POSITIVE",
+            "score": 0.8640462160110474,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Waymo recall impacts nearly 4K self-driving vehicles. Here's why - WESH",
             "sentiment": "NEGATIVE",
             "score": 0.9202742576599121,
@@ -209,15 +206,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "The initial SpaceX frenzy is cooling off \u2014 but a new wave of cash is waiting to strike - MarketWatch",
-            "sentiment": "POSITIVE",
-            "score": 0.9456675052642822,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "One of the 'Most Marginalized' Groups Can't Find Summer Jobs - Newser",
             "sentiment": "NEGATIVE",
             "score": 0.9623550176620483,
@@ -227,27 +215,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dem senators urge FCC to pause Paramount-Warner Bros Discovery merger over foreign investor concerns - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.8588545918464661,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "A Hidden Gas Price Spike Is Coming \u2014 and It Has Nothing to Do With Iran - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
             "score": 0.9485499858856201,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Prime Day dropped this robot vacuum-mop to its lowest price since release - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.744786262512207,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
