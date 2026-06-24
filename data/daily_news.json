@@ -1,13 +1,49 @@
 {
-    "last_updated": "2026-06-24 19:01:46 UTC",
-    "total_articles": 17,
-    "bullish_articles": 7,
-    "bearish_articles": 10,
+    "last_updated": "2026-06-24 21:53:45 UTC",
+    "total_articles": 28,
+    "bullish_articles": 10,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Infleqtion, IBM, and Other Quantum Stocks Defy the Tech Selloff - Barron's",
+            "title": "SpaceX stock dips below $150 debut before rebounding - Yahoo! Finance Canada",
+            "sentiment": "NEGATIVE",
+            "score": 0.9573147296905518,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Is AI 'one big bubble?' Behind the tech selloff - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.93982994556427,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX raises $25 billion in debt sale less than two weeks after IPO - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9399486184120178,
+            "score": 0.8824310898780823,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "MTA chair calls Amtrak's Penn Station plan 'bizarre,' declines to join as partner - Gothamist",
+            "sentiment": "NEGATIVE",
+            "score": 0.9386628270149231,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Americans are warming up to homebuying for the first time in 3 years - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8757725358009338,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -31,6 +67,15 @@
             ]
         },
         {
+            "title": "Sangamo to put \u2018substantially all\u2019 assets for sale in bankruptcy, lines up Lilly and Astellas as buyers - Fierce Biotech",
+            "sentiment": "NEGATIVE",
+            "score": 0.8592568039894104,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Factory job cuts in June neared financial crisis and Covid levels, S&P says - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.8248112797737122,
@@ -40,22 +85,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX stock dips below $150 before rebounding - Yahoo Finance",
+            "title": "Gold and silver tumble as rate-hike fears hit precious metals - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9434251189231873,
+            "score": 0.9707316756248474,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump administration to loan $17 billion to speed deployment of 10 big nuclear reactors in U.S. - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8033021688461304,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "AI on pace to bypass cybersecurity systems in months, not years, \"Five Eyes\" spy partners warn - CBS News",
@@ -75,19 +119,39 @@
             ]
         },
         {
+            "title": "Walmart to Acquire Vibe.co to Expand Access to Connected TV Advertising - Walmart",
+            "sentiment": "POSITIVE",
+            "score": 0.901517927646637,
+            "signal": "BULLISH",
+            "tickers": [
+                "WMT",
+                "SMB",
+                "CTV"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "SMB",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "CTV",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Bath & Body Works expands beyond malls with Ulta Beauty partnership, revives fan-favorite scent - Fox Business",
             "sentiment": "POSITIVE",
             "score": 0.8498510122299194,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Wall Street is getting trampled by an AI sell-off. South Korean market plunges 10% - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9630194306373596,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -102,10 +166,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants - CNBC",
+            "title": "Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9065731167793274,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9701384902000427,
+            "score": 0.9687256217002869,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Energy Fuels Announces Definitive Agreement to Acquire VAC for $1.9 Billion Equity Value - Energy Fuels",
+            "sentiment": "POSITIVE",
+            "score": 0.9270064234733582,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -120,9 +202,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "S&P 500 futures are little changed after tech sell-off drags down broad market index: Live updates - CNBC",
+            "title": "Stock market today: Dow, S&P 500, Nasdaq futures dive as tech sell-off outweighs Iran deal progress - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9685531854629517,
+            "score": 0.9603052139282227,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil Prices Choppy Amid Mixed Signals From U.S.-Iran Peace Talks - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.894142210483551,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -138,9 +229,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX Just Launched Its First Bond Sale. The Stock Market Doesn\u2019t Like It. - Barron's",
+            "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak - WIRED",
             "sentiment": "NEGATIVE",
-            "score": 0.9718522429466248,
+            "score": 0.9631235599517822,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Trump Education Department to shift 7.5M off unlawful Biden student loan repayment plan - nypost.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9404435753822327,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -170,6 +278,15 @@
             ]
         },
         {
+            "title": "Popular Frozen Foods Recalled Nationwide Due to Plastic Contamination - EatingWell",
+            "sentiment": "NEGATIVE",
+            "score": 0.8596914410591125,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "HHS Launches Unprecedented Department-Wide Effort to Restore American Leadership in Clinical Trials - HHS.gov",
             "sentiment": "POSITIVE",
             "score": 0.9347198605537415,
@@ -179,10 +296,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "AbbVie to Buy Immunology Drugmaker Apogee for $10.9 Billion - WSJ",
+            "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic\u2019s Mythos - WIRED",
             "sentiment": "POSITIVE",
-            "score": 0.9230071306228638,
+            "score": 0.7636861801147461,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bank of America expects three Fed hikes this year, says inflation is getting 'unambiguously worse' - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9425904154777527,
+            "signal": "BEARISH",
+            "tickers": [
+                "BAC"
+            ],
+            "primary_ticker": "BAC",
+            "ticker_impacts": [
+                {
+                    "ticker": "BAC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Lucid Lays Off 18% Of Its Workers And Cuts Production At Arizona Plant - InsideEVs",
+            "sentiment": "NEGATIVE",
+            "score": 0.9706740379333496,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
