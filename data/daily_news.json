@@ -1,40 +1,31 @@
 {
-    "last_updated": "2026-06-24 07:38:17 UTC",
-    "total_articles": 20,
+    "last_updated": "2026-06-24 10:29:03 UTC",
+    "total_articles": 21,
     "bullish_articles": 8,
-    "bearish_articles": 12,
+    "bearish_articles": 13,
     "articles": [
+        {
+            "title": "Micron Stock Dives After Memory Chip Rivals SK Hynix, Samsung Tumble in KOSPI Selloff - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9737383723258972,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX stock tumbles 16.4%, shaving off most IPO gains since debut - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9732313752174377,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Stock market today: Dow, S&P 500, Nasdaq futures plunge as Wall Street weighs US-Iran talks, AI trade - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9650813937187195,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "BTC analysis: SpaceX\u2019s $600 billion plunge erased nearly half of bitcoin\u2019s market cap in three days - CoinDesk",
-            "sentiment": "NEGATIVE",
-            "score": 0.9700128436088562,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "S. Korea\u2019s KOSPI slumps 8%, triggers circuit breaker as AI rally turns tail - Investing.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9602221250534058,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "CNBC Daily Open: Tech-tonic shift or buying opportunity? - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.941565752029419,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -67,13 +58,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump Provides Fresh Boost To Quantum Computing Space, Signs Two Orders - IBM, INFQ, QBTS, RGTI, QUBT Stocks In Focus - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8768689632415771,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Alphabet Stock Tumbles as Google\u2019s DeepMind Loses Nobel Prize Winner to Anthropic - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9563735723495483,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Shareholders sue Uber\u2019s board over sexual assaults, other incidents - TechCrunch",
@@ -93,27 +92,28 @@
             ]
         },
         {
-            "title": "Oracle Cut 21,000 Jobs in 12 Months, Says AI Replaced Some Roles - Bloomberg",
+            "title": "A $1.8 Million 401(k) and Social Security Coming Up? Drain It Before 70 to Dodge the IRMAA Cliff - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.9731870889663696,
+            "score": 0.7872158885002136,
             "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "LSD Just Passed Its Biggest Test Yet for Treating Depression - Gizmodo",
             "sentiment": "POSITIVE",
             "score": 0.9365621209144592,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Thousands of bottles of blood pressure medication recalled nationwide - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9633833765983582,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -160,29 +160,6 @@
             ]
         },
         {
-            "title": "Alphabet Shares Drop After Second AI Star Departs for a Rival - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.9739086031913757,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL",
-                "INTC"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "HHS Launches Unprecedented Department-Wide Effort to Restore American Leadership in Clinical Trials - HHS.gov",
             "sentiment": "POSITIVE",
             "score": 0.9347198605537415,
@@ -201,6 +178,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Student Loan Repayment Applications Are Messing Up, Just As Major Changes Arrive - Forbes",
+            "sentiment": "NEGATIVE",
+            "score": 0.9637246131896973,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "ROBERT F. KENNEDY JR.: The future of medicine should be built in America - Fox News",
             "sentiment": "POSITIVE",
             "score": 0.9279443025588989,
@@ -214,6 +200,15 @@
             "sentiment": "NEGATIVE",
             "score": 0.9477026462554932,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AbbVie inks $10.9B Apogee buyout to bag eczema prospect - Fierce Biotech",
+            "sentiment": "POSITIVE",
+            "score": 0.786908745765686,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
