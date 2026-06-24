@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-06-23 21:55:09 UTC",
-    "total_articles": 21,
-    "bullish_articles": 8,
-    "bearish_articles": 13,
+    "last_updated": "2026-06-24 01:18:15 UTC",
+    "total_articles": 18,
+    "bullish_articles": 6,
+    "bearish_articles": 12,
     "articles": [
         {
-            "title": "1 person killed after Tesla on autopilot crashes through Texas home - NBC News",
+            "title": "S&P 500 futures are little changed after tech sell-off drags down broad market index: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8901479244232178,
+            "score": 0.9685531854629517,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8521485328674316,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -18,6 +27,23 @@
                     "ticker": "TSLA",
                     "impact": "negative",
                     "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Oracle Cut 21,000 Employees in 2026, Says AI Replaced Some Jobs - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9727186560630798,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -48,6 +74,15 @@
             ]
         },
         {
+            "title": "SpaceX stock tumbles 23% from its high, as average investor sees gains wiped out - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9622234106063843,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Micron Earnings Seen Rising 987% Amid AI Megatrend - Investor's Business Daily",
             "sentiment": "POSITIVE",
             "score": 0.9505993723869324,
@@ -57,36 +92,32 @@
             "ticker_impacts": []
         },
         {
-            "title": "GE Vernova Supplier Soars After $8.5 Billion Sale To CRH - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9552685618400574,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.8781731724739075,
+            "signal": "BULLISH",
+            "tickers": [
+                "CVX",
+                "MSFT"
+            ],
+            "primary_ticker": "CVX",
+            "ticker_impacts": [
+                {
+                    "ticker": "CVX",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Oil Prices Drop After Iran Cleared to Sell Crude in Dollars - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.7827730774879456,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "S&P 500 falls as Big Tech and SpaceX struggle: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9725344777107239,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX stock tumbles 16.4%, shaving off most IPO gains since debut - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9732313752174377,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -110,6 +141,23 @@
             ]
         },
         {
+            "title": "Nvidia says AI's water challenge is largely solved - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.7727631330490112,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "HHS Launches Unprecedented Department-Wide Effort to Restore American Leadership in Clinical Trials - HHS.gov",
             "sentiment": "POSITIVE",
             "score": 0.9347198605537415,
@@ -126,40 +174,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.8546723127365112,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Merck\u2019s Tulisokibart Met Primary and Key Secondary Endpoints in the Phase 3 ATLAS-UC Induction-only Study in Patients With Moderately to Severely Active Ulcerative Colitis (UC) - Merck.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7231572270393372,
-            "signal": "BULLISH",
-            "tickers": [
-                "UC"
-            ],
-            "primary_ticker": "UC",
-            "ticker_impacts": [
-                {
-                    "ticker": "UC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Student Loan Repayment Applications Are Messing Up, Just As Major Changes Arrive - Forbes",
@@ -180,50 +194,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Microsoft and Chevron Sign 20-Year Power Deal For Texas Data Center - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9060291051864624,
-            "signal": "BULLISH",
-            "tickers": [
-                "CVX",
-                "MSFT"
-            ],
-            "primary_ticker": "CVX",
-            "ticker_impacts": [
-                {
-                    "ticker": "CVX",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Buc\u2011ee\u2019s just opened its biggest Western outpost yet - USA Today",
-            "sentiment": "POSITIVE",
-            "score": 0.8301023840904236,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Definium\u2019s LSD formula produces \u2018best data ever seen\u2019 in a pivotal depression trial, CEO says - Fierce Biotech",
             "sentiment": "NEGATIVE",
             "score": 0.9546241760253906,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FDA reverses course on Regenxbio\u2019s childhood gene therapy after rejection - statnews.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7256340384483337,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -239,9 +212,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Jets were 300 feet apart in Boston close call that forced Delta flight to abort landing, expert says - PBS",
+            "title": "Some Electricians Think Building Data Centers Is for Sellouts - WIRED",
             "sentiment": "NEGATIVE",
-            "score": 0.8344841003417969,
+            "score": 0.9149448871612549,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
