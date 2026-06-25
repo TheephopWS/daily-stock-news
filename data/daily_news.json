@@ -1,23 +1,31 @@
 {
-    "last_updated": "2026-06-25 10:24:23 UTC",
+    "last_updated": "2026-06-25 13:09:33 UTC",
     "total_articles": 17,
-    "bullish_articles": 2,
-    "bearish_articles": 15,
+    "bullish_articles": 1,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "We checked thousands of Amazon Prime Day deals \u2014 here\u2019s 207+ worth buying - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9437265396118164,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Cerebras Stock Tumbles After First Earnings Report Since IPO - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.9728221893310547,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China takes US crown for world\u2019s fastest supercomputer - Al Jazeera",
-            "sentiment": "POSITIVE",
-            "score": 0.794374942779541,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -49,6 +57,15 @@
             ]
         },
         {
+            "title": "Gold Drops Below $4,100 as Tech-Led Selloff Spurs Liquidation - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9654507040977478,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist - BBC",
             "sentiment": "NEGATIVE",
             "score": 0.9480589032173157,
@@ -56,23 +73,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic Customer Sues US Over Loss of Fable AI Access - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9555886387825012,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "California intends to sue Trump administration over deal to end offshore wind project - AP News",
@@ -102,35 +102,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Is AI 'one big bubble?' Behind the tech selloff - NPR",
+            "title": "Frozen Foods Sold In Multiple VA Stores Recalled Over Plastic Contamination - Patch",
             "sentiment": "NEGATIVE",
-            "score": 0.93982994556427,
+            "score": 0.9620027542114258,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "As top talent leaves Google DeepMind, some question if the lab can remain at the forefront of AI development - Fortune",
+            "title": "US manufacturing jobs fall at fastest rate since pandemic - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.7902340888977051,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Frozen Foods Sold In Multiple VA Stores Recalled Over Plastic Contamination - Patch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9620027542114258,
+            "score": 0.9705260396003723,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -146,15 +129,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Factory job cuts in June neared financial crisis and Covid levels, S&P says - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8248112797737122,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Gas prices sink for sixth week in a row \u2014 down 14% from May peak amid US-Iran talks - New York Post",
             "sentiment": "NEGATIVE",
             "score": 0.9726391434669495,
@@ -162,23 +136,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Gold and silver tumble as rate-hike fears hit precious metals - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9707316756248474,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "AI on pace to bypass cybersecurity systems in months, not years, \"Five Eyes\" spy partners warn - CBS News",
@@ -196,6 +153,33 @@
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Pfizer\u2019s first new ADC from Seagen acquisition fails phase 3 NSCLC trial - Fierce Biotech",
+            "sentiment": "NEGATIVE",
+            "score": 0.9043017029762268,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Korean Stocks Tumble 10% as Extreme Volatility Rattles Investors - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9589062929153442,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Braun replaces chairman of the Utility Regulatory Commission days after AES rate-hike decision - Indiana Capital Chronicle",
+            "sentiment": "NEGATIVE",
+            "score": 0.800982654094696,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         }
     ]
 }
