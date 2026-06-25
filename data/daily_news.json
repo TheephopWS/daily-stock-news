@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-06-25 13:09:33 UTC",
-    "total_articles": 17,
-    "bullish_articles": 1,
-    "bearish_articles": 16,
+    "last_updated": "2026-06-25 16:12:35 UTC",
+    "total_articles": 18,
+    "bullish_articles": 4,
+    "bearish_articles": 14,
     "articles": [
         {
-            "title": "We checked thousands of Amazon Prime Day deals \u2014 here\u2019s 207+ worth buying - NBC News",
+            "title": "Amazon Prime Day\u2019s day 2 deals are here \u2014 I found 223+ actually worth buying up to 70% off - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9437265396118164,
+            "score": 0.8174577951431274,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN"
@@ -22,13 +22,30 @@
             ]
         },
         {
-            "title": "Cerebras Stock Tumbles After First Earnings Report Since IPO - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9728221893310547,
-            "signal": "BEARISH",
+            "title": "Stock market today: Dow, S&P 500, Nasdaq rebound after tech rout as oil prices tumble - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8963850736618042,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia pours cold water on AI fears - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9162321090698242,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Brent falls below $76, notching its lowest level since day before U.S.-Iran war - CNBC",
@@ -38,6 +55,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Mastercard (MA) Faces Fresh EU Pressure As Digital Euro Plans Advance - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.911186695098877,
+            "signal": "BULLISH",
+            "tickers": [
+                "MA"
+            ],
+            "primary_ticker": "MA",
+            "ticker_impacts": [
+                {
+                    "ticker": "MA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Google's YouTube reaches settlement in lawsuit alleging child social media addiction - Fox Business",
@@ -57,9 +91,9 @@
             ]
         },
         {
-            "title": "Gold Drops Below $4,100 as Tech-Led Selloff Spurs Liquidation - Bloomberg.com",
+            "title": "MorningStar Farms recalls food sold nationwide after plastic pieces found in select products - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9654507040977478,
+            "score": 0.9303370118141174,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -69,6 +103,15 @@
             "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist - BBC",
             "sentiment": "NEGATIVE",
             "score": 0.9480589032173157,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Cerebras Revenue Soars in First Quarter, Forecasts Full-Year Negative Margins - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9688346982002258,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -93,18 +136,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron\u2019s Red-Hot Run Hits a Wall as Stock Suffers Worst Drop in More Than a Year - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9728867411613464,
-            "signal": "BEARISH",
+            "title": "Chinese supercomputer displaces US machines as world\u2019s fastest for first time since 2017 - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.9045048952102661,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Frozen Foods Sold In Multiple VA Stores Recalled Over Plastic Contamination - Patch",
+            "title": "Micron\u2019s Red-Hot Run Hits a Wall as Stock Suffers Worst Drop in More Than a Year - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9620027542114258,
+            "score": 0.9728867411613464,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -158,24 +201,6 @@
             "title": "Pfizer\u2019s first new ADC from Seagen acquisition fails phase 3 NSCLC trial - Fierce Biotech",
             "sentiment": "NEGATIVE",
             "score": 0.9043017029762268,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Korean Stocks Tumble 10% as Extreme Volatility Rattles Investors - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.9589062929153442,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Braun replaces chairman of the Utility Regulatory Commission days after AES rate-hike decision - Indiana Capital Chronicle",
-            "sentiment": "NEGATIVE",
-            "score": 0.800982654094696,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
