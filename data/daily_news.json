@@ -1,9 +1,26 @@
 {
-    "last_updated": "2026-06-26 01:25:35 UTC",
-    "total_articles": 16,
-    "bullish_articles": 4,
-    "bearish_articles": 12,
+    "last_updated": "2026-06-26 04:51:45 UTC",
+    "total_articles": 14,
+    "bullish_articles": 3,
+    "bearish_articles": 11,
     "articles": [
+        {
+            "title": "Elon Musk loses trillionaire status after tech sell-off erases billions from fortune - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9738633632659912,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
         {
             "title": "Prime Day Alternatives Are Here: Shop 50+ Standout Walmart Deals Right Now - CNET",
             "sentiment": "NEGATIVE",
@@ -31,10 +48,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX Completes $25 Bil Bond Sale. Rocket Lab Touts Space Force Mission. - Investor's Business Daily",
+            "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9249619841575623,
+            "score": 0.9724256992340088,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Micron Stock Soars as Results Blow Past Wall Street Expectations Amid Booming AI Demand - Investopedia",
+            "sentiment": "POSITIVE",
+            "score": 0.9290643930435181,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -49,10 +75,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron stock jumps 9% as soaring prices from memory crunch lead to quadrupling of revenue - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9284987449645996,
-            "signal": "BULLISH",
+            "title": "SpaceX stock slips as it announces $25 billion bond offering - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9542805552482605,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -67,55 +93,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "AI Chip Stocks Stage Rebound: Nvidia, AMD Lead Recovery Ahead of Micron Earnings Shock - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8768494129180908,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA",
-                "AMD"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Bitcoin crashes, but odds turn darker as MSTR, APLD lead crypto-stocks bloodbath - Seeking Alpha",
-            "sentiment": "NEGATIVE",
-            "score": 0.8905498385429382,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Alibaba sues the US Defense Department in a bid to remove 'Chinese military company' designation - Yahoo! Finance Canada",
-            "sentiment": "NEGATIVE",
-            "score": 0.9127510190010071,
-            "signal": "BEARISH",
-            "tickers": [
-                "AP"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AP",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Oil prices drop near $70 a barrel \u2014 lowest level since before Iran war \u2014 on hopes for Strait of Hormuz plan - New York Post",
             "sentiment": "NEGATIVE",
             "score": 0.9663160443305969,
@@ -128,15 +105,6 @@
             "title": "US new single-family home sales post second straight monthly decline - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9748256802558899,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Cerebras Stock Falls Despite Improving Outlook For AI Chip Sales - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9744610786437988,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
