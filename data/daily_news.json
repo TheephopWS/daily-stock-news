@@ -1,9 +1,53 @@
 {
-    "last_updated": "2026-06-26 10:30:07 UTC",
-    "total_articles": 9,
-    "bullish_articles": 3,
-    "bearish_articles": 6,
+    "last_updated": "2026-06-26 13:08:09 UTC",
+    "total_articles": 13,
+    "bullish_articles": 5,
+    "bearish_articles": 8,
     "articles": [
+        {
+            "title": "Nasdaq futures soar 2% after Micron's strong earnings, in-line inflation data: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9391047954559326,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Darden Restaurants earnings beat estimates but Olive Garden growth weakens - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9447925686836243,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "IBM claims world\u2019s first sub-1 nanometer chip technology - Ars Technica",
+            "sentiment": "POSITIVE",
+            "score": 0.8790265321731567,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta culpa: Mark Zuckerberg is realizing there's a limit to ruthless efficiency - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.943902850151062,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Anthropic Accuses Alibaba of \u2018Illicitly\u2019 Accessing AI Models - Bloomberg",
             "sentiment": "NEGATIVE",
@@ -39,28 +83,10 @@
             ]
         },
         {
-            "title": "SK Hynix surges 11% after filing for blockbuster Nasdaq listing - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9378796219825745,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "The Slate Truck Is More Expensive Than Expected - Motor1.com",
             "sentiment": "POSITIVE",
             "score": 0.7987102270126343,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Air Canada flight with 61 passengers diverts to Boston after captain is removed from cockpit midair - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9591414332389832,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -73,6 +99,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Texas family sues Tesla over fatal crash into home - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9139201641082764,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Why is Wendy\u2019s a Meme Stock? The CFO Shakeup Explained - Barron's",
@@ -93,9 +136,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "The Price of Gold Sinks Under $4,000 for the First Time Since November - Investopedia",
+            "title": "New airline at Dayton airport to offer three nonstop routes, four new destinations - Dayton Daily News",
+            "sentiment": "POSITIVE",
+            "score": 0.916565477848053,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gold, silver and bitcoin tumble as 'debasement' trade unwinds - CoinDesk",
             "sentiment": "NEGATIVE",
-            "score": 0.9598051905632019,
+            "score": 0.9742838144302368,
             "signal": "BEARISH",
             "tickers": [
                 "META"
