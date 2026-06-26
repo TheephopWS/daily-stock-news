@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-06-26 16:08:59 UTC",
+    "last_updated": "2026-06-26 19:03:52 UTC",
     "total_articles": 11,
-    "bullish_articles": 7,
-    "bearish_articles": 4,
+    "bullish_articles": 6,
+    "bearish_articles": 5,
     "articles": [
         {
             "title": "US economy grew at 2.1% in first quarter - Fox Business",
@@ -14,18 +14,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Nasdaq Stumbles Despite Micron Blockbuster Earnings; Wendy's in Focus \u2014 Live Updates - WSJ",
+            "title": "Inflation hits 3-year high, pressuring Fed to raise rates as election nears - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.9340502619743347,
+            "score": 0.7157971858978271,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "PCE report: Fed's preferred inflation measure hits 3-year high, keeping talk of possible rate hike in play - Yahoo Finance",
+            "title": "Micron Stock Surges: Analysts React to Strong MU Earnings Report - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.908747673034668,
+            "score": 0.913081169128418,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -41,21 +41,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Personal Income and Outlays, May 2026 - U.S. Bureau of Economic Analysis (BEA) (.gov)",
+            "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Micron eases AI fears, PCE hits 3-year high - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9251527786254883,
+            "score": 0.9229816198348999,
             "signal": "BULLISH",
-            "tickers": [
-                "BEA"
-            ],
-            "primary_ticker": "BEA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BEA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Qualcomm Just Revealed Its Mystery Big Tech Customer\u2014and Its Stock Is Soaring - Barron's",
@@ -76,56 +68,56 @@
             "ticker_impacts": []
         },
         {
-            "title": "Wendy's Short Squeeze Continues. Stock Soars Another 14%. - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9281502366065979,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AI researchers continue to leave Google for its rivals - TechCrunch",
+            "title": "Meta culpa: Mark Zuckerberg is realizing there's a limit to ruthless efficiency - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.8074142932891846,
+            "score": 0.9439029693603516,
             "signal": "BEARISH",
             "tickers": [
-                "GOOGL"
+                "META"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "META",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "META",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses - Federal Reserve (.gov)",
-            "sentiment": "POSITIVE",
-            "score": 0.9042904376983643,
-            "signal": "BULLISH",
+            "title": "Elon Musk loses trillionaire status after tech sell-off erases billions from fortune - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9738633632659912,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Stock Market Today: Dow Pops Nearly 200 Points; AI Firm Cerebras Craters; Data Storage Names Fall - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9500849843025208,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Gold, silver and bitcoin tumble as 'debasement' trade unwinds - CoinDesk",
-            "sentiment": "NEGATIVE",
-            "score": 0.9742838144302368,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
+            "title": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses - Federal Reserve (.gov)",
+            "sentiment": "POSITIVE",
+            "score": 0.9042906761169434,
+            "signal": "BULLISH",
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         }
     ]
 }
