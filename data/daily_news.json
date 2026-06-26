@@ -1,9 +1,87 @@
 {
-    "last_updated": "2026-06-26 19:03:52 UTC",
+    "last_updated": "2026-06-26 21:50:47 UTC",
     "total_articles": 11,
-    "bullish_articles": 6,
-    "bearish_articles": 5,
+    "bullish_articles": 4,
+    "bearish_articles": 7,
     "articles": [
+        {
+            "title": "Stock Market Today: Indexes Mixed; S&P 500 Barely Holds This Significant Level (Live Coverage) - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9670225381851196,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Sandisk, Western Digital, and others soar as Micron results 'justify elevated valuations' - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9443615674972534,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US Army Bases to Host Critical Minerals Plants in Onshoring Push - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9332504868507385,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Qualcomm Just Revealed Its Mystery Big Tech Customer\u2014and Its Stock Is Rising - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9441564083099365,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Apple shares plunge after it hikes prices on iPads and laptops - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9718127250671387,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Palantir's selloff continues, marking the seventh straight session of declines (PLTR:NASDAQ) - Seeking Alpha",
+            "sentiment": "NEGATIVE",
+            "score": 0.9729021787643433,
+            "signal": "BEARISH",
+            "tickers": [
+                "PLTR"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "PLTR",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
         {
             "title": "US economy grew at 2.1% in first quarter - Fox Business",
             "sentiment": "POSITIVE",
@@ -14,63 +92,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Inflation hits 3-year high, pressuring Fed to raise rates as election nears - Politico",
+            "title": "Meta Tried to Silence Her. Now She\u2019s Suing. - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.7157971858978271,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Micron Stock Surges: Analysts React to Strong MU Earnings Report - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.913081169128418,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Iran-U.S. Updates: Oil prices return to near pre-war levels as Oman says no Strait of Hormuz \"transit fees\" - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9571136236190796,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Micron eases AI fears, PCE hits 3-year high - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9229816198348999,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Qualcomm Just Revealed Its Mystery Big Tech Customer\u2014and Its Stock Is Soaring - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9421041011810303,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Buc-ee\u2019s expands national footprint with 15 more locations in the pipeline - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.898958146572113,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Meta culpa: Mark Zuckerberg is realizing there's a limit to ruthless efficiency - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9439029693603516,
+            "score": 0.8831256031990051,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -85,36 +109,28 @@
             ]
         },
         {
-            "title": "Elon Musk loses trillionaire status after tech sell-off erases billions from fortune - Fox Business",
+            "title": "Passengers restrain pilot during apparent medical emergency on 'terrifying' flight - Yahoo News UK",
             "sentiment": "NEGATIVE",
-            "score": 0.9738633632659912,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Stock Market Today: Dow Pops Nearly 200 Points; AI Firm Cerebras Craters; Data Storage Names Fall - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9500849843025208,
+            "score": 0.9480522274971008,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses - Federal Reserve (.gov)",
-            "sentiment": "POSITIVE",
-            "score": 0.9042906761169434,
-            "signal": "BULLISH",
+            "title": "USPS staves off immediate cash crisis, but warns of continuing financial woes - Federal News Network",
+            "sentiment": "NEGATIVE",
+            "score": 0.9164884686470032,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil prices drop near $70 a barrel \u2014 lowest level since before Iran war \u2014 on hopes for Strait of Hormuz plan - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9663160443305969,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
