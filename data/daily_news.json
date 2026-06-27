@@ -1,43 +1,95 @@
 {
-    "last_updated": "2026-06-26 21:50:47 UTC",
-    "total_articles": 11,
-    "bullish_articles": 4,
-    "bearish_articles": 7,
+    "last_updated": "2026-06-27 01:21:26 UTC",
+    "total_articles": 12,
+    "bullish_articles": 1,
+    "bearish_articles": 11,
     "articles": [
         {
-            "title": "Stock Market Today: Indexes Mixed; S&P 500 Barely Holds This Significant Level (Live Coverage) - Investor's Business Daily",
+            "title": "Sen. Blumenthal demands Tesla be held accountable for alleged self-driving crash - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9670225381851196,
+            "score": 0.8188000917434692,
             "signal": "BEARISH",
             "tickers": [
-                "AAPL"
+                "TSLA"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
+                    "ticker": "TSLA",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Sandisk, Western Digital, and others soar as Micron results 'justify elevated valuations' - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9443615674972534,
-            "signal": "BULLISH",
+            "title": "Trump administration asks OpenAI to limit next model release over security concerns - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.8167532682418823,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "US Army Bases to Host Critical Minerals Plants in Onshoring Push - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9332504868507385,
-            "signal": "BULLISH",
+            "title": "Former executive sues Meta over attempts to \u2018silence\u2019 her memoir, \u2018Careless People\u2019 - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7831498384475708,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Stock Market Today: Nasdaq Stumbles Despite Micron Blockbuster Earnings; Wendy's in Focus \u2014 Live Updates - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9340505599975586,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Why Palantir\u2019s stock is having its worst month in years \u2014 even in the midst of an AI boom - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9713049530982971,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump Media Stock Hits All-Time Low\u2014Down Almost 50% In 2026 - Forbes",
+            "sentiment": "NEGATIVE",
+            "score": 0.9732180237770081,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Microsoft Stock Is Having Its Worst Start to a Year Since the Dot-Com Crash - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9714870452880859,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Qualcomm Just Revealed Its Mystery Big Tech Customer\u2014and Its Stock Is Rising - Barron's",
@@ -66,70 +118,27 @@
             ]
         },
         {
-            "title": "Palantir's selloff continues, marking the seventh straight session of declines (PLTR:NASDAQ) - Seeking Alpha",
+            "title": "\u2018Incapacitated' pilot pulled from cockpit as Air Canada flight out of NJ diverts - NBC New York",
             "sentiment": "NEGATIVE",
-            "score": 0.9729021787643433,
-            "signal": "BEARISH",
-            "tickers": [
-                "PLTR"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "PLTR",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "US economy grew at 2.1% in first quarter - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.9559580087661743,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Meta Tried to Silence Her. Now She\u2019s Suing. - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8831256031990051,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Passengers restrain pilot during apparent medical emergency on 'terrifying' flight - Yahoo News UK",
-            "sentiment": "NEGATIVE",
-            "score": 0.9480522274971008,
+            "score": 0.9545033574104309,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "USPS staves off immediate cash crisis, but warns of continuing financial woes - Federal News Network",
+            "title": "Inflation hits 3-year high, pressuring Fed to raise rates as election nears - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.9164884686470032,
+            "score": 0.7157977819442749,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oil prices drop near $70 a barrel \u2014 lowest level since before Iran war \u2014 on hopes for Strait of Hormuz plan - New York Post",
+            "title": "Micron's stock soars after blowout earnings expose AI's memory bottleneck - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9663160443305969,
+            "score": 0.9231259226799011,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
