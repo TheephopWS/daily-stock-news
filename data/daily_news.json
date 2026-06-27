@@ -1,9 +1,71 @@
 {
-    "last_updated": "2026-06-27 12:53:07 UTC",
-    "total_articles": 16,
+    "last_updated": "2026-06-27 15:51:44 UTC",
+    "total_articles": 20,
     "bullish_articles": 6,
-    "bearish_articles": 10,
+    "bearish_articles": 14,
     "articles": [
+        {
+            "title": "Anthropic\u2019s Mythos mess is only getting worse - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.9213653802871704,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock market today: Dow, S&P 500, Nasdaq slide as report of OpenAI IPO delay rattles techs - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9606544971466064,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bond Traders Stunned as Losses on SpaceX\u2019s New Debt Keep Growing - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9721851944923401,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Rise in memory chip costs puts pressure on retailers of laptops and smartphones - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9690237641334534,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Refurbished MacBook Neo Models Now Available, a Day After Price Hike - MacRumors",
+            "sentiment": "POSITIVE",
+            "score": 0.8906494975090027,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Volkswagen to axe up to 100,000 jobs in sweeping cost-cutting drive - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9674056172370911,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Korean Stocks Slump 6% as Chipmakers Hit by Renewed Selloff - Bloomberg.com",
             "sentiment": "NEGATIVE",
@@ -14,36 +76,41 @@
             "ticker_impacts": []
         },
         {
-            "title": "Techs Keep Falling Overnight; What To Do Now - Investor's Business Daily",
+            "title": "Kevin Warsh\u2019s tough talk on inflation reassures investors - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.7723215222358704,
+            "score": 0.8996320366859436,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Airwallex hits $11 billion valuation with $320 million raise as fintech pushes into finance run by AI agents - CNBC",
+            "title": "AMD\u2019s EPYC Venice To Outpace NVIDIA\u2019s Vera CPUs With 6.75M Units by 2027, Morgan Stanley Says, as Zen 6 Eclipses a 5.75M Rival - Wccftech",
             "sentiment": "POSITIVE",
-            "score": 0.7827093601226807,
+            "score": 0.9455332159996033,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SoftBank\u2019s Shares Tumble After Report of OpenAI\u2019s IPO Delay - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9747061729431152,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA",
+                "AMD"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Sen. Blumenthal demands Tesla be held accountable for alleged self-driving crash - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.8188000917434692,
+            "score": 0.8187997937202454,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -60,7 +127,7 @@
         {
             "title": "Former executive sues Meta over attempts to \u2018silence\u2019 her memoir, \u2018Careless People\u2019 - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.7831498384475708,
+            "score": 0.7831500768661499,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -77,8 +144,17 @@
         {
             "title": "Mortgage rate outlook shifts after inflation update - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9021620750427246,
+            "score": 0.9021618962287903,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US Army Bases to Host Critical Minerals Processing Plants - Bloomberg",
+            "sentiment": "POSITIVE",
+            "score": 0.9376270771026611,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -102,6 +178,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Two Major Indexes Prepare To Add SpaceX As Shares Sink After IPO Surge - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9714998602867126,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Stifel cuts Microsoft target, says Street FY27 gross margin estimates are too high - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9679244160652161,
@@ -119,18 +204,18 @@
             ]
         },
         {
-            "title": "Stock Price Prediction: Palantir at $113, The Forecast Says There\u2019s Room to Run - 24/7 Wall St.",
+            "title": "\u2018Incapacitated' pilot pulled from cockpit as Air Canada flight out of NJ diverts - NBC New York",
             "sentiment": "NEGATIVE",
-            "score": 0.9705619812011719,
+            "score": 0.9545031785964966,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "\u2018Incapacitated' pilot pulled from cockpit as Air Canada flight out of NJ diverts - NBC New York",
+            "title": "Inflation hits 3-year high, pressuring Fed to raise rates as election nears - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9545033574104309,
+            "score": 0.8354513049125671,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -139,34 +224,7 @@
         {
             "title": "Micron Stock Surges: Analysts React to Strong MU Earnings Report - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9130810499191284,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years - CBS News",
-            "sentiment": "POSITIVE",
-            "score": 0.9478404521942139,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "USPS staves off immediate cash crisis, but warns of continuing financial woes - Federal News Network",
-            "sentiment": "NEGATIVE",
-            "score": 0.9164884686470032,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "New Drugs Are Replacing Chemo for Aggressive Breast Cancer - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9380634427070618,
+            "score": 0.913081169128418,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
