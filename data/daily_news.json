@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-06-27 04:42:25 UTC",
-    "total_articles": 11,
-    "bullish_articles": 4,
-    "bearish_articles": 7,
+    "last_updated": "2026-06-27 07:29:02 UTC",
+    "total_articles": 14,
+    "bullish_articles": 5,
+    "bearish_articles": 9,
     "articles": [
+        {
+            "title": "Techs Keep Falling Overnight; What To Do Now - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.7723215222358704,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock market today: Dow, S&P 500, Nasdaq futures drop as tech struggles to find its footing - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9691730737686157,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Sen. Blumenthal demands Tesla be held accountable for alleged self-driving crash - NBC News",
             "sentiment": "NEGATIVE",
@@ -39,9 +57,9 @@
             ]
         },
         {
-            "title": "Stock Market Today: Nasdaq Stumbles Despite Micron Blockbuster Earnings; Wendy's in Focus \u2014 Live Updates - WSJ",
+            "title": "Mortgage rate outlook shifts after inflation update - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9340505599975586,
+            "score": 0.9021620750427246,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -51,6 +69,15 @@
             "title": "US Army Bases to Host Critical Minerals Processing Plants - Bloomberg.com",
             "sentiment": "POSITIVE",
             "score": 0.9364080429077148,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.929243266582489,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -75,15 +102,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump Media Stock Hits All-Time Low\u2014Down Almost 50% In 2026 - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.9732180237770081,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Qualcomm Just Revealed Its Mystery Big Tech Customer\u2014and Its Stock Is Rising - Barron's",
             "sentiment": "POSITIVE",
             "score": 0.9441564083099365,
@@ -93,28 +111,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "Polestar barred from US over the Chinese connected vehicle rule, a dangerous precedent - Electrek",
+            "title": "A pilot incapacitated, a crash landing and a close call. What we know about the latest aviation incidents - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9281071424484253,
+            "score": 0.8133236765861511,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "\u2018Incapacitated' pilot pulled from cockpit as Air Canada flight out of NJ diverts - NBC New York",
+            "title": "Microsoft\u2019s Worst Month Since 2000: Why Is This Happening? - Benzinga",
             "sentiment": "NEGATIVE",
-            "score": 0.9545033574104309,
+            "score": 0.9468035101890564,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years - CBS News",
             "sentiment": "POSITIVE",
             "score": 0.9478404521942139,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "USPS staves off immediate cash crisis, but warns of continuing financial woes - Federal News Network",
+            "sentiment": "NEGATIVE",
+            "score": 0.9164884686470032,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
