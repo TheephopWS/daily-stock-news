@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-06-28 04:56:47 UTC",
-    "total_articles": 21,
+    "last_updated": "2026-06-28 07:42:05 UTC",
+    "total_articles": 19,
     "bullish_articles": 7,
-    "bearish_articles": 14,
+    "bearish_articles": 12,
     "articles": [
+        {
+            "title": "U.S. government gives Anthropic green light for limited re-release of Mythos 5 - NBC News",
+            "sentiment": "POSITIVE",
+            "score": 0.7227314710617065,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Saks officially emerges from Chapter 11 bankruptcy with less debt and a new name - ABC News - Breaking News, Latest News and Videos",
+            "sentiment": "POSITIVE",
+            "score": 0.7618818283081055,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Wall Street regulator investigating prediction market giant Polymarket - Politico",
             "sentiment": "NEGATIVE",
@@ -41,30 +59,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "Pilots react to a Boeing 777 freighter that came within feet of the ground in a 'reckless' stunt over Texas - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9121480584144592,
-            "signal": "BEARISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Lilly, J&J and AbbVie Hit New Highs - Yahoo Finance",
+            "title": "Corporate profits were already at historic highs. They shot even higher in Q1. - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8701661825180054,
+            "score": 0.9377766251564026,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Historic layoffs: VW expected to cut 100,000 workers - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9695919752120972,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Micron Just Delivered Great News for Intel, AMD, Arm, and Qualcomm Stock Investors - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.9071695804595947,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMD",
+                "INTC"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Apple raises iPad and MacBook prices as memory chip costs surge - Fox Business",
@@ -84,6 +117,15 @@
             ]
         },
         {
+            "title": "Slate Says Every Truck Will Be Profitable, Probably Because It Makes You Pay For Things Every Other Car Already Has - Jalopnik",
+            "sentiment": "POSITIVE",
+            "score": 0.8844102025032043,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Laptop Prices Have Passed the Point of No Return - Gizmodo",
             "sentiment": "NEGATIVE",
             "score": 0.7955772876739502,
@@ -99,15 +141,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "ON Semi tanks 24% following Synaptics deal as CEO defends core business - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8748785853385925,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Amtrak's Penn Station plan includes loads of public benches, a rarity in NYC - Gothamist",
@@ -145,36 +178,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why breakthrough GLP-1 weight loss pills may be a bad thing for employer insurance coverage - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8435734510421753,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "OpenAI IPO Fears Hit Oracle and Other Stocks Exposed to the ChatGPT Maker - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.9689640998840332,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Micron Leads Tech Stocks Rally on Blowout Earnings - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8210004568099976,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Volkswagen Will Cut 100,000 Jobs And Close Four Factories: Report - Motor1.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9547852873802185,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -202,24 +208,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9403403401374817,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Key inflation gauge jumps to 3-year high in latest sign of affordability challenges - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.9106785655021667,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "\u2018Incapacitated' pilot pulled from cockpit as Air Canada flight out of NJ diverts - NBC New York",
-            "sentiment": "NEGATIVE",
-            "score": 0.9545033574104309,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
