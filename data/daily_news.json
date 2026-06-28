@@ -1,13 +1,67 @@
 {
-    "last_updated": "2026-06-28 12:53:18 UTC",
-    "total_articles": 30,
-    "bullish_articles": 11,
-    "bearish_articles": 19,
+    "last_updated": "2026-06-28 15:51:39 UTC",
+    "total_articles": 29,
+    "bullish_articles": 8,
+    "bearish_articles": 21,
     "articles": [
         {
-            "title": "Apple seeks to buy memory chips from blacklisted Chinese company - Financial Times",
+            "title": "United Airlines flight almost hit drone \u2018100 feet below us\u2019 in scary near-collision at Newark Airport - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9122908115386963,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "MSTR's BTC premium has vanished as enterprise mNAV falls below 1 - CoinDesk",
             "sentiment": "POSITIVE",
-            "score": 0.7664462924003601,
+            "score": 0.891710638999939,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Hooters closes every single location in multiple states: \u2018Fell to my knees\u2019 - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9656587243080139,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Cathie Wood makes striking Palantir move as shares tumble - thestreet.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7117594480514526,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The 30-year fixed mortgage was supposed to be predictable. Two costs quietly broke that promise - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8201956748962402,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Utility boss warns US faces blackouts due to power supply shortfall - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.7764551639556885,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Apple asks Trump admin to approve Chinese RAM after product price increases - 9to5Mac",
+            "sentiment": "POSITIVE",
+            "score": 0.8083391785621643,
             "signal": "BULLISH",
             "tickers": [
                 "AAPL"
@@ -20,15 +74,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "U.S. government gives Anthropic green light for limited re-release of Mythos 5 - NBC News",
-            "sentiment": "POSITIVE",
-            "score": 0.7227314710617065,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Saks officially emerges from Chapter 11 bankruptcy with less debt and a new name - ABC News - Breaking News, Latest News and Videos",
@@ -67,22 +112,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "Strategy loses its bitcoin premium as enterprise mNAV dips below 1 - The Block",
+            "title": "Elon Musk Calls IBM\u2019s 0.7-nanometer Chip Naming Misleading, Says Atoms Should Decide Process Node Labels - Wccftech",
             "sentiment": "NEGATIVE",
-            "score": 0.9748578667640686,
+            "score": 0.8347662091255188,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Most of Wall Street rises, but sinking AI stocks send it lower for the week - AP News",
+            "title": "Nvidia Stock Continues Slide Amid Tech Sell-Off - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.890877902507782,
+            "score": 0.974699854850769,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Polestar banned from US market under rule targeting China-linked connected vehicles - Fox Business",
@@ -94,19 +147,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Historic layoffs: VW expected to cut 100,000 workers - Axios",
+            "title": "Markets News, June 26, 2026: S&P 500, Nasdaq Post Weekly Losses as Tech Sell-Off Continues - Investopedia",
             "sentiment": "NEGATIVE",
-            "score": 0.9695919752120972,
+            "score": 0.9736812710762024,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Why Moderna Is Today\u2019s Top S&P 500 Stock - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9144178628921509,
-            "signal": "BULLISH",
+            "title": "Historic layoffs: VW expected to cut 100,000 workers - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9695919752120972,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -130,29 +183,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron Just Delivered Great News for Intel, AMD, Arm, and Qualcomm Stock Investors - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.9071695804595947,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC",
-                "AMD"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Apple raises iPad and MacBook prices as memory chip costs surge - Fox Business",
             "sentiment": "POSITIVE",
             "score": 0.8903137445449829,
@@ -170,27 +200,35 @@
             ]
         },
         {
-            "title": "SpaceX Index Era Sets Up Clash Among Shorts and Passive Billions - Bloomberg.com",
+            "title": "Laptop Prices Have Passed the Point of No Return - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.9436052441596985,
+            "score": 0.7955772876739502,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "AAPL"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Inside the 'bizarre, mind-boggling experience' of being ghosted by your boss - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.8773854970932007,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Amtrak's Penn Station plan includes loads of public benches, a rarity in NYC - Gothamist",
             "sentiment": "NEGATIVE",
             "score": 0.782371461391449,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gen Z\u2019s hiring hell is real: 1 in 3 employers admit they\u2019re replacing entry-level roles with AI - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8832457661628723,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -223,15 +261,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI IPO Fears Hit Oracle and Other Stocks Exposed to the ChatGPT Maker - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9689640998840332,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "K102\u2019s Amy James another victim of iHeartMedia cuts - Bring Me The News",
             "sentiment": "NEGATIVE",
             "score": 0.8422659039497375,
@@ -250,44 +279,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "China Gives Coal Room to Grow in New Five-Year Energy Plan - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9135583639144897,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SK Hynix prepares U.S. listing at $166 per share \u2014 here's why HSBC says it could be worth 20% more - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9347197413444519,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Apple\u2019s Price Increase Spooks Markets | June 25 Review & Preview - Barron's",
+            "title": "After Tesla Fatally Crashes Into Home, Outrage on Capitol Hill - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.9572743773460388,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Sen. Blumenthal demands Tesla be held accountable for alleged self-driving crash - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8188000917434692,
+            "score": 0.8964240550994873,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -323,15 +317,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9403403401374817,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "A pilot incapacitated, a crash landing and a close call. What we know about the latest aviation incidents - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.8133236765861511,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
