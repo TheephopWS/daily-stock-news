@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-06-28 10:16:45 UTC",
-    "total_articles": 26,
-    "bullish_articles": 10,
-    "bearish_articles": 16,
+    "last_updated": "2026-06-28 12:53:18 UTC",
+    "total_articles": 30,
+    "bullish_articles": 11,
+    "bearish_articles": 19,
     "articles": [
         {
             "title": "Apple seeks to buy memory chips from blacklisted Chinese company - Financial Times",
@@ -67,6 +67,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Strategy loses its bitcoin premium as enterprise mNAV dips below 1 - The Block",
+            "sentiment": "NEGATIVE",
+            "score": 0.9748578667640686,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Most of Wall Street rises, but sinking AI stocks send it lower for the week - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.890877902507782,
@@ -80,15 +89,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.8714219331741333,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tech Took a Header. The Rest of the Market Marched On. - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.8900089263916016,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -112,6 +112,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Corporate profits soar to the highest level since the 1950s, by one measure - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9463458061218262,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "FuelCell Energy Rockets 24%, Bloom Energy Tumbles 14% in a Stunning Fuel Cell Divergence - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
             "score": 0.9056954979896545,
@@ -126,18 +135,18 @@
             "score": 0.9071695804595947,
             "signal": "BULLISH",
             "tickers": [
-                "AMD",
-                "INTC"
+                "INTC",
+                "AMD"
             ],
-            "primary_ticker": "AMD",
+            "primary_ticker": "INTC",
             "ticker_impacts": [
                 {
-                    "ticker": "AMD",
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "AMD",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -161,21 +170,13 @@
             ]
         },
         {
-            "title": "Laptop Prices Have Passed the Point of No Return - Gizmodo",
+            "title": "SpaceX Index Era Sets Up Clash Among Shorts and Passive Billions - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7955772876739502,
+            "score": 0.9436052441596985,
             "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Inside the 'bizarre, mind-boggling experience' of being ghosted by your boss - Business Insider",
@@ -231,6 +232,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "K102\u2019s Amy James another victim of iHeartMedia cuts - Bring Me The News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8422659039497375,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Bankrupt fried chicken chain franchisee closes more locations - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.9375492930412292,
@@ -243,6 +253,15 @@
             "title": "China Gives Coal Room to Grow in New Five-Year Energy Plan - Bloomberg.com",
             "sentiment": "POSITIVE",
             "score": 0.9135583639144897,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SK Hynix prepares U.S. listing at $166 per share \u2014 here's why HSBC says it could be worth 20% more - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9347197413444519,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -277,6 +296,23 @@
             "ticker_impacts": [
                 {
                     "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Former executive sues Meta over attempts to \u2018silence\u2019 her memoir, \u2018Careless People\u2019 - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7831498384475708,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
                     "impact": "negative",
                     "relevance": "high"
                 }
