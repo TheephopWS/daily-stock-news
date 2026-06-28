@@ -1,17 +1,75 @@
 {
-    "last_updated": "2026-06-28 18:49:09 UTC",
-    "total_articles": 29,
-    "bullish_articles": 8,
-    "bearish_articles": 21,
+    "last_updated": "2026-06-28 21:46:28 UTC",
+    "total_articles": 33,
+    "bullish_articles": 10,
+    "bearish_articles": 23,
     "articles": [
         {
-            "title": "United Airlines flight almost hit drone \u2018100 feet below us\u2019 in scary near-collision at Newark Airport - New York Post",
+            "title": "Thousands of Vespas swarm Rome\u2019s historic center to mark iconic scooter\u2019s 80th anniversary - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.7037593126296997,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "How Domo Went From a $2.8 Billion Darling to Fighting for Its Survival - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9122908115386963,
+            "score": 0.952338695526123,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Top Stories: Massive Apple Price Increases, iOS 27 Beta 2, and More - MacRumors",
+            "sentiment": "NEGATIVE",
+            "score": 0.9370599985122681,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Ferrari Luce launches in China at 586,600 USD, all 88 cars sell out immediately - CarNewsChina.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9129437208175659,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9603484272956848,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL",
+                "MSFT"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "MSTR's BTC premium has vanished as enterprise mNAV falls below 1 - CoinDesk",
@@ -32,18 +90,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Cathie Wood makes striking Palantir move as shares tumble - thestreet.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7117594480514526,
-            "signal": "BULLISH",
+            "title": "The 30-year fixed mortgage was supposed to be predictable. Two costs quietly broke that promise - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8201956748962402,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The 30-year fixed mortgage was supposed to be predictable. Two costs quietly broke that promise - Fortune",
+            "title": "German carmakers embark on historic job cuts as Chinese rivals flood market - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8201956748962402,
+            "score": 0.9585226774215698,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -59,21 +117,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Apple asks Trump admin to approve Chinese RAM after product price increases - 9to5Mac",
+            "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8083391785621643,
+            "score": 0.7538305521011353,
             "signal": "BULLISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Saks officially emerges from Chapter 11 bankruptcy with less debt and a new name - ABC News - Breaking News, Latest News and Videos",
@@ -94,18 +144,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Wall Street regulator investigating prediction market giant Polymarket - Politico",
+            "title": "Labor strike ends with new contract at acclaimed Seattle oyster bar - The Seattle Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9389075040817261,
+            "score": 0.9422920346260071,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Labor strike ends with new contract at acclaimed Seattle oyster bar - The Seattle Times",
+            "title": "Heatmap Highlights: Tech rotation, defensive surge shape S&P 500 (SP500:) - Seeking Alpha",
             "sentiment": "NEGATIVE",
-            "score": 0.9422920346260071,
+            "score": 0.9120149612426758,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -156,10 +206,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Historic layoffs: VW expected to cut 100,000 workers - Axios",
+            "title": "Oil prices drop as more ships move through the Strait of Hormuz - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9695919752120972,
+            "score": 0.9727501273155212,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why Moderna Is Today\u2019s Top S&P 500 Stock - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9144178628921509,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -183,38 +242,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Apple raises iPad and MacBook prices as memory chip costs surge - Fox Business",
+            "title": "Micron Just Delivered Great News for Intel, AMD, Arm, and Qualcomm Stock Investors - The Motley Fool",
             "sentiment": "POSITIVE",
-            "score": 0.8903137445449829,
+            "score": 0.9071695804595947,
             "signal": "BULLISH",
             "tickers": [
-                "AAPL"
+                "AMD",
+                "INTC"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": "AMD",
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Laptop Prices Have Passed the Point of No Return - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.7955772876739502,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
+            "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9209676384925842,
+            "signal": "BULLISH",
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Amtrak's Penn Station plan includes loads of public benches, a rarity in NYC - Gothamist",
@@ -252,19 +309,19 @@
             ]
         },
         {
-            "title": "Why breakthrough GLP-1 weight loss pills may be a bad thing for employer insurance coverage - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8435734510421753,
-            "signal": "BULLISH",
+            "title": "Prediction: SanDisk Has Rallied Too Far, Too Fast. The Price Target Warns of 20%+ Downside - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.8087979555130005,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "K102\u2019s Amy James another victim of iHeartMedia cuts - Bring Me The News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8422659039497375,
-            "signal": "BEARISH",
+            "title": "Why breakthrough GLP-1 weight loss pills may be a bad thing for employer insurance coverage - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8435734510421753,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -277,6 +334,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "'The cult of Elon': SpaceX investors grapple with volatility amid big swings - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9716817140579224,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "After Tesla Fatally Crashes Into Home, Outrage on Capitol Hill - Newser",
@@ -294,32 +368,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Former executive sues Meta over attempts to \u2018silence\u2019 her memoir, \u2018Careless People\u2019 - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7831498384475708,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Mortgage rates tick slightly higher amid Iran, inflation uncertainty - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.9403403401374817,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
