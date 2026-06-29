@@ -1,9 +1,61 @@
 {
-    "last_updated": "2026-06-29 13:52:08 UTC",
-    "total_articles": 34,
-    "bullish_articles": 7,
-    "bearish_articles": 27,
+    "last_updated": "2026-06-29 16:38:24 UTC",
+    "total_articles": 33,
+    "bullish_articles": 11,
+    "bearish_articles": 22,
     "articles": [
+        {
+            "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.862339198589325,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "FBI warns Microsoft users about passwordless scam - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.751716673374176,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "'We don't view this as a bubble' that will pop soon: Wall Street weighs surging AI costs on stock market rally - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9349769949913025,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "LA delays $30 'Olympic wage' until after games as hotel owners warn of layoffs, economic fallout - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9628435373306274,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "A 'perfect storm' points to a much smaller U.S. auto market by 2040 - CNBC",
             "sentiment": "NEGATIVE",
@@ -23,6 +75,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "AI jitters meet a jobs report and falling oil prices: What to watch this week - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8015549182891846,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Nearly 1 million bottles of heart and kidney medication recalled over foreign substance found on tablets - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9393627643585205,
@@ -30,23 +91,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "AI \u2018exuberance\u2019 risks ending in lengthy investment bust, BIS warns - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9702540636062622,
-            "signal": "BEARISH",
-            "tickers": [
-                "UBER"
-            ],
-            "primary_ticker": "UBER",
-            "ticker_impacts": [
-                {
-                    "ticker": "UBER",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "AOC puts major tech company on notice amid looming price increases: 'Far too big' - Fox News",
@@ -84,6 +128,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "US Dollar Strength Drives 29% Gold Pullback From All-Time High - FXLeaders",
+            "sentiment": "POSITIVE",
+            "score": 0.9268078207969666,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Google just took crown Verizon held for 22 years - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.9472149014472961,
@@ -110,15 +163,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Michael Burry pulls back on massive Palantir short bet - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7716554999351501,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Major airline announces daily flights from California to Japan amid surging demand - New York Post",
             "sentiment": "POSITIVE",
             "score": 0.9263095259666443,
@@ -128,10 +172,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tech Equity Sales Renew AI Debt-Binge Worries - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.9628896713256836,
-            "signal": "BEARISH",
+            "title": "Potato chip recall upgraded to highest FDA risk level over salmonella concerns - ABC11 News",
+            "sentiment": "POSITIVE",
+            "score": 0.8712970018386841,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -155,15 +199,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "New hollow-core fiber test pushes internet speeds to 1.2Tb/s - Interesting Engineering",
-            "sentiment": "POSITIVE",
-            "score": 0.8211724758148193,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Thousands of Vespas swarm Rome\u2019s historic center to mark iconic scooter\u2019s 80th anniversary - AP News",
             "sentiment": "POSITIVE",
             "score": 0.7037593126296997,
@@ -178,37 +213,20 @@
             "score": 0.7517201900482178,
             "signal": "BULLISH",
             "tickers": [
-                "AAPL",
-                "MSFT"
+                "MSFT",
+                "AAPL"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "MSFT",
+                    "ticker": "AAPL",
                     "impact": "positive",
                     "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Top Stories: Massive Apple Price Increases, iOS 27 Beta 2, and More - MacRumors",
-            "sentiment": "NEGATIVE",
-            "score": 0.9370599985122681,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
                 }
             ]
         },
@@ -231,9 +249,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "German carmakers embark on historic job cuts as Chinese rivals flood market - Financial Times",
+            "title": "China industrial profits stay resilient as economy leans on factories, exports - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9585226774215698,
+            "score": 0.9674060344696045,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -252,15 +270,6 @@
             "title": "Laid Off at 57, She Faces a Double Social Security Hit: Years of Zero Earnings Now, and the Pull to Claim Early at 62 - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
             "score": 0.8333780169487,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China\u2019s Industrial Profit Gains Dip in Sign of Weakness - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7929116487503052,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -330,31 +339,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Gold looks broken, but the only thing that has changed is the price - KITCO",
+            "title": "Volkswagen to Cut 100,000 Jobs as Tesla and China Close In - Not a Tesla App",
             "sentiment": "NEGATIVE",
-            "score": 0.9531297087669373,
+            "score": 0.9405601620674133,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gen Z\u2019s hiring hell is real: 1 in 3 employers admit they\u2019re replacing entry-level roles with AI - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8832457661628723,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Amtrak's Penn Station plan includes loads of public benches, a rarity in NYC - Gothamist",
-            "sentiment": "NEGATIVE",
-            "score": 0.782371461391449,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
