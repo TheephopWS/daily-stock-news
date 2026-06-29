@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-06-29 11:07:28 UTC",
-    "total_articles": 36,
+    "last_updated": "2026-06-29 13:52:08 UTC",
+    "total_articles": 34,
     "bullish_articles": 7,
-    "bearish_articles": 29,
+    "bearish_articles": 27,
     "articles": [
         {
             "title": "A 'perfect storm' points to a much smaller U.S. auto market by 2040 - CNBC",
@@ -14,9 +14,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "Dollar hits 13-month high as foreign investors overlook worries about Trump - The Washington Post",
+            "sentiment": "POSITIVE",
+            "score": 0.9146631360054016,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Nearly 1 million bottles of heart and kidney medication recalled over foreign substance found on tablets - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9393625259399414,
+            "score": 0.9393627643585205,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -40,6 +49,23 @@
             ]
         },
         {
+            "title": "AOC puts major tech company on notice amid looming price increases: 'Far too big' - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.911228358745575,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss - CoinDesk",
             "sentiment": "NEGATIVE",
             "score": 0.974150538444519,
@@ -51,39 +77,16 @@
         {
             "title": "Aussie sounds alarm over scary trend with smart glasses: 'People have no idea' - Yahoo Lifestyle Australia",
             "sentiment": "NEGATIVE",
-            "score": 0.8835780620574951,
+            "score": 0.8835785984992981,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Google caps Meta\u2019s Gemini use as AI demand strains capacity - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9579576253890991,
-            "signal": "BEARISH",
-            "tickers": [
-                "META",
-                "GOOGL"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Google just took crown Verizon held for 22 years - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9472150206565857,
+            "score": 0.9472149014472961,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -98,9 +101,18 @@
             ]
         },
         {
+            "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8707259893417358,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Michael Burry pulls back on massive Palantir short bet - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7716541886329651,
+            "score": 0.7716554999351501,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -109,7 +121,7 @@
         {
             "title": "Major airline announces daily flights from California to Japan amid surging demand - New York Post",
             "sentiment": "POSITIVE",
-            "score": 0.9263094067573547,
+            "score": 0.9263095259666443,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -125,9 +137,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "Police: Father and daughter, 11, shot outside Hallandale Beach McDonald\u2019s; suspect at large - WPLG Local 10",
+            "sentiment": "NEGATIVE",
+            "score": 0.8240677714347839,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Nobel economist warns AI doomsday job fears could become self-fulfilling prophecy - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8515756130218506,
+            "score": 0.8515757918357849,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -136,7 +157,7 @@
         {
             "title": "New hollow-core fiber test pushes internet speeds to 1.2Tb/s - Interesting Engineering",
             "sentiment": "POSITIVE",
-            "score": 0.8211728930473328,
+            "score": 0.8211724758148193,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -145,25 +166,39 @@
         {
             "title": "Thousands of Vespas swarm Rome\u2019s historic center to mark iconic scooter\u2019s 80th anniversary - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.7037603855133057,
+            "score": 0.7037593126296997,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Billionaire Jeremy Grantham Dismisses Bitcoin, Says Crypto Will Fade 'With a Whimper' - Decrypt",
-            "sentiment": "NEGATIVE",
-            "score": 0.7633046507835388,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "Soaring iPad, Xbox Prices Reveal Pain of Memory Chip Mess - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7517201900482178,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL",
+                "MSFT"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Top Stories: Massive Apple Price Increases, iOS 27 Beta 2, and More - MacRumors",
             "sentiment": "NEGATIVE",
-            "score": 0.9370598793029785,
+            "score": 0.9370599985122681,
             "signal": "BEARISH",
             "tickers": [
                 "AAPL"
@@ -180,40 +215,8 @@
         {
             "title": "Air Canada Captain Removed From Cockpit After Medical Emergency, Passengers Help Restrain Him - Live and Let's Fly",
             "sentiment": "NEGATIVE",
-            "score": 0.8357117772102356,
+            "score": 0.8357112407684326,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9603484272956848,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL",
-                "MSFT"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "MSTR's BTC premium has vanished as enterprise mNAV falls below 1 - CoinDesk",
-            "sentiment": "POSITIVE",
-            "score": 0.8917113542556763,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -221,7 +224,16 @@
         {
             "title": "Polestar Faces a Ban on Selling Its EVs in the US - CNET",
             "sentiment": "NEGATIVE",
-            "score": 0.8816662430763245,
+            "score": 0.8816663026809692,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "German carmakers embark on historic job cuts as Chinese rivals flood market - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9585226774215698,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -230,7 +242,7 @@
         {
             "title": "Don't expect pre-war gas or airfare prices any time soon - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.942331850528717,
+            "score": 0.9423317313194275,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -239,7 +251,7 @@
         {
             "title": "Laid Off at 57, She Faces a Double Social Security Hit: Years of Zero Earnings Now, and the Pull to Claim Early at 62 - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.8333783149719238,
+            "score": 0.8333780169487,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -248,7 +260,7 @@
         {
             "title": "China\u2019s Industrial Profit Gains Dip in Sign of Weakness - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7929124236106873,
+            "score": 0.7929116487503052,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -257,25 +269,16 @@
         {
             "title": "Utility boss warns US faces blackouts due to power supply shortfall - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.7764529585838318,
+            "score": 0.7764551639556885,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Historic layoffs: VW expected to cut 100,000 workers - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9695919752120972,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Saks officially emerges from Chapter 11 bankruptcy with less debt and a new name - AP News",
+            "title": "Saks officially emerges from Chapter 11 bankruptcy with less debt and a new name - ABC News - Breaking News, Latest News and Videos",
             "sentiment": "POSITIVE",
-            "score": 0.7669478058815002,
+            "score": 0.7618818283081055,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -284,7 +287,7 @@
         {
             "title": "Wall Street veteran warns of epic stock market crash - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8722968101501465,
+            "score": 0.8722973465919495,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -293,7 +296,7 @@
         {
             "title": "The month Generative AI lost its mojo - Marcus on AI | Substack",
             "sentiment": "NEGATIVE",
-            "score": 0.8916083574295044,
+            "score": 0.891608715057373,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -302,7 +305,16 @@
         {
             "title": "Tech stocks just had one of their worst weeks in a year. Here\u2019s how AI momentum went off the rails. - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9087881445884705,
+            "score": 0.90878826379776,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX stock sheds 17% in first week of trade - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9705595374107361,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -311,7 +323,7 @@
         {
             "title": "Elon Musk Calls IBM\u2019s 0.7-nanometer Chip Naming Misleading, Says Atoms Should Decide Process Node Labels - Wccftech",
             "sentiment": "NEGATIVE",
-            "score": 0.8347660899162292,
+            "score": 0.8347662091255188,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -327,35 +339,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tech Took a Header. The Rest of the Market Marched On. - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.8900086879730225,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "\u2018Careless People\u2019 author claims Meta surveilled her for a year to enforce her silence - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8091580867767334,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Gen Z\u2019s hiring hell is real: 1 in 3 employers admit they\u2019re replacing entry-level roles with AI - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.8832456469535828,
+            "score": 0.8832457661628723,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -364,37 +350,11 @@
         {
             "title": "Amtrak's Penn Station plan includes loads of public benches, a rarity in NYC - Gothamist",
             "sentiment": "NEGATIVE",
-            "score": 0.7823715209960938,
+            "score": 0.782371461391449,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Why breakthrough GLP-1 weight loss pills may be a bad thing for employer insurance coverage - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8435737490653992,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Elon Musk loses trillionaire status after tech sell-off erases billions from fortune - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9738633632659912,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         }
     ]
 }
