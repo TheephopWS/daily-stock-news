@@ -1,9 +1,45 @@
 {
-    "last_updated": "2026-06-30 04:49:59 UTC",
-    "total_articles": 26,
-    "bullish_articles": 5,
-    "bearish_articles": 21,
+    "last_updated": "2026-06-30 07:40:49 UTC",
+    "total_articles": 27,
+    "bullish_articles": 7,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "Ford hired AI and sacked humans. It backfired badly - The Independent",
+            "sentiment": "NEGATIVE",
+            "score": 0.8932635188102722,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock futures edge higher, Asia mixed as renewed U.S.-Iran attacks push oil prices up: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8437666296958923,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Award-winning brewery closes with no notice - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9416300058364868,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Fidelity reveals serious gap in retirement portfolios - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9669426083564758,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "MAHA feels betrayed after Supreme Court ruling on Monsanto, glyphosate - The Hill",
             "sentiment": "NEGATIVE",
@@ -22,30 +58,21 @@
             ]
         },
         {
-            "title": "Ford rehires \u2018gray beard\u2019 engineers after AI falls short - TechCrunch",
+            "title": "Why Aren\u2019t Gas Prices Falling Faster? Chevron CFO Responds As Trump Turns Up The Heat On Big Oil: 'Doing Everything That We Can...' - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7470911741256714,
+            "score": 0.9506500363349915,
             "signal": "BEARISH",
             "tickers": [
-                "INTC"
+                "CVX"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "CVX",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "CVX",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Fired up parents defend enraged dad for reprimanding stranger who said \u2018shut up\u2019 to teen girls - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8362843990325928,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Four Black women. Nine degrees. Not one steady paycheck. - The Washington Post",
@@ -66,15 +93,61 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia - Yahoo Finance",
+            "title": "As Trump Doubles Down on Quantum Computing, This Is the Top-Performing Stock to Buy YTD - Barchart.com",
             "sentiment": "POSITIVE",
-            "score": 0.8651459217071533,
+            "score": 0.9239193201065063,
             "signal": "BULLISH",
             "tickers": [
-                "NVDA"
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "AI Startup Firmus to Build Indonesia Data Center With Nvidia - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8007887601852417,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "INTC"
             ],
             "primary_ticker": "NVDA",
             "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Micron is about to be more profitable than any U.S. company except Nvidia and Google - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.9343342781066895,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL",
+                "NVDA"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
                 {
                     "ticker": "NVDA",
                     "impact": "positive",
@@ -90,32 +163,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "1 injured in Saturday night shooting at McDonald's on Perkins Road - WBRZ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9071539640426636,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FBI warns Microsoft users about passwordless scam - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.751716673374176,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Iconic luxury retailer exits bankruptcy after deep cuts - thestreet.com",
@@ -145,24 +192,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dollar hits 13-month high as foreign investors overlook worries about Trump - The Washington Post",
-            "sentiment": "POSITIVE",
-            "score": 0.9146631360054016,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nearly 1 million bottles of heart and kidney medication recalled over foreign substance found on tablets - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9393627643585205,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Air Canada Plane \"Swerves\" As Captain Incapacitated Mid-Flight, Leading To Emergency Diversion - One Mile at a Time",
             "sentiment": "NEGATIVE",
             "score": 0.9441638588905334,
@@ -170,6 +199,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "AI \u2018exuberance\u2019 risks ending in lengthy investment bust, BIS warns - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9702540636062622,
+            "signal": "BEARISH",
+            "tickers": [
+                "UBER"
+            ],
+            "primary_ticker": "UBER",
+            "ticker_impacts": [
+                {
+                    "ticker": "UBER",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Aussie sounds alarm over scary trend with smart glasses: 'People have no idea' - Yahoo Lifestyle Australia",
@@ -199,6 +245,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Father, 11-year-old daughter hospitalized after shooting outside McDonald\u2019s in Hallandale Beach; police searching for suspects - WSVN",
+            "sentiment": "NEGATIVE",
+            "score": 0.8578494787216187,
+            "signal": "BEARISH",
+            "tickers": [
+                "WSVN"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "WSVN",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Tech Equity Sales Renew AI Debt-Binge Worries - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.96126788854599,
@@ -208,19 +271,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Thousands of Vespas swarm Rome\u2019s historic center to mark iconic scooter\u2019s 80th anniversary - AP News",
+            "title": "New hollow-core fiber test pushes internet speeds to 1.2Tb/s - Interesting Engineering",
             "sentiment": "POSITIVE",
-            "score": 0.7037593126296997,
+            "score": 0.8211724758148193,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Polestar Faces a Ban on Selling Its EVs in the US - CNET",
-            "sentiment": "NEGATIVE",
-            "score": 0.8816663026809692,
-            "signal": "BEARISH",
+            "title": "Thousands of Vespas swarm Rome\u2019s historic center to mark iconic scooter\u2019s 80th anniversary - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.7037593126296997,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -238,24 +301,6 @@
             "title": "German carmakers embark on historic job cuts as Chinese rivals flood market - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9585226774215698,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Laid Off at 57, She Faces a Double Social Security Hit: Years of Zero Earnings Now, and the Pull to Claim Early at 62 - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.8333780169487,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Utility boss warns US faces blackouts due to power supply shortfall - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.7764551639556885,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
