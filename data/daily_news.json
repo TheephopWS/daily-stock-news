@@ -1,14 +1,108 @@
 {
-    "last_updated": "2026-06-30 19:04:36 UTC",
-    "total_articles": 35,
-    "bullish_articles": 13,
-    "bearish_articles": 22,
+    "last_updated": "2026-06-30 21:54:51 UTC",
+    "total_articles": 28,
+    "bullish_articles": 9,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "Is the vibecession real \u2014 or is the survey broken? - Silver Bulletin",
+            "title": "Top tobacco company to cut thousands of jobs - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9551036953926086,
+            "score": 0.9561643600463867,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Saks emerges from bankruptcy with a new name and a leaner store footprint - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9583017230033875,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9223932027816772,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL",
+                "META"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "JetBlue pilot reports striking a drone while landing at JFK airport - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9350631833076477,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock market today: S&P 500, Nasdaq, Dow rise as tech gains, US and Iran call to halt attacks - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9166211485862732,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Super Micro Office Raided as Taiwan Expands Chip Smuggling Probe - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.915910005569458,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Prediction: Micron Technology Stock Is Going to $3,900 in 1 Year After Its Blowout Quarter - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.880312979221344,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX Stock Options Are Now Cheap With Nasdaq-100 Inclusion Upcoming - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9623919725418091,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "NBCUniversal & Sky \u201cFit Well Together And Are Set Up For Success\u201d After Comcast Split, Mike Cavanagh Says - Deadline",
+            "sentiment": "POSITIVE",
+            "score": 0.850490391254425,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -32,29 +126,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Palantir Stock (PLTR) Rises on Nvidia Government AI Partnership - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9166606068611145,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA",
-                "PLTR"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "PLTR",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Citadel Securities Warns of \u2018Shifting Landscape\u2019 Under Warsh Fed - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9098264575004578,
@@ -73,21 +144,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron Stock: Let\u2019s Talk About Those Long-Term Contracts - Trefis",
-            "sentiment": "POSITIVE",
-            "score": 0.9518336653709412,
-            "signal": "BULLISH",
+            "title": "Microsoft stock is headed for its worst month since 2000 - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9584843516349792,
+            "signal": "BEARISH",
             "tickers": [
-                "MU"
+                "MSFT"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "MSFT",
             "ticker_impacts": [
                 {
-                    "ticker": "MU",
-                    "impact": "positive",
-                    "relevance": "medium"
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "American Airlines flight aborts Miami takeoff after business jet enters runway - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.89665687084198,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Verizon and BT form joint venture | About Verizon - Verizon",
@@ -97,46 +177,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9223932027816772,
-            "signal": "BULLISH",
-            "tickers": [
-                "META",
-                "GOOGL"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "SpaceX Stock (SPCX): Will Russell 1000 Inclusion Reverse Its Post-IPO Slump? - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9681692719459534,
-            "signal": "BEARISH",
-            "tickers": [
-                "SPCX"
-            ],
-            "primary_ticker": "SPCX",
-            "ticker_impacts": [
-                {
-                    "ticker": "SPCX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "AI Memory Crunch Hits Hardware Makers - Yahoo Finance",
@@ -162,49 +202,6 @@
             ]
         },
         {
-            "title": "Amazon Stock's Climb Leads Strong Day For Magnificent Seven - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9338011145591736,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "SpaceX Pushes US Share Sales to Record $251 Billion at Midyear - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9350385665893555,
-            "signal": "BULLISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Strategy announces $2 billion buybacks, bitcoin monetization plan and new capital framework - CoinDesk",
-            "sentiment": "POSITIVE",
-            "score": 0.7682458758354187,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Employee at Matteson Amazon shot, killed by food delivery driver, on Vollmer Road, police say - ABC7 Chicago",
             "sentiment": "NEGATIVE",
             "score": 0.8872902393341064,
@@ -222,69 +219,10 @@
             ]
         },
         {
-            "title": "Microsoft\u2019s $570 Billion Rout Sets Up Its Worst Month Since 2000 - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9658637642860413,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT",
-                "INTC"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "SK Hynix, Samsung and Micron sued over allegations of \"concerted anticompetitive behaviour\" in DRAM market - GamesIndustry.biz",
-            "sentiment": "NEGATIVE",
-            "score": 0.9609605669975281,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Australia Says Airline Worker Smuggled in a Kilo of Heroin - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.8082080483436584,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "T-Mobile Is Automatically Pushing Legacy Customers Onto Its Current Plans - CNET",
+            "title": "Palantir and Surf Air Mobility Expand Partnership to Accelerate Commercialization of OperatorOS, OwnerOS, and Enterprise Products - Business Wire",
             "sentiment": "POSITIVE",
-            "score": 0.9039459228515625,
+            "score": 0.8501861095428467,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Talawar Therapeutics and JATT II Acquisition Corp. Announce Definitive Business Combination Agreement to Create Publicly Listed Biotechnology Company Developing Potentially Best-in-Class Bispecifics for I&I Diseases - PR Newswire",
-            "sentiment": "POSITIVE",
-            "score": 0.8624079823493958,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The pro-AI movement is splintering - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9510542750358582,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -299,15 +237,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Peak Dollar Strength - Robin J Brooks | Substack",
-            "sentiment": "POSITIVE",
-            "score": 0.7874190211296082,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Red, white and glowing blue: Trump's push for new reactors reaches the finish line - NPR",
             "sentiment": "NEGATIVE",
             "score": 0.919284999370575,
@@ -317,32 +246,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta Reportedly Got Too Addicted to Google AI Tokens and Had to Be Cut Off - Gizmodo",
+            "title": "US Car Market Is Expected to Shrink - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.8799353241920471,
-            "signal": "BEARISH",
-            "tickers": [
-                "META",
-                "GOOGL"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "American Airlines plane forced to abort takeoff after another jet veers onto same runway at Miami airport - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9641323685646057,
+            "score": 0.9666538834571838,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -367,17 +273,17 @@
             "ticker_impacts": []
         },
         {
-            "title": "Your Mac and iPad prices just went up, here\u2019s why AI data centers are to blame - 9to5Mac",
+            "title": "US Stocks Get Tech Boost After AI-Fueled Selloff: Markets Wrap - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.721142053604126,
+            "score": 0.9377637505531311,
             "signal": "BULLISH",
             "tickers": [
-                "AAPL"
+                "INTC"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -401,18 +307,9 @@
             ]
         },
         {
-            "title": "New Report Says Car Market Will Have to Shrink Significantly by 2040 - Gizmodo",
+            "title": "Chevron CFO reveals why gas prices are stuck - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9523013234138489,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why Aren\u2019t Gas Prices Falling Faster? Chevron CFO Responds As Trump Turns Up The Heat On Big Oil: 'Doing Everything That We Can...' - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9506500363349915,
+            "score": 0.9304113984107971,
             "signal": "BEARISH",
             "tickers": [
                 "CVX"
@@ -442,24 +339,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Leverage That Fueled US Stock Rally Becomes a Growing Concern - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8287076950073242,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Iconic luxury retailer exits bankruptcy after deep cuts - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9387094378471375,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
