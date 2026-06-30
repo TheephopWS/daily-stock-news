@@ -1,26 +1,76 @@
 {
-    "last_updated": "2026-06-30 10:35:59 UTC",
-    "total_articles": 31,
-    "bullish_articles": 12,
-    "bearish_articles": 19,
+    "last_updated": "2026-06-30 13:09:01 UTC",
+    "total_articles": 27,
+    "bullish_articles": 9,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Comcast Announces Plans to Separate Media and Technology Businesses into Two Leading Public Companies - Comcast Corporation",
+            "title": "SpaceX's $25 billion bond sale drives huge demand - and a potential headache for investors - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8905476331710815,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gold Declines as Fresh US-Iran Tension Fans Inflation Concerns - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9510278701782227,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "World shares are mixed as tech stocks in Japan and South Korea extend losses - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.8828387260437012,
+            "score": 0.8621896505355835,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Samsung and SK Hynix plan $600bn chipmaking expansion - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.7270506024360657,
-            "signal": "BULLISH",
+            "title": "The central bank of central banks warns AI frenzy could trigger stock-market slump and jeopardize economy - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9629170894622803,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Red, white and glowing blue: Trump's push for new reactors reaches the finish line - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.919284999370575,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta Reportedly Got Too Addicted to Google AI Tokens and Had to Be Cut Off - Gizmodo",
+            "sentiment": "NEGATIVE",
+            "score": 0.8799353241920471,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL",
+                "META"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Ford hired AI and sacked humans. It backfired badly - The Independent",
@@ -32,6 +82,29 @@
             "ticker_impacts": []
         },
         {
+            "title": "Nvidia\u2019s AI chip sales in China stall, as local chipmakers like Huawei take the lead - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9636572003364563,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "INTC"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Memory Trio Samsung, SK Hynix & Micron Face Class Action Lawsuit As Prices Reach Historical High Due To Shortages - Wccftech",
             "sentiment": "NEGATIVE",
             "score": 0.9606120586395264,
@@ -41,27 +114,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening - Al Jazeera",
-            "sentiment": "POSITIVE",
-            "score": 0.7554116249084473,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Stock futures edge higher, Asia mixed as renewed U.S.-Iran attacks push oil prices up: Live updates - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.8437666296958923,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Award-winning brewery closes with no notice - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9416300058364868,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -110,23 +165,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Why Aren\u2019t Gas Prices Falling Faster? Chevron CFO Responds As Trump Turns Up The Heat On Big Oil: 'Doing Everything That We Can...' - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9506500363349915,
-            "signal": "BEARISH",
-            "tickers": [
-                "CVX"
-            ],
-            "primary_ticker": "CVX",
-            "ticker_impacts": [
-                {
-                    "ticker": "CVX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Four Black women. Nine degrees. Not one steady paycheck. - The Washington Post",
@@ -192,18 +230,18 @@
             "score": 0.9343342781066895,
             "signal": "BULLISH",
             "tickers": [
-                "NVDA",
-                "GOOGL"
+                "GOOGL",
+                "NVDA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -226,53 +264,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "IRAs hold trillions more than 401(k) plans \u2014 yet people hardly save in them - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.888434648513794,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Air Canada Plane \"Swerves\" As Captain Incapacitated Mid-Flight, Leading To Emergency Diversion - One Mile at a Time",
-            "sentiment": "NEGATIVE",
-            "score": 0.9441638588905334,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Google Caps Meta\u2019s Use of Gemini AI, Financial Times Reports - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.8544964790344238,
-            "signal": "BEARISH",
-            "tickers": [
-                "META",
-                "GOOGL",
-                "INTC"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Aussie sounds alarm over scary trend with smart glasses: 'People have no idea' - Yahoo Lifestyle Australia",
@@ -332,33 +323,6 @@
             "sentiment": "POSITIVE",
             "score": 0.8211724758148193,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Thousands of Vespas swarm Rome\u2019s historic center to mark iconic scooter\u2019s 80th anniversary - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.7037593126296997,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "German carmakers embark on historic job cuts as Chinese rivals flood market - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9585226774215698,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX stock sheds 17% in first week of trade - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9705595374107361,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
