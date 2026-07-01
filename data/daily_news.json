@@ -1,9 +1,95 @@
 {
-    "last_updated": "2026-07-01 10:39:13 UTC",
-    "total_articles": 26,
-    "bullish_articles": 9,
-    "bearish_articles": 17,
+    "last_updated": "2026-07-01 13:20:07 UTC",
+    "total_articles": 34,
+    "bullish_articles": 14,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "Stock market today: Dow, S&P 500, Nasdaq waver after record-setting session - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8027119636535645,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "How JLL\u2019s investment arm is betting big on industrial real estate - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8638867139816284,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US JOLTS Job Openings set to show US labor market remained resilient in May - FXStreet",
+            "sentiment": "NEGATIVE",
+            "score": 0.8727527856826782,
+            "signal": "BEARISH",
+            "tickers": [
+                "BLS",
+                "JOLTS"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "BLS",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "JOLTS",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Gold heads for worst quarter in more than a decade as retail frenzy fades - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9022090435028076,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9630375504493713,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Fourth of July cookout prices hit record high as America celebrates 250th birthday - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.7155652046203613,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Ford to recall over 741,000 US vehicles due to park system issue, NHTSA says - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9697204232215881,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Energy experts said gas prices would stay high. Why were they wrong? - Politico",
+            "sentiment": "POSITIVE",
+            "score": 0.8591371178627014,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Medicare will start covering obesity drugs for the first time. Here's what patients should know - CNBC",
             "sentiment": "POSITIVE",
@@ -14,28 +100,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb after tech rebounds - Yahoo Finance",
+            "title": "French biotech stock soars 34% after new data on experimental medicine - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7699287533760071,
+            "score": 0.9036024808883667,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock futures inch higher after the Dow posts new record close: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9436403512954712,
-            "signal": "BULLISH",
+            "title": "'Not constructive': Tim Cook blames Micron for Apple's $300 price hike. Micron suggests Apple helped cause the shortage - moneywise.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8778642416000366,
+            "signal": "BEARISH",
             "tickers": [
-                "GOOGL"
+                "AAPL"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "AAPL",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "medium"
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
@@ -49,13 +135,47 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump tells US petrol retailers to reduce prices \u2018immediately\u2019 - Al Jazeera",
+            "title": "Simi Valley crash: Woman struck, killed by Tesla outside Urbane Cafe restaurant - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
-            "score": 0.9125018119812012,
+            "score": 0.8806093335151672,
             "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "The AI jobs debate just got messier - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.8866336941719055,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Super Micro Raided as Taiwan Expands Chip Smuggling Probe - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9181858897209167,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Helicopter pilot reports near second incident involving remote-controlled plane near JFK Airport - ABC7 New York",
@@ -67,9 +187,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "JPY/USD Yen Hits Four-Decade Low in Historic Slide That\u2019s Rattled Japan - Bloomberg.com",
+            "title": "China factory activity grows faster than expected in June on tech export demand - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.950455904006958,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Yen stumbles to 40-year low as clock ticks on intervention - Reuters",
             "sentiment": "NEGATIVE",
-            "score": 0.9626915454864502,
+            "score": 0.8941953182220459,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Is the vibecession real \u2014 or is the survey broken? - Silver Bulletin",
+            "sentiment": "NEGATIVE",
+            "score": 0.9551036953926086,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -90,51 +236,37 @@
             "score": 0.9096510410308838,
             "signal": "BULLISH",
             "tickers": [
-                "TSLA",
-                "GOOGL"
+                "GOOGL",
+                "TSLA"
             ],
-            "primary_ticker": "TSLA",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Supermicro (SMCI) Faces Taiwan Raids In Nvidia Chip Smuggling Probe - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8732396364212036,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA",
-                "SMCI"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
                 },
                 {
-                    "ticker": "SMCI",
-                    "impact": "negative",
+                    "ticker": "TSLA",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Duke to reinvest $129M after canceling NC offshore wind lease - Carolina Journal",
-            "sentiment": "POSITIVE",
-            "score": 0.877041220664978,
-            "signal": "BULLISH",
+            "title": "The pro-AI movement is splintering - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9510542750358582,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Wall Street Has Entirely Abandoned This Absolute $11 Billion Dividend King\u2014Here Is the 1 Aggressive Bargain I Am Accumulating on Repeat - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.9713268876075745,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -222,10 +354,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Supplements sold online through major retailers recalled nationwide over potential salmonella risk - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9644365906715393,
-            "signal": "BEARISH",
+            "title": "California gas prices set for another hike on July 1: \u2018Ridiculous\u2019 - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.9251323342323303,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -240,75 +372,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.8318790197372437,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Wall Street Is Terrified of Nike\u2019s Tuesday Earnings and a Sudden CFO Shakeup\u2014Why This Is the Ultimate Aggressive Buy on Repeat - 24/7 Wall St.",
+            "title": "Citadel Securities Warns of \u2018Shifting Landscape\u2019 Under Warsh Fed - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9274014830589294,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AI Memory Crunch Hits Hardware Makers - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8642517328262329,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT",
-                "AAPL"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Employee at Matteson Amazon shot, killed by food delivery driver, on Vollmer Road, police say - ABC7 Chicago",
-            "sentiment": "NEGATIVE",
-            "score": 0.8872902393341064,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "The central bank of central banks warns AI frenzy could trigger stock-market slump and jeopardize economy - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9629170894622803,
+            "score": 0.9098264575004578,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -324,21 +390,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "MAHA feels betrayed after Supreme Court ruling on Monsanto, glyphosate - The Hill",
-            "sentiment": "NEGATIVE",
-            "score": 0.8899153470993042,
-            "signal": "BEARISH",
-            "tickers": [
-                "MAHA"
-            ],
+            "title": "FDA Selects Seven Participants for PreCheck Pilot Program to Advance U.S. Drug Manufacturing - fda.gov",
+            "sentiment": "POSITIVE",
+            "score": 0.7507150173187256,
+            "signal": "BULLISH",
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "MAHA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         }
     ]
 }
