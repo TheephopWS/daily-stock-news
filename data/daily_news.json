@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-01 13:20:07 UTC",
+    "last_updated": "2026-07-01 16:13:18 UTC",
     "total_articles": 34,
     "bullish_articles": 14,
     "bearish_articles": 20,
@@ -28,18 +28,18 @@
             "score": 0.8727527856826782,
             "signal": "BEARISH",
             "tickers": [
-                "BLS",
-                "JOLTS"
+                "JOLTS",
+                "BLS"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "BLS",
+                    "ticker": "JOLTS",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "JOLTS",
+                    "ticker": "BLS",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -236,18 +236,18 @@
             "score": 0.9096510410308838,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL",
-                "TSLA"
+                "TSLA",
+                "GOOGL"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "TSLA",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "TSLA",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "high"
                 }
