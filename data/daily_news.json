@@ -1,9 +1,44 @@
 {
-    "last_updated": "2026-07-01 04:57:57 UTC",
-    "total_articles": 23,
+    "last_updated": "2026-07-01 07:54:36 UTC",
+    "total_articles": 28,
     "bullish_articles": 11,
-    "bearish_articles": 12,
+    "bearish_articles": 17,
     "articles": [
+        {
+            "title": "Stock futures inch higher after the Dow posts new record close: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9436403512954712,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Trump tells US petrol retailers to reduce prices \u2018immediately\u2019 - Al Jazeera",
+            "sentiment": "NEGATIVE",
+            "score": 0.9125018119812012,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China\u2019s Manufacturing Activity Expands, Buoyed by Exports - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9365839958190918,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Helicopter pilot reports near second incident involving remote-controlled plane near JFK Airport - ABC7 New York",
             "sentiment": "NEGATIVE",
@@ -14,21 +49,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "China factory activity grows faster than expected in June on tech export demand - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.950455904006958,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
+            "title": "Japanese yen sinks to 40-year low, keeping intervention risks in focus - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9717356562614441,
+            "signal": "BEARISH",
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Dow Jones Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners - Investor's Business Daily",
@@ -36,22 +63,31 @@
             "score": 0.9096510410308838,
             "signal": "BULLISH",
             "tickers": [
-                "TSLA",
-                "GOOGL"
+                "GOOGL",
+                "TSLA"
             ],
-            "primary_ticker": "TSLA",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Japan Stocks Set to Climb as Yen Hits 40-Year Low: Markets Wrap - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9707888960838318,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "RAM prices expected to rise another 40-50% in Q3 2026, and then 30% more in Q4 as AI demand outpaces supply - TechSpot",
@@ -63,36 +99,44 @@
             "ticker_impacts": []
         },
         {
-            "title": "Cargo thieves have set their sights on data center supplies - Business Insider",
+            "title": "Nearly 100K Hyundai vehicles recalled after software glitch raises crash risk - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9208203554153442,
+            "score": 0.9576334953308105,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Ford rehires veteran engineers after AI quality control fails - qz.com",
+            "title": "SpaceX Stock (SPCX): Will Russell 1000 Inclusion Reverse Its Post-IPO Slump? - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.8920956254005432,
+            "score": 0.9633291959762573,
+            "signal": "BEARISH",
+            "tickers": [
+                "SPCX"
+            ],
+            "primary_ticker": "SPCX",
+            "ticker_impacts": [
+                {
+                    "ticker": "SPCX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Wall Street Has Entirely Abandoned This Absolute $11 Billion Dividend King\u2014Here Is the 1 Aggressive Bargain I Am Accumulating on Repeat - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.9713268876075745,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Saks emerges from bankruptcy with a new name and a leaner store footprint - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9583017230033875,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Musk Is A Trillionaire Again: SpaceX And Tesla Boost Net Worth By $60 Billion - Forbes",
+            "title": "Tesla Leads Magnificent Seven Recovery, Analysts Chime In On Deliveries - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.7137227654457092,
+            "score": 0.9256644248962402,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -107,36 +151,13 @@
             ]
         },
         {
-            "title": "ECB does not need to fight inflation with \u2018same force\u2019 as in 2022-23, Lagarde says - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9326584339141846,
-            "signal": "BULLISH",
+            "title": "Saks emerges from bankruptcy with a new name and a leaner store footprint - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9583017230033875,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9223932027816772,
-            "signal": "BULLISH",
-            "tickers": [
-                "GOOGL",
-                "META"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Microsoft\u2019s $613 Billion Rout Sets Up Its Worst Month Since 2000 - Bloomberg.com",
@@ -171,6 +192,70 @@
             "ticker_impacts": []
         },
         {
+            "title": "Verizon (VZ), AT&T (T), and T-Mobile (TMUS) Stocks Slip on Starlink Mobile Threat - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9714518189430237,
+            "signal": "BEARISH",
+            "tickers": [
+                "T",
+                "TMUS",
+                "VZ"
+            ],
+            "primary_ticker": "T",
+            "ticker_impacts": [
+                {
+                    "ticker": "T",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "TMUS",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "VZ",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Prediction: Micron Technology Stock Is Going to $3,900 in 1 Year After Its Blowout Quarter - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.880312979221344,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Alphabet stock pops 4% on Dow debut, but the tech giant faces major AI questions - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8845555186271667,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Supplements sold online through major retailers recalled nationwide over potential salmonella risk - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9644365906715393,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Plummeting Gas Prices Could Bring New Economic Headaches - Newsweek",
             "sentiment": "NEGATIVE",
             "score": 0.9316071271896362,
@@ -197,43 +282,17 @@
             ]
         },
         {
-            "title": "Micron Extorts the Supply Chain to Leave Apple Carrying the Consumer Backlash - 24/7 Wall St.",
+            "title": "NIST Launches Center to Drive the Manufacture of Quantum Technologies - National Institute of Standards and Technology (.gov)",
             "sentiment": "POSITIVE",
-            "score": 0.9180828332901001,
+            "score": 0.7920078635215759,
             "signal": "BULLISH",
             "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "JPY/USD Yen Hits Four-Decade Low in Historic Slide That\u2019s Rattled Japan - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9626915454864502,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Micron Stock: Let\u2019s Talk About Those Long-Term Contracts - Trefis",
-            "sentiment": "POSITIVE",
-            "score": 0.9518336653709412,
-            "signal": "BULLISH",
-            "tickers": [
-                "MU"
+                "QMEC"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "MU",
+                    "ticker": "QMEC",
                     "impact": "positive",
                     "relevance": "medium"
                 }
