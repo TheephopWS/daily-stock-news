@@ -1,14 +1,67 @@
 {
-    "last_updated": "2026-07-01 16:13:18 UTC",
-    "total_articles": 34,
-    "bullish_articles": 14,
-    "bearish_articles": 20,
+    "last_updated": "2026-07-01 19:05:34 UTC",
+    "total_articles": 31,
+    "bullish_articles": 13,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Stock market today: Dow, S&P 500, Nasdaq waver after record-setting session - Yahoo Finance",
+            "title": "Nike is set to report earnings after the bell. Here's what to expect - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9710838794708252,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US job openings were much higher than expected in May, shrugging off uncertainty from Iran war - CNN",
             "sentiment": "POSITIVE",
-            "score": 0.8027119636535645,
+            "score": 0.9478486180305481,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Ford recalling more than 741,00 vehicles because of park system issue - ABC News - Breaking News, Latest News and Videos",
+            "sentiment": "NEGATIVE",
+            "score": 0.941938042640686,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SMCI Stock: Dell Could Get a Boost From Latest Super Micro Raid - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9154518246650696,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "iPhone 18 Pro \u2018drop test\u2019 leaks get yanked from X - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.9492620825767517,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Comcast Split Shows Bigger Is No Longer Seen As Better In The Media Business - Deadline",
+            "sentiment": "NEGATIVE",
+            "score": 0.7231118679046631,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -23,27 +76,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "US JOLTS Job Openings set to show US labor market remained resilient in May - FXStreet",
-            "sentiment": "NEGATIVE",
-            "score": 0.8727527856826782,
-            "signal": "BEARISH",
-            "tickers": [
-                "JOLTS",
-                "BLS"
-            ],
+            "title": "Stock market today: Dow, S&P 500, Nasdaq futures nudge higher after record-setting session - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9432291984558105,
+            "signal": "BULLISH",
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "JOLTS",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "BLS",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Gold heads for worst quarter in more than a decade as retail frenzy fades - Financial Times",
@@ -73,22 +112,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Ford to recall over 741,000 US vehicles due to park system issue, NHTSA says - New York Post",
+            "title": "Mamdani\u2019s New Pied-\u00e0-Terre Tax Leaves Wealthy With Few Loopholes - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9697204232215881,
+            "score": 0.92738938331604,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Energy experts said gas prices would stay high. Why were they wrong? - Politico",
-            "sentiment": "POSITIVE",
-            "score": 0.8591371178627014,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Medicare will start covering obesity drugs for the first time. Here's what patients should know - CNBC",
@@ -135,23 +173,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Simi Valley crash: Woman struck, killed by Tesla outside Urbane Cafe restaurant - ABC7 Los Angeles",
-            "sentiment": "NEGATIVE",
-            "score": 0.8806093335151672,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "The AI jobs debate just got messier - TechCrunch",
             "sentiment": "POSITIVE",
             "score": 0.8866336941719055,
@@ -159,23 +180,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Super Micro Raided as Taiwan Expands Chip Smuggling Probe - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9181858897209167,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Helicopter pilot reports near second incident involving remote-controlled plane near JFK Airport - ABC7 New York",
@@ -204,15 +208,6 @@
             ]
         },
         {
-            "title": "Yen stumbles to 40-year low as clock ticks on intervention - Reuters",
-            "sentiment": "NEGATIVE",
-            "score": 0.8941953182220459,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Is the vibecession real \u2014 or is the survey broken? - Silver Bulletin",
             "sentiment": "NEGATIVE",
             "score": 0.9551036953926086,
@@ -231,41 +226,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dow Jones Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9096510410308838,
-            "signal": "BULLISH",
-            "tickers": [
-                "TSLA",
-                "GOOGL"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "The pro-AI movement is splintering - Axios",
+            "title": "FDA\u2019s top gene therapy regulator is leaving his role - statnews.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9510542750358582,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Wall Street Has Entirely Abandoned This Absolute $11 Billion Dividend King\u2014Here Is the 1 Aggressive Bargain I Am Accumulating on Repeat - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.9713268876075745,
+            "score": 0.7078849673271179,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -279,29 +242,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9223932027816772,
-            "signal": "BULLISH",
-            "tickers": [
-                "META",
-                "GOOGL"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Microsoft\u2019s $613 Billion Rout Sets Up Its Worst Month Since 2000 - Bloomberg.com",
@@ -336,6 +276,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "ING Oil Prices Have Overshot To The Downside - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.968596339225769,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Prediction: Micron Technology Stock Is Going to $3,900 in 1 Year After Its Blowout Quarter - The Motley Fool",
             "sentiment": "POSITIVE",
             "score": 0.880312979221344,
@@ -345,22 +294,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX Stock Options Are Now Cheap With Nasdaq-100 Inclusion Upcoming - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9623919725418091,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "California gas prices set for another hike on July 1: \u2018Ridiculous\u2019 - New York Post",
+            "title": "Alphabet stock pops 4% on Dow debut, but the tech giant faces major AI questions - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9251323342323303,
+            "score": 0.8845555186271667,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Plummeting Gas Prices Could Bring New Economic Headaches - Newsweek",
@@ -375,15 +323,6 @@
             "title": "Citadel Securities Warns of \u2018Shifting Landscape\u2019 Under Warsh Fed - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9098264575004578,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Red, white and glowing blue: Trump's push for new reactors reaches the finish line - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.919284999370575,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
