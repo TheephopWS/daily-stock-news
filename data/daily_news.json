@@ -1,14 +1,23 @@
 {
-    "last_updated": "2026-07-02 18:54:19 UTC",
-    "total_articles": 16,
+    "last_updated": "2026-07-02 21:49:12 UTC",
+    "total_articles": 22,
     "bullish_articles": 4,
-    "bearish_articles": 12,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Multiple states installing new gas tax this week \u2014 as others plan to soon follow suit - New York Post",
-            "sentiment": "POSITIVE",
-            "score": 0.8776752948760986,
-            "signal": "BULLISH",
+            "title": "Stock Market Today: Dow to eke out record close, S&P 500 flat and Nasdaq declines as investors digest Fed Chair Warsh\u2019s remarks; ADP signals steadying labor market - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9712619781494141,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Micron Stock Falls Even After Analyst Forecasts Strong Demand and $1,600 Target - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9733230471611023,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -18,6 +27,33 @@
             "sentiment": "NEGATIVE",
             "score": 0.8979418873786926,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Inside the General Mills Earnings Beat That Has the Stock Rising - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9370133280754089,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nike Guides for Steeper Sales Decline as Consumers Come Under Pressure - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.8953675627708435,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump Energy Department hits its target on small nuclear reactors. Now comes the hard part. - Politico",
+            "sentiment": "POSITIVE",
+            "score": 0.745202362537384,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -42,7 +78,7 @@
         {
             "title": "GM reports 4.2% decline in Q2 U.S. sales as EV demand falls - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9655499458312988,
+            "score": 0.9693296551704407,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -85,28 +121,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "AI isn\u2019t killing jobs at these companies \u2014 it\u2019s boosting hiring - USA Today",
-            "sentiment": "POSITIVE",
-            "score": 0.8704656958580017,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Private sector added 98,000 jobs in June, below expectations, ADP says - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9570702910423279,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "S&P 500 Stocks: Sandisk Leads Seven AI Stocks That Have Skyrocketed In 2026 - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.8378073573112488,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -121,31 +139,38 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nike earnings crushed Wall Street\u2019s estimates \u2014 but here\u2019s the catch - MarketWatch",
+            "title": "Tech giants lose $2 trillion in SpaceX\u2019s IPO month: \u2018The valuations were unsustainable\u2019 - EL PA\u00cdS English",
             "sentiment": "NEGATIVE",
-            "score": 0.9711921215057373,
+            "score": 0.865277111530304,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "Ford recalls 741,195 SUVs and pickups after transmission defect raises rollaway risk: NHTSA - Fox Business",
+            "title": "Employers who laid off workers citing AI are already starting to regret it - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9673008322715759,
+            "score": 0.9537245035171509,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "DISH & Sling TV Declare Bankruptcy & Will Shut Down Part of Their Operations - | Cord Cutters News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8241147398948669,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Emergency Ordered for Largest US Power Grid as Record Heat Nears - Bloomberg.com",
@@ -155,6 +180,75 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Google's AI boom sends emissions, power use soaring - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.8000728487968445,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Another day, another illegal billion-dollar bribe to raise your electricity prices - Electrek",
+            "sentiment": "NEGATIVE",
+            "score": 0.7769966125488281,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Ford to recall more than 741,000 U.S. vehicles due to park system issue, NHTSA says - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.948552131652832,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Judge refuses to dismiss state AGs' Meta child addiction lawsuit - Yahoo",
+            "sentiment": "NEGATIVE",
+            "score": 0.9126852750778198,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Mamdani\u2019s New Pied-\u00e0-Terre Tax Leaves Wealthy With Few Loopholes - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.92738938331604,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
