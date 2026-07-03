@@ -1,22 +1,110 @@
 {
-    "last_updated": "2026-07-02 21:49:12 UTC",
+    "last_updated": "2026-07-03 01:05:00 UTC",
     "total_articles": 22,
-    "bullish_articles": 4,
-    "bearish_articles": 18,
+    "bullish_articles": 7,
+    "bearish_articles": 15,
     "articles": [
         {
-            "title": "Stock Market Today: Dow to eke out record close, S&P 500 flat and Nasdaq declines as investors digest Fed Chair Warsh\u2019s remarks; ADP signals steadying labor market - MarketWatch",
+            "title": "Stock Market Today: Nasdaq Slips, Warsh Dodges Questions on July Rate Decision \u2014 Live Updates - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9712619781494141,
+            "score": 0.7781042456626892,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Trump Just Called Micron the 'Hottest' Company in the World. The Market Yawned and Dumped It 10% - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.8208882212638855,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Alibaba, U.S. Payment Processor to Pay $600 Million in DOJ Settlement Over Illegal Drug Sales - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.7697228789329529,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta AI Cloud Push Sends Nvidia, AMD, Intel, Micron Stocks Sinking - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.8236716389656067,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC",
+                "META",
+                "AMD",
+                "NVDA"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Apple Seeks to Buy Chinese-Made Memory Chips With Lobbying Push - Bloomberg",
+            "sentiment": "POSITIVE",
+            "score": 0.9187806844711304,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Micron Stock Falls Even After Analyst Forecasts Strong Demand and $1,600 Target - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.9733230471611023,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Kroger to buy popular grocery and pharmacy retailer in $1.65B deal - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.9187160730361938,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "BlackRock\u2019s Head of Troubled Private Credit Fund to Exit After Losses - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.7993417382240295,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -43,8 +131,17 @@
         {
             "title": "Nike Guides for Steeper Sales Decline as Consumers Come Under Pressure - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8953675627708435,
+            "score": 0.9730297327041626,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Sandisk Is One of the Biggest Winners After Micron's Blowout Earnings - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.948005735874176,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -59,63 +156,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta Stock Surges on Report It\u2019s Building a Cloud Business. CoreWeave Drops. - Barron's",
+            "title": "U-Haul crashes into building hit over the weekend in Omaha\u2019s Benson neighborhood - WOWT",
             "sentiment": "NEGATIVE",
-            "score": 0.9654912352561951,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "GM reports 4.2% decline in Q2 U.S. sales as EV demand falls - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9693296551704407,
+            "score": 0.9386884570121765,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.959693193435669,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "French Shipping Company CMA CGM to Buy FedEx Supply Chain for $1.4 Billion - WSJ",
+            "title": "Potato chip recall upgraded to highest FDA risk level over salmonella concerns - ABC7 Los Angeles",
             "sentiment": "POSITIVE",
-            "score": 0.7675699591636658,
+            "score": 0.9190564751625061,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Wedbush Initiates SpaceX Coverage With 'Outperform' Rating, $190 Price Target - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9709694385528564,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Paramount to Exit Universal Distribution Joint Venture to Win EU Approval for Warner Bros. Merger - The Hollywood Reporter",
-            "sentiment": "NEGATIVE",
-            "score": 0.9057234525680542,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -130,6 +183,29 @@
             "ticker_impacts": []
         },
         {
+            "title": "Amazon fined $2.25M for withholding evidence from fraud victims - BleepingComputer",
+            "sentiment": "NEGATIVE",
+            "score": 0.9558985233306885,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN",
+                "FTC"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "FTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Gold losses ease after worst quarter in 13 years as interest rate fears hit bullion - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9609712362289429,
@@ -137,23 +213,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Tech giants lose $2 trillion in SpaceX\u2019s IPO month: \u2018The valuations were unsustainable\u2019 - EL PA\u00cdS English",
-            "sentiment": "NEGATIVE",
-            "score": 0.865277111530304,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Employers who laid off workers citing AI are already starting to regret it - CNBC",
@@ -199,56 +258,13 @@
             ]
         },
         {
-            "title": "Another day, another illegal billion-dollar bribe to raise your electricity prices - Electrek",
+            "title": "Ford Recalls More Than 740,000 Vehicles Over Transmission Issue - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.7769966125488281,
+            "score": 0.9071841239929199,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Ford to recall more than 741,000 U.S. vehicles due to park system issue, NHTSA says - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.948552131652832,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Judge refuses to dismiss state AGs' Meta child addiction lawsuit - Yahoo",
-            "sentiment": "NEGATIVE",
-            "score": 0.9126852750778198,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Mamdani\u2019s New Pied-\u00e0-Terre Tax Leaves Wealthy With Few Loopholes - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.92738938331604,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMD"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
