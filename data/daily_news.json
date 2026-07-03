@@ -1,52 +1,79 @@
 {
-    "last_updated": "2026-07-03 07:33:40 UTC",
-    "total_articles": 14,
-    "bullish_articles": 4,
-    "bearish_articles": 10,
+    "last_updated": "2026-07-03 10:17:28 UTC",
+    "total_articles": 18,
+    "bullish_articles": 5,
+    "bearish_articles": 13,
     "articles": [
+        {
+            "title": "South Korean Stocks Tumble 6% as AI Jitters Hurt Chipmakers - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9712663292884827,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock futures edge up after weak start to July trading; jobs report ahead: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9704967737197876,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SEC Probes Alleged Insider Trades That Cost Susquehanna Millions - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7858412861824036,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Giant troubled satellite TV company files Chapter 11 bankruptcy - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8551577925682068,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.8336985111236572,
+            "score": 0.8323571681976318,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Meta AI Cloud Push Sends Nvidia, AMD, Intel, Micron Stocks Sinking - Yahoo Finance",
+            "title": "Apple negotiates with blacklisted Chinese chipmakers amid AI-driven memory crunch - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8236716389656067,
+            "score": 0.9268267750740051,
             "signal": "BEARISH",
             "tickers": [
-                "INTC",
-                "AMD",
-                "META",
-                "NVDA"
+                "AAPL"
             ],
-            "primary_ticker": "INTC",
+            "primary_ticker": "AAPL",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
+                    "ticker": "AAPL",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Wedbush Initiates SpaceX Coverage With 'Outperform' Rating, $190 Price Target - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.972272515296936,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Stock Market Today: Dow to eke out record close, S&P 500 flat and Nasdaq declines as investors digest Fed Chair Warsh\u2019s remarks; ADP signals steadying labor market - MarketWatch",
@@ -67,10 +94,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "After spooking Trump into safety testing, Anthropic AI models get global release - Ars Technica",
+            "title": "\u2018We are screwed\u2019: People near data centers dread heat wave pollution. - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.8979418873786926,
+            "score": 0.8841408491134644,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Multiple states installing new gas tax this week \u2014 as others plan to soon follow suit - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.8776752948760986,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -80,15 +116,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9370133280754089,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nike Guides for Steeper Sales Decline as Consumers Come Under Pressure - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8953675627708435,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -112,15 +139,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Automakers report mixed U.S. sales results as hybrid vehicles drive market - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9517795443534851,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "U-Haul crashes into building hit over the weekend in Omaha\u2019s Benson neighborhood - WOWT",
             "sentiment": "NEGATIVE",
             "score": 0.9386884570121765,
@@ -130,30 +148,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "US-based 'Amazon of South Korea' forced to recover laptop from bottom of Chinese river in bizarre data privacy clampdown: report - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8552634119987488,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Private sector added 98,000 jobs in June, below expectations, ADP says - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.93169105052948,
+            "score": 0.9570702910423279,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Tech giants lose $2 trillion in SpaceX\u2019s IPO month: \u2018The valuations were unsustainable\u2019 - EL PA\u00cdS English",
+            "sentiment": "NEGATIVE",
+            "score": 0.865277111530304,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Employers who laid off workers citing AI are already starting to regret it - CNBC",
