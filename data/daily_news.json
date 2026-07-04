@@ -1,13 +1,80 @@
 {
-    "last_updated": "2026-07-04 15:46:31 UTC",
-    "total_articles": 19,
-    "bullish_articles": 6,
+    "last_updated": "2026-07-04 18:44:33 UTC",
+    "total_articles": 21,
+    "bullish_articles": 8,
     "bearish_articles": 13,
     "articles": [
         {
+            "title": "A California farmer is giving away tons of nectarines that he\u2019s not allowed to sell - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8748673796653748,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Virginia county urges power saving measures amid 25% electricity rate hike, data center growth - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.9328663945198059,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tesla driver charged with manslaughter in Katy crash was Googling \u2018FSD too timid\u2019 - Electrek",
+            "sentiment": "NEGATIVE",
+            "score": 0.9196969270706177,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Trump is already causing a headache for his new Fed chairman, saying the central bank's board is 'hostile' and 'doing the wrong thing' - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8843777775764465,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon 4th of July sales: Shop deals up to 60% off from Hanes, Ninja, Apple, Shark and more - Yahoo",
+            "sentiment": "POSITIVE",
+            "score": 0.7399469017982483,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL",
+                "AMZN"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Another Cruise Ship Virus Outbreak Infected More Than 100 Passengers - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.8148803114891052,
+            "score": 0.8148804903030396,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -33,34 +100,8 @@
         {
             "title": "Canada\u2019s Carney secures deal for pipeline to expand oil exports beyond US - Al Jazeera",
             "sentiment": "POSITIVE",
-            "score": 0.942961573600769,
+            "score": 0.9429616928100586,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tesla driver charged with manslaughter after crash into Texas home - USA Today",
-            "sentiment": "NEGATIVE",
-            "score": 0.8043912053108215,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Claude Fable relaunch disappoints users with nerfed performance - BleepingComputer",
-            "sentiment": "NEGATIVE",
-            "score": 0.9548060297966003,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -89,44 +130,35 @@
             ]
         },
         {
-            "title": "European Stocks Head for Best Week Since May: Markets Wrap - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8616130948066711,
-            "signal": "BULLISH",
+            "title": "Charlie Javice got one win and one loss in court this week - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.7874398231506348,
+            "signal": "BEARISH",
             "tickers": [
-                "INTC"
+                "JPM"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
-                    "impact": "positive",
+                    "ticker": "JPM",
+                    "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Palantir CEO gets painfully honest about AI\u2019s biggest problem - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8112298250198364,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "FDA upgrades popular potato chip recall to highest risk over salmonella - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.921211302280426,
+            "score": 0.9212114810943604,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Tesla Sales Blow Away Expectations. Why the Stock Is Dropping. - Barron's",
+            "title": "Tesla Gives Model Y a Proper Third Row With Long-Wheelbase L Model - Cars.com",
             "sentiment": "POSITIVE",
-            "score": 0.8309948444366455,
+            "score": 0.7039857506752014,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -141,18 +173,18 @@
             ]
         },
         {
-            "title": "JPMorgan ordered to keep paying Charlie Javice\u2019s legal bills, topping $70M - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9198020696640015,
-            "signal": "BEARISH",
+            "title": "Tesla Sales Blow Away Expectations. Why the Stock Is Dropping. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.8309948444366455,
+            "signal": "BULLISH",
             "tickers": [
-                "JPM"
+                "TSLA"
             ],
-            "primary_ticker": "JPM",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "JPM",
-                    "impact": "negative",
+                    "ticker": "TSLA",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
@@ -190,13 +222,21 @@
             ]
         },
         {
-            "title": "Growing Backlash Against AI Data Centers Spells Trouble for Tech Stocks - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9643837213516235,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Amazon to start initial Leo internet service this year as network nears 400 satellites - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.7662009596824646,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul - WIRED",
@@ -211,23 +251,6 @@
                 {
                     "ticker": "SPOT",
                     "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Amazon has deployed enough satellites to launch Leo service later this year - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7286679148674011,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
@@ -252,7 +275,16 @@
         {
             "title": "SpaceX Stock Rises Despite \u2018Catastrophic\u2019 Valuation - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.8344796299934387,
+            "score": 0.8344798684120178,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Buckle Up! We Just Entered the Next Phase of Trumpflation. - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.7718051075935364,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
