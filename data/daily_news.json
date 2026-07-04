@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-07-04 01:03:58 UTC",
-    "total_articles": 17,
-    "bullish_articles": 7,
-    "bearish_articles": 10,
+    "last_updated": "2026-07-04 04:37:28 UTC",
+    "total_articles": 20,
+    "bullish_articles": 8,
+    "bearish_articles": 12,
     "articles": [
+        {
+            "title": "Trump administration moves to gut energy efficiency rules for home appliances - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.7699465751647949,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Carney backs West Coast pipeline in win for Alberta and oil industry - Politico",
+            "sentiment": "POSITIVE",
+            "score": 0.8677550554275513,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Meta is finally catching up to OpenAI, its AI leader says - Business Insider",
             "sentiment": "POSITIVE",
@@ -28,15 +46,6 @@
             ]
         },
         {
-            "title": "125 passengers and crew hit with highly contagious stomach virus on cruise from San Francisco - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9090217351913452,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Stock Market Today: Nasdaq Falls After June Hiring Misses Expectations \u2014 Live Updates - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.7817282676696777,
@@ -46,6 +55,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.8552680015563965,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "FDA upgrades popular potato chip recall to highest risk over salmonella - Fox Business",
             "sentiment": "POSITIVE",
             "score": 0.921211302280426,
@@ -53,6 +79,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Tesla Sales Blow Away Expectations. Why the Stock Is Dropping. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.8309948444366455,
+            "signal": "BULLISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "JPMorgan ordered to keep paying Charlie Javice\u2019s legal bills, topping $70M - New York Post",
@@ -86,18 +129,35 @@
             "score": 0.9027037024497986,
             "signal": "BEARISH",
             "tickers": [
-                "GOOGL",
-                "AMZN"
+                "AMZN",
+                "GOOGL"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul - WIRED",
+            "sentiment": "NEGATIVE",
+            "score": 0.9134941101074219,
+            "signal": "BEARISH",
+            "tickers": [
+                "SPOT"
+            ],
+            "primary_ticker": "SPOT",
+            "ticker_impacts": [
+                {
+                    "ticker": "SPOT",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -121,15 +181,6 @@
             ]
         },
         {
-            "title": "Trump's job market is proving resilient. Consumer confidence is still sagging. - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.8885117173194885,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Con Edison shuts off power to parts of Bronx neighborhood on hottest day of the year - PIX11",
             "sentiment": "NEGATIVE",
             "score": 0.7124821543693542,
@@ -137,29 +188,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Micron Technology Has Fantastic News for This Artificial Intelligence (AI) Infrastructure Stock That Has More Than Doubled in 2026 - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.9234042763710022,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC",
-                "AI"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AI",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion - Ars Technica",
@@ -179,15 +207,6 @@
             ]
         },
         {
-            "title": "AI Chip Stocks Fall After Asia Selloff - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9638531804084778,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "SpaceX Stock Rises Despite \u2018Catastrophic\u2019 Valuation - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.8344796299934387,
@@ -195,6 +214,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Chip stocks selloff extends on valuation, Meta\u2019s pivot fears - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9064807295799255,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Warsh drops inflation bombshell that could reset interest-rate bets - Yahoo Finance",
@@ -210,6 +246,15 @@
             "sentiment": "POSITIVE",
             "score": 0.8323571681976318,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Hinesburg among towns dropping Fourth of July fireworks as costs double - WCAX",
+            "sentiment": "NEGATIVE",
+            "score": 0.9596551060676575,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
