@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-07-04 10:07:35 UTC",
+    "last_updated": "2026-07-04 12:48:52 UTC",
     "total_articles": 23,
-    "bullish_articles": 6,
-    "bearish_articles": 17,
+    "bullish_articles": 8,
+    "bearish_articles": 15,
     "articles": [
         {
             "title": "California farmer and food marketer spar over who can sell white nectarines - AP News",
@@ -14,9 +14,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "The AI Trade Is Losing One of Its Key Signals - Bloomberg.com",
+            "title": "The AI Trade Is Losing One of Its Key Signals - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9650999307632446,
+            "score": 0.945670485496521,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -31,22 +31,30 @@
             ]
         },
         {
-            "title": "Trump administration moves to gut energy efficiency rules for home appliances - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7699465751647949,
-            "signal": "BEARISH",
+            "title": "Canada\u2019s Carney secures deal for pipeline to expand oil exports beyond US - Al Jazeera",
+            "sentiment": "POSITIVE",
+            "score": 0.942961573600769,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Asia stocks rebound as chipmakers recover from selloff; weak oil boosts sentiment - Investing.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8940451741218567,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Tesla driver charged with manslaughter after crash into Texas home - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.8043912053108215,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Claude Fable relaunch disappoints users with nerfed performance - BleepingComputer",
@@ -58,6 +66,46 @@
             "ticker_impacts": []
         },
         {
+            "title": "Meta is finally catching up to OpenAI, its AI leader says - Business Insider",
+            "sentiment": "POSITIVE",
+            "score": 0.8945370316505432,
+            "signal": "BULLISH",
+            "tickers": [
+                "META",
+                "INTC"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "European Stocks Head for Best Week Since May: Markets Wrap - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8616130948066711,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Palantir CEO gets painfully honest about AI\u2019s biggest problem - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.8112298250198364,
@@ -67,18 +115,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "FDA upgrades popular potato chip recall to highest risk over salmonella - Fox Business",
+            "title": "Tesla deliveries beat forecasts as Europe's rebound brightens outlook - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.921211302280426,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tesla Sales Blow Away Expectations. Why the Stock Is Dropping. - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.8309948444366455,
+            "score": 0.9499794244766235,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -91,6 +130,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "FDA upgrades popular potato chip recall to highest risk over salmonella - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.921211302280426,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "JPMorgan ordered to keep paying Charlie Javice\u2019s legal bills, topping $70M - New York Post",
@@ -124,22 +172,31 @@
             "score": 0.9027037024497986,
             "signal": "BEARISH",
             "tickers": [
-                "AMZN",
-                "GOOGL"
+                "GOOGL",
+                "AMZN"
             ],
-            "primary_ticker": "AMZN",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Growing Backlash Against AI Data Centers Spells Trouble for Tech Stocks - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9643837213516235,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul - WIRED",
@@ -211,27 +268,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Up To 5 Hour Wait Times At European Airports Due To New EES Border System - Travel Off Path",
-            "sentiment": "NEGATIVE",
-            "score": 0.9494950175285339,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "June jobs report: US payrolls rose by 57,000, missing expectations - Yahoo! Finance Canada",
             "sentiment": "NEGATIVE",
             "score": 0.9710114598274231,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Blue Owl hit by $4.7bn of redemption requests as investor exodus persists - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9625692367553711,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -260,15 +299,6 @@
             "sentiment": "POSITIVE",
             "score": 0.8323571681976318,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Hinesburg among towns dropping Fourth of July fireworks as costs double - WCAX",
-            "sentiment": "NEGATIVE",
-            "score": 0.9596551060676575,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
