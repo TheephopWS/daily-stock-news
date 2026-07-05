@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-07-05 10:07:55 UTC",
-    "total_articles": 34,
+    "last_updated": "2026-07-05 12:51:07 UTC",
+    "total_articles": 27,
     "bullish_articles": 12,
-    "bearish_articles": 22,
+    "bearish_articles": 15,
     "articles": [
         {
             "title": "Passenger removed from flight at PDX after TSA finds marijuana in luggage - KPTV",
@@ -18,6 +18,15 @@
             "sentiment": "POSITIVE",
             "score": 0.9066075682640076,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Waffle House discriminated against smoking employees with illegal monthly charge, $5M lawsuit alleges - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8212231993675232,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -49,6 +58,40 @@
             ]
         },
         {
+            "title": "Tesla\u2019s strong Q2 deliveries: Four key drivers behind the surprise - Teslarati",
+            "sentiment": "POSITIVE",
+            "score": 0.929289698600769,
+            "signal": "BULLISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Tech Futures Rise After AI Dive; U.S. Markets Closed - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.7256599068641663,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "More than 100 cruise passengers and crew sickened with norovirus - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.9177619814872742,
@@ -75,62 +118,21 @@
             ]
         },
         {
-            "title": "Meta's AI Payoff Timeline Looks Messier - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.7818946838378906,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "A California farmer is giving away tons of nectarines that he\u2019s not allowed to sell - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8748672604560852,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Amazon 4th of July sales: Shop deals up to 60% off from Hanes, Ninja, Apple, Shark and more - Yahoo",
+            "title": "UK EV registrations hit 30% share in June as Tesla rebounds 42% - Electrek",
             "sentiment": "POSITIVE",
-            "score": 0.7399455904960632,
+            "score": 0.9519306421279907,
             "signal": "BULLISH",
             "tickers": [
-                "AAPL",
-                "AMZN"
+                "TSLA"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMZN",
+                    "ticker": "TSLA",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "World shares are mixed after Dow hits a new record, as some AI shares bounce back - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9368244409561157,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Trump is already causing a headache for his new Fed chairman, saying the central bank's board is 'hostile' and 'doing the wrong thing' - Fortune",
@@ -162,6 +164,15 @@
             "title": "Samsung Is Increasing LPDDR And Commodity DRAM Prices By Over 20% In Q3 After Hiking By 90% In Q1 And 50-60% In Q2 - Wccftech",
             "sentiment": "POSITIVE",
             "score": 0.9462811350822449,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Texas Stock Exchange to launch trading on Monday in test of upstart\u2019s challenge to Wall Street - The Texas Tribune",
+            "sentiment": "POSITIVE",
+            "score": 0.7279846668243408,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -204,30 +215,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Surging Wall Street profit forecasts fuel fears of \u2018earnings bubble\u2019 - Financial Times",
+            "title": "New Oregon minimum wage rates take effect - KATU",
             "sentiment": "POSITIVE",
-            "score": 0.9222694635391235,
+            "score": 0.7348136901855469,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Residents sue Microsoft over noise from Mount Pleasant data center - WISN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9469801783561707,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Claude Fable relaunch disappoints users with nerfed performance - BleepingComputer",
@@ -246,23 +240,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Charlie Javice got one win and one loss in court this week - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.787441074848175,
-            "signal": "BEARISH",
-            "tickers": [
-                "JPM"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Trump Meets Own July 4 Deadline To Go \u2018Critical\u2019 With Three New Mini Nuclear Reactors - Forbes",
@@ -291,15 +268,6 @@
             ]
         },
         {
-            "title": "Emory expanding footprint at recently-sold Northlake Mall - decaturish.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9371135830879211,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Google loses final fight over $4.7 billion Android antitrust fine - Android Authority",
             "sentiment": "NEGATIVE",
             "score": 0.9240680932998657,
@@ -317,81 +285,23 @@
             ]
         },
         {
-            "title": "Tesla deliveries beat forecasts as Europe's rebound brightens outlook - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.9499794244766235,
-            "signal": "BULLISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Stock Market Today: Dow Runs 590 Points To New High But Meta, Chip, Optical Stocks Slammed - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9649373888969421,
-            "signal": "BEARISH",
-            "tickers": [
-                "META",
-                "TSLA"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Jim Farley Wants Ford\u2019s Rivals Punished For Importing Nearly Half The Cars They Sell Here - Carscoops",
-            "sentiment": "NEGATIVE",
-            "score": 0.867544412612915,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Long-running recall on popular potato chips brands classified at FDA\u2019s highest risk level - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8857229948043823,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "A warning sign about AI\u2019s real cost, courtesy of Google and Amazon - TechCrunch",
             "sentiment": "NEGATIVE",
             "score": 0.9027037024497986,
             "signal": "BEARISH",
             "tickers": [
-                "GOOGL",
-                "AMZN"
+                "AMZN",
+                "GOOGL"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -422,23 +332,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "CoreWeave Takes Another Hit From Meta. One Analyst Sees 200% Upside for the AI Stock. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9641472101211548,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
