@@ -1,14 +1,59 @@
 {
-    "last_updated": "2026-07-06 11:01:39 UTC",
-    "total_articles": 22,
-    "bullish_articles": 7,
-    "bearish_articles": 15,
+    "last_updated": "2026-07-06 13:40:03 UTC",
+    "total_articles": 25,
+    "bullish_articles": 9,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "'It's a bull market': Wall Street sees more upside in stocks for the second half of 2026 - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8264071941375732,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July - NBC 5 Chicago",
+            "sentiment": "NEGATIVE",
+            "score": 0.9435309171676636,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "EV Batteries Are Defying Expectations After Hundreds of Thousands of Miles - WSJ",
             "sentiment": "POSITIVE",
             "score": 0.8767890930175781,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Sun Valley has spawned some memorably awful megadeals \u2014 it\u2019s a complete joke now - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.7679777145385742,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Strategy Just Announced a Major Shake-Up to Its Bitcoin Plan. Here's What It Means for MSTR Stock. - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.9313342571258545,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Heat and severe storms damper July 4th celebrations, leave hundreds of thousands without power - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9461042881011963,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -32,18 +77,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "California fruit farmer reveals results of his massive nectarine giveaway: 'Something none of us could have predicted' - New York Post",
+            "title": "Southwest Airlines leaves rivals flat-footed as bankrupt carrier folds - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7992257475852966,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Remote Montana Town Battles a Luxury Developer Over Land, Water and Identity - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8094833493232727,
+            "score": 0.9490267634391785,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -95,22 +131,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "BYD Seal 08 hits 65,000 orders in just over 30 hours with 694 hp dual motors - CarNewsChina.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9544222354888916,
-            "signal": "BULLISH",
+            "title": "Oil\u2019s Stunning Reversal Rekindles Fears of a Global Glut - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.7433253526687622,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oil\u2019s Supply Wave, Tumbling Prices Rekindle Fears of Global Glut - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9599828720092773,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Palantir doubles down on national security with Nvidia AI alliance - thestreet.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8611374497413635,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Our deals editors shopped 111 sales to find the 54 best 4th of July discounts - CNN",
@@ -122,26 +166,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "College graduates could be AI's first workforce test: Chart of the Day - Yahoo Finance",
+            "title": "Major Union Livid After 1,000 Factory Workers Were Replaced With 50 Robots - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.7357428073883057,
+            "score": 0.9575615525245667,
             "signal": "BEARISH",
-            "tickers": [
-                "GS"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GS",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "The Company Founder Who Got Fired for Ignoring His Own Return-to-Office Rules - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9056339263916016,
+            "score": 0.7418683171272278,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -192,6 +228,15 @@
             ]
         },
         {
+            "title": "Electric bills are rising as the July 4 heat wave arrives. Here's how to save. - CBS News",
+            "sentiment": "POSITIVE",
+            "score": 0.8234907388687134,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "France\u2019s Thales to Take Hit After Germany Scraps Frigate Program - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.7821325659751892,
@@ -199,32 +244,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "How America\u2019s Policy Whiplash Derailed The EV Transition - InsideEVs",
-            "sentiment": "NEGATIVE",
-            "score": 0.8970131874084473,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Manhattan luxury real estate sales hold firm despite fears of a 'Mamdani effect' - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9453504681587219,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMD"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
