@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-07-06 19:04:09 UTC",
-    "total_articles": 23,
-    "bullish_articles": 9,
+    "last_updated": "2026-07-06 21:54:25 UTC",
+    "total_articles": 22,
+    "bullish_articles": 8,
     "bearish_articles": 14,
     "articles": [
         {
-            "title": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago - BBC",
+            "title": "Metro Detroit residents surprised, dismayed to spend July 4 weekend without power - The Detroit News",
             "sentiment": "NEGATIVE",
-            "score": 0.9074583053588867,
+            "score": 0.9349886775016785,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -27,15 +27,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9445719122886658,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "PECO workers remain on strike; negotiations to resume Sunday - 6abc Philadelphia",
-            "sentiment": "NEGATIVE",
-            "score": 0.9464645385742188,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -89,6 +80,15 @@
             "title": "Exclusive | Passenger on virus-stricken California cruise ship reveals stunning details of chaotic high-seas journey - New York Post",
             "sentiment": "NEGATIVE",
             "score": 0.8108168244361877,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Union reports assaults as PECO strike nears 2nd day; company calls allegations \u2018false' - NBC10 Philadelphia",
+            "sentiment": "NEGATIVE",
+            "score": 0.9469751715660095,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -149,6 +149,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "United\u2019s New Premium 787 Grounded Again Over Reported TCAS Issue - Live and Let's Fly",
+            "sentiment": "NEGATIVE",
+            "score": 0.9713954925537109,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Oil\u2019s Supply Wave, Tumbling Prices Rekindle Fears of Global Glut - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9599828720092773,
@@ -173,32 +190,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Palantir doubles down on national security with Nvidia AI alliance - thestreet.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8611374497413635,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "MP says third day of internet outage 'disgraceful' - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9507865309715271,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Major Union Livid After 1,000 Factory Workers Were Replaced With 50 Robots - Futurism",
