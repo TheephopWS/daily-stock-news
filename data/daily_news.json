@@ -1,9 +1,41 @@
 {
-    "last_updated": "2026-07-08 07:15:28 UTC",
-    "total_articles": 12,
-    "bullish_articles": 7,
-    "bearish_articles": 5,
+    "last_updated": "2026-07-08 10:09:34 UTC",
+    "total_articles": 14,
+    "bullish_articles": 8,
+    "bearish_articles": 6,
     "articles": [
+        {
+            "title": "SpaceX lands bullish ratings from Morgan Stanley and Goldman Sachs (SPCX:NASDAQ) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.9337966442108154,
+            "signal": "BULLISH",
+            "tickers": [
+                "GS",
+                "SPCX"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "SPCX",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Asia stocks fall as AI valuation fears overshadow Samsung\u2019s blockbuster earnings - Investing.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9700876474380493,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Samsung Results Trigger Stock Rotation to Less Loved Sectors - Bloomberg.com",
             "sentiment": "NEGATIVE",
@@ -14,13 +46,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "In-N-Out unveils 6 new locations across 5 states. See where - USA Today",
-            "sentiment": "POSITIVE",
-            "score": 0.8958722352981567,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Microsoft to cut thousands of jobs, Xbox to be hit hard - DW.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9574431777000427,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom - TechCrunch",
@@ -49,10 +89,10 @@
             ]
         },
         {
-            "title": "Asian Stocks Set to Gain After Tech-Powered Rally: Markets Wrap - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9707567691802979,
-            "signal": "BEARISH",
+            "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise with AI trade in focus - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9340736269950867,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -76,29 +116,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "AMD Stock Rises as Goldman Sees Big Earnings Coming - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.8882774710655212,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMD",
-                "GS"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GS",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Publix recalls blueberries after multiple people reportedly became severely sick with E. coli. Here are the impacted states - WSFA",
             "sentiment": "NEGATIVE",
             "score": 0.8397274017333984,
@@ -106,23 +123,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Tesla Stock Climbs as Robotaxi Expansion Reaches Miami - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9332723021507263,
-            "signal": "BULLISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Strategy sheds $216 million in Bitcoin in crypto hoarder\u2019s largest sale ever - Fortune",
@@ -134,9 +134,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Versant Acquires Sports Tech Firm Full Swing For $530M - Deadline",
+            "title": "EasyJet agrees to $6.7 billion takeover bid from U.S. private equity firm Castlelake - CBS News",
             "sentiment": "POSITIVE",
-            "score": 0.8174566030502319,
+            "score": 0.9279605150222778,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "'We Just Had a Firework Hit Our Plane' - Newser",
+            "sentiment": "POSITIVE",
+            "score": 0.7179840207099915,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Sky To Take Over ITV In $2.1B Deal That Dramatically Reshapes British Television - Deadline",
+            "sentiment": "POSITIVE",
+            "score": 0.801925003528595,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
