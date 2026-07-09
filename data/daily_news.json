@@ -1,9 +1,63 @@
 {
-    "last_updated": "2026-07-09 10:32:17 UTC",
-    "total_articles": 20,
-    "bullish_articles": 8,
-    "bearish_articles": 12,
+    "last_updated": "2026-07-09 13:25:01 UTC",
+    "total_articles": 30,
+    "bullish_articles": 10,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "Stock Market Today: Dow Falls As Trump Declares Iran Ceasefire 'Over'; Micron, Sandisk Keep Losing (Live Coverage) - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9651780724525452,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Manhattan office leasing sees strongest gains in 20 years - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9274966716766357,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Major airline roasts passengers who jump up right after landing, igniting fierce backlash - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8663411140441895,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Micron Stock Tumbles Deeper Into Bear Market. Is It Time to Worry Yet? - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9736453294754028,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "10-year Treasury yield jumps to 4.57% as jumping oil prices reignite inflation fears - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8232536911964417,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "UK mom thrown out of supermarket over what she wore during heat wave: \u2018Someone can untie your top\u2019 - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8627915382385254,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Oil prices surge as US strikes Iran, reversing slide to pre-war levels - Al Jazeera",
             "sentiment": "POSITIVE",
@@ -29,6 +83,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "US Airlines Spent $6.66B on Jet Fuel in May - Newser",
+            "sentiment": "POSITIVE",
+            "score": 0.7513539791107178,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Japan\u2019s borrowing costs soar to 30-year high on debt fears - Financial Times",
@@ -58,6 +121,24 @@
             "ticker_impacts": []
         },
         {
+            "title": "Will gas prices continue to drop as violence flares in the Strait of Hormuz? - WPTZ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9641135334968567,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oregon approves PGE\u2019s 29.7% rate hike for data centers under landmark law - Oregon Public Broadcasting - OPB",
+            "sentiment": "NEGATIVE",
+            "score": 0.9588868618011475,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Data centers\u2019 energy demand threatens Trump\u2019s \u201cMade in America\u201d plan - Ars Technica",
             "sentiment": "NEGATIVE",
             "score": 0.9602383971214294,
@@ -67,9 +148,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron, Chip Stocks Fall Despite Samsung Profit Surge - Investor's Business Daily",
+            "title": "Doom Developer id Software Reportedly Loses Roughly Half Its Staff To Layoffs - Game Informer",
             "sentiment": "NEGATIVE",
-            "score": 0.9744840264320374,
+            "score": 0.9707890748977661,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -103,6 +184,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Close to a million investors of the Trump memecoin lost a collective $3.8 billion, even as the president disclosed $636 million in earnings - Yahoo",
+            "sentiment": "NEGATIVE",
+            "score": 0.8931010365486145,
+            "signal": "BEARISH",
+            "tickers": [
+                "TRUMP"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "TRUMP",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "AI Chip Stocks Fall Despite Samsung Blowout - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9601656198501587,
@@ -121,21 +219,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "US trade deficit surges amid artificial intelligence spending boom - Al Jazeera",
-            "sentiment": "POSITIVE",
-            "score": 0.8601146340370178,
-            "signal": "BULLISH",
+            "title": "Tech Weakness Resumes After Samsung Misses Lofty AI Expectations - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9708871841430664,
+            "signal": "BEARISH",
             "tickers": [
                 "INTC"
             ],
-            "primary_ticker": "INTC",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
                     "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Consumers dread rising healthcare, rent costs: New York Fed - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.94967120885849,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Walmart statement silent on any Trump role in reducing prices - The Hill",
@@ -155,24 +262,6 @@
             ]
         },
         {
-            "title": "\"We simply spread ourselves too thin\" \u2013 Xbox's Asha Sharma on firm's restructuring plans - GamesIndustry.biz",
-            "sentiment": "NEGATIVE",
-            "score": 0.9222506880760193,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "San Francisco homes selling $1M+ over asking have surged 1,700% this year - The San Francisco Standard",
-            "sentiment": "POSITIVE",
-            "score": 0.9296046495437622,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "PECO strike ends as union and utility announce deal - WHYY",
             "sentiment": "NEGATIVE",
             "score": 0.8978767991065979,
@@ -185,6 +274,15 @@
             "title": "Exclusive-Beijing is looking at curbing overseas access to China's top AI models, sources say - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.8554819822311401,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Louis Vuitton court victory against Chinese tea chain stirs up a debate over copyrights - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8728354573249817,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -208,9 +306,9 @@
             ]
         },
         {
-            "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise with AI trade in focus - Yahoo Finance",
+            "title": "Review & Preview: Monday Mojo - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.7736977338790894,
+            "score": 0.930618166923523,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
