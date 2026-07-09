@@ -1,9 +1,36 @@
 {
-    "last_updated": "2026-07-09 16:16:09 UTC",
-    "total_articles": 36,
-    "bullish_articles": 16,
-    "bearish_articles": 20,
+    "last_updated": "2026-07-09 19:00:55 UTC",
+    "total_articles": 34,
+    "bullish_articles": 13,
+    "bearish_articles": 21,
     "articles": [
+        {
+            "title": "Stock market today: Nasdaq pares losses, Dow and S&P 500 fall as oil jumps amid US-Iran tensions - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.968154788017273,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Xbox cuts impacted 158 ZeniMax workers in Texas and 52 Obsidian employees in California - Game File | Stephen Totilo",
+            "sentiment": "NEGATIVE",
+            "score": 0.9646771550178528,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Famed permabear warns SpaceX IPO could be laughed at in 50 years, 'craziest' market bet for Main Street - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.7400912046432495,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "United must face lawsuit over 'window seats' that don't have windows, judge rules - Fox Business",
             "sentiment": "NEGATIVE",
@@ -23,6 +50,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Apple to produce Made in America wireless chips with Broadcom - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.8827003836631775,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Waymo starts driverless rides in four more U.S. markets as expansion accelerates - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.8037675619125366,
@@ -32,27 +76,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron, Occidental, Delta, SpaceX, Alibaba, and More Stocks That Explain Today\u2019s Market - Barron's",
+            "title": "Execs Confused and Horrified by the Huge AI Bills After Thinking They Could Replace Workers for Free - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.9699559807777405,
+            "score": 0.9639855623245239,
             "signal": "BEARISH",
-            "tickers": [
-                "XOM",
-                "CVX"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "XOM",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "CVX",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
+        },
+        {
+            "title": "Jackdaw owner says gas field will 'not materially influence' climate change - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8764346241950989,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Outcry as Meta lets users make AI images from public Instagram profile pics - BBC",
@@ -90,6 +129,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Nvidia trades at its cheapest valuation since pre\u2011AI boom (NVDA:NASDAQ) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.7502672076225281,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Micron Stock Tumbles Deeper Into Bear Market. Is It Time to Worry Yet? - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.9736453294754028,
@@ -111,23 +167,6 @@
             "title": "EU court hands Brussels win over Apple on Big Tech rules - politico.eu",
             "sentiment": "POSITIVE",
             "score": 0.929427981376648,
-            "signal": "BULLISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Apple to buy $30bn of US-made chips from Broadcom - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8760803937911987,
             "signal": "BULLISH",
             "tickers": [
                 "AAPL"
@@ -177,15 +216,6 @@
             ]
         },
         {
-            "title": "Korean chip stocks flip to losses on lingering AI, memory pricing concerns - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9735304117202759,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Popular pet food recalled over possible sharp metal and plastic contamination - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9326422810554504,
@@ -201,15 +231,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "US Airlines Spent $6.66B on Jet Fuel in May - Newser",
-            "sentiment": "POSITIVE",
-            "score": 0.7513539791107178,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Rivian\u2019s stock sale triggers worst rout for the shares in nearly two years - MarketWatch",
@@ -239,15 +260,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Will gas prices continue to drop as violence flares in the Strait of Hormuz? - WPTZ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9641135334968567,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Oregon approves PGE\u2019s 29.7% rate hike for data centers under landmark law - Oregon Public Broadcasting - OPB",
             "sentiment": "NEGATIVE",
             "score": 0.9588868618011475,
@@ -266,9 +278,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tech Rout Deepens as Chipmakers Fall; SpaceX Gets Bullish Calls - Bloomberg.com",
+            "title": "AI stocks sink and drag markets lower worldwide - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9727108478546143,
+            "score": 0.9657422304153442,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -283,28 +295,10 @@
             ]
         },
         {
-            "title": "Doom Developer id Software Reportedly Loses Roughly Half Its Staff To Layoffs - Game Informer",
-            "sentiment": "NEGATIVE",
-            "score": 0.9707890748977661,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Eli Lilly's Market Cap Balloons, Again, On This IPO's Setback - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.9397816061973572,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "USPS to raise the price of a Forever stamp to 82 cents on Sunday. Here's what to know. - CBS News",
-            "sentiment": "POSITIVE",
-            "score": 0.9312576651573181,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -337,27 +331,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "US trade deficit surges amid artificial intelligence spending boom - Al Jazeera",
-            "sentiment": "POSITIVE",
-            "score": 0.8601146340370178,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Consumers dread rising healthcare, rent costs: New York Fed - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.94967120885849,
-            "signal": "BULLISH",
+            "title": "SpaceX launches Transporter-17 amid concerns about rideshare program\u2019s future - SpaceNews",
+            "sentiment": "NEGATIVE",
+            "score": 0.9565006494522095,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -380,22 +357,21 @@
             ]
         },
         {
-            "title": "San Francisco homes selling $1M+ over asking have surged 1,700% this year - The San Francisco Standard",
+            "title": "U.S. International Trade in Goods and Services, May 2026 - Bureau of Economic Analysis (BEA) (.gov)",
             "sentiment": "POSITIVE",
-            "score": 0.9296046495437622,
+            "score": 0.9300956726074219,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "PECO strike ends as union and utility announce deal - WHYY",
-            "sentiment": "NEGATIVE",
-            "score": 0.8978767991065979,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "BEA"
+            ],
+            "primary_ticker": "BEA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BEA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Exclusive-Beijing is looking at curbing overseas access to China's top AI models, sources say - Yahoo Finance",
