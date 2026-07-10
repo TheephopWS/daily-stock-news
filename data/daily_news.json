@@ -1,9 +1,26 @@
 {
-    "last_updated": "2026-07-10 16:11:15 UTC",
-    "total_articles": 25,
-    "bullish_articles": 7,
+    "last_updated": "2026-07-10 18:54:48 UTC",
+    "total_articles": 29,
+    "bullish_articles": 11,
     "bearish_articles": 18,
     "articles": [
+        {
+            "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.7319241762161255,
+            "signal": "BEARISH",
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "June home sales disappoint as prices reach an all-time high - CNBC",
             "sentiment": "NEGATIVE",
@@ -23,9 +40,62 @@
             "ticker_impacts": []
         },
         {
+            "title": "Hooters closes operations in multiple LIB states, new footage of Payne Valley golf cart debacle & steak dinner - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.955294132232666,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AstraZeneca, Ionis report major trial failure with heart disease drug - STAT",
+            "sentiment": "NEGATIVE",
+            "score": 0.7880918979644775,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Ohio is America's Top State for Business in 2026, capping yearslong rise with first No. 1 finish - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8850387334823608,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "PepsiCo reports that US consumers scaled back on snacks and soda as inflation bites - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9419907927513123,
+            "signal": "BULLISH",
+            "tickers": [
+                "PEP"
+            ],
+            "primary_ticker": "PEP",
+            "ticker_impacts": [
+                {
+                    "ticker": "PEP",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Millions of eye drops recalled nationwide due to potential foreign substance - The Hill",
             "sentiment": "NEGATIVE",
             "score": 0.9567815661430359,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Data Centers Are Quietly Taking Over Texas. The Pollution Could Be Catastrophic - WIRED",
+            "sentiment": "NEGATIVE",
+            "score": 0.8375380039215088,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -36,15 +106,6 @@
             "sentiment": "POSITIVE",
             "score": 0.7889277935028076,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX Stock Is Down 26% From Its Post-IPO High. History Says a $20,000 Investment Will Be Worth This Much by Mid-2027. - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.9696776866912842,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -77,6 +138,47 @@
             "ticker_impacts": []
         },
         {
+            "title": "Delta rolls out cheaper first-class, business fares with fewer perks: 'More ways to choose' - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.7082955241203308,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil Gains, US Stock Futures Drop on New Strikes: Markets Wrap - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8153191208839417,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta to Build First Data Center in Canada, Expanding Global Fleet - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7822825908660889,
+            "signal": "BULLISH",
+            "tickers": [
+                "META",
+                "INTC"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Costco quietly discontinues award-winning Kirkland item fans call 'one of the best' in the market - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.8943615555763245,
@@ -86,9 +188,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "California city votes to transform into Amsterdam pot smokers\u2019 paradise - New York Post",
+            "title": "72-year-old woman scams Silver Spring man out of $400,000 - WTOP",
             "sentiment": "NEGATIVE",
-            "score": 0.9305194020271301,
+            "score": 0.8645475506782532,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -114,42 +216,16 @@
         {
             "title": "SpaceX hits all-time low, dips below IPO opening price as rival Blue Origin seeks new funding - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9288327693939209,
+            "score": 0.967542290687561,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Should You Buy Intel Stock Before July 23? - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.8223112225532532,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "AI memory stocks trim losses as investors buy the dip - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.929306149482727,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Fed minutes: Officials deeply divided over future path of US inflation - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7841395139694214,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -165,18 +241,43 @@
             "ticker_impacts": []
         },
         {
+            "title": "IMF warns of sharp slowdown in global economy - The Hill",
+            "sentiment": "NEGATIVE",
+            "score": 0.9626439213752747,
+            "signal": "BEARISH",
+            "tickers": [
+                "IMF"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "IMF",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Apple\u2019s $30 Billion Chip Deal Boosts Broadcom Stock - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9153620004653931,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Oregon data centers face sharp electricity rate hike under new law - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9526759386062622,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The tenuous state of a US-Iran ceasefire renews anxiety over high fuel prices - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8914961814880371,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -188,14 +289,14 @@
             "score": 0.8335352540016174,
             "signal": "BEARISH",
             "tickers": [
-                "AMZN",
+                "GOOGL",
                 "MSFT",
-                "GOOGL"
+                "AMZN"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "medium"
                 },
@@ -205,7 +306,7 @@
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -221,23 +322,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Apple says it will spend $30 billion to design US-made Broadcom chips - CNN",
-            "sentiment": "POSITIVE",
-            "score": 0.8518405556678772,
-            "signal": "BULLISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Family behind top US egg producer reaped $320mn after price surge - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.8885146379470825,
@@ -251,24 +335,6 @@
             "sentiment": "POSITIVE",
             "score": 0.8232536911964417,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China NEV retail sales fall for sixth month as exports surge - CnEVPost",
-            "sentiment": "NEGATIVE",
-            "score": 0.9747787714004517,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak - SemiAnalysis",
-            "sentiment": "NEGATIVE",
-            "score": 0.9449945688247681,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
