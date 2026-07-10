@@ -1,13 +1,39 @@
 {
-    "last_updated": "2026-07-10 01:01:53 UTC",
-    "total_articles": 20,
-    "bullish_articles": 8,
-    "bearish_articles": 12,
+    "last_updated": "2026-07-10 04:42:04 UTC",
+    "total_articles": 24,
+    "bullish_articles": 9,
+    "bearish_articles": 15,
     "articles": [
         {
             "title": "Delta rolls out cheaper first-class, business fares with fewer perks: 'More ways to choose' - Fox Business",
             "sentiment": "POSITIVE",
             "score": 0.7082955241203308,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Biden-appointed judge reluctantly approves Elon Musk's settlement with SEC over Twitter disclosures - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8032839298248291,
+            "signal": "BEARISH",
+            "tickers": [
+                "X"
+            ],
+            "primary_ticker": "X",
+            "ticker_impacts": [
+                {
+                    "ticker": "X",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Oil Gains, US Stock Futures Drop on New Strikes: Markets Wrap - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8153191208839417,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,10 +49,36 @@
             "ticker_impacts": []
         },
         {
+            "title": "Zuckerberg Rips Damages Sought In Social Media Lawsuit By California, Others - Deadline",
+            "sentiment": "NEGATIVE",
+            "score": 0.9298720359802246,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Levi Strauss beats quarterly expectations, raises guidance and dividend - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.9343539476394653,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX stock closes below debut price at $148 in two-day slide after Nasdaq-100 inclusion - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8729753494262695,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -43,6 +95,23 @@
             "ticker_impacts": [
                 {
                     "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "IMF warns of sharp slowdown in global economy - The Hill",
+            "sentiment": "NEGATIVE",
+            "score": 0.9626439213752747,
+            "signal": "BEARISH",
+            "tickers": [
+                "IMF"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "IMF",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -84,15 +153,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Famed permabear warns SpaceX IPO could be laughed at in 50 years, 'craziest' market bet for Main Street - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.7400912046432495,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "United must face lawsuit over 'window seats' that don't have windows, judge rules - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9055899977684021,
@@ -118,23 +178,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Outcry as Meta lets users make AI images from public Instagram profile pics - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7889545559883118,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Micron Stock Tumbles Deeper Into Bear Market. Is It Time to Worry Yet? - Barron's",
@@ -182,21 +225,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta\u2019s Teen Safety Case Just Became a $1.4 Trillion Existential Threat - Gizmodo",
+            "title": "Why highflying chip stocks are suddenly losing their luster - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9063447117805481,
+            "score": 0.8193747401237488,
             "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "U.S. Trade Deficit Widened in May as Imports of AI Components Rose - WSJ",
@@ -212,6 +247,15 @@
             "sentiment": "POSITIVE",
             "score": 0.802466094493866,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "'Utterly inconceivable': Investing legend Jeremy Grantham says there's a 90% chance SpaceX stock will crash - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.8967700004577637,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
