@@ -1,14 +1,14 @@
 {
-    "last_updated": "2026-07-09 21:54:25 UTC",
+    "last_updated": "2026-07-10 01:01:53 UTC",
     "total_articles": 20,
-    "bullish_articles": 7,
-    "bearish_articles": 13,
+    "bullish_articles": 8,
+    "bearish_articles": 12,
     "articles": [
         {
-            "title": "Fed policymakers' inflation worries weighed on rate cut outlook at Warsh's first meeting - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.8794360160827637,
-            "signal": "BEARISH",
+            "title": "Delta rolls out cheaper first-class, business fares with fewer perks: 'More ways to choose' - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.7082955241203308,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -23,15 +23,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dow tumbles 500 points as oil jumps with Trump saying attacks on Iran to continue: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8066665530204773,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Levi Strauss beats quarterly expectations, raises guidance and dividend - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.9343539476394653,
@@ -39,6 +30,40 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Ruh-Roh: Pedigree Recalls 'Fraudulently' Shipped Dog Food - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.87691330909729,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Apple\u2019s $30 Billion Chip Deal Boosts Broadcom Stock - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9153620004653931,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Oregon data centers face sharp electricity rate hike under new law - Fox Business",
@@ -59,6 +84,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Famed permabear warns SpaceX IPO could be laughed at in 50 years, 'craziest' market bet for Main Street - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.7400912046432495,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "United must face lawsuit over 'window seats' that don't have windows, judge rules - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9055899977684021,
@@ -71,41 +105,6 @@
             "title": "Used EVs keep getting more expensive amid Iran war, high gas prices - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.9565850496292114,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Apple to produce Made in America wireless chips with Broadcom - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.8827003836631775,
-            "signal": "BULLISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Stock market today: Dow, S&P 500, Nasdaq fall as oil surges, Trump declares ceasefire 'over' - Yahoo! Finance Canada",
-            "sentiment": "NEGATIVE",
-            "score": 0.9582071304321289,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Waymo starts driverless rides in four more U.S. markets as expansion accelerates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8037675619125366,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -136,15 +135,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Midtown tower stabilized enough for repairs after fears of potential collapse - Gothamist",
-            "sentiment": "NEGATIVE",
-            "score": 0.9268348813056946,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Micron Stock Tumbles Deeper Into Bear Market. Is It Time to Worry Yet? - Barron's",
@@ -187,6 +177,32 @@
             "sentiment": "NEGATIVE",
             "score": 0.841401994228363,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta\u2019s Teen Safety Case Just Became a $1.4 Trillion Existential Threat - Gizmodo",
+            "sentiment": "NEGATIVE",
+            "score": 0.9063447117805481,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "U.S. Trade Deficit Widened in May as Imports of AI Components Rose - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.7903499007225037,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
