@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-07-12 15:44:00 UTC",
-    "total_articles": 14,
-    "bullish_articles": 4,
-    "bearish_articles": 10,
+    "last_updated": "2026-07-12 18:42:52 UTC",
+    "total_articles": 19,
+    "bullish_articles": 6,
+    "bearish_articles": 13,
     "articles": [
+        {
+            "title": "Big First for Japan in Race to Compete With SpaceX - Newser",
+            "sentiment": "POSITIVE",
+            "score": 0.9096462726593018,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Donald Trump ups the pressure on US companies in drive to lower prices - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9127035140991211,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Apple sues OpenAI for trade secret theft - Axios",
             "sentiment": "NEGATIVE",
@@ -22,6 +40,15 @@
             ]
         },
         {
+            "title": "Passenger partly sucked from Ryanair plane during flight - DW.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9287152290344238,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Oregon Attorney General Drops Motion to Delay Paramount-Warner Bros. Merger - Variety",
             "sentiment": "NEGATIVE",
             "score": 0.9479418992996216,
@@ -33,26 +60,55 @@
         {
             "title": "Downtown Austin residents question timing of planned overnight power outage amid July heat - KVUE",
             "sentiment": "NEGATIVE",
-            "score": 0.8231273889541626,
+            "score": 0.8231271505355835,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Apparent engine fan blade failure preceded rupture of Ryanair 737 window - The Air Current",
-            "sentiment": "NEGATIVE",
-            "score": 0.9463948011398315,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SK Hynix Stock Is the Star of the Show Today. Just Look at Micron Shares. - Barron's",
+            "title": "The White House Made Fixing Intel Its Pet Project. It\u2019s Working. - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.8747780323028564,
+            "score": 0.9493330717086792,
             "signal": "BULLISH",
+            "tickers": [
+                "INTC",
+                "AAPL",
+                "NVDA"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Global oil demand is dropping, but US drivers keep buying more gas - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.973706841468811,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Sherrill administration will suspend enforcement of new data law - New Jersey Globe",
+            "sentiment": "NEGATIVE",
+            "score": 0.9452810287475586,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -60,16 +116,16 @@
         {
             "title": "Stock Market Today: Dow Ends Higher; SK Hynix Jumps In U.S. Trading Debut; Moderna Tumbles - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.888153612613678,
+            "score": 0.8881539702415466,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "N.J. campaigns brace for voter data shutdown under new law - New Jersey Globe",
+            "title": "'Unusual vibration' felt before plane crash that killed Austin tech leader Joshua Baer, NTSB says - KUT",
             "sentiment": "NEGATIVE",
-            "score": 0.8861655592918396,
+            "score": 0.9366268515586853,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -78,7 +134,7 @@
         {
             "title": "'We're paranoid.' As China biotech competition heats up, American drugmakers get more secretive - Endpoints News",
             "sentiment": "NEGATIVE",
-            "score": 0.8457773923873901,
+            "score": 0.8457767367362976,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -87,7 +143,7 @@
         {
             "title": "U.S. EV Sales Rebound To Their Highest Level Since The Tax Credit Ended - InsideEVs",
             "sentiment": "POSITIVE",
-            "score": 0.7812376618385315,
+            "score": 0.781237781047821,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -96,7 +152,16 @@
         {
             "title": "Xbox CEO to Lead Task Force on Jobs After Firing 3,200 People - 80 Level",
             "sentiment": "NEGATIVE",
-            "score": 0.9325365424156189,
+            "score": 0.9325366020202637,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "This Is Why Volkswagen Group Is In Trouble Again - Motor1.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9580572843551636,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -105,7 +170,7 @@
         {
             "title": "Sanofi snags FDA thumbs up for Sarclisa as 1st cancer drug delivered by on-body injector - Fierce Pharma",
             "sentiment": "POSITIVE",
-            "score": 0.9065638184547424,
+            "score": 0.9065636992454529,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -114,25 +179,25 @@
         {
             "title": "The ChatGPT \"Super App\" Sort of Super Sucks - spyglass.org",
             "sentiment": "NEGATIVE",
-            "score": 0.8468494415283203,
+            "score": 0.8468501567840576,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "FDA Recalls 2.5M Bottles of Eyedrops Over 'Foreign Material' - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.9593638181686401,
-            "signal": "BEARISH",
+            "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9133431315422058,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The Pollution Being Churned Out by AI Data Centers Is So Severe That It's Almost Incomprehensible - Futurism",
+            "title": "Volkswagen to slash model lineup and shrink capacity \u2014 but no word on job cuts - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8375976085662842,
+            "score": 0.9673337340354919,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
