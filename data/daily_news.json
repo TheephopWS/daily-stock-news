@@ -1,13 +1,30 @@
 {
-    "last_updated": "2026-07-13 04:36:17 UTC",
-    "total_articles": 35,
-    "bullish_articles": 10,
-    "bearish_articles": 25,
+    "last_updated": "2026-07-13 07:34:29 UTC",
+    "total_articles": 30,
+    "bullish_articles": 6,
+    "bearish_articles": 24,
     "articles": [
+        {
+            "title": "S.F. protesters march on OpenAI, Anthropic and Google DeepMind to demand: \u2018Stop the AI race\u2019 - San Francisco Chronicle",
+            "sentiment": "NEGATIVE",
+            "score": 0.8707918524742126,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Major American city again takes top honors for worst possible travel reason - Fox News",
             "sentiment": "NEGATIVE",
-            "score": 0.785957396030426,
+            "score": 0.7859577536582947,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,7 +33,7 @@
         {
             "title": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.7689265012741089,
+            "score": 0.768926739692688,
             "signal": "BEARISH",
             "tickers": [
                 "AAPL"
@@ -33,7 +50,7 @@
         {
             "title": "Oregon\u2019s Attorney General withdraws effort to delay Paramount and Warner Bros. merger - The Verge",
             "sentiment": "NEGATIVE",
-            "score": 0.9177799820899963,
+            "score": 0.9177797436714172,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -42,7 +59,7 @@
         {
             "title": "The Public Got So Mad at Meta\u2019s New AI Photo Tool That It\u2019s Scrapped Already - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.9428673386573792,
+            "score": 0.9428674578666687,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -68,7 +85,34 @@
         {
             "title": "America In Focus: Fed officials divided on US inflation views; US home prices hit all-time high - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9640929102897644,
+            "score": 0.964093029499054,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The UK has finally shown it\u2019s serious about crypto - CoinDesk",
+            "sentiment": "POSITIVE",
+            "score": 0.8748067617416382,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil demand is falling, and crude prices are down. But here's why gasoline, diesel are still costly - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9168974161148071,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Major German carmakers hit by steep China sales plunge as competition heats up - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9717168211936951,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -77,17 +121,8 @@
         {
             "title": "Dairy Queen issues a Blizzard warning for Alaska - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.7231714725494385,
+            "score": 0.7231709361076355,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "While Musk's Neuralink drills into skulls, China's BrainCo bets the future of brain tech is wearable - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7254636287689209,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -95,7 +130,7 @@
         {
             "title": "John Deere agrees to 10-year right-to-repair settlement - Alpha News MN",
             "sentiment": "POSITIVE",
-            "score": 0.8545889258384705,
+            "score": 0.8545889854431152,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -104,16 +139,7 @@
         {
             "title": "Donald Trump ups the pressure on US companies in drive to lower prices - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9127037525177002,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Granada Hills Vons stays open after customer dies in bakery aisle, employees say - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9088060855865479,
+            "score": 0.9127035140991211,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -122,40 +148,11 @@
         {
             "title": "Downtown Austin residents question timing of planned overnight power outage amid July heat - KVUE",
             "sentiment": "NEGATIVE",
-            "score": 0.8231273889541626,
+            "score": 0.8231274485588074,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "The White House Made Fixing Intel Its Pet Project. It\u2019s Working. - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9493330717086792,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC",
-                "AAPL",
-                "NVDA"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Phia accused of \u2018cookie stuffing,\u2019 taking affiliate credit on purchases it didn\u2019t earn - TechCrunch",
@@ -167,27 +164,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Global oil demand is dropping, but US drivers keep buying more gas - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.973706841468811,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "After performing perfectly through the World Cup, Seattle light rail comes to a grinding halt - KUOW",
-            "sentiment": "NEGATIVE",
-            "score": 0.9567969441413879,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "High rents are forcing non-college-educated men to live at home and fall out of the labor market - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9290568828582764,
+            "score": 0.9290570020675659,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -203,53 +182,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why Is Meta (META) Stock Soaring Today - Yahoo Finance",
+            "title": "Stock Market Today: Dow Ends Higher; SK Hynix Jumps In U.S. Trading Debut; Moderna Tumbles - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.936474084854126,
+            "score": 0.888154149055481,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Waymo, Tesla must fix a dangerous issue with their robotaxis, NHTSA says - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9117336869239807,
+            "signal": "BEARISH",
             "tickers": [
-                "META"
+                "TSLA"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
-                    "impact": "positive",
+                    "ticker": "TSLA",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Stock Market Today: Dow Ends Higher; SK Hynix Jumps In U.S. Trading Debut; Moderna Tumbles - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.888153612613678,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "National debt interest and entitlement spending push FY2026 federal budget deficit toward $2 trillion - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.7970355749130249,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'Unusual vibration' felt before plane crash that killed Austin tech leader Joshua Baer, NTSB says - KUT",
-            "sentiment": "NEGATIVE",
-            "score": 0.9366268515586853,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "New York sues chemical companies, alleging decades of toxic products, PFAS pollution - NEWS10 ABC",
             "sentiment": "NEGATIVE",
-            "score": 0.8938161134719849,
+            "score": 0.8938159942626953,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -273,10 +234,10 @@
             ]
         },
         {
-            "title": "Delta Gloats To Investors That Higher Fares Are Sustainable, Even As Oil Gets Cheaper - One Mile at a Time",
-            "sentiment": "POSITIVE",
-            "score": 0.9263606667518616,
-            "signal": "BULLISH",
+            "title": "CEO under fire for mass layoffs amid foreign worker hiring spree now appointed to Fed's task force on jobs - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8859919309616089,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -284,7 +245,7 @@
         {
             "title": "Major car firms found not to have installed emissions-cheating devices - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9117461442947388,
+            "score": 0.9117459654808044,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -293,7 +254,7 @@
         {
             "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.9329442381858826,
+            "score": 0.932944118976593,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -310,17 +271,8 @@
         {
             "title": "U.S. EV Sales Rebound To Their Highest Level Since The Tax Credit Ended - InsideEVs",
             "sentiment": "POSITIVE",
-            "score": 0.7812376618385315,
+            "score": 0.7812379598617554,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "This Is Why Volkswagen Group Is In Trouble Again - Motor1.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9580574035644531,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -328,16 +280,7 @@
         {
             "title": "Kia launches new recall for 463,000 Telluride SUVs due to fire risk, urges owners to park outside - ABC News - Breaking News, Latest News and Videos",
             "sentiment": "NEGATIVE",
-            "score": 0.7283900380134583,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Xbox CEO Joins Federal Reserve's Productivity And Jobs Task Force Amid Tumultuous Time - GameSpot",
-            "sentiment": "NEGATIVE",
-            "score": 0.8505592346191406,
+            "score": 0.7283890247344971,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -346,7 +289,7 @@
         {
             "title": "Sanofi snags FDA thumbs up for Sarclisa as 1st cancer drug delivered by on-body injector - Fierce Pharma",
             "sentiment": "POSITIVE",
-            "score": 0.9065638184547424,
+            "score": 0.9065635800361633,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -364,7 +307,7 @@
         {
             "title": "Costco faces lawsuit alleging heavy metals in plant-based protein powder - WRAL",
             "sentiment": "NEGATIVE",
-            "score": 0.9357600808143616,
+            "score": 0.9357601404190063,
             "signal": "BEARISH",
             "tickers": [
                 "META"
