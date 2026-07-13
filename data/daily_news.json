@@ -1,9 +1,44 @@
 {
-    "last_updated": "2026-07-12 21:39:20 UTC",
-    "total_articles": 20,
-    "bullish_articles": 6,
-    "bearish_articles": 14,
+    "last_updated": "2026-07-13 01:05:24 UTC",
+    "total_articles": 34,
+    "bullish_articles": 9,
+    "bearish_articles": 25,
     "articles": [
+        {
+            "title": "Outrage over LA supermarket\u2019s despicable act after shopper dropped dead in bakery aisle - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8780691623687744,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.7689265012741089,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Oregon\u2019s Attorney General withdraws effort to delay Paramount and Warner Bros. merger - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.9177799820899963,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "The Public Got So Mad at Meta\u2019s New AI Photo Tool That It\u2019s Scrapped Already - Gizmodo",
             "sentiment": "NEGATIVE",
@@ -22,23 +57,6 @@
             ]
         },
         {
-            "title": "Apple sues OpenAI for trade secret theft - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9550634622573853,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "America In Focus: Fed officials divided on US inflation views; US home prices hit all-time high - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9640929102897644,
@@ -48,27 +66,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "Donald Trump ups the pressure on US companies in drive to lower prices - Financial Times",
+            "title": "Major German carmakers hit by steep China sales plunge as competition heats up - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9127037525177002,
+            "score": 0.9717168211936951,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Japan\u2019s space agency conducts first test flight for experimental reusable rocket - AP News",
+            "title": "Dairy Queen issues a Blizzard warning for Alaska - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.7231714725494385,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "While Musk's Neuralink drills into skulls, China's BrainCo bets the future of brain tech is wearable - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7872731685638428,
+            "score": 0.7254636287689209,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oregon Attorney General Drops Motion to Delay Paramount-Warner Bros. Merger - Variety",
+            "title": "John Deere agrees to 10-year right-to-repair settlement - Alpha News MN",
+            "sentiment": "POSITIVE",
+            "score": 0.8545889258384705,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Donald Trump ups the pressure on US companies in drive to lower prices - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9479418992996216,
+            "score": 0.9127037525177002,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -90,8 +126,8 @@
             "signal": "BULLISH",
             "tickers": [
                 "INTC",
-                "AAPL",
-                "NVDA"
+                "NVDA",
+                "AAPL"
             ],
             "primary_ticker": "INTC",
             "ticker_impacts": [
@@ -101,16 +137,25 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AAPL",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "AAPL",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "FCC approves first Reflect Orbital satellite - SpaceNews",
+            "sentiment": "NEGATIVE",
+            "score": 0.8557557463645935,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Phia accused of \u2018cookie stuffing,\u2019 taking affiliate credit on purchases it didn\u2019t earn - TechCrunch",
@@ -131,6 +176,24 @@
             "ticker_impacts": []
         },
         {
+            "title": "After performing perfectly through the World Cup, Seattle light rail comes to a grinding halt - KUOW",
+            "sentiment": "NEGATIVE",
+            "score": 0.9567969441413879,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "High rents are forcing non-college-educated men to live at home and fall out of the labor market - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9290568828582764,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Sherrill administration will suspend enforcement of new data law - New Jersey Globe",
             "sentiment": "NEGATIVE",
             "score": 0.9452810287475586,
@@ -140,9 +203,35 @@
             "ticker_impacts": []
         },
         {
+            "title": "Why Is Meta (META) Stock Soaring Today - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.936474084854126,
+            "signal": "BULLISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Stock Market Today: Dow Ends Higher; SK Hynix Jumps In U.S. Trading Debut; Moderna Tumbles - Investor's Business Daily",
             "sentiment": "POSITIVE",
             "score": 0.888153612613678,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "National debt interest and entitlement spending push FY2026 federal budget deficit toward $2 trillion - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.7970355749130249,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -158,6 +247,24 @@
             "ticker_impacts": []
         },
         {
+            "title": "New York sues chemical companies, alleging decades of toxic products, PFAS pollution - NEWS10 ABC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8938161134719849,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Delta Gloats To Investors That Higher Fares Are Sustainable, Even As Oil Gets Cheaper - One Mile at a Time",
+            "sentiment": "POSITIVE",
+            "score": 0.9263606667518616,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "CEO under fire for mass layoffs amid foreign worker hiring spree now appointed to Fed's task force on jobs - Fox News",
             "sentiment": "NEGATIVE",
             "score": 0.885992705821991,
@@ -165,6 +272,41 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Major car firms found not to have installed emissions-cheating devices - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9117461442947388,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "'We're paranoid.' As China biotech competition heats up, American drugmakers get more secretive - Endpoints News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8457773923873901,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.9329442381858826,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "U.S. EV Sales Rebound To Their Highest Level Since The Tax Credit Ended - InsideEVs",
@@ -176,9 +318,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "This Is Why Volkswagen Group Is In Trouble Again - Motor1.com",
+            "title": "Kia launches new recall for 463,000 Telluride SUVs due to fire risk, urges owners to park outside - ABC News - Breaking News, Latest News and Videos",
             "sentiment": "NEGATIVE",
-            "score": 0.9580574035644531,
+            "score": 0.7283900380134583,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -203,18 +345,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9133433103561401,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Costco faces lawsuit alleging heavy metals in plant-based protein powder - WRAL",
+            "sentiment": "NEGATIVE",
+            "score": 0.9357600808143616,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Volkswagen to slash model lineup and shrink capacity \u2014 but no word on job cuts - CNBC",
+            "title": "Volkswagen sales plunge as German automaker lays out plan to slash number of brands - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9673337340354919,
+            "score": 0.9757698774337769,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
