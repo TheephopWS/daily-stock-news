@@ -1,31 +1,49 @@
 {
-    "last_updated": "2026-07-14 00:53:07 UTC",
-    "total_articles": 25,
-    "bullish_articles": 6,
+    "last_updated": "2026-07-14 04:23:50 UTC",
+    "total_articles": 27,
+    "bullish_articles": 8,
     "bearish_articles": 19,
     "articles": [
         {
-            "title": "Stock futures slip after U.S., Iran exchange airstrikes again: Live updates - CNBC",
+            "title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz - Al Jazeera",
             "sentiment": "NEGATIVE",
-            "score": 0.9403257966041565,
+            "score": 0.7021128535270691,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Exclusive / Paramount weighs leaving California over Warner Bros. rift - Semafor",
+            "title": "Shirtless man destroys Waymo in busy East Hollywood intersection, video shows; LAPD arrests him for vandalism - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
-            "score": 0.8984706401824951,
+            "score": 0.9349163770675659,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Palantir CEO has a blunt verdict on OpenAI and Anthropic - thestreet.com",
+            "title": "SK Hynix shares slide 10% in Seoul after stellar Nasdaq debut - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7120977640151978,
+            "score": 0.9733031392097473,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Paramount Reportedly Considering Leaving California as State Readies Lawsuit Over Warner Bros. Discovery Merger - The Hollywood Reporter",
+            "sentiment": "NEGATIVE",
+            "score": 0.814594030380249,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Elon Musk and Sam Altman Are Fighting in Public Again - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.7405993342399597,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -58,22 +76,38 @@
             "ticker_impacts": []
         },
         {
-            "title": "Misery for California shoppers as grocery bills set to spike due to new law - New York Post",
+            "title": "Meta withdraws its controversial AI image feature - Mashable",
             "sentiment": "NEGATIVE",
-            "score": 0.7519166469573975,
+            "score": 0.7855272889137268,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "The U.S. spent $30 billion to ditch textbooks for laptops and tablets: The result is the first generation less cognitively capable than their parents - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.871210515499115,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Mamdani can\u2019t slow hot commercial market - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.9307312369346619,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "SpaceX 'built to separate retail investors from their money' - George Noble - Seeking Alpha",
@@ -85,9 +119,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "SK Hynix CEO Warns 2027 Will Be Memory\u2019s \u201cWorst Year\u201d Ever, With Shortages Set To Outlast The Decade - Wccftech",
+            "title": "California's dairy industry panics over August recycling deadline - SFGATE",
             "sentiment": "NEGATIVE",
-            "score": 0.9685303568840027,
+            "score": 0.9591866135597229,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -112,30 +146,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Outrage over LA supermarket\u2019s despicable act after shopper dropped dead in bakery aisle - New York Post",
+            "title": "Banks\u2019 Record Bond Short Sparks Quest for Answers: Credit Weekly - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8780691623687744,
+            "score": 0.9511713981628418,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Meta\u2019s AI Detector Can\u2019t Detect Images It Generated Itself, Report Finds - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.929620087146759,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "AI Is Pushing Older Employees Straight Out of the Workforce, New Report Finds - Futurism",
@@ -163,6 +180,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "These underperforming trades could yield big returns over next six months - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9527600407600403,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Delta Expects Companies To Ban Its New \u201cBasic\u201d First Class Fares - Live and Let's Fly",
@@ -210,37 +244,53 @@
             "ticker_impacts": []
         },
         {
+            "title": "$1,000 invested in SpaceX stock one month ago is now worth - Finbold",
+            "sentiment": "POSITIVE",
+            "score": 0.9202642440795898,
+            "signal": "BULLISH",
+            "tickers": [
+                "IPO"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "IPO",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Meet the Unstoppable Vanguard ETF Obliterating the S&P 500 in 2026 - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.8705312609672546,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9669209718704224,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "John Deere agrees to 10-year right-to-repair settlement - Alpha News MN",
             "sentiment": "POSITIVE",
             "score": 0.8545889258384705,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Big First for Japan in Race to Compete With SpaceX - Newser",
-            "sentiment": "POSITIVE",
-            "score": 0.9096462726593018,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Japan\u2019s top pension fund likely to brush off political pressure - The Japan Times",
-            "sentiment": "POSITIVE",
-            "score": 0.701676070690155,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Downtown Austin residents question timing of planned overnight power outage amid July heat - KVUE",
-            "sentiment": "NEGATIVE",
-            "score": 0.8231273889541626,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
