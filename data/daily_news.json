@@ -1,40 +1,168 @@
 {
-    "last_updated": "2026-07-14 12:51:29 UTC",
-    "total_articles": 31,
-    "bullish_articles": 9,
-    "bearish_articles": 22,
+    "last_updated": "2026-07-14 15:54:11 UTC",
+    "total_articles": 28,
+    "bullish_articles": 7,
+    "bearish_articles": 21,
     "articles": [
         {
-            "title": "Stock Market Today: AI Jitters Weigh on Nasdaq Futures, SK Hynix Stock Slumps \u2014 Live Updates - WSJ",
+            "title": "The $536 Billion Chip War Threatening Micron Stock - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.843810498714447,
+            "score": 0.9699605703353882,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oil prices jump and world shares are mixed as US and Iran carry out airstrikes - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.700798749923706,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "TSMC Sales Surge 36% in Fresh Sign of AI Spending Momentum - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9503734111785889,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SK Hynix Shares Drop in Seoul After Much-Hyped US Trading Debut - Bloomberg.com",
+            "title": "Paramount-WBD Merger Is Competition Killer, State Attorneys General Allege In Proposed Blockbuster Antitrust Action - Deadline",
             "sentiment": "NEGATIVE",
-            "score": 0.9716407656669617,
+            "score": 0.9257893562316895,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Millions of Americans take on debt and drain savings to afford food - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7930313348770142,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta Lifts Cost of Louisiana Data Center to $50 Billion - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.789501428604126,
+            "signal": "BULLISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "How Apple\u2019s Lawsuit Threatens to Disrupt OpenAI\u2019s Bid to Rival the iPhone - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8963866829872131,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL",
+                "INTC"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "SK Hynix Stock Drops as AI Fears Resurface - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9728421568870544,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9361744523048401,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.73139888048172,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Massive AI buildout poses latest inflation threat as consumers pay more for laptops and electricity - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8757718801498413,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Driscoll's strawberries hit with back-to-back accusations of pesticides and PFAS - SFGATE",
+            "sentiment": "NEGATIVE",
+            "score": 0.9639571905136108,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil prices march upward again as the U.S-Iran conflict intensifies\u2014and it\u2019s yet another headache for Warsh and the Fed - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9514926075935364,
+            "signal": "BEARISH",
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Treasury Two-Year Yields Rise to Highest Since 2025 as Oil Jumps - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7408871054649353,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mass General Brigham battle pits $400K top nurse pay against $8.4M CEO - Boston Herald",
+            "sentiment": "NEGATIVE",
+            "score": 0.9502679109573364,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Employees are doing the work. AI is getting the credit. - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9502285122871399,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -50,28 +178,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "MagSafe battery chargers recalled after reports of fires, burn injuries - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9607340693473816,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz - Al Jazeera",
-            "sentiment": "NEGATIVE",
-            "score": 0.7021128535270691,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Wall Street feasts on fees from SpaceX IPO and mega-mergers - Financial Times",
+            "title": "Morgan Stanley\u2019s Wilson Sees Profit Boost for Stocks Beyond Tech - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9054433107376099,
+            "score": 0.9546043872833252,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dimon pressed over whether he lobbied UK government on Epstein\u2019s advice - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.8002426028251648,
+            "signal": "BEARISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "N.J. man says he was almost kicked off plane after flight attendant found shirt offensive - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7295118570327759,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -84,58 +220,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Paramount Reportedly Considering Leaving California as State Readies Lawsuit Over Warner Bros. Discovery Merger - The Hollywood Reporter",
-            "sentiment": "NEGATIVE",
-            "score": 0.814594030380249,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Elon Musk and Sam Altman Are Fighting in Public Again - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.7405993342399597,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The overlooked obstacle keeping America from building the homes it needs - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9695801734924316,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Meta withdraws its controversial AI image feature - Mashable",
-            "sentiment": "NEGATIVE",
-            "score": 0.7855272889137268,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Mamdani can\u2019t slow hot commercial market - New York Post",
@@ -155,18 +239,9 @@
             ]
         },
         {
-            "title": "Funds Fret Over $4.4 Trillion AI Trio\u2019s Grip on Emerging Markets - Bloomberg.com",
+            "title": "Man Sucked Out of Airplane, Dangles by Seatbelt - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.9262890815734863,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX 'built to separate retail investors from their money' - George Noble - Seeking Alpha",
-            "sentiment": "NEGATIVE",
-            "score": 0.9656747579574585,
+            "score": 0.9108318090438843,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -191,15 +266,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump's ambitious energy bet could be a winning hand as the world burns more oil, gas than ever - Fox News",
-            "sentiment": "POSITIVE",
-            "score": 0.7717132568359375,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Volkswagen CEO looks to avoid plant closures as automaker moves to cut costs - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9589498043060303,
@@ -209,9 +275,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "New footage shows damaged engine on horror Ryanair flight where passenger was nearly sucked out - New York Post",
+            "title": "As college graduates fret over finding jobs, a record shortage of workers is projected - The Hechinger Report",
             "sentiment": "NEGATIVE",
-            "score": 0.7164901494979858,
+            "score": 0.944561779499054,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -236,15 +302,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Wall Street analyst sets Micron stock price target - Finbold",
-            "sentiment": "POSITIVE",
-            "score": 0.946291446685791,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "AI Is Pushing Older Employees Straight Out of the Workforce, New Report Finds - Futurism",
             "sentiment": "NEGATIVE",
             "score": 0.9613219499588013,
@@ -252,76 +309,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "America In Focus: Fed officials divided on US inflation views; US home prices hit all-time high - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9640929102897644,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "These underperforming trades could yield big returns over next six months - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9527600407600403,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Delta Expects Companies To Ban Its New \u201cBasic\u201d First Class Fares - Live and Let's Fly",
-            "sentiment": "NEGATIVE",
-            "score": 0.7720201015472412,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil demand is falling, and crude prices are down. But here's why gasoline, diesel are still costly - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9168975949287415,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "While Musk's Neuralink drills into skulls, China's BrainCo bets the future of brain tech is wearable - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7254636287689209,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9669209718704224,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
