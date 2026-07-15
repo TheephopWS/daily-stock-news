@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-07-15 10:06:33 UTC",
-    "total_articles": 36,
-    "bullish_articles": 15,
-    "bearish_articles": 21,
+    "last_updated": "2026-07-15 12:52:48 UTC",
+    "total_articles": 39,
+    "bullish_articles": 16,
+    "bearish_articles": 23,
     "articles": [
         {
-            "title": "Bank earnings live updates: JPMorgan, BofA, Goldman, Citi and Wells Fargo are set to report - CNBC",
+            "title": "JPMorgan notches the highest quarterly profit in US banking history - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8744649887084961,
+            "score": 0.8300623297691345,
             "signal": "BULLISH",
             "tickers": [
                 "JPM"
@@ -22,27 +22,54 @@
             ]
         },
         {
-            "title": "US Mexican food chain Chipotle to open first restaurant in Mexico - BBC",
+            "title": "IBM shares skid more than 20% after company warns second-quarter earnings fell short of expectations - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.757571280002594,
+            "score": 0.9747838973999023,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "China\u2019s trade surges in first half of 2026, extending growth streak - South China Morning Post",
+            "title": "US burrito giant Chipotle opening first outlet in Mexico - Yahoo! Finance Canada",
+            "sentiment": "NEGATIVE",
+            "score": 0.8121965527534485,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The world no longer has an oil problem. It has a gasoline problem - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.8867864608764648,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock futures are mixed as Middle East tensions escalate; traders await earnings and inflation data: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9409112930297852,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Michael Dell has nailed his relationship with Donald Trump, and it's paying off - Business Insider",
             "sentiment": "POSITIVE",
-            "score": 0.9508345127105713,
+            "score": 0.7010793685913086,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oil Holds Gains as Iran Stokes Inflation Worries: Markets Wrap - Bloomberg.com",
+            "title": "Even if inflation cooled in June, experts say price pressure isn\u2019t over - NBC News",
             "sentiment": "POSITIVE",
-            "score": 0.7176439166069031,
+            "score": 0.9029176831245422,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -58,13 +85,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Pentagon suspends CMMC phase two requirements, launches review of program - Federal News Network",
+            "title": "Nobel economists, tech leaders warn how AI could threaten jobs - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9533284902572632,
+            "score": 0.8865094184875488,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Newsom signs SB 168: Creating instant rebates for EV buyers - KCRA",
@@ -132,6 +167,15 @@
             "title": "SpaceX Stock Falls. It Is Too Much For Just One Analyst. - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.955811619758606,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "California fruit giant hit by shocking \u2018highly toxic\u2019 accusations and deception - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9295827746391296,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -261,9 +305,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Hundreds of economists say 'we must act now' on AI\u2019s economic impact and job displacement risks - AP News",
+            "title": "Trump regulators move to curtail lending to undocumented immigrants - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.8626582622528076,
+            "score": 0.9498918652534485,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -331,27 +375,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Apple\u2019s $650 Billion Rally Fueled by Traders Fleeing AI Selloff - Bloomberg.com",
+            "title": "Grocery chains are slashing prices. Will Oregon shoppers actually save money? - OregonLive.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9090291261672974,
+            "score": 0.8455665707588196,
             "signal": "BEARISH",
-            "tickers": [
-                "AAPL",
-                "INTC"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Uber\u2019s robotaxi lobbying effort puts it on a collision course with Waymo - TechCrunch",
@@ -371,13 +401,21 @@
             ]
         },
         {
-            "title": "Driscoll's strawberries hit with back-to-back accusations of pesticides and PFAS - SFGATE",
-            "sentiment": "NEGATIVE",
-            "score": 0.9639571905136108,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Apple Stock Hits Record Territory as Traders Sour on AI Spending - MacRumors",
+            "sentiment": "POSITIVE",
+            "score": 0.8417943716049194,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Mass General Brigham battle pits $400K top nurse pay against $8.4M CEO - Boston Herald",
@@ -404,15 +442,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Misery for California shoppers as grocery bills set to spike due to new law - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7519166469573975,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
