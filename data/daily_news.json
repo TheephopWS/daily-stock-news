@@ -1,84 +1,65 @@
 {
-    "last_updated": "2026-07-15 18:46:26 UTC",
-    "total_articles": 14,
-    "bullish_articles": 7,
-    "bearish_articles": 7,
+    "last_updated": "2026-07-15 21:42:45 UTC",
+    "total_articles": 13,
+    "bullish_articles": 5,
+    "bearish_articles": 8,
     "articles": [
         {
-            "title": "US stocks hold steadier after inflation data, even as IBM plunges - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.8989893198013306,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Authorities investigate Taco Bell and lettuce as cyclosporiasis outbreak surges - The Washington Post",
+            "title": "How a bungled email from Apple\u2019s lawyer soured talks with OpenAI months before Apple sued - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9225311279296875,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "IBM stock plummets more than 25% on Q2 earnings warning - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9721493721008301,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market Today: Big Banks\u2019 Bumper Quarter Points to Strong U.S. Economy - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9038814902305603,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "An experimental Alzheimer's drug shows promise targeting a different brain protein, new study shows - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.7420195937156677,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How Deep Can Oracle Stock Fall? - Trefis",
-            "sentiment": "NEGATIVE",
-            "score": 0.9278610348701477,
+            "score": 0.9364025592803955,
             "signal": "BEARISH",
             "tickers": [
-                "ORCL"
+                "AAPL"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "AAPL",
             "ticker_impacts": [
                 {
-                    "ticker": "ORCL",
+                    "ticker": "AAPL",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
         {
-            "title": "SK Hynix Stock Jumps as U.S. Gains Kick In for Memory-Chip Maker - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9321007132530212,
-            "signal": "BULLISH",
+            "title": "Subaru issues recall for 541,000 SUVs over label with incorrect weight rating - ABC News - Breaking News, Latest News and Videos",
+            "sentiment": "NEGATIVE",
+            "score": 0.9359254240989685,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "JPMorgan notches the highest quarterly profit in US banking history - Yahoo Finance",
+            "title": "IBM Shares Crashed 25% In Worst Day Ever\u2014Here\u2019s Why - Forbes",
+            "sentiment": "NEGATIVE",
+            "score": 0.968106746673584,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Lawsuit claims Meta\u2019s layoff decisions were made by AI, not humans - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.9213085174560547,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Bank earnings takeaways: From Goldman Sach's SpaceX IPO fees to JPMorgan's AI job cuts - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.764568567276001,
+            "score": 0.9305288791656494,
             "signal": "BULLISH",
             "tickers": [
                 "JPM"
@@ -93,62 +74,86 @@
             ]
         },
         {
-            "title": "Michael Dell has nailed his relationship with Donald Trump, and it's paying off - Business Insider",
+            "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7010793685913086,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US burrito giant Chipotle opening first outlet in Mexico - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8208149671554565,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Pentagon suspends CMMC phase two requirements, launches review of program - Federal News Network",
-            "sentiment": "NEGATIVE",
-            "score": 0.9533284902572632,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Dow Jones Futures: Nasdaq Sells Off, Oil Prices Spike On Trump Blockade; Micron, Sandisk, SK Hynix, SpaceX Dive - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.7052305936813354,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Newsom signs SB 168: Creating instant rebates for EV buyers - KCRA",
-            "sentiment": "POSITIVE",
-            "score": 0.8010607957839966,
+            "score": 0.7830488085746765,
             "signal": "BULLISH",
             "tickers": [
-                "ZEV"
+                "JPM",
+                "GS"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "JPM",
             "ticker_impacts": [
                 {
-                    "ticker": "ZEV",
+                    "ticker": "JPM",
                     "impact": "positive",
-                    "relevance": "medium"
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GS",
+                    "impact": "positive",
+                    "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Trump regulators move to curtail lending to undocumented immigrants - Politico",
+            "title": "Latest improvement on inflation isn\u2019t \u2018mission accomplished,\u2019 Fed Chairman Warsh says - CNN",
+            "sentiment": "POSITIVE",
+            "score": 0.7703505158424377,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Lucid Denies Report That Bankruptcy on the Table. The Stock Is Still Sharply Lower. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9498918652534485,
+            "score": 0.904150128364563,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Billionaire Warren Buffett stops donations to Bill Gates charity - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.7952463030815125,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Authorities investigate Taco Bell and lettuce as cyclosporiasis outbreak surges - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9225311279296875,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "An experimental Alzheimer's drug shows promise targeting a different brain protein, new study shows - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.7420195937156677,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SK Hynix Stock Jumps as U.S. Gains Kick In for Memory-Chip Maker - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9321007132530212,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Boomers didn't prepare for retirement. Their millennial kids are paying the price. - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.7181271910667419,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
