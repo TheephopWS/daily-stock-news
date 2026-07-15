@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-07-15 04:24:04 UTC",
-    "total_articles": 35,
-    "bullish_articles": 12,
-    "bearish_articles": 23,
+    "last_updated": "2026-07-15 07:09:24 UTC",
+    "total_articles": 34,
+    "bullish_articles": 9,
+    "bearish_articles": 25,
     "articles": [
         {
             "title": "US Mexican food chain Chipotle to open first restaurant in Mexico - BBC",
@@ -35,6 +35,15 @@
             "title": "Stock futures are little changed as Middle East tensions escalate; traders await earnings and inflation data: Live updates - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9695631265640259,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Pentagon suspends CMMC phase two requirements, launches review of program - Federal News Network",
+            "sentiment": "NEGATIVE",
+            "score": 0.9533284902572632,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -187,10 +196,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "The EV market is on the road to recovery thanks to high gas prices - The Verge",
-            "sentiment": "POSITIVE",
-            "score": 0.7432015538215637,
-            "signal": "BULLISH",
+            "title": "America Has a Jobs Problem, and It's Not About AI - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.9332826137542725,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -205,18 +214,26 @@
             "ticker_impacts": []
         },
         {
+            "title": "Meta pulls the plug on Muse Image following Instagram uproar - Yahoo Tech",
+            "sentiment": "NEGATIVE",
+            "score": 0.9473169445991516,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company - TechCrunch",
             "sentiment": "POSITIVE",
             "score": 0.8110583424568176,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8817828297615051,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -232,15 +249,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Did SpaceX puncture the AI bubble? - UnHerd",
-            "sentiment": "POSITIVE",
-            "score": 0.7542724013328552,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Q32\u2019s stock jumps 60% on latest phase 2 alopecia data for potential rival to JAK inhibitors - Fierce Biotech",
             "sentiment": "POSITIVE",
             "score": 0.9483375549316406,
@@ -248,32 +256,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "More Americans are relying on credit cards to buy groceries, new study finds - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9070767760276794,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Meta's AI advertising dreams have become a nightmare for brands - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.8820415139198303,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Why TSMC\u2019s Record Revenue Isn\u2019t Reviving the AI Trade - Barron's",
@@ -292,6 +274,29 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Apple\u2019s $650 Billion Rally Fueled by Traders Fleeing AI Selloff - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9090291261672974,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL",
+                "INTC"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Uber\u2019s robotaxi lobbying effort puts it on a collision course with Waymo - TechCrunch",
@@ -329,18 +334,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "America's schools are producing a generation of techno-peasants - Chicago Sun-Times",
+            "title": "Mass General Brigham battle pits $400K top nurse pay against $8.4M CEO - Boston Herald",
             "sentiment": "NEGATIVE",
-            "score": 0.7024813294410706,
+            "score": 0.9502679109573364,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Mass General Brigham battle pits $400K top nurse pay against $8.4M CEO - Boston Herald",
+            "title": "Millions of Americans take on debt and drain savings to afford food - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9502679109573364,
+            "score": 0.7930313348770142,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
