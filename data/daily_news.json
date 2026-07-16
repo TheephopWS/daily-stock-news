@@ -1,17 +1,42 @@
 {
-    "last_updated": "2026-07-16 07:12:06 UTC",
-    "total_articles": 14,
-    "bullish_articles": 5,
-    "bearish_articles": 9,
+    "last_updated": "2026-07-16 10:07:43 UTC",
+    "total_articles": 17,
+    "bullish_articles": 6,
+    "bearish_articles": 11,
     "articles": [
         {
-            "title": "ASML hikes sales forecast for second time this year on strong AI chip demand - CNBC",
+            "title": "ASML Raises Outlook, Plans Capacity Hike as AI Boosts Demand - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.7101484537124634,
+            "score": 0.947975218296051,
             "signal": "BULLISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Stripe, Advent offer to buy PayPal for more than $53 billion: Reuters - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7276321649551392,
+            "signal": "BULLISH",
+            "tickers": [
+                "PYPL"
+            ],
+            "primary_ticker": "PYPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "PYPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "SpaceX Fizzles to Close $1 Above IPO Price Weeks After Debut - Yahoo Finance",
@@ -25,7 +50,7 @@
         {
             "title": "Stock Market Today: Nasdaq Looks to Build on Tuesday Rally - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9052587151527405,
+            "score": 0.9425496459007263,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -35,6 +60,24 @@
             "title": "China reports lowest GDP growth in more than 3 years - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9731687903404236,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US futures rise on cooling rate fears, strong earnings; Iran strikes continue - Investing.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8746722340583801,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "She says her husband was sucked halfway out of a Ryanair plane - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.7070744037628174,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -70,6 +113,15 @@
             "title": "IBM Shares Crashed 25% In Worst Day Ever\u2014Here\u2019s Why - Forbes",
             "sentiment": "NEGATIVE",
             "score": 0.968106746673584,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Several Taco Bells stop serving lettuce as cyclosporiasis cases rise - Detroit Free Press",
+            "sentiment": "NEGATIVE",
+            "score": 0.9070167541503906,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -117,15 +169,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Authorities investigate Taco Bell and lettuce as cyclosporiasis outbreak surges - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9225311279296875,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Calif. city to ban drive-thrus entirely rather than approve In-N-Out - SFGATE",
             "sentiment": "NEGATIVE",
             "score": 0.7505806088447571,
@@ -144,10 +187,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "An experimental Alzheimer's drug shows promise targeting a different brain protein, new study shows - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.7420195937156677,
-            "signal": "BULLISH",
+            "title": "DOD halts cybersecurity requirements for CMMC Phase 2: \u2018The math just simply doesn't math\u2019 - DefenseScoop",
+            "sentiment": "NEGATIVE",
+            "score": 0.9287130236625671,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
