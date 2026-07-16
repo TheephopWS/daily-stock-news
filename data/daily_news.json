@@ -1,30 +1,65 @@
 {
-    "last_updated": "2026-07-16 12:56:36 UTC",
+    "last_updated": "2026-07-16 15:53:50 UTC",
     "total_articles": 17,
-    "bullish_articles": 6,
-    "bearish_articles": 11,
+    "bullish_articles": 11,
+    "bearish_articles": 6,
     "articles": [
         {
-            "title": "ASML Raises Outlook, Plans Capacity Hike as AI Boosts Demand - Bloomberg.com",
+            "title": "\u2018Arsenal of democracy\u2019: Jamie Dimon announces $24 million effort to boost American shipbuilding - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.947975218296051,
+            "score": 0.7367883324623108,
             "signal": "BULLISH",
             "tickers": [
-                "INTC"
+                "JPM"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "JPM",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Stripe, Advent offer to buy PayPal for more than $53 billion: Reuters - CNBC",
+            "title": "Stock futures rise on chip stocks bounce, encouraging inflation signs: Live updates - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7276321649551392,
+            "score": 0.9307225346565247,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "26 Meta employees accuse Mark Zuckerberg of using AI to target 8,000 layoffs against workers on medical, parental or family leave - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9668893218040466,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Morgan Stanley Joins Wall Street Rivals With Stock-Trading Boon - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9326863288879395,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "PayPal Shares Surge Premarket on Reports of $53 Billion Takeover Offer - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9079378247261047,
             "signal": "BULLISH",
             "tickers": [
                 "PYPL"
@@ -39,36 +74,9 @@
             ]
         },
         {
-            "title": "SpaceX Fizzles to Close $1 Above IPO Price Weeks After Debut - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9643738865852356,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market Today: Nasdaq Looks to Build on Tuesday Rally - WSJ",
+            "title": "Treasury yields rise as investors await latest producer price inflation data - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9425496459007263,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China reports lowest GDP growth in more than 3 years - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9731687903404236,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US futures rise on cooling rate fears, strong earnings; Iran strikes continue - Investing.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8746722340583801,
+            "score": 0.8425207138061523,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -93,6 +101,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Largest US Grid Misses Power Supply Target Amid AI Surge - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8631383180618286,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "OpenAI pushes back on Apple trade secret lawsuit - TechCrunch",
             "sentiment": "NEGATIVE",
             "score": 0.9416875243186951,
@@ -110,19 +127,19 @@
             ]
         },
         {
-            "title": "IBM Shares Crashed 25% In Worst Day Ever\u2014Here\u2019s Why - Forbes",
+            "title": "Several Taco Bells stop serving lettuce as cyclosporiasis cases rise - Detroit Free Press",
             "sentiment": "NEGATIVE",
-            "score": 0.968106746673584,
+            "score": 0.9070167541503906,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Several Taco Bells stop serving lettuce as cyclosporiasis cases rise - Detroit Free Press",
-            "sentiment": "NEGATIVE",
-            "score": 0.9070167541503906,
-            "signal": "BEARISH",
+            "title": "Social Security 2027 COLA may be 3.7% but still not offset Medicare - USA Today",
+            "sentiment": "POSITIVE",
+            "score": 0.9306868314743042,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -133,45 +150,27 @@
             "score": 0.7830488085746765,
             "signal": "BULLISH",
             "tickers": [
-                "JPM",
-                "GS"
+                "GS",
+                "JPM"
             ],
-            "primary_ticker": "JPM",
+            "primary_ticker": "GS",
             "ticker_impacts": [
                 {
-                    "ticker": "JPM",
+                    "ticker": "GS",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "GS",
+                    "ticker": "JPM",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Lucid Denies Report That Bankruptcy on the Table. The Stock Is Still Sharply Lower. - Barron's",
+            "title": "Lucid Motors denies report it\u2019s considering bankruptcy - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.904150128364563,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Billionaire Warren Buffett stops donations to Bill Gates charity - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7952463030815125,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Calif. city to ban drive-thrus entirely rather than approve In-N-Out - SFGATE",
-            "sentiment": "NEGATIVE",
-            "score": 0.7505806088447571,
+            "score": 0.9662218689918518,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -187,10 +186,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "DOD halts cybersecurity requirements for CMMC Phase 2: \u2018The math just simply doesn't math\u2019 - DefenseScoop",
-            "sentiment": "NEGATIVE",
-            "score": 0.9287130236625671,
-            "signal": "BEARISH",
+            "title": "An experimental Alzheimer's drug shows promise targeting a different brain protein, new study shows - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.7420195937156677,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SK Hynix Stock Jumps as U.S. Gains Kick In for Memory-Chip Maker - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9321007132530212,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
