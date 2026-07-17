@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-07-16 21:46:26 UTC",
-    "total_articles": 20,
+    "last_updated": "2026-07-17 00:58:06 UTC",
+    "total_articles": 21,
     "bullish_articles": 10,
-    "bearish_articles": 10,
+    "bearish_articles": 11,
     "articles": [
+        {
+            "title": "SpaceX stock hits all-time low, dips below IPO price - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9741846919059753,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "United earnings top estimates but airline expects $6 billion in added fuel costs - CNBC",
             "sentiment": "POSITIVE",
@@ -14,9 +23,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stocks rise on Big Tech gains, encouraging inflation signs: Live updates - CNBC",
+            "title": "Fed Chairman Kevin Warsh pushes past Democrats' criticism as they question Trump ties, new task forces - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9292524456977844,
+            "score": 0.894228458404541,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,15 +41,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Strait of Hormuz oil shipments fall toward pre-peace deal levels as war reignites - Yahoo! Finance Canada",
-            "sentiment": "NEGATIVE",
-            "score": 0.9680103063583374,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Lucid\u2019s bankruptcy rumor is a bad sign for the EV future - The Verge",
             "sentiment": "NEGATIVE",
             "score": 0.945286214351654,
@@ -50,37 +50,33 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stocks rise on Wall Street as oil prices swing - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.9358963966369629,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Micron Drops 8% on China Competition Fears, Dragging Intel, AMD, and Marvell - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.9484685659408569,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD",
+                "INTC"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Elizabeth Warren attacks Fed chair Kevin Warsh in Senate hearing, floating corruption accusations - New York Post",
             "sentiment": "NEGATIVE",
             "score": 0.8879632949829102,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Pizza chain to close up to 50 locations as sales slump - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9604304432868958,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "PPI data lowers market odds of interest rate increases this year - Axios",
-            "sentiment": "POSITIVE",
-            "score": 0.9107655882835388,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -121,21 +117,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "PayPal Stock Jumps 14% on Report of $53 Billion Takeover Bid - Barron's",
+            "title": "ASML Stock Gains as Earnings Ride the Wave of AI Spending - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9147389531135559,
+            "score": 0.9539245367050171,
             "signal": "BULLISH",
-            "tickers": [
-                "PYPL"
-            ],
-            "primary_ticker": "PYPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "PYPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "\u2018Arsenal of democracy\u2019: Jamie Dimon announces $24 million effort to boost American shipbuilding - CNBC",
@@ -155,6 +143,24 @@
             ]
         },
         {
+            "title": "Conagra Stock Falls as Guidance Disappoints and the Company Reduces Dividend - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9740990400314331,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil traders warn market is close to running on empty as Hormuz shuts again - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9685700535774231,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "26 Meta employees accuse Mark Zuckerberg of using AI to target 8,000 layoffs against workers on medical, parental or family leave - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.9668893218040466,
@@ -172,10 +178,19 @@
             ]
         },
         {
-            "title": "Conagra Swings to Loss, Cuts Dividend Under New CEO - WSJ",
+            "title": "IBM Stock Plunges After Surprise Warning As Investors Brace For July 22 - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.9247479438781738,
+            "score": 0.9622292518615723,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Morgan Stanley Joins Wall Street Rivals\u2019 Stock-Trading Boon - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9320557713508606,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -190,19 +205,27 @@
             "ticker_impacts": []
         },
         {
+            "title": "PayPal Shares Surge Premarket on Reports of $53 Billion Takeover Offer - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9079378247261047,
+            "signal": "BULLISH",
+            "tickers": [
+                "PYPL"
+            ],
+            "primary_ticker": "PYPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "PYPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Treasury yields rise as investors await latest producer price inflation data - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.8425207138061523,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Taco Bell has pulled some menu ingredients in select locations to prevent possible cyclospora exposure - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9445023536682129,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
