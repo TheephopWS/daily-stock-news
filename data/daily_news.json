@@ -1,13 +1,40 @@
 {
-    "last_updated": "2026-07-17 04:28:29 UTC",
-    "total_articles": 23,
+    "last_updated": "2026-07-17 07:09:34 UTC",
+    "total_articles": 27,
     "bullish_articles": 9,
-    "bearish_articles": 14,
+    "bearish_articles": 18,
     "articles": [
+        {
+            "title": "South Korea stocks slump after first rate rise in 3 years - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9704172611236572,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China grew at its slowest pace in more than 3 years last quarter - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9739698767662048,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "United Airlines anticipates $6 billion in added fuel costs this year - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9536245465278625,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Anthropic in Talks to Add Billions to Bank Credit Line Ahead of IPO - The Information",
             "sentiment": "POSITIVE",
-            "score": 0.7835484743118286,
+            "score": 0.78354811668396,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,7 +43,7 @@
         {
             "title": "Buffett calls Bill Gates relationship with Epstein 'distasteful' - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7735446691513062,
+            "score": 0.7735448479652405,
             "signal": "BEARISH",
             "tickers": [
                 "MSFT"
@@ -51,7 +78,7 @@
         {
             "title": "Kalshi traders see gas prices crossing $4 by end of July - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8639380931854248,
+            "score": 0.8639377355575562,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -76,18 +103,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "United earnings top estimates but airline expects $6 billion in added fuel costs - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9463739991188049,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Johnson & Johnson CFO Says Guidance Hike Is Just the Start - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9436150789260864,
+            "score": 0.9436150193214417,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -103,6 +121,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Asian Stocks Fall as Kospi Hit by Selloff in Chips: Markets Wrap - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9727309346199036,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Stock market today: Dow, S&P 500, Nasdaq slip as semiconductor stocks plummet - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.963986337184906,
@@ -114,7 +149,7 @@
         {
             "title": "PJM capacity prices hit price cap, reserve shortfall grows - Utility Dive",
             "sentiment": "NEGATIVE",
-            "score": 0.9313448071479797,
+            "score": 0.9313449263572693,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -130,13 +165,53 @@
             "ticker_impacts": []
         },
         {
+            "title": "Apple Intelligence approved for launch in China with Alibaba\u2019s Qwen AI - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.8674586415290833,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC",
+                "AAPL"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "The Avocado Oil Boom Has A Fraud Problem, New Study Suggests - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.9080914258956909,
+            "score": 0.9080910086631775,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026 - Venturebeat",
+            "sentiment": "POSITIVE",
+            "score": 0.7044146060943604,
+            "signal": "BULLISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Report: How an email mistake derailed talks between Apple and OpenAI ahead of the lawsuit - 9to5Mac",
@@ -167,7 +242,7 @@
         {
             "title": "\u2018Arsenal of democracy\u2019: Jamie Dimon announces $24 million effort to boost American shipbuilding - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7367894053459167,
+            "score": 0.7367883324623108,
             "signal": "BULLISH",
             "tickers": [
                 "JPM"
@@ -184,28 +259,11 @@
         {
             "title": "Conagra Stock Falls as Guidance Disappoints and the Company Reduces Dividend - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9740991592407227,
+            "score": 0.9740990400314331,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Paypal stock soars on report of buyout proposal from Stripe, Advent - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8562363982200623,
-            "signal": "BULLISH",
-            "tickers": [
-                "PYPL"
-            ],
-            "primary_ticker": "PYPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "PYPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Oil traders warn market is close to running on empty as Hormuz shuts again - Financial Times",
@@ -236,7 +294,7 @@
         {
             "title": "Mortgage rates rise to highest level in nearly a year, causing homebuyers to pause - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9308056831359863,
+            "score": 0.9308055639266968,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -245,7 +303,7 @@
         {
             "title": "Taco Bell has pulled some menu ingredients in select locations to prevent possible cyclospora exposure - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9445022344589233,
+            "score": 0.9445023536682129,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
