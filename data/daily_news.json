@@ -1,9 +1,36 @@
 {
-    "last_updated": "2026-07-17 10:06:03 UTC",
-    "total_articles": 26,
-    "bullish_articles": 12,
-    "bearish_articles": 14,
+    "last_updated": "2026-07-17 12:47:17 UTC",
+    "total_articles": 25,
+    "bullish_articles": 10,
+    "bearish_articles": 15,
     "articles": [
+        {
+            "title": "UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9379798769950867,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Lilly Said to Near Deal for Psychedelic Drugmaker AtaiBeckley - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7994044423103333,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "South Korea to Halt New Listings of Single Stock Leveraged ETFs - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9426464438438416,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77% - CNBC",
             "sentiment": "POSITIVE",
@@ -12,6 +39,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8275576829910278,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "China grew at its slowest pace in more than 3 years last quarter - AP News",
@@ -36,15 +80,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9536245465278625,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic in Talks to Add Billions to Bank Credit Line Ahead of IPO - The Information",
-            "sentiment": "POSITIVE",
-            "score": 0.78354811668396,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -85,15 +120,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "US stocks rise within 0.5% of their record, even as oil prices keep climbing - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.9254874587059021,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "ASML Stock Rises On Second-Quarter Beat, Raised Forecast - Investor's Business Daily",
             "sentiment": "POSITIVE",
             "score": 0.9427757859230042,
@@ -112,22 +138,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Former Fed Adviser Gets 38 Months in Prison for Lying to Internal Watchdog - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.7355945110321045,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Johnson & Johnson CFO Says Guidance Hike Is Just the Start - Barron's",
+            "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Apple notches record high - Yahoo! Finance Canada",
             "sentiment": "POSITIVE",
-            "score": 0.9436150193214417,
+            "score": 0.8482257127761841,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Asian Stocks Fall as Kospi Hit by Selloff in Chips: Markets Wrap - Bloomberg.com",
@@ -179,36 +204,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "Elizabeth Warren attacks Fed chair Kevin Warsh in Senate hearing, floating corruption accusations - New York Post",
+            "title": "The Avocado Oil Boom Has A Fraud Problem, New Study Suggests - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.8879632949829102,
+            "score": 0.9080910086631775,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Apple Intelligence approved for launch in China with Alibaba\u2019s Qwen AI - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.8674586415290833,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC",
-                "AAPL"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Elizabeth Warren blasts Kevin Warsh, saying he \u2018seems to invite corruption\u2019 - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.8938540816307068,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026 - Venturebeat",
@@ -223,23 +234,6 @@
                 {
                     "ticker": "META",
                     "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Report: How an email mistake derailed talks between Apple and OpenAI ahead of the lawsuit - 9to5Mac",
-            "sentiment": "NEGATIVE",
-            "score": 0.9477222561836243,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
@@ -292,15 +286,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9685700535774231,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mortgage rates rise to highest level in nearly a year, causing homebuyers to pause - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9308055639266968,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
