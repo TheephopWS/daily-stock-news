@@ -1,14 +1,49 @@
 {
-    "last_updated": "2026-07-17 15:54:51 UTC",
-    "total_articles": 33,
-    "bullish_articles": 8,
-    "bearish_articles": 25,
+    "last_updated": "2026-07-17 18:43:12 UTC",
+    "total_articles": 29,
+    "bullish_articles": 10,
+    "bearish_articles": 19,
     "articles": [
         {
             "title": "Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9152297973632812,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018The View\u2019 faces trouble as FCC prepares to crack down on ABC show, revoke Disney licenses: report - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8029565215110779,
+            "signal": "BEARISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Abbott Reports Second-Quarter 2026 Results and Raises Full-Year EPS Guidance - Abbott MediaRoom",
+            "sentiment": "POSITIVE",
+            "score": 0.9120171666145325,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "TSMC raises capex and revenue forecast, highlighting growing AI chip demand - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9381371140480042,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -23,23 +58,32 @@
             "ticker_impacts": []
         },
         {
+            "title": "Game-changing cholesterol pill wins FDA approval after cutting LDL nearly 60% - Fox News",
+            "sentiment": "POSITIVE",
+            "score": 0.9446436762809753,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu - TechCrunch",
             "sentiment": "POSITIVE",
             "score": 0.8777726292610168,
             "signal": "BULLISH",
             "tickers": [
-                "AAPL",
-                "INTC"
+                "INTC",
+                "AAPL"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": "INTC",
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "AAPL",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -53,6 +97,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Uber is acquiring German food delivery giant Delivery Hero in a $14.8 billion deal - qz.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9015552401542664,
+            "signal": "BULLISH",
+            "tickers": [
+                "UBER"
+            ],
+            "primary_ticker": "UBER",
+            "ticker_impacts": [
+                {
+                    "ticker": "UBER",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Stock Market Today: Nasdaq Set to Open Lower as Chip Stocks Come Under Pressure \u2014 Live Updates - WSJ",
@@ -96,15 +157,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9379798769950867,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Oil companies are making billions. In the U.S., calls to tax their windfall are growing - NPR",
@@ -152,42 +204,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Exclusive | The AI Backlash Has Tech Executives Fearing for Their Lives - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.7321141362190247,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SK Hynix shares plunge over 11% as Asia sees tech rout, tracking U.S. chip losses - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.969491183757782,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "S&P 500, Nasdaq fall at the open as TSMC\u2019s spending plans offset stellar results - Investing.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9652170538902283,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Lilly Said to Near Deal for Psychedelic Drugmaker AtaiBeckley - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7994044423103333,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Buffett calls Bill Gates relationship with Epstein 'distasteful' - BBC",
             "sentiment": "NEGATIVE",
             "score": 0.7735448479652405,
@@ -223,28 +239,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Kalshi traders see gas prices crossing $4 by end of July - CNBC",
+            "title": "Data center electricity demand is expected to drive up costs after recent power auction - The Hill",
             "sentiment": "POSITIVE",
-            "score": 0.8639377355575562,
+            "score": 0.8430349826812744,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oppenheimer Downgrades IBM Stock After Earnings Miss Triggers Massive Sell-Off - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9683148264884949,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Former Fed Adviser Gets 38 Months in Prison for Lying to Internal Watchdog - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.7355945110321045,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -259,59 +257,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "TSMC Plans Extra $100B in U.S. Investment as Earnings Beat. The Stock Is Falling. - Barron's",
+            "title": "Strait of Hormuz oil shipments fall toward pre-peace deal levels as war reignites - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9730442762374878,
+            "score": 0.9696877598762512,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave - AP News",
+            "title": "Michael Burry shares the earnings reports he's watching to see if IBM's disastrous quarter is an industrywide problem - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9651831984519958,
-            "signal": "BEARISH",
-            "tickers": [
-                "META",
-                "INTC"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "PJM capacity prices hit price cap, reserve shortfall grows - Utility Dive",
-            "sentiment": "NEGATIVE",
-            "score": 0.9313449263572693,
+            "score": 0.777831494808197,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The Avocado Oil Boom Has A Fraud Problem, New Study Suggests - Forbes",
+            "title": "Elizabeth Warren attacks Fed chair Kevin Warsh in Senate hearing, floating corruption accusations - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9080910086631775,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Elizabeth Warren blasts Kevin Warsh, saying he \u2018seems to invite corruption\u2019 - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.8938540816307068,
+            "score": 0.8879632949829102,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -335,18 +301,9 @@
             ]
         },
         {
-            "title": "BlackRock Shares Rally After Assets Soar Past $15 Trillion - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9493727087974548,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil traders warn market is close to running on empty as Hormuz shuts again - Financial Times",
+            "title": "SK Hynix Drops 5%, SanDisk Slides 6%, Western Digital Slips 4% as Traders Take Profits in Memory Stocks - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.9685700535774231,
+            "score": 0.9555541276931763,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -356,6 +313,15 @@
             "title": "China grew at its slowest pace in more than 3 years last quarter - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9739698767662048,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "ASML shares fall after hiking sales forecast for second time this year on strong AI chip demand - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9674097299575806,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
