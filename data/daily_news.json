@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-07-18 00:53:51 UTC",
-    "total_articles": 31,
-    "bullish_articles": 8,
-    "bearish_articles": 23,
+    "last_updated": "2026-07-18 04:23:46 UTC",
+    "total_articles": 17,
+    "bullish_articles": 7,
+    "bearish_articles": 10,
     "articles": [
         {
-            "title": "Netflix Stock Drops on Revenue Miss, Engagement Update - Barron's",
+            "title": "Stock futures slip as major averages head for losing week; Netflix tumbles after earnings: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9756659269332886,
+            "score": 0.9628930687904358,
             "signal": "BEARISH",
             "tickers": [
                 "NFLX"
@@ -22,18 +22,43 @@
             ]
         },
         {
-            "title": "Stock Market Today: Nasdaq Slips as Chip Stocks Face Pressure; TSMC in Focus \u2014 Live Updates - WSJ",
+            "title": "Asian Stocks Drop After Chip Selloff, Oil Gains: Markets Wrap - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9512624740600586,
+            "score": 0.9607892632484436,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Netflix stock drops after Q3 revenue falls short, co-CEO says not all views are 'created equal' - Yahoo Finance UK",
+            "sentiment": "NEGATIVE",
+            "score": 0.9621323943138123,
+            "signal": "BEARISH",
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "xAI can\u2019t deny Grok makes CSAM anymore. So it\u2019s suing users. - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.785397469997406,
+            "score": 0.7853977680206299,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -51,22 +76,22 @@
         {
             "title": "Tillis shouts at Vought, tired of picking up \u2018DOGE s\u2011\u2011\u2011 because people did it wrong\u2019 - The Hill",
             "sentiment": "NEGATIVE",
-            "score": 0.9190579652786255,
+            "score": 0.9190582036972046,
             "signal": "BEARISH",
             "tickers": [
-                "OMB",
                 "DOGE",
+                "OMB",
                 "N"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "OMB",
+                    "ticker": "DOGE",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "DOGE",
+                    "ticker": "OMB",
                     "impact": "negative",
                     "relevance": "medium"
                 },
@@ -78,53 +103,26 @@
             ]
         },
         {
-            "title": "As SK Hynix Stock Drops, Regulators Try to Impose Stability - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9643664360046387,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Crypto regulatory text expected to be released Thursday does not have Senate Democrat support - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.9007742404937744,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Google Gemini Launch Delayed as Tech Falls Short of Internal Goals - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.814541220664978,
-            "signal": "BEARISH",
+            "title": "FDA approves first daily pill to drastically lower cholesterol levels - The Hill",
+            "sentiment": "POSITIVE",
+            "score": 0.7597445249557495,
+            "signal": "BULLISH",
             "tickers": [
-                "GOOGL"
+                "FDA"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "ticker": "FDA",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Thunderstorms delay flights at SEA Airport - KING5.com",
+            "title": "As SK Hynix Stock Drops, Regulators Try to Impose Stability - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.7264857292175293,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mississippi homeowners blame a noisy data center plant for sleepless nights. The mayor's advice? \"Consider selling.\" - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9488908648490906,
+            "score": 0.9643665552139282,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -140,18 +138,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9025895595550537,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Uber\u2019s $14.8B Delivery Hero deal would nearly double its global footprint - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.8874472975730896,
+            "score": 0.8874471783638,
             "signal": "BULLISH",
             "tickers": [
                 "UBER"
@@ -166,97 +155,27 @@
             ]
         },
         {
-            "title": "American mall retailer warns it may close up to 15 more stores this year - Fox Business",
+            "title": "Oracle Stock Slides To 52-Week Low Amid AI Spending Fears - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9397628307342529,
+            "score": 0.9738741517066956,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oracle Risks Falling Behind in AI Race as Spending Binge Bites - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8743659853935242,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "The Chip-Stock Slide Isn\u2019t Over. The AI Trade Is Still Under Pressure. But \u2018No One Is Short\u2019 - Investopedia",
-            "sentiment": "NEGATIVE",
-            "score": 0.9709986448287964,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why Is Micron Stock Still Falling? - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.9014758467674255,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gas is nearly $4 again and diesel just topped $5. It\u2019s not what you think - CNN",
+            "title": "Taiwan computer chipmaker TSMC pledges another $100 billion to expand US chipmaking capacity - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.8206672668457031,
+            "score": 0.9230106472969055,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9152296781539917,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Pending home sales dip in June as high mortgage rates, prices lead to 'tepid' market - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9751980900764465,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "\u2018The View\u2019 faces trouble as FCC prepares to crack down on ABC show, revoke Disney licenses: report - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8029567003250122,
-            "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Abbott Reports Second-Quarter 2026 Results and Raises Full-Year EPS Guidance - Abbott MediaRoom",
             "sentiment": "POSITIVE",
-            "score": 0.9120170474052429,
+            "score": 0.9120171666145325,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -265,7 +184,7 @@
         {
             "title": "Retail sales last month rose less than expected - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9706118702888489,
+            "score": 0.9706117510795593,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -274,28 +193,11 @@
         {
             "title": "Lilly buys AtaiBeckley for $2.8B upfront to challenge J&J for psychedelic mental health market - Fierce Biotech",
             "sentiment": "POSITIVE",
-            "score": 0.7508031725883484,
+            "score": 0.750802755355835,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia unveils new AI model and expands Japan\u2019s physical AI ecosystem - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.801347017288208,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "AST SpaceMobile Stock Fall Is About More Than SpaceX - Barron's",
@@ -309,43 +211,7 @@
         {
             "title": "UK nationalizes Chinese-owned British Steel to protect nation\u2019s steelmaking capacity - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.806972861289978,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "United Airlines Posts Record Revenue And Raises Profit Outlook, But Delta Air Lines Was More Profitable - Live and Let's Fly",
-            "sentiment": "POSITIVE",
-            "score": 0.9427493214607239,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "IBM shares plunge 25% after CEO admits company fell behind - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9682791233062744,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "PJM capacity prices hit price cap, reserve shortfall grows - Utility Dive",
-            "sentiment": "NEGATIVE",
-            "score": 0.9313448071479797,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9493597149848938,
+            "score": 0.8069728016853333,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
