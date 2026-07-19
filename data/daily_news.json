@@ -1,31 +1,74 @@
 {
-    "last_updated": "2026-07-19 10:01:16 UTC",
-    "total_articles": 11,
+    "last_updated": "2026-07-19 12:41:44 UTC",
+    "total_articles": 14,
     "bullish_articles": 3,
-    "bearish_articles": 8,
+    "bearish_articles": 11,
     "articles": [
         {
-            "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak - The Verge",
+            "title": "Popular garlic powder recalled nationwide over bacterial contamination concerns - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.956536591053009,
+            "score": 0.9657582640647888,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX stock closes at lows after first test flight since IPO scrubbed - Yahoo Finance",
+            "title": "Taylor Farms to launch recall after iceberg lettuce is tied to outbreak - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9690194725990295,
+            "score": 0.9307273030281067,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX (SPCX) Is Down 14.7% After Starship Abort and Rising Scrutiny of Its Lofty Valuation - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9749093055725098,
+            "signal": "BEARISH",
+            "tickers": [
+                "SPCX"
+            ],
+            "primary_ticker": "SPCX",
+            "ticker_impacts": [
+                {
+                    "ticker": "SPCX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Stock Market Today: Dow Drops 400 Points Amid Iran War News; Netflix Tumbles (Live Coverage) - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9675973057746887,
+            "signal": "BEARISH",
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Citizens Bank to cut ties with CoreCivic and GEO after a fierce public pressure campaign - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9465333223342896,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.9055960774421692,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -68,15 +111,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Elon Musk\u2019s Net Worth Drops Below $800 Billion After Starship Launch Aborted - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.9586317539215088,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Consumer sentiment surges due to lower gas prices - CNN",
             "sentiment": "POSITIVE",
             "score": 0.8248052000999451,
@@ -97,6 +131,23 @@
             "ticker_impacts": [
                 {
                     "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Apple sends legal letters to former employees now at OpenAI - 9to5Mac",
+            "sentiment": "NEGATIVE",
+            "score": 0.8895546793937683,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
                     "impact": "negative",
                     "relevance": "high"
                 }
