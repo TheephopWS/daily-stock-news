@@ -1,39 +1,13 @@
 {
-    "last_updated": "2026-07-19 04:34:26 UTC",
-    "total_articles": 10,
-    "bullish_articles": 2,
-    "bearish_articles": 8,
+    "last_updated": "2026-07-19 07:15:27 UTC",
+    "total_articles": 9,
+    "bullish_articles": 3,
+    "bearish_articles": 6,
     "articles": [
         {
             "title": "Taylor Farms pulls all iceberg lettuce sourced in central Mexico from U.S. market - The Washington Post",
             "sentiment": "NEGATIVE",
             "score": 0.9404265880584717,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US Stocks End Week Lower on Fears of Another \u2018DeepSeek Moment\u2019 - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9734691977500916,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "SpaceX stock closes at lows after first test flight since IPO scrubbed - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9690194725990295,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -57,13 +31,27 @@
             ]
         },
         {
-            "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways - NPR",
+            "title": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9055960774421692,
+            "score": 0.9575287699699402,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA",
+                "AMD"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Fairlife pauses US production after cyberattack breached milk brand's systems - ABC News - Breaking News, Latest News and Videos",
@@ -117,6 +105,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "China\u2019s Powerful New Moonshot AI Model Closes Gap With US Rivals - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9450477957725525,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         }
     ]
 }
