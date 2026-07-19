@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-07-19 18:42:57 UTC",
-    "total_articles": 13,
+    "last_updated": "2026-07-19 21:39:35 UTC",
+    "total_articles": 19,
     "bullish_articles": 2,
-    "bearish_articles": 11,
+    "bearish_articles": 17,
     "articles": [
+        {
+            "title": "The sell-off for AI stars worsens, while oil prices keep jumping - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9726459383964539,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Mortgage rates hit highest level since the start of the war with Iran - WXOW",
             "sentiment": "NEGATIVE",
@@ -27,6 +36,32 @@
             "sentiment": "NEGATIVE",
             "score": 0.9307273030281067,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX (SPCX) Is Down 14.7% After Starship Abort and Rising Scrutiny of Its Lofty Valuation - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9749093055725098,
+            "signal": "BEARISH",
+            "tickers": [
+                "SPCX"
+            ],
+            "primary_ticker": "SPCX",
+            "ticker_impacts": [
+                {
+                    "ticker": "SPCX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Costco adds hot fan favorite to food court menu as shoppers debate taste and value - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.7414810061454773,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -58,18 +93,44 @@
             ]
         },
         {
-            "title": "Oil settles up on renewed US-Iran hostilities and threat of Red Sea closure - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9311791062355042,
-            "signal": "BULLISH",
+            "title": "Mars Wrigley leaving Newark, cutting 307 jobs (updated) - NJBIZ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9687276482582092,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Nvidia CEO doubles down on AI and stock market verdict - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9206289649009705,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Citizens Bank to cut ties with CoreCivic and GEO after a fierce public pressure campaign - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9465333223342896,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Hottest Lunch Trend in America Just Ran Into a Very Unpleasant Problem - Slate Magazine",
+            "sentiment": "NEGATIVE",
+            "score": 0.9436467289924622,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -103,6 +164,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Pharma Company And Drug Testing Industry Claim Trump's Rescheduling Move Will 'Increase Marijuana Abuse' - Marijuana Moment",
+            "sentiment": "NEGATIVE",
+            "score": 0.8172575831413269,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Consumer sentiment surges due to lower gas prices - CNN",
             "sentiment": "POSITIVE",
             "score": 0.8248052000999451,
@@ -129,9 +199,9 @@
             ]
         },
         {
-            "title": "Apple sends legal letters to former employees now at OpenAI - 9to5Mac",
+            "title": "Apple targets dozens of OpenAI employees with legal letters - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8895546793937683,
+            "score": 0.939861536026001,
             "signal": "BEARISH",
             "tickers": [
                 "AAPL"
