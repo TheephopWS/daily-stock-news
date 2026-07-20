@@ -1,13 +1,30 @@
 {
-    "last_updated": "2026-07-20 01:00:14 UTC",
-    "total_articles": 8,
+    "last_updated": "2026-07-20 04:38:02 UTC",
+    "total_articles": 10,
     "bullish_articles": 1,
-    "bearish_articles": 7,
+    "bearish_articles": 9,
     "articles": [
+        {
+            "title": "Walmart pulls lettuce linked to cyclospora outbreak - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.8926611542701721,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Mortgage rates hit highest level since the start of the war with Iran - WXOW",
             "sentiment": "NEGATIVE",
-            "score": 0.962329089641571,
+            "score": 0.9623289704322815,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -17,6 +34,32 @@
             "title": "Indeed chief economist: Aging Baby Boomers are America\u2019s real labor problem, not AI - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.9548635482788086,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX Set to Wipe Out $1 Trillion in Value as Shares Slide - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.971439778804779,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Chip Stocks, Tech IPOs, and Wildfire Smoke Are All Clouding the Outlook - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.8769986033439636,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -43,7 +86,7 @@
         {
             "title": "'It's in no man's land': What Wall Street is saying about Netflix's big miss - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.939116895198822,
+            "score": 0.9391170144081116,
             "signal": "BEARISH",
             "tickers": [
                 "NFLX"
@@ -58,18 +101,9 @@
             ]
         },
         {
-            "title": "SpaceX\u2019s Shares Tank After Starship Fails to Launch - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.9715145230293274,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Consumer sentiment surges due to lower gas prices - CNN",
             "sentiment": "POSITIVE",
-            "score": 0.8248052000999451,
+            "score": 0.8248053193092346,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
