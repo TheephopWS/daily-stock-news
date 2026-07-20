@@ -1,14 +1,84 @@
 {
-    "last_updated": "2026-07-20 10:24:06 UTC",
-    "total_articles": 13,
-    "bullish_articles": 0,
-    "bearish_articles": 13,
+    "last_updated": "2026-07-20 13:07:15 UTC",
+    "total_articles": 22,
+    "bullish_articles": 7,
+    "bearish_articles": 15,
     "articles": [
         {
-            "title": "United Airlines Backtracks on \u2018Trump Airport\u2019 Rerouting Memo - The Daily Beast",
+            "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8479662537574768,
+            "signal": "BULLISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Gas prices are rising again \u2014 and so is GOP grief in the midterms - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.7476186752319336,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Major grocery chain beats Walmart, Aldi in price war as shoppers hunt for checkout relief - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.7878419756889343,
+            "signal": "BULLISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Chinese company demands compensation from the UK over British Steel nationalization - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.788713276386261,
+            "score": 0.9128642678260803,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China\u2019s Moonshot Plans IPO in Six Months After AI Breakthrough - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7516278028488159,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Luxury groups face inventory squeeze under EU destruction ban - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.8102079033851624,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Chinese leaders zero in on need for stimulus for economy - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.7127359509468079,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -23,6 +93,50 @@
             "ticker_impacts": []
         },
         {
+            "title": "United Airlines Backtracks on \u2018Trump Airport\u2019 Rerouting Memo - The Daily Beast",
+            "sentiment": "NEGATIVE",
+            "score": 0.788713276386261,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Healthcare costs associated with aging out of reach for many Americans - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.926723837852478,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Popular candy maker leaving N.J. city after 86 years. 307 workers to lose jobs. - NJ.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9388604164123535,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta Glasses Are Getting a Nasty Reputation - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.9398794174194336,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Mortgage rates hit highest level since the start of the war with Iran - WXOW",
             "sentiment": "NEGATIVE",
             "score": 0.962329089641571,
@@ -32,37 +146,54 @@
             "ticker_impacts": []
         },
         {
-            "title": "Indeed chief economist: Aging Baby Boomers are America\u2019s real labor problem, not AI - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9548635482788086,
-            "signal": "BEARISH",
+            "title": "TSMC: Stock to Avoid or Incredible Buying Opportunity? (NYSE: TSM) - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.8757142424583435,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The Fastest-Growing Risk to Air Travel Is Probably in Your Pocket - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.910111129283905,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia CEO doubles down on AI and stock market verdict - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9206289649009705,
-            "signal": "BEARISH",
+            "title": "FAA Now Lets Boeing Self-Certify 737 MAX & 787, Decide If They\u2019re Safe To Fly - One Mile at a Time",
+            "sentiment": "POSITIVE",
+            "score": 0.7545051574707031,
+            "signal": "BULLISH",
             "tickers": [
-                "NVDA"
+                "BA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "BA",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
-                    "impact": "negative",
+                    "ticker": "BA",
+                    "impact": "positive",
                     "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Databricks hits $188B valuation, extending its run as AI\u2019s favorite second act - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.8808030486106873,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US Considers Creating Finra-Like Watchdog to Vet Top AI Models - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8286193013191223,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -76,9 +207,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways - NPR",
+            "title": "Waymo wears out its welcome in major U.S. city as mayor responds - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9055960774421692,
+            "score": 0.9607378840446472,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -111,35 +242,9 @@
             ]
         },
         {
-            "title": "Pillsbury recalls 2 bread products over potential glass contamination - WANE 15",
+            "title": "Over 1,709 flights delayed, 99 canceled as airports nationwide face travel disruptions - NJ.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9633956551551819,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'It's in no man's land': What Wall Street is saying about Netflix's big miss - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.939116895198822,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "SpaceX\u2019s Shares Tank After Starship Fails to Launch - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.9715145230293274,
+            "score": 0.8675128221511841,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
