@@ -1,13 +1,31 @@
 {
-    "last_updated": "2026-07-21 07:17:42 UTC",
-    "total_articles": 34,
-    "bullish_articles": 6,
-    "bearish_articles": 28,
+    "last_updated": "2026-07-21 10:11:54 UTC",
+    "total_articles": 33,
+    "bullish_articles": 7,
+    "bearish_articles": 26,
     "articles": [
         {
-            "title": "Ryanair profit slumps 34% as airlines brace for a 'difficult winter' amid Middle East crisis - CNBC",
+            "title": "Trump\u2019s funding cuts created \u2018the perfect storm\u2019 that slowed the government\u2019s cyclosporiasis response - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9744018316268921,
+            "score": 0.960753858089447,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "FDA says Taylor Farms Cyclospora lettuce test was a false positive - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9051559567451477,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent - The Hacker News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9388318657875061,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,43 +34,42 @@
         {
             "title": "Moonshot\u2019s Kimi K3 May Be More About Memory Than Compute - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.736108124256134,
+            "score": 0.7361078262329102,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA",
-                "INTC"
+                "INTC",
+                "NVDA"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Silicon Valley is freaking out over China's open-source AI strategy - Business Insider",
+            "title": "Trump touts Giant Eagle price cuts on more than 300 products through Labor Day - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9425508975982666,
+            "score": 0.9603269100189209,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "WMT"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FDA says Taylor Farms lettuce sample tested for cyclospora produced false positive for the parasite - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8746347427368164,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "'Give me my money back': South Korean traders' leveraged SK Hynix, Samsung bets unravel after selloff - CNBC",
@@ -73,6 +90,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Alibaba Shares Rise After Unveiling Upgraded Flagship AI Model - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9497390389442444,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Stock futures are little changed after Wall Street suffers losing week: Live updates - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9599400758743286,
@@ -82,9 +108,27 @@
             "ticker_impacts": []
         },
         {
+            "title": "SpaceX Has Fallen 45% Since Its Peak: Gary Black Says Investors Are Breaking the 'Number One Rule in Investing' - Benzinga",
+            "sentiment": "NEGATIVE",
+            "score": 0.9664672613143921,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The AI revolution takes on the world\u2019s most cyclical industry - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9326547384262085,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "China cracks down on chatbot romances as birthrate crisis worsens: report - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.7849534153938293,
+            "score": 0.7849533557891846,
             "signal": "BEARISH",
             "tickers": [
                 "AAPL"
@@ -101,7 +145,16 @@
         {
             "title": "Discount chain to shut down 75 stores nationwide - Cleveland.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9120830297470093,
+            "score": 0.9120832085609436,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "United Airlines Employee at SFO Tells Customer 'Maybe We Should Call ICE On You' - SFist",
+            "sentiment": "NEGATIVE",
+            "score": 0.9425292015075684,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -119,7 +172,7 @@
         {
             "title": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans? - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.8390291333198547,
+            "score": 0.8390292525291443,
             "signal": "BEARISH",
             "tickers": [
                 "AAPL"
@@ -136,7 +189,7 @@
         {
             "title": "Can the \u2018Magnificent Seven\u2019 save a stock market that might be doomed without them? - MarketWatch",
             "sentiment": "POSITIVE",
-            "score": 0.9215903282165527,
+            "score": 0.9215903878211975,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -145,7 +198,7 @@
         {
             "title": "Alaska Airlines Boeing 787-9 is declaring an emergency off France coast, after U-turn over UK - airlive",
             "sentiment": "NEGATIVE",
-            "score": 0.9024394750595093,
+            "score": 0.902439534664154,
             "signal": "BEARISH",
             "tickers": [
                 "BA",
@@ -168,7 +221,7 @@
         {
             "title": "Boeing Needs to Shore Up Finances Before Launching New Airplane Design, CEO Says - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.7253976464271545,
+            "score": 0.7253983020782471,
             "signal": "BULLISH",
             "tickers": [
                 "BA"
@@ -183,9 +236,18 @@
             ]
         },
         {
+            "title": "IBM\u2019s 25% crash reveals AI\u2019s hidden corporate casualty - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.940543532371521,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Hackers Just Pulled Off Every Food Manufacturer's Worst Nightmare. Now Coca-Cola's $4-Billion Dairy Brand Is Shut Down - inc.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7589610815048218,
+            "score": 0.7589608430862427,
             "signal": "BEARISH",
             "tickers": [
                 "KO"
@@ -209,45 +271,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Copper theft leaves Sweet Red Peach Bakery in Pasadena without AC during SoCal extreme heat - ABC7 Los Angeles",
-            "sentiment": "NEGATIVE",
-            "score": 0.9535058736801147,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "The market for psychedelic drugs to treat mental health conditions gets a big buy signal - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8499321937561035,
+            "score": 0.8499322533607483,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9419674277305603,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "44-year-old mall steak chain closed over 275 locations - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9361037015914917,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -255,7 +282,7 @@
         {
             "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8479662537574768,
+            "score": 0.8479668498039246,
             "signal": "BULLISH",
             "tickers": [
                 "BA"
@@ -270,36 +297,9 @@
             ]
         },
         {
-            "title": "Gas prices are rising again \u2014 and so is GOP grief in the midterms - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9367615580558777,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "San Francisco restaurant gets angry backlash for AI menu images - SFGATE",
-            "sentiment": "NEGATIVE",
-            "score": 0.9368289113044739,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Costco makes surprising change that may hurt its bottom line - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9398075938224792,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Major grocery chain beats Walmart, Aldi in price war as shoppers hunt for checkout relief - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.7878419756889343,
+            "score": 0.7878426909446716,
             "signal": "BULLISH",
             "tickers": [
                 "WMT"
@@ -314,9 +314,18 @@
             ]
         },
         {
+            "title": "America\u2019s Lakes Are Shrinking. Data Centers Are Being Built Nearby - Newsweek",
+            "sentiment": "NEGATIVE",
+            "score": 0.953925609588623,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Luxury groups face inventory squeeze under EU destruction ban - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8102079033851624,
+            "score": 0.8102074265480042,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -325,52 +334,16 @@
         {
             "title": "Chinese leaders zero in on need for stimulus for economy - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.7127359509468079,
+            "score": 0.7127373218536377,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "United Airlines Backtracks on \u2018Trump Airport\u2019 Rerouting Memo - The Daily Beast",
+            "title": "Popular candy maker leaving N.J. city after 86 years. 307 workers to lose jobs. - NJ.com",
             "sentiment": "NEGATIVE",
-            "score": 0.788713276386261,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Healthcare costs associated with aging out of reach for many Americans - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.926723837852478,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Justice Department Is Pulling Back on Prosecuting Corporate Crime - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9355037808418274,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "\u2018Maybe we should call ICE on you\u2019: Passenger describes United confrontation at SFO - The San Francisco Standard",
-            "sentiment": "NEGATIVE",
-            "score": 0.7874482870101929,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "T-Mobile stands to gain as another key rival retreats from retail - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.870617151260376,
+            "score": 0.9388604164123535,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -379,7 +352,7 @@
         {
             "title": "Meta Glasses Are Getting a Nasty Reputation - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.9398794174194336,
+            "score": 0.939879298210144,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -394,9 +367,27 @@
             ]
         },
         {
+            "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now - BleepingComputer",
+            "sentiment": "NEGATIVE",
+            "score": 0.7100216150283813,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Donald Trump Approval Rating Falls To All-Time Low on Economy in Two Polls - Newsweek",
+            "sentiment": "NEGATIVE",
+            "score": 0.9649289846420288,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Mortgage rates hit highest level since the start of the war with Iran - WXOW",
             "sentiment": "NEGATIVE",
-            "score": 0.962329089641571,
+            "score": 0.9623291492462158,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
