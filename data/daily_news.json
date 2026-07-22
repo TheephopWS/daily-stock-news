@@ -1,14 +1,49 @@
 {
-    "last_updated": "2026-07-21 21:46:04 UTC",
-    "total_articles": 13,
-    "bullish_articles": 7,
-    "bearish_articles": 6,
+    "last_updated": "2026-07-22 00:56:01 UTC",
+    "total_articles": 15,
+    "bullish_articles": 6,
+    "bearish_articles": 9,
     "articles": [
         {
-            "title": "Oil tops $90 as Middle East fighting escalates - Axios",
+            "title": "Stock Market Today: Nasdaq, S&P 500 Edge Higher; Oil Prices in Focus as Mideast Conflict Continues \u2014 Live Updates - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.8525416254997253,
+            "score": 0.9276639223098755,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "New Boeing aircraft development hampered by backlog of existing orders, says CEO - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9213857054710388,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Starter home affordability is crawling back. These regions are best for first-time buyers - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.9302093982696533,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen\u2019s Houthis keeps market on edge - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.930046796798706,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -26,15 +61,6 @@
             "title": "Iconic candymaker to lay off hundreds, move US headquarters out of New Jersey - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9651913046836853,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock market today: Dow, S&P 500, Nasdaq mixed as chip stocks rise in wait for Big Tech earnings - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8539869785308838,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -59,6 +85,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Why Dan Ives Maintains His Sky High Target on IBM After Its Largest Crash Ever - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.9394681453704834,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.8493114113807678,
@@ -68,36 +103,59 @@
             "ticker_impacts": []
         },
         {
-            "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
+            "title": "AMD Stock Rises on Vote of Confidence From a Big AI Chip Customer - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.8663646578788757,
+            "score": 0.9275916218757629,
             "signal": "BULLISH",
             "tickers": [
-                "MSFT",
                 "AMD",
-                "NVDA",
-                "META"
+                "INTC",
+                "MSFT"
             ],
-            "primary_ticker": "MSFT",
+            "primary_ticker": "AMD",
             "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "AMD",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "INTC",
                     "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "US Stocks Rebound From Selloff as Nvidia, Other Chipmakers Rise - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9256123304367065,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "AAPL",
+                "TSLA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "META",
-                    "impact": "positive",
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
                     "relevance": "medium"
                 }
             ]
@@ -108,18 +166,18 @@
             "score": 0.8956400752067566,
             "signal": "BULLISH",
             "tickers": [
-                "TSLA",
-                "GOOGL"
+                "GOOGL",
+                "TSLA"
             ],
-            "primary_ticker": "TSLA",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "TSLA",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "TSLA",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -135,47 +193,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Philippine Airlines Orders Boeing 787-10, As Part Of Major Fleet Renewal - One Mile at a Time",
-            "sentiment": "POSITIVE",
-            "score": 0.7781288623809814,
-            "signal": "BULLISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "An OpenAI exec's comments on China's Kimi K3 kicked off a big US tech debate - Business Insider",
+            "title": "China\u2019s new AI model halts new subscriptions as demand swamps capacity - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.811114490032196,
+            "score": 0.9555851221084595,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Boeing Needs to Shore Up Finances Before Launching New Airplane Design, CEO Says - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.7253976464271545,
-            "signal": "BULLISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
