@@ -1,18 +1,9 @@
 {
-    "last_updated": "2026-07-22 00:56:01 UTC",
-    "total_articles": 15,
-    "bullish_articles": 6,
-    "bearish_articles": 9,
+    "last_updated": "2026-07-22 04:31:37 UTC",
+    "total_articles": 10,
+    "bullish_articles": 4,
+    "bearish_articles": 6,
     "articles": [
-        {
-            "title": "Stock Market Today: Nasdaq, S&P 500 Edge Higher; Oil Prices in Focus as Mideast Conflict Continues \u2014 Live Updates - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9276639223098755,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
         {
             "title": "New Boeing aircraft development hampered by backlog of existing orders, says CEO - Fox Business",
             "sentiment": "NEGATIVE",
@@ -31,6 +22,15 @@
             ]
         },
         {
+            "title": "With The U.S.-Iran Deal Collapsing, How Exposed Are Oil Markets Right Now - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9411954879760742,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Starter home affordability is crawling back. These regions are best for first-time buyers - Fox Business",
             "sentiment": "POSITIVE",
             "score": 0.9302093982696533,
@@ -40,9 +40,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen\u2019s Houthis keeps market on edge - MarketWatch",
+            "title": "SpaceX Stock Closes At Fresh Low After Seven Straight Days Of Losses - Investopedia",
             "sentiment": "NEGATIVE",
-            "score": 0.930046796798706,
+            "score": 0.973466157913208,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -58,22 +58,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Iconic candymaker to lay off hundreds, move US headquarters out of New Jersey - Fox Business",
+            "title": "Coca-Cola\u2019s milk brand halts US production after \u2018unauthorized access\u2019 breach - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9651913046836853,
+            "score": 0.928908109664917,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "United investigates after agent allegedly threatened to call ICE on San Ramon man, a passenger at SFO over ticketing dispute - ABC7 Bay Area",
-            "sentiment": "NEGATIVE",
-            "score": 0.9298980236053467,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "KO"
+            ],
+            "primary_ticker": "KO",
+            "ticker_impacts": [
+                {
+                    "ticker": "KO",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "AMC stock surges after record revenue as CEO pushes back against 'prognosticators of doom' - Yahoo Finance",
@@ -89,15 +88,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9394681453704834,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8493114113807678,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -132,74 +122,21 @@
             ]
         },
         {
-            "title": "US Stocks Rebound From Selloff as Nvidia, Other Chipmakers Rise - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9256123304367065,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA",
-                "AAPL",
-                "TSLA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results - Yahoo Finance",
+            "title": "Philippine Airlines Orders Boeing 787-10, As Part Of Major Fleet Renewal - One Mile at a Time",
             "sentiment": "POSITIVE",
-            "score": 0.8956400752067566,
+            "score": 0.7781288623809814,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL",
-                "TSLA"
+                "BA"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "BA",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "TSLA",
+                    "ticker": "BA",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Flight passenger blasts 'incompetent parents' after unruly child forces plane delay - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8620476126670837,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China\u2019s new AI model halts new subscriptions as demand swamps capacity - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9555851221084595,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
