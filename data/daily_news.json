@@ -1,40 +1,100 @@
 {
-    "last_updated": "2026-07-22 18:47:13 UTC",
-    "total_articles": 21,
-    "bullish_articles": 10,
-    "bearish_articles": 11,
+    "last_updated": "2026-07-22 21:45:16 UTC",
+    "total_articles": 23,
+    "bullish_articles": 8,
+    "bearish_articles": 15,
     "articles": [
         {
-            "title": "Judge approves Anthropic\u2019s $1.5 billion copyright settlement with authors - Ars Technica",
+            "title": "SpaceX\u2019s stock snaps brutal losing streak ahead of key Starship rocket launch - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9100202918052673,
+            "score": 0.92010498046875,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Google releases three new Gemini models \u2014 but no 3.5 Pro - TechCrunch",
+            "title": "OpenAI says Hugging Face was breached by its own pre-release models - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.8820183277130127,
+            "score": 0.9450191259384155,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Supermicro shares surge 20% as robust margins, $60B backlog eclipse soft revenue - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9348610043525696,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Michigan couple sues Taco Bell, Taylor Farms over Cyclospora outbreak linked to contaminated lettuce - ClickOnDetroit | WDIV Local 4",
+            "sentiment": "NEGATIVE",
+            "score": 0.9370055794715881,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Northrop Grumman Earnings: Why NOC Stock Is Down After the Beat - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9691572189331055,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Nasdaq Pops As Alphabet Earnings Loom; Nvidia Partner Soars (Live Coverage) - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.8073012828826904,
+            "signal": "BULLISH",
             "tickers": [
-                "GOOGL"
+                "GOOGL",
+                "NVDA"
             ],
             "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
                     "ticker": "GOOGL",
-                    "impact": "negative",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Stock Market Today: Nasdaq Rises on Chip Stock Gains, Oil Climbs \u2014 Live Updates - WSJ",
+            "title": "Interactive Brokers Earnings Surge Amid Trading Boom, Matching Charles Schwab - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.7190310955047607,
+            "score": 0.9490451216697693,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "$100M New Jersey deli fraudster James Patten sentenced to 21 months in prison - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9200074672698975,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US threatens sanctions against Chinese AI models over IP theft - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8843086957931519,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -49,15 +109,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Joe Biden mandated all new vehicles come installed with a 'kill switch.' This Republican wants to repeal it - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8185843229293823,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "4 more executives leaving Epic: Report - Becker's Hospital Review",
             "sentiment": "NEGATIVE",
             "score": 0.7295361757278442,
@@ -67,13 +118,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.701528787612915,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Nebius Advances On Nvidia Stake Disclosure Amid AI Cloud Swoon - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.7987508773803711,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Allergy medication recalled over potentially \u2018life-threatening\u2019 cross-contamination - The Hill",
@@ -85,10 +144,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX sets earnings date, triggering first lock-up expiration for millions of shares - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7562950253486633,
-            "signal": "BULLISH",
+            "title": "Oracle stock has crashed 50% since June - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9661359786987305,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -97,15 +156,6 @@
             "title": "The 'Surprisingly Soft' Unit That Caused Danaher To Plummet - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.9716095924377441,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China's new AI model halts new subscriptions as demand swamps capacity - ABC News - Breaking News, Latest News and Videos",
-            "sentiment": "NEGATIVE",
-            "score": 0.9561815857887268,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -126,20 +176,15 @@
             "score": 0.851327121257782,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL",
-                "MSFT",
+                "META",
                 "AMZN",
-                "META"
+                "GOOGL",
+                "MSFT"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "MSFT",
+                    "ticker": "META",
                     "impact": "positive",
                     "relevance": "medium"
                 },
@@ -149,7 +194,12 @@
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "META",
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -173,6 +223,15 @@
             ]
         },
         {
+            "title": "AAA national gas price tops $4 amid renewed US strikes on Iran - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.9409490823745728,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Miami's cost of living now tops New York City's despite Florida's tax advantages - Fox Business",
             "sentiment": "POSITIVE",
             "score": 0.9502373337745667,
@@ -180,55 +239,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Nebius stock surges 13% as Nvidia discloses significant stake in neocloud - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.790942370891571,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "China Broadens Market Rescue With Record Inflows Into Tech ETF - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9351451992988586,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bank of America doubles down on Microsoft stock ahead of earnings - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9412280321121216,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT",
-                "BAC"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "BAC",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "AMC stock surges after record revenue as CEO pushes back against 'prognosticators of doom' - Yahoo Finance",
@@ -240,42 +250,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "AliExpress gets record \u20ac550m fine from EU for allowing sale of illegal products - BBC",
+            "title": "EU hits China\u2019s Alibaba with \u20ac550M record fine over illegal products - politico.eu",
             "sentiment": "NEGATIVE",
-            "score": 0.9465757012367249,
+            "score": 0.9584546685218811,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "AMD Stock Rises on Vote of Confidence From a Big AI Chip Customer - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9275916218757629,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMD",
-                "INTC",
-                "MSFT"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "title": "China\u2019s new AI model halts new subscriptions as demand swamps capacity - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9555851221084595,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         }
     ]
 }
