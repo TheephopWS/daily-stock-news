@@ -1,22 +1,30 @@
 {
-    "last_updated": "2026-07-22 10:10:36 UTC",
-    "total_articles": 18,
-    "bullish_articles": 11,
-    "bearish_articles": 7,
+    "last_updated": "2026-07-22 12:55:04 UTC",
+    "total_articles": 17,
+    "bullish_articles": 9,
+    "bearish_articles": 8,
     "articles": [
         {
-            "title": "Stock futures climb as traders shift focus to earnings amid Middle East tensions: Live updates - CNBC",
+            "title": "World shares mostly gain and South Korea and Japan recover some losses from AI stock sell-offs - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.9141032099723816,
+            "score": 0.9412544965744019,
             "signal": "BULLISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "Asia stocks climb as easing oil rally supports risk appetite - Investing.com",
+            "title": "Stock market today: Nasdaq leads Dow, S&P 500 futures higher as chip stocks revive - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9040992259979248,
+            "score": 0.7656872868537903,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,25 +33,25 @@
         {
             "title": "China Broadens Market Rescue With Record Inflows Into Tech ETF - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9351454377174377,
+            "score": 0.9351451992988586,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Samsung Debuts Galaxy Card With 5% Cash Back to Take On Apple Card - MacRumors",
-            "sentiment": "POSITIVE",
-            "score": 0.7107933163642883,
-            "signal": "BULLISH",
+            "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX, Tesla Tumble - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9497764706611633,
+            "signal": "BEARISH",
             "tickers": [
-                "AAPL"
+                "TSLA"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
-                    "impact": "positive",
+                    "ticker": "TSLA",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
@@ -51,7 +59,7 @@
         {
             "title": "New Boeing aircraft development hampered by backlog of existing orders, says CEO - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9213859438896179,
+            "score": 0.9213857054710388,
             "signal": "BEARISH",
             "tickers": [
                 "BA"
@@ -68,17 +76,8 @@
         {
             "title": "Starter home affordability is crawling back. These regions are best for first-time buyers - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.9302096366882324,
+            "score": 0.9302093982696533,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX Stock Closes At Fresh Low After Seven Straight Days Of Losses - Investopedia",
-            "sentiment": "NEGATIVE",
-            "score": 0.973466157913208,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -95,7 +94,7 @@
         {
             "title": "Coca-Cola\u2019s milk brand halts US production after \u2018unauthorized access\u2019 breach - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9289080500602722,
+            "score": 0.928908109664917,
             "signal": "BEARISH",
             "tickers": [
                 "KO"
@@ -110,6 +109,32 @@
             ]
         },
         {
+            "title": "Tesla Is Still Down 17% in 2026. Can Wednesday's Earnings Event Get TSLA Stock Back on Track? - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.8266453742980957,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Gas prices hit $4 again after oil soars more than 15% in a week - NBC News",
+            "sentiment": "POSITIVE",
+            "score": 0.9417142868041992,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "AMC stock surges after record revenue as CEO pushes back against 'prognosticators of doom' - Yahoo Finance",
             "sentiment": "POSITIVE",
             "score": 0.9397056698799133,
@@ -119,44 +144,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.9547665119171143,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Why Dan Ives Maintains His Sky High Target on IBM After Its Largest Crash Ever - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.9394680857658386,
+            "score": 0.9394681453704834,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "BMS, Nvidia aim for \u2018most powerful AI factory in life sciences\u2019 - Fierce Biotech",
-            "sentiment": "POSITIVE",
-            "score": 0.9077146053314209,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8493119478225708,
+            "score": 0.8493114113807678,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -192,28 +191,36 @@
             ]
         },
         {
-            "title": "Brookfield and CPP Investments to Buy LXP Industrial for $5.2 Billion - WSJ",
+            "title": "Philippine Airlines Orders Boeing 787-10, As Part Of Major Fleet Renewal - One Mile at a Time",
             "sentiment": "POSITIVE",
-            "score": 0.7217553853988647,
+            "score": 0.7781288623809814,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "China\u2019s new AI model halts new subscriptions as demand swamps capacity - AP News",
+            "title": "EU hits China\u2019s Alibaba with \u20ac550M record fine over illegal products - politico.eu",
             "sentiment": "NEGATIVE",
-            "score": 0.9555851221084595,
+            "score": 0.9584546685218811,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9417728185653687,
-            "signal": "BULLISH",
+            "title": "An OpenAI exec's comments on China's Kimi K3 kicked off a big US tech debate - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.811114490032196,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
