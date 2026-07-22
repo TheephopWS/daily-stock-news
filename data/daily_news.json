@@ -1,14 +1,23 @@
 {
-    "last_updated": "2026-07-22 15:56:14 UTC",
-    "total_articles": 18,
-    "bullish_articles": 13,
-    "bearish_articles": 5,
+    "last_updated": "2026-07-22 18:47:13 UTC",
+    "total_articles": 21,
+    "bullish_articles": 10,
+    "bearish_articles": 11,
     "articles": [
         {
-            "title": "Google expands Gemini lineup with cheaper models and new Mythos rival - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8868938088417053,
-            "signal": "BULLISH",
+            "title": "Judge approves Anthropic\u2019s $1.5 billion copyright settlement with authors - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.9100202918052673,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Google releases three new Gemini models \u2014 but no 3.5 Pro - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8820183277130127,
+            "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
             ],
@@ -16,10 +25,64 @@
             "ticker_impacts": [
                 {
                     "ticker": "GOOGL",
-                    "impact": "positive",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Stock Market Today: Nasdaq Rises on Chip Stock Gains, Oil Climbs \u2014 Live Updates - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.7190310955047607,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "GM stock rises after automaker boosts full-year guidance, reports Q2 earnings - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9422202706336975,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Joe Biden mandated all new vehicles come installed with a 'kill switch.' This Republican wants to repeal it - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8185843229293823,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "4 more executives leaving Epic: Report - Becker's Hospital Review",
+            "sentiment": "NEGATIVE",
+            "score": 0.7295361757278442,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.701528787612915,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Allergy medication recalled over potentially \u2018life-threatening\u2019 cross-contamination - The Hill",
+            "sentiment": "NEGATIVE",
+            "score": 0.9309418201446533,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "SpaceX sets earnings date, triggering first lock-up expiration for millions of shares - CNBC",
@@ -31,18 +94,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bessent says U.S. could sanction China over AI model 'theft' - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8926026225090027,
-            "signal": "BULLISH",
+            "title": "The 'Surprisingly Soft' Unit That Caused Danaher To Plummet - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9716095924377441,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The 'Surprisingly Soft' Unit That Caused Danaher To Plummet - Investor's Business Daily",
+            "title": "China's new AI model halts new subscriptions as demand swamps capacity - ABC News - Breaking News, Latest News and Videos",
             "sentiment": "NEGATIVE",
-            "score": 0.9716095924377441,
+            "score": 0.9561815857887268,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -63,15 +126,15 @@
             "score": 0.851327121257782,
             "signal": "BULLISH",
             "tickers": [
-                "AMZN",
+                "GOOGL",
                 "MSFT",
-                "META",
-                "GOOGL"
+                "AMZN",
+                "META"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "medium"
                 },
@@ -81,12 +144,12 @@
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "META",
+                    "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "META",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -110,49 +173,6 @@
             ]
         },
         {
-            "title": "GM boosts full-year guidance, reports Q2 earnings beat as costs come down - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9484344720840454,
-            "signal": "BULLISH",
-            "tickers": [
-                "GM"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GM",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "AAA national gas price tops $4 amid renewed US strikes on Iran - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.9409490823745728,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "World shares mostly gain and South Korea and Japan recover some losses from AI stock sell-offs - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.9412544965744019,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Miami's cost of living now tops New York City's despite Florida's tax advantages - Fox Business",
             "sentiment": "POSITIVE",
             "score": 0.9502373337745667,
@@ -160,6 +180,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Nebius stock surges 13% as Nvidia discloses significant stake in neocloud - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.790942370891571,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "China Broadens Market Rescue With Record Inflows Into Tech ETF - Bloomberg.com",
@@ -171,13 +208,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Starter home affordability is crawling back. These regions are best for first-time buyers - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.9302093982696533,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Bank of America doubles down on Microsoft stock ahead of earnings - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9412280321121216,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT",
+                "BAC"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "BAC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "AMC stock surges after record revenue as CEO pushes back against 'prognosticators of doom' - Yahoo Finance",
@@ -189,9 +240,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "JetBlue wins Spirit Airlines\u2019 coveted slots at LaGuardia Airport in NYC: report - New York Post",
+            "title": "AliExpress gets record \u20ac550m fine from EU for allowing sale of illegal products - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7471513152122498,
+            "score": 0.9465757012367249,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -204,8 +255,8 @@
             "signal": "BULLISH",
             "tickers": [
                 "AMD",
-                "MSFT",
-                "INTC"
+                "INTC",
+                "MSFT"
             ],
             "primary_ticker": "AMD",
             "ticker_impacts": [
@@ -215,48 +266,14 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "MSFT",
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Goldman Says Hedge Funds Sell US Tech Stocks at Record Pace - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7773551344871521,
-            "signal": "BEARISH",
-            "tickers": [
-                "GS"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GS",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Philippine Airlines Orders Boeing 787-10, As Part Of Major Fleet Renewal - One Mile at a Time",
-            "sentiment": "POSITIVE",
-            "score": 0.7781288623809814,
-            "signal": "BULLISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "positive",
-                    "relevance": "high"
                 }
             ]
         }
