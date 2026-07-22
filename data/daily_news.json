@@ -1,25 +1,35 @@
 {
-    "last_updated": "2026-07-22 07:19:13 UTC",
-    "total_articles": 14,
-    "bullish_articles": 6,
-    "bearish_articles": 8,
+    "last_updated": "2026-07-22 10:10:36 UTC",
+    "total_articles": 18,
+    "bullish_articles": 11,
+    "bearish_articles": 7,
     "articles": [
         {
-            "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX, Tesla Tumble - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9497764706611633,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Stock futures climb as traders shift focus to earnings amid Middle East tensions: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9141032099723816,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Asia stocks climb as easing oil rally supports risk appetite - Investing.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9040992259979248,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China Broadens Market Rescue With Record Inflows Into Tech ETF - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9351454377174377,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Samsung Debuts Galaxy Card With 5% Cash Back to Take On Apple Card - MacRumors",
@@ -100,23 +110,6 @@
             ]
         },
         {
-            "title": "Tesla Is Still Down 17% in 2026. Can Wednesday's Earnings Event Get TSLA Stock Back on Track? - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.8266456127166748,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "AMC stock surges after record revenue as CEO pushes back against 'prognosticators of doom' - Yahoo Finance",
             "sentiment": "POSITIVE",
             "score": 0.9397056698799133,
@@ -144,6 +137,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "BMS, Nvidia aim for \u2018most powerful AI factory in life sciences\u2019 - Fierce Biotech",
+            "sentiment": "POSITIVE",
+            "score": 0.9077146053314209,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.8493119478225708,
@@ -159,8 +169,8 @@
             "signal": "BULLISH",
             "tickers": [
                 "AMD",
-                "INTC",
-                "MSFT"
+                "MSFT",
+                "INTC"
             ],
             "primary_ticker": "AMD",
             "ticker_impacts": [
@@ -170,33 +180,43 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "MSFT",
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Philippine Airlines Orders Boeing 787-10, As Part Of Major Fleet Renewal - One Mile at a Time",
+            "title": "Brookfield and CPP Investments to Buy LXP Industrial for $5.2 Billion - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.7781292200088501,
+            "score": 0.7217553853988647,
             "signal": "BULLISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China\u2019s new AI model halts new subscriptions as demand swamps capacity - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9555851221084595,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9417728185653687,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         }
     ]
 }
