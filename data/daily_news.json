@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-07-23 07:16:44 UTC",
-    "total_articles": 21,
+    "last_updated": "2026-07-23 10:10:21 UTC",
+    "total_articles": 25,
     "bullish_articles": 6,
-    "bearish_articles": 15,
+    "bearish_articles": 19,
     "articles": [
+        {
+            "title": "She tried to fire her real estate agent. It was the start of a nightmare. - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.8142978549003601,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Super Micro Shares Surge 20% After It Says Gross Margins Will Nearly Double - Barron's",
             "sentiment": "POSITIVE",
@@ -21,6 +30,29 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Futures: AI Server Maker Jumps Late; Google, Tesla Due - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9331487417221069,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL",
+                "TSLA"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Trump's push for American-made AI chips hits TSMC's margins - CNBC",
@@ -59,36 +91,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Allergy medication recalled over possible drug mix-up that could trigger 'life-threatening' reactions - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.949268102645874,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Scoop: Progressives scorch Gillibrand over crypto - Axios",
             "sentiment": "NEGATIVE",
             "score": 0.9401711821556091,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "OpenAI admits an AI \u2018agent\u2019 caused a major cyber breach by itself - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.855718195438385,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nike to cut off thousands of online distributors in China, restructure digital footprint - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.80656498670578,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -148,6 +153,15 @@
             ]
         },
         {
+            "title": "Bottles of antihistamine tablets recalled. See the affected products - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.934039831161499,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "$100M New Jersey deli fraudster James Patten sentenced to 21 months in prison - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9200074672698975,
@@ -155,6 +169,32 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "China's 'open' AI is a terrible business, and nothing like open-source software - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.8527922630310059,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bank of America CEO warns inflation will back Fed into a corner - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7408356666564941,
+            "signal": "BEARISH",
+            "tickers": [
+                "BAC"
+            ],
+            "primary_ticker": "BAC",
+            "ticker_impacts": [
+                {
+                    "ticker": "BAC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Magic: The Gathering | Marvel Super Heroes Sets Record For Day-1 And Month-1 Revenue - Star City Games",
@@ -169,6 +209,24 @@
             "title": "4 more executives leaving Epic: Report - Becker's Hospital Review",
             "sentiment": "NEGATIVE",
             "score": 0.7295361757278442,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "United Airlines investigating worker who threatened to call ICE on passenger - KTVU",
+            "sentiment": "NEGATIVE",
+            "score": 0.9217689633369446,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Novo Nordisk sues Eli Lilly over \"maliciously and deceptively false\" GLP-1 ads - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8938497304916382,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
