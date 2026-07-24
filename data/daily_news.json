@@ -1,22 +1,62 @@
 {
-    "last_updated": "2026-07-23 21:45:16 UTC",
-    "total_articles": 21,
-    "bullish_articles": 6,
-    "bearish_articles": 15,
+    "last_updated": "2026-07-24 00:55:07 UTC",
+    "total_articles": 14,
+    "bullish_articles": 1,
+    "bearish_articles": 13,
     "articles": [
         {
-            "title": "IBM Cuts Revenue Outlook Following Historic Stock Drop - Barron's",
+            "title": "ChatGPT's medical advice nearly killed a Florida man, lawsuit against OpenAI claims - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9640727639198303,
+            "score": 0.8891942501068115,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Tesla reports Q2 earnings miss but beats on revenue; cash burn rate less than expected - Yahoo Finance",
+            "title": "Alphabet earnings updates: Stock sinks during analyst call as company hikes 2026 capex - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.955493688583374,
+            "score": 0.9524289965629578,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "US Stock Futures Slip on Alphabet, Oil Advances: Markets Wrap - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9309168457984924,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL",
+                "INTC"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Q2 earnings recap: Stock falls after profit misses estimates - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9727969169616699,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -29,6 +69,79 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "US regulators to weigh controversial peptides backed by RFK Jr - Al Jazeera",
+            "sentiment": "NEGATIVE",
+            "score": 0.8025753498077393,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "IBM Cuts Revenue Outlook Following Historic Stock Drop - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9640727639198303,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Social media addiction lawsuit against Meta is dropped - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9457030296325684,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Stock Market Today: Nasdaq Slides, Nvidia Can't Lift The Dow; Super Micro Shines - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.8872364163398743,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "GOOGL",
+                "TSLA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Trump plans 100% tariffs on imported generic drugs. Here's what experts say. - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9071577191352844,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Chick-fil-A security incident may have exposed some customer account data - Fox Business",
@@ -40,112 +153,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Jury orders Nike to pay at least $7.5 million in damages in sex discrimination case - OregonLive.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.742369532585144,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The untapped opportunity that could help close America\u2019s housing shortage - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.8545235991477966,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Super Micro, ServiceNow, GE Vernova, Pegasystems, and More Stocks That Explain Today\u2019s Market - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9416565299034119,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "New Twist Deals Blow to Trump\u2019s Cyclospora Lettuce Outbreak Probe - The Daily Beast",
-            "sentiment": "NEGATIVE",
-            "score": 0.8595566749572754,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump\u2019s 100% Generic Drug Duty Threatens US Low-Cost Supply - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9133419990539551,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AT&T Earnings Beat. CEO Stankey: Starlink Deal Not Needed At All - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9318132996559143,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX stock dips as Elon's other company \u2014 Tesla \u2014 reports Wednesday night - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9681037068367004,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Stock Market Today: Nasdaq Slips, Oil Price Touches $95 as War Squeezes Supply \u2014 Live Updates - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.894916296005249,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "GE Vernova stock drops despite surging AI-driven orders as wind segment drags - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9754775166511536,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Alphabet Earnings Preview: Will Doubling AI Capex Pay Off for GOOGL Stock? - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9515658020973206,
-            "signal": "BULLISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Oil surges past $95 as U.S. downplays Iran diplomacy and a 2nd key trade route is disrupted - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.8990831971168518,
@@ -155,9 +162,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Red Line shutdown turns 20-minute commute to Boston into two-hour slog - The Boston Globe",
+            "title": "The foods least likely to get you sick \u2014 as \u2018explosive diarrhea\u2019 parasite, Listeria and E. coli infiltrate our meals - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9508928060531616,
+            "score": 0.7350966334342957,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -173,15 +180,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Allergy medication recalled over possible drug mix-up that could trigger 'life-threatening' reactions - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.949268102645874,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Exclusive | Utilities Join Trump Pledge to Limit AI-Driven Increases in Electricity Bills - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.8127524852752686,
@@ -189,41 +187,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Rocket Lab Stock Rises After the Bell: Here's Why - Benzinga",
-            "sentiment": "POSITIVE",
-            "score": 0.9466820955276489,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market Today: Nasdaq Pops As S&P 500 Finds Key Support; Micron, Sandisk Shares Soar (Live Coverage) - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.8877251744270325,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Google releases three new Gemini models \u2014 but no 3.5 Pro - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.8820183277130127,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
