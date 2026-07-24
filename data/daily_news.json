@@ -1,9 +1,35 @@
 {
-    "last_updated": "2026-07-24 00:55:07 UTC",
-    "total_articles": 14,
-    "bullish_articles": 1,
+    "last_updated": "2026-07-24 04:30:59 UTC",
+    "total_articles": 16,
+    "bullish_articles": 3,
     "bearish_articles": 13,
     "articles": [
+        {
+            "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8506373763084412,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock futures slip as investors eye more earnings; Alphabet falls on higher capex outlook: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9611632227897644,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "ChatGPT's medical advice nearly killed a Florida man, lawsuit against OpenAI claims - CBS News",
             "sentiment": "NEGATIVE",
@@ -31,29 +57,6 @@
             ]
         },
         {
-            "title": "US Stock Futures Slip on Alphabet, Oil Advances: Markets Wrap - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9309168457984924,
-            "signal": "BULLISH",
-            "tickers": [
-                "GOOGL",
-                "INTC"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Tesla Q2 earnings recap: Stock falls after profit misses estimates - Business Insider",
             "sentiment": "NEGATIVE",
             "score": 0.9727969169616699,
@@ -71,6 +74,15 @@
             ]
         },
         {
+            "title": "Taco Bell offering $1 lettuce-free deal amid cyclospora outbreak - USA Today",
+            "sentiment": "POSITIVE",
+            "score": 0.8503466844558716,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "US regulators to weigh controversial peptides backed by RFK Jr - Al Jazeera",
             "sentiment": "NEGATIVE",
             "score": 0.8025753498077393,
@@ -80,9 +92,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "IBM Cuts Revenue Outlook Following Historic Stock Drop - Barron's",
+            "title": "IBM shares rise 3% post-Q2 earnings miss as investors eye prior profit warning - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9640727639198303,
+            "score": 0.880415141582489,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -106,35 +118,6 @@
             ]
         },
         {
-            "title": "Stock Market Today: Nasdaq Slides, Nvidia Can't Lift The Dow; Super Micro Shines - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.8872364163398743,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA",
-                "GOOGL",
-                "TSLA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Trump plans 100% tariffs on imported generic drugs. Here's what experts say. - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.9071577191352844,
@@ -153,6 +136,33 @@
             "ticker_impacts": []
         },
         {
+            "title": "Senate panel advances China auto bill that could bar Mercedes-Benz from U.S. - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8874403238296509,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AT&T Earnings Beat. CEO Stankey: Starlink Deal Not Needed At All - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9318132996559143,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI announces $20 billion Georgia data center project - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.7532216310501099,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Oil surges past $95 as U.S. downplays Iran diplomacy and a 2nd key trade route is disrupted - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.8990831971168518,
@@ -162,27 +172,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "The foods least likely to get you sick \u2014 as \u2018explosive diarrhea\u2019 parasite, Listeria and E. coli infiltrate our meals - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7350966334342957,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says - NPR",
             "sentiment": "NEGATIVE",
             "score": 0.9194769263267517,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Exclusive | Utilities Join Trump Pledge to Limit AI-Driven Increases in Electricity Bills - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8127524852752686,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
