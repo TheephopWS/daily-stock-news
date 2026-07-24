@@ -1,31 +1,43 @@
 {
-    "last_updated": "2026-07-24 10:09:28 UTC",
-    "total_articles": 12,
+    "last_updated": "2026-07-24 12:54:21 UTC",
+    "total_articles": 13,
     "bullish_articles": 3,
-    "bearish_articles": 9,
+    "bearish_articles": 10,
     "articles": [
         {
-            "title": "US Official Says Moonshot Accessed Banned Nvidia Chips - Bloomberg.com",
+            "title": "American Airlines slashes 2026 earnings outlook as fuel costs spike - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8365475535392761,
+            "score": 0.9691819548606873,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Google hit with $1 billion fine for breaking EU antitrust rules - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.9534616470336914,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA",
-                "INTC"
+                "GOOGL"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Oil price surge drives global bond sell-off - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9475181102752686,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Stock futures slip as investors eye more earnings; Alphabet falls on higher capex outlook: Live updates - CNBC",
@@ -56,7 +68,7 @@
         {
             "title": "Alphabet Reports Blowout Earnings - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9398325681686401,
+            "score": 0.9398324489593506,
             "signal": "BULLISH",
             "tickers": [
                 "GOOGL"
@@ -71,35 +83,9 @@
             ]
         },
         {
-            "title": "ServiceNow Earnings: AI Disruption Concerns Shadow NOW Stock - Barron's",
+            "title": "Florida teen drops addiction case against Meta ahead of second \u2018bellwether\u2019 trial - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9543450474739075,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "ChatGPT's medical advice nearly killed a Florida man, lawsuit against OpenAI claims - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8891940712928772,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Social media addiction lawsuit against Meta is dropped - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9457030296325684,
+            "score": 0.9286400675773621,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -112,6 +98,32 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Tesla profits plunge as discounts on EV models weigh on results - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9700639843940735,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Man Sues OpenAI, Saying ChatGPT Almost Killed Him With Horrendously Dangerous Medical Advice - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.927534818649292,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Trump plans 100% tariffs on imported generic drugs. Here's what experts say. - CBS News",
@@ -134,39 +146,16 @@
         {
             "title": "Trump administration steers $5B toward AI research - Politico",
             "sentiment": "POSITIVE",
-            "score": 0.8245185613632202,
+            "score": 0.824518620967865,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide with Alphabet, Tesla earnings on deck - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9664914011955261,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA",
-                "GOOGL"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "OpenAI announces $20 billion Georgia data center project - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.7532224059104919,
+            "score": 0.7532221674919128,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
