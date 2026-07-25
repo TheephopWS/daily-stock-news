@@ -1,14 +1,66 @@
 {
-    "last_updated": "2026-07-25 04:29:21 UTC",
-    "total_articles": 20,
-    "bullish_articles": 5,
-    "bearish_articles": 15,
+    "last_updated": "2026-07-25 07:09:08 UTC",
+    "total_articles": 23,
+    "bullish_articles": 7,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "S&P 500 futures are little changed as traders look to recover from oil-driven sell-off: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9680073857307434,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.965779721736908,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Walmart recalls over 16,000 dressers that violate federal safety law due to potentially deadly hazard - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9674628376960754,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "SpaceX Is Turning Away Falcon Customers in Major Bet on Starship - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.8082017302513123,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mortgage rates hit highest level in nearly a year - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.8655620217323303,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -23,9 +75,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion - CNBC",
+            "title": "Department of War taps Oracle for software deal worth nearly $7B - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.7681083679199219,
+            "score": 0.8542991876602173,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil prices leap to $100 a barrel after attacks in Red Sea - The Washington Post",
+            "sentiment": "POSITIVE",
+            "score": 0.879224956035614,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -41,6 +102,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Tesla Stock Is Falling After Lousy Quarter, and Wall Street Keeps Buying the Future - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9496933221817017,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "9 confirmed cases of cyclosporiasis linked to lettuce served at Cheshire Medical Center - WMUR",
             "sentiment": "NEGATIVE",
             "score": 0.9473265409469604,
@@ -50,9 +128,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress - CNBC",
+            "title": "The Bond Market Has a Clear Warning for Investors as Iran War Rages On - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.7895154356956482,
+            "score": 0.9065014123916626,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -66,35 +144,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia, Tesla, SpaceX, Alphabet, Lockheed, AT&T, and More Stocks That Explain Today\u2019s Market - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.965394139289856,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL",
-                "NVDA",
-                "TSLA"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "EU\u2019s Google fine risks triggering Trump as he gears up for more tariffs - politico.eu",
@@ -114,41 +163,6 @@
             ]
         },
         {
-            "title": "New Fed research suggests far fewer Americans own homes than widely believed - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9606359004974365,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tesla\u2019s Worst Day In A Year Cuts Elon Musk\u2019s Net Worth By $18 Billion - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.9320788383483887,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "T-Mobile Falls Despite Earnings Beat. CEO Shoots Down Expanded Starlink Deal. - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9688575267791748,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "ChatGPT medical advice brought man 'to brink of death', lawsuit alleges - BBC",
             "sentiment": "NEGATIVE",
             "score": 0.8814924359321594,
@@ -158,19 +172,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "American Airlines Just Got Hit With a Mixed Bag of News - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.9678267240524292,
-            "signal": "BEARISH",
+            "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7193055748939514,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "10-year Treasury yield climbs to highest level since January 2025 as $100 oil sparks inflation fears - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8682425022125244,
-            "signal": "BULLISH",
+            "title": "As Honda CR-V leads U.S. sales, automaker teases new American-built pickup truck - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9493637084960938,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -216,6 +230,15 @@
             "sentiment": "POSITIVE",
             "score": 0.7453061938285828,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Record setting memberships, possible layoffs reported for Southwest Airlines amid rising fuel costs - WFAA",
+            "sentiment": "NEGATIVE",
+            "score": 0.9313886761665344,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
