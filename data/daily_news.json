@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-07-25 00:58:32 UTC",
-    "total_articles": 19,
+    "last_updated": "2026-07-25 04:29:21 UTC",
+    "total_articles": 20,
     "bullish_articles": 5,
-    "bearish_articles": 14,
+    "bearish_articles": 15,
     "articles": [
         {
             "title": "SpaceX Is Turning Away Falcon Customers in Major Bet on Starship - Bloomberg.com",
@@ -14,36 +14,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "Department of War taps Oracle for software deal worth nearly $7B - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.8542991876602173,
-            "signal": "BULLISH",
+            "title": "Parsley and Cilantro Identified as Potential Sources of Cyclospora Outbreak in North Carolina - Consumer Reports",
+            "sentiment": "NEGATIVE",
+            "score": 0.7203399538993835,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Google and Tesla shares plunge as AI spending rattles markets - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.939042329788208,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA",
-                "GOOGL"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7681083679199219,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "'Magnificent 7' stocks erase $797 billion in market value in worst day since April 2025 - Yahoo Finance",
@@ -53,23 +39,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8843806982040405,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "9 confirmed cases of cyclosporiasis linked to lettuce served at Cheshire Medical Center - WMUR",
@@ -99,17 +68,46 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tesla Short Sellers Mint $4 Billion Profit as Shares Nosedive - Bloomberg.com",
+            "title": "Nvidia, Tesla, SpaceX, Alphabet, Lockheed, AT&T, and More Stocks That Explain Today\u2019s Market - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9515730142593384,
+            "score": 0.965394139289856,
             "signal": "BEARISH",
             "tickers": [
+                "GOOGL",
+                "NVDA",
                 "TSLA"
             ],
-            "primary_ticker": "TSLA",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
                     "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "EU\u2019s Google fine risks triggering Trump as he gears up for more tariffs - politico.eu",
+            "sentiment": "NEGATIVE",
+            "score": 0.8249393105506897,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -125,6 +123,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Tesla\u2019s Worst Day In A Year Cuts Elon Musk\u2019s Net Worth By $18 Billion - Forbes",
+            "sentiment": "NEGATIVE",
+            "score": 0.9320788383483887,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "T-Mobile Falls Despite Earnings Beat. CEO Shoots Down Expanded Starlink Deal. - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.9688575267791748,
@@ -134,26 +149,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Europe just fined Google $1 billion, the day before Trump is expected to announce tariffs - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9297463893890381,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "ChatGPT medical advice brought man 'to brink of death', lawsuit alleges - BBC",
             "sentiment": "NEGATIVE",
             "score": 0.8814924359321594,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "American Airlines Just Got Hit With a Mixed Bag of News - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.9678267240524292,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -205,10 +212,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Record setting memberships, possible layoffs reported for Southwest Airlines amid rising fuel costs - WFAA",
-            "sentiment": "NEGATIVE",
-            "score": 0.9313886761665344,
-            "signal": "BEARISH",
+            "title": "Driverless Cars Just Scored Bragging Points Over Humans - Newser",
+            "sentiment": "POSITIVE",
+            "score": 0.7453061938285828,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
