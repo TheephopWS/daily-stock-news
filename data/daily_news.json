@@ -1,30 +1,127 @@
 {
-    "last_updated": "2026-07-25 12:45:20 UTC",
-    "total_articles": 20,
-    "bullish_articles": 7,
-    "bearish_articles": 13,
+    "last_updated": "2026-07-25 15:46:49 UTC",
+    "total_articles": 22,
+    "bullish_articles": 6,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "Shares skid in Asia in sell-off of AI-related shares as Brent oil trades near $100 per barrel - AP News",
+            "title": "Albertsons warns of softer grocery demand as consumers pull back - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9700563549995422,
+            "score": 0.9713144898414612,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap - Bloomberg.com",
+            "title": "Why the gas price surge may be just the start - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.965779721736908,
+            "score": 0.9551107883453369,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dow futures rebound by 150 points as oil surge eases, Intel gains after earnings: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9683983325958252,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "INTC",
             "ticker_impacts": [
                 {
                     "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Cyclosporiasis outbreak expands to 9 states - NBC News",
+            "sentiment": "POSITIVE",
+            "score": 0.7582749724388123,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Recall issued for eggs sold in New Mexico - KOAT",
+            "sentiment": "NEGATIVE",
+            "score": 0.9507700204849243,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7465990781784058,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Samsung, SK Hynix to Ink Large Chip Supply Deals With US Firms - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9064744710922241,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Europe just fined Google $1 billion, the day before Trump is expected to announce tariffs - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9297463893890381,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "9 confirmed cases of cyclosporiasis linked to lettuce served at Cheshire Medical Center - WMUR",
+            "sentiment": "NEGATIVE",
+            "score": 0.9473265409469604,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI\u2019s breach of Hugging Face stokes fears about what\u2019s next for AI - The Hill",
+            "sentiment": "NEGATIVE",
+            "score": 0.9124795794487,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018The demographic dividend of the last 40 years is ending\u2019: J.P. Morgan says the world is running out of the two things that kept interest rates down - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.934864342212677,
+            "signal": "BEARISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -40,33 +137,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "More than 1.5 million dozen egg cartons recalled over possible salmonella contamination - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9660462737083435,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mortgage rates hit highest level in nearly a year - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.8655620217323303,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Parsley and Cilantro Identified as Potential Sources of Cyclospora Outbreak in North Carolina - Consumer Reports",
-            "sentiment": "NEGATIVE",
-            "score": 0.7203399538993835,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Department of War taps Oracle for software deal worth nearly $7B - Fox Business",
             "sentiment": "POSITIVE",
             "score": 0.8542991876602173,
@@ -76,9 +146,47 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tesla Short Sellers Rake In $4 Billion as Shares Nosedive - Bloomberg.com",
+            "title": "Stock Market Today: Nasdaq Plunges To 4-Week Low; Metals Firm Kaiser Hits New Entry (Live Coverage) - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9496411085128784,
+            "score": 0.9697439670562744,
+            "signal": "BEARISH",
+            "tickers": [
+                "META",
+                "GOOGL",
+                "TSLA"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "'Magnificent 7' stocks erase $797 billion in market value in worst day since April 2025 - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9720703959465027,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tesla Stock Is Falling After Lousy Quarter, and Wall Street Keeps Buying the Future - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9496933221817017,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -91,15 +199,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "'Magnificent 7' stocks erase $797 billion in market value in worst day since April 2025 - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9720703959465027,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "The Bond Market Has a Clear Warning for Investors as Iran War Rages On - Barron's",
@@ -120,9 +219,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "EU\u2019s Google fine risks triggering Trump as he gears up for more tariffs - politico.eu",
+            "title": "Google just had its first negative cash flow quarter due to massive AI spending - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.8249393105506897,
+            "score": 0.9656690955162048,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -135,24 +234,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "ChatGPT medical advice brought man 'to brink of death', lawsuit alleges - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8814924359321594,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7193055748939514,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Eli Lilly\u2019s Anticipated Weight Loss Drug Helped People Lose 56 Pounds On Average - Forbes",
@@ -173,36 +254,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "3 US Airports Look to Give TSA the Boot - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.9571670293807983,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Lockheed Martin, RTX Jump After Earnings Beat. One Is Breaking Out. - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9086411595344543,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Driverless Cars Just Scored Bragging Points Over Humans - Newser",
             "sentiment": "POSITIVE",
             "score": 0.7453061938285828,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Comcast Q2 2026 Earnings: Streamer Peacock Adds 2 Million Subscribers - Deadline",
-            "sentiment": "POSITIVE",
-            "score": 0.9461660385131836,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
