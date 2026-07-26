@@ -1,40 +1,82 @@
 {
-    "last_updated": "2026-07-25 21:42:03 UTC",
-    "total_articles": 22,
-    "bullish_articles": 4,
-    "bearish_articles": 18,
+    "last_updated": "2026-07-26 01:03:11 UTC",
+    "total_articles": 18,
+    "bullish_articles": 3,
+    "bearish_articles": 15,
     "articles": [
         {
-            "title": "SpaceX Stock: Starship Launch Delay and Another Reason the Shares Are Falling - Barron's",
+            "title": "Stock Market News, July 24, 2026: Crude Oil Slips on New Hopes for Peace Talks - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.7063854336738586,
+            "score": 0.930759608745575,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Goldman Sachs doubles down on oil price forecast for 2026 - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8532207012176514,
+            "signal": "BEARISH",
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Trump threatens new tariffs against EU over Google fine - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9517098069190979,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Oracle Stock Reverses Lower Despite Pentagon Software Deal - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.8563055396080017,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Elon Musk Has Lost This Much Money as SpaceX, Tesla Stock Tank - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9638571739196777,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Stock market today: Dow, S&P 500, Nasdaq recover as oil eases, new Trump tariffs take effect - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9258280992507935,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "1.5M cartons of eggs recalled in six states for possible salmonella contamination - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9616714119911194,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Elon Musk fires back at reporter, claims more people 'hate you and the media than you realize' - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9228852391242981,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -78,12 +120,17 @@
             "score": 0.9648916721343994,
             "signal": "BEARISH",
             "tickers": [
+                "AMZN",
                 "GOOGL",
-                "META",
-                "AMZN"
+                "META"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
                 {
                     "ticker": "GOOGL",
                     "impact": "negative",
@@ -93,22 +140,8 @@
                     "ticker": "META",
                     "impact": "negative",
                     "relevance": "high"
-                },
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Donald Trump threatens new EU tariffs in retaliation for fines on US tech groups - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.923374593257904,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Amazon Prime settlement: How eligible customers can claim their refund - Fox Business",
@@ -126,24 +159,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Why the Latest Oil Rally May Be Far From Over - Crude Oil Prices Today | OilPrice.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9331799149513245,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Yang Zhilin, the rock star founder behind China\u2019s Moonshot AI - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8218573927879333,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Ford recalls more than half a million Broncos due to engine fire risk - ABC News - Breaking News, Latest News and Videos",
@@ -181,33 +196,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Rocket Lab: I Bought The Panic - Seeking Alpha",
-            "sentiment": "NEGATIVE",
-            "score": 0.8762816190719604,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "S. Korea's 'Divorce of the Century' Ends in $645M Payout - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.9099655747413635,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Amex Raises Forecast for Revenue Growth on First-Half Momentum - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.952396810054779,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.7465996742248535,
@@ -217,10 +205,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "9 confirmed cases of cyclosporiasis linked to lettuce served at Cheshire Medical Center - WMUR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9473265409469604,
-            "signal": "BEARISH",
+            "title": "Samsung, SK Hynix to Ink Large Chip Supply Deals With US Firms - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9064746499061584,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -235,19 +223,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "\u2018The demographic dividend of the last 40 years is ending\u2019: J.P. Morgan says the world is running out of the two things that kept interest rates down - Fortune",
+            "title": "Airbnb squatter? Hermosa Beach homeowner says guest refused to leave after reservation ended - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
-            "score": 0.9348642826080322,
+            "score": 0.8129714131355286,
             "signal": "BEARISH",
             "tickers": [
-                "JPM"
+                "ABNB"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "ABNB",
             "ticker_impacts": [
                 {
-                    "ticker": "JPM",
+                    "ticker": "ABNB",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
