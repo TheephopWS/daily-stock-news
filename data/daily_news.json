@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-07-26 04:35:49 UTC",
-    "total_articles": 14,
+    "last_updated": "2026-07-26 07:17:21 UTC",
+    "total_articles": 16,
     "bullish_articles": 4,
-    "bearish_articles": 10,
+    "bearish_articles": 12,
     "articles": [
         {
             "title": "Trump threatens EU will pay \u2018big price\u2019 after Brussels fines Google $1bn - Al Jazeera",
@@ -31,18 +31,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oracle Stock Reverses Lower Despite Pentagon Software Deal - Investor's Business Daily",
+            "title": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.8563047647476196,
+            "score": 0.7774531245231628,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Nasdaq Slides As Oil, Yields Fall; This AI Name Tumbles (Live Coverage) - Investor's Business Daily",
+            "title": "Stock market today: Nasdaq slips, Dow and S&P 500 recover to close a volatile week on Wall Street - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9602726697921753,
+            "score": 0.9656813144683838,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -68,22 +68,22 @@
         {
             "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.964891791343689,
+            "score": 0.9648916721343994,
             "signal": "BEARISH",
             "tickers": [
-                "META",
                 "AMZN",
+                "META",
                 "GOOGL"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "META",
                     "impact": "negative",
                     "relevance": "high"
                 },
@@ -95,45 +95,69 @@
             ]
         },
         {
-            "title": "Why the Latest Oil Rally May Be Far From Over - Crude Oil Prices Today | OilPrice.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9331797957420349,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Micron Is A Strong Buy Again Because Of Kimi K3 (NASDAQ:MU) - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.9085755348205566,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Yang Zhilin, the rock star founder behind China\u2019s Moonshot AI - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.821857213973999,
+            "score": 0.8218565583229065,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Albertsons warns of softer grocery demand as consumers pull back - Fox Business",
+            "title": "Google Earnings Could be a Bad Omen for Big Tech Stocks - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9713146090507507,
+            "score": 0.951726496219635,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Stock Erases $214 Billion in a Single Day \u2014 Here's What Happened This Month - Benzinga",
+            "sentiment": "NEGATIVE",
+            "score": 0.9319946765899658,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Micron Stock Offers A Different Kind Of Return - Trefis",
+            "sentiment": "POSITIVE",
+            "score": 0.9347538352012634,
+            "signal": "BULLISH",
+            "tickers": [
+                "MU"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "MU",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7465996742248535,
+            "score": 0.7465990781784058,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -142,7 +166,16 @@
         {
             "title": "Will the Federal Reserve raise interest rates? Here is what experts predict for July's meeting. - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.7033531665802002,
+            "score": 0.7033515572547913,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Treasury yields slide as oil prices fall amid hopes for new U.S.-Iran peace talks - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.970493733882904,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -151,7 +184,7 @@
         {
             "title": "Airbnb squatter? Hermosa Beach homeowner says guest refused to leave after reservation ended - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
-            "score": 0.8129712343215942,
+            "score": 0.8129711747169495,
             "signal": "BEARISH",
             "tickers": [
                 "ABNB"
@@ -168,8 +201,17 @@
         {
             "title": "Mortgage rates hit highest level in nearly a year - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.8655625581741333,
+            "score": 0.8655620217323303,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "ChatGPT medical advice brought man 'to brink of death', lawsuit alleges - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8814924359321594,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
