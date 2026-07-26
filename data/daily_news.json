@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-07-26 18:45:20 UTC",
-    "total_articles": 26,
-    "bullish_articles": 6,
-    "bearish_articles": 20,
+    "last_updated": "2026-07-26 21:43:32 UTC",
+    "total_articles": 30,
+    "bullish_articles": 8,
+    "bearish_articles": 22,
     "articles": [
         {
             "title": "Forget gasoline: This overlooked fuel could raise the price of nearly everything you buy - Fox Business",
@@ -16,13 +16,13 @@
         {
             "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.8981120586395264,
+            "score": 0.8981119394302368,
             "signal": "BEARISH",
             "tickers": [
                 "AAPL",
-                "MSFT",
+                "META",
                 "AMZN",
-                "META"
+                "MSFT"
             ],
             "primary_ticker": "AAPL",
             "ticker_impacts": [
@@ -32,7 +32,7 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "MSFT",
+                    "ticker": "META",
                     "impact": "negative",
                     "relevance": "medium"
                 },
@@ -42,17 +42,34 @@
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "META",
+                    "ticker": "MSFT",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "DeepSeek Said to Tell Backers of Funding Pause After Viral Posts - Bloomberg.com",
+            "title": "Tesla\u2019s Revenue Beat Hid The Number That Actually Sank The Stock - Trefis",
             "sentiment": "NEGATIVE",
-            "score": 0.9181551337242126,
+            "score": 0.8941475749015808,
             "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "America In Focus: New tariffs, soaring gas, mortgages and a down week for Wall Street - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.8472283482551575,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -60,7 +77,7 @@
         {
             "title": "Gas prices climb higher across California as experts warn this surge will be different - New York Post",
             "sentiment": "POSITIVE",
-            "score": 0.9254423975944519,
+            "score": 0.9254423379898071,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -69,17 +86,8 @@
         {
             "title": "We\u2019re beating heart disease - vox.com",
             "sentiment": "POSITIVE",
-            "score": 0.9212834239006042,
+            "score": 0.9212832450866699,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Investors increase bets on Federal Reserve rate rise after oil price surge - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.784034252166748,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -87,7 +95,7 @@
         {
             "title": "Why aren't oil prices higher? Staggering drop in energy demand leaves strategists puzzled. - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.94878751039505,
+            "score": 0.948787271976471,
             "signal": "BEARISH",
             "tickers": [
                 "JPM"
@@ -104,8 +112,17 @@
         {
             "title": "Ford recalls more than half a million Broncos due to engine fire risk - ABC News - Breaking News, Latest News and Videos",
             "sentiment": "NEGATIVE",
-            "score": 0.9351372718811035,
+            "score": 0.9351375102996826,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8042494654655457,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -113,7 +130,7 @@
         {
             "title": "SpaceX Starship megarocket hits key milestones in \u2018Lucky 13\u2019 test flight as big hurdles loom - CNN",
             "sentiment": "POSITIVE",
-            "score": 0.9137371778488159,
+            "score": 0.9137372970581055,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -137,9 +154,27 @@
             ]
         },
         {
+            "title": "Brooklyn Roasting Company recalls cold brew sold in New York and New Jersey over botulism risk - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.8467130661010742,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.7774530053138733,
+            "score": 0.7774531245231628,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Wild Markets Week Settles Down - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.955636739730835,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -148,34 +183,26 @@
         {
             "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9628759622573853,
+            "score": 0.9628758430480957,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Intel\u2019s Strong Earnings Couldn\u2019t Save the Stock From an AI Spending Panic - Barron's",
+            "title": "Oracle Stock Reverses Lower Despite Pentagon Software Deal - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9693910479545593,
+            "score": 0.8563047647476196,
             "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "Tech billionaire ordered to pay $645M to ex-wife in South Korea's \u2018divorce of the century\u2019 - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.8017833232879639,
-            "signal": "BEARISH",
+            "title": "Republicans target Trump's crypto empire with new plan, Dems say it falls short - Fox News",
+            "sentiment": "POSITIVE",
+            "score": 0.7908322215080261,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -198,9 +225,9 @@
             ]
         },
         {
-            "title": "2 Oregon residents sickened in possible link to nationwide Cyclospora outbreak - KATU",
+            "title": "Oregon reports 2 Cyclospora cases tied to lettuce recall - KPTV",
             "sentiment": "NEGATIVE",
-            "score": 0.9244670271873474,
+            "score": 0.8389409780502319,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -226,7 +253,7 @@
         {
             "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9618624448776245,
+            "score": 0.9618625044822693,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -243,12 +270,12 @@
         {
             "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.964891791343689,
+            "score": 0.9648916721343994,
             "signal": "BEARISH",
             "tickers": [
                 "META",
-                "AMZN",
-                "GOOGL"
+                "GOOGL",
+                "AMZN"
             ],
             "primary_ticker": "META",
             "ticker_impacts": [
@@ -258,12 +285,12 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -272,28 +299,74 @@
         {
             "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year\u2019s mark - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.9064123630523682,
+            "score": 0.9064120650291443,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Bank of America says Alphabet stock investors are missing the bigger signal - thestreet.com",
+            "title": "Amazon Prime settlement: How eligible customers can claim their refund - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.945764422416687,
+            "score": 0.8137989044189453,
             "signal": "BEARISH",
             "tickers": [
-                "BAC",
-                "GOOGL"
+                "AMZN"
             ],
-            "primary_ticker": "BAC",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "BAC",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
-                },
+                }
+            ]
+        },
+        {
+            "title": "Restaurant Scorecard: Expired noodles, black mold in ice bin among violations as 5 Jefferson County restaurants fall below satisfactory compliance standards - WBRC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9685148000717163,
+            "signal": "BEARISH",
+            "tickers": [
+                "JCDH"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "JCDH",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Yang Zhilin, the rock star founder behind China\u2019s Moonshot AI - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8218565583229065,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "High-Frequency Traders Say They Have \"No Choice\" But to Pay Trump $100,000 a Month for Early Access to His Posts - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.8880165815353394,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Google Earnings Could be a Bad Omen for Big Tech Stocks - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.951726496219635,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
                 {
                     "ticker": "GOOGL",
                     "impact": "negative",
@@ -302,57 +375,22 @@
             ]
         },
         {
-            "title": "Yang Zhilin, the rock star founder behind China\u2019s Moonshot AI - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.821857213973999,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "High-Frequency Traders Say They Have \u201cNo Choice\u201d But to Pay Trump $100,000 a Month for Early Access to His Posts - Yahoo Finance",
+            "title": "Will the Federal Reserve raise interest rates? Here is what experts predict for July's meeting. - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.8554549813270569,
+            "score": 0.7033515572547913,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "US 30-year Treasury streak: what do 5% yields mean for global investors? - South China Morning Post",
+            "title": "Treasury yields slide as oil prices fall amid hopes for new U.S.-Iran peace talks - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8533899188041687,
+            "score": 0.970493733882904,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Albertsons warns of softer grocery demand as consumers pull back - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9713146090507507,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oracle Wins Up to $7 Billion U.S. Military Software Contract - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.7902514338493347,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         }
     ]
 }
