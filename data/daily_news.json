@@ -1,14 +1,76 @@
 {
-    "last_updated": "2026-07-26 15:46:21 UTC",
-    "total_articles": 24,
-    "bullish_articles": 3,
-    "bearish_articles": 21,
+    "last_updated": "2026-07-26 18:45:20 UTC",
+    "total_articles": 26,
+    "bullish_articles": 6,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "Forget gasoline: This overlooked fuel could raise the price of nearly everything you buy - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.7710340023040771,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.8981120586395264,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL",
+                "MSFT",
+                "AMZN",
+                "META"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
         {
             "title": "DeepSeek Said to Tell Backers of Funding Pause After Viral Posts - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9181551337242126,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gas prices climb higher across California as experts warn this surge will be different - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.9254423975944519,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "We\u2019re beating heart disease - vox.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9212834239006042,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -49,21 +111,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX may have missed its window to buy Tesla - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9460978507995605,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "title": "SpaceX Starship megarocket hits key milestones in \u2018Lucky 13\u2019 test flight as big hurdles loom - CNN",
+            "sentiment": "POSITIVE",
+            "score": 0.9137371778488159,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Trump threatens EU will pay \u2018big price\u2019 after Brussels fines Google $1bn - Al Jazeera",
@@ -83,15 +137,6 @@
             ]
         },
         {
-            "title": "SpaceX conducts 13th Starship test flight - SpaceNews",
-            "sentiment": "POSITIVE",
-            "score": 0.7346783876419067,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says - PBS",
             "sentiment": "NEGATIVE",
             "score": 0.7774530053138733,
@@ -104,15 +149,6 @@
             "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9628759622573853,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oracle Stock Reverses Lower Despite Pentagon Software Deal - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.8563047647476196,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -160,6 +196,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "2 Oregon residents sickened in possible link to nationwide Cyclospora outbreak - KATU",
+            "sentiment": "NEGATIVE",
+            "score": 0.9244670271873474,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Tesla, SpaceX Selloff Cuts Elon Musk's Paper Wealth by Up to $700 Billion - Yahoo Finance",
@@ -225,23 +270,32 @@
             ]
         },
         {
+            "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year\u2019s mark - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.9064123630523682,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Bank of America says Alphabet stock investors are missing the bigger signal - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.945764422416687,
             "signal": "BEARISH",
             "tickers": [
-                "GOOGL",
-                "BAC"
+                "BAC",
+                "GOOGL"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "BAC",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "BAC",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "BAC",
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -266,23 +320,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "How Long IBM Stock Could Stay Underwater - Trefis",
-            "sentiment": "NEGATIVE",
-            "score": 0.9750571846961975,
-            "signal": "BEARISH",
-            "tickers": [
-                "IBM"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "IBM",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "US 30-year Treasury streak: what do 5% yields mean for global investors? - South China Morning Post",
             "sentiment": "NEGATIVE",
             "score": 0.8533899188041687,
@@ -301,22 +338,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "EU finds TikTok violates its digital rule book by failing to protect privacy of minors - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9289459586143494,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mortgage rates hit highest level in nearly a year - Fox Business",
+            "title": "Oracle Wins Up to $7 Billion U.S. Military Software Contract - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8655625581741333,
+            "score": 0.7902514338493347,
             "signal": "BULLISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         }
     ]
 }
