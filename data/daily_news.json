@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-07-26 07:17:21 UTC",
-    "total_articles": 16,
-    "bullish_articles": 4,
-    "bearish_articles": 12,
+    "last_updated": "2026-07-26 10:05:57 UTC",
+    "total_articles": 22,
+    "bullish_articles": 6,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.8295855522155762,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Trump threatens EU will pay \u2018big price\u2019 after Brussels fines Google $1bn - Al Jazeera",
             "sentiment": "NEGATIVE",
@@ -40,18 +49,53 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock market today: Nasdaq slips, Dow and S&P 500 recover to close a volatile week on Wall Street - Yahoo Finance",
+            "title": "Oracle Stock Reverses Lower Despite Pentagon Software Deal - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9656813144683838,
+            "score": 0.8563047647476196,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight - CNBC",
+            "title": "Intel\u2019s Strong Earnings Couldn\u2019t Save the Stock From an AI Spending Panic - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9737817645072937,
+            "score": 0.9693910479545593,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Stock Market Today: Nasdaq Slides As Oil, Yields Fall; This AI Name Tumbles (Live Coverage) - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9602726697921753,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Verizon Stock Rises After Earnings as Turnaround Plan Gathers Pace - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9309836030006409,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tesla, SpaceX Selloff Cuts Elon Musk's Paper Wealth by Up to $700 Billion - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9606537222862244,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -66,31 +110,25 @@
             ]
         },
         {
-            "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC",
+            "title": "Magnificent 7 stocks shed hundreds of billions amid AI spending fears - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9648916721343994,
+            "score": 0.9716352224349976,
             "signal": "BEARISH",
             "tickers": [
-                "AMZN",
-                "META",
+                "TSLA",
                 "GOOGL"
             ],
-            "primary_ticker": "AMZN",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
+                    "ticker": "TSLA",
                     "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 },
                 {
                     "ticker": "GOOGL",
                     "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
         },
@@ -121,21 +159,13 @@
             ]
         },
         {
-            "title": "Tesla Stock Erases $214 Billion in a Single Day \u2014 Here's What Happened This Month - Benzinga",
+            "title": "Albertsons warns of softer grocery demand as consumers pull back - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9319946765899658,
+            "score": 0.9713144898414612,
             "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Micron Stock Offers A Different Kind Of Return - Trefis",
@@ -155,10 +185,19 @@
             ]
         },
         {
-            "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say - CNBC",
+            "title": "Palantir Estimates Rise as Citi Sees Commercial Growth Rebound - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.7465990781784058,
+            "score": 0.9516233205795288,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "9 confirmed cases of cyclosporiasis linked to lettuce served at Cheshire Medical Center - WMUR",
+            "sentiment": "NEGATIVE",
+            "score": 0.9473265409469604,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -193,6 +232,23 @@
             "ticker_impacts": [
                 {
                     "ticker": "ABNB",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Amazon cracks down on use of AI images by sellers after New York law - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8436502814292908,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 }
