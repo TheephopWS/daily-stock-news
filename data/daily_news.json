@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-07-27 04:37:45 UTC",
-    "total_articles": 30,
-    "bullish_articles": 7,
+    "last_updated": "2026-07-27 07:36:21 UTC",
+    "total_articles": 32,
+    "bullish_articles": 9,
     "bearish_articles": 23,
     "articles": [
+        {
+            "title": "Cyclospora outbreak dubbed \"lettuce-gate\" as concerns over parasitic illness spread across U.S. - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7662140130996704,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bargain buffet refuses to die while luxury dining takes over Vegas - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7143509984016418,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Billionaire Who Left His Wife For A Younger Woman Ordered To Pay Her Insane Amount In The 'Divorce Of The Century' - Bored Panda",
             "sentiment": "NEGATIVE",
@@ -76,9 +94,9 @@
             ]
         },
         {
-            "title": "FDA Recalls Thyroid Meds Across the US - Newser",
+            "title": "AARP resists fast track Social Security overhaul - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9060159921646118,
+            "score": 0.9305341243743896,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -120,6 +138,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Bankrupt fried chicken chain franchisee sells last 23 locations - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.882997989654541,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Gas prices climb higher across California as experts warn this surge will be different - New York Post",
             "sentiment": "POSITIVE",
             "score": 0.9254423379898071,
@@ -127,6 +154,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "SoCal police hunting for Tesla bandit wanted for vandalizing more than a dozen vehicles in a week - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9171195030212402,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "We\u2019re beating heart disease - vox.com",
@@ -147,35 +191,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why aren't oil prices higher? Staggering drop in energy demand leaves strategists puzzled. - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.948787271976471,
-            "signal": "BEARISH",
-            "tickers": [
-                "JPM"
-            ],
+            "title": "Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8042494654655457,
+            "signal": "BULLISH",
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
-            "title": "Ford recalls more than half a million Broncos due to engine fire risk - ABC News - Breaking News, Latest News and Videos",
+            "title": "Trump has no remaining levers to pull as oil hovers near the $100 \u2018psychological\u2019 threshold - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9351375102996826,
+            "score": 0.8744906783103943,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal - Financial Times",
+            "title": "Elon Musk, Mark Zuckerberg, Satya Nadella Show 'Overwhelming Support' for Open-Weight AI Models as OpenAI - Benzinga",
             "sentiment": "POSITIVE",
-            "score": 0.8042494654655457,
+            "score": 0.8799841403961182,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dropping quarterly company reports in US may not be a bad thing - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8244031667709351,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -208,6 +253,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Oracle\u2019s defense pivot lands its biggest government win yet - thestreet.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7581368684768677,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Wild Markets Week Settles Down - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.955636739730835,
@@ -217,22 +271,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week - AP News",
+            "title": "Oregon health officials investigate local cyclical outbreaks during lettuce recall - KTVZ",
             "sentiment": "NEGATIVE",
-            "score": 0.9628758430480957,
+            "score": 0.8833719491958618,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "KTVZ"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oracle Stock Reverses Lower Despite Pentagon Software Deal - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.8563047647476196,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "KTVZ",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Republicans target Trump's crypto empire with new plan, Dems say it falls short - Fox News",
@@ -244,30 +297,33 @@
             "ticker_impacts": []
         },
         {
-            "title": "FDA recalls 180,000 cans of soup sold at Walmart - the-sun.com",
+            "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9437950253486633,
+            "score": 0.9648916721343994,
             "signal": "BEARISH",
             "tickers": [
-                "WMT"
+                "GOOGL",
+                "AMZN",
+                "META"
             ],
-            "primary_ticker": "WMT",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "WMT",
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "2 Oregon residents sickened in possible link to nationwide Cyclospora outbreak - KATU",
-            "sentiment": "NEGATIVE",
-            "score": 0.9244672060012817,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year\u2019s mark - TechCrunch",
@@ -279,19 +335,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Restaurant Scorecard: Expired noodles, black mold in ice bin among violations as 5 Jefferson County restaurants fall below satisfactory compliance standards - WBRC",
+            "title": "Amazon Prime settlement: How eligible customers can claim their refund - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9685148000717163,
+            "score": 0.8137989044189453,
             "signal": "BEARISH",
             "tickers": [
-                "JCDH"
+                "AMZN"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "JCDH",
+                    "ticker": "AMZN",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
@@ -311,15 +367,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Yang Zhilin, the rock star founder behind China\u2019s Moonshot AI - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8218565583229065,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "High-Frequency Traders Say They Have \u201cNo Choice\u201d But to Pay Trump $100,000 a Month for Early Access to His Posts - Yahoo Finance",
@@ -346,15 +393,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Treasury yields slide as oil prices fall amid hopes for new U.S.-Iran peace talks - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.970493733882904,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
