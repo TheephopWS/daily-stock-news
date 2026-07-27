@@ -1,13 +1,31 @@
 {
-    "last_updated": "2026-07-27 01:03:07 UTC",
-    "total_articles": 28,
+    "last_updated": "2026-07-27 04:37:45 UTC",
+    "total_articles": 30,
     "bullish_articles": 7,
-    "bearish_articles": 21,
+    "bearish_articles": 23,
     "articles": [
         {
-            "title": "Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so - Fortune",
+            "title": "Billionaire Who Left His Wife For A Younger Woman Ordered To Pay Her Insane Amount In The 'Divorce Of The Century' - Bored Panda",
             "sentiment": "NEGATIVE",
-            "score": 0.9345667958259583,
+            "score": 0.8703265190124512,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "DeepSeek\u2019s Normally Boring CEO Is Reportedly Spiraling After Supposed Leak - Gizmodo",
+            "sentiment": "NEGATIVE",
+            "score": 0.7300214767456055,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trillionaire No More. SpaceX Collapse Loses Elon Musk $600 Billion in One Month - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.9082565307617188,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -29,8 +47,8 @@
             "signal": "BEARISH",
             "tickers": [
                 "AAPL",
-                "AMZN",
                 "MSFT",
+                "AMZN",
                 "META"
             ],
             "primary_ticker": "AAPL",
@@ -41,12 +59,12 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "MSFT",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "MSFT",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "medium"
                 },
@@ -56,6 +74,15 @@
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "FDA Recalls Thyroid Meds Across the US - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.9060159921646118,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Tesla\u2019s Revenue Beat Hid The Number That Actually Sank The Stock - Trefis",
@@ -243,23 +270,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tesla, SpaceX Selloff Cuts Elon Musk's Paper Wealth by Up to $700 Billion - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9606537222862244,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year\u2019s mark - TechCrunch",
             "sentiment": "POSITIVE",
             "score": 0.9064120650291443,
@@ -267,23 +277,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Amazon Prime settlement: How eligible customers can claim their refund - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.8137989044189453,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Restaurant Scorecard: Expired noodles, black mold in ice bin among violations as 5 Jefferson County restaurants fall below satisfactory compliance standards - WBRC",
@@ -299,6 +292,23 @@
                     "ticker": "JCDH",
                     "impact": "negative",
                     "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Regional outage on Amazon Web Services disrupts dozens of popular websites, online services - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.966498076915741,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
