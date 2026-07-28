@@ -1,23 +1,64 @@
 {
-    "last_updated": "2026-07-28 07:20:09 UTC",
-    "total_articles": 24,
-    "bullish_articles": 8,
-    "bearish_articles": 16,
+    "last_updated": "2026-07-28 10:16:42 UTC",
+    "total_articles": 28,
+    "bullish_articles": 7,
+    "bearish_articles": 21,
     "articles": [
         {
-            "title": "Indonesia central bank chief resigns - Financial Times",
+            "title": "Shein slumps to loss ahead of planned Hong Kong listing - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9426791667938232,
+            "score": 0.9292323589324951,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Chinese chipmaker CXMT soars almost 500% in market debut - Financial Times",
+            "title": "China\u2019s industrial profits grow at slowest pace this year - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9708093404769897,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AI companies spend record sums on Washington lobbying - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.7833740711212158,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT",
+                "GOOGL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Gold rises on weaker dollar; traders weigh Middle East pause, Fed outlook - Investing.com",
             "sentiment": "POSITIVE",
-            "score": 0.8563726544380188,
+            "score": 0.8699615597724915,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Indonesia central bank chief resigns - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9426789879798889,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -40,22 +81,21 @@
             ]
         },
         {
-            "title": "Kospi index and U.S. stock futures jump as new Hormuz talks send oil prices plunging amid Iran war pause while Wall Street awaits Fed meeting - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8206510543823242,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "China Memory Champion CXMT Set to Debut After $9.8 Billion IPO - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.939179539680481,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Here's How Much A 2021 Mercedes-Maybach S580 Has Depreciated In 5 Years - Jalopnik",
-            "sentiment": "NEGATIVE",
-            "score": 0.9660863280296326,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Major retailer announces its closing 75 stores, slowing growth plans - Cleveland.com",
@@ -78,7 +118,16 @@
         {
             "title": "The 'Great Wealth Transfer' Is Hitting a Speed Bump - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.8913518190383911,
+            "score": 0.8913515210151672,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The US is charging an American citizen for wiping his phone at the border - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.8517266511917114,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -87,7 +136,7 @@
         {
             "title": "Loop 202 reopens after deadly crash - AZ Family",
             "sentiment": "NEGATIVE",
-            "score": 0.9257392883300781,
+            "score": 0.9257394075393677,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -114,7 +163,16 @@
         {
             "title": "For Gen X investors, dotcom bubble haunts stock market portfolios closing in on retirement - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7419872283935547,
+            "score": 0.7419859766960144,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Another water main break reported in Los Angeles neighborhood - KTLA",
+            "sentiment": "NEGATIVE",
+            "score": 0.7781477570533752,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -123,7 +181,7 @@
         {
             "title": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9389822483062744,
+            "score": 0.9389823079109192,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -141,7 +199,7 @@
         {
             "title": "Cyclospora outbreak has many changing eating habits, CBS News poll finds; mixed and partisan confidence in FDA - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.8861798644065857,
+            "score": 0.8861793279647827,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -168,7 +226,7 @@
         {
             "title": "DeepSeek\u2019s Normally Boring CEO Is Reportedly Spiraling After Supposed Leak - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.7300214767456055,
+            "score": 0.7300209999084473,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -177,16 +235,33 @@
         {
             "title": "Starship's launches next-gen Starlink satellites and improves re-entry - Interesting Engineering",
             "sentiment": "POSITIVE",
-            "score": 0.9472121000289917,
+            "score": 0.9472122192382812,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Kalshi demands Netflix take down trailer for \u2018Prediction Games\u2019 documentary - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8471724987030029,
+            "signal": "BEARISH",
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "AARP resists fast track Social Security overhaul - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9305341243743896,
+            "score": 0.9305338263511658,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -195,16 +270,7 @@
         {
             "title": "Eli Lilly delays FDA filing for next-generation weight-loss drug retatrutide - NewsNation",
             "sentiment": "POSITIVE",
-            "score": 0.9298938512802124,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "America In Focus: New tariffs, soaring gas, mortgages and a down week for Wall Street - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.8472283482551575,
+            "score": 0.929894208908081,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -213,17 +279,17 @@
         {
             "title": "Gas prices climb higher across California as experts warn this surge will be different - New York Post",
             "sentiment": "POSITIVE",
-            "score": 0.9254423379898071,
+            "score": 0.9254423975944519,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "We\u2019re beating heart disease - vox.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9212832450866699,
-            "signal": "BULLISH",
+            "title": "Emails show how Virginia regulators downplayed data center health concerns - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.909701406955719,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
