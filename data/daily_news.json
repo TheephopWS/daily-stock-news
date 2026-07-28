@@ -1,9 +1,44 @@
 {
-    "last_updated": "2026-07-28 16:07:02 UTC",
-    "total_articles": 20,
-    "bullish_articles": 6,
-    "bearish_articles": 14,
+    "last_updated": "2026-07-28 18:53:46 UTC",
+    "total_articles": 21,
+    "bullish_articles": 8,
+    "bearish_articles": 13,
     "articles": [
+        {
+            "title": "Consolidated food supply may be worsening cyclospora outbreaks, experts say - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8820641040802002,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Dow Jumps 575 Points On U.S.-Iran Hopes; Oil Prices Plunge (Live Coverage) - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.8715948462486267,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "ASML Slides on Report of China Starting DUV Tool Production - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9733132123947144,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "SpaceX Stock Falls After \u2018Near Perfect\u2019 13th Starship Test. Flight 14 Will Be Wild. - Barron's",
             "sentiment": "POSITIVE",
@@ -12,6 +47,32 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Tech stocks today: Big Tech earnings this week mark a pivotal moment for the AI trade - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9454233646392822,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Exclusive | Nvidia Bets on Ilya Sutskever\u2019s New AI Lab to Expand Compute Reach - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9393377304077148,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Quantum Computing Stocks: D-Wave, AT&T Expand Quantum Agreement - Investor's Business Daily",
@@ -67,18 +128,44 @@
             "ticker_impacts": []
         },
         {
-            "title": "Cybertruck Called the Biggest Flop in Automotive History, as Tesla Shares Plummet - 24/7 Wall St.",
+            "title": "China Vows Response to US Sanctions Threat Against AI Firms - Bloomberg",
             "sentiment": "NEGATIVE",
-            "score": 0.9548011422157288,
+            "score": 0.8375635147094727,
             "signal": "BEARISH",
             "tickers": [
-                "TSLA"
+                "INTC"
             ],
-            "primary_ticker": "TSLA",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "TSLA",
+                    "ticker": "INTC",
                     "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "SpaceX Stock Is Down 49% \u2014 Elon Musk Says That\u2019s Exactly What Investors Should Expect - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.963139533996582,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Intel Bets on Premium Chips, and the Gamble Pays Off With Server Prices Jumping 48% in Q2 - Wccftech",
+            "sentiment": "POSITIVE",
+            "score": 0.9552069306373596,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
@@ -93,24 +180,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "The sting in the tail of Japan\u2019s lost decades - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9523682594299316,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Shein slumps to loss ahead of planned Hong Kong listing - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9292325973510742,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "China\u2019s industrial profits grow at slowest pace this year - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9708093404769897,
@@ -120,50 +189,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "AI companies spend record sums on Washington lobbying - Financial Times",
+            "title": "Indonesia central bank chief resigns - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.7833758592605591,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL",
-                "MSFT"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "China\u2019s Moonshot to Release Breakthrough AI Model for Download - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9166542291641235,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Major retailer announces its closing 75 stores, slowing growth plans - Cleveland.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9221746921539307,
+            "score": 0.9426791667938232,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX Is $15 Away From A \u2018Worthless\u2019 AI Business Says Morgan Stanley - Forbes",
+            "title": "Senate Vote Math Hangs Over XRP: Crunchtime For CLARITY Act? - DailyCoin",
             "sentiment": "NEGATIVE",
-            "score": 0.9643557667732239,
+            "score": 0.9065383076667786,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -195,32 +232,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Seven Save A Lot stores shut down across Chicago\u2019s South and West sides - WGN-TV",
-            "sentiment": "NEGATIVE",
-            "score": 0.9673375487327576,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Kalshi demands Netflix take down trailer for \u2018Prediction Games\u2019 documentary - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.8471724987030029,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
