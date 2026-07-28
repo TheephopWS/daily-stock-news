@@ -1,13 +1,110 @@
 {
-    "last_updated": "2026-07-28 13:01:50 UTC",
-    "total_articles": 28,
-    "bullish_articles": 7,
-    "bearish_articles": 21,
+    "last_updated": "2026-07-28 16:07:02 UTC",
+    "total_articles": 20,
+    "bullish_articles": 6,
+    "bearish_articles": 14,
     "articles": [
+        {
+            "title": "SpaceX Stock Falls After \u2018Near Perfect\u2019 13th Starship Test. Flight 14 Will Be Wild. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9240400195121765,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Quantum Computing Stocks: D-Wave, AT&T Expand Quantum Agreement - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.7164912819862366,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Rocket Lab Stock Jumps After Securing Largest Launch Contract With Pentagon - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9417498111724854,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Musk\u2019s SpaceX tumbles back to Earth, dragging Tesla stock down with it - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8007255792617798,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Micron Stock Faces New Memory Threat as China's CXMT Surges 466% After IPO - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.962247371673584,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Earnings live: AstraZeneca stock rises to kick off a busy earnings week - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9241077899932861,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Cybertruck Called the Biggest Flop in Automotive History, as Tesla Shares Plummet - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.9548011422157288,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Ford wants more customers to customize vehicles to boost profits as it eyes 'Nike shoe drop' moments - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9356583952903748,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The sting in the tail of Japan\u2019s lost decades - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9523682594299316,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Shein slumps to loss ahead of planned Hong Kong listing - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9292323589324951,
+            "score": 0.9292325973510742,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,77 +122,34 @@
         {
             "title": "AI companies spend record sums on Washington lobbying - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.7833740711212158,
+            "score": 0.7833758592605591,
             "signal": "BEARISH",
             "tickers": [
-                "MSFT",
-                "GOOGL"
+                "GOOGL",
+                "MSFT"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
                 {
                     "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Gold rises on weaker dollar; traders weigh Middle East pause, Fed outlook - Investing.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8699615597724915,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Indonesia central bank chief resigns - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9426789879798889,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Exclusive | Netflix exec goes ballistic after being fired for stunning 'trust exercise' confession at retreat: suit - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9429097771644592,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
+                },
                 {
-                    "ticker": "NFLX",
+                    "ticker": "MSFT",
                     "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "China Memory Champion CXMT Set to Debut After $9.8 Billion IPO - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.939179539680481,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "China\u2019s Moonshot to Release Breakthrough AI Model for Download - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9166542291641235,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Major retailer announces its closing 75 stores, slowing growth plans - Cleveland.com",
@@ -116,42 +170,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "The 'Great Wealth Transfer' Is Hitting a Speed Bump - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.8913515210151672,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The US is charging an American citizen for wiping his phone at the border - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.8517266511917114,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Loop 202 reopens after deadly crash - AZ Family",
-            "sentiment": "NEGATIVE",
-            "score": 0.9257394075393677,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "This red state is strengthening its grip as America's next economic heavyweight - Fox News",
-            "sentiment": "POSITIVE",
-            "score": 0.9042529463768005,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Millions of eggs recalled over salmonella fears - Detroit Free Press",
             "sentiment": "NEGATIVE",
             "score": 0.9582006931304932,
@@ -161,45 +179,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "For Gen X investors, dotcom bubble haunts stock market portfolios closing in on retirement - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7419859766960144,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Another water main break reported in Los Angeles neighborhood - KTLA",
-            "sentiment": "NEGATIVE",
-            "score": 0.7781477570533752,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9389823079109192,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Power Grids Reach Tipping Point as 100F Weather, US Data Center Boom Stress Aging Networks - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9568223357200623,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Cyclospora outbreak has many changing eating habits, CBS News poll finds; mixed and partisan confidence in FDA - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8861793279647827,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -224,24 +206,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "DeepSeek\u2019s Normally Boring CEO Is Reportedly Spiraling After Supposed Leak - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.7300209999084473,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Starship's launches next-gen Starlink satellites and improves re-entry - Interesting Engineering",
-            "sentiment": "POSITIVE",
-            "score": 0.9472122192382812,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Kalshi demands Netflix take down trailer for \u2018Prediction Games\u2019 documentary - TechCrunch",
             "sentiment": "NEGATIVE",
             "score": 0.8471724987030029,
@@ -257,42 +221,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "AARP resists fast track Social Security overhaul - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9305338263511658,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Eli Lilly delays FDA filing for next-generation weight-loss drug retatrutide - NewsNation",
-            "sentiment": "POSITIVE",
-            "score": 0.929894208908081,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gas prices climb higher across California as experts warn this surge will be different - New York Post",
-            "sentiment": "POSITIVE",
-            "score": 0.9254423975944519,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Emails show how Virginia regulators downplayed data center health concerns - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.909701406955719,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
