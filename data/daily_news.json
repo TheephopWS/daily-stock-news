@@ -1,17 +1,51 @@
 {
-    "last_updated": "2026-07-29 07:21:32 UTC",
-    "total_articles": 22,
-    "bullish_articles": 7,
-    "bearish_articles": 15,
+    "last_updated": "2026-07-29 10:17:25 UTC",
+    "total_articles": 24,
+    "bullish_articles": 8,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "AI stock sell-off deepens as investors dump chipmakers - Financial Times",
+            "title": "U.S. stock futures slip, South Korea's Kospi plunges 10%: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9703795313835144,
+            "score": 0.9619973301887512,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Chip Rout Deepens on Circular Funding, China Competition Fears - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9638593792915344,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Taiwan Detains Nvidia Employee in China Chip Smuggling Probe - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9385083317756653,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off - Investor's Business Daily",
@@ -64,9 +98,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Citadel Securities Sees Warsh Delivering Surprise Fed Rate Hike - Bloomberg.com",
+            "title": "Citadel Securities Sees Warsh Delivering Surprise Fed Rate Hike - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9442086219787598,
+            "score": 0.8583956360816956,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -99,6 +133,53 @@
             "ticker_impacts": []
         },
         {
+            "title": "Micron: Elon Said Thanks, I'm Still Saying Hold (NASDAQ:MU) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.774691104888916,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Apple ends day as world's most valuable company, passing Nvidia - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8127042651176453,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "AAPL",
+                "MSFT"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Big Tech credit risks rise sharply as AI spending soars - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.953036904335022,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Cracker Barrel CEO Stepping Down After Logo Controversy, Activist Pressure - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.7125672101974487,
@@ -108,9 +189,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Sandisk and More Chip Stocks Hit China Roadblocks - Barron's",
+            "title": "ASML Stock Plunges On China News, Leads Chip Stocks Lower - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9623242020606995,
+            "score": 0.9740555286407471,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -169,15 +250,6 @@
             ]
         },
         {
-            "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.7552801370620728,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Trump backs 'fantastic' Warsh while calling for lower rates and citing 'bad intentions' of other Fed officials - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.8986032605171204,
@@ -213,51 +285,19 @@
             ]
         },
         {
-            "title": "Consolidated food supply may be worsening cyclospora outbreaks, experts say - CNBC",
+            "title": "US Stocks Catch a Bid as Oil Tumbles With Iran Conflict Pause - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8820641040802002,
+            "score": 0.9736881852149963,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Apple overtakes Nvidia as world\u2019s most valuable company as it barrels toward $5T - 9to5Mac",
-            "sentiment": "POSITIVE",
-            "score": 0.7223637700080872,
-            "signal": "BULLISH",
-            "tickers": [
-                "AAPL",
-                "NVDA"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "China\u2019s Moonshot to Release Breakthrough AI Model for Download - Bloomberg.com",
             "sentiment": "POSITIVE",
             "score": 0.9166542291641235,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX Is $15 Away From A \u2018Worthless\u2019 AI Business Says Morgan Stanley - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.971076250076294,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
