@@ -1,9 +1,135 @@
 {
-    "last_updated": "2026-07-28 21:46:26 UTC",
-    "total_articles": 19,
-    "bullish_articles": 7,
-    "bearish_articles": 12,
+    "last_updated": "2026-07-29 00:56:43 UTC",
+    "total_articles": 28,
+    "bullish_articles": 11,
+    "bearish_articles": 17,
     "articles": [
+        {
+            "title": "Federal judge blocks Minnesota\u2019s prediction market ban days before it takes effect - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8853884935379028,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Citadel Securities Sees Warsh Delivering Surprise Fed Rate Hike - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9442086219787598,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9672552347183228,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Apple ends day as world's most valuable company, passing Nvidia - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8127042651176453,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL",
+                "NVDA",
+                "MSFT"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Earnings live: LVMH sales grow as US luxury shoppers boost results - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9404235482215881,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "NVIDIA Pursues $750 Billion in New AI Deals Despite Financing Scrutiny - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8736732006072998,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Cracker Barrel CEO steps down a year after logo debacle that drew Trump\u2019s attention - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8560836911201477,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Chinese IPO Rattles Chip Stocks - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9475440979003906,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX Stock Falls After \u2018Near Perfect\u2019 13th Starship Test. Flight 14 Will Be Wild. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9240400195121765,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Biggest US Grid to Launch Emergency Power Auction for AI Boom - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9356387853622437,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing - Yahoo Finance",
             "sentiment": "NEGATIVE",
@@ -22,9 +148,9 @@
             ]
         },
         {
-            "title": "Memory-Chip Stocks Micron, SK Hynix Drop After China Rival\u2019s IPO - Investor's Business Daily",
+            "title": "Oil prices slide as U.S. and Iran pause strikes to give \u2018space\u2019 for diplomacy - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9722282290458679,
+            "score": 0.8951311707496643,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -57,6 +183,24 @@
             ]
         },
         {
+            "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.7552801370620728,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump backs 'fantastic' Warsh while calling for lower rates and citing 'bad intentions' of other Fed officials - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8986032605171204,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Can a $266 Million Defense Deal Help Rocket Lab Escape SpaceX\u2019s Shadow? - Barron's",
             "sentiment": "POSITIVE",
             "score": 0.9118514060974121,
@@ -66,21 +210,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "USDA Announces Highest-Level Recall of More Than 12,000 Pounds of Bacon - Allrecipes",
-            "sentiment": "NEGATIVE",
-            "score": 0.8929439187049866,
-            "signal": "BEARISH",
+            "title": "FDA approves Otsuka\u2019s ADHD drug Simtriyo, teeing up its \u2018next major CNS launch\u2019 - Fierce Pharma",
+            "sentiment": "POSITIVE",
+            "score": 0.9043607711791992,
+            "signal": "BULLISH",
             "tickers": [
-                "FSIS"
+                "NDSRI"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "FSIS",
-                    "impact": "negative",
+                    "ticker": "NDSRI",
+                    "impact": "positive",
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Swiss flight LX16 to JFK is declaring an emergency and diverting to BGR - airlive",
+            "sentiment": "NEGATIVE",
+            "score": 0.9477332830429077,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Consolidated food supply may be worsening cyclospora outbreaks, experts say - CNBC",
@@ -92,70 +245,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Dow Jumps 575 Points On U.S.-Iran Hopes; Oil Prices Plunge (Live Coverage) - Investor's Business Daily",
+            "title": "MapLight shares sink on mixed ph. 2 schizophrenia readout - Fierce Biotech",
             "sentiment": "NEGATIVE",
-            "score": 0.8715948462486267,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Taco Bell\u2019s rumored cyclospora outbreak is quietly becoming a financial crisis for hourly workers - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9662880301475525,
+            "score": 0.9729623794555664,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Elon Musk\u2019s Wealth Sinks Below $700 Billion As SpaceX Rout Extends - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.9437308311462402,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Apple overtakes Nvidia as most valuable company as iPhone maker avoids 'capex pitfalls' - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9497271776199341,
-            "signal": "BULLISH",
-            "tickers": [
-                "AAPL",
-                "NVDA"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Dozens sickened across 17 states in salmonella outbreak linked to recalled eggs: What to know - The Hill",
@@ -167,19 +263,27 @@
             "ticker_impacts": []
         },
         {
+            "title": "Rivian R2 uses up to 26% more energy than Model Y in real-world test - Electrek",
+            "sentiment": "POSITIVE",
+            "score": 0.7780920267105103,
+            "signal": "BULLISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "SpaceX stock hits new all-time low despite 'over the moon' Starship test - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9278627634048462,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX Stock Falls After \u2018Near Perfect\u2019 13th Starship Test. Flight 14 Will Be Wild. - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9240400195121765,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -194,19 +298,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil prices slide as U.S. and Iran pause strikes to give \u2018space\u2019 for diplomacy - NBC News",
+            "title": "US Stocks Catch a Bid as Oil Tumbles With Iran Conflict Pause - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9463822245597839,
+            "score": 0.9736881852149963,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Earnings live: AstraZeneca stock rises to kick off a busy earnings week - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9241077899932861,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
