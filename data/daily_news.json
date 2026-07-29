@@ -1,13 +1,89 @@
 {
-    "last_updated": "2026-07-29 00:56:43 UTC",
-    "total_articles": 28,
-    "bullish_articles": 11,
-    "bearish_articles": 17,
+    "last_updated": "2026-07-29 04:30:54 UTC",
+    "total_articles": 19,
+    "bullish_articles": 8,
+    "bearish_articles": 11,
     "articles": [
         {
-            "title": "Federal judge blocks Minnesota\u2019s prediction market ban days before it takes effect - NBC News",
+            "title": "Chip Rout Deepens on Circular Funding, China Competition Fears - Bloomberg",
             "sentiment": "NEGATIVE",
-            "score": 0.8853884935379028,
+            "score": 0.9433713555335999,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9415765404701233,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "TSLA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "U.S. and Korean tech stocks are now tightly linked \u2014 and that could be a worry for investors - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7569752931594849,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "J&J offers $5.5bn settlement in lawsuits claiming talc link to cancer - Al Jazeera",
+            "sentiment": "POSITIVE",
+            "score": 0.7934476733207703,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SK Hynix shares plunge 13% in Seoul as chip sell-off deepens - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9724652767181396,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "PSA: T-Mobile is down, iPhones showing \u2018SOS\u2019 mode - 9to5Mac",
+            "sentiment": "NEGATIVE",
+            "score": 0.9696791768074036,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Cyclospora and salmonella outbreaks raise concerns about U.S. food safety - PBS",
+            "sentiment": "NEGATIVE",
+            "score": 0.7821645140647888,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,21 +99,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization - CNBC",
+            "title": "Federal judge halts Minnesota law meant to bar prediction markets within state - MPR News",
             "sentiment": "NEGATIVE",
-            "score": 0.9672552347183228,
+            "score": 0.9496289491653442,
             "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Apple ends day as world's most valuable company, passing Nvidia - CNBC",
@@ -45,19 +113,19 @@
             "score": 0.8127042651176453,
             "signal": "BULLISH",
             "tickers": [
-                "AAPL",
                 "NVDA",
+                "AAPL",
                 "MSFT"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "AAPL",
                     "impact": "positive",
                     "relevance": "high"
                 },
@@ -69,35 +137,9 @@
             ]
         },
         {
-            "title": "Earnings live: LVMH sales grow as US luxury shoppers boost results - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9404235482215881,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "NVIDIA Pursues $750 Billion in New AI Deals Despite Financing Scrutiny - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8736732006072998,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Cracker Barrel CEO steps down a year after logo debacle that drew Trump\u2019s attention - NBC News",
+            "title": "Cracker Barrel CEO Stepping Down After Logo Controversy, Activist Pressure - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8560836911201477,
+            "score": 0.7125672101974487,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -106,99 +148,28 @@
         {
             "title": "Chinese IPO Rattles Chip Stocks - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9475440979003906,
+            "score": 0.754711389541626,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX Stock Falls After \u2018Near Perfect\u2019 13th Starship Test. Flight 14 Will Be Wild. - Barron's",
+            "title": "Amazon\u2019s new satellite network for mobile phones could turn up the heat on SpaceX - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.9240400195121765,
+            "score": 0.8120877146720886,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Biggest US Grid to Launch Emergency Power Auction for AI Boom - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9356387853622437,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9716620445251465,
-            "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "AMZN"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
-                    "impact": "negative",
+                    "ticker": "AMZN",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Oil prices slide as U.S. and Iran pause strikes to give \u2018space\u2019 for diplomacy - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8951311707496643,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market Today: Dow holds onto gains; S&P 500 and Nasdaq see red; Treasury yields and oil prices fall; investors eye Fed decision and big tech earnings - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9367610216140747,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia Stock Slumps After Data-Center Report - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9588981866836548,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.7552801370620728,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump backs 'fantastic' Warsh while calling for lower rates and citing 'bad intentions' of other Fed officials - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8986032605171204,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Can a $266 Million Defense Deal Help Rocket Lab Escape SpaceX\u2019s Shadow? - Barron's",
@@ -227,15 +198,6 @@
             ]
         },
         {
-            "title": "Swiss flight LX16 to JFK is declaring an emergency and diverting to BGR - airlive",
-            "sentiment": "NEGATIVE",
-            "score": 0.9477332830429077,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Consolidated food supply may be worsening cyclospora outbreaks, experts say - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.8820641040802002,
@@ -254,19 +216,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dozens sickened across 17 states in salmonella outbreak linked to recalled eggs: What to know - The Hill",
+            "title": "Elon Musk\u2019s Wealth Sinks Below $700 Billion As SpaceX Rout Extends - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.8320690393447876,
+            "score": 0.9437308311462402,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Rivian R2 uses up to 26% more energy than Model Y in real-world test - Electrek",
-            "sentiment": "POSITIVE",
-            "score": 0.7780920267105103,
-            "signal": "BULLISH",
             "tickers": [
                 "TSLA"
             ],
@@ -274,51 +227,15 @@
             "ticker_impacts": [
                 {
                     "ticker": "TSLA",
-                    "impact": "positive",
+                    "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "SpaceX stock hits new all-time low despite 'over the moon' Starship test - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9278627634048462,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Quantum Computing Stocks: D-Wave, AT&T Expand Quantum Agreement - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.7164912819862366,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US Stocks Catch a Bid as Oil Tumbles With Iran Conflict Pause - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9736881852149963,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Ford wants more customers to customize vehicles to boost profits as it eyes 'Nike shoe drop' moments - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.9356583952903748,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China\u2019s Moonshot to Release Breakthrough AI Model for Download - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9166542291641235,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
