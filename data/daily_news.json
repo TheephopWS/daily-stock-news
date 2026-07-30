@@ -1,9 +1,45 @@
 {
-    "last_updated": "2026-07-30 10:10:30 UTC",
-    "total_articles": 25,
-    "bullish_articles": 5,
-    "bearish_articles": 20,
+    "last_updated": "2026-07-30 12:57:12 UTC",
+    "total_articles": 28,
+    "bullish_articles": 6,
+    "bearish_articles": 22,
     "articles": [
+        {
+            "title": "Cyclospora outbreak may have peaked in Michigan after lettuce recall - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7456894516944885,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nike was once China's sneaker king. Here's why its sales have fallen 30% - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9666359424591064,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why Micron Stock Is Rising After SK Hynix Fumbled Its Big Earnings Moment - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9068245887756348,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The chip crash is exposing the brutal cost of leverage: Chart of the Day - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9038456082344055,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "US bans foreign-made humanoid robots, targeting China over national security - AP News",
             "sentiment": "NEGATIVE",
@@ -14,28 +50,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI's agents hacked second account during model testing - Axios",
+            "title": "Oil jumps as U.S.-Iran resume strikes after a brief pause - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7151080965995789,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "FAA grounds all American Airlines flights nationwide due to IT issue - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9495542049407959,
+            "score": 0.9637396931648254,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "S&P 500 futures edge higher as oil climbs; investors await Fed rates decision: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8803325891494751,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil Prices Surge on Fresh Middle East Strikes and API Crude Draw - Crude Oil Prices Today | OilPrice.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8285280466079712,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -44,6 +71,15 @@
             "title": "Canadian tourism to U.S. fell 25% in 2025 amid political tensions, data shows - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.9685735106468201,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Micron Stock Is Leading a Brutal New Chip Slump - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.973599374294281,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -85,21 +121,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Microsoft Could Swing $189 Billion in Value After Earnings - Benzinga",
-            "sentiment": "POSITIVE",
-            "score": 0.758625864982605,
-            "signal": "BULLISH",
+            "title": "Earnings Showdown: Is Microsoft or Meta More at Risk When July 29 Earnings Drop? - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.8165271282196045,
+            "signal": "BEARISH",
             "tickers": [
-                "MSFT"
+                "MSFT",
+                "META"
             ],
             "primary_ticker": "MSFT",
             "ticker_impacts": [
                 {
                     "ticker": "MSFT",
-                    "impact": "positive",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "New airliner sets record flying 24 hrs nonstop from Australia to France - Ars Technica",
+            "sentiment": "POSITIVE",
+            "score": 0.8410881757736206,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Texas will ban Delta-8 on July 31. Austin police say possession will be a felony - KUT",
@@ -144,23 +195,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "FAA Flags 31,000 Improperly Installed Seats On Boeing 737 MAX Planes - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.9568526148796082,
-            "signal": "BEARISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "UPS Stock Drops on Strong Earnings. The Worst Should Be Over. - Barron's",
@@ -225,9 +259,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "PayPal Beats Earnings Estimates and Hikes Guidance as Turnaround Takes Root - Barron's",
+            "title": "PayPal leaves the door open to a higher takeover offer following earnings beat - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.9429935812950134,
+            "score": 0.9285924434661865,
             "signal": "BULLISH",
             "tickers": [
                 "PYPL"
@@ -260,28 +294,25 @@
             "ticker_impacts": []
         },
         {
-            "title": "Thyroid medicine recalled nationwide: FDA - The Hill",
-            "sentiment": "NEGATIVE",
-            "score": 0.9262501001358032,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Amazon overhauls its AI strategy, winding down most flagship models - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.8780680298805237,
-            "signal": "BEARISH",
+            "title": "Walmart's 12-Year Streak in Business Just Ended - Newser",
+            "sentiment": "POSITIVE",
+            "score": 0.8060152530670166,
+            "signal": "BULLISH",
             "tickers": [
+                "WMT",
                 "AMZN"
             ],
-            "primary_ticker": "AMZN",
+            "primary_ticker": "WMT",
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
-                    "impact": "negative",
+                    "ticker": "WMT",
+                    "impact": "positive",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         }
