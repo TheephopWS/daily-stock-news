@@ -1,40 +1,31 @@
 {
-    "last_updated": "2026-07-30 00:53:46 UTC",
-    "total_articles": 35,
-    "bullish_articles": 7,
-    "bearish_articles": 28,
+    "last_updated": "2026-07-30 04:25:26 UTC",
+    "total_articles": 30,
+    "bullish_articles": 6,
+    "bearish_articles": 24,
     "articles": [
         {
-            "title": "Stock Market Today: Dow Opens Higher, Micron Stock Slides as Investors Rotate Out of Chip Stocks \u2014 Live Updates - WSJ",
+            "title": "American Airlines nationwide ground stop lifted after IT outage disrupts flights - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.8108447194099426,
+            "score": 0.9430958032608032,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "SK Hynix second-quarter profit surges 557% to a new high \u2014 but misses estimates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9203627109527588,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FCC blocks new foreign-made power inverters and advanced robots over national security risks - Fox Business",
+            "title": "SK Hynix shares slide despite sixfold profit surge on AI boom - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.7144955396652222,
+            "score": 0.967671275138855,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "T-Mobile breaks silence over nationwide outage - Mashable",
+            "title": "Asian technology stocks extend sell-off with SoftBank down 7% as AI plays take a hit - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9606184959411621,
+            "score": 0.9649897813796997,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -50,28 +41,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Dow Aims For Fresh Win; Clinical Research Name Bolts Higher (Live Coverage) - Investor's Business Daily",
+            "title": "Nasdaq-100 slides into correction as global chip and memory stocks sell off - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.964775025844574,
+            "score": 0.9683015942573547,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "The Market Lost Its Mind, But You Shouldn't - Seeking Alpha",
+            "title": "Chip Stocks Extend Pullback Amid AI Bubble Fears - Investopedia",
             "sentiment": "NEGATIVE",
-            "score": 0.9637783169746399,
+            "score": 0.9727482199668884,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Starship's Heat Shield Looked Great After Flight 13, But Experts Spotted Something Troubling - Gizmodo",
-            "sentiment": "POSITIVE",
-            "score": 0.7159206867218018,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -80,15 +70,6 @@
             "title": "Judge blocks first state law that would have banned prediction markets - Ars Technica",
             "sentiment": "NEGATIVE",
             "score": 0.7272331714630127,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "More than 12,000 pounds of bacon recalled after USDA issues highest-risk alert - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.937167227268219,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -104,6 +85,24 @@
             "ticker_impacts": []
         },
         {
+            "title": "San Francisco payments giant Visa announces 2,600 layoffs - San Francisco Chronicle",
+            "sentiment": "NEGATIVE",
+            "score": 0.9703946709632874,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Canadians' Trips to US Plunge - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.97320955991745,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Boston Scientific to restructure, taking up to $800M in charges - MedTech Dive",
             "sentiment": "NEGATIVE",
             "score": 0.9426026344299316,
@@ -113,13 +112,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "Canadian visits to U.S. plummet amid Trump tariffs, \u201851st state\u2019 talk - The Washington Post",
+            "title": "Over 12,000 pounds of bacon recalled. See map of affected states - USA Today",
             "sentiment": "NEGATIVE",
-            "score": 0.9592089056968689,
+            "score": 0.9621780514717102,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "FAA Flags 31,000 Improperly Installed Seats On Boeing 737 MAX Planes - Forbes",
+            "sentiment": "NEGATIVE",
+            "score": 0.9568526148796082,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "UPS Stock Drops on Strong Earnings. The Worst Should Be Over. - Barron's",
@@ -131,28 +147,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Samsung and SK Hynix Plunge as China Chip Fears Intensify - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9714692831039429,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Cyclospora cases have increased in Douglas County, health officials say - WOWT",
             "sentiment": "POSITIVE",
             "score": 0.9277853965759277,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Chip stocks are crashing as the rest of the market barely flinches: AlphaCheck - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.934510350227356,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -191,15 +189,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Corning tumbles 12% after earnings, leading rout in optical stocks - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9738715291023254,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Americans\u2019 confidence in US economy falls as Iran conflict sends gas prices higher - AP News",
@@ -246,31 +235,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron, SK Hynix stocks fall as chip sell-off deepens - Yahoo Finance",
+            "title": "Corning Q2 2026 earnings beat but stock falls on guidance - qz.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9720271825790405,
+            "score": 0.9704315066337585,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "San Francisco mayor backs national robotaxi rules after Waymo meltdowns - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.9618687033653259,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The MBTA is rolling out 3 new fare discounts \u2014 and extending half-off commuter rail passes \u2014 this fall - WBUR",
+            "title": "Walmart's 12-Year Streak in Business Just Ended - Newser",
             "sentiment": "POSITIVE",
-            "score": 0.7598240375518799,
+            "score": 0.8060152530670166,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "WMT",
+                "AMZN"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Thyroid medicine recalled nationwide: FDA - The Hill",
@@ -282,44 +276,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "Amazon overhauls its AI strategy, winding down most flagship models - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.8780680298805237,
-            "signal": "BEARISH",
+            "title": "The Price to Finance the AI Data Center Boom Is Rising, Just Ask Meta - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9004797339439392,
+            "signal": "BULLISH",
             "tickers": [
-                "AMZN"
+                "META"
             ],
-            "primary_ticker": "AMZN",
+            "primary_ticker": "META",
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
-                    "impact": "negative",
+                    "ticker": "META",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off - Investor's Business Daily",
+            "title": "Cyclospora has Kansans shopping for locally grown produce. Is it safer? - KCUR",
             "sentiment": "NEGATIVE",
-            "score": 0.9415765404701233,
+            "score": 0.8804349303245544,
             "signal": "BEARISH",
-            "tickers": [
-                "NVDA",
-                "TSLA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "J&J offers $5.5bn settlement in lawsuits claiming talc link to cancer - Al Jazeera",
@@ -344,15 +324,6 @@
             "sentiment": "POSITIVE",
             "score": 0.8583956360816956,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Chinese IPO Rattles Chip Stocks - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.754711389541626,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
