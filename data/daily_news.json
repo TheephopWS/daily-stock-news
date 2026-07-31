@@ -1,14 +1,76 @@
 {
-    "last_updated": "2026-07-31 10:15:54 UTC",
-    "total_articles": 18,
-    "bullish_articles": 5,
-    "bearish_articles": 13,
+    "last_updated": "2026-07-31 13:05:09 UTC",
+    "total_articles": 16,
+    "bullish_articles": 4,
+    "bearish_articles": 12,
     "articles": [
         {
-            "title": "Treasury sell-off continues after divided Fed holds interest rates steady - CNBC",
+            "title": "NYSE Parent ICE Agrees to Buy MarketAxess for About $6 Billion - Bloomberg",
             "sentiment": "POSITIVE",
-            "score": 0.7599892616271973,
+            "score": 0.7366511821746826,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Yum Brands reports mixed results but gives no update on Taco Bell cyclospora outbreak - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.7593355774879456,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Kevin Warsh\u2019s stripped-back Fed communication \u2018already backfiring\u2019, say investors - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9499171376228333,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Shell\u2019s Profits Surge on Windfall From Continuing Middle East Conflict - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.773423969745636,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Adidas shares drop close to a fifth after profits hit by World Cup marketing spend - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9736284017562866,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil prices gain and Asian shares are mostly lower as investors sell AI stocks - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9711460471153259,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Between prices and a diarrhea-causing parasite, lettuce is causing hard times at some restaurants - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9337939620018005,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -29,15 +91,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "A divided Fed holds interest rates steady despite stubborn inflation - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8588491678237915,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Suspect arrested after 13 Teslas vandalized with 'Nazi' and 'fascist' writings, Irvine police say - ABC7 Los Angeles",
@@ -74,15 +127,6 @@
             ]
         },
         {
-            "title": "The Memory Crash Has 4 Big Stocks Down 30% or More From Their Highs. I'd Buy 2 of Them. - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.7874494194984436,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Red Cross declares crisis over blood supply shortage in US for second time its history - BBC",
             "sentiment": "NEGATIVE",
             "score": 0.8019388914108276,
@@ -109,13 +153,27 @@
             ]
         },
         {
-            "title": "Chipotle Mexican Grill Posts Higher Sales, Driven by New Restaurant Openings - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9529322981834412,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Meta and Microsoft report ballooning AI expenses: What to know - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.7818402647972107,
+            "signal": "BEARISH",
+            "tickers": [
+                "META",
+                "MSFT"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Nvidia, Micron, AMD sink after SK Hynix results fail to impress, AI trade unwinds - Yahoo Finance",
@@ -154,68 +212,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9702478051185608,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "South Korea\u2019s stock market plunges as AI-driven boom fades - Al Jazeera",
-            "sentiment": "NEGATIVE",
-            "score": 0.9732823967933655,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9191904067993164,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'The Diary of a CEO' star Steven Bartlett has lost 4 key podcast staffers in recent months - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9550842642784119,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock of the Day: Micron Breaks Below Key Support \u2014 More Downside Ahead? - Benzinga",
-            "sentiment": "NEGATIVE",
-            "score": 0.9665583372116089,
-            "signal": "BEARISH",
-            "tickers": [
-                "MU"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "MU",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "OpenAI\u2019s rogue AI agent didn\u2019t stop at hacking Hugging Face - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.8588886260986328,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SoFi Q2 2026 earnings: record revenue, raised full-year forecast - qz.com",
-            "sentiment": "POSITIVE",
-            "score": 0.954562783241272,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
