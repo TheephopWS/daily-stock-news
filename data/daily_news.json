@@ -1,31 +1,31 @@
 {
-    "last_updated": "2026-07-31 01:00:16 UTC",
-    "total_articles": 22,
-    "bullish_articles": 6,
-    "bearish_articles": 16,
+    "last_updated": "2026-07-31 04:35:05 UTC",
+    "total_articles": 6,
+    "bullish_articles": 3,
+    "bearish_articles": 3,
     "articles": [
         {
-            "title": "Elon Musk's xAI sues Minnesota over its first-in-the-nation law banning 'nudification' technology - AP News",
+            "title": "Hot Market for Used Cars Pushed Carvana to Record Profit - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9118527770042419,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Red Cross declares crisis over blood supply shortage in US for second time its history - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7329932451248169,
+            "score": 0.8019389510154724,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "eBay to pay nearly $50M after ex-employees allegedly terrorized couple with cockroach, fetal pig packages - Fox Business",
+            "title": "Meta Q2 earnings recap: Stock tumbles nearly 10% after profits miss Wall Street estimates - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.8787670135498047,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Meta Stock Tanks In Jittery Market On Massive AI Investment, Mixed Q2 - Deadline",
-            "sentiment": "NEGATIVE",
-            "score": 0.968319833278656,
+            "score": 0.9622522592544556,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -40,231 +40,45 @@
             ]
         },
         {
-            "title": "Carvana stock falls 15% as auto retailer's 2026 earnings guidance misses Wall Street's expectations - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9733607769012451,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Microsoft Beats Wall Street Expectations, With 31% Jump in Profits - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9363433122634888,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Starbucks stock jumps as coffee giant raises full-year outlook - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8852049708366394,
+            "score": 0.8852054476737976,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "FCC: Ban on Foreign-Made Robots Includes Robot Vacuums - PCMag",
+            "title": "Stock of the Day: Micron Breaks Below Key Support \u2014 More Downside Ahead? - Benzinga",
             "sentiment": "NEGATIVE",
-            "score": 0.9320572018623352,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Micron: AI Panic, But Memory Supercycle Isn't Over Yet (Upgrade) (NASDAQ:MU) - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.8740610480308533,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US oil inventories fall to \u2018precariously low\u2019 level as Iran war disrupts supply - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9732364416122437,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia, Micron, AMD sink as SK Hynix results fail to impress, AI trade unwinds - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9726753234863281,
+            "score": 0.9665583372116089,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA",
-                "AMD"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "The U.S. is running low on blood. Here's why that's dangerous - axios.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9009215831756592,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Korean Stocks Plunge 16% in Two-Day Burst of Retail Selling - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.9698136448860168,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "DoorDash is building its own drone delivery business - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.7997677326202393,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Explainer-What are credit default swaps and why are they spooking AI investors? - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8842333555221558,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL",
-                "NVDA"
+                "MU"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
+                    "ticker": "MU",
                     "impact": "negative",
                     "relevance": "medium"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Nike was once China's sneaker king. Here's why its sales have fallen 30% - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9666359424591064,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "More Americans are going bankrupt. What does that mean? - NPR",
-            "sentiment": "POSITIVE",
-            "score": 0.7328645586967468,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "American Airlines nationwide ground stop lifted after IT outage disrupts flights - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9430958032608032,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Top scientists at OpenAI and Anthropic ask U.S. for tools to pace AI development - NBC News",
-            "sentiment": "POSITIVE",
-            "score": 0.8168285489082336,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nasdaq-100 slides into correction as global chip and memory stocks sell off - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9683015942573547,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Cookies sold at Pennsylvania grocery stores recalled - ABC27",
-            "sentiment": "NEGATIVE",
-            "score": 0.7269091606140137,
-            "signal": "BEARISH",
-            "tickers": [
-                "FDA",
-                "WHTM"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "FDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "WHTM",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Federal Judge Blocks Nation's First Prediction Market Ban - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.8257158994674683,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Cyclospora cases have increased in Douglas County, health officials say - wowt.com",
-            "sentiment": "POSITIVE",
-            "score": 0.934680700302124,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Boeing posts wider loss than expected as Air Force One costs weigh on results - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.973959743976593,
-            "signal": "BEARISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "negative",
-                    "relevance": "high"
                 }
             ]
         }
