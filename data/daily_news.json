@@ -1,13 +1,47 @@
 {
-    "last_updated": "2026-07-31 21:46:23 UTC",
-    "total_articles": 18,
-    "bullish_articles": 10,
+    "last_updated": "2026-08-01 01:00:34 UTC",
+    "total_articles": 16,
+    "bullish_articles": 8,
     "bearish_articles": 8,
     "articles": [
         {
-            "title": "Why Amazon (AMZN) Stock Is Jumping 10% Despite a Massive AI Capex Hike - Barron's",
+            "title": "Nasdaq futures rise after Wall Street rebound; Kospi soars 13%, triggers trading curbs: Live updates - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9545792937278748,
+            "score": 0.8926512598991394,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Apple's stock drops 8% as supply constraints lead to weak revenue guidance: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9689299464225769,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Amazon revenue soars as AI investments pay off - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.9052549004554749,
             "signal": "BULLISH",
             "tickers": [
                 "AMZN"
@@ -22,33 +56,13 @@
             ]
         },
         {
-            "title": "Stock Market on July 30, 2026: Dow jumps more than 600 points, S&P 500 and Nasdaq close sharply higher as chip and memory stocks surge while investors digest Microsoft earnings; Investors weigh latest inflation data against Fed's stance on rates; Amazon - MarketWatch",
+            "title": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns - NPR",
             "sentiment": "POSITIVE",
-            "score": 0.8999713659286499,
+            "score": 0.9021376371383667,
             "signal": "BULLISH",
-            "tickers": [
-                "AMZN",
-                "MSFT",
-                "AAPL"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Jersey Mike\u2019s Stock Slides Below IPO Price in Market Debut - Barron's",
@@ -69,10 +83,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Rivian reduces 2026 spending plans, narrows earnings guidance - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8944921493530273,
-            "signal": "BEARISH",
+            "title": "Rivian reported strong Q2 results, lifts guidance as R2 ramps up. - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9536495208740234,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -112,10 +126,10 @@
             ]
         },
         {
-            "title": "Mortgage rates rise to one-year high - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.9502172470092773,
-            "signal": "BULLISH",
+            "title": "An SF startup founder offered tattoos for interviews. 7 took the bait. - SFGATE",
+            "sentiment": "NEGATIVE",
+            "score": 0.8598247766494751,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -138,24 +152,6 @@
             ]
         },
         {
-            "title": "US economy grows at a sluggish 1.5% in second-quarter with inflation remaining stubbornly high - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.707955539226532,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Ferrari CEO says he 'would not change anything' about polarizing Luce EV debut - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9309206604957581,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "The Fed\u2019s preferred inflation gauge cooled in June. It might not last - CNN",
             "sentiment": "NEGATIVE",
             "score": 0.7068994045257568,
@@ -165,9 +161,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Critical shortage: Red Cross declares second-ever blood supply crisis - USA Today",
+            "title": "Red Cross declares crisis over blood supply shortage in US for second time in its history - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9567108154296875,
+            "score": 0.820143461227417,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -200,36 +196,10 @@
             ]
         },
         {
-            "title": "Stocks Gain as Microsoft Results Ease AI Worries: Markets Wrap - Bloomberg.com",
+            "title": "Ferrari\u2019s $640K Luce EV sells out 2026 allocation: ~500 units - Electrek",
             "sentiment": "POSITIVE",
-            "score": 0.9323897361755371,
+            "score": 0.8778519034385681,
             "signal": "BULLISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Trump unveils plans to overhaul Dulles International Airport outside Washington - CBS News",
-            "sentiment": "POSITIVE",
-            "score": 0.7925643920898438,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FTC and States Act Against Hims & Hers for Deceptive and Unlawful Privacy Practices - Federal Trade Commission (.gov)",
-            "sentiment": "NEGATIVE",
-            "score": 0.7541084289550781,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
