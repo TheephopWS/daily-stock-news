@@ -1,25 +1,77 @@
 {
-    "last_updated": "2026-08-01 07:15:55 UTC",
-    "total_articles": 13,
-    "bullish_articles": 6,
-    "bearish_articles": 7,
+    "last_updated": "2026-08-01 10:07:14 UTC",
+    "total_articles": 20,
+    "bullish_articles": 9,
+    "bearish_articles": 11,
     "articles": [
         {
-            "title": "Stock Market News, July 30, 2026: Nasdaq Leaps, Fueled by Big Rally in Microsoft Shares - WSJ",
+            "title": "South Korea\u2019s Kospi index jumps nearly 18% on a surge in chipmaking stocks - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.8776800632476807,
+            "score": 0.9336620569229126,
             "signal": "BULLISH",
             "tickers": [
-                "MSFT"
+                "INTC"
             ],
-            "primary_ticker": "MSFT",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "MSFT",
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Why Amazon (AMZN) Stock Is Jumping 10% Despite a Massive AI Capex Hike - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9545792937278748,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Nasdaq futures rise as Wall Street rebounds; South Korea's Kospi soars 15%: Live updates - cnbc.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9166870713233948,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium - cnbc.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9071590900421143,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.7185148596763611,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Tim Cook signed off on his final Apple earnings call with a warning about a \u2018hundred year flood\u2019 in memory chip pricing - Fortune",
@@ -48,27 +100,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Amazon revenue soars as AI investments pay off - Axios",
-            "sentiment": "POSITIVE",
-            "score": 0.9052549004554749,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "title": "OpenAI CEO Sam Altman announces 'major' price cuts as the company signals a focus on cost efficiency - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.866034746170044,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns - NPR",
-            "sentiment": "POSITIVE",
-            "score": 0.9021376371383667,
-            "signal": "BULLISH",
+            "title": "Jersey Mike\u2019s Stock Slides Below IPO Price in Market Debut - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9727622270584106,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -143,9 +187,18 @@
             ]
         },
         {
-            "title": "Zuckerberg's AI Gamble Sends Meta Shares Tumbling - Yahoo Finance",
+            "title": "Mortgage rates rise to 1-year high - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.9505105018615723,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Zuckerberg\u2019s Net Worth Falls $18 Billion Amid Meta Stock Plunge\u2014Wall Street Sours On AI Spending - forbes.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9471339583396912,
+            "score": 0.9722283482551575,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -160,6 +213,32 @@
             ]
         },
         {
+            "title": "FTC sues Hims & Hers for allegedly sharing patients' medical data with advertisers Meta and Snap - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.789802074432373,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "U.S. economy slowed in second quarter, but consumers continue to spend - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9734094738960266,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "The Fed\u2019s preferred inflation gauge cooled in June. It might not last - CNN",
             "sentiment": "NEGATIVE",
             "score": 0.7068994045257568,
@@ -169,10 +248,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "FTC and States Act Against Hims & Hers for Deceptive and Unlawful Privacy Practices - Federal Trade Commission (.gov)",
-            "sentiment": "NEGATIVE",
-            "score": 0.7541084289550781,
-            "signal": "BEARISH",
+            "title": "EU lays out $11.4 billion for 7 AI gigafactories as it aims to catch up with US and China - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.849098801612854,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
