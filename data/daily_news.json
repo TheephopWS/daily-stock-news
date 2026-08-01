@@ -1,33 +1,104 @@
 {
-    "last_updated": "2026-08-01 12:42:37 UTC",
-    "total_articles": 20,
-    "bullish_articles": 9,
-    "bearish_articles": 11,
+    "last_updated": "2026-08-01 15:44:43 UTC",
+    "total_articles": 27,
+    "bullish_articles": 7,
+    "bearish_articles": 20,
     "articles": [
         {
-            "title": "South Korea\u2019s Kospi index jumps nearly 18% on a surge in chipmaking stocks - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.9336620569229126,
-            "signal": "BULLISH",
+            "title": "Stock Market Today: Apple Dips, Dow Slips \u2014 Live Updates - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.8917254209518433,
+            "signal": "BEARISH",
             "tickers": [
-                "INTC"
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Rivian Stock Reverses After Earnings. The R2 Rollout Is Paying Off. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9386827945709229,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9757118821144104,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA",
+                "GOOGL",
+                "META",
+                "AMZN"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
-                    "impact": "positive",
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Why Amazon (AMZN) Stock Is Jumping 10% Despite a Massive AI Capex Hike - Barron's",
+            "title": "Apple stock falls on weak revenue forecast as CEO Tim Cook flags 'increasing impact' from memory shortage - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.95643550157547,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation' - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9106467962265015,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon stock soars as e-commerce giant's AWS cloud business booms in 'home run' quarter - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9545792937278748,
+            "score": 0.9440058469772339,
             "signal": "BULLISH",
             "tickers": [
-                "AMZN"
+                "AMZN",
+                "AWS"
             ],
             "primary_ticker": "AMZN",
             "ticker_impacts": [
@@ -35,22 +106,74 @@
                     "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "AWS",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Nasdaq futures rise as Wall Street rebounds; South Korea's Kospi soars 15%: Live updates - cnbc.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9166870713233948,
-            "signal": "BULLISH",
+            "title": "Stock Market Today: Dow Rises But Apple Dives On Weak Forecast; Amazon Stock Surges - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9641749262809753,
+            "signal": "BEARISH",
             "tickers": [
-                "MSFT"
+                "AAPL",
+                "AMZN"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Vitol, Cargill Cut Ties With Radiant World Amid Fake Invoice Concerns - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9365419149398804,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "A Major Market Rotation Is Just Getting Underway - Seeking Alpha",
+            "sentiment": "NEGATIVE",
+            "score": 0.9373436570167542,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "South Korea\u2019s Kospi index jumps nearly 18% on a surge in chipmaking stocks - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8363490104675293,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL",
+                "AMZN"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "MSFT",
-                    "impact": "positive",
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
                     "relevance": "medium"
                 }
             ]
@@ -74,27 +197,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tim Cook signed off on his final Apple earnings call with a warning about a \u2018hundred year flood\u2019 in memory chip pricing - Fortune",
+            "title": "Mamdani's 'this is only the beginning' announcement cracking down on food delivery tips sparks outrage - Fox News",
             "sentiment": "NEGATIVE",
-            "score": 0.9595346450805664,
+            "score": 0.9228752255439758,
             "signal": "BEARISH",
             "tickers": [
-                "AAPL"
+                "AMD"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": "AMD",
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Anthropic says AI models hacked three firms during tests - bbc.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.772374153137207,
-            "signal": "BEARISH",
+            "title": "Cyclospora outbreak: Iowa now has over 220 confirmed cases of cyclosporiasis - KCCI",
+            "sentiment": "POSITIVE",
+            "score": 0.8361599445343018,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -109,35 +232,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Jersey Mike\u2019s Stock Slides Below IPO Price in Market Debut - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9727622270584106,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Rivian (RIVN) Q2 2026 earnings: revenue up 27%, gross margins soaring - Electrek",
+            "title": "Why Microsoft\u2019s stock soared to a historic gain after earnings - MarketWatch",
             "sentiment": "POSITIVE",
-            "score": 0.8916061520576477,
-            "signal": "BULLISH",
-            "tickers": [
-                "RIVN"
-            ],
-            "primary_ticker": "RIVN",
-            "ticker_impacts": [
-                {
-                    "ticker": "RIVN",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Microsoft's stock rockets more than 15% for largest single-day jump in history - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9457930326461792,
+            "score": 0.9466724991798401,
             "signal": "BULLISH",
             "tickers": [
                 "MSFT"
@@ -152,9 +249,27 @@
             ]
         },
         {
+            "title": "Blackstone-Backed Jersey Mike\u2019s Falls 8.7% After $1 Billion IPO - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9743505716323853,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Did robot vacuums get sucked into new robot ban? - USA Today",
             "sentiment": "NEGATIVE",
             "score": 0.7992904782295227,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Millions of eye drops recalled. See list of affected products - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.9270983934402466,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -170,27 +285,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Amazon\u2019s Zoox wins first U.S. approval for paid robotaxis without human controls - NBC News",
+            "title": "Average 30-year U.S. mortgage rate rises to highest level in a year - PBS",
             "sentiment": "POSITIVE",
-            "score": 0.9080396890640259,
+            "score": 0.9420515298843384,
             "signal": "BULLISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "Mortgage rates rise to 1-year high - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.9505105018615723,
-            "signal": "BULLISH",
+            "title": "U.S. Economic Growth Slowed to 1.5% in Second Quarter - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9506189823150635,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -230,15 +337,6 @@
             ]
         },
         {
-            "title": "U.S. economy slowed in second quarter, but consumers continue to spend - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9734094738960266,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "The Fed\u2019s preferred inflation gauge cooled in June. It might not last - CNN",
             "sentiment": "NEGATIVE",
             "score": 0.7068994045257568,
@@ -252,6 +350,15 @@
             "sentiment": "POSITIVE",
             "score": 0.849098801612854,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Red Cross declares crisis over blood supply shortage in US for second time in its history - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.820143461227417,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
