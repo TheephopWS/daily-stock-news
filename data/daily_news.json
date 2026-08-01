@@ -1,9 +1,41 @@
 {
-    "last_updated": "2026-08-01 15:44:43 UTC",
-    "total_articles": 27,
-    "bullish_articles": 7,
-    "bearish_articles": 20,
+    "last_updated": "2026-08-01 18:43:24 UTC",
+    "total_articles": 31,
+    "bullish_articles": 9,
+    "bearish_articles": 22,
     "articles": [
+        {
+            "title": "Big oil companies reap billions off the Iran War - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9656609892845154,
+            "signal": "BEARISH",
+            "tickers": [
+                "XOM",
+                "CVX"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "XOM",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "CVX",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund \u2014 and lost most of it in days - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9673412442207336,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Stock Market Today: Apple Dips, Dow Slips \u2014 Live Updates - WSJ",
             "sentiment": "NEGATIVE",
@@ -22,10 +54,50 @@
             ]
         },
         {
-            "title": "Rivian Stock Reverses After Earnings. The R2 Rollout Is Paying Off. - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9386827945709229,
-            "signal": "BULLISH",
+            "title": "Apple, Amazon, Reddit, Micron, SK Hynix, Roblox, and More Stocks That Explain Today\u2019s Market - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9296388030052185,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL",
+                "AMZN"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Apple slides on Q3 results, guidance; GF Securities downgrades (AAPL:NASDAQ) - Seeking Alpha",
+            "sentiment": "NEGATIVE",
+            "score": 0.9703594446182251,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Anthropic says its Claude models escaped a testing environment and hacked three real companies - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8231498599052429,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -36,20 +108,20 @@
             "score": 0.9757118821144104,
             "signal": "BEARISH",
             "tickers": [
-                "TSLA",
                 "GOOGL",
+                "TSLA",
                 "META",
                 "AMZN"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "TSLA",
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "TSLA",
                     "impact": "negative",
                     "relevance": "medium"
                 },
@@ -66,26 +138,9 @@
             ]
         },
         {
-            "title": "Apple stock falls on weak revenue forecast as CEO Tim Cook flags 'increasing impact' from memory shortage - Yahoo Finance",
+            "title": "California wineries forced to torch vineyards in latest drastic move for crippled industry - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.95643550157547,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation' - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9106467962265015,
+            "score": 0.9592074751853943,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -115,32 +170,53 @@
             ]
         },
         {
-            "title": "Stock Market Today: Dow Rises But Apple Dives On Weak Forecast; Amazon Stock Surges - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9641749262809753,
-            "signal": "BEARISH",
+            "title": "Stock market today: Dow, S&P 500, Nasdaq set for more gains as Big Tech's AI spending shows no sign of letting up - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9342589974403381,
+            "signal": "BULLISH",
             "tickers": [
-                "AAPL",
-                "AMZN"
+                "INTC"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Exclusive | Trump regulators vow to end left-wing \u2018shakedown\u2019 of US banks - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.852811872959137,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Vitol, Cargill Cut Ties With Radiant World Amid Fake Invoice Concerns - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9365419149398804,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Novo Nordisk shares dive after heart medicine fails trial, dealing another blow to its pipeline - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9655324816703796,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Coinbase stock sinks as weak crypto market leads to another quarter of loss - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9744420051574707,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -154,29 +230,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "South Korea\u2019s Kospi index jumps nearly 18% on a surge in chipmaking stocks - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8363490104675293,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL",
-                "AMZN"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium - cnbc.com",
@@ -223,9 +276,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI CEO Sam Altman announces 'major' price cuts as the company signals a focus on cost efficiency - Business Insider",
+            "title": "About 1.5M rechargeable hand warmers recalled after 1 death, hundreds of burn injuries reported - foxbusiness.com",
             "sentiment": "NEGATIVE",
-            "score": 0.866034746170044,
+            "score": 0.9257006645202637,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -258,6 +311,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Rivian (RIVN) Q2 2026 earnings: revenue up 27%, gross margins soaring - Electrek",
+            "sentiment": "POSITIVE",
+            "score": 0.8916061520576477,
+            "signal": "BULLISH",
+            "tickers": [
+                "RIVN"
+            ],
+            "primary_ticker": "RIVN",
+            "ticker_impacts": [
+                {
+                    "ticker": "RIVN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Did robot vacuums get sucked into new robot ban? - USA Today",
             "sentiment": "NEGATIVE",
             "score": 0.7992904782295227,
@@ -285,19 +355,39 @@
             "ticker_impacts": []
         },
         {
+            "title": "Amazon\u2019s Zoox wins first U.S. approval for paid robotaxis without human controls - NBC News",
+            "sentiment": "POSITIVE",
+            "score": 0.7180603742599487,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN",
+                "GOOGL",
+                "TSLA"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Average 30-year U.S. mortgage rate rises to highest level in a year - PBS",
             "sentiment": "POSITIVE",
             "score": 0.9420515298843384,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. Economic Growth Slowed to 1.5% in Second Quarter - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9506189823150635,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -320,44 +410,18 @@
             ]
         },
         {
-            "title": "FTC sues Hims & Hers for allegedly sharing patients' medical data with advertisers Meta and Snap - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.789802074432373,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "The Fed\u2019s preferred inflation gauge cooled in June. It might not last - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.7068994045257568,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "EU lays out $11.4 billion for 7 AI gigafactories as it aims to catch up with US and China - AP News",
+            "title": "EU Ponies Up $11.4B for Massive Gigafactory Initiative - Newser",
             "sentiment": "POSITIVE",
-            "score": 0.849098801612854,
+            "score": 0.8609587550163269,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Red Cross declares crisis over blood supply shortage in US for second time in its history - BBC",
+            "title": "U.S. economy slowed in second quarter, but consumers continue to spend - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.820143461227417,
+            "score": 0.9734094738960266,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
