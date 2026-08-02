@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-08-02 12:43:43 UTC",
-    "total_articles": 20,
+    "last_updated": "2026-08-02 15:45:24 UTC",
+    "total_articles": 21,
     "bullish_articles": 7,
-    "bearish_articles": 13,
+    "bearish_articles": 14,
     "articles": [
+        {
+            "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8622176051139832,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Nearly 12 million bottles of Rohto eye drops over sterility concerns, FDA announces - Fox Business",
             "sentiment": "NEGATIVE",
@@ -14,10 +23,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. He is losing that fight so far - apnews.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9201754331588745,
-            "signal": "BEARISH",
+            "title": "Bessent and the Fed help Japan reverse months of yen losses - japantimes.co.jp",
+            "sentiment": "POSITIVE",
+            "score": 0.8846579790115356,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -91,6 +100,38 @@
             "ticker_impacts": []
         },
         {
+            "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9662471413612366,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Wall Street To Big Tech: Show Us The Money In Pricey AI Race - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9415366649627686,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN",
+                "MSFT"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "As Warsh\u2019s Fed faces pressure to act on inflation, these indicators show it\u2019s at its lowest in years - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9459804892539978,
@@ -103,6 +144,15 @@
             "title": "Texas man arrested in videoed attack on Bayside Hard Rock Cafe server, police say - WPLG Local 10",
             "sentiment": "NEGATIVE",
             "score": 0.8025459051132202,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bitcoin Falls To 3-Week Low\u2014Here\u2019s Why - Forbes",
+            "sentiment": "NEGATIVE",
+            "score": 0.7913470268249512,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -161,50 +211,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Michael Saylor Says SpaceX, Google and Meta's AI Spending Is a 'Headwind' for Bitcoin - Benzinga",
+            "title": "Coinbase stock sinks as weak crypto market leads to another quarterly loss - finance.yahoo.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9465531706809998,
+            "score": 0.9748074412345886,
             "signal": "BEARISH",
-            "tickers": [
-                "GOOGL",
-                "META"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Chevron and Exxon earnings soar as Trump threatens price interventions - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8035373091697693,
-            "signal": "BULLISH",
-            "tickers": [
-                "XOM",
-                "CVX"
-            ],
-            "primary_ticker": "XOM",
-            "ticker_impacts": [
-                {
-                    "ticker": "XOM",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "CVX",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "\u2018Watched everyone\u2019s heartbreak\u2019: Longtime Daimler employee speaks out after mass layoffs - KOIN.com",
@@ -227,32 +240,6 @@
             "title": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns - NPR",
             "sentiment": "POSITIVE",
             "score": 0.9021376371383667,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Microsoft's stock rockets more than 15% for largest single-day jump in history - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9457930326461792,
-            "signal": "BULLISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "SpaceX Begins Recovery Of First Flown Starship V3 - Aviation Week",
-            "sentiment": "POSITIVE",
-            "score": 0.899917483329773,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
