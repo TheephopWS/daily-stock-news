@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-08-02 18:44:17 UTC",
-    "total_articles": 28,
-    "bullish_articles": 7,
-    "bearish_articles": 21,
+    "last_updated": "2026-08-02 21:41:46 UTC",
+    "total_articles": 25,
+    "bullish_articles": 5,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "Congress ended surprise medical bills \u2014 doctors and insurers hate it - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9442455768585205,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "California farmers destroy perfect lettuce crops amid outbreak of explosive diarrhea parasite - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9332730174064636,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Minnesota's ban on crypto ATMs goes into effect after citizens report losing nearly $1 million in scams - Fox Business",
             "sentiment": "NEGATIVE",
@@ -16,16 +34,33 @@
         {
             "title": "SpaceX Agrees to Remove Temporary Gas Turbines at Colossus Data Center By 2027 - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.7451496124267578,
+            "score": 0.745150625705719,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Major airline cancels 81 flights as strike looms, no refunds - thestreet.com",
+            "title": "Nvidia's CEO says \u2018a lot\u2019 of six-figure jobs in plumbing and construction are about to be unlocked - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9699815511703491,
+            "score": 0.7459836006164551,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Warsh\u2019s Silent Treatment Has S&P Traders Bracing for Wild Swings - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8122375011444092,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -34,25 +69,33 @@
         {
             "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8622176051139832,
+            "score": 0.8622178435325623,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The unexpected doughnut war of Santa Clara - sfgate.com",
+            "title": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.8544263243675232,
+            "score": 0.9633809924125671,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "AAPL"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "Corporate America's Next Assignment: Save Happy Hour - Business Insider",
+            "title": "The unexpected doughnut war of Santa Clara - sfgate.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9312037825584412,
+            "score": 0.8544265031814575,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -61,7 +104,7 @@
         {
             "title": "Why did OpenAI's and Anthropic's AI models hack other companies? - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9263104200363159,
+            "score": 0.9263103604316711,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -86,9 +129,44 @@
             "ticker_impacts": []
         },
         {
+            "title": "Stock Market News, July 31, 2026: Apple Stock Falls, but Nasdaq Marches Higher - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.8264651298522949,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "George Santos fined, temporarily banned from Kalshi prediction market - MS NOW",
+            "sentiment": "NEGATIVE",
+            "score": 0.9146404266357422,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Michigan Supreme Court sides with Nessel, overrules cases curtailing consumer protection law - Michigan Advance",
+            "sentiment": "NEGATIVE",
+            "score": 0.8770577311515808,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Full Ballard Link Line Could Take Until 2060 To Build, Sound Transit Says - The Urbanist",
             "sentiment": "POSITIVE",
-            "score": 0.8977253437042236,
+            "score": 0.8977256417274475,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -97,7 +175,7 @@
         {
             "title": "Reddit keeps its strange DMCA fight over Google search results alive - arstechnica.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9239146113395691,
+            "score": 0.9239147305488586,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -112,18 +190,9 @@
             ]
         },
         {
-            "title": "SpaceX Stock Hits a Record Low. Starship\u2019s Heat Shield Is Just One More Hurdle. - barrons.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.965244710445404,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Amazon stock soars 15% as e-commerce giant's AWS cloud business booms in 'home run' quarter - Yahoo Finance UK",
+            "title": "Amazon stock soars 15% as e-commerce giant's AWS cloud business booms in 'home run' quarter - finance.yahoo.com",
             "sentiment": "POSITIVE",
-            "score": 0.9434381723403931,
+            "score": 0.9399546384811401,
             "signal": "BULLISH",
             "tickers": [
                 "AMZN",
@@ -144,28 +213,25 @@
             ]
         },
         {
-            "title": "This Biotech Stock Soars 107% After Key FDA Panel Vote on Skin Cancer Treatment - barrons.com",
+            "title": "Oil companies report sky-high profits thanks to wartime crude prices - NPR",
             "sentiment": "POSITIVE",
-            "score": 0.9039331674575806,
+            "score": 0.9319604635238647,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Alphabet Jumps 6%, Reddit Craters 23% in Social Media Stock Divergence - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.8761387467384338,
-            "signal": "BEARISH",
             "tickers": [
-                "GOOGL"
+                "XOM",
+                "CVX"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "ticker": "XOM",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "CVX",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -175,45 +241,36 @@
             "score": 0.9415366649627686,
             "signal": "BULLISH",
             "tickers": [
-                "MSFT",
-                "AMZN"
+                "AMZN",
+                "MSFT"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "MSFT",
+                    "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "South Florida mail carrier accused of stealing and cashing in winning lottery ticket - NBC 6 South Florida",
+            "title": "Texas is banning several THC products. Find out what will still be legal on July 31. - KSAT",
             "sentiment": "NEGATIVE",
-            "score": 0.8538011908531189,
+            "score": 0.9120197296142578,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "PGE asks Oregon regulators for another 3.9% rate increase for residential customers - KPTV",
-            "sentiment": "POSITIVE",
-            "score": 0.9083355665206909,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "As Warsh\u2019s Fed faces pressure to act on inflation, these indicators show it\u2019s at its lowest in years - CNBC",
+            "title": "South Florida mail carrier accused of stealing and cashing in winning lottery ticket - NBC 6 South Florida",
             "sentiment": "NEGATIVE",
-            "score": 0.9459804892539978,
+            "score": 0.8538011312484741,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -222,7 +279,7 @@
         {
             "title": "Texas man arrested in videoed attack on Bayside Hard Rock Cafe server, police say - WPLG Local 10",
             "sentiment": "NEGATIVE",
-            "score": 0.8025459051132202,
+            "score": 0.8025456666946411,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -231,87 +288,17 @@
         {
             "title": "Bitcoin Falls To 3-Week Low\u2014Here\u2019s Why - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.7913470268249512,
+            "score": 0.7913467288017273,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Fed rates dissenters make their case for higher rates - Axios",
+            "title": "New York Sues Kalshi After Talks to Rein In Prediction Market Break Down - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8422375917434692,
+            "score": 0.858155369758606,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Apple Shares Sink as Weak Guidance Triggers Analyst Downgrade - finance.yahoo.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9685670137405396,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Rivian Automotive Stock\u2019s Best Case Is Hiding In Its Cost Per Vehicle - Trefis",
-            "sentiment": "NEGATIVE",
-            "score": 0.9619494676589966,
-            "signal": "BEARISH",
-            "tickers": [
-                "RIVN"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "RIVN",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "New York sues Kalshi for allegedly running an \u2018illegal gambling operation\u2019 - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.9278326034545898,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Coinbase stock sinks as weak crypto market leads to another quarterly loss - finance.yahoo.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9748074412345886,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "1.5M rechargeable hand warmers recalled after death of 83-year-old - NBC 7 San Diego",
-            "sentiment": "NEGATIVE",
-            "score": 0.9088343381881714,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns - NPR",
-            "sentiment": "POSITIVE",
-            "score": 0.9021376371383667,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
