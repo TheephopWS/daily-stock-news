@@ -1,14 +1,77 @@
 {
-    "last_updated": "2026-08-02 15:45:24 UTC",
-    "total_articles": 21,
+    "last_updated": "2026-08-02 18:44:17 UTC",
+    "total_articles": 28,
     "bullish_articles": 7,
-    "bearish_articles": 14,
+    "bearish_articles": 21,
     "articles": [
+        {
+            "title": "Minnesota's ban on crypto ATMs goes into effect after citizens report losing nearly $1 million in scams - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.8122373819351196,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX Agrees to Remove Temporary Gas Turbines at Colossus Data Center By 2027 - Gizmodo",
+            "sentiment": "NEGATIVE",
+            "score": 0.7451496124267578,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Major airline cancels 81 flights as strike looms, no refunds - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9699815511703491,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.8622176051139832,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The unexpected doughnut war of Santa Clara - sfgate.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8544263243675232,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Corporate America's Next Assignment: Save Happy Hour - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9312037825584412,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why did OpenAI's and Anthropic's AI models hack other companies? - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.9263104200363159,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.9437716603279114,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -23,33 +86,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bessent and the Fed help Japan reverse months of yen losses - japantimes.co.jp",
-            "sentiment": "POSITIVE",
-            "score": 0.8846579790115356,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "George Santos fined, temporarily banned from Kalshi prediction market - MS NOW",
-            "sentiment": "NEGATIVE",
-            "score": 0.9146403074264526,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "OpenAI reportedly finds evidence that more of its agents ran amok - techcrunch.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8264477252960205,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Full Ballard Link Line Could Take Until 2060 To Build, Sound Transit Says - The Urbanist",
             "sentiment": "POSITIVE",
             "score": 0.8977253437042236,
@@ -57,6 +93,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Reddit keeps its strange DMCA fight over Google search results alive - arstechnica.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9239146113395691,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "SpaceX Stock Hits a Record Low. Starship\u2019s Heat Shield Is Just One More Hurdle. - barrons.com",
@@ -100,13 +153,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks - Bloomberg.com",
+            "title": "Alphabet Jumps 6%, Reddit Craters 23% in Social Media Stock Divergence - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.9662471413612366,
+            "score": 0.8761387467384338,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Wall Street To Big Tech: Show Us The Money In Pricey AI Race - Investor's Business Daily",
@@ -114,22 +175,40 @@
             "score": 0.9415366649627686,
             "signal": "BULLISH",
             "tickers": [
-                "AMZN",
-                "MSFT"
+                "MSFT",
+                "AMZN"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "MSFT",
+                    "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "South Florida mail carrier accused of stealing and cashing in winning lottery ticket - NBC 6 South Florida",
+            "sentiment": "NEGATIVE",
+            "score": 0.8538011908531189,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "PGE asks Oregon regulators for another 3.9% rate increase for residential customers - KPTV",
+            "sentiment": "POSITIVE",
+            "score": 0.9083355665206909,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "As Warsh\u2019s Fed faces pressure to act on inflation, these indicators show it\u2019s at its lowest in years - CNBC",
@@ -220,21 +299,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "\u2018Watched everyone\u2019s heartbreak\u2019: Longtime Daimler employee speaks out after mass layoffs - KOIN.com",
+            "title": "1.5M rechargeable hand warmers recalled after death of 83-year-old - NBC 7 San Diego",
             "sentiment": "NEGATIVE",
-            "score": 0.9519922137260437,
+            "score": 0.9088343381881714,
             "signal": "BEARISH",
-            "tickers": [
-                "KOIN"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "KOIN",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns - NPR",
