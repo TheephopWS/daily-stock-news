@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-08-02 01:01:27 UTC",
-    "total_articles": 24,
-    "bullish_articles": 9,
-    "bearish_articles": 15,
+    "last_updated": "2026-08-02 04:33:57 UTC",
+    "total_articles": 22,
+    "bullish_articles": 6,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "George Santos accused of \u2018manipulative activity\u2019 in prediction market trades - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.759946882724762,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Citadel\u2019s swoop on Situational Awareness helped stem a $3tn AI rout - Financial Times",
             "sentiment": "POSITIVE",
@@ -14,9 +23,32 @@
             "ticker_impacts": []
         },
         {
-            "title": "Amazon stock soars 15% as e-commerce giant's AWS cloud business booms in 'home run' quarter - Yahoo Finance UK",
+            "title": "Stock Market Gains Even As Apple Crumbles; Jobs Report, AMD Earnings Loom - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9517819285392761,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL",
+                "AMD"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Amazon stock soars 15% as e-commerce giant's AWS cloud business booms in 'home run' quarter - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9434381723403931,
+            "score": 0.943560004234314,
             "signal": "BULLISH",
             "tickers": [
                 "AMZN",
@@ -37,27 +69,9 @@
             ]
         },
         {
-            "title": "Weight Loss Drug Stocks Slump. What Ozempic Maker Novo Nordisk Said. - Investor's Business Daily",
+            "title": "Apple stock falls on weak revenue forecast as CEO Tim Cook flags 'increasing impact' from memory shortage - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9677397608757019,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX stock hits new closing low in rocky week ahead of earnings - Yahoo Finance UK",
-            "sentiment": "NEGATIVE",
-            "score": 0.9625912308692932,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Apple stock slides nearly 10% as Cook warns of memory shortage impact - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.952552855014801,
+            "score": 0.95643550157547,
             "signal": "BEARISH",
             "tickers": [
                 "AAPL"
@@ -96,6 +110,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Texas man arrested in videoed attack on Bayside Hard Rock Cafe server, police say - WPLG Local 10",
+            "sentiment": "NEGATIVE",
+            "score": 0.8025459051132202,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "New York sues Kalshi for alleged 'illegal gambling operation' - ESPN",
@@ -187,14 +210,19 @@
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL",
+                "AMZN",
                 "TSLA",
-                "META",
-                "AMZN"
+                "META"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
                     "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "medium"
                 },
@@ -207,31 +235,8 @@
                     "ticker": "META",
                     "impact": "negative",
                     "relevance": "medium"
-                },
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Buy The Dip: 2 Top Undervalued Stocks Averaging 394% Forward EPS Growth - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.8801811933517456,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Fed study: AI\u2019s slow productivity story fits a century-old historical pattern - Fortune",
-            "sentiment": "POSITIVE",
-            "score": 0.8507413864135742,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Exclusive | Trump regulators vow to end left-wing \u2018shakedown\u2019 of US banks - New York Post",
@@ -241,29 +246,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Chevron and Exxon earnings soar as Trump threatens price interventions - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8035373091697693,
-            "signal": "BULLISH",
-            "tickers": [
-                "XOM",
-                "CVX"
-            ],
-            "primary_ticker": "XOM",
-            "ticker_impacts": [
-                {
-                    "ticker": "XOM",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "CVX",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Jersey Mike\u2019s Stock Slides Below IPO Price in Market Debut - barrons.com",
@@ -293,9 +275,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "About 1.5M rechargeable hand warmers recalled after 1 death, hundreds of burn injuries reported - Fox Business",
+            "title": "OpenAI CEO Sam Altman announces 'major' price cuts as the company signals a focus on cost efficiency - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.913183331489563,
+            "score": 0.866034746170044,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
