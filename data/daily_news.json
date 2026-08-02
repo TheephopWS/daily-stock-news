@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-08-02 10:05:41 UTC",
-    "total_articles": 22,
+    "last_updated": "2026-08-02 12:43:43 UTC",
+    "total_articles": 20,
     "bullish_articles": 7,
-    "bearish_articles": 15,
+    "bearish_articles": 13,
     "articles": [
+        {
+            "title": "Nearly 12 million bottles of Rohto eye drops over sterility concerns, FDA announces - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9652089476585388,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. He is losing that fight so far - apnews.com",
             "sentiment": "NEGATIVE",
@@ -14,9 +23,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "George Santos accused of \u2018manipulative activity\u2019 in prediction market trades - The Washington Post",
+            "title": "George Santos fined, temporarily banned from Kalshi prediction market - MS NOW",
             "sentiment": "NEGATIVE",
-            "score": 0.759946882724762,
+            "score": 0.9146403074264526,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -41,21 +50,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "Apple stock falls on weak revenue forecast as CEO Tim Cook flags 'increasing impact' from memory shortage - Yahoo Finance",
+            "title": "SpaceX Stock Hits a Record Low. Starship\u2019s Heat Shield Is Just One More Hurdle. - barrons.com",
             "sentiment": "NEGATIVE",
-            "score": 0.95643550157547,
+            "score": 0.965244710445404,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon stock soars 15% as e-commerce giant's AWS cloud business booms in 'home run' quarter - Yahoo Finance UK",
+            "sentiment": "POSITIVE",
+            "score": 0.9434381723403931,
+            "signal": "BULLISH",
             "tickers": [
-                "AAPL"
+                "AMZN",
+                "AWS"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
-                    "impact": "negative",
+                    "ticker": "AMZN",
+                    "impact": "positive",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "AWS",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "This Biotech Stock Soars 107% After Key FDA Panel Vote on Skin Cancer Treatment - barrons.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9039331674575806,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "As Warsh\u2019s Fed faces pressure to act on inflation, these indicators show it\u2019s at its lowest in years - CNBC",
@@ -85,13 +118,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Phoebe Gates' shopping app Phia is in damage control mode and offering refunds after a payment scandal - Business Insider",
+            "title": "Apple Shares Sink as Weak Guidance Triggers Analyst Downgrade - finance.yahoo.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9321327805519104,
+            "score": 0.9685670137405396,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Rivian Automotive Stock\u2019s Best Case Is Hiding In Its Cost Per Vehicle - Trefis",
@@ -125,57 +166,45 @@
             "score": 0.9465531706809998,
             "signal": "BEARISH",
             "tickers": [
-                "META",
-                "GOOGL"
+                "GOOGL",
+                "META"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Reddit Shares Plunge by Record on Dearth of New AI Deals - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9726177453994751,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Netflix Is Down 46% -- Here's Why I'm Buying More - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.9015616178512573,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
+                },
                 {
-                    "ticker": "NFLX",
+                    "ticker": "META",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Buy The Dip: 2 Top Undervalued Stocks Averaging 394% Forward EPS Growth - Seeking Alpha",
+            "title": "Chevron and Exxon earnings soar as Trump threatens price interventions - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.8801811933517456,
+            "score": 0.8035373091697693,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "XOM",
+                "CVX"
+            ],
+            "primary_ticker": "XOM",
+            "ticker_impacts": [
+                {
+                    "ticker": "XOM",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "CVX",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "\u2018Watched everyone\u2019s heartbreak\u2019: Longtime Daimler employee speaks out after mass layoffs - KOIN.com",
@@ -193,15 +222,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Replimune\u2019s twice-rejected melanoma drug prevails in FDA adcomm - Fierce Biotech",
-            "sentiment": "POSITIVE",
-            "score": 0.8275607228279114,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns - NPR",
@@ -228,24 +248,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Taco Bell Has 'Magic Formula' for Bouncing Back - Newser",
-            "sentiment": "POSITIVE",
-            "score": 0.9478121995925903,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3% - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9629161953926086,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "SpaceX Begins Recovery Of First Flown Starship V3 - Aviation Week",
