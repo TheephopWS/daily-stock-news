@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-08-02 21:41:46 UTC",
-    "total_articles": 25,
-    "bullish_articles": 5,
-    "bearish_articles": 20,
+    "last_updated": "2026-08-03 01:00:52 UTC",
+    "total_articles": 28,
+    "bullish_articles": 6,
+    "bearish_articles": 22,
     "articles": [
+        {
+            "title": "Chili\u2019s Italian sister chain keeps closing restaurants - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7298332452774048,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Congress ended surprise medical bills \u2014 doctors and insurers hate it - Politico",
             "sentiment": "NEGATIVE",
@@ -23,6 +32,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Fed rates dissenters make their case for higher rates - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.8422373533248901,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Minnesota's ban on crypto ATMs goes into effect after citizens report losing nearly $1 million in scams - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.8122373819351196,
@@ -30,6 +48,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX Is Down 19% From Its IPO Price. Tesla's History Suggests This May Happen Next - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.937562108039856,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "SpaceX Agrees to Remove Temporary Gas Turbines at Colossus Data Center By 2027 - Gizmodo",
@@ -58,18 +93,9 @@
             ]
         },
         {
-            "title": "Warsh\u2019s Silent Treatment Has S&P Traders Bracing for Wild Swings - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8122375011444092,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller - CNBC",
+            "title": "Quantum computer completes verified task beyond practical reach of classical simulations - Phys.org",
             "sentiment": "POSITIVE",
-            "score": 0.8622178435325623,
+            "score": 0.7992411255836487,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -241,18 +267,18 @@
             "score": 0.9415366649627686,
             "signal": "BULLISH",
             "tickers": [
-                "AMZN",
-                "MSFT"
+                "MSFT",
+                "AMZN"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "MSFT",
+                    "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -277,6 +303,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Taco Bell hopes to win back fans with $1 Mexican pizza and lettuce-free deals amid cyclospora source rumors - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.8320147395133972,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Texas man arrested in videoed attack on Bayside Hard Rock Cafe server, police say - WPLG Local 10",
             "sentiment": "NEGATIVE",
             "score": 0.8025456666946411,
@@ -286,18 +321,32 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bitcoin Falls To 3-Week Low\u2014Here\u2019s Why - Forbes",
+            "title": "Michael Saylor Says SpaceX, Google and Meta's AI Spending Is a 'Headwind' for Bitcoin - Benzinga",
             "sentiment": "NEGATIVE",
-            "score": 0.7913467288017273,
+            "score": 0.9465530514717102,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "GOOGL",
+                "META"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "New York Sues Kalshi After Talks to Rein In Prediction Market Break Down - WSJ",
+            "title": "National trade association sues Colorado in attempt to block state\u2019s free curbside recycling plan - The Denver Post",
             "sentiment": "NEGATIVE",
-            "score": 0.858155369758606,
+            "score": 0.9132415652275085,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
