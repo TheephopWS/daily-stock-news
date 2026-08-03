@@ -1,13 +1,39 @@
 {
-    "last_updated": "2026-08-03 07:36:06 UTC",
-    "total_articles": 25,
-    "bullish_articles": 7,
-    "bearish_articles": 18,
+    "last_updated": "2026-08-03 10:38:15 UTC",
+    "total_articles": 26,
+    "bullish_articles": 6,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "Nearly 23,000 pounds of Ukrop's baked spaghetti and chicken cobbler recalled over metal sliver concerns - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.970400333404541,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million - coindesk.com",
             "sentiment": "NEGATIVE",
             "score": 0.8191823363304138,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "German carmakers flood jobs market with managers after wielding axe - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.940319299697876,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -129,15 +155,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why did OpenAI's and Anthropic's AI models hack other companies? - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9263104200363159,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Why South Korea\u2019s won is one of world\u2019s best performers - Financial Times",
             "sentiment": "POSITIVE",
             "score": 0.9497444033622742,
@@ -150,6 +167,15 @@
             "title": "George Santos fined, temporarily banned from Kalshi prediction market - MS NOW",
             "sentiment": "NEGATIVE",
             "score": 0.9146403074264526,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Michigan Supreme Court sides with Nessel, overrules cases curtailing consumer protection law - Michigan Advance",
+            "sentiment": "NEGATIVE",
+            "score": 0.8770577907562256,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -187,18 +213,18 @@
             "score": 0.93196040391922,
             "signal": "BULLISH",
             "tickers": [
-                "CVX",
-                "XOM"
+                "XOM",
+                "CVX"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "CVX",
+                    "ticker": "XOM",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "XOM",
+                    "ticker": "CVX",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -263,6 +289,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Analysts back Strategy's cash buildup as Saylor shifts from '100% bitcoin' approach - theblock.co",
+            "sentiment": "NEGATIVE",
+            "score": 0.7556300163269043,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "As Warsh\u2019s Fed faces pressure to act on inflation, these indicators show it\u2019s at its lowest in years - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9459804892539978,
@@ -270,44 +305,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Bitcoin Falls To 3-Week Low\u2014Here\u2019s Why - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.7913470268249512,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia Is Back on Top as Most Valuable Company After Apple Stumbles - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9506999850273132,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA",
-                "AAPL",
-                "AMZN"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         }
     ]
 }
