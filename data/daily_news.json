@@ -1,13 +1,80 @@
 {
-    "last_updated": "2026-08-04 18:58:46 UTC",
-    "total_articles": 22,
+    "last_updated": "2026-08-04 21:51:25 UTC",
+    "total_articles": 20,
     "bullish_articles": 5,
-    "bearish_articles": 17,
+    "bearish_articles": 15,
     "articles": [
+        {
+            "title": "SpaceX's first-ever earnings report comes as stock hits new all-time low: Q2 preview - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.7771116495132446,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Palantir Q2 on deck: Options market imply 9.3% swing after earnings (PLTR:NASDAQ) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.8065526485443115,
+            "signal": "BULLISH",
+            "tickers": [
+                "PLTR"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "PLTR",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Trump Hits Exxon, Chevron for Profits Amid Iran War He Launched - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9540192484855652,
+            "signal": "BEARISH",
+            "tickers": [
+                "XOM",
+                "CVX"
+            ],
+            "primary_ticker": "XOM",
+            "ticker_impacts": [
+                {
+                    "ticker": "XOM",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "CVX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Michigan reports 2 deaths in cyclosporiasis outbreak - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9038558006286621,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "GOP AGs warn OpenAI's Altman to preserve records in AI agent hacking probe - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.8056614398956299,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018Gift to the cartels\u2019 Talarico renews warning over Texas THC ban - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.7232006788253784,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -31,9 +98,9 @@
             ]
         },
         {
-            "title": "First deaths reported in cyclosporiasis outbreak - CNN",
+            "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink - SpaceNews",
             "sentiment": "NEGATIVE",
-            "score": 0.896647572517395,
+            "score": 0.9561175107955933,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -49,6 +116,32 @@
             "ticker_impacts": []
         },
         {
+            "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8739422559738159,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "U.S.-Japan yen intervention revives bitcoin carry trade fears despite weak link - CoinDesk",
+            "sentiment": "POSITIVE",
+            "score": 0.8260740041732788,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "'Sandwich generation' is getting younger and not any better prepared - USA Today",
             "sentiment": "NEGATIVE",
             "score": 0.9564611315727234,
@@ -56,23 +149,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Trump slams Chevron CEO, demands immediate reduction in US fuel prices - Al Jazeera",
-            "sentiment": "NEGATIVE",
-            "score": 0.7457404732704163,
-            "signal": "BEARISH",
-            "tickers": [
-                "CVX"
-            ],
-            "primary_ticker": "CVX",
-            "ticker_impacts": [
-                {
-                    "ticker": "CVX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Careful what you bid for: The Ellisons' Paramount/WBD deal is slipping toward a costly legal and financial cliff - Fortune",
@@ -102,19 +178,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Southwest Airlines flight 1243 from Fort Myers, Florida nose gear tires 'lost pressure' during landing at Chicago Midway airport - ABC7 Chicago",
+            "title": "Sandisk Stock Is Falling Monday: What's Going On? - Benzinga",
             "sentiment": "NEGATIVE",
-            "score": 0.9636799097061157,
+            "score": 0.9706360101699829,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Palantir stock jumps ahead of quarterly results - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.820589005947113,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -138,42 +205,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "China\u2019s Alibaba takes another swipe at America\u2019s AI supremacy - The Verge",
-            "sentiment": "POSITIVE",
-            "score": 0.8980728983879089,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why should Americans care that Chinese AI is getting better? - vox.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7296475768089294,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Buffett Indicator Keeps Flashing Red. Is It Broken? - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8729856610298157,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "New Yorker: China races to own the industries of the future - Axios",
-            "sentiment": "POSITIVE",
-            "score": 0.7584124207496643,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "FCC Commissioners Face Ethics Complaints for Taking Luxury Gifts From Paramount - ProPublica",
             "sentiment": "NEGATIVE",
             "score": 0.7794263362884521,
@@ -183,44 +214,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "U.S. Treasury yields fall as oil prices plunge on Iran de-escalation hopes - CNBC",
+            "title": "New York files $36 billion lawsuit against Kalshi, alleging it's running an \"illegal gambling operation\" - NBC Sports",
             "sentiment": "NEGATIVE",
-            "score": 0.9689126014709473,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Sandisk: Looking Like A Buy Ahead Of Earnings (NASDAQ:SNDK) - Seeking Alpha",
-            "sentiment": "NEGATIVE",
-            "score": 0.9581261277198792,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The global memory shortage hits the MacBook Air - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.964104175567627,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Bond Traders Flying Blind on Fed See Risk Yields Spiral Higher - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.8670581579208374,
+            "score": 0.7578195929527283,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
