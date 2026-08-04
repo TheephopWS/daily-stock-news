@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-08-04 10:18:31 UTC",
-    "total_articles": 23,
-    "bullish_articles": 6,
-    "bearish_articles": 17,
+    "last_updated": "2026-08-04 13:06:41 UTC",
+    "total_articles": 22,
+    "bullish_articles": 7,
+    "bearish_articles": 15,
     "articles": [
+        {
+            "title": "SpaceX is testing market gravity - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.7481828331947327,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "New Yorker: China races to own the industries of the future - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.7584124207496643,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "US dollar weakens sharply against the Japanese yen after market interventions - AP News",
             "sentiment": "NEGATIVE",
@@ -151,6 +169,29 @@
             "ticker_impacts": []
         },
         {
+            "title": "Goldman Sachs sees AI trade stabilizing as strong earnings keep bull market intact (META:NASDAQ) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.927727222442627,
+            "signal": "BULLISH",
+            "tickers": [
+                "META",
+                "GS"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GS",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "America\u2019s biggest companies report \u2018rock solid\u2019 profits as consumers face higher costs - Financial Times",
             "sentiment": "POSITIVE",
             "score": 0.8801338076591492,
@@ -187,15 +228,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Thousands Of Seniors May Lose Medicare Advantage As Plan Exits Escalate - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.9654019474983215,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "America\u2019s Lettuce Crisis Has Shoppers Ditching Supermarkets for Farmers Markets - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.9653593897819519,
@@ -218,41 +250,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.8647333383560181,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors - Benzinga",
-            "sentiment": "NEGATIVE",
-            "score": 0.9740201234817505,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "SpaceX Agrees to Remove Temporary Gas Turbines at Colossus Data Center By 2027 - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.7451496124267578,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Quantum computer completes verified task beyond practical reach of classical simulations - Phys.org",
-            "sentiment": "POSITIVE",
-            "score": 0.799240231513977,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
