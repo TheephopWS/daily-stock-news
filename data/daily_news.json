@@ -1,22 +1,160 @@
 {
-    "last_updated": "2026-08-05 18:57:25 UTC",
-    "total_articles": 20,
-    "bullish_articles": 8,
-    "bearish_articles": 12,
+    "last_updated": "2026-08-05 21:51:25 UTC",
+    "total_articles": 24,
+    "bullish_articles": 7,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "US job openings slip to 7.4 million, but labor market remains resilient in face of fighting in Iran - ABC News - Breaking News, Latest News and Videos",
+            "title": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9734087586402893,
+            "score": 0.9528013467788696,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "AMD"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "SpaceX stock drops after first earnings report as AI costs soar: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9419943690299988,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "McDonald\u2019s sales in the US are slowing after deal fatigue - cnn.com",
+            "title": "AMD Reports Earnings on the Verge of a Sales Jump - barrons.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7379979491233826,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Chipotle removes jalape\u00f1os from some restaurants after Salmonella outbreak, probe targets supply chain - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9597465395927429,
+            "score": 0.8172457814216614,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9517377614974976,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Paramount \u201cFully Expects\u201d WBD Merger To Close As It Reports Q2 Streaming Gains, Linear Challenges - Deadline",
+            "sentiment": "NEGATIVE",
+            "score": 0.7872105836868286,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Days after John Oliver's dare, Buc-ee's sues again - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.9009599089622498,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "P&G seals $3.8bn deal for supplements company Thorne - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.9415683746337891,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Pfizer Covid Pill Revenue Plunges 95%. The Stock Is Rising Anyway. - barrons.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9694905281066895,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI and Anthropic's models hacked into real-world systems. Human error was behind it. - axios.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7714589238166809,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Multiple passengers receive medical care after 22 flights diverted from Denver - The Hill",
+            "sentiment": "NEGATIVE",
+            "score": 0.9627843499183655,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Palantir stock jumps nearly 30% after 'otherworldly' quarter as US commercial business booms - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.7034739255905151,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "New Jersey sues Amazon on antitrust grounds, alleging it unlawfully wielded its power over delivery contractors - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9599227905273438,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "McDonald\u2019s sales in the US are slowing after deal fatigue - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.9559506177902222,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -49,39 +187,13 @@
             ]
         },
         {
-            "title": "Foreigners are buying fewer U.S. properties, but luxury homebuilders still draw them in - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9584532380104065,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why Pfizer Just Hiked Its Guidance By $500 Million - Investor's Business Daily",
+            "title": "Sandisk Just Announced Its Next Game Changer (NASDAQ:SNDK) - Seeking Alpha",
             "sentiment": "POSITIVE",
-            "score": 0.9249960780143738,
+            "score": 0.8854118585586548,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Dow futures leap 600 points, S&P 500 poised for record after Bessent says Hormuz deal is close: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9113126397132874,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "U.S. International Trade in Goods and Services, June 2026 - Bureau of Economic Analysis (BEA) (.gov)",
@@ -101,27 +213,18 @@
             ]
         },
         {
-            "title": "Anthropic Inks $10 Billion Computing Deal With Cloud Startup - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9332272410392761,
-            "signal": "BULLISH",
+            "title": "Trump says oil majors are \u2018making too much money\u2019 - Semafor",
+            "sentiment": "NEGATIVE",
+            "score": 0.94539874792099,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "2 Illinois hospitals make list of best in the country, according to U.S. News and World Report - NBC 5 Chicago",
+            "title": "CAT Stock Lifts Dow Jones With Massive Earnings Beat - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.8216665983200073,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Palantir stock jumps after 'otherworldly' quarter as US commercial business booms - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.7778878211975098,
+            "score": 0.8919443488121033,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -137,84 +240,39 @@
             "ticker_impacts": []
         },
         {
-            "title": "Over 20 planes diverted to Colorado Springs after Denver severe weather, prompt medical response - KRDO",
+            "title": "GOP AGs warn OpenAI's Altman to preserve records in AI agent hacking probe - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8833272457122803,
+            "score": 0.8056612014770508,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Younger 'sandwich generation' forgets retirement amid caregiving - USA Today",
+            "title": "Oil slides as Trump delays Iran strikes, signals peace talks - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.944410502910614,
+            "score": 0.9700390696525574,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Buc-ee\u2019s sues another small Ohio business over logo after John Oliver segment - NBC4 WCMH-TV",
-            "sentiment": "NEGATIVE",
-            "score": 0.7044299244880676,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US Futures Climb as Focus Shifts Back to Earnings, Oil Slides - Bloomberg.com",
+            "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9341445565223694,
+            "score": 0.873942494392395,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Micron Stock Falls -- Apple Tests Chinese Memory Chips From Rising Rival - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9581364393234253,
-            "signal": "BEARISH",
             "tickers": [
-                "AAPL"
+                "AMZN"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
-                    "impact": "negative",
+                    "ticker": "AMZN",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Following ban, Texas hemp reps sue state for violating commerce protections - The Texas Tribune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9180994033813477,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Red Cross declares blood crisis, urges donations as nearly half of NH appointments sit empty - WMUR",
-            "sentiment": "NEGATIVE",
-            "score": 0.947881281375885,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Alcohol Retailers Celebrate Senate\u2019s Move To Keep Hemp THC Drinks Legal, For Now - Marijuana Moment",
-            "sentiment": "POSITIVE",
-            "score": 0.7424963116645813,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
