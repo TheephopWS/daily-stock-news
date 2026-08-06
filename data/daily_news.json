@@ -1,14 +1,32 @@
 {
-    "last_updated": "2026-08-06 07:21:43 UTC",
-    "total_articles": 16,
-    "bullish_articles": 5,
+    "last_updated": "2026-08-06 10:17:52 UTC",
+    "total_articles": 17,
+    "bullish_articles": 6,
     "bearish_articles": 11,
     "articles": [
         {
-            "title": "Asia stocks jump as AI rally returns; Japan, Korea surge - Investing.com",
+            "title": "S&P 500 futures climb after massive rally lifts index to fresh record: Live updates - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.867887556552887,
+            "score": 0.9263378381729126,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "South Korean police raid Starbucks Korea headquarters in latest twist over disastrous ad campaign - cnn.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9588611125946045,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX's first-ever earnings show higher revenues and huge spending - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9299125075340271,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -16,49 +34,26 @@
         {
             "title": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S. - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7725520133972168,
+            "score": 0.7725517749786377,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI to pay $3.2 million to settle DOJ allegations it favored foreign workers over Americans - Fox Business",
+            "title": "Buc-ee\u2019s suing mini mart in Beavercreek, Ohio over logo branding - WLWT",
             "sentiment": "NEGATIVE",
-            "score": 0.9358088970184326,
+            "score": 0.8926994204521179,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9396085143089294,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA",
-                "AMD"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Buc-ee\u2019s suing mini mart in Beavercreek, Ohio over logo branding - WLWT",
-            "sentiment": "NEGATIVE",
-            "score": 0.8926994204521179,
-            "signal": "BEARISH",
+            "title": "Novo Nordisk Stock Bounces Back After Surprise Earnings Report - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9386033415794373,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -75,7 +70,16 @@
         {
             "title": "Amgen drops ph. 1 obesity drug, upping pressure on MariTide - Fierce Biotech",
             "sentiment": "NEGATIVE",
-            "score": 0.9190589785575867,
+            "score": 0.9190592169761658,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Situational Awareness Not Target of Predatory Shorts, S3 Says - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8285019397735596,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -84,29 +88,54 @@
         {
             "title": "Paramount Q2 Profit Dips, With Streaming Boost Offset by TV Declines - Variety",
             "sentiment": "NEGATIVE",
-            "score": 0.9676820039749146,
+            "score": 0.9676821231842041,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Palantir Short Sellers Take $3 Billion Hit After 30% Stock Surge - Bloomberg.com",
+            "title": "AMD Reported Record Sales on Growing AI Demand. The Stock Is Falling Anyway - Investopedia",
             "sentiment": "NEGATIVE",
-            "score": 0.9663953185081482,
+            "score": 0.9749767184257507,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Marvell Stock, Corning, and Lumentum Surge on Report of Import China Ban - Barron's",
+            "title": "Palantir stock jumps nearly 30% after 'otherworldly' quarter as US commercial business booms - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9241897463798523,
+            "score": 0.7034747004508972,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI Is Trying to Shame Apple Into Backing Down From Its Lawsuit - Gizmodo",
+            "sentiment": "NEGATIVE",
+            "score": 0.7096855640411377,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "New Jersey sues Amazon on antitrust grounds, alleging it unlawfully wielded its power over delivery contractors - CNBC",
@@ -126,35 +155,9 @@
             ]
         },
         {
-            "title": "Apple says more ex-employees may have taken confidential data to OpenAI - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9032536745071411,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Trump says oil majors are \u2018making too much money\u2019 - Semafor",
-            "sentiment": "NEGATIVE",
-            "score": 0.94539874792099,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "CAT Stock Lifts Dow Jones With Massive Earnings Beat - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.8919443488121033,
+            "score": 0.891944169998169,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -163,7 +166,7 @@
         {
             "title": "SK hynix, In Collaboration With SanDisk, Unveils The New High Bandwidth Flash (HBF) Standard, Helping To Resolve AI Inference Bottlenecks, Targeting Up To 3TB/s Bandwidth - Wccftech",
             "sentiment": "POSITIVE",
-            "score": 0.8059722185134888,
+            "score": 0.805971622467041,
             "signal": "BULLISH",
             "tickers": [
                 "HBF"
@@ -180,7 +183,7 @@
         {
             "title": "15 attorneys general have instructed OpenAI to preserve all materials related to the Hugging Face hack - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.923902690410614,
+            "score": 0.9239025115966797,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
