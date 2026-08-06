@@ -1,103 +1,123 @@
 {
-    "last_updated": "2026-08-06 10:17:52 UTC",
-    "total_articles": 17,
+    "last_updated": "2026-08-06 13:05:08 UTC",
+    "total_articles": 20,
     "bullish_articles": 6,
-    "bearish_articles": 11,
+    "bearish_articles": 14,
     "articles": [
         {
-            "title": "S&P 500 futures climb after massive rally lifts index to fresh record: Live updates - CNBC",
+            "title": "Stock Market Today: Dow Futures Tick Up, SpaceX Stock Slides After Earnings \u2014 Live Updates - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.8429604768753052,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Uber issues weaker-than-expected bookings, earnings forecasts for third quarter - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9346811175346375,
+            "signal": "BEARISH",
+            "tickers": [
+                "UBER"
+            ],
+            "primary_ticker": "UBER",
+            "ticker_impacts": [
+                {
+                    "ticker": "UBER",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Why Nvidia Stock Is the Big Winner From SpaceX Earnings - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9263378381729126,
+            "score": 0.9488447308540344,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA",
+                "AMD"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "South Korean police raid Starbucks Korea headquarters in latest twist over disastrous ad campaign - cnn.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9588611125946045,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX's first-ever earnings show higher revenues and huge spending - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9299125075340271,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S. - CNBC",
+            "title": "Disney's Q3 earnings top estimates on demand for experiences, company exits A+E Media stake - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.7725517749786377,
+            "score": 0.9522746205329895,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Buc-ee\u2019s suing mini mart in Beavercreek, Ohio over logo branding - WLWT",
-            "sentiment": "NEGATIVE",
-            "score": 0.8926994204521179,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Novo Nordisk Stock Bounces Back After Surprise Earnings Report - Barron's",
+            "title": "Ken Griffin\u2019s Citadel Jumps 6% After Situational Awareness Deal - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9386033415794373,
+            "score": 0.9396775960922241,
             "signal": "BULLISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "McDonald's says US sales slowed after value deal push fell short - Fox Business",
+            "title": "Bankers Are Betting on Supersize Bonuses This Year With Profits Surging - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9738078713417053,
+            "score": 0.8608649373054504,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Amgen drops ph. 1 obesity drug, upping pressure on MariTide - Fierce Biotech",
+            "title": "Older workers say Social Security is their retirement plan. Is that OK? - USA Today",
             "sentiment": "NEGATIVE",
-            "score": 0.9190592169761658,
+            "score": 0.825728178024292,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Situational Awareness Not Target of Predatory Shorts, S3 Says - Bloomberg.com",
+            "title": "Nation's largest food distributor halts Mexican lettuce purchases after outbreak linked to two deaths - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8285019397735596,
+            "score": 0.9525468945503235,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Paramount Q2 Profit Dips, With Streaming Boost Offset by TV Declines - Variety",
+            "title": "AMD Sales Outlook Disappoints Investors After AI-Fueled Rally - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9676821231842041,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AMD Reported Record Sales on Growing AI Demand. The Stock Is Falling Anyway - Investopedia",
-            "sentiment": "NEGATIVE",
-            "score": 0.9749767184257507,
+            "score": 0.9711747169494629,
             "signal": "BEARISH",
             "tickers": [
                 "AMD"
@@ -112,10 +132,89 @@
             ]
         },
         {
-            "title": "Palantir stock jumps nearly 30% after 'otherworldly' quarter as US commercial business booms - Yahoo Finance",
+            "title": "South Korean police raid Starbucks Korea headquarters in latest twist over disastrous ad campaign - cnn.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9588611125946045,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Palantir short sellers sustain $3B loss following stock's 30% rally (PLTR:NASDAQ) - Seeking Alpha",
+            "sentiment": "NEGATIVE",
+            "score": 0.9683167934417725,
+            "signal": "BEARISH",
+            "tickers": [
+                "PLTR"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "PLTR",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Banks to offload $15bn of debt for Anthropic data centre backed by Google - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.7034747004508972,
+            "score": 0.9431623816490173,
             "signal": "BULLISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Buc-ee\u2019s sues Ohio mini-mart over beaver logo branding, alleging trademark infringement - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.8939176201820374,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Novo Nordisk Stock Bounces Back After Surprise Earnings Report - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9386035799980164,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amgen drops ph. 1 obesity drug, upping pressure on MariTide - Fierce Biotech",
+            "sentiment": "NEGATIVE",
+            "score": 0.9190589785575867,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Paramount Q2 Profit Dips, With Streaming Boost Offset by TV Declines - Variety",
+            "sentiment": "NEGATIVE",
+            "score": 0.9676820039749146,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "McDonald\u2019s struggles to attract bargain-hungry customers - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9737739562988281,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -123,7 +222,7 @@
         {
             "title": "OpenAI Is Trying to Shame Apple Into Backing Down From Its Lawsuit - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.7096855640411377,
+            "score": 0.7096856832504272,
             "signal": "BEARISH",
             "tickers": [
                 "AAPL"
@@ -157,34 +256,8 @@
         {
             "title": "CAT Stock Lifts Dow Jones With Massive Earnings Beat - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.891944169998169,
+            "score": 0.8919443488121033,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SK hynix, In Collaboration With SanDisk, Unveils The New High Bandwidth Flash (HBF) Standard, Helping To Resolve AI Inference Bottlenecks, Targeting Up To 3TB/s Bandwidth - Wccftech",
-            "sentiment": "POSITIVE",
-            "score": 0.805971622467041,
-            "signal": "BULLISH",
-            "tickers": [
-                "HBF"
-            ],
-            "primary_ticker": "HBF",
-            "ticker_impacts": [
-                {
-                    "ticker": "HBF",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "15 attorneys general have instructed OpenAI to preserve all materials related to the Hugging Face hack - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9239025115966797,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
