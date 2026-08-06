@@ -1,31 +1,80 @@
 {
-    "last_updated": "2026-08-06 00:52:58 UTC",
-    "total_articles": 21,
-    "bullish_articles": 7,
-    "bearish_articles": 14,
+    "last_updated": "2026-08-06 04:30:26 UTC",
+    "total_articles": 16,
+    "bullish_articles": 4,
+    "bearish_articles": 12,
     "articles": [
         {
-            "title": "SpaceX Earnings: Musk Rocket Company's Revenue Rises 92% in Q2 \u2014 Live Analysis - wsj.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9404990077018738,
-            "signal": "BULLISH",
+            "title": "Anthropic and OpenAI models tried to trick humans into poisoning code during safety testing - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9187623262405396,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Buc-ee\u2019s sues Ohio mini-mart over beaver logo branding, alleging trademark infringement - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.8939172625541687,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AMD Sales Outlook Disappoints Investors After AI-Fueled Rally - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.97032231092453,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9396088719367981,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "AMD"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "SpaceX\u2019s revenue rises as its once-soaring stock price drifts back to Earth - NPR",
             "sentiment": "POSITIVE",
-            "score": 0.8195350766181946,
+            "score": 0.8195348381996155,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says - Financial Times",
+            "title": "Wireless Stocks Turn Lower on SpaceX Mobile Plans - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.8717393279075623,
+            "score": 0.9351778626441956,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -41,44 +90,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down - cnbc.com",
-            "sentiment": "POSITIVE",
-            "score": 0.947555661201477,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMD"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Paramount \u201cFully Expects\u201d WBD Merger To Close As It Reports Q2 Streaming Gains, Linear Challenges - Deadline",
+            "title": "Amgen drops ph. 1 obesity drug, upping pressure on MariTide - Fierce Biotech",
             "sentiment": "NEGATIVE",
-            "score": 0.7872105836868286,
+            "score": 0.9190592169761658,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Days after John Oliver's dare, Buc-ee's sues again - USA Today",
+            "title": "Paramount Q2 Profit Dips, With Streaming Boost Offset by TV Declines - Variety",
             "sentiment": "NEGATIVE",
-            "score": 0.9009599089622498,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "High beef prices hitting consumers as meatpacking giant warns of supply struggles - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9712186455726624,
+            "score": 0.9676821231842041,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -94,27 +117,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Pfizer Covid Pill Revenue Plunges 95%. The Stock Is Rising Anyway. - barrons.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9694905281066895,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Multiple passengers receive medical care after 22 flights diverted from Denver - The Hill",
-            "sentiment": "NEGATIVE",
-            "score": 0.9627843499183655,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Palantir stock jumps nearly 30% after 'otherworldly' quarter as US commercial business booms - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.7034739255905151,
+            "score": 0.7034747004508972,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -155,23 +160,6 @@
             ]
         },
         {
-            "title": "U.S. International Trade in Goods and Services, June 2026 - Bureau of Economic Analysis (BEA) (.gov)",
-            "sentiment": "NEGATIVE",
-            "score": 0.9767504334449768,
-            "signal": "BEARISH",
-            "tickers": [
-                "BEA"
-            ],
-            "primary_ticker": "BEA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BEA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Trump says oil majors are \u2018making too much money\u2019 - Semafor",
             "sentiment": "NEGATIVE",
             "score": 0.94539874792099,
@@ -183,7 +171,7 @@
         {
             "title": "CAT Stock Lifts Dow Jones With Massive Earnings Beat - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.8919443488121033,
+            "score": 0.891944169998169,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -192,7 +180,7 @@
         {
             "title": "SK hynix, In Collaboration With SanDisk, Unveils The New High Bandwidth Flash (HBF) Standard, Helping To Resolve AI Inference Bottlenecks, Targeting Up To 3TB/s Bandwidth - Wccftech",
             "sentiment": "POSITIVE",
-            "score": 0.8059722185134888,
+            "score": 0.805971622467041,
             "signal": "BULLISH",
             "tickers": [
                 "HBF"
@@ -205,33 +193,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Merck & Co., Inc., Rahway, N.J., USA Announces Second-Quarter 2026 Financial Results; Highlights Key Regulatory and Clinical Milestones Across Broad, Diverse Pipeline - Merck.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9450574517250061,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil slides as Trump delays Iran strikes, signals peace talks - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9700390696525574,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink - SpaceNews",
-            "sentiment": "NEGATIVE",
-            "score": 0.9561173915863037,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
