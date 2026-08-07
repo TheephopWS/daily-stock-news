@@ -1,9 +1,44 @@
 {
-    "last_updated": "2026-08-07 04:16:23 UTC",
-    "total_articles": 22,
+    "last_updated": "2026-08-07 06:51:27 UTC",
+    "total_articles": 20,
     "bullish_articles": 7,
-    "bearish_articles": 15,
+    "bearish_articles": 13,
     "articles": [
+        {
+            "title": "Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9657883644104004,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "A new type of flu shot is coming after FDA approves mRNA-based vaccine - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8990408182144165,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Disney Reaffirms Double-Digit Earnings Growth, Targets $9 Billion in Buybacks. Here\u2019s What Investors Need to Know. - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.9011639356613159,
+            "signal": "BEARISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Amazon driver caught on video flinging customer\u2019s package onto porch in infuriating delivery blunder - Fox News",
             "sentiment": "NEGATIVE",
@@ -22,22 +57,44 @@
             ]
         },
         {
-            "title": "Salmonella outbreak linked to jalape\u00f1os at Chipotle, Qdoba expands to 27 states - nbcnews.com",
+            "title": "Salmonella linked to jalapenos in 27 states, including California - kron4.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9351706504821777,
+            "score": 0.8789487481117249,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "KRON"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "KRON",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "KFC responds to man who said his popcorn chicken bucket was shorted - USA Today",
+            "title": "Meta AI Model Accessed Internet, Hacked Outside Firm in Testing - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8664424419403076,
+            "score": 0.8877896666526794,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "META",
+                "INTC"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "SpaceX Stock Drops on Ballooning AI Bill - WSJ",
@@ -57,13 +114,21 @@
             ]
         },
         {
-            "title": "Big US hedge funds targeted by wave of cyber attacks - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.932397723197937,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Nvidia Stock Is A Steal Ahead Of Q2 Earnings (NASDAQ:NVDA) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.910971999168396,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Uber\u2019s Ride-Sharing Business Is Booming. Why the Stock Market Couldn\u2019t Care Less. - Barron's",
@@ -83,28 +148,10 @@
             ]
         },
         {
-            "title": "Flutter shares plummet on earnings miss and another key leadership change - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9721988439559937,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mass. sees rise in cyclosporiasis amid US spike - WCVB",
+            "title": "AMD Revenue Rockets 50%: 2 Undervalued Chip Stocks With Long-Term EPS Growth +100% - Seeking Alpha",
             "sentiment": "POSITIVE",
-            "score": 0.8749954104423523,
+            "score": 0.9480220079421997,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9742133021354675,
-            "signal": "BEARISH",
             "tickers": [
                 "AMD"
             ],
@@ -112,25 +159,16 @@
             "ticker_impacts": [
                 {
                     "ticker": "AMD",
-                    "impact": "negative",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Sandisk Just Had Its Worst Month Ever. Earnings Should Prove AI Demand Is Here to Stay. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9754766821861267,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Vault: Clarity talks in overdrive as cloture slips - Punchbowl News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8924047350883484,
-            "signal": "BEARISH",
+            "title": "Mass. sees rise in cyclosporiasis amid US spike - WCVB",
+            "sentiment": "POSITIVE",
+            "score": 0.8749954104423523,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -163,27 +201,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Theme Parks and \u2018Toy Story 5\u2019 Boost Disney Results - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.7839152216911316,
-            "signal": "BULLISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Shopify Soars As Q2 Operating Profit, Revenue Top Expectations - Investor's Business Daily",
             "sentiment": "POSITIVE",
             "score": 0.8679630160331726,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SEC Is 'Ready, Willing And Able' To Replace CLARITY Act If It Fails, Bitwise's Matt Hougan Says - Benzinga",
+            "sentiment": "NEGATIVE",
+            "score": 0.9720273613929749,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -198,24 +228,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Buc-ee\u2019s sues convenience store over beaver logo, alleges trademark infringement - Click2Houston",
-            "sentiment": "NEGATIVE",
-            "score": 0.9218894839286804,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Another big MBTA closure is coming up. Why are there so many this month? - WBUR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9415605664253235,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Mortgage rates hit their highest level in over a year, causing demand to drop below year-ago levels - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.84096360206604,
@@ -225,30 +237,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued - Morningstar",
-            "sentiment": "POSITIVE",
-            "score": 0.8481747508049011,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle - CNBC",
+            "title": "Why police raided Starbucks Korea\u2019s headquarters - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9517377614974976,
+            "score": 0.9562922716140747,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Apple says more ex-employees may have taken confidential data to OpenAI - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9032536745071411,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
