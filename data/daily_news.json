@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-08-07 06:51:27 UTC",
-    "total_articles": 20,
+    "last_updated": "2026-08-07 09:44:32 UTC",
+    "total_articles": 26,
     "bullish_articles": 7,
-    "bearish_articles": 13,
+    "bearish_articles": 19,
     "articles": [
         {
             "title": "Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall - CNBC",
@@ -21,6 +21,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market' - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9479623436927795,
+            "signal": "BEARISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Disney Reaffirms Double-Digit Earnings Growth, Targets $9 Billion in Buybacks. Here\u2019s What Investors Need to Know. - The Motley Fool",
@@ -55,6 +72,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Trump says \u2018we may have to\u2019 send oil prices higher during speech talking up the economy - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7140058279037476,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Salmonella linked to jalapenos in 27 states, including California - kron4.com",
@@ -97,6 +123,15 @@
             ]
         },
         {
+            "title": "Takeda\u2019s narcolepsy drug approved by the FDA, seen as a boon for new class of treatments - STAT",
+            "sentiment": "POSITIVE",
+            "score": 0.8643077611923218,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "SpaceX Stock Drops on Ballooning AI Bill - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.9532777667045593,
@@ -114,21 +149,22 @@
             ]
         },
         {
-            "title": "Nvidia Stock Is A Steal Ahead Of Q2 Earnings (NASDAQ:NVDA) - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.910971999168396,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Dutch Bros. files to buy Salad And Go locations in Arizona, other areas - ABC15 Arizona",
+            "sentiment": "NEGATIVE",
+            "score": 0.8609247803688049,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "As FDA approves new marketing for nicotine pouches, some doctors sound alarms - cbsnews.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8131939768791199,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Uber\u2019s Ride-Sharing Business Is Booming. Why the Stock Market Couldn\u2019t Care Less. - Barron's",
@@ -148,21 +184,31 @@
             ]
         },
         {
-            "title": "AMD Revenue Rockets 50%: 2 Undervalued Chip Stocks With Long-Term EPS Growth +100% - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.9480220079421997,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMD"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "title": "MBTA to suspend parts of Green Line for 9 days. Here's what you need to know - WCVB",
+            "sentiment": "NEGATIVE",
+            "score": 0.8805027008056641,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Major Hedge Funds Targeted in Wave of Attempted Cyberattacks - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7766119241714478,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Flutter shares plummet on earnings miss and another key leadership change - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9721988439559937,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Mass. sees rise in cyclosporiasis amid US spike - WCVB",
@@ -228,6 +274,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Citadel\u2019s flagship fund surges 6% after Situational Awareness swoop - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8046635389328003,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Mortgage rates hit their highest level in over a year, causing demand to drop below year-ago levels - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.84096360206604,
@@ -244,23 +299,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Apple says more ex-employees may have taken confidential data to OpenAI - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9032536745071411,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
