@@ -1,49 +1,155 @@
 {
-    "last_updated": "2026-08-07 12:39:45 UTC",
-    "total_articles": 23,
-    "bullish_articles": 7,
-    "bearish_articles": 16,
+    "last_updated": "2026-08-07 15:41:42 UTC",
+    "total_articles": 32,
+    "bullish_articles": 12,
+    "bearish_articles": 20,
     "articles": [
         {
-            "title": "World shares are mixed and Kospi falls 4.6% after tech giants decline on Wall Street - AP News",
+            "title": "Layoffs fall to the lowest level since the U.S. put men on the moon. Here\u2019s what that says about the economy. - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9693321585655212,
+            "score": 0.9717355370521545,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX float more than doubles as 140%-of-float share unlock begins (SPCX:NASDAQ) - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.9211335778236389,
-            "signal": "BULLISH",
+            "title": "The messy politics behind Google\u2019s big AI shakeup - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.8020665049552917,
+            "signal": "BEARISH",
             "tickers": [
-                "SPCX"
+                "GOOGL"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "SPCX",
-                    "impact": "positive",
-                    "relevance": "medium"
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
         {
-            "title": "A new type of flu shot is coming after FDA approves mRNA-based vaccine - The Washington Post",
+            "title": "S&P 500 futures are little changed, Nasdaq futures drop as traders monitor Iran, Sandisk shares fall: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8990408182144165,
+            "score": 0.9346364736557007,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Quantum Computing Stocks: D-Wave Earnings, Revenue Miss - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9665952920913696,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots - wsj.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9483758211135864,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Warner Bros. Discovery Stumbles In Q2 As \u2018Supergirl,\u2019 Lack Of NBA Drag Down Results - Deadline",
+            "sentiment": "NEGATIVE",
+            "score": 0.9757307767868042,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Versant shares surge 13% after company raises 2026 outlook on platforms, advertising momentum - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9521411061286926,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gold price hits highest level since June on weak payrolls data and Hormuz deal hopes - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8996059894561768,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Kevin Warsh to stick with lean Fed messaging despite market backlash - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.9338889718055725,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Buc-ee's sues small Georgia convenience store over its mascot - wral.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9421948790550232,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "World shares are mixed and Kospi falls 4.6% after tech giants decline on Wall Street - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9637314677238464,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI says Apple\u2019s trade secrets lawsuit is \u2018rotten to its core\u2019 - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.9209167957305908,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Trump administration refunds $100bn in tariffs struck down by Supreme Court - Al Jazeera",
             "sentiment": "NEGATIVE",
             "score": 0.9388905763626099,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "FDA approves Moderna's mRNA flu vaccine after initial pushback - CBS News",
+            "sentiment": "POSITIVE",
+            "score": 0.8573200106620789,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -66,67 +172,45 @@
             ]
         },
         {
-            "title": "Disney Reaffirms Double-Digit Earnings Growth, Targets $9 Billion in Buybacks. Here\u2019s What Investors Need to Know. - The Motley Fool",
+            "title": "Salmonella outbreak linked to jalape\u00f1os hits 27 states. See where - USA Today",
             "sentiment": "NEGATIVE",
-            "score": 0.9011639356613159,
+            "score": 0.961298406124115,
             "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Salmonella linked to jalapenos in 27 states, including California - kron4.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8789487481117249,
-            "signal": "BEARISH",
-            "tickers": [
-                "KRON"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "KRON",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
-            "title": "Meta AI Model Accessed Internet, Hacked Outside Firm in Testing - Bloomberg.com",
+            "title": "Amazon driver caught on video flinging customer\u2019s package onto porch in infuriating delivery blunder - Fox News",
             "sentiment": "NEGATIVE",
-            "score": 0.8877896666526794,
+            "score": 0.8117297291755676,
             "signal": "BEARISH",
             "tickers": [
-                "META",
-                "INTC"
+                "AMZN"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Western Digital Earnings Beat With 44% Sales Growth. But Stock Tumbles Late. - Investor's Business Daily",
+            "title": "Trump says \u2018we may have to\u2019 send oil prices higher during speech talking up the economy - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9737106561660767,
+            "score": 0.7140058279037476,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Lilly\u2019s revenue soars 48%, driven by demand for its GLP-1s - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.954705536365509,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -194,6 +278,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Gold prices push above $4,200 as ADP says 44k jobs created in July - KITCO",
+            "sentiment": "POSITIVE",
+            "score": 0.9114513397216797,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "CVS Stock Slides On 2027 Outlook Despite Hearty Earnings Beat - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.9723016023635864,
@@ -203,19 +296,27 @@
             "ticker_impacts": []
         },
         {
+            "title": "Theme Parks and \u2018Toy Story 5\u2019 Boost Disney Results - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.7839152216911316,
+            "signal": "BULLISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "What's Going on With Palantir Stock on Wednesday? - benzinga.com",
             "sentiment": "POSITIVE",
             "score": 0.9513317346572876,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Private sector added 44,000 jobs in July, below expectations, ADP says - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9695987701416016,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -233,24 +334,6 @@
             "title": "SEC Is 'Ready, Willing And Able' To Replace CLARITY Act If It Fails, Bitwise's Matt Hougan Says - Benzinga",
             "sentiment": "NEGATIVE",
             "score": 0.9720273613929749,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Eli Lilly Posts Higher Revenue on Continued GLP-1 Demand - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9591877460479736,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mortgage rates hit their highest level in over a year, causing demand to drop below year-ago levels - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.84096360206604,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
