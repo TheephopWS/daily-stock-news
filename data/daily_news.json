@@ -1,22 +1,39 @@
 {
-    "last_updated": "2026-08-07 01:34:32 UTC",
+    "last_updated": "2026-08-07 04:16:23 UTC",
     "total_articles": 22,
-    "bullish_articles": 9,
-    "bearish_articles": 13,
+    "bullish_articles": 7,
+    "bearish_articles": 15,
     "articles": [
         {
-            "title": "KFC responds to man who said his popcorn chicken bucket was shorted - Yahoo",
+            "title": "Amazon driver caught on video flinging customer\u2019s package onto porch in infuriating delivery blunder - Fox News",
             "sentiment": "NEGATIVE",
-            "score": 0.8622202277183533,
+            "score": 0.8117297291755676,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Salmonella outbreak linked to jalape\u00f1os at Chipotle, Qdoba expands to 27 states - nbcnews.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9351706504821777,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Older workers say Social Security is their retirement plan. Is that OK? - USA Today",
+            "title": "KFC responds to man who said his popcorn chicken bucket was shorted - USA Today",
             "sentiment": "NEGATIVE",
-            "score": 0.825728178024292,
+            "score": 0.8664424419403076,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -36,32 +53,6 @@
                     "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "SanDisk stock sinks as revenue forecast falls short of expectations - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9643586874008179,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bank of America doubles down on Micron stock price for 2026 - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7493627667427063,
-            "signal": "BEARISH",
-            "tickers": [
-                "BAC"
-            ],
-            "primary_ticker": "BAC",
-            "ticker_impacts": [
-                {
-                    "ticker": "BAC",
-                    "impact": "negative",
-                    "relevance": "high"
                 }
             ]
         },
@@ -101,23 +92,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "AMD Revenue Rockets 50%: 2 Undervalued Chip Stocks With Long-Term EPS Growth +100% - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.9480220079421997,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMD"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Mass. sees rise in cyclosporiasis amid US spike - WCVB",
             "sentiment": "POSITIVE",
             "score": 0.8749954104423523,
@@ -127,10 +101,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tanger CEO says World Cup drove up traffic, sales this summer - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9437554478645325,
-            "signal": "BULLISH",
+            "title": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9742133021354675,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Sandisk Just Had Its Worst Month Ever. Earnings Should Prove AI Demand Is Here to Stay. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9754766821861267,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Vault: Clarity talks in overdrive as cloture slips - Punchbowl News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8924047350883484,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -180,28 +180,10 @@
             ]
         },
         {
-            "title": "What's Going on With Palantir Stock on Wednesday? - Benzinga",
-            "sentiment": "POSITIVE",
-            "score": 0.9526087641716003,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Shopify Soars As Q2 Operating Profit, Revenue Top Expectations - Investor's Business Daily",
             "sentiment": "POSITIVE",
             "score": 0.8679630160331726,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SEC Is 'Ready, Willing And Able' To Replace CLARITY Act If It Fails, Bitwise's Matt Hougan Says - Benzinga",
-            "sentiment": "NEGATIVE",
-            "score": 0.9720273613929749,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -216,6 +198,24 @@
             "ticker_impacts": []
         },
         {
+            "title": "Buc-ee\u2019s sues convenience store over beaver logo, alleges trademark infringement - Click2Houston",
+            "sentiment": "NEGATIVE",
+            "score": 0.9218894839286804,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Another big MBTA closure is coming up. Why are there so many this month? - WBUR",
+            "sentiment": "NEGATIVE",
+            "score": 0.9415605664253235,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Mortgage rates hit their highest level in over a year, causing demand to drop below year-ago levels - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.84096360206604,
@@ -225,18 +225,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "China's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.938514232635498,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued - Morningstar",
+            "sentiment": "POSITIVE",
+            "score": 0.8481747508049011,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "McDonald's says US sales slowed after value deal push fell short - Fox Business",
+            "title": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9738078713417053,
+            "score": 0.9517377614974976,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
