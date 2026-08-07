@@ -1,22 +1,48 @@
 {
-    "last_updated": "2026-08-07 09:44:32 UTC",
-    "total_articles": 26,
+    "last_updated": "2026-08-07 12:39:45 UTC",
+    "total_articles": 23,
     "bullish_articles": 7,
-    "bearish_articles": 19,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall - CNBC",
+            "title": "World shares are mixed and Kospi falls 4.6% after tech giants decline on Wall Street - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9657883644104004,
+            "score": 0.9693321585655212,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "SpaceX float more than doubles as 140%-of-float share unlock begins (SPCX:NASDAQ) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.9211335778236389,
+            "signal": "BULLISH",
+            "tickers": [
+                "SPCX"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "SPCX",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "A new type of flu shot is coming after FDA approves mRNA-based vaccine - The Washington Post",
             "sentiment": "NEGATIVE",
             "score": 0.8990408182144165,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump administration refunds $100bn in tariffs struck down by Supreme Court - Al Jazeera",
+            "sentiment": "NEGATIVE",
+            "score": 0.9388905763626099,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -55,32 +81,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Amazon driver caught on video flinging customer\u2019s package onto porch in infuriating delivery blunder - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8117297291755676,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Trump says \u2018we may have to\u2019 send oil prices higher during speech talking up the economy - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7140058279037476,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Salmonella linked to jalapenos in 27 states, including California - kron4.com",
@@ -123,6 +123,15 @@
             ]
         },
         {
+            "title": "Western Digital Earnings Beat With 44% Sales Growth. But Stock Tumbles Late. - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9737106561660767,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Takeda\u2019s narcolepsy drug approved by the FDA, seen as a boon for new class of treatments - STAT",
             "sentiment": "POSITIVE",
             "score": 0.8643077611923218,
@@ -130,23 +139,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX Stock Drops on Ballooning AI Bill - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9532777667045593,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Dutch Bros. files to buy Salad And Go locations in Arizona, other areas - ABC15 Arizona",
@@ -193,24 +185,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Major Hedge Funds Targeted in Wave of Attempted Cyberattacks - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7766119241714478,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Flutter shares plummet on earnings miss and another key leadership change - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9721988439559937,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Mass. sees rise in cyclosporiasis amid US spike - WCVB",
             "sentiment": "POSITIVE",
             "score": 0.8749954104423523,
@@ -220,27 +194,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Gold prices push above $4,200 as ADP says 44k jobs created in July - KITCO",
-            "sentiment": "POSITIVE",
-            "score": 0.9114513397216797,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Some patients to score new super-effective 'Triple G' weight loss drug \u2014 before FDA approval - New York Post",
-            "sentiment": "POSITIVE",
-            "score": 0.9349412322044373,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "CVS Stock Slides On 2027 Outlook Despite Hearty Earnings Beat - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.9723016023635864,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "What's Going on With Palantir Stock on Wednesday? - benzinga.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9513317346572876,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Private sector added 44,000 jobs in July, below expectations, ADP says - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9695987701416016,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -274,15 +248,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Citadel\u2019s flagship fund surges 6% after Situational Awareness swoop - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8046635389328003,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Mortgage rates hit their highest level in over a year, causing demand to drop below year-ago levels - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.84096360206604,
@@ -292,13 +257,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why police raided Starbucks Korea\u2019s headquarters - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9562922716140747,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Disney Streaming Profit Doubles in June Quarter, Company Shifting Consumer Products to Studios Division - Variety",
+            "sentiment": "POSITIVE",
+            "score": 0.9265782237052917,
+            "signal": "BULLISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
