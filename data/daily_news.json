@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-08-09 06:39:23 UTC",
-    "total_articles": 24,
-    "bullish_articles": 7,
+    "last_updated": "2026-08-09 09:37:44 UTC",
+    "total_articles": 29,
+    "bullish_articles": 12,
     "bearish_articles": 17,
     "articles": [
+        {
+            "title": "Trump renews effort to fire Fed governor Lisa Cook after Supreme Court ruling - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8977649807929993,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Health department investigating after seeing more than 5x increase in cyclosporiasis cases in McHenry County - Lake and McHenry County Scanner",
             "sentiment": "NEGATIVE",
@@ -25,7 +34,7 @@
         {
             "title": "Markets Rally on Surprise U.S. Job Losses, Airbnb Soars and Trade Desk Tanks | Markets P.M. for Aug. 7 - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8372216820716858,
+            "score": 0.8372223377227783,
             "signal": "BEARISH",
             "tickers": [
                 "ABNB"
@@ -40,86 +49,6 @@
             ]
         },
         {
-            "title": "Meta ordered to pay $567M by New Mexico court over child mental health harm - ABC News - Breaking News, Latest News and Videos",
-            "sentiment": "NEGATIVE",
-            "score": 0.8558032512664795,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Replimune Wins FDA Skin Cancer Drug Approval on Third Try. Why the Stock Is Tumbling. - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.8540040254592896,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Fed Split on Rate Hikes Deepens as Five Years of High Inflation Tests Patience - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.8462080955505371,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Burger King overtakes Wendy's as the nation's second-largest burger chain - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7445791363716125,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9615861177444458,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Freedom Fuel, praised by Trump, sells cheap gasoline. But how? - The Washington Post",
-            "sentiment": "POSITIVE",
-            "score": 0.8265702128410339,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Sweetgreen falls 8% as latest victim of cyclospora fears, removes jalape\u00f1os over second outbreak - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9761770963668823,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Minnesota lettuce grower may lay off dozens, close greenhouse this fall - Bring Me The News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9653270244598389,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "SpaceX's big week: Stock jumps despite earnings storm, lock-up expiration in crucial test for investors - Yahoo Finance",
             "sentiment": "POSITIVE",
             "score": 0.9309315085411072,
@@ -129,27 +58,61 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump administration has spent nearly $4B to cancel offshore wind farms - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.8549284338951111,
-            "signal": "BEARISH",
+            "title": "Replimune Wins FDA Skin Cancer Drug Approval on Third Try. Why the Stock Is Tumbling. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.8540031909942627,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Trade Desk Stock Tumbles as Things Go From Bad to Worse. Here Come the Downgrades. - barrons.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9730306267738342,
-            "signal": "BEARISH",
+            "title": "Burger King overtakes Wendy's as the nation's second-largest burger chain - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.74457848072052,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Palantir Stock Soars -- Bank of America Sees Massive Upside - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9174588322639465,
+            "signal": "BULLISH",
+            "tickers": [
+                "BAC"
+            ],
+            "primary_ticker": "BAC",
+            "ticker_impacts": [
+                {
+                    "ticker": "BAC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Japan\u2019s yen intervention and unusual US support - OMFIF",
+            "sentiment": "NEGATIVE",
+            "score": 0.7757307291030884,
+            "signal": "BEARISH",
+            "tickers": [
+                "X"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "X",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Airbnb says AI is helping it ship features faster as it tests a new search function - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.721119225025177,
+            "score": 0.7211182713508606,
             "signal": "BULLISH",
             "tickers": [
                 "ABNB"
@@ -166,7 +129,52 @@
         {
             "title": "Doximity Stock Soars 55% After Earnings Miss. Its AI Can Beat Anthropic. - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9311577081680298,
+            "score": 0.9311575293540955,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Man Tows His Neighbor\u2019s Car From His Driveway, Now the Neighborhood Is Mad at Him - Yahoo",
+            "sentiment": "NEGATIVE",
+            "score": 0.9292673468589783,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Retail gas stations touted by Trump racked up penalties in New Jersey - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.952199399471283,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trade Desk Plunges 28% After Earnings Miss Triggers Downgrade Avalanche; Ad-Tech Peers AppLovin and Magnite Hold Firm - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9645416140556335,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility' - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9509470462799072,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "In AI-obsessed Silicon Valley, live commerce platform Whatnot just notched a new funding round valuing it at $20 billion - Fortune",
+            "sentiment": "POSITIVE",
+            "score": 0.8861454129219055,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -184,7 +192,7 @@
         {
             "title": "Tish James, Kathy Hochul's pursuit of Kalshi raises questions about why they're ignoring Polymarket - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.87444669008255,
+            "score": 0.8744465112686157,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -200,10 +208,48 @@
             "ticker_impacts": []
         },
         {
-            "title": "Illinois Lawmaker Presses for Consumer Paybacks As Trump Administration Hits $100B in Tariff Refunds - WWD",
-            "sentiment": "NEGATIVE",
-            "score": 0.7629565000534058,
-            "signal": "BEARISH",
+            "title": "Amazon CEO Andy Jassy Just Gave Investors 220 Billion Reasons to Buy Micron Stock - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9453144669532776,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN",
+                "INTC",
+                "AI"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AI",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Volkswagen controlling families call for faster overhaul to fend off Chinese rivals - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9256073236465454,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Atlassian shakes off \u2018SaaSpocalypse\u2019 as chief vows to spend $250mn buying shares - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8796948194503784,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -220,8 +266,26 @@
         {
             "title": "Port Washington's data center power line construction dealt a major blow - wisn.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9584096670150757,
+            "score": 0.9584097862243652,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Illinois Lawmaker Presses for Consumer Paybacks As Trump Administration Hits $100B in Tariff Refunds - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.7664569020271301,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Race to Come Up With the Next Big Sleep Drug - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8526646494865417,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -230,6 +294,15 @@
             "title": "US customs officers in Indianapolis seize counterfeit watches from Hong Kong - Fox 59",
             "sentiment": "NEGATIVE",
             "score": 0.9207471013069153,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "LAX workers make absolutely disgusting discovery inside airline food catering company - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9110420942306519,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
