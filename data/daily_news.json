@@ -1,9 +1,81 @@
 {
-    "last_updated": "2026-08-09 12:38:09 UTC",
-    "total_articles": 24,
-    "bullish_articles": 8,
-    "bearish_articles": 16,
+    "last_updated": "2026-08-09 15:36:56 UTC",
+    "total_articles": 27,
+    "bullish_articles": 9,
+    "bearish_articles": 18,
     "articles": [
+        {
+            "title": "Unemployment improved, because thousands of workers disappeared. Where did they go? - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9666329622268677,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018Unsafe condition\u2019: Flight canceled after unruly toddler stood on seat, refused to fasten seatbelt - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9181032180786133,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9160104990005493,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Cyclospora fears lead consumers to lose their appetite for salads - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9726150035858154,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The AI boom is creating jobs far from Silicon Valley: Chart of the Day - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9581267833709717,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "McDonald\u2019s says it alienated its most loyal customers - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9603292942047119,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "One Whopper of a win: Burger King takes market share from McDonald's (QSR:NYSE) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.946550190448761,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Landmark crypto bill stalls in US Senate despite $225mn spending push - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9269453287124634,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "The Memo: Weak jobs report clouds economy as Trump barrels toward midterms - The Hill",
             "sentiment": "NEGATIVE",
@@ -14,9 +86,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump renews effort to fire Fed governor Lisa Cook after Supreme Court ruling - The Washington Post",
+            "title": "Two men accused of posing as federal agents arrested after allegedly targeting 85-year-old in $200K gold scam - Fox News",
             "sentiment": "NEGATIVE",
-            "score": 0.8977649807929993,
+            "score": 0.8226227164268494,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Police investigate shots fired outside Ruth\u2019s Chris in Pikesville - WBAL-TV",
+            "sentiment": "NEGATIVE",
+            "score": 0.9139703512191772,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -41,22 +122,64 @@
             "ticker_impacts": []
         },
         {
-            "title": "Crypto faces a setback in the Senate - Politico",
+            "title": "Buc-ee's releases statement amid federal trademark infringement lawsuit with Beaver's Mini Mart - 10tv.com",
             "sentiment": "NEGATIVE",
-            "score": 0.96555495262146,
+            "score": 0.7919851541519165,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX's big week: Stock jumps despite earnings storm, lock-up expiration in crucial test for investors - Yahoo Finance",
+            "title": "Two reasons why Nvidia\u2019s stock saw its biggest weekly surge in more than a year - MarketWatch",
             "sentiment": "POSITIVE",
-            "score": 0.9309315085411072,
+            "score": 0.9491544365882874,
             "signal": "BULLISH",
-            "tickers": [],
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "21 Jefferson County restaurants fail July health inspections - WBRC 6 News",
+            "sentiment": "NEGATIVE",
+            "score": 0.969412088394165,
+            "signal": "BEARISH",
+            "tickers": [
+                "JCDH"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "JCDH",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "AMD Stock tumbles because of SpaceX - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.958702027797699,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Replimune Wins FDA Skin Cancer Drug Approval on Third Try. Why the Stock Is Tumbling. - Barron's",
@@ -68,54 +191,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "Burger King overtakes Wendy's as the nation's second-largest burger chain - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.74457848072052,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "\u2018Many flies,\u2019 mold in ice bin among violations as 8 Jefferson County restaurants fall below satisfactory compliance standards - WBRC 6 News",
+            "title": "Why The Trade Desk Stock Plunged to a New 7-Year Low Today - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.9716160893440247,
+            "score": 0.932948887348175,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Wendy's new CEO laments the brand's 'quality degradation' - Restaurant Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.8962491750717163,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Japan\u2019s yen intervention and unusual US support - OMFIF",
-            "sentiment": "NEGATIVE",
-            "score": 0.7757307291030884,
-            "signal": "BEARISH",
-            "tickers": [
-                "X"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "X",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Trump administration has spent nearly $4B to cancel offshore wind farms - TechCrunch",
             "sentiment": "NEGATIVE",
             "score": 0.8549279570579529,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "How SpaceX\u2019s most-feared trading day turned into a 6% rally - Fortune",
+            "sentiment": "POSITIVE",
+            "score": 0.7771908044815063,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -138,15 +235,6 @@
             ]
         },
         {
-            "title": "Retail gas stations touted by Trump racked up penalties in New Jersey - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.952199399471283,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility' - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9509470462799072,
@@ -156,9 +244,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "China is gaining ground in AI. But the U.S. still has a major advantage - CNBC",
+            "title": "In AI-obsessed Silicon Valley, live commerce platform Whatnot just notched a new funding round valuing it at $20 billion - Fortune",
             "sentiment": "POSITIVE",
-            "score": 0.9350087642669678,
+            "score": 0.8861454129219055,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -174,36 +262,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "China\u2019s exports slow slightly in July despite robust demand for high-tech products - AP News",
+            "title": "Goldman Skeptical of Dollar-Dominance Threats After Yen Support - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9673607349395752,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Volkswagen controlling families call for faster overhaul to fend off Chinese rivals - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9256073236465454,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Starlink mobile threat has been exaggerated, says T-Mobile CEO - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8262497782707214,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Port Washington's data center power line construction dealt a major blow - wisn.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9584097862243652,
+            "score": 0.7151734232902527,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -214,24 +275,6 @@
             "sentiment": "POSITIVE",
             "score": 0.8526646494865417,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US customs officers in Indianapolis seize counterfeit watches from Hong Kong - Fox 59",
-            "sentiment": "NEGATIVE",
-            "score": 0.9207471013069153,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "LAX workers make absolutely disgusting discovery inside airline food catering company - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9110420942306519,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
