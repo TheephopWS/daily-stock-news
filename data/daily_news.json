@@ -1,13 +1,40 @@
 {
-    "last_updated": "2026-08-10 00:40:28 UTC",
-    "total_articles": 32,
-    "bullish_articles": 9,
+    "last_updated": "2026-08-10 04:05:09 UTC",
+    "total_articles": 29,
+    "bullish_articles": 6,
     "bearish_articles": 23,
     "articles": [
         {
-            "title": "Verizon suffers outage in 'some parts of the US' with thousands of reports - Fox Business",
+            "title": "Verizon mobile service down for thousands of customers in the U.S., Downdetector shows - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9597381949424744,
+            "score": 0.9505704045295715,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Consumer alert: Hannaford recalls deli and produce items over salmonella risk - WMTW",
+            "sentiment": "NEGATIVE",
+            "score": 0.9606967568397522,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Flight canceled after toddler refused to buckle seat belt, stranding passengers overnight - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9523159265518188,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Delta passengers evacuated by slide after emergency landing in Atlanta - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9384835362434387,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,7 +43,7 @@
         {
             "title": "Powerball grows to $856 million, largest drawing of the year - CBS News",
             "sentiment": "POSITIVE",
-            "score": 0.7889988422393799,
+            "score": 0.7889986038208008,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,16 +52,7 @@
         {
             "title": "Two drivers of Mercedes AMG cars file class action lawsuit over an alleged burn hazard in its logo - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.921732485294342,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Vegas-bound British Airways flight grounded by raging, swearing passenger - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9319710731506348,
+            "score": 0.9217323660850525,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -43,7 +61,7 @@
         {
             "title": "Berkshire Operating Earnings Rise 16% in Second Quarter. Buybacks Hit $4.5 Billion. - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9298869967460632,
+            "score": 0.9298871755599976,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -61,7 +79,7 @@
         {
             "title": "Buc-ee\u2019s dodges John Oliver to sue another small business - The Verge",
             "sentiment": "NEGATIVE",
-            "score": 0.7117887139320374,
+            "score": 0.7117893695831299,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -77,6 +95,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Private Credit Squeezed By Bank Refinancings: Credit Weekly - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8966735601425171,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Unemployment improved, because thousands of workers disappeared. Where did they go? - The Washington Post",
             "sentiment": "NEGATIVE",
             "score": 0.9666329622268677,
@@ -86,13 +113,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Emergency return: 200 passengers evacuate Delta flight in Atlanta - FOX 5 Atlanta",
+            "title": "Cruise ship helps stranded skiff and crew in Southeast Alaska as Zuckerberg yacht stands by - Alaska Beacon",
             "sentiment": "NEGATIVE",
-            "score": 0.9568546414375305,
+            "score": 0.7908267974853516,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "META"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Publix struggles to reverse concerning customer behavior - thestreet.com",
@@ -104,51 +139,24 @@
             "ticker_impacts": []
         },
         {
-            "title": "Cyclospora fears lead consumers to lose their appetite for salads - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9726150035858154,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AI is changing work faster than the data can keep up - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9368438720703125,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Canadian Flight Cancelled After Child Stands On Seat, Refuses Seatbelt - NDTV",
-            "sentiment": "NEGATIVE",
-            "score": 0.9585825800895691,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "NYC declares war on fast e-bikes, sends cease-and-desist letters to Amazon and Walmart - Electrek",
             "sentiment": "NEGATIVE",
-            "score": 0.7115296125411987,
+            "score": 0.7115299701690674,
             "signal": "BEARISH",
             "tickers": [
-                "WMT",
                 "AMZN",
+                "WMT",
                 "AMD"
             ],
-            "primary_ticker": "WMT",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "WMT",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "WMT",
                     "impact": "negative",
                     "relevance": "high"
                 },
@@ -162,7 +170,7 @@
         {
             "title": "Two men accused of posing as federal agents arrested after allegedly targeting 85-year-old in $200K gold scam - Fox News",
             "sentiment": "NEGATIVE",
-            "score": 0.8226231336593628,
+            "score": 0.8226227164268494,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -171,7 +179,7 @@
         {
             "title": "DuPont and 3M agree to $2.5B settlement with N.J. over \u2018forever chemicals\u2019 - NJ.com",
             "sentiment": "POSITIVE",
-            "score": 0.8182228207588196,
+            "score": 0.8182225823402405,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -180,7 +188,7 @@
         {
             "title": "California Announces $3,500 Instant Rebate for New EV Purchases, Available Now - kqed.org",
             "sentiment": "POSITIVE",
-            "score": 0.7387557625770569,
+            "score": 0.7387544512748718,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -204,32 +212,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Markets Rally on Surprise U.S. Job Losses, Airbnb Soars and Trade Desk Tanks | Markets P.M. for Aug. 7 - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8372216820716858,
-            "signal": "BEARISH",
-            "tickers": [
-                "ABNB"
-            ],
-            "primary_ticker": "ABNB",
-            "ticker_impacts": [
-                {
-                    "ticker": "ABNB",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Replimune Wins FDA Skin Cancer Drug Approval on Third Try. Why the Stock Is Tumbling. - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.8540040254592896,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Trade Desk Stock Tumbles as Things Go From Bad to Worse. Here Come the Downgrades. - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.9724542498588562,
@@ -239,26 +221,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Palantir Stock Soars -- Bank of America Sees Massive Upside - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9174588322639465,
-            "signal": "BULLISH",
-            "tickers": [
-                "BAC"
-            ],
-            "primary_ticker": "BAC",
-            "ticker_impacts": [
-                {
-                    "ticker": "BAC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Wendy's new CEO laments the brand's 'quality degradation' - Restaurant Business",
             "sentiment": "NEGATIVE",
-            "score": 0.896248459815979,
+            "score": 0.8962491750717163,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -274,18 +239,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "How SpaceX\u2019s most-feared trading day turned into a 6% rally - Fortune",
-            "sentiment": "POSITIVE",
-            "score": 0.7771918773651123,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "The YouTuber Who Exposed the LAX People Mover Fiasco - The Hollywood Reporter",
+            "sentiment": "NEGATIVE",
+            "score": 0.7634521126747131,
+            "signal": "BEARISH",
+            "tickers": [
+                "UBER"
+            ],
+            "primary_ticker": "UBER",
+            "ticker_impacts": [
+                {
+                    "ticker": "UBER",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Airbnb says AI is helping it ship features faster as it tests a new search function - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.721119225025177,
+            "score": 0.7211182713508606,
             "signal": "BULLISH",
             "tickers": [
                 "ABNB"
@@ -302,7 +275,7 @@
         {
             "title": "Homes are selling below asking in 38 of the 50 biggest U.S. cities\u2014if you can afford one - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9452840685844421,
+            "score": 0.9452841877937317,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -329,7 +302,7 @@
         {
             "title": "Tish James, Kathy Hochul's pursuit of Kalshi raises questions about why they're ignoring Polymarket - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.87444669008255,
+            "score": 0.8744465112686157,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -338,7 +311,7 @@
         {
             "title": "Goldman Skeptical of Dollar-Dominance Threats After Yen Support - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7151740789413452,
+            "score": 0.7151734232902527,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
