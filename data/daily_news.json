@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-08-10 15:43:45 UTC",
-    "total_articles": 21,
+    "last_updated": "2026-08-10 18:39:59 UTC",
+    "total_articles": 20,
     "bullish_articles": 4,
-    "bearish_articles": 17,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "Verizon outage resolved after customers report service issues Saturday - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.928748607635498,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "America's energy future? Gates, Buffett and a Wyoming town go nuclear - USA Today",
             "sentiment": "NEGATIVE",
@@ -32,19 +41,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Apple Tests Chinese Memory Chips as Supply Squeeze Bites - wsj.com",
+            "title": "Boeing\u2019s Win Lasted Exactly Two Days - Live and Let's Fly",
             "sentiment": "NEGATIVE",
-            "score": 0.8287439942359924,
+            "score": 0.9383541345596313,
             "signal": "BEARISH",
             "tickers": [
-                "AAPL"
+                "BA"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": "BA",
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
+                    "ticker": "BA",
                     "impact": "negative",
                     "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Jeff Bezos Harshly Criticized for $200 Million Pledge to Protect the World\u2019s Most Endangered Species - Yahoo",
+            "sentiment": "NEGATIVE",
+            "score": 0.922239363193512,
+            "signal": "BEARISH",
+            "tickers": [
+                "UBER"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "UBER",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -103,15 +129,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Reports: Verizon, other major networks experiencing service disruptions - WWBT",
-            "sentiment": "NEGATIVE",
-            "score": 0.9700883626937866,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Two drivers of Mercedes AMG cars file class action lawsuit over an alleged burn hazard in its logo - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.921732485294342,
@@ -146,23 +163,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Cruise ship helps stranded skiff and crew in Southeast Alaska as Zuckerberg yacht stands by - Alaska Beacon",
-            "sentiment": "NEGATIVE",
-            "score": 0.7908269762992859,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Cyclospora fears lead consumers to lose their appetite for salads - CNBC",
@@ -201,15 +201,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "An Inflation Quadruple Whammy, Headlined by Trumpflation, Threatens to Crush the Stock Market - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.881786584854126,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "California Announces $3,500 Instant Rebate for New EV Purchases, Available Now - kqed.org",
