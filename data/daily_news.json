@@ -1,14 +1,23 @@
 {
-    "last_updated": "2026-08-10 09:54:46 UTC",
+    "last_updated": "2026-08-10 12:40:08 UTC",
     "total_articles": 26,
-    "bullish_articles": 3,
-    "bearish_articles": 23,
+    "bullish_articles": 2,
+    "bearish_articles": 24,
     "articles": [
         {
-            "title": "Investors return to European stocks as strong earnings lift Iran war gloom - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9538364410400391,
-            "signal": "BULLISH",
+            "title": "Some meat products containing jalape\u00f1os may be linked to salmonella outbreak, USDA says - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9217600226402283,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China\u2019s monthly inflation cools as impact from Iran war eases - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9502794742584229,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -25,7 +34,7 @@
         {
             "title": "Verizon mobile service down for thousands of customers in the U.S., Downdetector shows - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9505704045295715,
+            "score": 0.950570285320282,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -43,7 +52,7 @@
         {
             "title": "Warren Buffett's successor is finally spending the huge cash pile he built at Berkshire Hathaway - businessinsider.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9580495357513428,
+            "score": 0.9580496549606323,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -52,7 +61,7 @@
         {
             "title": "Delta passengers evacuated by slide after emergency landing in Atlanta - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9384835362434387,
+            "score": 0.9384834170341492,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -61,7 +70,7 @@
         {
             "title": "Powerball grows to $856 million, largest drawing of the year - CBS News",
             "sentiment": "POSITIVE",
-            "score": 0.7889986038208008,
+            "score": 0.7889988422393799,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -70,7 +79,7 @@
         {
             "title": "Could the struggles of United Wholesale Mortgage impact the Phoenix Suns? - brightsideofthesun.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7123802900314331,
+            "score": 0.7123799324035645,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -79,7 +88,7 @@
         {
             "title": "Two drivers of Mercedes AMG cars file class action lawsuit over an alleged burn hazard in its logo - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9217323660850525,
+            "score": 0.921732485294342,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -115,7 +124,7 @@
         {
             "title": "Buc-ee\u2019s dodges John Oliver to sue another small business - The Verge",
             "sentiment": "NEGATIVE",
-            "score": 0.7117893695831299,
+            "score": 0.7117887139320374,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -129,6 +138,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Cruise ship helps stranded skiff and crew in Southeast Alaska as Zuckerberg yacht stands by - Juneau Independent",
+            "sentiment": "NEGATIVE",
+            "score": 0.9599646329879761,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Unemployment improved, because thousands of workers disappeared. Where did they go? - The Washington Post",
@@ -151,22 +177,22 @@
         {
             "title": "NYC declares war on fast e-bikes, sends cease-and-desist letters to Amazon and Walmart - Electrek",
             "sentiment": "NEGATIVE",
-            "score": 0.7115299701690674,
+            "score": 0.7115296125411987,
             "signal": "BEARISH",
             "tickers": [
-                "WMT",
                 "AMZN",
+                "WMT",
                 "AMD"
             ],
-            "primary_ticker": "WMT",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "WMT",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "WMT",
                     "impact": "negative",
                     "relevance": "high"
                 },
@@ -180,7 +206,7 @@
         {
             "title": "California Announces $3,500 Instant Rebate for New EV Purchases, Available Now - kqed.org",
             "sentiment": "POSITIVE",
-            "score": 0.7387544512748718,
+            "score": 0.7387557625770569,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -204,18 +230,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump crypto news: DJT scraps Crypto.com deals citing market condition, CRO token falls 5% - CoinDesk",
-            "sentiment": "NEGATIVE",
-            "score": 0.9599581956863403,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Markets Rally on Surprise U.S. Job Losses, Airbnb Soars and Trade Desk Tanks | Markets P.M. for Aug. 7 - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8372223377227783,
+            "score": 0.8372216820716858,
             "signal": "BEARISH",
             "tickers": [
                 "ABNB"
@@ -230,27 +247,18 @@
             ]
         },
         {
-            "title": "Fed Split on Rate Hikes Deepens as Five Years of High Inflation Tests Patience - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8147903680801392,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trade Desk Stock Tumbles as Things Go From Bad to Worse. Here Come the Downgrades. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9724542498588562,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Maggots and cockroaches seen at airline catering facility, staff say - CNN",
             "sentiment": "NEGATIVE",
             "score": 0.953787088394165,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Homes are selling below asking in 38 of the 50 biggest U.S. cities\u2014if you can afford one - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9452840685844421,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -268,7 +276,7 @@
         {
             "title": "Tish James, Kathy Hochul's pursuit of Kalshi raises questions about why they're ignoring Polymarket - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8744465112686157,
+            "score": 0.87444669008255,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
