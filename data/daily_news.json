@@ -1,9 +1,36 @@
 {
-    "last_updated": "2026-08-11 00:40:53 UTC",
-    "total_articles": 24,
+    "last_updated": "2026-08-11 03:57:38 UTC",
+    "total_articles": 23,
     "bullish_articles": 4,
-    "bearish_articles": 20,
+    "bearish_articles": 19,
     "articles": [
+        {
+            "title": "No credible threat found after Alaska Airlines flight reports \"customer disturbance,\" threats at Miami International Airport - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9182165861129761,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Vandalized fiber lines cause Verizon service outage for thousands of Southern California customers - ABC7 Los Angeles",
+            "sentiment": "NEGATIVE",
+            "score": 0.9684568643569946,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Police Activity in NE Albuquerque as Man Fires Gun at Delivery Driver - ABQ RAW",
+            "sentiment": "NEGATIVE",
+            "score": 0.8999044895172119,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Porter Airliines flight in Canada canceled after child refuses to sit down and buckle up - AP News",
             "sentiment": "NEGATIVE",
@@ -32,19 +59,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "China Unleashes $28 Trillion Capital Markets to Challenge US in AI - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8542736172676086,
-            "signal": "BULLISH",
+            "title": "A fresh look at who's gaining, losing ground in New York City's economy - gothamist.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7287769317626953,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Fiber line vandalism causes Verizon outages across Southern California - KTLA",
-            "sentiment": "NEGATIVE",
-            "score": 0.9587778449058533,
-            "signal": "BEARISH",
+            "title": "China Unleashes $28 Trillion Capital Markets to Challenge US in AI - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8542736172676086,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -77,13 +104,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "99X guts its on-air staff as Cumulus Media makes massive cuts nationwide - AJC.com",
+            "title": "Data Center Bans Top 500 as New York, Texas Join Pushback - theinformation.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9716402888298035,
+            "score": 0.873083233833313,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "GOOGL"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "America's energy future? Gates, Buffett and a Wyoming town go nuclear - USA Today",
@@ -113,36 +148,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Boeing\u2019s Win Lasted Exactly Two Days - Live and Let's Fly",
+            "title": "Apple Tests Chinese Memory Chips as Supply Squeeze Bites - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9383541345596313,
+            "score": 0.8459050059318542,
             "signal": "BEARISH",
             "tickers": [
-                "BA"
+                "AAPL"
             ],
-            "primary_ticker": "BA",
+            "primary_ticker": "AAPL",
             "ticker_impacts": [
                 {
-                    "ticker": "BA",
+                    "ticker": "AAPL",
                     "impact": "negative",
                     "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Jeff Bezos Harshly Criticized for $200 Million Pledge to Protect the World\u2019s Most Endangered Species - Yahoo",
-            "sentiment": "NEGATIVE",
-            "score": 0.9222392439842224,
-            "signal": "BEARISH",
-            "tickers": [
-                "UBER"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "UBER",
-                    "impact": "negative",
-                    "relevance": "medium"
                 }
             ]
         },
@@ -160,15 +178,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9538364410400391,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Some meat products containing jalape\u00f1os may be linked to salmonella outbreak, USDA says - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9217599034309387,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -209,27 +218,9 @@
             ]
         },
         {
-            "title": "U.S. Postal Service reports $2.5 billion quarterly loss - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9673969745635986,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Buc-ee\u2019s dodges John Oliver to sue another small business - The Verge",
             "sentiment": "NEGATIVE",
             "score": 0.7117893695831299,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Cyclospora fears lead consumers to lose their appetite for salads - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9726150035858154,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
