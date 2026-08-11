@@ -1,23 +1,178 @@
 {
-    "last_updated": "2026-08-11 18:41:38 UTC",
-    "total_articles": 33,
-    "bullish_articles": 10,
-    "bearish_articles": 23,
+    "last_updated": "2026-08-11 21:38:44 UTC",
+    "total_articles": 37,
+    "bullish_articles": 12,
+    "bearish_articles": 25,
     "articles": [
         {
-            "title": "US emergency oil reserve falls below 300M barrels for first time since 1980s - The Hill",
+            "title": "Alaska Airlines flight deplanes after reported threats from passengers - USA Today",
             "sentiment": "NEGATIVE",
-            "score": 0.94559246301651,
+            "score": 0.9390349984169006,
             "signal": "BEARISH",
-            "tickers": [
-                "SPR"
-            ],
+            "tickers": [],
             "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US stocks edge down from their record after oil prices climb 5% - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9721660614013672,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Canada flight cancelled after child refuses to wear seat belt - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.917815089225769,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX Rival Rocket Lab Reports Mixed Earnings; AST SpaceMobile Misses - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.962044894695282,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon funds biggest gas power plant in US despite climate pledge - Ars Technica",
+            "sentiment": "POSITIVE",
+            "score": 0.7705836892127991,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "SPR",
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Taylor Farms recalls foods made with jalape\u00f1os over salmonella concerns - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9061346054077148,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Hers Health, Inc. Reports Second Quarter 2026 Financial Results - HIMS investor relations",
+            "sentiment": "POSITIVE",
+            "score": 0.9494123458862305,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why Sionna Therapeutics Stock Is Crashing 91% to a Record Low - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9028598666191101,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tesla exhausts its California MyFirstEV rebate allocation in 5 days - Electrek",
+            "sentiment": "NEGATIVE",
+            "score": 0.910305380821228,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
                     "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7598598599433899,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "INTC"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
                     "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Oil in US Strategic Petroleum Reserve falls to lowest level since 1983 - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9746924638748169,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Archer Aviation Is Buying Boeing\u2019s Flying-Taxi Enterprise and the Stock Is Soaring - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9218581914901733,
+            "signal": "BULLISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Zuckerberg\u2019s yacht crew did not hear call for help, says spokesperson - Al Jazeera",
+            "sentiment": "NEGATIVE",
+            "score": 0.8485822677612305,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Larry Ellison Overtakes Jensen Huang As 7th-Wealthiest Person In The World As Nvidia Shares Fall - Forbes",
+            "sentiment": "POSITIVE",
+            "score": 0.9172540307044983,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
                 }
             ]
         },
@@ -31,60 +186,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "Powerball jackpot soars to $905M, eighth-largest in game's history - Fox Business",
+            "title": "Berkshire Is Finally Deploying Its Cash Hoard Under New CEO Greg Abel - Investopedia",
             "sentiment": "POSITIVE",
-            "score": 0.9156822562217712,
+            "score": 0.7777830958366394,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Taylor Farms recalls jalape\u00f1o products for Salmonella amid Cyclospora outbreak - Ars Technica",
+            "title": "One Key Jobs Metric Grows 'More Concerning' - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.856454610824585,
+            "score": 0.9215171933174133,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.7446829080581665,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA",
-                "GS"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GS",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "This Biotech\u2019s Drug Could Treat Hot Flashes. The Stock Is Up 34% on Good News. - Barron's",
             "sentiment": "POSITIVE",
             "score": 0.945606529712677,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market Today: Major Indexes Are Steady to Start Week as S&P 500 Looks to Add to Record High - Investopedia",
-            "sentiment": "NEGATIVE",
-            "score": 0.963537871837616,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -108,27 +231,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Alaska Airlines flight delayed after alleged passenger threats force crew to lock cockpit - KING5.com",
+            "title": "Retail investors end SpaceX buying spree as stock reclaims IPO price: AlphaCheck - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8921118378639221,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX Stock Jumps Again After Lockup Rally. When\u2019s the Next Release, What to Expect. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9641860723495483,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mark Zuckerberg's yacht didn't hear boat's call for help off Alaska coast, spokesperson says - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8462846875190735,
+            "score": 0.8064491152763367,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -144,10 +249,33 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why Vertex Pharma Popped, As A Key Rival Plummeted 90% - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.7921802401542664,
-            "signal": "BULLISH",
+            "title": "Sen. Bernie Sanders demands CEOs pause AI development \u2018in the interest of humanity\u2019 - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.7847577333450317,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC",
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "US Futures Drop as Focus Turns on Chipmaker Earnings, Inflation - bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9366968274116516,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -189,10 +317,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9289771318435669,
-            "signal": "BEARISH",
+            "title": "Silence Therapeutics aims at Takeda with new data in rare blood cancer - statnews.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9181448817253113,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -203,31 +331,22 @@
             "score": 0.9457964301109314,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL",
-                "NVDA"
+                "NVDA",
+                "GOOGL"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Rare \u00a33.7m Ferrari seized in police crackdown - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9123976826667786,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "JPMorgan Strategists Raise S&P 500 Target as AI Capex Pays Off - Yahoo Finance",
@@ -247,24 +366,6 @@
             ]
         },
         {
-            "title": "John Oliver Doubles Down on Buc-ee\u2019s After Chain Targets Another Beaver - LateNighter",
-            "sentiment": "NEGATIVE",
-            "score": 0.9698151350021362,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Behind the exit of DeepMind\u2019s CEO: low morale, a talent exodus, and model delays - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9614161849021912,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Australian rare earth miner surges after U.S. Department of War investment - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.8591925501823425,
@@ -274,46 +375,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "China Humanoid Makers Hold 97% of Global Shipments, Report Says - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9400266408920288,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "CNBC Daily Open: Washington and Tehran both play it cool \u2014 but markets can't - CNBC",
+            "title": "Bally's casino Chicago news: Bally's alters construction on permanent Chicago casino amid dispute with city over video gambling - ABC7 Chicago",
             "sentiment": "NEGATIVE",
-            "score": 0.9251404404640198,
+            "score": 0.9631755352020264,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Vandalized fiber lines cause Verizon service outage for thousands of Southern California customers - ABC7 Los Angeles",
+            "title": "Verizon service back after outage caused by vandalism - FOX 11 Los Angeles",
             "sentiment": "NEGATIVE",
-            "score": 0.9684568643569946,
+            "score": 0.9670886397361755,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Porter Airlines flight in Canada canceled after child refuses to sit down and buckle up - apnews.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9546829462051392,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Rocket Lab Reports Monday Night. Wall Street Wants $232 Million and 60% Growth. - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.9407288432121277,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -328,21 +402,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Data Center Bans Top 500 as New York, Texas Join Pushback - theinformation.com",
+            "title": "East Los Angeles AutoZone store ransacked again during 2nd street takeover in 24 hours - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
-            "score": 0.873083233833313,
+            "score": 0.9520218372344971,
             "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump - Yahoo Finance",
