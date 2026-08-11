@@ -1,25 +1,93 @@
 {
-    "last_updated": "2026-08-11 15:43:16 UTC",
-    "total_articles": 29,
-    "bullish_articles": 9,
-    "bearish_articles": 20,
+    "last_updated": "2026-08-11 18:41:38 UTC",
+    "total_articles": 33,
+    "bullish_articles": 10,
+    "bearish_articles": 23,
     "articles": [
         {
-            "title": "Taylor Farms recalls jalape\u00f1o products at Walmart and Target over salmonella risk - CBS News",
+            "title": "US emergency oil reserve falls below 300M barrels for first time since 1980s - The Hill",
             "sentiment": "NEGATIVE",
-            "score": 0.8703246712684631,
+            "score": 0.94559246301651,
             "signal": "BEARISH",
             "tickers": [
-                "WMT"
+                "SPR"
             ],
-            "primary_ticker": "WMT",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "WMT",
+                    "ticker": "SPR",
                     "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Passenger who died mid-air on LAX-bound flight identified as 22-year-old - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.7570889592170715,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Powerball jackpot soars to $905M, eighth-largest in game's history - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.9156822562217712,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Taylor Farms recalls jalape\u00f1o products for Salmonella amid Cyclospora outbreak - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.856454610824585,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.7446829080581665,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "GS"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GS",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "This Biotech\u2019s Drug Could Treat Hot Flashes. The Stock Is Up 34% on Good News. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.945606529712677,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Major Indexes Are Steady to Start Week as S&P 500 Looks to Add to Record High - Investopedia",
+            "sentiment": "NEGATIVE",
+            "score": 0.963537871837616,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "AI models are breaking out of their cages. Their creators are scrambling. - The Washington Post",
@@ -31,18 +99,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Retail investors end SpaceX buying spree as stock reclaims IPO price: AlphaCheck - Yahoo Finance",
+            "title": "In surprise decision, FDA rejects radiopharma therapy expected to rival Novartis treatment - STAT",
             "sentiment": "NEGATIVE",
-            "score": 0.8064491152763367,
+            "score": 0.9508781433105469,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Dow Falls As Oil Prices Climb; SpaceX Stock Extends Gains (Live Coverage) - Investor's Business Daily",
+            "title": "Alaska Airlines flight delayed after alleged passenger threats force crew to lock cockpit - KING5.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9632449150085449,
+            "score": 0.8921118378639221,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX Stock Jumps Again After Lockup Rally. When\u2019s the Next Release, What to Expect. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9641860723495483,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -58,15 +135,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Shein IPO pitched to investors at sub-$30bn valuation - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9739712476730347,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Defaults Expose Cracks in High-Flying Private Credit - Newser",
             "sentiment": "NEGATIVE",
             "score": 0.962911069393158,
@@ -74,40 +142,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Micron Stock Slips Amid Apple China Chip Threat - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9650456309318542,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Volkswagen Atlas Cross Sport (2027) - NetCarShow.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8418423533439636,
-            "signal": "BULLISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Why Vertex Pharma Popped, As A Key Rival Plummeted 90% - Investor's Business Daily",
@@ -119,9 +153,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Big Gold Miners Agree On IPO. One Pops, One Sinks. - Investor's Business Daily",
+            "title": "2027 Volkswagen Atlas Cross Sport Debuts With More Power, A Much Fancier Interior - Motor1.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8373426198959351,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Barrick, Newmont settle dispute with $1.95B deal - Mining.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9539874196052551,
+            "score": 0.9157112240791321,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -137,26 +180,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Intel Selling $15 Billion in Common Stock as AI Demand Booms - bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7077416181564331,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "title": "GameStop\u2019s Ryan Cohen Weighs Pulling $56 Billion EBay Offer - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8252764940261841,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "Alaska Airlines flight forced to lockdown cockpit over passenger threats - CNN",
+            "title": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9230684638023376,
+            "score": 0.9289771318435669,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -168,37 +203,63 @@
             "score": 0.9457964301109314,
             "signal": "BULLISH",
             "tickers": [
-                "NVDA",
-                "GOOGL"
+                "GOOGL",
+                "NVDA"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Behind the exit of DeepMind\u2019s CEO: low morale, a talent exodus, and model delays - Fortune",
+            "title": "Rare \u00a33.7m Ferrari seized in police crackdown - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9614161849021912,
+            "score": 0.9123976826667786,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Global stocks tick up with oil steady on Hormuz plans - Yahoo Finance",
+            "title": "JPMorgan Strategists Raise S&P 500 Target as AI Capex Pays Off - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9469320774078369,
+            "score": 0.948375403881073,
             "signal": "BULLISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "John Oliver Doubles Down on Buc-ee\u2019s After Chain Targets Another Beaver - LateNighter",
+            "sentiment": "NEGATIVE",
+            "score": 0.9698151350021362,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Behind the exit of DeepMind\u2019s CEO: low morale, a talent exodus, and model delays - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9614161849021912,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -213,19 +274,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Chinese users of AI companions bereft after government tightens regulations - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.901318371295929,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "More than 3,200 pounds of pastrami, corned beef recalled over possible Listeria contamination - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9151443243026733,
-            "signal": "BEARISH",
+            "title": "China Humanoid Makers Hold 97% of Global Shipments, Report Says - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9400266408920288,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -267,15 +319,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "China Unleashes $28 Trillion Capital Markets to Challenge US in AI - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8542736172676086,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Senate leaves town without voting on crypto bill, dimming its chances of passing - The Hill",
             "sentiment": "NEGATIVE",
             "score": 0.8605600595474243,
@@ -298,23 +341,6 @@
                     "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Nvidia's Stock Is Completely Mispriced (NASDAQ:NVDA) - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.9368190765380859,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
                 }
             ]
         },
