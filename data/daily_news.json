@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-08-10 21:38:01 UTC",
-    "total_articles": 22,
-    "bullish_articles": 6,
-    "bearish_articles": 16,
+    "last_updated": "2026-08-11 00:40:53 UTC",
+    "total_articles": 24,
+    "bullish_articles": 4,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "Porter Airliines flight in Canada canceled after child refuses to sit down and buckle up - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9550071358680725,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "S&P 500 futures slip as traders watch for Strait of Hormuz deal, inflation data: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.964436411857605,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Passenger dies mid-flight on LAX-bound plane after multiple CPR attempts - New York Post",
             "sentiment": "NEGATIVE",
@@ -41,10 +59,28 @@
             "ticker_impacts": []
         },
         {
+            "title": "Shake Shack customer tapped 'no tip' at a kiosk and his total jumped $1.50 \u2014 sparking a tipping debate online - finance.yahoo.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8966073393821716,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Wendy's loses status as second-largest burger chain after 6-year run - Fox Business",
             "sentiment": "POSITIVE",
             "score": 0.9372742176055908,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "99X guts its on-air staff as Cumulus Media makes massive cuts nationwide - AJC.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9716402888298035,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -111,15 +147,6 @@
             ]
         },
         {
-            "title": "2 key checks on AI infrastructure and inflation: What to watch this week - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.830496609210968,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Cyprus natural gas to supply Europe by first half of 2028, minister says, as EU seeks new sources - AP News",
             "sentiment": "POSITIVE",
             "score": 0.7883620262145996,
@@ -165,6 +192,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Delta passengers evacuated by slide after emergency landing in Atlanta - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9520527124404907,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "U.S. Postal Service reports $2.5 billion quarterly loss - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.9673969745635986,
@@ -177,15 +221,6 @@
             "title": "Buc-ee\u2019s dodges John Oliver to sue another small business - The Verge",
             "sentiment": "NEGATIVE",
             "score": 0.7117893695831299,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Atlanta flight's emergency return after cockpit fills with fumes - FOX 5 Atlanta",
-            "sentiment": "NEGATIVE",
-            "score": 0.9460009932518005,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -206,42 +241,25 @@
             "score": 0.7115299701690674,
             "signal": "BEARISH",
             "tickers": [
-                "WMT",
                 "AMZN",
+                "WMT",
                 "AMD"
             ],
-            "primary_ticker": "WMT",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
-                {
-                    "ticker": "WMT",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
                     "ticker": "AMD",
                     "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "California Announces $3,500 Instant Rebate for New EV Purchases, Available Now - kqed.org",
-            "sentiment": "POSITIVE",
-            "score": 0.7387544512748718,
-            "signal": "BULLISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
                     "relevance": "medium"
                 }
             ]
