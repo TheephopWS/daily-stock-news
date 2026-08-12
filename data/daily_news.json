@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-08-11 21:38:44 UTC",
-    "total_articles": 37,
-    "bullish_articles": 12,
-    "bearish_articles": 25,
+    "last_updated": "2026-08-12 00:44:45 UTC",
+    "total_articles": 28,
+    "bullish_articles": 8,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "Zuckerberg spokesperson says his yacht did not hear call for maritime assist from skiff - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8280119299888611,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Alaska Airlines flight deplanes after reported threats from passengers - USA Today",
             "sentiment": "NEGATIVE",
@@ -14,13 +23,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "US stocks edge down from their record after oil prices climb 5% - AP News",
+            "title": "Apple Stock Downgraded to Sell as Analyst Claims All-Glass iPhone Is Dead - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9721660614013672,
+            "score": 0.9699085354804993,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Canada flight cancelled after child refuses to wear seat belt - BBC",
@@ -67,9 +84,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Hers Health, Inc. Reports Second Quarter 2026 Financial Results - HIMS investor relations",
+            "title": "Former Texas Roadhouse, Red Robin CEO says this restaurant category is \u2018there for the taking\u2019 - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.9494123458862305,
+            "score": 0.8954034447669983,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -78,7 +95,7 @@
         {
             "title": "Why Sionna Therapeutics Stock Is Crashing 91% to a Record Low - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9028598666191101,
+            "score": 0.7635600566864014,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -102,81 +119,6 @@
             ]
         },
         {
-            "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7598598599433899,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA",
-                "INTC"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Oil in US Strategic Petroleum Reserve falls to lowest level since 1983 - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9746924638748169,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Archer Aviation Is Buying Boeing\u2019s Flying-Taxi Enterprise and the Stock Is Soaring - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9218581914901733,
-            "signal": "BULLISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Zuckerberg\u2019s yacht crew did not hear call for help, says spokesperson - Al Jazeera",
-            "sentiment": "NEGATIVE",
-            "score": 0.8485822677612305,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Larry Ellison Overtakes Jensen Huang As 7th-Wealthiest Person In The World As Nvidia Shares Fall - Forbes",
-            "sentiment": "POSITIVE",
-            "score": 0.9172540307044983,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Passenger who died mid-air on LAX-bound flight identified as 22-year-old - New York Post",
             "sentiment": "NEGATIVE",
             "score": 0.7570889592170715,
@@ -186,9 +128,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Berkshire Is Finally Deploying Its Cash Hoard Under New CEO Greg Abel - Investopedia",
+            "title": "Powerball jackpot soars to $905M, eighth-largest in game's history - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.7777830958366394,
+            "score": 0.9156822562217712,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -231,15 +173,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Retail investors end SpaceX buying spree as stock reclaims IPO price: AlphaCheck - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8064491152763367,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Defaults Expose Cracks in High-Flying Private Credit - Newser",
             "sentiment": "NEGATIVE",
             "score": 0.962911069393158,
@@ -247,29 +180,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Sen. Bernie Sanders demands CEOs pause AI development \u2018in the interest of humanity\u2019 - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7847577333450317,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC",
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "US Futures Drop as Focus Turns on Chipmaker Earnings, Inflation - bloomberg.com",
@@ -366,15 +276,6 @@
             ]
         },
         {
-            "title": "Australian rare earth miner surges after U.S. Department of War investment - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8591925501823425,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Bally's casino Chicago news: Bally's alters construction on permanent Chicago casino amid dispute with city over video gambling - ABC7 Chicago",
             "sentiment": "NEGATIVE",
             "score": 0.9631755352020264,
@@ -384,9 +285,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Verizon service back after outage caused by vandalism - FOX 11 Los Angeles",
+            "title": "Verizon cellular and internet service restored after fiber line vandalism caused widespread outage for SoCal customers - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
-            "score": 0.9670886397361755,
+            "score": 0.905168354511261,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -396,24 +297,6 @@
             "title": "Senate leaves town without voting on crypto bill, dimming its chances of passing - The Hill",
             "sentiment": "NEGATIVE",
             "score": 0.8605600595474243,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "East Los Angeles AutoZone store ransacked again during 2nd street takeover in 24 hours - ABC7 Los Angeles",
-            "sentiment": "NEGATIVE",
-            "score": 0.9520218372344971,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8697142004966736,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
