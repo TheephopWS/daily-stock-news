@@ -1,9 +1,26 @@
 {
-    "last_updated": "2026-08-14 04:07:19 UTC",
-    "total_articles": 28,
-    "bullish_articles": 13,
-    "bearish_articles": 15,
+    "last_updated": "2026-08-14 06:53:30 UTC",
+    "total_articles": 27,
+    "bullish_articles": 10,
+    "bearish_articles": 17,
     "articles": [
+        {
+            "title": "Twitch faces backlash over Amazon training AI on its users' livestreams - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9392712712287903,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Whole Foods recalls salsa, guacamole and prepared foods in 12 states over salmonella concerns - Fox Business",
             "sentiment": "NEGATIVE",
@@ -32,9 +49,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why Japanese firms are being so slow to use AI - BBC",
+            "title": "Mystery Wi-Fi network aboard flight raises 'unusual' alarm about travelers' information - Fox News",
             "sentiment": "NEGATIVE",
-            "score": 0.9499029517173767,
+            "score": 0.9077670574188232,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.903339147567749,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -50,26 +76,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Cisco Networking Sales Surge on AI Demand. Why the Stock Is Down. - Barron's",
+            "title": "Cerebras Systems Reports Solid Earnings. The Stock Is Plunging. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9635947942733765,
+            "score": 0.9710426330566406,
             "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
+        },
+        {
+            "title": "Popeyes chicken contained 'condom-like' object, $1.5M lawsuit alleges - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.9292698502540588,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bill Gates' daughter Phoebe accused of 'cookie stuffing' scheme that has max penalty of 20 years in prison: reports - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8098816275596619,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "New Social Security COLA estimates released after fresh inflation data - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.8866532444953918,
+            "score": 0.8866539001464844,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -78,7 +114,7 @@
         {
             "title": "Biotech Scores Again With LSD In Anxiety; Stock Rises - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.8006266951560974,
+            "score": 0.800625741481781,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -94,21 +130,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX Stock Lifts Off After Musk\u2019s All-Hands Meeting and More Starlink Satellites - Barron's",
+            "title": "Nebius Stock Soars 28% as Revenue Beat Bolsters AI Rally. Michael Burry May Be Helping. - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9146302342414856,
+            "score": 0.945867121219635,
             "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "CoreWeave and Nebius Group Deliver Earnings Shocker. Here's What It Signals About the Future of AI. - Yahoo Finance",
@@ -146,24 +174,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Gulf states scramble for Strait of Hormuz alternative - DW.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8627657890319824,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Supermicro stock jumps on Q4 results, strong Q1 outlook - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8441584706306458,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "The 2026 A-List: Top 20 Firms - Law.com",
             "sentiment": "POSITIVE",
             "score": 0.9546911716461182,
@@ -173,23 +183,49 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs - CNBC",
+            "title": "Super Micro rises after Q4 results, outlook; analysts show mixed reactions - Seeking Alpha",
             "sentiment": "POSITIVE",
-            "score": 0.892727255821228,
+            "score": 0.9276534914970398,
             "signal": "BULLISH",
             "tickers": [
-                "META",
-                "NVDA"
+                "SMCI"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "SMCI",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Morgan Stanley Warns Investors Underestimating SpaceX\u2019s AI Unit - Investopedia",
+            "sentiment": "NEGATIVE",
+            "score": 0.8691920638084412,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8927273154258728,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "META"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "META",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -198,7 +234,7 @@
         {
             "title": "Goldman Sachs to Acquire ETF Provider Neos in $2.3 Billion Deal - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.8908427357673645,
+            "score": 0.8908429741859436,
             "signal": "BULLISH",
             "tickers": [
                 "GS"
@@ -211,15 +247,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Eli Lilly is suing six companies over illegal sales of its unapproved weight loss drug - qz.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9132012128829956,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "AI brings savings to clinical trials: study - Axios",
@@ -266,46 +293,10 @@
             ]
         },
         {
-            "title": "Zillow predicts major mortgage rate, housing market change - thestreet.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7243017554283142,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Credit card debt rises to $1.26 trillion, nearing all-time record - ABC News - Breaking News, Latest News and Videos",
-            "sentiment": "POSITIVE",
-            "score": 0.8850752711296082,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Unauthorized in-flight Wi-Fi prompts Delta investigation - NewsNation",
-            "sentiment": "NEGATIVE",
-            "score": 0.939471960067749,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Toyota recalls more than half a million vehicles. See affected models - USA Today",
             "sentiment": "NEGATIVE",
-            "score": 0.9148754477500916,
+            "score": 0.9148755073547363,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "After Cyclospora Outbreak, Local Black Farms See Rise in Support - Capital B News",
-            "sentiment": "POSITIVE",
-            "score": 0.9384101629257202,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
