@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-08-16 03:39:09 UTC",
-    "total_articles": 33,
-    "bullish_articles": 9,
-    "bearish_articles": 24,
+    "last_updated": "2026-08-16 06:37:44 UTC",
+    "total_articles": 29,
+    "bullish_articles": 7,
+    "bearish_articles": 22,
     "articles": [
         {
             "title": "1.5 million dozen recalled eggs receive FDA\u2019s highest-risk warning - washingtonpost.com",
@@ -17,6 +17,15 @@
             "title": "Stock Market Today: S&P 500, Nasdaq eke out weekly gains, but Dow falls; oil prices and Treasury yields rise - MarketWatch",
             "sentiment": "NEGATIVE",
             "score": 0.9701958298683167,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "723 jobs being lost as Tyson Foods closes Eagle Mountain facility - KSL News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9661849141120911,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -40,24 +49,18 @@
             ]
         },
         {
-            "title": "Goldman\u2019s latest cash cow is all about funding the AI infrastructure boom - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7187005281448364,
-            "signal": "BULLISH",
+            "title": "NTSB says broken engine parts shattered Ryanair plane window that a man's head got sucked into - PBS",
+            "sentiment": "NEGATIVE",
+            "score": 0.9302368760108948,
+            "signal": "BEARISH",
             "tickers": [
-                "NVDA",
-                "INTC"
+                "BA"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
+                    "ticker": "BA",
+                    "impact": "negative",
                     "relevance": "medium"
                 }
             ]
@@ -66,15 +69,6 @@
             "title": "Waymo wins California approval to expand robotaxis across 18 counties - Electrek",
             "sentiment": "POSITIVE",
             "score": 0.9392865896224976,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "American auto retreat from China accelerates - Axios",
-            "sentiment": "POSITIVE",
-            "score": 0.9070934653282166,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -117,13 +111,12 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia\u2019s $500 Billion Plan Envelops Wall Street in Its AI Frenzy - Bloomberg.com",
+            "title": "Nvidia\u2019s $500 Billion Plan Envelops Wall Street in Its AI Frenzy - finance.yahoo.com",
             "sentiment": "POSITIVE",
-            "score": 0.786106526851654,
+            "score": 0.7653366923332214,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA",
-                "INTC",
                 "GS"
             ],
             "primary_ticker": "NVDA",
@@ -134,11 +127,6 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
                     "ticker": "GS",
                     "impact": "positive",
                     "relevance": "medium"
@@ -146,9 +134,9 @@
             ]
         },
         {
-            "title": "Tyson selling Tri-Cities area plant, closing others as beef market struggles - Tri-City Herald",
+            "title": "SpaceX Stock Drops as Musk\u2019s Rockets Face a Fresh Rival - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9007498621940613,
+            "score": 0.8896324634552002,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -159,15 +147,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.902000367641449,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The U.S. just paid its highest 30-year borrowing cost since 2001 - Fortune",
-            "sentiment": "POSITIVE",
-            "score": 0.762316107749939,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -209,10 +188,28 @@
             "ticker_impacts": []
         },
         {
+            "title": "A Big Inflation Risk Still Looms for Stock Markets - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.8453477621078491,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Ramsey personality took Trump's $1,000 for his son \u2014 then warned parents about one big mistake - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.8137469291687012,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Opposition to data center construction is rising sharply, survey says - WHYY",
+            "sentiment": "POSITIVE",
+            "score": 0.9229567646980286,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -236,15 +233,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Engine debris shattered Ryanair window, pulling passenger out, NTSB says - Al Jazeera",
-            "sentiment": "NEGATIVE",
-            "score": 0.9537798166275024,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "DeepSeek Lifts AI Model Prices Fourfold - WSJ",
             "sentiment": "POSITIVE",
             "score": 0.9058836102485657,
@@ -254,27 +242,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "JPMorgan debanked Polymarket over regulatory concerns - Financial Times",
+            "title": "Costliest US Bond Sale Since 2001 Is Investor Warning to Bessent - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9227865934371948,
+            "score": 0.8749982118606567,
             "signal": "BULLISH",
-            "tickers": [
-                "JPM"
-            ],
-            "primary_ticker": "JPM",
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week",
-            "sentiment": "NEGATIVE",
-            "score": 0.9540395140647888,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -289,27 +260,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.917251706123352,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Inflation surge has squeezed shoppers. Sluggish pay has made it worse - ABC News - Breaking News, Latest News and Videos",
             "sentiment": "NEGATIVE",
             "score": 0.9377122521400452,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stocks rise and interest rates slide after inflation report - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9007534384727478,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -337,15 +290,6 @@
             "title": "Wholesale price inflation slows last month as gas, food costs fall - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9477917551994324,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump heads toward unlikely clash with close ally over future of multibillion-dollar industry - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9522779583930969,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
