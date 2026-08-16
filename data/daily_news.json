@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-08-16 18:36:09 UTC",
-    "total_articles": 32,
-    "bullish_articles": 11,
-    "bearish_articles": 21,
+    "last_updated": "2026-08-16 21:32:38 UTC",
+    "total_articles": 27,
+    "bullish_articles": 8,
+    "bearish_articles": 19,
     "articles": [
         {
             "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter - CNBC",
@@ -23,6 +23,47 @@
             "ticker_impacts": []
         },
         {
+            "title": "Bitcoin And Crypto Suddenly Braced For A White House Price Game-Changer - Forbes",
+            "sentiment": "NEGATIVE",
+            "score": 0.9078690409660339,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "5-star analyst sets jaw-dropping Micron stock price target for 2026 - thestreet.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7913541197776794,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018Delivery Protection Act\u2019 Pits NYC Mayor Mamdani And The Teamsters Against Amazon - Forbes",
+            "sentiment": "NEGATIVE",
+            "score": 0.9170982837677002,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD",
+                "AMZN"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "California Pizza Kitchen co-founder opens up about famous chain's wild rise, bankruptcy and comeback - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.7279984951019287,
@@ -36,15 +77,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9409250020980835,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The AI boss at a San Francisco store just fired its first human - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.8018446564674377,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -104,24 +136,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump-appointed regulator OKs banking license for Trump-linked crypto firm - Politico",
-            "sentiment": "POSITIVE",
-            "score": 0.7415473461151123,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Jane Street Suffers Loss of About $15 Billion Following Troubles at Situational Awareness - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9710215926170349,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "723 jobs being lost as Tyson Foods closes Eagle Mountain facility - KSL News",
             "sentiment": "NEGATIVE",
             "score": 0.9661849141120911,
@@ -157,15 +171,6 @@
             ]
         },
         {
-            "title": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9477412104606628,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "New York Fed finds credit card and auto loan delinquencies remain elevated - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.8525383472442627,
@@ -173,6 +178,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "RDDT soars on S&P 500 inclusion, but symmetrical triangle holds (RDDT:NYSE) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.702870786190033,
+            "signal": "BULLISH",
+            "tickers": [
+                "RDDT"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "RDDT",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Americans sour on Donald Trump\u2019s economy as affordability strains intensify - Financial Times",
@@ -207,13 +229,21 @@
             ]
         },
         {
-            "title": "NYC Council Speaker Julie Menin backs away from e-bike registration despite pressure - New York Post",
+            "title": "JPMorgan Ended Banking Relationship With Polymarket Over Regulatory Concerns - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.7396993637084961,
+            "score": 0.7867573499679565,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "The U.S. just paid its highest 30-year borrowing cost since 2001 - Fortune",
@@ -229,24 +259,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9054424166679382,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Sound Transit delays West Seattle light-rail extension again, now targeting 2035 - KOMO",
-            "sentiment": "NEGATIVE",
-            "score": 0.8692384958267212,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FDA approves Bristol multiple myeloma treatment, marking debut of novel drug class - STAT",
-            "sentiment": "POSITIVE",
-            "score": 0.7131444215774536,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -279,44 +291,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "San Diego woman sues Dollar Tree for \u201cgooning\u201d sexual assault incident - fox5sandiego.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9292852878570557,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "DeepSeek Lifts AI Model Prices Fourfold - WSJ",
             "sentiment": "POSITIVE",
             "score": 0.9485142827033997,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "JPMorgan debanked Polymarket over regulatory concerns - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9227865934371948,
-            "signal": "BULLISH",
-            "tickers": [
-                "JPM"
-            ],
-            "primary_ticker": "JPM",
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "How much Colorado\u2019s minimum wage will increase in 2027 - KDVR",
-            "sentiment": "POSITIVE",
-            "score": 0.7819851636886597,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
