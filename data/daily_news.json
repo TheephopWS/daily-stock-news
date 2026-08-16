@@ -1,14 +1,41 @@
 {
-    "last_updated": "2026-08-16 06:37:44 UTC",
+    "last_updated": "2026-08-16 09:36:00 UTC",
     "total_articles": 29,
-    "bullish_articles": 7,
-    "bearish_articles": 22,
+    "bullish_articles": 8,
+    "bearish_articles": 21,
     "articles": [
         {
-            "title": "1.5 million dozen recalled eggs receive FDA\u2019s highest-risk warning - washingtonpost.com",
+            "title": "Georgia financial CEO Todd Burkhalter sentenced for running historic $380M Ponzi scheme to fund lavish lifestyle - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9451633095741272,
+            "score": 0.8079544305801392,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.955003023147583,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "State Judge to Kalshi: Your Sports Betting Is Obviously Illegal - Gizmodo",
+            "sentiment": "NEGATIVE",
+            "score": 0.8807844519615173,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump-appointed regulator OKs banking license for Trump-linked crypto firm - Politico",
+            "sentiment": "POSITIVE",
+            "score": 0.7415473461151123,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -23,6 +50,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Eataly Silicon Valley vendor shut down due to vermin - KRON4",
+            "sentiment": "NEGATIVE",
+            "score": 0.9449554681777954,
+            "signal": "BEARISH",
+            "tickers": [
+                "KRON"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "KRON",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "723 jobs being lost as Tyson Foods closes Eagle Mountain facility - KSL News",
             "sentiment": "NEGATIVE",
             "score": 0.9661849141120911,
@@ -30,23 +74,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "250,000 minifridges sold on Amazon recalled following reports of fires - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9647595882415771,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "NTSB says broken engine parts shattered Ryanair plane window that a man's head got sucked into - PBS",
@@ -66,10 +93,28 @@
             ]
         },
         {
+            "title": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9477412104606628,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Waymo wins California approval to expand robotaxis across 18 counties - Electrek",
             "sentiment": "POSITIVE",
             "score": 0.9392865896224976,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9226378798484802,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -84,24 +129,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Claude users are canceling their subscriptions, citing Anthropic\u2019s new AI watermark - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9573636651039124,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9476569294929504,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Suspecting court of using AI, man injected prompts in filings to try to win case - Ars Technica",
             "sentiment": "NEGATIVE",
             "score": 0.9197449088096619,
@@ -111,12 +138,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia\u2019s $500 Billion Plan Envelops Wall Street in Its AI Frenzy - finance.yahoo.com",
+            "title": "Nvidia\u2019s $500 Billion Plan Envelops Wall Street in Its AI Frenzy - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.7653366923332214,
+            "score": 0.786106526851654,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA",
+                "INTC",
                 "GS"
             ],
             "primary_ticker": "NVDA",
@@ -127,20 +155,16 @@
                     "relevance": "high"
                 },
                 {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
                     "ticker": "GS",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "SpaceX Stock Drops as Musk\u2019s Rockets Face a Fresh Rival - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.8896324634552002,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Ranked: The Largest Oil Supply Disruptions in History - Visual Capitalist",
@@ -188,18 +212,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "A Big Inflation Risk Still Looms for Stock Markets - Barron's",
+            "title": "FTC Strikes Deals to Ignore \u2018Unlawful Credit Discrimination\u2019 - WIRED",
             "sentiment": "NEGATIVE",
-            "score": 0.8453477621078491,
+            "score": 0.9171576499938965,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Ramsey personality took Trump's $1,000 for his son \u2014 then warned parents about one big mistake - Fox Business",
+            "title": "A Big Inflation Risk Still Looms for Stock Markets - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.8137469291687012,
+            "score": 0.8453477621078491,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -210,15 +234,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9229567646980286,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The burger wars are heating up as McDonald's loses ground to an old rival - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9693731069564819,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -242,18 +257,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Costliest US Bond Sale Since 2001 Is Investor Warning to Bessent - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8749982118606567,
-            "signal": "BULLISH",
+            "title": "United Airlines Flight 455 blows tire during takeoff at Chicago O'Hare International Airport: FAA; video shows emergency response - ABC7 Chicago",
+            "sentiment": "NEGATIVE",
+            "score": 0.7567003965377808,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "United Airlines Flight 455 blows tire during takeoff at Chicago O'Hare International Airport: FAA; video shows emergency response - ABC7 Chicago",
+            "title": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.7567003965377808,
+            "score": 0.917251706123352,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -269,10 +284,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Mortgage rates fall for first time in 6 weeks - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9762100577354431,
-            "signal": "BEARISH",
+            "title": "U.S. sells 30-year T-bonds at highest yield since 2001 - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.754483699798584,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -281,15 +296,6 @@
             "title": "More Whole Foods products recalled in salmonella outbreak. See list - USA Today",
             "sentiment": "NEGATIVE",
             "score": 0.8562372922897339,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Wholesale price inflation slows last month as gas, food costs fall - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9477917551994324,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
