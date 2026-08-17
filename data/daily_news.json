@@ -1,9 +1,26 @@
 {
-    "last_updated": "2026-08-17 09:37:33 UTC",
-    "total_articles": 28,
-    "bullish_articles": 8,
-    "bearish_articles": 20,
+    "last_updated": "2026-08-17 12:38:09 UTC",
+    "total_articles": 25,
+    "bullish_articles": 6,
+    "bearish_articles": 19,
     "articles": [
+        {
+            "title": "Instagram vowed to crack down on Meta glasses creeps. A month later, it was easy to find dozens of the videos still up. - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.8100826740264893,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Ice cream maker Rebel Creamery files for bankruptcy after being ordered to pay $23.8M in packaging battle - New York Post",
             "sentiment": "NEGATIVE",
@@ -101,29 +118,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.911290168762207,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC",
-                "NVDA"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Doom! Board lowers the boom on Indian-American CEO who fired 900 employees over Zoom - The Times of India",
             "sentiment": "NEGATIVE",
             "score": 0.8842490315437317,
@@ -146,18 +140,18 @@
             "score": 0.9170982837677002,
             "signal": "BEARISH",
             "tickers": [
-                "AMD",
-                "AMZN"
+                "AMZN",
+                "AMD"
             ],
-            "primary_ticker": "AMD",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "AMD",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -177,15 +171,6 @@
             "sentiment": "POSITIVE",
             "score": 0.8932573199272156,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The AI boss at a San Francisco store just fired its first human - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.8018446564674377,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -245,40 +230,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock - MarketWatch",
-            "sentiment": "POSITIVE",
-            "score": 0.8559557199478149,
-            "signal": "BULLISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Stock Market Today: Nasdaq Slips On Retail Sales Gloom; Nvidia Eyes Robotics Wave - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9708120226860046,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "NTSB says broken engine parts shattered Ryanair plane window that a man's head got sucked into - PBS",
             "sentiment": "NEGATIVE",
             "score": 0.9302368760108948,
@@ -319,37 +270,37 @@
             "score": 0.9067888259887695,
             "signal": "BULLISH",
             "tickers": [
-                "GS",
-                "NVDA"
+                "NVDA",
+                "GS"
             ],
-            "primary_ticker": "GS",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "GS",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "GS",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "The U.S. just paid its highest 30-year borrowing cost since 2001 - Fortune",
-            "sentiment": "POSITIVE",
-            "score": 0.762316107749939,
-            "signal": "BULLISH",
+            "title": "Asian Bakery Owner Closes Avon Shop, Cites 'Personal Attacks' - Patch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9443508386611938,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The worst time to sell a home is right now, dire figures show - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9571873545646667,
-            "signal": "BEARISH",
+            "title": "The U.S. just paid its highest 30-year borrowing cost since 2001 - Fortune",
+            "sentiment": "POSITIVE",
+            "score": 0.762316107749939,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
