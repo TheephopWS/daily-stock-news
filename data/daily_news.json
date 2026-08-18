@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-08-18 00:39:21 UTC",
-    "total_articles": 23,
-    "bullish_articles": 8,
-    "bearish_articles": 15,
+    "last_updated": "2026-08-18 03:38:33 UTC",
+    "total_articles": 21,
+    "bullish_articles": 10,
+    "bearish_articles": 11,
     "articles": [
+        {
+            "title": "Ferrari's first ever electric car sold for record $40m at auction - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8863621950149536,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7106465697288513,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Stock futures are little changed after S&P 500 posts three-week win streak: Live updates - CNBC",
             "sentiment": "POSITIVE",
@@ -12,6 +30,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "If Meta loses this trial, Instagram and Facebook could change forever - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8180119395256042,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter - Bloomberg.com",
@@ -31,36 +66,10 @@
             ]
         },
         {
-            "title": "Granola sold nationwide on Amazon recalled over salmonella contamination fears - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9641370177268982,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "A historic shortage is squeezing an American dinner staple and relief could be years away - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9695302248001099,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nutella's empire is making a multibillion-dollar play for America's snack market - businessinsider.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8708316683769226,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -75,31 +84,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "Young People Hate AI CEOs So Passionately That It\u2019s Almost Hard to Believe - futurism.com",
+            "title": "Young People Hate AI CEOs So Passionately That It\u2019s Almost Hard to Believe - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.9265438914299011,
+            "score": 0.9195473790168762,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "First Ferrari Luce EV sells for $40 million, 36x its estimate - Electrek",
+            "title": "'Spending is leading to earnings': Wall Street strategists see payoff from Big Tech's AI investment - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.7107064723968506,
+            "score": 0.9361880421638489,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Casino operator liquidated as Chapter 11 bankruptcy ends - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8306201100349426,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Nvidia (NVDA) Stock Looks Near Fair Value After A Huge Run - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9526195526123047,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "DCF"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "DCF",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Maker of ice cream sold at grocery stores nationwide files for bankruptcy as it appeals $23.8M judgment - Fox Business",
@@ -120,9 +143,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron: I Think We Could Get An Upside Breakout (NASDAQ:MU) - Seeking Alpha",
+            "title": "15 Fast-Growing Jobs AI Can\u2019t Touch That Pay Up To $175K - forbes.com",
             "sentiment": "POSITIVE",
-            "score": 0.8955658674240112,
+            "score": 0.859631359577179,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -133,6 +156,15 @@
             "sentiment": "NEGATIVE",
             "score": 0.9080846309661865,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Can SpaceX Leap to the AI Frontier? - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8177462816238403,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -202,42 +234,6 @@
             "title": "Tyson Foods to close Eagle Mountain plant, impacting more than 700 Utah workers - KUTV",
             "sentiment": "NEGATIVE",
             "score": 0.9593086242675781,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Terra restaurant inside San Jose's Eataly closes due to vermin contamination, officials say - NBC Bay Area",
-            "sentiment": "NEGATIVE",
-            "score": 0.9621268510818481,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.955003023147583,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Woman denied transfusion at Boston hospital due to blood shortage: \"We all need to be concerned\" - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9670571684837341,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "CEO sent to prison for 'largest Ponzi scheme in Georgia history' - upi.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8928211331367493,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
