@@ -1,23 +1,64 @@
 {
-    "last_updated": "2026-08-19 18:36:54 UTC",
-    "total_articles": 29,
-    "bullish_articles": 9,
-    "bearish_articles": 20,
+    "last_updated": "2026-08-19 21:34:25 UTC",
+    "total_articles": 31,
+    "bullish_articles": 5,
+    "bearish_articles": 26,
     "articles": [
         {
-            "title": "Stock Market Today: Nasdaq Weighed Down By Chip Names; Credo Plunges With Micron, Sandisk (Live Coverage) - Investor's Business Daily",
+            "title": "Stock Market Today: Dow, S&P 500 and Nasdaq close lower, with tech under pressure as semi stocks sell off; Home Depot reports earnings - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9620943069458008,
+            "score": 0.9718603491783142,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Soaring diesel prices rip across US economy - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9277717471122742,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Rattle Markets - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9658019542694092,
             "signal": "BEARISH",
             "tickers": [
+                "AMD",
                 "NVDA"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "AMD",
             "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
                 {
                     "ticker": "NVDA",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Apple squashes EU beef with new App Store rules - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.7722581028938293,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
@@ -39,18 +80,9 @@
             ]
         },
         {
-            "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.9264742136001587,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "S&P 500 falls, hurt by elevated global bond yields and oil prices: Live updates - CNBC",
+            "title": "CEO Who Allegedly Called Staff \u2018Monkeys\u2019 Is Being Sued By His Company - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.9747428894042969,
+            "score": 0.8369544744491577,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -70,6 +102,15 @@
             "sentiment": "POSITIVE",
             "score": 0.9281728267669678,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Outshine Fruit Bars recalled nationwide over possible glass contamination, company says - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9616966843605042,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -198,9 +239,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "5-star analyst sets alarming SpaceX stock price target - thestreet.com",
+            "title": "2026 Day 1 Crop Tour Results | Ohio - Pro Farmer",
             "sentiment": "NEGATIVE",
-            "score": 0.8583334684371948,
+            "score": 0.9750503897666931,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -210,6 +251,15 @@
             "title": "Chicago law firm launches WARN Act investigation into Tyson Foods Joslin - KWQC",
             "sentiment": "NEGATIVE",
             "score": 0.9469591975212097,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "RI casino operator Bally\u2019s sees stock price plunge nearly 30% after solvency warning - WPRI.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9636263251304626,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -234,23 +284,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia Will Back First Phase of OpenAI Project With as Much as $105 Billion - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.8543912172317505,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "EyePoint Stock Craters 69% After Drug Trial Failure. It May Be an Overreaction. - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.9496368765830994,
@@ -260,27 +293,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why Sandisk Stock Is Getting Its Mojo Back - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.7799680829048157,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Treasury Secretary Bessent takes major step to cement U.S. dollar's global dominance - sg.finance.yahoo.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7607961893081665,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nike Falls 3% to a Fresh 52-Week Low as China Weakness Overshadows Its Wholesale Rebound - 24/7 Wall St.",
+            "title": "Nike's stock plunge is relentless - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9669402837753296,
+            "score": 0.8740633726119995,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Americans Are Tossing Salad in Unprecedented Numbers - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.9671943187713623,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
