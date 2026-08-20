@@ -1,23 +1,23 @@
 {
-    "last_updated": "2026-08-19 21:34:25 UTC",
-    "total_articles": 31,
-    "bullish_articles": 5,
-    "bearish_articles": 26,
+    "last_updated": "2026-08-20 00:38:53 UTC",
+    "total_articles": 27,
+    "bullish_articles": 11,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "Stock Market Today: Dow, S&P 500 and Nasdaq close lower, with tech under pressure as semi stocks sell off; Home Depot reports earnings - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9718603491783142,
-            "signal": "BEARISH",
+            "title": "American Airlines to bring back TV screens on US flights - BBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7524690628051758,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Soaring diesel prices rip across US economy - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9277717471122742,
-            "signal": "BEARISH",
+            "title": "We upgraded Home Depot and raised our price target. It made the best of a terrible hand - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.940380334854126,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -28,18 +28,18 @@
             "score": 0.9658019542694092,
             "signal": "BEARISH",
             "tickers": [
-                "AMD",
-                "NVDA"
+                "NVDA",
+                "AMD"
             ],
-            "primary_ticker": "AMD",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "AMD",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -48,7 +48,7 @@
         {
             "title": "Apple squashes EU beef with new App Store rules - The Verge",
             "sentiment": "NEGATIVE",
-            "score": 0.7722581028938293,
+            "score": 0.7722571492195129,
             "signal": "BEARISH",
             "tickers": [
                 "AAPL"
@@ -65,7 +65,7 @@
         {
             "title": "Anthropic Pre-IPO Credit Facility Set to Climb Past $10 Billion - Bloomberg",
             "sentiment": "POSITIVE",
-            "score": 0.939348042011261,
+            "score": 0.9393481016159058,
             "signal": "BULLISH",
             "tickers": [
                 "INTC"
@@ -78,6 +78,15 @@
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows - Bloomberg",
+            "sentiment": "POSITIVE",
+            "score": 0.9264743328094482,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "CEO Who Allegedly Called Staff \u2018Monkeys\u2019 Is Being Sued By His Company - Forbes",
@@ -100,26 +109,8 @@
         {
             "title": "Home Depot customers stick to smaller projects as housing costs stay high - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.9281728267669678,
+            "score": 0.9281730651855469,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Outshine Fruit Bars recalled nationwide over possible glass contamination, company says - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9616966843605042,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "California egg producer ID\u2019d as source of salmonella outbreak: health officials - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8789987564086914,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -127,7 +118,7 @@
         {
             "title": "Meta goes on trial over social media addiction and child privacy claims - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7758446335792542,
+            "score": 0.7758440375328064,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -151,6 +142,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "A New Use for GLP-1s? Amylyx Pharma Catapults To 3-Year High - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9120594263076782,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Why Intel, Marvell Stocks Are Dropping After Chip Stocks Enter New Bull Market - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.9735718965530396,
@@ -168,6 +168,15 @@
             ]
         },
         {
+            "title": "Global bond sell-off pressures stocks: AlphaCheck - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9254491329193115,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "'Worrisome': AI is driving a looming market correction, European central bank economists warn - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9567456245422363,
@@ -179,7 +188,7 @@
         {
             "title": "U.S. debt set to hit $40 trillion months earlier than expected - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8908305168151855,
+            "score": 0.8908308148384094,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -188,7 +197,7 @@
         {
             "title": "Nvidia's AI moat is shifting from chips to capital - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8288031816482544,
+            "score": 0.828803300857544,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -203,19 +212,10 @@
             ]
         },
         {
-            "title": "AI hasn\u2019t gone rogue. It\u2019s worse than that - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8550360202789307,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Hours after American Airlines Chicago airport emergency, United flight 739 suffers tire damage while landing at O'Hare airport - ABC7 Chicago",
-            "sentiment": "NEGATIVE",
-            "score": 0.955811619758606,
-            "signal": "BEARISH",
+            "title": "Vineland planning board votes to approve adjustment to Phase 2 of data center - nbcphiladelphia.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7209532260894775,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -223,25 +223,7 @@
         {
             "title": "Nearly 1M Chrysler, Jeep, Dodge and Ram vehicles recalled over camera glitch - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8261037468910217,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "NYC drivers shell out $9 congestion toll. City admits it failed to improve air quality - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9648889899253845,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "2026 Day 1 Crop Tour Results | Ohio - Pro Farmer",
-            "sentiment": "NEGATIVE",
-            "score": 0.9750503897666931,
+            "score": 0.8261042833328247,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -250,7 +232,7 @@
         {
             "title": "Chicago law firm launches WARN Act investigation into Tyson Foods Joslin - KWQC",
             "sentiment": "NEGATIVE",
-            "score": 0.9469591975212097,
+            "score": 0.9469593167304993,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -266,22 +248,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Paramount wants a $1.9 billion bond from state AGs fighting the Warner Bros. merger - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.8215619325637817,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4% - cnbc.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.955746054649353,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Bank of America Sees 50% Upside in Micron - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.955022931098938,
+            "signal": "BULLISH",
+            "tickers": [
+                "BAC"
+            ],
+            "primary_ticker": "BAC",
+            "ticker_impacts": [
+                {
+                    "ticker": "BAC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "EyePoint Stock Craters 69% After Drug Trial Failure. It May Be an Overreaction. - Barron's",
@@ -293,10 +274,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nike's stock plunge is relentless - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8740633726119995,
-            "signal": "BEARISH",
+            "title": "Treasury Secretary Bessent takes major step to cement U.S. dollar's global dominance - Yahoo Finance Singapore",
+            "sentiment": "POSITIVE",
+            "score": 0.7694455981254578,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -311,18 +292,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron Stock Claws Back From Lows To A Buy Point - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9040871858596802,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "More than 35 H-E-B foods recalled as salmonella outbreak spreads - KXAN Austin",
             "sentiment": "NEGATIVE",
-            "score": 0.8838916420936584,
+            "score": 0.8838919401168823,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -331,7 +303,7 @@
         {
             "title": "Buc-ee's to open 6 locations in 6 states. See when and where - USA Today",
             "sentiment": "POSITIVE",
-            "score": 0.7815074324607849,
+            "score": 0.7815086841583252,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
