@@ -1,31 +1,40 @@
 {
-    "last_updated": "2026-08-20 15:36:59 UTC",
-    "total_articles": 21,
-    "bullish_articles": 9,
-    "bearish_articles": 12,
+    "last_updated": "2026-08-20 18:37:20 UTC",
+    "total_articles": 19,
+    "bullish_articles": 8,
+    "bearish_articles": 11,
     "articles": [
+        {
+            "title": "Merck and Moderna say cancer vaccine shows promise in preventing recurrence of melanoma - NBC News",
+            "sentiment": "POSITIVE",
+            "score": 0.9110561609268188,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US retail giant receives $1bn boost from tariff refunds - BBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9531639218330383,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China successfully recovers rocket stage on land for the first time - apnews.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8983461260795593,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "The bond market is sounding an alarm. Here\u2019s what it means. - The Washington Post",
             "sentiment": "POSITIVE",
-            "score": 0.7218471765518188,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Buc-ee's is expanding, and so are the legal fights - USA Today",
-            "sentiment": "POSITIVE",
-            "score": 0.9090659618377686,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Target doubles profit, boosted by $1 billion tariff refund - Star Tribune",
-            "sentiment": "POSITIVE",
-            "score": 0.9507073163986206,
+            "score": 0.7218464016914368,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -50,23 +59,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta social media addiction trial kicks off with major implications for company\u2019s future - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.7844229340553284,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Dollar risks are mounting. Here\u2019s what could weaken the greenback - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9191887974739075,
@@ -78,7 +70,25 @@
         {
             "title": "OpenAI blinks first in AI safety standoff - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.8974631428718567,
+            "score": 0.8974634408950806,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Magnificent 7 are struggling. Don't let them sink your 401(k) - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.7388510704040527,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Red lights are flashing in energy markets - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.8600020408630371,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -87,7 +97,16 @@
         {
             "title": "Futures: After Painful AI Losses, Indexes Near Key Test - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.7804206609725952,
+            "score": 0.7804204821586609,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market News, August 18, 2026: Tech Stocks Slide With Global Bond Selloff Picking Up Steam - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9552915692329407,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -99,40 +118,22 @@
             "score": 0.9582023024559021,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA",
-                "BAC"
+                "BAC",
+                "NVDA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "BAC",
             "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "BAC",
                     "impact": "negative",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Exclusive | OpenAI\u2019s Second-Quarter Sales Show Tepid Growth Compared With Anthropic - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8160272240638733,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Outshine fruit bars recalled for possible glass contamination - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9657721519470215,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Amylyx Stock Surges 55% After GLP-1 Blocker Hits All Trial Goals - Barron's",
@@ -155,7 +156,7 @@
         {
             "title": "Anthropic Pre-IPO Credit Facility Set to Climb Past $10 Billion - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9352561831474304,
+            "score": 0.9352560639381409,
             "signal": "BULLISH",
             "tickers": [
                 "INTC"
@@ -170,27 +171,9 @@
             ]
         },
         {
-            "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.9264743328094482,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "CEO Who Allegedly Called Staff \u2018Monkeys\u2019 Is Being Sued By His Company - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.8369545340538025,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Global bond sell-off pressures stocks: AlphaCheck - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9254491329193115,
+            "score": 0.8369544744491577,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -199,7 +182,7 @@
         {
             "title": "Einride to deploy 500 Tesla Semis in biggest electric truck order yet - Electrek",
             "sentiment": "POSITIVE",
-            "score": 0.9175435304641724,
+            "score": 0.9175432324409485,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -212,15 +195,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Just 10% of California\u2019s EVs could provide 9 GW of grid power - Electrek",
-            "sentiment": "POSITIVE",
-            "score": 0.9192988872528076,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "U.S. debt set to hit $40 trillion months earlier than expected - The Washington Post",
