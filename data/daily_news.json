@@ -1,22 +1,31 @@
 {
-    "last_updated": "2026-08-20 12:38:21 UTC",
-    "total_articles": 22,
-    "bullish_articles": 12,
-    "bearish_articles": 10,
+    "last_updated": "2026-08-20 15:36:59 UTC",
+    "total_articles": 21,
+    "bullish_articles": 9,
+    "bearish_articles": 12,
     "articles": [
         {
             "title": "The bond market is sounding an alarm. Here\u2019s what it means. - The Washington Post",
             "sentiment": "POSITIVE",
-            "score": 0.7218464016914368,
+            "score": 0.7218471765518188,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Target delivers earnings beat, CEO 'encouraged' by turnaround traction - Yahoo Finance",
+            "title": "Buc-ee's is expanding, and so are the legal fights - USA Today",
             "sentiment": "POSITIVE",
-            "score": 0.9345914721488953,
+            "score": 0.9090659618377686,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Target doubles profit, boosted by $1 billion tariff refund - Star Tribune",
+            "sentiment": "POSITIVE",
+            "score": 0.9507073163986206,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -41,9 +50,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "Asian stocks slump as chip selloff deepens; KOSPI plunges 5% - Investing.com",
+            "title": "Meta social media addiction trial kicks off with major implications for company\u2019s future - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.964360773563385,
+            "score": 0.7844229340553284,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Dollar risks are mounting. Here\u2019s what could weaken the greenback - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9191887974739075,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI blinks first in AI safety standoff - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.8974631428718567,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -52,17 +87,8 @@
         {
             "title": "Futures: After Painful AI Losses, Indexes Near Key Test - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.7804204821586609,
+            "score": 0.7804206609725952,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Cerebras's Next Generation CS-4: Fast Just Got Faster - SemiAnalysis",
-            "sentiment": "POSITIVE",
-            "score": 0.8776034116744995,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -73,18 +99,18 @@
             "score": 0.9582023024559021,
             "signal": "BEARISH",
             "tickers": [
-                "BAC",
-                "NVDA"
+                "NVDA",
+                "BAC"
             ],
-            "primary_ticker": "BAC",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "BAC",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "BAC",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -93,35 +119,17 @@
         {
             "title": "Exclusive | OpenAI\u2019s Second-Quarter Sales Show Tepid Growth Compared With Anthropic - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8160267472267151,
+            "score": 0.8160272240638733,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stocks and Bonds Find Respite After Days of Strain: Markets Wrap - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9375028014183044,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SanDisk sends strong signal to Micron investors, BofA says - thestreet.com",
+            "title": "Outshine fruit bars recalled for possible glass contamination - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.7826910614967346,
+            "score": 0.9657721519470215,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "OpenAI lays out new security changes after its AI hacked Hugging Face - The Verge",
-            "sentiment": "POSITIVE",
-            "score": 0.876923680305481,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -147,7 +155,7 @@
         {
             "title": "Anthropic Pre-IPO Credit Facility Set to Climb Past $10 Billion - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9352560639381409,
+            "score": 0.9352561831474304,
             "signal": "BULLISH",
             "tickers": [
                 "INTC"
@@ -164,17 +172,26 @@
         {
             "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows - Bloomberg",
             "sentiment": "POSITIVE",
-            "score": 0.9264742136001587,
+            "score": 0.9264743328094482,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Home Depot customers stick to smaller projects as housing costs stay high - foxbusiness.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9436182975769043,
-            "signal": "BULLISH",
+            "title": "CEO Who Allegedly Called Staff \u2018Monkeys\u2019 Is Being Sued By His Company - Forbes",
+            "sentiment": "NEGATIVE",
+            "score": 0.8369545340538025,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Global bond sell-off pressures stocks: AlphaCheck - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9254491329193115,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -182,7 +199,7 @@
         {
             "title": "Einride to deploy 500 Tesla Semis in biggest electric truck order yet - Electrek",
             "sentiment": "POSITIVE",
-            "score": 0.9175432324409485,
+            "score": 0.9175435304641724,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -199,17 +216,8 @@
         {
             "title": "Just 10% of California\u2019s EVs could provide 9 GW of grid power - Electrek",
             "sentiment": "POSITIVE",
-            "score": 0.9192987084388733,
+            "score": 0.9192988872528076,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'Worrisome': AI is driving a looming market correction, European central bank economists warn - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9567456245422363,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -218,15 +226,6 @@
             "title": "U.S. debt set to hit $40 trillion months earlier than expected - The Washington Post",
             "sentiment": "NEGATIVE",
             "score": 0.8908305168151855,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "RI casino operator Bally\u2019s sees stock price plunge nearly 30% after solvency warning - WPRI.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9636263251304626,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
