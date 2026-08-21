@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-08-21 03:39:15 UTC",
-    "total_articles": 16,
-    "bullish_articles": 4,
-    "bearish_articles": 12,
+    "last_updated": "2026-08-21 06:37:38 UTC",
+    "total_articles": 18,
+    "bullish_articles": 7,
+    "bearish_articles": 11,
     "articles": [
+        {
+            "title": "Hyundai's new flagship vehicle is a large luxury Genesis EV - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8003822565078735,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "US national debt hits $40 trillion, rising by $90K per second - WJLA",
             "sentiment": "POSITIVE",
@@ -32,6 +41,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Moderna and Merck shares soar on mRNA cancer vaccine - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.849797785282135,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Frozen fruit bars recalled nationwide over possible glass contamination - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9674777984619141,
@@ -53,15 +71,6 @@
             "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.7421688437461853,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX stock falls after China rocket milestone, share unlock ahead - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9476674199104309,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -120,6 +129,38 @@
             "ticker_impacts": []
         },
         {
+            "title": "Bank of America doubles down on Nvidia stock despite big risk - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9582023024559021,
+            "signal": "BEARISH",
+            "tickers": [
+                "BAC",
+                "NVDA"
+            ],
+            "primary_ticker": "BAC",
+            "ticker_impacts": [
+                {
+                    "ticker": "BAC",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Diesel in California rises to $7 a gallon as wars in Europe and Middle East strain supply - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.924191415309906,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "A New Defense Stock Is Born: Lyntris IPO Set For Wednesday - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.8899739384651184,
@@ -142,15 +183,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9531639218330383,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Hidden AirTag appears to confirm suspicions about illicit AI book scanning - 9to5Mac",
-            "sentiment": "NEGATIVE",
-            "score": 0.9337449669837952,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
