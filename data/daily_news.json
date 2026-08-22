@@ -1,9 +1,74 @@
 {
-    "last_updated": "2026-08-22 15:32:57 UTC",
+    "last_updated": "2026-08-22 18:36:12 UTC",
     "total_articles": 29,
     "bullish_articles": 8,
     "bearish_articles": 21,
     "articles": [
+        {
+            "title": "Trump pauses quota tariff on 300,000 tons of beef ahead of midterms - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9079241156578064,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US Buyback Pledge Draws Japan Comparisons and Pressures Dollar - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9285471439361572,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why does it seem like food recalls are out of control this year? - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.9609761834144592,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.882568895816803,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Walmart to finally start accepting Apple Pay and Google Pay - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8652300834655762,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL",
+                "WMT",
+                "AAPL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Here's how America's $40 trillion debt can hit your wallet - Axios",
             "sentiment": "NEGATIVE",
@@ -14,22 +79,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "\u2018Where\u2019s the humanity?\u2019 Why job seekers say hiring is \u2018broken\u2019 - USA Today",
+            "title": "SpaceX stock slides 5% for week following share unlock, big rocket news from China - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9391670227050781,
+            "score": 0.9730484485626221,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "SPCX"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Ground Beef Prices Targeted With New Tariff Relief From Trump - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9165914058685303,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "SPCX",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Micron CEO Delivers Blunt Message For Stock Investors - Yahoo Finance",
@@ -41,9 +105,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why some of America's biggest brands are losing ground in China - CNBC",
+            "title": "Biggest US Retailers Use $5 Billion in Trump Tariff Refunds to Appease Investors - Talking Points Memo",
             "sentiment": "NEGATIVE",
-            "score": 0.9525070786476135,
+            "score": 0.9404574036598206,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -76,19 +140,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Longer-dated Treasury yields hold steady after Bessent's bond buyback rally fizzles out - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9226852059364319,
-            "signal": "BEARISH",
+            "title": "Strategy's bitcoin position swings to a $1.4 billion unrealized gain - CoinDesk",
+            "sentiment": "POSITIVE",
+            "score": 0.9488690495491028,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Dollar wobbles as Treasury's bond-market buybacks raise fresh concerns - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9725778102874756,
-            "signal": "BEARISH",
+            "title": "One day after doubling Treasury buybacks, Bessent says he's ready to boost them further to push down long-term yields - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8157578110694885,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -157,9 +221,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system - NPR",
+            "title": "California company awarded $100M to develop critical mineral facility on Great Salt Lake shore - KSL News",
             "sentiment": "POSITIVE",
-            "score": 0.8615124821662903,
+            "score": 0.9246505498886108,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -183,35 +247,9 @@
             ]
         },
         {
-            "title": "Anthropic Expects to Match or Top SpaceX\u2019s Record IPO Size - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9369688630104065,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "OpenAI Halts AI Training on Advanced Model as It Detects Dark Signs Emerging - Futurism",
             "sentiment": "NEGATIVE",
             "score": 0.9515394568443298,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Evergrande founder Hui Ka Yan sentenced to life in prison - DW.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8285523056983948,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -227,18 +265,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Mortgage rates fall for second consecutive week - Fox Business",
+            "title": "Clear Eyes eye drops recalled nationwide over contamination risk, FDA says - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9760347604751587,
+            "score": 0.9498210549354553,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "US warns of active cyber threat targeting critical infrastructure - Fox Business",
+            "title": "Mortgage rates fall for second consecutive week - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9537827372550964,
+            "score": 0.9760347604751587,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -266,24 +304,6 @@
             "title": "Hong Kong conglomerate seeks $1.5 billion in damages from Panama for takeover of canal ports - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.8887955546379089,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "CMMC review: DoD\u2019s inconsistent CUI marking continues to plague program - Federal News Network",
-            "sentiment": "NEGATIVE",
-            "score": 0.9483979940414429,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "New tire rule raises concerns: 'California is particularly vulnerable here' - SFGATE",
-            "sentiment": "NEGATIVE",
-            "score": 0.9209797978401184,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
