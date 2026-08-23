@@ -1,13 +1,49 @@
 {
-    "last_updated": "2026-08-23 09:35:17 UTC",
-    "total_articles": 23,
-    "bullish_articles": 4,
-    "bearish_articles": 19,
+    "last_updated": "2026-08-23 12:37:11 UTC",
+    "total_articles": 27,
+    "bullish_articles": 6,
+    "bearish_articles": 21,
     "articles": [
         {
-            "title": "The Trump economy: $40tn debt, 6.7% mortgages and $5 diesel - Financial Times",
+            "title": "As debt surpasses $40 trillion, the bill for Washington spending comes due - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9631143808364868,
+            "score": 0.8376716375350952,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2060Their finances were tough. Then came 'insane' back-to-school costs - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.960462212562561,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Laptop catches fire on US flight, pilot reports - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8803429007530212,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bitcoin surged 25% from $64,000 to $78,500 after a Treasury tweak. Here\u2019s why - CoinDesk",
+            "sentiment": "POSITIVE",
+            "score": 0.9232033491134644,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Scoop: DOJ, TikTok settle for $400 million in children's privacy suit - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.7435730695724487,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -21,6 +57,32 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Trump Sparks Mockery After Suggesting Baffling New Use For The Military - HuffPost",
+            "sentiment": "NEGATIVE",
+            "score": 0.8145114183425903,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Boeing Engineers, Technical Workers Reject Four-Year Contract Offer - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.7545089721679688,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Tesla\u2019s Door Handles Lead to Its Biggest Recall Yet - WIRED",
@@ -40,22 +102,21 @@
             ]
         },
         {
-            "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC",
+            "title": "SpaceX stock down for week following share unlock, big rocket news from China - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8157980442047119,
+            "score": 0.9718958735466003,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "SPCX"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nearly 40,000 bottles of eye drops recalled nationwide over possible contamination - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9663515686988831,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "SPCX",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Fannie Mae dismisses senior staff in another leadership purge - Scotsman Guide",
@@ -67,9 +128,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "US borrowing costs rise as attempts to ease rates prove short-lived - BBC",
+            "title": "Stock Market on Aug. 21, 2026: Dow, S&P 500 and Nasdaq rebound, but finish week with a loss as rising bond yields rattle stocks - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9316663146018982,
+            "score": 0.7876585721969604,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "California Passes Restrictive Replacement Tire Law In The Name Of Efficiency - Yahoo Autos",
+            "sentiment": "POSITIVE",
+            "score": 0.7438322901725769,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Eye drops recalled over possible contamination, FDA reports - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9626880884170532,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -85,9 +164,27 @@
             "ticker_impacts": []
         },
         {
+            "title": "Gold And Silver Hit Highest Prices In Months\u2014Here\u2019s Why - Forbes",
+            "sentiment": "POSITIVE",
+            "score": 0.8541758060455322,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "'Damage from the chaotic tariff regime cannot be refunded': The $100 billion in refunds have wiped out revenue the import taxes brought in since May - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.9727758765220642,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "GM Faces Safety Probe Over Engine-Failure Concerns in Nearly One Million Vehicles - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9224890470504761,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -103,33 +200,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "'Save up': Sacramento tire dealer raises cost, supply concerns over California tire efficiency rules - KCRA",
-            "sentiment": "NEGATIVE",
-            "score": 0.9143521785736084,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "California gas prices see EPA intervention in emergency move targeting supply - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7668476104736328,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Moderna, Merck breakthrough could usher in wave of cancer vaccines - CNN",
-            "sentiment": "POSITIVE",
-            "score": 0.7136819958686829,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "China moves to wrap up saga of troubled property giant Evergrande after founder gets life sentence - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.7846099138259888,
@@ -139,21 +209,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "29 US states are suing Meta. What might it mean for the rest of the world? - The Conversation",
+            "title": "Ice cream bars, pops recalled from Price Chopper/Market 32 stores - NEWS10 ABC",
             "sentiment": "NEGATIVE",
-            "score": 0.8448300361633301,
+            "score": 0.9451090097427368,
             "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "'Absolutely ridiculous': Bus mistakenly shuttles passengers to North Shore, instead of North Station - WCVB",
@@ -220,24 +282,6 @@
             "title": "OpenAI Halts AI Training on Advanced Model as It Detects Dark Signs Emerging - Futurism",
             "sentiment": "NEGATIVE",
             "score": 0.9515394568443298,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mortgage rates fall for second consecutive week - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9760347604751587,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US warns of active cyber threat targeting critical infrastructure - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9537827372550964,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
