@@ -1,9 +1,77 @@
 {
-    "last_updated": "2026-08-23 18:35:47 UTC",
-    "total_articles": 22,
-    "bullish_articles": 4,
+    "last_updated": "2026-08-23 21:32:34 UTC",
+    "total_articles": 25,
+    "bullish_articles": 7,
     "bearish_articles": 18,
     "articles": [
+        {
+            "title": "New Costco sparks panic among California neighbors: \u2018I\u2019m worried about the traffic\u2019 - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.7688521146774292,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "91-year-old supermarket chain closes stores, lays off employees - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9634639620780945,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Red Lobster brings back Endless Shrimp after promotion helped push chain toward bankruptcy - Fox News",
+            "sentiment": "POSITIVE",
+            "score": 0.9368252754211426,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15% - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7784642577171326,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "INTC"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Civil society groups push FTC to sue AI companies over book destruction - Mashable",
+            "sentiment": "NEGATIVE",
+            "score": 0.8686621785163879,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dunkin\u2019 Donuts worker caught washing feet in kitchen of chain\u2019s Staten Island Ferry location, prompting health probe - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8299455046653748,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Inside Coca-Cola\u2019s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers - CNBC",
             "sentiment": "POSITIVE",
@@ -25,24 +93,6 @@
             "title": "Millions of US seniors could lose full Social Security COLAs. New proposal may preserve program, but here\u2019s who loses - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.8631686568260193,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "As debt surpasses $40 trillion, the bill for Washington spending comes due - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8376716375350952,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Hunter Dobbins isn't only injury concern as Cardinals face roster moves after bruising loss - STLtoday.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8439878821372986,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -94,6 +144,24 @@
             "ticker_impacts": []
         },
         {
+            "title": "Trump\u2019s economic challenge: $40tn debt, 6.7% mortgages and $5 diesel - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9614719152450562,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump Sparks Mockery After Suggesting Baffling New Use For The Military - Yahoo News Singapore",
+            "sentiment": "NEGATIVE",
+            "score": 0.8169018030166626,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Boeing Engineers, Technical Workers Reject Four-Year Contract Offer - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.7545089721679688,
@@ -109,15 +177,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Alfalfa sprouts recalled after E. coli, salmonella outbreak sickens dozens in 15 states - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9404685497283936,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "SpaceX stock down for week following share unlock, big rocket news from China - Yahoo Finance",
@@ -137,6 +196,24 @@
             ]
         },
         {
+            "title": "Taylor Farms lettuce may have reached 7 more states, D.C. and Puerto Rico - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.7238073348999023,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oura\u2019s sleep tracking is under fire in a proposed class action lawsuit - Android Authority",
+            "sentiment": "NEGATIVE",
+            "score": 0.9435394406318665,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Fannie Mae dismisses senior staff in another leadership purge - Scotsman Guide",
             "sentiment": "NEGATIVE",
             "score": 0.9220939874649048,
@@ -146,28 +223,37 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market on Aug. 21, 2026: Dow, S&P 500 and Nasdaq rebound, but finish week with a loss as rising bond yields rattle stocks - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.7876585721969604,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "California Passes Restrictive Replacement Tire Law In The Name Of Efficiency - Yahoo Autos",
+            "title": "California Passes Restrictive Replacement Tire Law In The Name Of Efficiency - Jalopnik",
             "sentiment": "POSITIVE",
-            "score": 0.7438322901725769,
+            "score": 0.8422347903251648,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms - Yahoo Finance",
+            "title": "Top Retailers Report More Than $5 Billion In Tariff Refunds. They\u2019re Mostly Keeping The Money. - Forbes",
+            "sentiment": "POSITIVE",
+            "score": 0.9502841830253601,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7360081672668457,
+            "score": 0.7862266302108765,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gold And Silver Hit Highest Prices In Months\u2014Here\u2019s Why - Forbes",
+            "sentiment": "POSITIVE",
+            "score": 0.8541758060455322,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -176,51 +262,6 @@
             "title": "\u2018I\u2019m worried\u2019: With TriMet service cuts arriving, some riders face scrambled commutes - OregonLive.com",
             "sentiment": "NEGATIVE",
             "score": 0.8814645409584045,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bridgeport Residents Furious About Amtrak Rail Yard Plans \u2014 And Fear Losing The White Sox - Block Club Chicago",
-            "sentiment": "NEGATIVE",
-            "score": 0.8372371196746826,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China\u2019s onetime richest man has lost everything but creditors are still owed $300 billion - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8691238760948181,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil Bulls Take Control as Iran Deal Collapses and Hormuz Stays Restricted - Crude Oil Prices Today | OilPrice.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9244202375411987,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Ice cream bars, pops recalled from Price Chopper/Market 32 stores - NEWS10 ABC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9451090097427368,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Founder who blamed $300mn fraud on head injury sentenced to prison - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8421115279197693,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
