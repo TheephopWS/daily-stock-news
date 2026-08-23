@@ -1,23 +1,49 @@
 {
-    "last_updated": "2026-08-23 00:39:06 UTC",
-    "total_articles": 26,
+    "last_updated": "2026-08-23 03:39:18 UTC",
+    "total_articles": 30,
     "bullish_articles": 11,
-    "bearish_articles": 15,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "TikTok agrees to pay $400 million to settle Justice Department children's privacy case - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.9350665211677551,
-            "signal": "BULLISH",
+            "title": "E. coli and salmonella outbreak linked to alfalfa sprouts sickens dozens across multiple states - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.834548830986023,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Bitcoin soars to nearly $80,000\u2014but crypto\u2019s new favorite coin, Hyperliquid, is stealing its thunder - Fortune",
-            "sentiment": "POSITIVE",
-            "score": 0.8049423694610596,
-            "signal": "BULLISH",
+            "title": "Boeing workers reject contract offer at crucial moment for company - The Seattle Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9494814872741699,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Nearly 40,000 bottles of eye drops recalled nationwide over possible contamination - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9663515686988831,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Exclusive | Fannie Mae Hit by Turmoil in Senior Ranks as Roughly 12 Executives Are Let Go - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9450234174728394,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -25,43 +51,8 @@
         {
             "title": "Buc-ee's CEO eyes 'conservative, business-friendly states' for expansion - USA Today",
             "sentiment": "POSITIVE",
-            "score": 0.7635171413421631,
+            "score": 0.7635160684585571,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Chinese regulators tell Tesla to fix nearly 3 million cars - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.8750470876693726,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Eye drops recalled over possible contamination, FDA reports - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9626880884170532,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Exclusive | Fannie Mae Hit by Turmoil in Senior Ranks as at Least 10 Executives Depart - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9506540298461914,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -76,18 +67,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bond yields head higher again, giving back almost all gains since Treasury Department intervention - Yahoo Finance",
+            "title": "With Bitcoin Rallying, Strategy (MSTR) Just Flipped From a $13 Billion Loss to a $1.4 Billion Gain. Should Investors Buy the Rally? - The Motley Fool",
             "sentiment": "POSITIVE",
-            "score": 0.9219217896461487,
+            "score": 0.9456730484962463,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "MSTR"
+            ],
+            "primary_ticker": "MSTR",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSTR",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy - TechCrunch",
+            "title": "US borrowing costs rise as attempts to ease rates prove short-lived - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8825690746307373,
+            "score": 0.9316663146018982,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -105,8 +104,43 @@
         {
             "title": "GM Faces Safety Probe Over Engine-Failure Concerns in Nearly One Million Vehicles - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9224888682365417,
+            "score": 0.9224890470504761,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Apollo says hackers accessed personal data in latest Wall Street breach - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.7911346554756165,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Uber set for \u20ac825mn Dutch fine over automating driver suspensions - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9593479037284851,
+            "signal": "BEARISH",
+            "tickers": [
+                "UBER"
+            ],
+            "primary_ticker": "UBER",
+            "ticker_impacts": [
+                {
+                    "ticker": "UBER",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "US Business Activity Expands at the Fastest Pace Since 2022 - Bloomberg",
+            "sentiment": "POSITIVE",
+            "score": 0.9517095685005188,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -121,53 +155,46 @@
             "ticker_impacts": []
         },
         {
-            "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants - TechCrunch",
+            "title": "'Save up': Sacramento tire dealer raises cost, supply concerns over California tire efficiency rules - KCRA",
             "sentiment": "NEGATIVE",
-            "score": 0.9137818813323975,
+            "score": 0.9143521785736084,
             "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "SpaceX stock slides 5% for week following share unlock, big rocket news from China - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9730484485626221,
-            "signal": "BEARISH",
-            "tickers": [
-                "SPCX"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "SPCX",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Micron CEO Delivers Blunt Message For Stock Investors - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8299930095672607,
+            "score": 0.8299925923347473,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "US national debt tops $40 trillion: These charts offer more context - WMUR",
+            "title": "Moderna, Merck breakthrough could usher in wave of cancer vaccines - CNN",
             "sentiment": "POSITIVE",
-            "score": 0.8792868256568909,
+            "score": 0.7136819958686829,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US national debt tops $40 trillion: These charts offer more context - WGAL",
+            "sentiment": "POSITIVE",
+            "score": 0.8772902488708496,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China moves to wrap up saga of troubled property giant Evergrande after founder gets life sentence - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7846099138259888,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -184,7 +211,7 @@
         {
             "title": "Founder who blamed $300mn fraud on head injury sentenced to prison - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8421117663383484,
+            "score": 0.8421115279197693,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -193,16 +220,25 @@
         {
             "title": "Employer health costs: Why it could be another tough year - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.8464797735214233,
+            "score": 0.8464787602424622,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Walmart stock drops 9% as sales growth slows, customers make 'trade-offs' amid high fuel costs - Yahoo Finance",
+            "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system - NPR",
+            "sentiment": "POSITIVE",
+            "score": 0.8615124821662903,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dow plunges 700 points as surging Treasury yields, Walmart sales shock Wall Street - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.971555769443512,
+            "score": 0.930968165397644,
             "signal": "BEARISH",
             "tickers": [
                 "WMT"
@@ -217,27 +253,26 @@
             ]
         },
         {
-            "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system - NPR",
+            "title": "At Walmart, billions in tariff refunds soften the blow from slower sales growth - NBC News",
             "sentiment": "POSITIVE",
-            "score": 0.8615128993988037,
+            "score": 0.9006486535072327,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US Allows Early Sales of Winter Gasoline to Help Curb Prices - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8086267113685608,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "OpenAI Halts AI Training on Advanced Model as It Detects Dark Signs Emerging - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.9515395164489746,
+            "score": 0.9515394568443298,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -253,9 +288,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump administration to back US minerals projects with $500 million in grants - Mining.com",
+            "title": "US warns of active cyber threat targeting critical infrastructure - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9537827372550964,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Blueberry recall in 8 states upgraded to FDA's highest health risk level - WUSA9",
             "sentiment": "POSITIVE",
-            "score": 0.8988194465637207,
+            "score": 0.936054527759552,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -264,7 +308,7 @@
         {
             "title": "SBA Rule Change Makes 110,000 More Businesses Eligible For Benefits - Forbes",
             "sentiment": "POSITIVE",
-            "score": 0.9259341955184937,
+            "score": 0.9259340763092041,
             "signal": "BULLISH",
             "tickers": [
                 "BA"
