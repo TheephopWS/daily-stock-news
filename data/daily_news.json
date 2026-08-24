@@ -1,26 +1,25 @@
 {
-    "last_updated": "2026-08-24 03:40:56 UTC",
-    "total_articles": 26,
-    "bullish_articles": 5,
-    "bearish_articles": 21,
+    "last_updated": "2026-08-24 06:38:25 UTC",
+    "total_articles": 23,
+    "bullish_articles": 6,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "Pilot reports possible burn injuries after passenger's laptop catches fire on American Airlines flight - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9311146140098572,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mary Julia Koch Ripped for Report on Young Men Not Working - Mediaite",
-            "sentiment": "NEGATIVE",
-            "score": 0.9109371304512024,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.7292026877403259,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "New Costco sparks panic among California neighbors: \u2018I\u2019m worried about the traffic\u2019 - New York Post",
@@ -41,9 +40,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "The end of marriage as we know it - The Hill",
+            "title": "Laptop fire on American Airlines flight leads to landing drama - USA Today",
             "sentiment": "NEGATIVE",
-            "score": 0.7088998556137085,
+            "score": 0.941912829875946,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -77,28 +76,44 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dunkin\u2019 Donuts worker caught washing feet in kitchen of chain\u2019s Staten Island Ferry location, prompting health probe - New York Post",
+            "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.8299455046653748,
+            "score": 0.7750371098518372,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "META"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Inside Coca-Cola\u2019s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.917817234992981,
+            "signal": "BULLISH",
+            "tickers": [
+                "KO"
+            ],
+            "primary_ticker": "KO",
+            "ticker_impacts": [
+                {
+                    "ticker": "KO",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Millions of US seniors could lose full Social Security COLAs. New proposal may preserve program, but here\u2019s who loses - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.8631686568260193,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "A Second Consecutive Trump Bump Has Social Security's 2027 COLA on Pace for a Double Dose of History - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.8436759114265442,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -131,9 +146,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump Sparks Mockery After Suggesting Baffling New Use For The Military - HuffPost",
+            "title": "Trump Sparks Mockery After Suggesting Baffling New Use For The Military - Yahoo News Singapore",
             "sentiment": "NEGATIVE",
-            "score": 0.8145114183425903,
+            "score": 0.8169018030166626,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -164,6 +179,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "California senator demands resignation of energy board over controversial tire rule - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.927442193031311,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "SEC accuses ex-Bank of America utilities banker of insider trading - Financial Times",
@@ -200,9 +224,9 @@
             ]
         },
         {
-            "title": "Oura\u2019s sleep tracking is under fire in a proposed class action lawsuit - Android Authority",
+            "title": "Taylor Farms lettuce may have reached 7 more states, D.C. and Puerto Rico - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9435394406318665,
+            "score": 0.7238073348999023,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -218,37 +242,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "California Passes Restrictive Replacement Tire Law In The Name Of Efficiency - Jalopnik",
+            "title": "Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters bullish majority with Warsh, PCE in focus - KITCO",
             "sentiment": "POSITIVE",
-            "score": 0.8422347903251648,
+            "score": 0.9345920085906982,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gas Prices are about to defy everything drivers expect - Yahoo Finance Singapore",
-            "sentiment": "NEGATIVE",
-            "score": 0.8940134644508362,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Sandisk (SNDK) Was Hit By A Hedge Fund Liquidation After A $35 Billion Loss - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9667350053787231,
-            "signal": "BEARISH",
             "tickers": [
-                "SNDK"
+                "META"
             ],
-            "primary_ticker": "SNDK",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "SNDK",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -256,15 +262,6 @@
             "title": "Education Department May Reinstate Forgiven Student Loans, Advocates Warn, But Risk Is Unclear - Forbes",
             "sentiment": "NEGATIVE",
             "score": 0.9581695795059204,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "\u2018I\u2019m worried\u2019: With TriMet service cuts arriving, some riders face scrambled commutes - OregonLive.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8814645409584045,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
