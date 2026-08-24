@@ -1,14 +1,32 @@
 {
-    "last_updated": "2026-08-24 12:37:52 UTC",
-    "total_articles": 26,
-    "bullish_articles": 8,
-    "bearish_articles": 18,
+    "last_updated": "2026-08-24 15:37:13 UTC",
+    "total_articles": 25,
+    "bullish_articles": 9,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "Paramount, California AG to meet over possible settlement in $110B Warner Bros. Discovery merger lawsuit - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.721306562423706,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Hormuz crisis hides a deeper oil threat that could outlast the war - Fox News",
             "sentiment": "NEGATIVE",
             "score": 0.9156938195228577,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil major Eni bets on nuclear fusion becoming its \u2018next refinery\u2019 - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.7805449366569519,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -32,18 +50,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Korean Traders Chase 40% Coupons as Risk Appetite Survives Rout - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8163734674453735,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.7292026877403259,
+            "score": 0.9007468819618225,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -58,15 +67,6 @@
             ]
         },
         {
-            "title": "New Costco sparks panic among California neighbors: \u2018I\u2019m worried about the traffic\u2019 - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7688521146774292,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Top analyst sees trouble looming for SpaceX stock - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.9388901591300964,
@@ -74,6 +74,29 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15% - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7784642577171326,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "INTC"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Laptop fire on American Airlines flight leads to landing drama - USA Today",
@@ -94,15 +117,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Civil society groups push FTC to sue AI companies over book destruction - Mashable",
-            "sentiment": "NEGATIVE",
-            "score": 0.8686621785163879,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "US battery startups have found a lifeline in defense - TechCrunch",
             "sentiment": "POSITIVE",
             "score": 0.9062946438789368,
@@ -112,9 +126,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Raley's announces new Bay Area closures as grocery chain shutters 6 statewide - SFGATE",
+            "title": "90% of executives say AI hasn\u2019t boosted productivity. Some are still cutting jobs - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9595457315444946,
+            "score": 0.9595115184783936,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -147,13 +161,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories - CoinDesk",
+            "title": "Inside Coca-Cola\u2019s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7483572959899902,
+            "score": 0.917817234992981,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "KO"
+            ],
+            "primary_ticker": "KO",
+            "ticker_impacts": [
+                {
+                    "ticker": "KO",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Millions of US seniors could lose full Social Security COLAs. New proposal may preserve program, but here\u2019s who loses - Yahoo Finance",
@@ -192,6 +214,24 @@
             "ticker_impacts": []
         },
         {
+            "title": "Bitcoin surged 25% from $64,000 to $78,500 after a Treasury tweak. Here\u2019s why - CoinDesk",
+            "sentiment": "POSITIVE",
+            "score": 0.9232033491134644,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump Sparks Mockery After Suggesting Baffling New Use For The Military - Yahoo News Singapore",
+            "sentiment": "NEGATIVE",
+            "score": 0.8169018030166626,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Boeing Engineers, Technical Workers Reject Four-Year Contract Offer - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.7545089721679688,
@@ -218,32 +258,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Taylor Farms lettuce may have reached 7 more states, D.C. and Puerto Rico - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7238073348999023,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Uber fined nearly $1 billion by Dutch regulators over automated suspensions of driver accounts - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9383718371391296,
-            "signal": "BEARISH",
-            "tickers": [
-                "UBER"
-            ],
-            "primary_ticker": "UBER",
-            "ticker_impacts": [
-                {
-                    "ticker": "UBER",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters bullish majority with Warsh, PCE in focus - KITCO",
             "sentiment": "POSITIVE",
             "score": 0.9345920085906982,
@@ -265,15 +279,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9273872375488281,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Scott Kirby Admits United\u2019s Product Isn\u2019t The Best. His Solution? Build A U.S. Global Juggernaut - Live and Let's Fly",
-            "sentiment": "POSITIVE",
-            "score": 0.800423264503479,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
