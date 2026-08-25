@@ -1,22 +1,48 @@
 {
-    "last_updated": "2026-08-25 12:37:46 UTC",
+    "last_updated": "2026-08-25 15:37:49 UTC",
     "total_articles": 25,
-    "bullish_articles": 8,
-    "bearish_articles": 17,
+    "bullish_articles": 6,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "OpenAI wants California to strengthen its newly passed AI safety law - Mashable",
+            "title": "Nvidia earnings face a frustrating reality - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.964988112449646,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Xpeng Q2 revenue rises 8% as net loss nearly triples - CnEVPost",
             "sentiment": "POSITIVE",
-            "score": 0.922386109828949,
+            "score": 0.9570341110229492,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock futures slip as tech shares fall to start the week: Live updates - CNBC",
+            "title": "OpenAI wants California to strengthen its newly passed AI safety law - Mashable",
+            "sentiment": "POSITIVE",
+            "score": 0.9223859906196594,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "California Attorney General Cancels Paramount Settlement Talks Over $111 Billion Warner Bros. Discovery Deal, Says He\u2019ll Meet When They \u2018Stop Playing Games\u2019 - Variety",
             "sentiment": "NEGATIVE",
-            "score": 0.9726545810699463,
+            "score": 0.9338781237602234,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,6 +58,33 @@
             "ticker_impacts": []
         },
         {
+            "title": "Scoop: Anthropic asks about mission versus money in candidate interviews - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9223294854164124,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Inside Moderna and Merck\u2019s cancer vaccine triumph - STAT",
+            "sentiment": "POSITIVE",
+            "score": 0.9336244463920593,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Singapore inflation hits highest in nearly two years, but undershoots expectations - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9398089647293091,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Shein seeks $27bn valuation from Hong Kong IPO - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9519160389900208,
@@ -41,28 +94,54 @@
             "ticker_impacts": []
         },
         {
-            "title": "HPD investigating unattended death of flight attendant in Waikiki - Hawaii News Now",
+            "title": "More than 20,000 homes and businesses lose power after electrical vault fire in Long Beach - Long Beach Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8623172044754028,
+            "score": 0.9555380940437317,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "HPD investigating unattended death of flight attendant in Waikiki - Hawaii News Now",
+            "sentiment": "NEGATIVE",
+            "score": 0.8623173832893372,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Shell draws Exxon interest in $8bn US chemical assets sale - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8540374040603638,
+            "signal": "BULLISH",
+            "tickers": [
+                "XOM"
+            ],
+            "primary_ticker": "XOM",
+            "ticker_impacts": [
+                {
+                    "ticker": "XOM",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Hedge Funds Ramp Up Dollar Shorts Ahead of Bessent\u2019s Fiscal Plan - Bloomberg",
             "sentiment": "NEGATIVE",
-            "score": 0.7894473671913147,
+            "score": 0.789447546005249,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oholei Torah Expands Faculty and Dorms as Zal Reaches 540 Bochurim - COLlive",
-            "sentiment": "POSITIVE",
-            "score": 0.8317671418190002,
-            "signal": "BULLISH",
+            "title": "China\u2019s $119 Billion Answer to Sagging Investment Is Coming Late - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.956749677658081,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -70,7 +149,7 @@
         {
             "title": "UAW Workers Reject Deere\u2019s Contract Extension Offer, Setting Up 2027 Battle - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9204968810081482,
+            "score": 0.9204968214035034,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -79,7 +158,7 @@
         {
             "title": "Randi Weingarten pushes Target boycott over ICE and sparks fresh fury - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9371926188468933,
+            "score": 0.9371925592422485,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -88,7 +167,7 @@
         {
             "title": "Dog food recalled across US and Canada after complaints of metal contamination - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9607869982719421,
+            "score": 0.9607870578765869,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -105,7 +184,7 @@
         {
             "title": "American Airlines flight lands safely after laptop battery catches fire on board; passenger injured - Fox News",
             "sentiment": "NEGATIVE",
-            "score": 0.8916563987731934,
+            "score": 0.8916566967964172,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -114,7 +193,7 @@
         {
             "title": "Uber faces fine of nearly $1B over automated driver suspensions - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9478232264518738,
+            "score": 0.9478233456611633,
             "signal": "BEARISH",
             "tickers": [
                 "UBER"
@@ -129,18 +208,18 @@
             ]
         },
         {
-            "title": "Judge dismisses major parts of Ben & Jerry\u2019s lawsuit accusing Unilever of silencing social activism - New York Post",
+            "title": "Kashkari says inflation could be extended \"the longer there's back and forth\" in Canada tariff fight - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9066697955131531,
+            "score": 0.7989977598190308,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Kevin Warsh seeks to soothe investors\u2019 nerves as signs of economic strain mount - Financial Times",
+            "title": "Judge dismisses major parts of Ben & Jerry\u2019s lawsuit accusing Unilever of silencing social activism - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.935075044631958,
+            "score": 0.9066696166992188,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -156,110 +235,47 @@
             "ticker_impacts": []
         },
         {
-            "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8408029079437256,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "He joined a cancer vaccine trial at UCSF. The results could mark a turning point - San Francisco Chronicle",
-            "sentiment": "POSITIVE",
-            "score": 0.7533234357833862,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil major Eni bets on nuclear fusion becoming its \u2018next refinery\u2019 - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.7805455327033997,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Buc-ee\u2019s chain draws outcry in Ohio for launching fight over mini mart\u2019s beaver logo - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9432229399681091,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Heirs to the Jack Daniel\u2019s Fortune Are Fending Off a Takeover\u2014and a Rogue Cousin - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9324281215667725,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "The Gas Turbine Shortage Just Became AI\u2019s Biggest Constraint - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7075688242912292,
+            "score": 0.7075695395469666,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "\u201cIt Makes Things Even Worse\u201d: People Are Calling Out The \u201cHealthy\u201d Habits That Are Secretly Really Bad For You - buzzfeed.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8901360034942627,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US battery startups have found a lifeline in defense - TechCrunch",
+            "title": "Nvidia customers reportedly warned about AI-related price hikes - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9062947630882263,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Inside Coca-Cola\u2019s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9178175330162048,
+            "score": 0.79103684425354,
             "signal": "BULLISH",
             "tickers": [
-                "KO"
+                "NVDA"
             ],
-            "primary_ticker": "KO",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "KO",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "A Second Consecutive Trump Bump Has Social Security's 2027 COLA on Pace for a Double Dose of History - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.843675971031189,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Tesla Recalls Nearly 3 Million Cars in China for Door Handles, Will Introduce Software Changes - Not a Tesla App",
+            "sentiment": "NEGATIVE",
+            "score": 0.8338307738304138,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
