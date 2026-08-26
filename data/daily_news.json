@@ -1,9 +1,35 @@
 {
-    "last_updated": "2026-08-26 09:37:26 UTC",
+    "last_updated": "2026-08-26 12:38:15 UTC",
     "total_articles": 30,
-    "bullish_articles": 7,
-    "bearish_articles": 23,
+    "bullish_articles": 12,
+    "bearish_articles": 18,
     "articles": [
+        {
+            "title": "Stock Market Today: Bitcoin Extends Rally, Crossing Above $80,000 - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9352861642837524,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Earnings live updates: Dick's Sporting Goods stock tanks after retailer slashes outlook amid 'challenging conditions' - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9258617162704468,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
         {
             "title": "World shares mostly gain and oil prices slip as the US raises pressure on Iran - AP News",
             "sentiment": "NEGATIVE",
@@ -14,19 +40,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock? - Yahoo Finance",
+            "title": "Anthropic tells San Francisco staff to work from home due to possible security team strike - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.729494035243988,
+            "score": 0.9603636860847473,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Biggest stock movers Tuesday: BE, INTC, and more - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.7882430553436279,
+            "signal": "BULLISH",
             "tickers": [
                 "NVDA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -38,23 +73,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Bitcoin (BTC) Reaches Three-Month High of $80,000 as Momentum Returns - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.9358188509941101,
-            "signal": "BULLISH",
-            "tickers": [
-                "BTC"
-            ],
-            "primary_ticker": "BTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "BTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Stock futures are flat as investors await Nvidia earnings, inflation report due later this week: Live updates - CNBC",
@@ -74,24 +92,6 @@
             ]
         },
         {
-            "title": "China robot maker Unitree's post-listing slump sparks bubble fears - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9718030691146851,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Target apologizes for children\u2019s clown Halloween costume after backlash - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9450371265411377,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Shooting involving at least one officer after disturbance at Lodi McDonald's, police say - KCRA",
             "sentiment": "NEGATIVE",
             "score": 0.8903062343597412,
@@ -101,27 +101,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.8753629922866821,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Buc-ee\u2019s CEO signals expansion shift away from blue states that \u2018don\u2019t appreciate\u2019 chain - Fox Business",
             "sentiment": "POSITIVE",
             "score": 0.9093949198722839,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Asian Stocks Under Pressure After US Tech Selloff: Markets Wrap - Bloomberg",
+            "sentiment": "POSITIVE",
+            "score": 0.8992066383361816,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Dow gains but S&P 500, Nasdaq drop as trade tensions rise; oil prices fall after 'Operation Outcast' against Iran announced - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9705502986907959,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -144,45 +145,18 @@
             ]
         },
         {
-            "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7976864576339722,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "First Brands forced into liquidation by bankruptcy court - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8801912069320679,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Whiskey-soaked 'Succession:' Jack Daniel's heirs in bitter family feud as $15B hostile bid looms - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7455720901489258,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staffers - PBS",
-            "sentiment": "NEGATIVE",
-            "score": 0.9543881416320801,
-            "signal": "BEARISH",
+            "title": "Amazon Jumps 1.8% as AWS Growth Overpowers Tech Anxiety - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8882234692573547,
+            "signal": "BULLISH",
             "tickers": [
-                "NVDA"
+                "AMZN"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
-                    "impact": "negative",
+                    "ticker": "AMZN",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
@@ -197,10 +171,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Founder Comes Clean Over $6M Payment That Got Forbes Editor Fired - The Daily Beast",
-            "sentiment": "NEGATIVE",
-            "score": 0.8818516731262207,
-            "signal": "BEARISH",
+            "title": "IonQ Makes Unexpected Move Beyond Quantum - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8425576090812683,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -209,6 +183,24 @@
             "title": "Wendy's CEO Says Food Quality Hasn\u2019t Been Chain\u2019s Top Priority\u2014Vows Changes - Forbes",
             "sentiment": "NEGATIVE",
             "score": 0.9397760033607483,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "California attorney general cancels talks with Paramount, accuses company of leaks - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8776144981384277,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Popular dog food recalled over potential contamination - WGN-TV",
+            "sentiment": "NEGATIVE",
+            "score": 0.9576821327209473,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -250,6 +242,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Memory Stocks Slide on Report Apple May Source Chinese Chips: SanDisk Down 9%, Micron and Western Digital Down 7% - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.9732407331466675,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "How Shein\u2019s IPO lost its shine - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9005531072616577,
@@ -259,18 +268,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck - Yahoo Finance",
+            "title": "Global Bond Yields Fall on Declining Oil, Prospects of Further Treasury Action - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9621229767799377,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Down 40% on AI Pressure, Michael Burry Says Alibaba Needs to Still Fall by Half - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.9700790047645569,
+            "score": 0.9377469420433044,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -312,6 +312,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Xpeng Q2 revenue rises 8% as net loss nearly triples - CnEVPost",
+            "sentiment": "POSITIVE",
+            "score": 0.9570341110229492,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Inside Moderna and Merck\u2019s cancer vaccine triumph - STAT",
             "sentiment": "POSITIVE",
             "score": 0.9336244463920593,
@@ -319,23 +328,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Shell draws Exxon interest in $8bn US chemical assets sale - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8540374040603638,
-            "signal": "BULLISH",
-            "tickers": [
-                "XOM"
-            ],
-            "primary_ticker": "XOM",
-            "ticker_impacts": [
-                {
-                    "ticker": "XOM",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Randi Weingarten pushes Target boycott over ICE and sparks fresh fury - New York Post",
