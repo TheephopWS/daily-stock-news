@@ -1,9 +1,32 @@
 {
-    "last_updated": "2026-08-26 15:57:25 UTC",
-    "total_articles": 26,
-    "bullish_articles": 8,
-    "bearish_articles": 18,
+    "last_updated": "2026-08-26 19:06:55 UTC",
+    "total_articles": 27,
+    "bullish_articles": 7,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "Why Nvidia rival AMD may see a 40% rip in its stock - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.8639109134674072,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD",
+                "NVDA"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Target \u2018deeply sorry\u2019 for children\u2019s Halloween costume compared to blackface - The Washington Post",
             "sentiment": "NEGATIVE",
@@ -14,18 +37,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Dow and S&P 500 edge higher, chip stocks jump a day ahead of Nvidia results and inflation data; global oil prices below $88 a barrel - MarketWatch",
+            "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9662368893623352,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Exclusive | Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.8713219165802002,
+            "score": 0.895865797996521,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon delivery driver accused of hitting elderly man at Elk Grove gas station, police say - KCRA",
+            "sentiment": "NEGATIVE",
+            "score": 0.7920684814453125,
+            "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "AMZN"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
-                    "impact": "positive",
+                    "ticker": "AMZN",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
@@ -40,9 +81,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "US consumer confidence falls to lowest level in 7 months with gas stuck above $4 - AP News",
+            "title": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9027276039123535,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Trump's 50% Auto Tariffs On Canada Are Going To Ravage Jobs And Profits On Both Sides Of The Border - Jalopnik",
             "sentiment": "NEGATIVE",
-            "score": 0.9737622141838074,
+            "score": 0.7628156542778015,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US Consumer Confidence Hits Seven-Month Low on Worse Outlook - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9758077263832092,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -67,23 +134,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia stock is on a 7-day losing streak ahead of its big earnings report - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.971038818359375,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Earnings live updates: Dick's Sporting Goods stock tanks after retailer slashes outlook amid 'challenging conditions' - Yahoo Finance",
             "sentiment": "POSITIVE",
             "score": 0.9258617162704468,
@@ -104,6 +154,15 @@
             "title": "United adds 10 new international destinations in massive 13-route global expansion - The Points Guy",
             "sentiment": "POSITIVE",
             "score": 0.7766761183738708,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump plans to grow his way out of $40 trillion debt crisis\u2014it\u2019s a \u2018fantastic story\u2019 but virtually impossible, says top budget economist - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8478673696517944,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -137,71 +196,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Lawsuit filed after shocking video shows delivery driver punching man at California gas station - ABC7 Los Angeles",
+            "title": "Gold hovers near three-month high on dollar weakness, Treasury bond buyback plans - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9337074756622314,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Shooting involving at least one officer after disturbance at Lodi McDonald's, police say - KCRA",
-            "sentiment": "NEGATIVE",
-            "score": 0.8903062343597412,
+            "score": 0.9519137144088745,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "FDA approves new blood test for Alzheimer\u2019s disease - The Hill",
-            "sentiment": "POSITIVE",
-            "score": 0.917961835861206,
-            "signal": "BULLISH",
-            "tickers": [
-                "FDA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "FDA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it - CNBC",
+            "title": "Stock Market Today: Dow gains but S&P 500, Nasdaq drop as trade tensions rise; oil prices fall after 'Operation Outcast' against Iran announced - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.7976864576339722,
+            "score": 0.9705502986907959,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "First Brands forced into liquidation by bankruptcy court - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8801912069320679,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "IonQ Makes Unexpected Move Beyond Quantum - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8425576090812683,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -243,6 +250,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "XPeng Sinks 7% as Q2 Miss Overshadows $6.3B Robotics Valuation, NIO Drops 4%, Tesla Slips - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.9700649976730347,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9621229767799377,
@@ -256,15 +280,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9541612863540649,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US plans nuclear-powered merchant fleet to challenge China\u2019s shipbuilding dominance - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.715381383895874,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
