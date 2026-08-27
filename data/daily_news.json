@@ -1,23 +1,80 @@
 {
-    "last_updated": "2026-08-27 02:04:12 UTC",
-    "total_articles": 22,
+    "last_updated": "2026-08-27 05:10:00 UTC",
+    "total_articles": 25,
     "bullish_articles": 5,
-    "bearish_articles": 17,
+    "bearish_articles": 20,
     "articles": [
         {
-            "title": "Falling oil prices help calm the stock and bond markets - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.9262472987174988,
-            "signal": "BULLISH",
+            "title": "Why has Tesla been caught up in a massive car recall in China? - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9378176331520081,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Deloitte to pay Trump administration $21.5mn to settle \u2018discriminatory\u2019 practices investigation - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.7655035853385925,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Intuit Beats Fiscal Q4 Targets But Misses With Outlook - Investor's Business Daily",
+            "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9722989201545715,
+            "score": 0.8913362622261047,
             "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Asian Stocks Set to Gain as Oil Extends Declines: Markets Wrap - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9314293265342712,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Falling oil prices help calm the stock and bond markets - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.9262472987174988,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -44,15 +101,6 @@
             "title": "Franklin Mint Federal Credit Union reports service disruption, says member accounts not compromised - 6abc Philadelphia",
             "sentiment": "NEGATIVE",
             "score": 0.9619751572608948,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Target Shares Fall After Pulling Halloween Costume Evoking Blackface - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.973063588142395,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -94,6 +142,32 @@
             "ticker_impacts": []
         },
         {
+            "title": "Texas Roadhouse responds to claim employees tampered with black customers\u2019 food - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9443464875221252,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Anthropic\u2019s $2T IPO could create millionaires\u2014but it\u2019s asking candidates what they\u2019d do if stock hit zero - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9194766283035278,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Elon Musk's data centers are pushing out a family that's owned land since \"before people of color were allowed to\" - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.8967780470848083,
@@ -112,10 +186,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI\u2019s Jalape\u00f1o chip is built for fast inference at scale, benchmarks show - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.765789270401001,
-            "signal": "BULLISH",
+            "title": "Mystery death of flight attendant who fell from hotel probed by homicide squad \u2014 as family fears \u2018foul play\u2019 - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.7133620977401733,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bristol Myers ends deal with Cellares, cell therapy manufacturer to reorg - Endpoints News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9605129361152649,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -148,35 +231,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Scott Bessent's Big Announcement Could Be Bad News for These 2 Bond ETFs - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9572193622589111,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.8753629922866821,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staffers - PBS",
-            "sentiment": "NEGATIVE",
-            "score": 0.9543881416320801,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -200,18 +257,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Over 1.1 million GM vehicles, including EVs, are under NHTSA investigation - Electrek",
+            "title": "Popular dog food recalled over potential contamination - WGN-TV",
             "sentiment": "NEGATIVE",
-            "score": 0.9371564388275146,
+            "score": 0.9576821327209473,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Popular dog food recalled over potential contamination - WGN-TV",
+            "title": "Police shoot, kill McDonald's employee who shot co-worker in Lodi - KCRA",
             "sentiment": "NEGATIVE",
-            "score": 0.9576821327209473,
+            "score": 0.9097804427146912,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
