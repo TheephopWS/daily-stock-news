@@ -1,31 +1,30 @@
 {
-    "last_updated": "2026-08-27 16:06:54 UTC",
-    "total_articles": 18,
-    "bullish_articles": 4,
+    "last_updated": "2026-08-27 21:37:36 UTC",
+    "total_articles": 20,
+    "bullish_articles": 6,
     "bearish_articles": 14,
     "articles": [
         {
-            "title": "Fed\u2019s preferred inflation gauge shows core prices rose 3.3% annually in July - CNBC",
+            "title": "Salesforce stock jumps 14% on AI growth and Anthropic investment gain - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9378829598426819,
+            "score": 0.9566018581390381,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "CRM"
+            ],
+            "primary_ticker": "CRM",
+            "ticker_impacts": [
+                {
+                    "ticker": "CRM",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Hyundai has grown more than any automaker in the U.S. \u2014 and it's not done yet - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9115045070648193,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market Today: Nasdaq, S&P Futures Slip; Investors Await Nvidia Earnings \u2014 Live Updates - WSJ",
+            "title": "S&P 500 is little changed after PCE report shows sticky inflation; Nvidia earnings on deck: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9454225897789001,
+            "score": 0.8646951913833618,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -40,27 +39,43 @@
             ]
         },
         {
-            "title": "Dick's Sporting Goods' stock crash reveals a major problem for struggling Nike - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9654645919799805,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Meta agrees to pay up to $18bn to settle claims its platforms harm children - BBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9105350971221924,
+            "signal": "BULLISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Americans traveling to Canada may be wondering about one thing - USA Today",
+            "title": "Stock Market Today: Dow off 140 points, S&P 500 and Nasdaq lower as bond yields rise; PCE inflation data ticks higher in July and investors await Nvidia earnings - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9528614282608032,
+            "score": 0.9685134887695312,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Mortgage rates hit highest level in 3 weeks, weakening demand further - CNBC",
+            "title": "Oil prices tumble amid renewed optimism over the Strait of Hormuz - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9660488367080688,
+            "score": 0.9143872857093811,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -76,9 +91,106 @@
             "ticker_impacts": []
         },
         {
-            "title": "Soaring summer power bills spark protests \u2014 and even disconnections - NPR",
+            "title": "Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9267757534980774,
+            "score": 0.8473672866821289,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Burger King tackles soaring beef costs without squeezing customers - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.9167492985725403,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8481627106666565,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Broadcom\u2019s Real Risk Is Its Customer List - Trefis",
+            "sentiment": "NEGATIVE",
+            "score": 0.8888838887214661,
+            "signal": "BEARISH",
+            "tickers": [
+                "AVGO"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AVGO",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Earnings live updates: Abercrombie & Fitch stock jumps on earnings beat, guidance raise - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9403307437896729,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Hyundai has grown more than any automaker in the U.S. \u2014 and it's not done yet - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9115045070648193,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dick's Sporting Goods' stock crash reveals a major problem for struggling Nike - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9654645919799805,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mortgage rates hit highest level in 3 weeks, weakening demand further - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9660488367080688,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "How to avoid a Social Security cut? Lawmakers are floating ideas for what to do - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8459183573722839,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features' - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.956734299659729,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -94,89 +206,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Scott Bessent\u2019s bond intervention puts US Treasury on collision course with Fed - Financial Times",
+            "title": "Intuit Beats Fiscal Q4 Targets But Misses With Outlook - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9376283288002014,
+            "score": 0.9722989201545715,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Citadel Securities\u2019 Flight Reverses Bearish Call on Long Bonds - Bloomberg.com",
+            "title": "Trump Approval Rating as Consumer Confidence Drops 70 Days Before Midterm - Newsweek",
             "sentiment": "NEGATIVE",
-            "score": 0.8847755193710327,
+            "score": 0.9679176211357117,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Gavin Newsom warned California\u2019s $231B bullet train could run out of cash - New York Post",
+            "title": "Nationwide donut recall after allergic reaction reported: FDA - FOX 8 News",
             "sentiment": "NEGATIVE",
-            "score": 0.930521547794342,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Falling oil prices help calm the stock and bond markets - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.9262472987174988,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "These Social Security recipients face losing $16,900 a year in benefits, study shows - Cleveland.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9520111083984375,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Amazon delivery driver accused of hitting elderly man at Elk Grove gas station, police say - KCRA",
-            "sentiment": "NEGATIVE",
-            "score": 0.7920684814453125,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "US consumer confidence falls to lowest level in 7 months with gas stuck above $4 - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9737622141838074,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bristol Myers ends deal with Cellares, cell therapy manufacturer to reorg - Endpoints News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9605129361152649,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "NYPD reveals new details after people seen leaving sewer system near Penn Station - ABC7 Los Angeles",
-            "sentiment": "NEGATIVE",
-            "score": 0.8131354451179504,
+            "score": 0.8938966989517212,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
