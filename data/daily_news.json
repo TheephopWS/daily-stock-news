@@ -1,9 +1,36 @@
 {
-    "last_updated": "2026-08-28 09:37:01 UTC",
-    "total_articles": 20,
-    "bullish_articles": 6,
-    "bearish_articles": 14,
+    "last_updated": "2026-08-28 16:33:36 UTC",
+    "total_articles": 24,
+    "bullish_articles": 7,
+    "bearish_articles": 17,
     "articles": [
+        {
+            "title": "American Airlines is adding new direct flights to these European cities - Inquirer.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7832061648368835,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Best Buy tops quarterly estimates, raises outlook as computing shows strength - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.946403443813324,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump reckons with his least favorite president - MS NOW",
+            "sentiment": "NEGATIVE",
+            "score": 0.8285214900970459,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Stock futures rise as Nvidia shares gain over 4% after earnings: Live updates - CNBC",
             "sentiment": "POSITIVE",
@@ -22,78 +49,44 @@
             ]
         },
         {
-            "title": "Nvidia closes in on Hugging Face acquisition - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.832755446434021,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "US Probes Apex Logistics Over Alleged Nvidia AI Chip Smuggling - Bloomberg.com",
+            "title": "Google DeepMind is losing its grip on elite AI talent, new data shows - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.7809871435165405,
+            "score": 0.9716454744338989,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "GOOGL"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Hundreds of AI agents went rogue in OpenAI\u2019s Hugging Face hack - Politico",
+            "title": "FDA approves landmark pancreatic cancer drug that's shown to improve survival - NPR",
+            "sentiment": "POSITIVE",
+            "score": 0.8117352724075317,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Government admits water system cyberattacks were worse than first reported - NBC Chicago",
             "sentiment": "NEGATIVE",
-            "score": 0.9207461476325989,
+            "score": 0.9476705193519592,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "FDA approves pancreatic cancer drug that extends patients\u2019 lives - The Washington Post",
-            "sentiment": "POSITIVE",
-            "score": 0.9121365547180176,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia Reports Blowout Quarter, Says Demand for AI Chips Is Getting Even Hotter - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9467231631278992,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "'Tragic accident' unfolds as travelers, employees witness deadly passenger jet incident - Fox News",
             "sentiment": "NEGATIVE",
-            "score": 0.8852869272232056,
+            "score": 0.8852870464324951,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -102,7 +95,16 @@
         {
             "title": "Target faces renewed backlash after selling a Halloween costume with 'minstrel show features' - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.9207250475883484,
+            "score": 0.9207254648208618,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "American Airlines plane blows 2 tires at Chicago O'Hare Airport before takeoff; 4th incident in about 2 weeks - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.948867917060852,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -111,7 +113,7 @@
         {
             "title": "Bill Gates issues stark warning about AI's impact on American jobs - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.8900538682937622,
+            "score": 0.8900535702705383,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -124,6 +126,32 @@
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.8834441900253296,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Trump Moves to Ban Some Foreign Energy Equipment From Grid - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.8051254749298096,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain - CNBC",
@@ -143,6 +171,32 @@
             ]
         },
         {
+            "title": "Synopsys Posts Financial Results for Third Quarter Fiscal Year 2026 - Synopsys",
+            "sentiment": "POSITIVE",
+            "score": 0.9545465111732483,
+            "signal": "BULLISH",
+            "tickers": [
+                "EPS"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "EPS",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Exclusive | Dunlop CEO tears Gavin Newsom\u2019s tire rule apart in brutal takedown - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9375412464141846,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Medical device maker Boston Scientific says a cyberattack is causing a 'global disruption' to its operations - TechCrunch",
             "sentiment": "NEGATIVE",
             "score": 0.9554271101951599,
@@ -154,16 +208,7 @@
         {
             "title": "US inflation holds at 3.7 percent in July, above Fed target - Al Jazeera",
             "sentiment": "NEGATIVE",
-            "score": 0.9550207257270813,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil prices tumble amid renewed optimism over the Strait of Hormuz - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9143877625465393,
+            "score": 0.9550206065177917,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -172,7 +217,7 @@
         {
             "title": "The $40 trillion national debt and the bond market's revolt: top Wall Street strategists explain how we got into this mess - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.8158846497535706,
+            "score": 0.8158848881721497,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -181,16 +226,16 @@
         {
             "title": "New brands flock to Target\u2019s post-Ulta beauty section - Modern Retail",
             "sentiment": "POSITIVE",
-            "score": 0.7121148109436035,
+            "score": 0.7121145129203796,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh - CNBC",
+            "title": "Trump\u2019s Policies Find an Unlikely Beneficiary: Canadian Stocks - Bloomberg",
             "sentiment": "NEGATIVE",
-            "score": 0.8481622338294983,
+            "score": 0.7133424878120422,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -206,27 +251,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Mortgage rates hit highest level in 3 weeks, weakening demand further - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9660488367080688,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "What's Upsetting the Bond Market? - The Big Picture - The Big Picture",
-            "sentiment": "NEGATIVE",
-            "score": 0.9312378168106079,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "The Doctor Is Out: Private Equity Clinic Closures Led to Gap in Some Patients\u2019 Care - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9702349901199341,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI loses a top data center exec as stream of high-profile departures continues - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8839858174324036,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
