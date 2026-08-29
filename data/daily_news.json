@@ -1,13 +1,40 @@
 {
-    "last_updated": "2026-08-28 21:38:07 UTC",
-    "total_articles": 25,
-    "bullish_articles": 5,
-    "bearish_articles": 20,
+    "last_updated": "2026-08-29 00:55:48 UTC",
+    "total_articles": 29,
+    "bullish_articles": 8,
+    "bearish_articles": 21,
     "articles": [
+        {
+            "title": "FDA approves daily HIV pill from Gilead designed to simplify treatment for some patients - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7206001281738281,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Marvell Q2 FY2027 earnings: record revenue, raised guidance - qz.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9559014439582825,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Gap shares jump 9% after company names new Old Navy CEO to revive struggling brand - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9628388285636902,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Canadian retailers scramble to deal with \u2018staggering\u2019 U.S. tariffs - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.88815838098526,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,23 +50,40 @@
             "ticker_impacts": []
         },
         {
+            "title": "Parent activist says Meta settlement is 'peanuts,' calls on Zuckerberg to speak out - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.8786571025848389,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Stock Market Today: S&P 500 and Nasdaq are up in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on tap - MarketWatch",
             "sentiment": "POSITIVE",
             "score": 0.8671309351921082,
             "signal": "BULLISH",
             "tickers": [
-                "CRM",
-                "NVDA"
+                "NVDA",
+                "CRM"
             ],
-            "primary_ticker": "CRM",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "CRM",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "CRM",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -55,36 +99,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "\u2018Headless software\u2019 signals further AI-led shake-up - Financial Times",
+            "title": "Trump declares emergency, moves to block some foreign-made equipment from grid - Utility Dive - Utility Dive",
             "sentiment": "NEGATIVE",
-            "score": 0.7645679116249084,
+            "score": 0.8432372212409973,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Hackers steal data from millions of airport customers - BBC",
+            "title": "Fed's Lisa Cook pushes back on Trump firing threat, says she \"never committed mortgage fraud\" - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.814060628414154,
+            "score": 0.8214258551597595,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Lisa Cook fires back at White House, argues no legal basis for her removal - MS NOW",
+            "title": "In-depth: Manchester Airports Group confirms cyber attack - International Airport Review",
             "sentiment": "NEGATIVE",
-            "score": 0.9475247263908386,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump declares national emergency to ban some foreign grid equipment - The Hill",
-            "sentiment": "NEGATIVE",
-            "score": 0.8961229920387268,
+            "score": 0.9390019774436951,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -105,18 +140,18 @@
             "score": 0.9546529650688171,
             "signal": "BEARISH",
             "tickers": [
-                "CRM",
-                "ADBE"
+                "ADBE",
+                "CRM"
             ],
-            "primary_ticker": "CRM",
+            "primary_ticker": "ADBE",
             "ticker_impacts": [
                 {
-                    "ticker": "CRM",
+                    "ticker": "ADBE",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "ADBE",
+                    "ticker": "CRM",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -141,9 +176,59 @@
             "ticker_impacts": []
         },
         {
+            "title": "American Airlines Jet Blows Tires in Alarming Airport Trend - The Daily Beast",
+            "sentiment": "NEGATIVE",
+            "score": 0.9434766173362732,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nearly 8% of bitcoin\u2019s supply sits between $80,000 and $82,000, creating resistance - CoinDesk",
+            "sentiment": "POSITIVE",
+            "score": 0.8859500885009766,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "4 largest ski resort companies are a \u201ccartel\u201d scheming to raise prices, Colorado lawsuit alleges - The Colorado Sun",
             "sentiment": "NEGATIVE",
             "score": 0.9137783646583557,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump's oil and gas stock trades continued during Iran war, filings show - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7315049171447754,
+            "signal": "BEARISH",
+            "tickers": [
+                "CVX",
+                "XOM"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "CVX",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "XOM",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "School districts face a back-to-school math problem: The high price of diesel - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.9521841406822205,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -154,6 +239,15 @@
             "sentiment": "POSITIVE",
             "score": 0.8117352724075317,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bill Gates sounds the alarm on an AI transition - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.7873789072036743,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -186,41 +280,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Sportswear giant closes 113 stores as shares plunge - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9688794612884521,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "American Airlines plane blows 2 tires at Chicago O'Hare Airport before takeoff; 4th incident in about 2 weeks - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.948867917060852,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bill Gates issues stark warning about AI's impact on American jobs - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8900535702705383,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Medical device maker Boston Scientific says a cyberattack is causing a 'global disruption' to its operations - TechCrunch",
             "sentiment": "NEGATIVE",
             "score": 0.9554271101951599,
@@ -251,15 +310,6 @@
             "title": "Mortgage rates hit highest level in 3 weeks, weakening demand further - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9660488367080688,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump plan to raise borrowing limit on shaky ground as debt roils bond market - The Hill",
-            "sentiment": "NEGATIVE",
-            "score": 0.9468979835510254,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
