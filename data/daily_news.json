@@ -1,13 +1,57 @@
 {
-    "last_updated": "2026-08-29 18:30:59 UTC",
-    "total_articles": 21,
-    "bullish_articles": 6,
-    "bearish_articles": 15,
+    "last_updated": "2026-08-29 21:27:11 UTC",
+    "total_articles": 17,
+    "bullish_articles": 5,
+    "bearish_articles": 12,
     "articles": [
+        {
+            "title": "US stocks drift lower after expectations rise for the Fed to hike rates to get handle on inflation - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9677197337150574,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "States can regulate prediction markets as gambling, federal appeals court rules - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.9082615971565247,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mark Walter\u2019s Biggest Insurer Sees Banks Pause Sales Amid Probe - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9380685687065125,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia (NVDA) Pulls Back A Financing Program Right After Blowout Earnings - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.87735915184021,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Affirm (AFRM) Q4 Earnings Report: Revenue, GMV, Credit Quality, and Stock Outlook - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9508713483810425,
+            "score": 0.950871467590332,
             "signal": "BULLISH",
             "tickers": [
                 "AFRM"
@@ -24,7 +68,7 @@
         {
             "title": "US Treasury imposes limits on Egyptian bank for doing business with Iran - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8027100563049316,
+            "score": 0.8027101755142212,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -34,15 +78,6 @@
             "title": "Canada Economy Grows 3.3% in Second Quarter, Fastest Since '23 - Bloomberg.com",
             "sentiment": "POSITIVE",
             "score": 0.9484648108482361,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Japan Spent Record $98.7 Billion to Prop Up Yen in Past Month - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.8054773211479187,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -66,36 +101,9 @@
             ]
         },
         {
-            "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.898727297782898,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Imax says it's open to a sale. Why is no one buying? - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7168943881988525,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Musk\u2019s AI company sues its users as victim lawsuits over Grok deepfakes mount - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.866141140460968,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Frozen Buffalo Chicken Recall: Highest Risk Warning Over Food Safety - Newsweek",
-            "sentiment": "NEGATIVE",
-            "score": 0.9375794529914856,
+            "score": 0.8661408424377441,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -104,7 +112,7 @@
         {
             "title": "Viola Davis slams Target\u2019s apology after stores pull offensive kids\u2019 Halloween costume: \u2018You are not on OUR side\u2019 - Entertainment Weekly",
             "sentiment": "NEGATIVE",
-            "score": 0.9172440767288208,
+            "score": 0.9172442555427551,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -113,21 +121,21 @@
         {
             "title": "Stock Market on Aug. 27, 2026: S&P 500 and Nasdaq close higher in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on - MarketWatch",
             "sentiment": "POSITIVE",
-            "score": 0.8660038113594055,
+            "score": 0.8660044074058533,
             "signal": "BULLISH",
             "tickers": [
-                "CRM",
-                "NVDA"
+                "NVDA",
+                "CRM"
             ],
-            "primary_ticker": "CRM",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "CRM",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "CRM",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -136,42 +144,16 @@
         {
             "title": "Marvell Stock Sinks as Big Expectations Outweigh Solid Earnings - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9493566155433655,
+            "score": 0.9493563771247864,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Parents who lost children to social media harms question Meta settlement - Al Jazeera",
+            "title": "Trump executive order bans some foreign equipment in US energy grid - Al Jazeera",
             "sentiment": "NEGATIVE",
-            "score": 0.9279884099960327,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "AI industry says Trump plans to tax chips in the \u201csingle dumbest way imaginable\u201d - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.8972164988517761,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump declares emergency, moves to block some foreign-made equipment from grid - Utility Dive",
-            "sentiment": "NEGATIVE",
-            "score": 0.876224160194397,
+            "score": 0.9430647492408752,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -189,48 +171,16 @@
         {
             "title": "Fed's Lisa Cook pushes back on Trump firing threat, says she \"never committed mortgage fraud\" - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.8214258551597595,
+            "score": 0.82142573595047,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Salesforce Soars 14% as Claudeforce and a Guidance Raise End the Slump, ServiceNow Climbs 5%, Adobe Advances 3% - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.9546529650688171,
-            "signal": "BEARISH",
-            "tickers": [
-                "ADBE",
-                "CRM"
-            ],
-            "primary_ticker": "ADBE",
-            "ticker_impacts": [
-                {
-                    "ticker": "ADBE",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "CRM",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "DHL cargo jet erupts in flames during landing at LAX - KTLA",
             "sentiment": "NEGATIVE",
-            "score": 0.7385472655296326,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Two American Airlines tires blow out on runway \u2014 marking major escalation in troubling incidents - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9633570909500122,
+            "score": 0.7385475039482117,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
