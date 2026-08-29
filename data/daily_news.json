@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-08-29 12:35:28 UTC",
-    "total_articles": 21,
+    "last_updated": "2026-08-29 15:27:11 UTC",
+    "total_articles": 20,
     "bullish_articles": 4,
-    "bearish_articles": 17,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "Japan Spent Record $98.7 Billion to Prop Up Yen in Past Month - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8054773211479187,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Musk\u2019s AI company sues its users as victim lawsuits over Grok deepfakes mount - Politico",
             "sentiment": "NEGATIVE",
@@ -23,18 +32,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "S&P 500 futures are little changed as investors count down to Warsh's Jackson Hole address: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8359933495521545,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Cyclospora outbreak linked to recalled iceberg lettuce tied to 3 more states, FDA says - CBS News",
+            "title": "Frozen Buffalo Chicken Recall: Highest Risk Warning Over Food Safety - Newsweek",
             "sentiment": "NEGATIVE",
-            "score": 0.7189655303955078,
+            "score": 0.9375794529914856,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -44,15 +44,6 @@
             "title": "Viola Davis slams Target\u2019s apology after stores pull offensive kids\u2019 Halloween costume: \u2018You are not on OUR side\u2019 - Entertainment Weekly",
             "sentiment": "NEGATIVE",
             "score": 0.9172440767288208,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tech giants urge global response to AI cybersecurity threats - DW.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9444851279258728,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -77,6 +68,29 @@
             "ticker_impacts": []
         },
         {
+            "title": "Tech stocks lead Wall Street after Nvidia, Salesforce and others say AI is creating big growth - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.9128172397613525,
+            "signal": "BULLISH",
+            "tickers": [
+                "CRM",
+                "NVDA"
+            ],
+            "primary_ticker": "CRM",
+            "ticker_impacts": [
+                {
+                    "ticker": "CRM",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Trump executive order bans some foreign equipment in US energy grid - Al Jazeera",
             "sentiment": "NEGATIVE",
             "score": 0.9430647492408752,
@@ -89,15 +103,6 @@
             "title": "Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9636446833610535,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The surprising reason food recalls are getting worse - vox.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9635757207870483,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -121,15 +126,6 @@
             ]
         },
         {
-            "title": "Fed-Treasury \u2018Regime Change\u2019 May Fuel Bonds, Citrini Says - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9231110215187073,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "AI industry says Trump plans to tax chips in the \u201csingle dumbest way imaginable\u201d - Ars Technica",
             "sentiment": "NEGATIVE",
             "score": 0.8972164988517761,
@@ -142,6 +138,15 @@
             "title": "California McDonald's worker accused of shooting colleague in restaurant before police intervene - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.8923829197883606,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Sick Delta Air Lines captain diverts plane. 'I'm the one that's ill' - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.7402114868164062,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
