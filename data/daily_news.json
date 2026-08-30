@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-08-29 21:27:11 UTC",
-    "total_articles": 17,
-    "bullish_articles": 5,
-    "bearish_articles": 12,
+    "last_updated": "2026-08-30 01:07:09 UTC",
+    "total_articles": 23,
+    "bullish_articles": 9,
+    "bearish_articles": 14,
     "articles": [
         {
-            "title": "US stocks drift lower after expectations rise for the Fed to hike rates to get handle on inflation - AP News",
+            "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8131136298179626,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The labor market was weaker early in Trump\u2019s term, data shows - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9677197337150574,
+            "score": 0.8456375598907471,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,25 +25,33 @@
         {
             "title": "States can regulate prediction markets as gambling, federal appeals court rules - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9082615971565247,
+            "score": 0.9082614183425903,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Mark Walter\u2019s Biggest Insurer Sees Banks Pause Sales Amid Probe - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9380685687065125,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Microsoft, Stock Of The Day, Flashes New Buy Signal. Why It's Still An \u2018AI Winner.' - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9422651529312134,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Nvidia (NVDA) Pulls Back A Financing Program Right After Blowout Earnings - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.87735915184021,
+            "score": 0.8773589730262756,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -49,9 +66,18 @@
             ]
         },
         {
+            "title": "Booze bankruptcy: Atlanta-based alcohol distributor lays off hundreds - AJC.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9684577584266663,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Affirm (AFRM) Q4 Earnings Report: Revenue, GMV, Credit Quality, and Stock Outlook - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.950871467590332,
+            "score": 0.9508713483810425,
             "signal": "BULLISH",
             "tickers": [
                 "AFRM"
@@ -66,9 +92,9 @@
             ]
         },
         {
-            "title": "US Treasury imposes limits on Egyptian bank for doing business with Iran - Financial Times",
+            "title": "Solstice Stock Jumps After Calling Off a Major Acquisition - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.8027101755142212,
+            "score": 0.8955446481704712,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -79,6 +105,15 @@
             "sentiment": "POSITIVE",
             "score": 0.9484648108482361,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Are food recalls increasing under RFK? What the data reveals. - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.9633677005767822,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -101,10 +136,10 @@
             ]
         },
         {
-            "title": "Musk\u2019s AI company sues its users as victim lawsuits over Grok deepfakes mount - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.8661408424377441,
-            "signal": "BEARISH",
+            "title": "US corporate profits surge to record as worker payouts wilt - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8363755941390991,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -112,48 +147,69 @@
         {
             "title": "Viola Davis slams Target\u2019s apology after stores pull offensive kids\u2019 Halloween costume: \u2018You are not on OUR side\u2019 - Entertainment Weekly",
             "sentiment": "NEGATIVE",
-            "score": 0.9172442555427551,
+            "score": 0.9172440767288208,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market on Aug. 27, 2026: S&P 500 and Nasdaq close higher in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on - MarketWatch",
-            "sentiment": "POSITIVE",
-            "score": 0.8660044074058533,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA",
-                "CRM"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "CRM",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Whole Foods Recalls Popular Dips Across 13 States Due To Salmonella Contamination - Delish",
+            "sentiment": "NEGATIVE",
+            "score": 0.9634060859680176,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Marvell Stock Sinks as Big Expectations Outweigh Solid Earnings - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9493563771247864,
+            "score": 0.9493566155433655,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Trump executive order bans some foreign equipment in US energy grid - Al Jazeera",
+            "title": "American Airlines bets big on international travel with 7 new routes - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.8849663734436035,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "2 air traffic controllers left work early the night an Air Canada jet collided with a fire truck at LaGuardia, source says - Yahoo News Singapore",
             "sentiment": "NEGATIVE",
-            "score": 0.9430647492408752,
+            "score": 0.8601495623588562,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Chipmakers are outshining Big Tech in the AI rally - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.8202559947967529,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Trump declares emergency, moves to block some foreign-made equipment from grid - Utility Dive",
+            "sentiment": "NEGATIVE",
+            "score": 0.876224160194397,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -169,27 +225,35 @@
             "ticker_impacts": []
         },
         {
+            "title": "Salesforce rockets 22% for second-best day ever, leading software rally - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.954439640045166,
+            "signal": "BULLISH",
+            "tickers": [
+                "CRM"
+            ],
+            "primary_ticker": "CRM",
+            "ticker_impacts": [
+                {
+                    "ticker": "CRM",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Video: Cargo Plane Bursts Into Flames While Landing At LAX - Patch",
+            "sentiment": "NEGATIVE",
+            "score": 0.735812783241272,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Fed's Lisa Cook pushes back on Trump firing threat, says she \"never committed mortgage fraud\" - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.82142573595047,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "DHL cargo jet erupts in flames during landing at LAX - KTLA",
-            "sentiment": "NEGATIVE",
-            "score": 0.7385475039482117,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US Stock Futures Slip Before Warsh, Bonds Steady: Markets Wrap - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9401387572288513,
+            "score": 0.8214258551597595,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
