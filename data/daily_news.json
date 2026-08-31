@@ -1,13 +1,31 @@
 {
-    "last_updated": "2026-08-31 15:30:39 UTC",
-    "total_articles": 17,
-    "bullish_articles": 3,
+    "last_updated": "2026-08-31 18:35:45 UTC",
+    "total_articles": 15,
+    "bullish_articles": 1,
     "bearish_articles": 14,
     "articles": [
         {
             "title": "Americans feel they have lost their agency - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.8642746210098267,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "40-year-old corner store brand closes all locations, to liquidate - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7137702703475952,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Awful: The Aviation Herald Founder Forced To Sell Home After Slovakian Airline Lawsuit - One Mile at a Time",
+            "sentiment": "NEGATIVE",
+            "score": 0.9490803480148315,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,6 +41,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Unsealed court documents reveal State Farm saved $1.4 billion as weather, roof claims worsened - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9622565507888794,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.8000357747077942,
@@ -32,9 +59,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dog-eaten meat, rats and urine: Stomach-churning details of 10K LA street food complaints revealed - New York Post",
+            "title": "The Rudest Things You Can Do While Boarding A Plane - HuffPost",
             "sentiment": "NEGATIVE",
-            "score": 0.7590952515602112,
+            "score": 0.8101785182952881,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The hypocrisy behind California AG Rob Bonta\u2019s political bid to put the Paramount merger on hold - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.7541980147361755,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -50,21 +86,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft - TechCrunch",
+            "title": "2 LaGuardia air traffic controllers left work an hour early before deadly crash, AP source says - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.8799269795417786,
+            "score": 0.9351314902305603,
             "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "OpenAI cuts off Cursor's AI models, deepening feud with Musk - Mashable",
@@ -76,50 +104,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "I asked ChatGPT if the S&P 500 will crash 50% due to the AI bubble and it said\u2026 - Yahoo Finance UK",
-            "sentiment": "NEGATIVE",
-            "score": 0.7769914269447327,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump lauded low prices at Freedom Fuel. A supplier says some gas wasn\u2019t paid for. - Yahoo",
-            "sentiment": "NEGATIVE",
-            "score": 0.878233015537262,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tech investor mocks Vance\u2019s call to hire Americans as 'DEI', gets blasted by Trump officials in H-1B firestorm - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9248594045639038,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia: The Cracks Are Finally Showing (NASDAQ:NVDA) - Seeking Alpha",
-            "sentiment": "NEGATIVE",
-            "score": 0.9696135520935059,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "The 5 craziest discoveries from OpenAI's HuggingFace investigation - Axios",
             "sentiment": "NEGATIVE",
             "score": 0.8719293475151062,
@@ -127,6 +111,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia\u2019s AI advantage is moving beyond the GPU - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.8037181496620178,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Scam targets MyChart patients - WFMZ.com",
@@ -138,53 +139,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Goodyear burning rubber and cash as turnaround plan continues - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8985443711280823,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gold Price Forecast \u2014 A Brief Pullback Before Resuming Higher - FXEmpire",
+            "title": "Walmart agrees to pay $50M settlement over allegations its pharmacies filled illegal opioid prescriptions - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8859293460845947,
+            "score": 0.7832385897636414,
             "signal": "BEARISH",
             "tickers": [
-                "META"
+                "WMT"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "WMT",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "WMT",
                     "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Eli Lilly's diabetes drug Mounjaro gets approval for a new use - USA Today",
-            "sentiment": "POSITIVE",
-            "score": 0.8960300087928772,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Air Force awards Boeing $131 billion ceiling contract for F-15 production, modernization - Defense News",
-            "sentiment": "POSITIVE",
-            "score": 0.9356181025505066,
-            "signal": "BULLISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
