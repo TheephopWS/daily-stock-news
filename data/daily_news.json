@@ -1,13 +1,31 @@
 {
-    "last_updated": "2026-08-31 01:09:07 UTC",
-    "total_articles": 24,
-    "bullish_articles": 9,
-    "bearish_articles": 15,
+    "last_updated": "2026-08-31 03:37:10 UTC",
+    "total_articles": 22,
+    "bullish_articles": 5,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "Beer bandits swipe PBR truck hauling 50,000 cans in California, leaving brand pleading for help - Fox News",
+            "title": "Dog-eaten meat, rats and urine: Stomach-churning details of 10K LA street food complaints revealed - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9576185345649719,
+            "score": 0.7590952515602112,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Freedom Fuel owner didn't pay for nearly $4 million in gas, lawsuit claims - NBC10 Philadelphia",
+            "sentiment": "NEGATIVE",
+            "score": 0.8359861969947815,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AI hyperscalers issuing a flood of bonds are 'reverse crowding out' the Treasury as US debt soars - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.800239086151123,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,7 +34,7 @@
         {
             "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.8799267411231995,
+            "score": 0.8799269795417786,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -49,18 +67,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump lauded low prices at Freedom Fuel. A supplier says some gas wasn\u2019t paid for. - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7500853538513184,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "The 5 craziest discoveries from OpenAI's HuggingFace investigation - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.8719290494918823,
+            "score": 0.8719293475151062,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -69,7 +78,7 @@
         {
             "title": "Nvidia\u2019s AI advantage is moving beyond the GPU - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.8037188649177551,
+            "score": 0.8037181496620178,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -86,34 +95,8 @@
         {
             "title": "Scam targets MyChart patients - WFMZ.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9092338681221008,
+            "score": 0.9092337489128113,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7618679404258728,
-            "signal": "BULLISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "SpaceX renews investor hope with bold new plan - thestreet.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9069368243217468,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -121,7 +104,7 @@
         {
             "title": "Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8677983283996582,
+            "score": 0.8677987456321716,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -139,7 +122,7 @@
         {
             "title": "PayPal Stock Dives as Stripe\u2019s Takeover Bid Collapses. 2 Reasons It Can Bounce Back. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9270439147949219,
+            "score": 0.9270440936088562,
             "signal": "BEARISH",
             "tickers": [
                 "PYPL"
@@ -154,37 +137,19 @@
             ]
         },
         {
-            "title": "These solar string lights make your patio more inviting for fall \u2014 and they're priced at an all-time low - Fox News",
+            "title": "Gold Price Forecast \u2014 A Brief Pullback Before Resuming Higher - FXEmpire",
             "sentiment": "NEGATIVE",
-            "score": 0.707442045211792,
+            "score": 0.8859293460845947,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FDA approves new COVID vaccines - CIDRAP",
-            "sentiment": "POSITIVE",
-            "score": 0.8199425339698792,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Sandisk\u2019s (SNDK) $31B Japan Bet Raises A Bigger Question - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8053543567657471,
-            "signal": "BULLISH",
             "tickers": [
-                "SNDK"
+                "META"
             ],
-            "primary_ticker": "SNDK",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "SNDK",
-                    "impact": "positive",
-                    "relevance": "high"
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -200,16 +165,33 @@
         {
             "title": "National Target Boycott leaders demand answers over racist Halloween costume - FOX 9 Minneapolis-St. Paul",
             "sentiment": "NEGATIVE",
-            "score": 0.7244019508361816,
+            "score": 0.7244023680686951,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Air Force awards Boeing $131 billion ceiling contract for F-15 production, modernization - Defense News",
+            "sentiment": "POSITIVE",
+            "score": 0.9356181025505066,
+            "signal": "BULLISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Amazon Labor Day sales: Early deals from Apple, Hanes, Dyson and more up to 70% off - Yahoo",
             "sentiment": "POSITIVE",
-            "score": 0.7837231159210205,
+            "score": 0.7837226390838623,
             "signal": "BULLISH",
             "tickers": [
                 "AAPL",
@@ -230,6 +212,15 @@
             ]
         },
         {
+            "title": "Booze bankruptcy: Atlanta-based alcohol distributor lays off hundreds - AJC.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9684577584266663,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "DRAM Prices Explode 401% as One Kilogram Now Costs as Much as 620 Grams of 24K Gold - Wccftech",
             "sentiment": "POSITIVE",
             "score": 0.9275278449058533,
@@ -239,18 +230,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Missouri kratom company destroys $10M in products after DEA crackdown - Missouri Independent",
-            "sentiment": "NEGATIVE",
-            "score": 0.9499425292015076,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Japan Spent Record $98.7 Billion to Prop Up Yen in Joint Move With U.S. - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9115800261497498,
+            "score": 0.9115797877311707,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -266,21 +248,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Marc Benioff is getting his mojo back as Salesforce's AI strength quiets skeptics - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9336750507354736,
-            "signal": "BULLISH",
-            "tickers": [
-                "CRM"
-            ],
-            "primary_ticker": "CRM",
-            "ticker_impacts": [
-                {
-                    "ticker": "CRM",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Truck loaded with 40k pounds of Pabst Blue Ribbon beer stolen in Montclair; company sets deadline for 'no-questions-asked' return - ABC7 Los Angeles",
+            "sentiment": "NEGATIVE",
+            "score": 0.9237443208694458,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         }
     ]
 }
