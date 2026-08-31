@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-08-31 09:38:06 UTC",
-    "total_articles": 21,
+    "last_updated": "2026-08-31 12:42:04 UTC",
+    "total_articles": 23,
     "bullish_articles": 9,
-    "bearish_articles": 12,
+    "bearish_articles": 14,
     "articles": [
         {
             "title": "Dog-eaten meat, rats and urine: Stomach-churning details of 10K LA street food complaints revealed - New York Post",
@@ -49,9 +49,44 @@
             ]
         },
         {
+            "title": "Suspected Florida cinnamon roll bandit wasn\u2019t a thief \u2014 he was detained by immigration agents, bakery says - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7883232235908508,
+            "signal": "BEARISH",
+            "tickers": [
+                "UBER"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "UBER",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Will the housing market crash in 2026? Experts weigh in - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.8787976503372192,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI cuts off Cursor's AI models, deepening feud with Musk - Mashable",
+            "sentiment": "NEGATIVE",
+            "score": 0.9522240161895752,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tech investor mocks Vance\u2019s call to hire Americans as 'DEI', gets blasted by Trump officials in H-1B firestorm - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9248594045639038,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -70,6 +105,23 @@
             "title": "Nvidia\u2019s AI advantage is moving beyond the GPU - TechCrunch",
             "sentiment": "POSITIVE",
             "score": 0.8037181496620178,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Breakfast News: To Buy Nvidia or Not to Buy - The Motley Fool - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.779882550239563,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -115,6 +167,23 @@
                     "ticker": "META",
                     "impact": "positive",
                     "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Amazon Drops DeWalt Tools to Clearance Levels Ahead of Labor Day\u2014Save up to 63% Off Drills, Saws, and More - bobvila.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9322534799575806,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
@@ -171,15 +240,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "National Target Boycott leaders demand answers over racist Halloween costume - FOX 9 Minneapolis-St. Paul",
-            "sentiment": "NEGATIVE",
-            "score": 0.7244023680686951,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Air Force awards Boeing $131 billion ceiling contract for F-15 production, modernization - Defense News",
             "sentiment": "POSITIVE",
             "score": 0.9356181025505066,
@@ -202,18 +262,18 @@
             "score": 0.7837226390838623,
             "signal": "BULLISH",
             "tickers": [
-                "AMZN",
-                "AAPL"
+                "AAPL",
+                "AMZN"
             ],
-            "primary_ticker": "AMZN",
+            "primary_ticker": "AAPL",
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
+                    "ticker": "AAPL",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AAPL",
+                    "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -233,24 +293,6 @@
             "sentiment": "POSITIVE",
             "score": 0.8240060210227966,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Japan Spent Record $98.7 Billion to Prop Up Yen in Joint Move With U.S. - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9115797877311707,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Are food recalls increasing under RFK? What the data reveals. - USA Today",
-            "sentiment": "NEGATIVE",
-            "score": 0.9633677005767822,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
