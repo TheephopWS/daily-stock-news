@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-08-31 21:28:19 UTC",
-    "total_articles": 16,
+    "last_updated": "2026-09-01 01:15:15 UTC",
+    "total_articles": 20,
     "bullish_articles": 2,
-    "bearish_articles": 14,
+    "bearish_articles": 18,
     "articles": [
+        {
+            "title": "Stock futures are little changed as traders get set to wrap up a winning month: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9412862062454224,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Tofu recalled in 29 states, including throughout Tri-State, for contamination - WKRC",
             "sentiment": "NEGATIVE",
@@ -12,6 +21,62 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Jim Cramer reveals his 20% rule for winning stocks - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7082047462463379,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Big Tech profits get $160bn boost from gains on stakes in other AI companies - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9645582437515259,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bond Investors Wary After Warsh Fans Wager Fed Poised to Hike - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9378539323806763,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia Just Delivered Bad News for AMD and Intel - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.964779794216156,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC",
+                "NVDA",
+                "AMD"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Americans feel they have lost their agency - Financial Times",
@@ -32,9 +97,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Unsealed court documents reveal State Farm saved $1.4 billion as weather, roof claims worsened - NBC News",
+            "title": "Texas Man Mails $50 to Los Angeles Restaurant Because He Was Worried He Forgot to Tip His Waitress During Work Trip - AOL.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9622565507888794,
+            "score": 0.9174982905387878,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -68,10 +133,28 @@
             "ticker_impacts": []
         },
         {
+            "title": "Rising bond yields add tens of billions to G7 countries\u2019 debt costs - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9512493014335632,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Steak \u2019n Shake: The Midwestern Burger Chain That\u2019s Going Full MAGA - WSJ",
             "sentiment": "POSITIVE",
             "score": 0.9287112951278687,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Guggenheim Stain Piles Onto Biggest Junk Laggard - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9671939015388489,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -103,15 +186,6 @@
             ]
         },
         {
-            "title": "Analyst Says the Worst Month for Stocks Since 1950 Is Setting Up Wrong This Year - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.9259940385818481,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "OpenAI cuts off Cursor's AI models, deepening feud with Musk - Mashable",
             "sentiment": "NEGATIVE",
             "score": 0.9522240161895752,
@@ -130,23 +204,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia\u2019s AI advantage is moving beyond the GPU - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.8037181496620178,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Scam targets MyChart patients - WFMZ.com",
             "sentiment": "NEGATIVE",
             "score": 0.9092337489128113,
@@ -154,23 +211,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Walmart agrees to pay $50M settlement over allegations its pharmacies filled illegal opioid prescriptions - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.7832385897636414,
-            "signal": "BEARISH",
-            "tickers": [
-                "WMT"
-            ],
-            "primary_ticker": "WMT",
-            "ticker_impacts": [
-                {
-                    "ticker": "WMT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
