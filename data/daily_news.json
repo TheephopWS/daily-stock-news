@@ -1,14 +1,41 @@
 {
-    "last_updated": "2026-09-01 03:37:33 UTC",
-    "total_articles": 20,
-    "bullish_articles": 2,
-    "bearish_articles": 18,
+    "last_updated": "2026-09-01 06:47:33 UTC",
+    "total_articles": 19,
+    "bullish_articles": 3,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "Stock futures are little changed as traders get set to wrap up a winning month: Live updates - CNBC",
+            "title": "Gold steadies after sharp selloff as Warsh revives Fed hike bets - Investing.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9298585057258606,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.7531833052635193,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US plans to sanction another bank to keep economic pressure on Iran - Al Jazeera",
             "sentiment": "POSITIVE",
-            "score": 0.9412863254547119,
+            "score": 0.9008335471153259,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Is electricity dimming oil\u2019s political power? - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9391500949859619,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -21,6 +48,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "GM union deal would invest $791.3M in Canadian auto factories amid US tariff pressure - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.9219143986701965,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Jim Cramer reveals his 20% rule for winning stocks - thestreet.com",
@@ -41,9 +85,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bond Investors Wary After Warsh Fans Wager Fed Poised to Hike - Bloomberg.com",
+            "title": "The official jobless rate has been falling. But the number of 'functionally unemployed' is climbing - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.937853991985321,
+            "score": 0.9713313579559326,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -55,14 +99,14 @@
             "score": 0.964779794216156,
             "signal": "BEARISH",
             "tickers": [
-                "INTC",
+                "AMD",
                 "NVDA",
-                "AMD"
+                "INTC"
             ],
-            "primary_ticker": "INTC",
+            "primary_ticker": "AMD",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
                 },
@@ -72,7 +116,7 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMD",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -82,33 +126,6 @@
             "title": "Americans feel they have lost their agency - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.864274799823761,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Healthcare data breach exposes 3.75M patient records - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8686144948005676,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Texas Man Mails $50 to Los Angeles Restaurant Because He Was Worried He Forgot to Tip His Waitress During Work Trip - AOL.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9174981117248535,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Rudest Things You Can Do While Boarding A Plane - HuffPost",
-            "sentiment": "NEGATIVE",
-            "score": 0.8101785182952881,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -151,15 +168,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Guggenheim Stain Piles Onto Biggest Junk Laggard - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9671939015388489,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "AI hyperscalers issuing a flood of bonds are 'reverse crowding out' the Treasury as US debt soars - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.8002393245697021,
@@ -167,23 +175,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Sony Music Publishing and Warner Chappell are suing Anthropic - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.9205257892608643,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "OpenAI cuts off Cursor's AI models, deepening feud with Musk - Mashable",
