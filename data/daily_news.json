@@ -1,23 +1,58 @@
 {
-    "last_updated": "2026-09-02 18:36:19 UTC",
-    "total_articles": 27,
-    "bullish_articles": 10,
-    "bearish_articles": 17,
+    "last_updated": "2026-09-02 21:29:31 UTC",
+    "total_articles": 29,
+    "bullish_articles": 13,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "Gold prices remain down as U.S. JOLTS highlight ongoing weakness in labor market - KITCO",
+            "title": "America's $40T national debt is 'stealing from our next generation,' economist warns - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9719576835632324,
+            "score": 0.9411916732788086,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off - AP News",
+            "title": "As more colleges surpass $100,000 price tag, here\u2019s the true cost - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9700102806091309,
+            "score": 0.7628578543663025,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon Stock Extends Losses After FTC Lawsuit Over Ad Practices - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9241087436676025,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "US job openings rise slightly to 7.3 million as labor market remains sturdy despite higher costs - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.918359100818634,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Waymo accelerates robotaxi expansion with launches in Denver, San Diego, and Tampa - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.874578058719635,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -25,7 +60,16 @@
         {
             "title": "These 30 occupations could see the fastest job decline in the next decade: Labor Department - The Hill",
             "sentiment": "NEGATIVE",
-            "score": 0.881669282913208,
+            "score": 0.8816695809364319,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "ArsenalBio sheds most of staff in pivot to in vivo CAR-T - Fierce Biotech",
+            "sentiment": "NEGATIVE",
+            "score": 0.9219990968704224,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -34,7 +78,7 @@
         {
             "title": "Swiss finance minister hits out at move to water down UBS capital plans - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9283862113952637,
+            "score": 0.9283862709999084,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -43,7 +87,7 @@
         {
             "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8365919589996338,
+            "score": 0.8365921378135681,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -52,7 +96,7 @@
         {
             "title": "Lowe's launches major effort to help close America's skilled trades gap - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.8356302380561829,
+            "score": 0.8356301784515381,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -76,27 +120,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Novartis Shares Climb After Pill Hits Goals in Multiple Sclerosis Trials - wsj.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9542980194091797,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Fast-fashion giant Shein's shares fall after Hong Kong trading debut that spotlights its China roots - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9720032811164856,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8435449004173279,
+            "score": 0.8435450792312622,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -123,7 +149,7 @@
         {
             "title": "The US added a record 20.2 GWh of battery storage in just 3 months - Electrek",
             "sentiment": "POSITIVE",
-            "score": 0.9380656480789185,
+            "score": 0.9380655288696289,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -132,7 +158,7 @@
         {
             "title": "Apple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9000742435455322,
+            "score": 0.900074303150177,
             "signal": "BEARISH",
             "tickers": [
                 "AAPL"
@@ -147,9 +173,26 @@
             ]
         },
         {
+            "title": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8531789183616638,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Artificial intelligence agents going rogue fuel calls for regulation - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.7979424595832825,
+            "score": 0.7979425191879272,
             "signal": "BEARISH",
             "tickers": [
                 "INTC",
@@ -170,26 +213,9 @@
             ]
         },
         {
-            "title": "FTC lawsuit alleges Amazon has been \u2018secretly and systematically\u2019 overcharging for ads - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.8360360264778137,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Kalshi bans former congressman George Santos for life after State of the Union trades - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9178058505058289,
+            "score": 0.9178057909011841,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -198,7 +224,7 @@
         {
             "title": "Nvidia Stock Teases Buy Zone After Beat-And-Raise Report. Watch These Clues. - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.900286078453064,
+            "score": 0.9002861380577087,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -213,10 +239,10 @@
             ]
         },
         {
-            "title": "Pentagon brings on Grok and ChatGPT for military use - The Hill",
-            "sentiment": "POSITIVE",
-            "score": 0.7178986072540283,
-            "signal": "BULLISH",
+            "title": "California police investigate $70K beer cargo theft after fraudulent pickups - FreightWaves",
+            "sentiment": "NEGATIVE",
+            "score": 0.9249827265739441,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -240,9 +266,26 @@
             "ticker_impacts": []
         },
         {
+            "title": "Labor Day sales 2026: Shop the best end-of-summer deals - Good Morning America",
+            "sentiment": "POSITIVE",
+            "score": 0.8631272912025452,
+            "signal": "BULLISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "AI could cause global economic downturn, Andrew Bailey warns G20 - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9483897686004639,
+            "score": 0.9483896493911743,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -251,7 +294,7 @@
         {
             "title": "Lilly snags another Massachusetts biotech as local headcount surges past 1,400 - The Business Journals",
             "sentiment": "POSITIVE",
-            "score": 0.8164502382278442,
+            "score": 0.8164504766464233,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -260,7 +303,16 @@
         {
             "title": "'We're back': Strategy buys another 4,603 bitcoin for $369.7 million as holdings hit 845,050 BTC - The Block",
             "sentiment": "POSITIVE",
-            "score": 0.9086416363716125,
+            "score": 0.9086417555809021,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8698135614395142,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -271,24 +323,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9307652115821838,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "San Clemente condo owners stunned by sudden $26,000 HOA fee for emergency roof assessment - ABC7 Los Angeles",
-            "sentiment": "NEGATIVE",
-            "score": 0.7149441242218018,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Should You Believe the Dire Warnings About \u2018AI Takeover\u2019? - The Free Press",
-            "sentiment": "NEGATIVE",
-            "score": 0.7827275991439819,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
