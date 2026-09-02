@@ -1,9 +1,70 @@
 {
-    "last_updated": "2026-09-02 01:04:09 UTC",
-    "total_articles": 25,
-    "bullish_articles": 8,
+    "last_updated": "2026-09-02 03:35:33 UTC",
+    "total_articles": 29,
+    "bullish_articles": 12,
     "bearish_articles": 17,
     "articles": [
+        {
+            "title": "Japan\u2019s benchmark bond yield hits 3% for first time since 1996 - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8711131811141968,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US 30-Year Bond Enters September on Its Worst Stretch Since 2006 - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9603682160377502,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Apple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.900074303150177,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Three deaths in CAR-T trials prompt halt by Novartis; Bristol Myers programs also paused - Endpoints News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9442406296730042,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Buy Dell Technologies Stock Before Q2 Earnings as AI Server Demand Soars? - Zacks Investment Research",
+            "sentiment": "POSITIVE",
+            "score": 0.8637259006500244,
+            "signal": "BULLISH",
+            "tickers": [
+                "DELL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "DELL",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
         {
             "title": "Can cut-price Shein shine in its long-awaited stock market debut? - BBC",
             "sentiment": "POSITIVE",
@@ -23,28 +84,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Dow ends lower but still logs fifth month of gains; Nasdaq and S&P 500 gain in August despite Brent oil above $90 and 30-year yields at 5.25% - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9291785359382629,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nearly 2,000 pounds of cat and dog food recalled. See list - USA Today",
-            "sentiment": "NEGATIVE",
-            "score": 0.8731151819229126,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Judge says Smucker\u2019s lawsuit against Trader Joe\u2019s over frozen sandwiches can proceed. - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7309033274650574,
-            "signal": "BEARISH",
+            "title": "23 best-performing stocks of August, as the software industry continues its recovery - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.9504067897796631,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -52,16 +95,7 @@
         {
             "title": "Trump says U.S. growth could hit 20%. It\u2019s happened only once since WWII - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7206726670265198,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Treasury 10-Year Yield Tops 4.75%, Highest Since January 2025 - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9274199604988098,
+            "score": 0.7206729054450989,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -70,7 +104,7 @@
         {
             "title": "Nvidia Stock Teases Buy Zone After Beat-And-Raise Report. Watch These Clues. - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.9002858400344849,
+            "score": 0.9002861380577087,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -85,28 +119,63 @@
             ]
         },
         {
-            "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson - TechCrunch",
+            "title": "Highest Mortgage Rates in Over a Year, But Just Barely - Mortgage News Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.925051748752594,
+            "score": 0.7500153183937073,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9250519871711731,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Labor Day sales 2026: Shop the best end-of-summer deals - Good Morning America",
+            "sentiment": "POSITIVE",
+            "score": 0.8631272912025452,
+            "signal": "BULLISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "AI could cause global economic downturn, Andrew Bailey warns G20 - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9483897686004639,
+            "score": 0.9483896493911743,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Manhattan Rent Growth Leads Nation as Occupancy Tops 98% - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9541294574737549,
-            "signal": "BULLISH",
+            "title": "Got Tofu in Your Fridge? More Than 10,000 Cases Have Been Recalled in 29 States - TODAY.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7332100868225098,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nearly 2,000 pounds of pet food recalled over salmonella, listeria risk - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9524521231651306,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -129,27 +198,10 @@
             ]
         },
         {
-            "title": "Meta whistleblower says $17B settlement doesn\u2019t do enough to save kids\u2019 lives - politico.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7864145040512085,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "The US debt crisis just got uglier: Number to know - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.932535707950592,
-            "signal": "BEARISH",
+            "title": "Sam Altman's 'last resort' is now minting money for OpenAI - Business Insider",
+            "sentiment": "POSITIVE",
+            "score": 0.8351998925209045,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -157,7 +209,7 @@
         {
             "title": "Eli Lilly inks $2.88B Merida buyout for autoimmune drugs against rogue antibodies - Fierce Biotech",
             "sentiment": "POSITIVE",
-            "score": 0.725591242313385,
+            "score": 0.7255921363830566,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -175,26 +227,26 @@
         {
             "title": "13 people injured, 3 seriously, after airport shuttle bus hits wall at Newark Liberty International Airport - 6abc Philadelphia",
             "sentiment": "NEGATIVE",
-            "score": 0.9536129832267761,
+            "score": 0.9536130428314209,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Inside Weil's Private Equity Partner Shuffle - Law.com",
+            "title": "Inside Weil's Private Equity Partner Shuffle - law.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9136878252029419,
+            "score": 0.9136878848075867,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "From Salmonella Eggs to Diarrhea Lettuce, Why This Has Been a Sick Hot American Summer - WIRED",
-            "sentiment": "NEGATIVE",
-            "score": 0.8214727640151978,
-            "signal": "BEARISH",
+            "title": "Manhattan's luxury rental market is booming, with units reaching $100,000 a month - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9032296538352966,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -202,7 +254,7 @@
         {
             "title": "Companies Plow Tariff Refunds Into Price Cuts, Appealing to Stretched Consumers - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9169031977653503,
+            "score": 0.916903018951416,
             "signal": "BEARISH",
             "tickers": [
                 "WMT"
@@ -219,7 +271,7 @@
         {
             "title": "Japanese bonds and yen come under pressure after Jackson Hole meeting - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9385349154472351,
+            "score": 0.9385349750518799,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -228,7 +280,7 @@
         {
             "title": "San Clemente condo owners stunned by sudden $26,000 HOA fee for emergency roof assessment - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
-            "score": 0.7149450182914734,
+            "score": 0.7149437665939331,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -237,7 +289,7 @@
         {
             "title": "China\u2019s Official Activity Gauges Hint at Impending Turnaround - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9350128173828125,
+            "score": 0.935012936592102,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -246,7 +298,7 @@
         {
             "title": "Should You Believe the Dire Warnings About \u2018AI Takeover\u2019? - The Free Press",
             "sentiment": "NEGATIVE",
-            "score": 0.7827275991439819,
+            "score": 0.7827271819114685,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -255,7 +307,7 @@
         {
             "title": "GM union deal would invest $791.3M in Canadian auto factories amid US tariff pressure - New York Post",
             "sentiment": "POSITIVE",
-            "score": 0.921914279460907,
+            "score": 0.9219143986701965,
             "signal": "BULLISH",
             "tickers": [
                 "AAPL"
