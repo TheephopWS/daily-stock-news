@@ -1,69 +1,75 @@
 {
-    "last_updated": "2026-09-04 15:30:55 UTC",
-    "total_articles": 31,
-    "bullish_articles": 13,
+    "last_updated": "2026-09-04 18:33:15 UTC",
+    "total_articles": 26,
+    "bullish_articles": 8,
     "bearish_articles": 18,
     "articles": [
         {
-            "title": "Snowflake Jumps on Revenue Outlook, Uptake of AI Assistant - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9511628746986389,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "One-star reviews of airports: \u2018Feels like psychological torture\u2019 - The Washington Post",
+            "title": "ChatGPT Down for Thousands of Users Thursday, Downdetector Reports - GV Wire",
             "sentiment": "NEGATIVE",
-            "score": 0.931745707988739,
+            "score": 0.8801877498626709,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Federal Reserve\u2019s Chris Waller \u2018inclined\u2019 to keep interest rates on hold - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8207528591156006,
-            "signal": "BULLISH",
+            "title": "Target, Walmart, Amazon pull 'German soldier' Halloween costume - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.8112828731536865,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN",
+                "WMT"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "It\u2019s a top guest complaint but many hotels can\u2019t fix it - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.8212001323699951,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Hugging Face approached Nvidia\u2019s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC - CNBC",
+            "title": "U.S. International Trade in Goods and Services, July 2026 - U.S. Bureau of Economic Analysis (BEA) (.gov)",
             "sentiment": "POSITIVE",
-            "score": 0.828386664390564,
+            "score": 0.9405983686447144,
             "signal": "BULLISH",
             "tickers": [
-                "NVDA"
+                "BEA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "BEA",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "BEA",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Netherlands Moves Gold From New York to London, Citing Geopolitical Unrest - WSJ",
+            "title": "Gold\u2019s big August rally has reached a key level for traders - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9274811744689941,
+            "score": 0.7925175428390503,
             "signal": "BULLISH",
-            "tickers": [
-                "META"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Broadcom Earnings Today: Outlook Shows Surging AI Chip Sales - Barron's",
@@ -75,21 +81,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Gold\u2019s run isn\u2019t yet done - Financial Times",
+            "title": "US Diesel Hits Four-Year High as Wars Strain Global Supplies - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9272266030311584,
+            "score": 0.9299108982086182,
             "signal": "BULLISH",
-            "tickers": [
-                "META"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Tech layoffs climb as Uber sacks thousands of employees - SFGATE",
@@ -109,22 +107,30 @@
             ]
         },
         {
-            "title": "S&P 500, Dow futures tick up as oil prices and Treasury yields continue to let up - Investing.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8625870943069458,
-            "signal": "BULLISH",
+            "title": "Two Maryland hospitals hit by cyberattack, compromising systems - WYPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.9638863205909729,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Identity Verification Is Broken. The 153 Million Driver\u2019s Licenses Now for Sale Are Proof - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.8109672665596008,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "Trump's AI team fractures over strategy against G20 backdrop - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.7273271083831787,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Uber beats Waymo as first to launch robotaxis in London - The Verge",
@@ -144,53 +150,9 @@
             ]
         },
         {
-            "title": "Marin County finance bros charged over massive $100M Ponzi scheme - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8461484909057617,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "HPE Earnings Top Estimates Amid Oracle AI Data Center Deal - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9518653750419617,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia Leads Chip Stocks Higher Amid Renewed Confidence In AI Spending - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9432176351547241,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "JetBlue unveils new first-class seating for domestic flyers - Fox Business",
             "sentiment": "POSITIVE",
             "score": 0.929768979549408,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "MARC adds direct Baltimore-to-Montgomery County train - WBAL-TV",
-            "sentiment": "POSITIVE",
-            "score": 0.8924941420555115,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -214,6 +176,15 @@
             ]
         },
         {
+            "title": "It sure looks like hackers breached a major ID card verification service - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8807825446128845,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Winter Is Approaching and Europe Is Running Low on Natural Gas - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.8762825131416321,
@@ -232,39 +203,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "SEC proposal could open floodgates to make America capital of digital cash - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.900822639465332,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Local Safeway supermarket in Garfield Park is closing. Here's why - IndyStar",
+            "title": "American shoppers are so rattled by surging FDA recalls that 67% now avoid a whole food category after just one notice - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.953895628452301,
+            "score": 0.9044538736343384,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Palantir stock tumbles as Google encroaches on defense AI market - finance.yahoo.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9651153683662415,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Researchers fear safety disaster ahead of OpenAI\u2019s Astra release - The Verge",
@@ -276,18 +221,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nearly 54,000 cases of popular chocolate milk recalled amid reports of \u2018unpleasant\u2019 smell, taste - WYFF",
+            "title": "Nearly 54,000 cases of popular chocolate milk recalled amid reports of \u2018unpleasant\u2019 smell, taste - WCVB",
             "sentiment": "NEGATIVE",
-            "score": 0.9652697443962097,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oracle To Face Earnings Test After Wild Year Riding AI Wave - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.8786768317222595,
+            "score": 0.9643124341964722,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -298,6 +234,15 @@
             "sentiment": "NEGATIVE",
             "score": 0.9071835279464722,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Republicans are about to raise your fuel costs by 45% during an energy crisis - Electrek",
+            "sentiment": "POSITIVE",
+            "score": 0.8762747645378113,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -329,26 +274,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "Warsh's Jackson Hole encore may put Trump's inflation record under a microscope - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.7722704410552979,
-            "signal": "BULLISH",
+            "title": "Bank of Canada mulls Trump tariff shock as it holds interest rates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8586019277572632,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Meta Claims to Have Bricked Thousands of Smart Glasses - PetaPixel",
+            "title": "DOJ Probes Soaring Beef Prices at Eight Major Stores Including Walmart - newsweek.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8239521980285645,
+            "score": 0.9192966818809509,
             "signal": "BEARISH",
             "tickers": [
-                "META"
+                "WMT"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": "WMT",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "WMT",
                     "impact": "negative",
                     "relevance": "high"
                 }
