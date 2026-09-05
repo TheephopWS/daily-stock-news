@@ -1,60 +1,61 @@
 {
-    "last_updated": "2026-09-05 15:28:11 UTC",
-    "total_articles": 21,
-    "bullish_articles": 9,
-    "bearish_articles": 12,
+    "last_updated": "2026-09-05 18:31:24 UTC",
+    "total_articles": 20,
+    "bullish_articles": 10,
+    "bearish_articles": 10,
     "articles": [
         {
-            "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses - CNBC",
+            "title": "Trump says he will cease trading with top partners unless Fed lowers rates - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9193734526634216,
+            "score": 0.7585718631744385,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Adobe just announced its next CEO. Here\u2019s why its stock is dropping. - MarketWatch",
+            "title": "Michael Burry Doubles Down on Major Retail Stock Post Drop - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.942345380783081,
+            "score": 0.9603740572929382,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.7136239409446716,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips - cnbc.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8588559031486511,
+            "signal": "BULLISH",
             "tickers": [
-                "ADBE"
+                "NVDA"
             ],
-            "primary_ticker": "ADBE",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "ADBE",
-                    "impact": "negative",
+                    "ticker": "NVDA",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Hiring blew past expectations in August, jobs report shows - ABC News - Breaking News, Latest News and Videos",
-            "sentiment": "NEGATIVE",
-            "score": 0.7554699778556824,
-            "signal": "BEARISH",
+            "title": "Higher Bond Yields Have a Silver Lining - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.7191885709762573,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Viral bakery's missing cinnamon rolls spark $3,100 theft accusation and Border Patrol plot twist - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8626880645751953,
-            "signal": "BEARISH",
-            "tickers": [
-                "UBER"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "UBER",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Large employers drop health benefits as costs rise - Axios",
@@ -66,27 +67,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "Volkswagen jumps 5% on plans to cut 50,000 jobs amid tariffs, China competition - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9185329675674438,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies - cnbc.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8251203298568726,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Popular squishy toys recalled over potentially deadly water bead hazard - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9682298898696899,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic\u2019s IPO set to test external trust with power over board - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8871845006942749,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -100,6 +100,41 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "FDA announces nationwide recall of epinephrine injections after reports of cracked vials - WESH",
+            "sentiment": "NEGATIVE",
+            "score": 0.7909669876098633,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Europe\u2019s Gold Fled the Nazis. Now It\u2019s Fleeing Trump. - The Bulwark",
+            "sentiment": "NEGATIVE",
+            "score": 0.767848789691925,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Microsoft drops $101.9 billion surprise as AI reshapes company - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8871088624000549,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "New Jersey clothing retailer Burlington will relocate its headquarters and 2,000 employees to Philadelphia - WHYY",
@@ -120,24 +155,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "'We Don't Know How We Will Survive:' Ukraine's Vital Grain Exports Crippled - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.9657424688339233,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market on Sept. 3, 2026: Dow, S&P 500, Nasdaq end sharply higher as software stocks and Big Tech rally; Treasury yields ease after Fed governor Waller's remarks - MarketWatch",
-            "sentiment": "POSITIVE",
-            "score": 0.8162577152252197,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Smart Ring Maker Oura Files for US IPO as Revenue Surges - Bloomberg.com",
             "sentiment": "POSITIVE",
             "score": 0.9370869994163513,
@@ -147,36 +164,32 @@
             "ticker_impacts": []
         },
         {
-            "title": "Lululemon sinks after cutting forecast as revenue declines - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9743471741676331,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Summit Packs A Punch For Merck's Keytruda \u2014 But Not Everyone Is Sold - Investor's Business Daily",
+            "title": "Stock Market Today: Nasdaq Posts Back-To-Back Gains; Tesla, SpaceX Rise As Cybercab Event Nears (Live Coverage) - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.8047528862953186,
+            "score": 0.8639872670173645,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "TSLA",
+                "NVDA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "Bitcoin Pumps as Fed Signals Rate Pause, $415 Million in Shorts Get Rekt - Decrypt",
+            "title": "Why Is Bitcoin Up Today? - fool.com",
             "sentiment": "POSITIVE",
-            "score": 0.7580968737602234,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Is Ultragenyx Stock a Buy After GTX-102 Flop? Analysts Point to Commercial Pipeline - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.8696174025535583,
+            "score": 0.9187667965888977,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
