@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-09-08 03:35:35 UTC",
-    "total_articles": 20,
+    "last_updated": "2026-09-08 06:45:41 UTC",
+    "total_articles": 21,
     "bullish_articles": 8,
-    "bearish_articles": 12,
+    "bearish_articles": 13,
     "articles": [
         {
-            "title": "China to pump $54bn into state banks and insurers to boost economy - BBC",
+            "title": "China pumps $53bn into banks and insurers - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.8338457942008972,
+            "score": 0.8772599697113037,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Fuel prices at record Labor Day high in US thanks to Iran War and refinery issues - apnews.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9230241775512695,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,25 +34,33 @@
         {
             "title": "Japan Likely Sold Treasuries to Fund Record Yen Intervention - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.8520738482475281,
+            "score": 0.852073073387146,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oil extends gains after US and Iran strike ships - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9327554106712341,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.8875904083251953,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "China's export shock is pushing the global economy to a breaking point, former trade official says - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9097763895988464,
+            "score": 0.909776508808136,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -52,7 +69,7 @@
         {
             "title": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI - Business Insider",
             "sentiment": "POSITIVE",
-            "score": 0.8519448041915894,
+            "score": 0.851944625377655,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -76,10 +93,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil Edges Higher on Renewed Middle East Tensions: Markets Wrap - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9080420732498169,
-            "signal": "BULLISH",
+            "title": "Trump's energy boss wavers on gasoline price path - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.8443596959114075,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -87,16 +104,7 @@
         {
             "title": "Tucson man arrested on flight fired from real estate job - kold.com",
             "sentiment": "NEGATIVE",
-            "score": 0.931177020072937,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US debt is even worse than it seems, and Treasury yields are now an 'all-hands-on-deck situation' - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9698903560638428,
+            "score": 0.9311771392822266,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -105,7 +113,7 @@
         {
             "title": "OpenAI's chief scientist says AI labs may need to slow down: 'No one is prepared for the consequences' - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.8748046159744263,
+            "score": 0.8748042583465576,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -114,7 +122,7 @@
         {
             "title": "AI agents keep finding ways to bend the rules. Here are some of the wildest. - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.7329163551330566,
+            "score": 0.7329161167144775,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -130,9 +138,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "Some Vegas hotels are treating Canada's dollar as equivalent to the greenback to offer more value - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9682799577713013,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Automotive giant\u2019s stock surges amid plan to cut 50,000 jobs - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9290466904640198,
+            "score": 0.9290469288825989,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -141,16 +158,16 @@
         {
             "title": "These bystanders lifted a car to save a woman who was trapped underneath - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.7818265557289124,
+            "score": 0.7818266153335571,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "US tourism groups want to win Canadian visitors back. A testy trade war isn\u2019t helping - AP News",
+            "title": "A quiet storm's brewing \u2014and it could change everything before the midterms - Alternet",
             "sentiment": "NEGATIVE",
-            "score": 0.9467318058013916,
+            "score": 0.9506027102470398,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -159,7 +176,7 @@
         {
             "title": "Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine - wsj.com",
             "sentiment": "POSITIVE",
-            "score": 0.8554304838180542,
+            "score": 0.8554302453994751,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -168,7 +185,16 @@
         {
             "title": "Personalized mRNA cancer vaccines offer new hope. We explain - USA Today",
             "sentiment": "POSITIVE",
-            "score": 0.8749611973762512,
+            "score": 0.874960720539093,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Russian gold floods through Hong Kong in wake of western sanctions - ft.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9347816705703735,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -177,17 +203,8 @@
         {
             "title": "Fidelity 401(k) balances signal good news for American retirees - thestreet.com",
             "sentiment": "POSITIVE",
-            "score": 0.918285608291626,
+            "score": 0.9182854294776917,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "123-year-old bank quietly closes 26 locations - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9256495237350464,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
