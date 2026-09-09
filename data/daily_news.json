@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-09-09 03:36:18 UTC",
+    "last_updated": "2026-09-09 06:46:33 UTC",
     "total_articles": 34,
-    "bullish_articles": 10,
-    "bearish_articles": 24,
+    "bullish_articles": 8,
+    "bearish_articles": 26,
     "articles": [
+        {
+            "title": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8588666319847107,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Donald Trump, 80, Blows Up His Favorite Lie With One Post - The Daily Beast",
+            "sentiment": "NEGATIVE",
+            "score": 0.8072609901428223,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "More than 1,500 pounds of pork recalled over Listeria contamination risk - Fox Business",
             "sentiment": "NEGATIVE",
@@ -23,19 +41,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Unruly passenger duct taped to his first-class seat identified: Report - NewsNation",
-            "sentiment": "NEGATIVE",
-            "score": 0.8771917819976807,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump threatens to stop sale of Canadian Bombardier jets in US - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9460887908935547,
-            "signal": "BEARISH",
+            "title": "Iran increases gasoline price for its heaviest consumers as economy struggles - NBC News",
+            "sentiment": "POSITIVE",
+            "score": 0.907196581363678,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -50,9 +59,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz - Al Jazeera",
+            "title": "Stocks in Asia Poised to Edge Down, Yen in Focus: Markets Wrap - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.7463604211807251,
+            "score": 0.908416748046875,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -104,6 +113,35 @@
             "ticker_impacts": []
         },
         {
+            "title": "Nvidia CEO Says GPT-6 Astra Brings AGI Closer - PYMNTS.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7647585272789001,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "AGI",
+                "INTC"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AGI",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "3 injured after car crashes into Tesla dealership in South Portland during test drive - KOIN.com",
             "sentiment": "NEGATIVE",
             "score": 0.9509680271148682,
@@ -130,6 +168,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Unruly passenger duct-taped to seat is out of a job after tirade - NewsNation",
+            "sentiment": "NEGATIVE",
+            "score": 0.8635417819023132,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "LME Copper Prices Hit Record on Supply Issues, U.S. Tariff Concerns - WSJ",
             "sentiment": "POSITIVE",
             "score": 0.898258626461029,
@@ -148,10 +195,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "New TSA PreCheck Perk: Access Airport Departure Gates Without a Ticket - Upgraded Points",
-            "sentiment": "POSITIVE",
-            "score": 0.818917453289032,
-            "signal": "BULLISH",
+            "title": "Nike just got kicked out of an elite club - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8339059948921204,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "7 Brew fidget toy giveaway causing traffic problems - WPTA | 21Alive | Fort Wayne, IN",
+            "sentiment": "NEGATIVE",
+            "score": 0.9527905583381653,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -160,15 +216,6 @@
             "title": "50-year-old theme and water park to close forever after summer season - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.7738813161849976,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FWPD issues traffic advisory amid squishy toy giveaway at 7 Brew Coffee - WANE 15",
-            "sentiment": "NEGATIVE",
-            "score": 0.8105848431587219,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -184,6 +231,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Sedan crashes into Poway store; 3 injured - ABC 10News San Diego",
+            "sentiment": "NEGATIVE",
+            "score": 0.9430388808250427,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Novo\u2019s blockbuster hopes for CKD program dwindle after more phase 3 trials scrapped - fiercebiotech.com",
             "sentiment": "NEGATIVE",
             "score": 0.941024124622345,
@@ -193,54 +249,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "Jaguar Land Rover opens voluntary redundancy program in $2.3B cost-cutting drive - Fox Business",
+            "title": "Volkswagen strikes deal with Israel investment firm to turn car plant into defense facility - CNN",
             "sentiment": "POSITIVE",
-            "score": 0.850004255771637,
+            "score": 0.8730472326278687,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI - Business Insider",
-            "sentiment": "POSITIVE",
-            "score": 0.851944625377655,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft - AP News",
+            "title": "Range Rover Maker to Cut 4,000 Jobs as Trump\u2019s Tariffs Bite - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.829037070274353,
+            "score": 0.9573934674263,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The Audi A2 E-Tron Packs Up To 401 Miles Of Range And Serious Efficiency - InsideEVs",
-            "sentiment": "POSITIVE",
-            "score": 0.797905445098877,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Yen surges to 6-month high as traders stay alert for signs of intervention - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8754655718803406,
-            "signal": "BULLISH",
+            "title": "Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.829037070274353,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -267,15 +297,6 @@
             "title": "Global shares are mixed as chipmaker shares rally in Tokyo and Seoul - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9612277746200562,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Novartis Shares Fall After Heart Drug Misses Target in Late-Stage Trial - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9755163192749023,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -320,15 +341,6 @@
             "title": "California Democrats panic as PG&E cuts $2 billion in planned spending over wildfire liability fight - New York Post",
             "sentiment": "NEGATIVE",
             "score": 0.9683071970939636,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AI agents keep finding ways to bend the rules. Here are some of the wildest. - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.7329161167144775,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
