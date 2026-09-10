@@ -1,22 +1,39 @@
 {
-    "last_updated": "2026-09-10 09:33:46 UTC",
-    "total_articles": 31,
-    "bullish_articles": 13,
-    "bearish_articles": 18,
+    "last_updated": "2026-09-10 12:42:16 UTC",
+    "total_articles": 29,
+    "bullish_articles": 12,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "Stock futures are little changed after losing session; Brent crude nears $100 per barrel: Live updates - CNBC",
+            "title": "Anthropic insiders warn AI could kill all humans - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.9719270467758179,
+            "score": 0.8787658214569092,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.9254193305969238,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "China consumer, wholesale inflation rebound in August - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9342384338378906,
+            "score": 0.9342383146286011,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,7 +42,7 @@
         {
             "title": "Bombardier\u2019s stock drops as the U.S.-Canada trade war intensifies. Here\u2019s what Trump is targeting next. - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9649505019187927,
+            "score": 0.9649506211280823,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -34,16 +51,7 @@
         {
             "title": "Exclusive | Blackstone\u2019s Head of Real Estate Is Leaving the Firm - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.837666928768158,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "More flight delays expected after hundreds cancelled by air traffic control glitch - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9696397185325623,
+            "score": 0.8376666903495789,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -61,54 +69,16 @@
         {
             "title": "Bessent Says Trump May Speed Deficit Cut Plans if Democrats Win - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7167035937309265,
+            "score": 0.7167031168937683,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Casey\u2019s Earnings Beat Estimates. Why the Stock Is Falling. - Barron's",
+            "title": "Amazon accused of firing pregnant workers who sought chairs, breaks and other accommodations: lawsuit - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8181994557380676,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AMD Jumps 6.7% While Amazon Opens a $60 Billion AI-Chip Door - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9384278059005737,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMD",
-                "AMZN",
-                "NVDA"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Stock Market Today: Dow Dives, Qualcomm Clears Key Level On Amazon Deal; Fertilizer Leader Rises (Live Coverage) - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9261998534202576,
+            "score": 0.9466360807418823,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN"
@@ -123,9 +93,56 @@
             ]
         },
         {
+            "title": "Casey\u2019s Earnings Beat Estimates. Why the Stock Is Falling. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.8181988000869751,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Ford\u2019s Use of Chinese Tech Called \u2018Unacceptable\u2019 by Transportation Secretary - wsj.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8426892161369324,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AMD Jumps 6.7% While Amazon Opens a $60 Billion AI-Chip Door - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9384278059005737,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN",
+                "AMD",
+                "NVDA"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Nvidia CEO Jensen Huang declares 'AGI has arrived' after OpenAI unveils GPT-6 Astra - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.7481673955917358,
+            "score": 0.7481666803359985,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -140,33 +157,6 @@
             ]
         },
         {
-            "title": "Novartis Stock Tanks Following Third Major Pipeline Setback - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9713208079338074,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Duffy puts Ford on notice over China ties, warns of security concerns - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9497450590133667,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Rocket Lab: Time To Pounce (Rating Upgrade) - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.9527387022972107,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Top chipmakers embrace ASML\u2019s $400M machines, agree to crucial chipmaking change - Ars Technica",
             "sentiment": "POSITIVE",
             "score": 0.9373490810394287,
@@ -176,39 +166,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "Verizon\u2019s Megadeal Proves Corning Is Integral to the AI Grid - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.8554457426071167,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nike falls out of S&P 100 as shares tumble 39% this year - KGW",
+            "title": "Boston Scientific \u2018Unlikely to Meet\u2019 Earnings Guidance After Cyberattack. Stock Falls. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9631623029708862,
+            "score": 0.9710326194763184,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Amazon Sued for Allegedly Discriminating Against Pregnant Employees - WSJ",
+            "title": "Gold Settles Lower Awaiting This Week\u2019s Inflation Data - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9567260146141052,
+            "score": 0.782689094543457,
             "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "American retailer closes 25 stores as it pares back footprint to boost profits - Fox Business",
@@ -220,9 +193,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "Social Security Update: Republicans Show Rare Support for Raising Taxes - Newsweek",
+            "sentiment": "NEGATIVE",
+            "score": 0.8731511235237122,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Why Amgen Stock Is Getting Hit by a Novartis Trial Setback - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9695820808410645,
+            "score": 0.9695819616317749,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -231,7 +213,16 @@
         {
             "title": "AZ's R&D chief Barr touts internal 'science success story' after IL-33 antibody's stellar showing in COPD - Fierce Biotech",
             "sentiment": "POSITIVE",
-            "score": 0.7506790161132812,
+            "score": 0.7506771683692932,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Micron Stock Pops on Fresh Memory-Chip Price Data - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9519476294517517,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -249,16 +240,25 @@
         {
             "title": "Mistral raises \u20ac3B as sovereign AI becomes big business - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.8656944632530212,
+            "score": 0.8656942844390869,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Mizuho Sees Oracle at $320 as AI Cloud Capacity Jumps - Yahoo Finance",
+            "title": "Bristol Myers claims Phase 2 success for GPRC5D-directed CAR-T - Endpoints News",
             "sentiment": "POSITIVE",
-            "score": 0.9488298892974854,
+            "score": 0.9483462572097778,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mizuho Sees a Big Oracle Catalyst Hiding in Its AI Capacity Ramp - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9475821256637573,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -267,7 +267,7 @@
         {
             "title": "Iran deploys security forces as gasoline price rise takes effect - Iran International",
             "sentiment": "NEGATIVE",
-            "score": 0.9308674335479736,
+            "score": 0.9308675527572632,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -276,17 +276,8 @@
         {
             "title": "Inhibrx claims first win for long-sought immunotherapy target - STAT",
             "sentiment": "POSITIVE",
-            "score": 0.7965148091316223,
+            "score": 0.7965141534805298,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "France's Wine Country Hasn't Struggled Like This Since '50s - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.9733830094337463,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -294,7 +285,7 @@
         {
             "title": "Roivant\u2019s $14M bet on Bayer\u2019s inhaled hypertension med pays off with phase 2 win - Fierce Biotech",
             "sentiment": "POSITIVE",
-            "score": 0.8859978318214417,
+            "score": 0.8429311513900757,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -303,26 +294,17 @@
         {
             "title": "Stoke Space raises $1 billion and unveils larger launch vehicle - SpaceNews",
             "sentiment": "POSITIVE",
-            "score": 0.7627066969871521,
+            "score": 0.7627056241035461,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Trump keeps heralding an economic boom, but even a solid jobs report is causing problems for him - PBS",
+            "title": "Pharma major Novartis falls 10% after three drug trial setbacks - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9533470273017883,
+            "score": 0.9720509052276611,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gasoline prices, over $4 per gallon, hit record high for Labor Day - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8525678515434265,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
