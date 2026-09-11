@@ -1,17 +1,34 @@
 {
-    "last_updated": "2026-09-11 06:58:15 UTC",
-    "total_articles": 16,
-    "bullish_articles": 4,
-    "bearish_articles": 12,
+    "last_updated": "2026-09-11 09:33:13 UTC",
+    "total_articles": 17,
+    "bullish_articles": 7,
+    "bearish_articles": 10,
     "articles": [
         {
-            "title": "Widow files new suit alleging botched landing maneuvers, aircraft safety failures in Amazon jet crash - Fox Business",
+            "title": "World shares retreat and oil prices trade above $100 a barrel - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9082694053649902,
+            "score": 0.9691889882087708,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI - theverge.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7998921275138855,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "A pilot of the Amazon cargo plane in Miami crash warned it was coming in too fast - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.8795139789581299,
             "signal": "BEARISH",
             "tickers": [
-                "AMZN",
-                "BA"
+                "AMZN"
             ],
             "primary_ticker": "AMZN",
             "ticker_impacts": [
@@ -19,18 +36,13 @@
                     "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
-                },
-                {
-                    "ticker": "BA",
-                    "impact": "negative",
-                    "relevance": "medium"
                 }
             ]
         },
         {
             "title": "Anthropic posted, then swiftly deleted, a $450,000 sales job aimed at its 'mega' customer Meta - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.8531122803688049,
+            "score": 0.8531123995780945,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -45,18 +57,9 @@
             ]
         },
         {
-            "title": "Bessent Yen Jawboning Risks Raising Expectations BOJ Can\u2019t Meet - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7774152755737305,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Passenger killed, driver critically injured after Tesla crashes into scaffolding in Midtown - ABC7 New York",
             "sentiment": "NEGATIVE",
-            "score": 0.927158534526825,
+            "score": 0.9271586537361145,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -71,18 +74,9 @@
             ]
         },
         {
-            "title": "Jet plunges 27,000 feet in 10 minutes as oxygen masks suddenly drop aboard flight - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9558238387107849,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "US loans $1.9B to restart shuttered Iowa nuclear plant - foxbusiness.com",
             "sentiment": "POSITIVE",
-            "score": 0.8347823023796082,
+            "score": 0.8347827792167664,
             "signal": "BULLISH",
             "tickers": [
                 "GOOGL"
@@ -99,11 +93,43 @@
         {
             "title": "O\u2019Charley\u2019s closing all locations nationwide after 55 years - WTVC",
             "sentiment": "NEGATIVE",
-            "score": 0.8342188596725464,
+            "score": 0.8342185616493225,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Six Chinese AI firms accused of aggressively copying US frontier models - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.8095646500587463,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why Qualcomm\u2019s AI Chip Deal Proves Nvidia Is Still Top Dog - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.972636878490448,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "AMZN"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs - Ars Technica",
@@ -123,15 +149,6 @@
             ]
         },
         {
-            "title": "Supreme Court Says AGs Must Respond To Merger Suit Objections From Red States - deadline.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.905625581741333,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Bombardier looks to hire 500 new workers in US, despite Trump threat - Al Jazeera",
             "sentiment": "POSITIVE",
             "score": 0.9408477544784546,
@@ -141,35 +158,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why Micron Stock Is Gaining Today - Barron's",
+            "title": "Takeaways From IonQ\u2019s Investor Day: A New Quantum System and $1.8 Billion Deal - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9460299015045166,
+            "score": 0.8996617197990417,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "China hits back at US claims of \u2018malicious\u2019 AI distillation ahead of planned Trump-Xi talks - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8414720296859741,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "GE Aerospace Buys Turbine Maker in Blow to SpaceX. These Stocks Could Benefit. - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.7594547271728516,
+            "score": 0.7594544887542725,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -178,7 +178,7 @@
         {
             "title": "Tesla Cybercab draws concern from Texas fire department over lack of steering wheel - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.707234799861908,
+            "score": 0.7072349786758423,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -193,19 +193,28 @@
             ]
         },
         {
+            "title": "Costco set to expand with 14 new warehouses across US and Canada - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.9010956883430481,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "BART Reports Major Crime Drop 1 Year After New Fare Gates - KQED",
             "sentiment": "NEGATIVE",
-            "score": 0.9228231310844421,
+            "score": 0.9228230118751526,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Bessent Says Trump May Speed Deficit Cut Plans if Democrats Win - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7167031168937683,
-            "signal": "BEARISH",
+            "title": "Delta and Hyatt introduce new strategic relationship - Delta News Hub",
+            "sentiment": "POSITIVE",
+            "score": 0.7937247157096863,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
