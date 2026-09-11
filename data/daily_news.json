@@ -1,13 +1,71 @@
 {
-    "last_updated": "2026-09-11 01:02:29 UTC",
-    "total_articles": 21,
-    "bullish_articles": 6,
-    "bearish_articles": 15,
+    "last_updated": "2026-09-11 03:35:48 UTC",
+    "total_articles": 17,
+    "bullish_articles": 4,
+    "bearish_articles": 13,
     "articles": [
         {
-            "title": "Dow tumbles 400 points, posting 3-day slide as rates jump and Brent crude tops $101 - CNBC",
+            "title": "Widow files new suit alleging botched landing maneuvers, aircraft safety failures in Amazon jet crash - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9712835550308228,
+            "score": 0.9082694053649902,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN",
+                "BA"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.8115935325622559,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Traders Brush Aside Scott Bessent\u2019s \u2018Bet Against Me\u2019 Tough Talk - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7805033922195435,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Passenger killed, driver critically injured after Tesla crashes into scaffolding in Midtown - ABC7 New York",
+            "sentiment": "NEGATIVE",
+            "score": 0.9271586537361145,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Jet plunges 27,000 feet in 10 minutes as oxygen masks suddenly drop aboard flight - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9558238387107849,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,7 +74,7 @@
         {
             "title": "US loans $1.9B to restart shuttered Iowa nuclear plant - foxbusiness.com",
             "sentiment": "POSITIVE",
-            "score": 0.8347823023796082,
+            "score": 0.8347827792167664,
             "signal": "BULLISH",
             "tickers": [
                 "GOOGL"
@@ -31,26 +89,9 @@
             ]
         },
         {
-            "title": "Anthropic researcher resigns with warning about the dangers of AI development - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9353920221328735,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "O\u2019Charley\u2019s closing all locations nationwide after 55 years - WTVC",
             "sentiment": "NEGATIVE",
-            "score": 0.8342188596725464,
+            "score": 0.8342185616493225,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -76,7 +117,7 @@
         {
             "title": "Supreme Court Says AGs Must Respond To Merger Suit Objections From Red States - deadline.com",
             "sentiment": "NEGATIVE",
-            "score": 0.905625581741333,
+            "score": 0.9056255221366882,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -85,69 +126,51 @@
         {
             "title": "Options Traders Are Betting Oracle Has Another Move Left - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7717804908752441,
+            "score": 0.7717800140380859,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Ford blasts White House criticism of China tech partners, calls Duffy letter 'wrongheaded' - Yahoo Finance",
+            "title": "Bombardier looks to hire 500 new workers in US, despite Trump threat - Al Jazeera",
+            "sentiment": "POSITIVE",
+            "score": 0.9408477544784546,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China hits back at US claims of \u2018malicious\u2019 AI distillation ahead of planned Trump-Xi talks - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.7950834035873413,
+            "score": 0.8414719700813293,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "GE Aerospace Buys Turbine Maker in Blow to SpaceX. These Stocks Could Benefit. - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.7594547271728516,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SEC wants to end pay-to-play prohibition for private equity - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.7433518171310425,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Insilico's co-CEO hopes 'we might have a chance to stop biological aging' - Fortune",
-            "sentiment": "POSITIVE",
-            "score": 0.9184643626213074,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Google Has a Cool $15 Billion Fix to the AI Energy Problem - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.808935284614563,
-            "signal": "BULLISH",
             "tickers": [
-                "GOOGL"
+                "INTC"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
         {
+            "title": "GE Aerospace Buys Turbine Maker in Blow to SpaceX. These Stocks Could Benefit. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.7594544887542725,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Tesla Cybercab draws concern from Texas fire department over lack of steering wheel - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.707234799861908,
+            "score": 0.7072349786758423,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -162,32 +185,6 @@
             ]
         },
         {
-            "title": "10-year Treasury yield touches highest since 2023 despite Bessent's $6 billion bond buyback plan - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9025010466575623,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Dog supplements recalled over potential salmonella contamination - foxbusiness.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9682236909866333,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Hedge Funds Pile Into Fuels as U.S. Supply Squeeze Deepens - Crude Oil Prices Today | OilPrice.com",
             "sentiment": "NEGATIVE",
             "score": 0.9558951258659363,
@@ -197,9 +194,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Exclusive / Justice Department to take a closer look at Fox\u2019s $22 billion Roku deal - Semafor",
+            "title": "BART Reports Major Crime Drop 1 Year After New Fare Gates - KQED",
             "sentiment": "NEGATIVE",
-            "score": 0.877641499042511,
+            "score": 0.9228230118751526,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -208,34 +205,7 @@
         {
             "title": "Bessent Says Trump May Speed Deficit Cut Plans if Democrats Win - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7167031168937683,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Casey\u2019s Earnings Beat Estimates. Why the Stock Is Falling. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.8181988000869751,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AZ's R&D chief Barr touts internal 'science success story' after IL-33 antibody's stellar showing in COPD - Fierce Biotech",
-            "sentiment": "POSITIVE",
-            "score": 0.7506771683692932,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "A breakthrough pancreatic cancer drug won approval. They still struggle to access it - STAT",
-            "sentiment": "NEGATIVE",
-            "score": 0.8810060024261475,
+            "score": 0.7167035937309265,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
