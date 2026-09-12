@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-09-12 01:01:43 UTC",
+    "last_updated": "2026-09-12 03:34:21 UTC",
     "total_articles": 23,
     "bullish_articles": 5,
     "bearish_articles": 18,
     "articles": [
+        {
+            "title": "Chemours accused of illegally dumping PFAS chemicals in Cape Fear River, other NC water settles for millions - ABC11 News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7863419651985168,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Treasury Yields Surge as Oil, Buyback Results Fuel Selloff - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8438560962677002,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "California newsrooms decimated in \u2018the bloodiest round of layoffs\u2019 as media giant culls 40% of staff - New York Post",
             "sentiment": "NEGATIVE",
@@ -40,9 +58,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Futures: S&P 500 Breaks 50-Day As Oil, Yields Soar; CPI Inflation Due - Investor's Business Daily",
+            "title": "Lineage Sues Solar-Panel Operator Over L.A. Warehouse Fire - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.7359905242919922,
+            "score": 0.7830325961112976,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -93,6 +111,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8342282176017761,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "55-year-old restaurant chain abruptly shutters locations nationwide - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9692859649658203,
@@ -128,35 +163,9 @@
             ]
         },
         {
-            "title": "Tesla Removed the Steering Wheel. Now Firefighters Have Questions. - Gadget Review",
-            "sentiment": "NEGATIVE",
-            "score": 0.942493200302124,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Novartis shareholder calls for board overhaul following costly deal setbacks: Reuters - Fierce Pharma",
             "sentiment": "NEGATIVE",
             "score": 0.9515748620033264,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Home sales dropped last month as mortgage rates reached highest level in over a year - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9748502969741821,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -172,13 +181,38 @@
             "ticker_impacts": []
         },
         {
-            "title": "Delta flight diverted after it plunged 27,000 feet over 10 minutes, oxygen masks deployed - WSB-TV",
+            "title": "Delta flight plunges 27,000 feet after pressurization issue, oxygen masks deploy - WPDE",
             "sentiment": "NEGATIVE",
-            "score": 0.8692725896835327,
+            "score": 0.9565507769584656,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "BA"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Dow Jones Futures Rise, Techs Fall As Oil Prices, Yields Keep Climbing. Inflation Data Due. - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.963674783706665,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "119-year-old NJ amusement park to close, go up for sale - Fox Business",
@@ -208,23 +242,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Amazon Sued Over Treatment of Pregnant Workers - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.9484809041023254,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Buc-ee's wins $850K in trademark lawsuit against South Carolina business - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9540714025497437,
@@ -234,18 +251,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bombardier looks to hire 500 new workers in US, despite Trump threat - Al Jazeera",
-            "sentiment": "POSITIVE",
-            "score": 0.9408477544784546,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Hunter Biden's laptop memecoin soared, then crashed nearly 98% on its first day - qz.com",
+            "title": "Elon Musk's First Wife Blasts Him Over Failed Marriage - TMZ",
             "sentiment": "NEGATIVE",
-            "score": 0.9720017910003662,
+            "score": 0.8127884864807129,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
