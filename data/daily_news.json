@@ -1,13 +1,48 @@
 {
-    "last_updated": "2026-09-12 06:41:37 UTC",
-    "total_articles": 19,
-    "bullish_articles": 4,
-    "bearish_articles": 15,
+    "last_updated": "2026-09-12 09:30:04 UTC",
+    "total_articles": 25,
+    "bullish_articles": 6,
+    "bearish_articles": 19,
     "articles": [
+        {
+            "title": "Stock futures edge higher as key consumer inflation report looms ahead: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9568164348602295,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Scott Bessent fails to break \u2018fever\u2019 in US bond market - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9477415084838867,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7276194095611572,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
         {
             "title": "Chemours accused of illegally dumping PFAS chemicals in Cape Fear River, other NC water settles for millions - ABC11 News",
             "sentiment": "NEGATIVE",
-            "score": 0.7863419055938721,
+            "score": 0.7863419651985168,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,9 +58,26 @@
             "ticker_impacts": []
         },
         {
+            "title": "Two AI researchers leave Anthropic and Google over safety concerns: \u2018There are no adults in the room\u2019 - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8751891255378723,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Stock Market on Sept. 10, 2026: Dow, S&P 500 and Nasdaq end lower as U.S. oil prices surge to more than $100 a barrel and Treasury yields jump; stocks book 4th straight day of losses - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.968716561794281,
+            "score": 0.9641820788383484,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -41,9 +93,27 @@
             "ticker_impacts": []
         },
         {
+            "title": "OPEC Sees Oil Demand Growth Explode Sixfold in 2027 - oilprice.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9415597319602966,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI puts Pro subscriptions on hold due to Astra demand - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9586789011955261,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9205242991447449,
+            "score": 0.9205241799354553,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -59,9 +129,26 @@
             "ticker_impacts": []
         },
         {
+            "title": "Adobe Stock Wavers. Strong Earnings Aren\u2019t Enough to Boost the Stock. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.7983440160751343,
+            "signal": "BULLISH",
+            "tickers": [
+                "ADBE"
+            ],
+            "primary_ticker": "ADBE",
+            "ticker_impacts": [
+                {
+                    "ticker": "ADBE",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Florida Sues Netflix, Seeking Billions in Damages - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.8865213394165039,
+            "score": 0.8865214586257935,
             "signal": "BEARISH",
             "tickers": [
                 "NFLX"
@@ -78,7 +165,7 @@
         {
             "title": "Ford CEO says Duffy's letter reflected 'basic misunderstandings': report - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.815345823764801,
+            "score": 0.8153461217880249,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -87,7 +174,7 @@
         {
             "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.8342288136482239,
+            "score": 0.8342282176017761,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -113,7 +200,7 @@
         {
             "title": "Federal officials poised to declare end of U.S.\u2019s largest known cyclosporiasis outbreak - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9225549101829529,
+            "score": 0.9225549697875977,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -131,16 +218,16 @@
         {
             "title": "Kalshi launches \u2018perps\u2019 for gold and silver following CFTC approval, expanding futures offerings - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8112303018569946,
+            "score": 0.8112300634384155,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Delta flight plunges 27,000 feet after pressurization issue, oxygen masks deploy - WPDE",
+            "title": "Delta flight plunges 27,000 feet after pressurization issue, oxygen masks deploy - WSMH",
             "sentiment": "NEGATIVE",
-            "score": 0.956550657749176,
+            "score": 0.9513735771179199,
             "signal": "BEARISH",
             "tickers": [
                 "BA"
@@ -157,20 +244,28 @@
         {
             "title": "Renown announces plans to build new standalone children's hospital - KTVN",
             "sentiment": "POSITIVE",
-            "score": 0.8723564147949219,
+            "score": 0.8723559379577637,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "119-year-old NJ amusement park to close, go up for sale - Fox Business",
+            "title": "Copper, FCX Stock Plunge On Tariff Report, Surging Yields; Silver, Gold Also Fall - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.7932763695716858,
+            "score": 0.894352912902832,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "META"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Saudis Tell OPEC That Output Slumped Again to Lowest Since 1990 - Bloomberg.com",
@@ -184,17 +279,8 @@
         {
             "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI - theverge.com",
             "sentiment": "POSITIVE",
-            "score": 0.7998923659324646,
+            "score": 0.7998913526535034,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Buc-ee's wins $850K in trademark lawsuit against South Carolina business - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9540714025497437,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
