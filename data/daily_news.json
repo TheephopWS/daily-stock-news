@@ -1,9 +1,53 @@
 {
-    "last_updated": "2026-09-13 12:37:43 UTC",
-    "total_articles": 31,
-    "bullish_articles": 8,
-    "bearish_articles": 23,
+    "last_updated": "2026-09-13 15:29:14 UTC",
+    "total_articles": 27,
+    "bullish_articles": 5,
+    "bearish_articles": 22,
     "articles": [
+        {
+            "title": "Inflation is outpacing wage growth again, squeezing Americans\u2019 paychecks - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.788898766040802,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil's roundtrip back to $100. Why China could determine what happens next - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7863023281097412,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Record diesel prices stoke food inflation, transportation costs - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.8555123209953308,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Major companies to cut back on 2027 health benefits in blow to workers - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.9550134539604187,
+            "signal": "BEARISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
         {
             "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon - NPR",
             "sentiment": "NEGATIVE",
@@ -31,6 +75,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "CDC declares cyclospora outbreak over - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.8364798426628113,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Hunter Biden lashes out after $LAPTOP meme coin collapse - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9358183145523071,
@@ -40,9 +93,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Federal court rejects Trump administration order keeping Michigan coal plant open - PBS",
+            "title": "OpenAI reveals another rogue AI attack - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.9146682024002075,
+            "score": 0.7756395936012268,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Larry Ellison to sell up to $7.5bn worth of Oracle stock - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.7655494809150696,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -51,16 +113,7 @@
         {
             "title": "Florida DMV says it was hacked shortly after major driver\u2019s license breach - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.8491160273551941,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Feds declare record-setting cyclospora outbreak over - politico.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9436949491500854,
+            "score": 0.8491161465644836,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -69,34 +122,66 @@
         {
             "title": "Broccoli sprouts linked to salmonella outbreak recalled after 22 are sickened - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8584623336791992,
+            "score": 0.8584621548652649,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "See how your income tax bracket could change for 2027 - CBS News",
+            "title": "Beloved 55-Year-Old Restaurant Chain Closes Every Last Location (For Good) - The Takeout",
+            "sentiment": "NEGATIVE",
+            "score": 0.9407873749732971,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oracle Nearly Erases 7% Jump Despite $664 Billion AI Backlog - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9189980030059814,
+            "score": 0.9454702138900757,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "EV prices are falling while the average new car tops $50K - Electrek",
+            "title": "Entire Sac Bee sports team eliminated in sweeping McClatchy layoffs - SFGATE",
             "sentiment": "NEGATIVE",
-            "score": 0.9718965291976929,
+            "score": 0.9540553689002991,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Meta Releases Uber-Creepy AI Chatbot as Its Platforms Crumble Under Grotesque Child Abuse - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.7322863936424255,
+            "signal": "BEARISH",
+            "tickers": [
+                "META",
+                "UBER"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "UBER",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Warsh Faces Intensifying Pressure to Raise Rates After Hot CPI - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8776891827583313,
+            "score": 0.8776895999908447,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -112,36 +197,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods - AP News",
+            "title": "U.S. inflation accelerated last month as gas prices spiked, squeezing Americans' finances - PBS",
             "sentiment": "POSITIVE",
-            "score": 0.9385637640953064,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'We're all without a job.' Workers, patrons react to O'Charley's closure - USA Today",
-            "sentiment": "NEGATIVE",
-            "score": 0.9259071946144104,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Social Security recipients may see largest pay raise in 3 years in 2027 - USA Today",
-            "sentiment": "POSITIVE",
-            "score": 0.9386876821517944,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oracle stock trims gains as AI cloud demand outpaces supply - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9235966205596924,
+            "score": 0.8512099981307983,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -150,35 +208,8 @@
         {
             "title": "Here\u2019s the inflation breakdown for August 2026 \u2014 in one chart - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.939141571521759,
+            "score": 0.9391415119171143,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Consumer outlook plunges in September as inflation outlook worsens - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9765169620513916,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "McClatchy layoffs hit local WA newspapers - The Seattle Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9687369465827942,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The 30-year mortgage rate just crossed 7% for the first time in over a year - MarketWatch",
-            "sentiment": "POSITIVE",
-            "score": 0.8534353375434875,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -188,6 +219,15 @@
             "sentiment": "POSITIVE",
             "score": 0.8701279163360596,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "IEA warns global oil refining system \u2018stretched to the limit\u2019 as Iran, Ukraine wars tighten market - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9681050777435303,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -204,16 +244,7 @@
         {
             "title": "These Michigan swing voters are bracing for higher prices from trade war with Canada - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9268174171447754,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "IEA warns of \u2018lost period\u2019 in global oil demand - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9700403213500977,
+            "score": 0.9268172383308411,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -222,60 +253,16 @@
         {
             "title": "Novartis, Novo Nordisk drug failures will likely \u2018pop a hole in the balloon\u2019 of the field - STAT",
             "sentiment": "NEGATIVE",
-            "score": 0.9093909859657288,
+            "score": 0.9093908667564392,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Bridgewater\u2019s Jensen Says AI Will Kill People Before It\u2019s Curbed - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8002505302429199,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Scott Bessent fails to break \u2018fever\u2019 in US bond market - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8845043182373047,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Exclusive | Kalshi Looks to Expand a Rapidly Growing Universe of Risky Trading - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9127935171127319,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal - WIRED",
-            "sentiment": "NEGATIVE",
-            "score": 0.931774377822876,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Lineage Sues Solar-Panel Operator Over L.A. Warehouse Fire - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.7830325961112976,
+            "score": 0.8845041394233704,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -284,7 +271,7 @@
         {
             "title": "Florida Sues Netflix, Seeking Billions in Damages - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.8865213394165039,
+            "score": 0.8865211606025696,
             "signal": "BEARISH",
             "tickers": [
                 "NFLX"
@@ -293,23 +280,6 @@
             "ticker_impacts": [
                 {
                     "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Michael Burry Dumps Nvidia and Palantir Put Options in Fresh Risk Warning - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8459404706954956,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
                 }
