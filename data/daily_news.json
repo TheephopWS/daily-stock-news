@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-09-13 18:32:36 UTC",
+    "last_updated": "2026-09-13 21:28:46 UTC",
     "total_articles": 27,
     "bullish_articles": 5,
     "bearish_articles": 22,
     "articles": [
+        {
+            "title": "Jewelry chain closes 53 stores after shutting down 2 brands - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8791915774345398,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Larry Ellison cancels $7.5bn Oracle share sale - Financial Times",
             "sentiment": "NEGATIVE",
@@ -12,6 +21,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9030629992485046,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Two Men Handcuffed to Seats After Allegedly Threatening Passengers on Flight - TMZ",
@@ -45,6 +71,15 @@
             "sentiment": "NEGATIVE",
             "score": 0.855512261390686,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "FTX Founder Sam Bankman-Fried Takes Fraud Conviction to Supreme Court - Yahoo",
+            "sentiment": "POSITIVE",
+            "score": 0.740290641784668,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -84,24 +119,6 @@
             ]
         },
         {
-            "title": "More than 2 million sour candy bottles recalled over potentially deadly choking hazard - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9616895318031311,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "CDC declares cyclospora outbreak over - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.836480438709259,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "For the US news industry, a tough summer draws to a close with McClatchy chain\u2019s cuts - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9736683964729309,
@@ -120,15 +137,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI reveals another rogue AI attack - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.7756397724151611,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Power Outages May Last Months For Some On Kaua\u02bbi\u2019s North Shore - Honolulu Civil Beat",
             "sentiment": "NEGATIVE",
             "score": 0.9126976728439331,
@@ -141,6 +149,15 @@
             "title": "Florida DMV says it was hacked shortly after major driver\u2019s license breach - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.8491160869598389,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Feds declare record-setting cyclospora outbreak over - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9456626176834106,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -215,23 +232,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Sam Altman Weighs AI Slowdown as Bridgewater Co-CIO Warns AI Will Kill People Before Anyone Acts - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8726775050163269,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "U.S. inflation accelerated last month as gas prices spiked, squeezing Americans' finances - PBS",
             "sentiment": "POSITIVE",
             "score": 0.8512094020843506,
@@ -241,10 +241,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Social Security recipients may see largest pay raise in 3 years in 2027 - USA Today",
-            "sentiment": "POSITIVE",
-            "score": 0.9386876821517944,
-            "signal": "BULLISH",
+            "title": "Consumer outlook plunges in September as inflation outlook worsens - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9765169620513916,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
