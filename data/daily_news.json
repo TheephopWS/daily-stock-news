@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-09-14 15:33:09 UTC",
-    "total_articles": 27,
-    "bullish_articles": 6,
+    "last_updated": "2026-09-14 18:35:52 UTC",
+    "total_articles": 26,
+    "bullish_articles": 5,
     "bearish_articles": 21,
     "articles": [
+        {
+            "title": "Irish golf fans chant 'USA' after Trump announces end of tariffs on Irish whiskey - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.8289341330528259,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Female passenger undresses on American Airlines flight, engages in 'indecent acts,' crew reports - foxnews.com",
             "sentiment": "NEGATIVE",
@@ -12,6 +21,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "14-year-old killed in Pacific beach e-bike crash involving Tesla - fox5sandiego.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8589158058166504,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Trump Pushes Fed to Lower Rates Despite Pressure to Raise Them - Bloomberg.com",
@@ -50,10 +76,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why Trump\u2019s effort to build more refineries won\u2019t lower gas prices - CNN",
-            "sentiment": "POSITIVE",
-            "score": 0.7251244783401489,
-            "signal": "BULLISH",
+            "title": "The tab is coming due for America's borrowing binge - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.8885970115661621,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -80,15 +106,6 @@
             "title": "Bessent dared the markets to \u2018bet against\u2019 him. Bond traders did \u2014 and appear to be winning. - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.7132512927055359,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The new American retirement fear: working until you die - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.7061890363693237,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -193,32 +210,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI just wants to win - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.8899064660072327,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Major companies to cut back on 2027 health benefits in blow to workers - USA Today",
-            "sentiment": "NEGATIVE",
-            "score": 0.9550134539604187,
-            "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "For the US news industry, a tough summer draws to a close with McClatchy chain\u2019s cuts - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9736685156822205,
@@ -237,6 +228,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Cluster of abandoned boats clogs Southern California harbor - KTLA",
+            "sentiment": "NEGATIVE",
+            "score": 0.9064807295799255,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Power Outages May Last Months For Some On Kaua\u02bbi\u2019s North Shore - Honolulu Civil Beat",
             "sentiment": "NEGATIVE",
             "score": 0.9126975536346436,
@@ -246,18 +246,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Florida DMV says it was hacked shortly after major driver\u2019s license breach - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8491161465644836,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oracle Nearly Erases 7% Jump Despite $664 Billion AI Backlog - Yahoo Finance",
+            "title": "White House Weighs Defense Production Act as U.S. Refineries Maxed Out - Crude Oil Prices Today | OilPrice.com",
             "sentiment": "POSITIVE",
-            "score": 0.9454702138900757,
+            "score": 0.8337691426277161,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
