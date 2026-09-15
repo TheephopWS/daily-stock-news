@@ -1,22 +1,54 @@
 {
-    "last_updated": "2026-09-15 09:37:33 UTC",
-    "total_articles": 23,
-    "bullish_articles": 0,
-    "bearish_articles": 23,
+    "last_updated": "2026-09-15 12:42:12 UTC",
+    "total_articles": 25,
+    "bullish_articles": 1,
+    "bearish_articles": 24,
     "articles": [
         {
-            "title": "China\u2019s spy agency warns of AI risk to national security - Financial Times",
+            "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9522299766540527,
+            "score": 0.9635178446769714,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN",
+                "BA"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9104344248771667,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Warsh and Trump on collision course as investors expect Fed to raise rates - Financial Times",
+            "title": "China Rejects AI \u2018Fearmongering\u2019 After Amodei Urges Slowdown - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7154690623283386,
+            "score": 0.9306380748748779,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Asian shares decline and OpenAI investor SoftBank shares plunge after calls to slow AI industry - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9685311317443848,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,35 +64,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Amazon suspends use of 21 Air, cargo carrier involved in fatal Miami crash - nbcnews.com",
+            "title": "Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9232925772666931,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9404097199440002,
+            "score": 0.9429313540458679,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Woman arrested after undressing on American Airlines flight and performing \u2018indecent acts\u2019 - The Independent",
+            "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8449717164039612,
+            "score": 0.9404094815254211,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stocks are in a late-stage bubble and poised to crash 21% next year, analyst says - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.770779550075531,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -76,9 +100,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Chick-fil-A is one of America's toughest franchises, and the startup cost may shock you - Fox News",
+            "title": "14-year-old e-bike rider struck, killed in Pacific Beach - cbs8.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8834227919578552,
+            "score": 0.7835286855697632,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -87,7 +111,16 @@
         {
             "title": "A fresh midterm headache for the GOP just hit a national record - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8396371006965637,
+            "score": 0.8396362066268921,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Boy, We Were Wrong About SpaceX - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.792361855506897,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -96,7 +129,34 @@
         {
             "title": "Greg Cote laid off by Miami Herland after 54 years with paper - Awful Announcing",
             "sentiment": "NEGATIVE",
-            "score": 0.8701013326644897,
+            "score": 0.8701014518737793,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Female passenger undresses on American Airlines flight, engages in 'indecent acts,' crew reports - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8700575232505798,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Broadcom: Buckle Up For What's Coming (NASDAQ:AVGO) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.8148683309555054,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The price of almost everything on your dinner table is climbing at once \u2014 and Wall Street is taking notice - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.75101637840271,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -105,7 +165,7 @@
         {
             "title": "The tab is coming due for America's borrowing binge - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.8885971903800964,
+            "score": 0.8885970115661621,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -114,7 +174,7 @@
         {
             "title": "Kroger loses $12 billion as customer behavior takes a turn - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9443084001541138,
+            "score": 0.9443082213401794,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -123,7 +183,7 @@
         {
             "title": "Qantas is retiring its A380s. Is it time to say goodbye to the superjumbo? - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.7088272571563721,
+            "score": 0.7088263034820557,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -132,16 +192,16 @@
         {
             "title": "Bessent dared the markets to \u2018bet against\u2019 him. Bond traders did \u2014 and appear to be winning. - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.7132508158683777,
+            "score": 0.7132512927055359,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The new American retirement fear: working until you die - Fortune",
+            "title": "Rising oil prices create 'huge worry' as winter looms - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7061886787414551,
+            "score": 0.9536115527153015,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -157,18 +217,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says - axios.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8732050061225891,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "1 injured, assailant at large after shooting at Longmont Dollar Tree - timescall.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7547900676727295,
+            "score": 0.7547905445098877,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -177,33 +228,7 @@
         {
             "title": "Eggs tied to California producer recalled after salmonella outbreak - San Francisco Chronicle",
             "sentiment": "NEGATIVE",
-            "score": 0.8129045963287354,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Major companies to cut back on 2027 health benefits in blow to workers - USA Today",
-            "sentiment": "NEGATIVE",
-            "score": 0.9550132155418396,
-            "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Paramount files new legal statement saying states' antitrust suit misses the whole point of the merger - avclub.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8762124180793762,
+            "score": 0.8129038214683533,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -212,16 +237,7 @@
         {
             "title": "Inflation is outpacing wage growth again, squeezing Americans\u2019 paychecks - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.78890061378479,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Energy Markets Signal Winter Crisis and Rising Interest Rates - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9540215134620667,
+            "score": 0.788898766040802,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
