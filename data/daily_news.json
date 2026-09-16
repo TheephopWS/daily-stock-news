@@ -1,44 +1,34 @@
 {
-    "last_updated": "2026-09-16 06:48:16 UTC",
-    "total_articles": 25,
-    "bullish_articles": 5,
-    "bearish_articles": 20,
+    "last_updated": "2026-09-16 09:33:57 UTC",
+    "total_articles": 26,
+    "bullish_articles": 4,
+    "bearish_articles": 22,
     "articles": [
-        {
-            "title": "10-year Treasury yield rises to highest since 2007 - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9152248501777649,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
         {
             "title": "Costco raises price of Kirkland motor oil and limits how much shoppers can buy - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8271129131317139,
+            "score": 0.8271129727363586,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Why cash continues to thrive even as India's digital payments grow - BBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7787039279937744,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The FDA Just Issued a Recall on Cheese Sold at Whole Foods - EatingWell",
+            "title": "Microsoft CEO Satya Nadella posts an internal warning to employees about AI safety - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.7020997405052185,
+            "score": 0.8548948764801025,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Stock futures are little changed as traders eye rising oil prices and rates: Live updates - CNBC",
@@ -50,9 +40,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Gillibrand privately urges Dems to advance crypto bill - Politico",
+            "title": "Stock Market Today: Dow, S&P 500 and Nasdaq close down on AI fears and rising oil, but off lows as 10-year yield drops after hitting 5% - marketwatch.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8910334706306458,
+            "score": 0.9670583009719849,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -77,9 +67,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "Record diesel prices affecting North Country business - WWNY",
+            "sentiment": "NEGATIVE",
+            "score": 0.9590140581130981,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Tesla drives up onto Pacific Beach boardwalk after police chase, injuring woman - NBC 7 San Diego",
             "sentiment": "NEGATIVE",
-            "score": 0.8734102845191956,
+            "score": 0.8734102249145508,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -94,15 +93,6 @@
             ]
         },
         {
-            "title": "AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8909332752227783,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Psychedelics Stock, Up 190% This Year, Flies High Again - Investor's Business Daily",
             "sentiment": "POSITIVE",
             "score": 0.9423550367355347,
@@ -114,7 +104,7 @@
         {
             "title": "Oil Rises on Concerns of Extended Middle East Disruptions - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.798667848110199,
+            "score": 0.7986680865287781,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -127,8 +117,8 @@
             "signal": "BEARISH",
             "tickers": [
                 "INTC",
-                "NVDA",
-                "AMD"
+                "AMD",
+                "NVDA"
             ],
             "primary_ticker": "INTC",
             "ticker_impacts": [
@@ -138,12 +128,12 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMD",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -152,7 +142,7 @@
         {
             "title": "30-year mortgage rate jumps to 7.17% \u2014 a nearly 2-year high \u2014 in the latest blow to the housing market - MarketWatch",
             "sentiment": "POSITIVE",
-            "score": 0.7648060321807861,
+            "score": 0.7648050785064697,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -176,9 +166,32 @@
             ]
         },
         {
-            "title": "Here's the severance package Oracle offered laid-off US employees - Business Insider",
+            "title": "Nvidia Stock Drops. It\u2019s Still the Best Chip Bet in an AI Slowdown. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9490137696266174,
+            "score": 0.9679857492446899,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "AMD"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Oracle begins new round of AI-driven layoffs: report - KRON4",
+            "sentiment": "NEGATIVE",
+            "score": 0.9091188907623291,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -187,7 +200,7 @@
         {
             "title": "Revised NextEra bid for Dominion would boost bill credits, add 600 Richmond jobs - Richmond Times-Dispatch",
             "sentiment": "POSITIVE",
-            "score": 0.8572679758071899,
+            "score": 0.8572683930397034,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -196,7 +209,7 @@
         {
             "title": "China bristles at Anthropic CEO\u2019s \u2018fearmongering\u2019 about its AI development - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9033730030059814,
+            "score": 0.9033731818199158,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -211,9 +224,26 @@
             ]
         },
         {
+            "title": "Nvidia, Broadcom Tumble In AI Rotation; These U.K.-Based Names Gain - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9540075063705444,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Why Oracle Stock Fell Quickly Today - fool.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9269501566886902,
+            "score": 0.9269498586654663,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -222,7 +252,7 @@
         {
             "title": "Why The S&P 500 Isn't Panicking As Oil Surges, War Spreads, The Fed Hikes - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.8674278855323792,
+            "score": 0.8674277067184448,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -238,9 +268,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "Allina doctors begin 4-day contract strike - FOX 9 Minneapolis-St. Paul",
+            "sentiment": "NEGATIVE",
+            "score": 0.9616832137107849,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "'No room left in their budgets': US heating bills expected to rise this winter - gulfcoastnewsnow.com",
             "sentiment": "NEGATIVE",
-            "score": 0.906869113445282,
+            "score": 0.9068692922592163,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -258,7 +297,7 @@
         {
             "title": "Why the election could make Washington's looming next fiscal crisis harder - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8861986994743347,
+            "score": 0.8861991763114929,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -267,7 +306,7 @@
         {
             "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway - npr.org",
             "sentiment": "NEGATIVE",
-            "score": 0.9137536883354187,
+            "score": 0.9137535691261292,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN"
