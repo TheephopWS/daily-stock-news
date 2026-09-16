@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-09-16 01:04:41 UTC",
-    "total_articles": 23,
+    "last_updated": "2026-09-16 03:36:56 UTC",
+    "total_articles": 22,
     "bullish_articles": 6,
-    "bearish_articles": 17,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "Costco raises price of Kirkland motor oil and limits how much shoppers can buy - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.8271129131317139,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Why cash continues to thrive even as India's digital payments grow - BBC",
             "sentiment": "POSITIVE",
-            "score": 0.7787033319473267,
+            "score": 0.7787039279937744,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,17 +25,8 @@
         {
             "title": "The FDA Just Issued a Recall on Cheese Sold at Whole Foods - EatingWell",
             "sentiment": "NEGATIVE",
-            "score": 0.7021003365516663,
+            "score": 0.7020997405052185,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Dominion, NextEra double bill credits for Virginians in expanded merger package - WTVR.com",
-            "sentiment": "POSITIVE",
-            "score": 0.913559079170227,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -61,7 +61,7 @@
         {
             "title": "Tesla drives up onto Pacific Beach boardwalk after police chase, injuring woman - NBC 7 San Diego",
             "sentiment": "NEGATIVE",
-            "score": 0.8734102249145508,
+            "score": 0.8734102845191956,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -85,10 +85,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil Rises on Concerns of Extended Middle East Disruptions - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.7986680865287781,
-            "signal": "BEARISH",
+            "title": "Psychedelics Stock, Up 190% This Year, Flies High Again - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9423550367355347,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -99,17 +99,12 @@
             "score": 0.9594975709915161,
             "signal": "BEARISH",
             "tickers": [
-                "AMD",
                 "NVDA",
-                "INTC"
+                "INTC",
+                "AMD"
             ],
-            "primary_ticker": "AMD",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "NVDA",
                     "impact": "negative",
@@ -119,13 +114,36 @@
                     "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
         {
+            "title": "Oracle slashes jobs as AI ambitions pile on debt - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9734526872634888,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike - cnbc.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8999080657958984,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "30-year mortgage rate jumps to 7.17% \u2014 a nearly 2-year high \u2014 in the latest blow to the housing market - MarketWatch",
             "sentiment": "POSITIVE",
-            "score": 0.7648050785064697,
+            "score": 0.7648060321807861,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -149,32 +167,6 @@
             ]
         },
         {
-            "title": "Here's the severance package Oracle offered laid-off US employees - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9490137696266174,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Elon Musk sends strong signal for SpaceX, Nvidia stocks - thestreet.com",
-            "sentiment": "POSITIVE",
-            "score": 0.730432391166687,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Amazon suspends use of 21 Air, the cargo carrier whose plane careened off Miami runway and killed 5 - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9545239806175232,
@@ -192,9 +184,9 @@
             ]
         },
         {
-            "title": "History Suggests That You'll Regret Not Buying This Struggling Tech Stock - The Motley Fool",
+            "title": "Revised NextEra bid for Dominion would boost bill credits, add 600 Richmond jobs - Richmond Times-Dispatch",
             "sentiment": "POSITIVE",
-            "score": 0.8960423469543457,
+            "score": 0.8572679758071899,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -212,7 +204,7 @@
         {
             "title": "Oracle Stock Drops on Surprising Larry Ellison Announcement - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9493381381034851,
+            "score": 0.9493382573127747,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -221,7 +213,7 @@
         {
             "title": "'No room left in their budgets': US heating bills expected to rise this winter - gulfcoastnewsnow.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9068692922592163,
+            "score": 0.906869113445282,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -239,16 +231,7 @@
         {
             "title": "Why the election could make Washington's looming next fiscal crisis harder - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8861991763114929,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Orange County car influencer among 2 killed in fiery McLaren crash in Irvine - ABC7 Los Angeles",
-            "sentiment": "NEGATIVE",
-            "score": 0.8969590067863464,
+            "score": 0.8861986994743347,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
