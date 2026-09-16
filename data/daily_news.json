@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-09-16 03:36:56 UTC",
-    "total_articles": 22,
-    "bullish_articles": 6,
-    "bearish_articles": 16,
+    "last_updated": "2026-09-16 06:48:16 UTC",
+    "total_articles": 25,
+    "bullish_articles": 5,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "10-year Treasury yield rises to highest since 2007 - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9152248501777649,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Costco raises price of Kirkland motor oil and limits how much shoppers can buy - Fox Business",
             "sentiment": "NEGATIVE",
@@ -59,6 +68,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Pentagon backs $150M Blue Moon tungsten restart - Mining.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8915777206420898,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Tesla drives up onto Pacific Beach boardwalk after police chase, injuring woman - NBC 7 San Diego",
             "sentiment": "NEGATIVE",
             "score": 0.8734102845191956,
@@ -94,24 +112,33 @@
             "ticker_impacts": []
         },
         {
+            "title": "Oil Rises on Concerns of Extended Middle East Disruptions - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.798667848110199,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "AI Warning Sends Nvidia, AMD, Micron and Intel Shares Tumbling - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9594975709915161,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA",
                 "INTC",
+                "NVDA",
                 "AMD"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "INTC",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
                 },
@@ -121,24 +148,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Oracle slashes jobs as AI ambitions pile on debt - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9734526872634888,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike - cnbc.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8999080657958984,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "30-year mortgage rate jumps to 7.17% \u2014 a nearly 2-year high \u2014 in the latest blow to the housing market - MarketWatch",
@@ -167,21 +176,13 @@
             ]
         },
         {
-            "title": "Amazon suspends use of 21 Air, the cargo carrier whose plane careened off Miami runway and killed 5 - AP News",
+            "title": "Here's the severance package Oracle offered laid-off US employees - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9545239806175232,
+            "score": 0.9490137696266174,
             "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Revised NextEra bid for Dominion would boost bill credits, add 600 Richmond jobs - Richmond Times-Dispatch",
@@ -193,18 +194,44 @@
             "ticker_impacts": []
         },
         {
-            "title": "Japanese utility execs resign over falsified quake safety data for 2 nuclear reactors - AP News",
+            "title": "China bristles at Anthropic CEO\u2019s \u2018fearmongering\u2019 about its AI development - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9497228860855103,
+            "score": 0.9033730030059814,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Why Oracle Stock Fell Quickly Today - fool.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9269501566886902,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oracle Stock Drops on Surprising Larry Ellison Announcement - Barron's",
+            "title": "Why The S&P 500 Isn't Panicking As Oil Surges, War Spreads, The Fed Hikes - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9493382573127747,
+            "score": 0.8674278855323792,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Japanese utility execs resign over falsified quake safety data for 2 nuclear reactors - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9497228860855103,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -238,13 +265,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9195512533187866,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway - npr.org",
+            "sentiment": "NEGATIVE",
+            "score": 0.9137536883354187,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
