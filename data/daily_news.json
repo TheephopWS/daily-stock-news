@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-09-17 09:35:06 UTC",
-    "total_articles": 14,
-    "bullish_articles": 5,
+    "last_updated": "2026-09-17 12:42:55 UTC",
+    "total_articles": 16,
+    "bullish_articles": 7,
     "bearish_articles": 9,
     "articles": [
         {
+            "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine - CoinDesk",
+            "sentiment": "NEGATIVE",
+            "score": 0.9627233147621155,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Treasury yields hitting 5% may not break markets now \u2014 but the clock is ticking - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8083259463310242,
+            "score": 0.8083267211914062,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,7 +25,7 @@
         {
             "title": "Fed should defy Donald Trump with rate rise, top economists say - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.8265875577926636,
+            "score": 0.8265882134437561,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -34,7 +43,7 @@
         {
             "title": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.7854302525520325,
+            "score": 0.7854301929473877,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -43,7 +52,7 @@
         {
             "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9206532835960388,
+            "score": 0.9206535220146179,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -52,20 +61,34 @@
         {
             "title": "Judge Sets Date For Settlement Talks In Paramount-WBD Antitrust Case - Deadline",
             "sentiment": "NEGATIVE",
-            "score": 0.8355210423469543,
+            "score": 0.83552086353302,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "U.S. Oil Inventories Jump as Cushing Stocks Keep Falling - Crude Oil Prices Today | OilPrice.com",
+            "title": "OpenAI Says It\u2019s Working With Anthropic, Google on AI Safety - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.8805404901504517,
+            "score": 0.8339588046073914,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "GOOGL",
+                "INTC"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Stock Market Today: Dow Dives With Fed Seen Doing This; Senate Vote Hits These Crypto Stocks - Investor's Business Daily",
@@ -77,27 +100,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oracle CFO Says 'Doing More With Less' Isn't the Answer in All-Hands After Layoffs - Business Insider",
+            "title": "Ford recalls more than 223,000 vehicles over fuel tank issue - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9438004493713379,
+            "score": 0.9679344892501831,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Employee: Dozens leave plant after worker dies at Smithfield Foods, officials say it was allowed - KWQC",
+            "title": "Mortgage Rates Higher Again Ahead of Fed - Mortgage News Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9492980241775513,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8576728105545044,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dozens walk off job after worker dies at Smithfield Foods plant in Monmouth - KWQC",
             "sentiment": "NEGATIVE",
-            "score": 0.9455746412277222,
+            "score": 0.9447221159934998,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Iran is now threatening world\u2019s largest oil facility and vast pipeline after Houthi attacks escalate - New York Post",
+            "title": "The Canadian Products You Should Stock up on Before They Disappear From Stores - Allrecipes",
             "sentiment": "NEGATIVE",
-            "score": 0.8074191212654114,
+            "score": 0.721997082233429,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -106,17 +147,8 @@
         {
             "title": "Vera kidney drug Trutakna shows strong final results in Phase 3 trial - STAT",
             "sentiment": "POSITIVE",
-            "score": 0.9517297744750977,
+            "score": 0.9517296552658081,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Fed may be on the verge of a serious mistake, prominent economists warn - marketwatch.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9143589735031128,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -124,7 +156,7 @@
         {
             "title": "Vera Rubin NVL72 Agentic Inference: 67x better Performance per Dollar - SemiAnalysis",
             "sentiment": "POSITIVE",
-            "score": 0.8508791327476501,
+            "score": 0.8508787155151367,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
