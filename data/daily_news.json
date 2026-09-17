@@ -1,14 +1,67 @@
 {
-    "last_updated": "2026-09-17 18:37:11 UTC",
-    "total_articles": 23,
-    "bullish_articles": 7,
-    "bearish_articles": 16,
+    "last_updated": "2026-09-17 21:29:29 UTC",
+    "total_articles": 27,
+    "bullish_articles": 10,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "Fed meeting live updates: Rate hike expected for the first time in three years - CNBC",
+            "title": "SpaceX stock pops ahead of Starship launch - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8163493871688843,
+            "score": 0.942988395690918,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Fed rate hike likely means more expensive credit cards and mortgages, but savers may rejoice - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.899276077747345,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dow falls 700 points as losses accelerate after the Fed hikes rates, Warsh highlights inflation risk: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.972727358341217,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9605438113212585,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Retail sales rise a better-than-expected 1.2% in August after shoppers pulled back spending in July - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.9452202916145325,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Passenger in emotional distress sparks chaotic scene aboard Metro-North train at Grand Central Terminal - ABC7 New York",
+            "sentiment": "NEGATIVE",
+            "score": 0.9463672637939453,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -16,7 +69,7 @@
         {
             "title": "Americans' income hits record, but lower earners lose ground - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.9638144373893738,
+            "score": 0.9638143181800842,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,7 +78,7 @@
         {
             "title": "Sam Altman says people are right to fear advancing AI but should trust leaders - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9010862112045288,
+            "score": 0.9010863900184631,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -40,9 +93,43 @@
             ]
         },
         {
+            "title": "Costco expands Uber Eats delivery partnership to 47 states - cnbc.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9458221197128296,
+            "signal": "BULLISH",
+            "tickers": [
+                "UBER"
+            ],
+            "primary_ticker": "UBER",
+            "ticker_impacts": [
+                {
+                    "ticker": "UBER",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Novartis ends ALS program after phase 2 flop, adding to R&D woes - Fierce Biotech",
+            "sentiment": "NEGATIVE",
+            "score": 0.9464849233627319,
+            "signal": "BEARISH",
+            "tickers": [
+                "ALS"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "ALS",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Tech giants launch flexible-power coalition for data centers - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.7021494507789612,
+            "score": 0.702147901058197,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -51,7 +138,7 @@
         {
             "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8027162551879883,
+            "score": 0.8027171492576599,
             "signal": "BEARISH",
             "tickers": [
                 "MSFT"
@@ -66,15 +153,6 @@
             ]
         },
         {
-            "title": "Passengers scream and flail as extreme turbulence \u2018tears plane cabin apart\u2019 in harrowing video - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7219619154930115,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.97337406873703,
@@ -84,9 +162,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "Oil Prices Edge Lower Ahead of Fed Decision - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.8982160687446594,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9180248379707336,
+            "score": 0.9180246591567993,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -95,48 +182,25 @@
         {
             "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7751359343528748,
+            "score": 0.7751379609107971,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Meta CEO Sends Powerful Message on AI Slowdown - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8152530193328857,
-            "signal": "BEARISH",
-            "tickers": [
-                "META",
-                "NVDA"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Gas Prices To See \u2018Staggering Increases.\u2019 Map Shows Price Per State - Newsweek",
             "sentiment": "POSITIVE",
-            "score": 0.8212906122207642,
+            "score": 0.8212902545928955,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Colorado keeps four on this year\u2019s Forbes 400 richest list, but loses one - The Denver Post",
+            "title": "Record Diesel Prices Hit at Worst Time in Key Battleground States - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8915734887123108,
+            "score": 0.9563829302787781,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -145,7 +209,7 @@
         {
             "title": "OpenAI Weighing Funding Round at Over $1.2 Trillion Valuation - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.707707405090332,
+            "score": 0.7077057957649231,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -154,7 +218,7 @@
         {
             "title": "Amazon's next move could reshape how America shops \u2014 all over again - Business Insider",
             "sentiment": "POSITIVE",
-            "score": 0.8927130699157715,
+            "score": 0.8927130103111267,
             "signal": "BULLISH",
             "tickers": [
                 "AMZN",
@@ -175,36 +239,9 @@
             ]
         },
         {
-            "title": "US-Canada trade war further taxes small businesses as costs rise during the Iran war - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9597674012184143,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Airport X-ray shows terrifying object taped in carry-on to skip checked baggage fee - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.869690477848053,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.7854301929473877,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Judge Sets Date For Settlement Talks In Paramount-WBD Antitrust Case - Deadline",
             "sentiment": "NEGATIVE",
-            "score": 0.83552086353302,
+            "score": 0.8355210423469543,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -213,7 +250,7 @@
         {
             "title": "Medicare to expand its pilot that pays for technology to manage chronic diseases - STAT",
             "sentiment": "POSITIVE",
-            "score": 0.789021909236908,
+            "score": 0.7890210151672363,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -229,27 +266,44 @@
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI breakthrough triggers \u2018existential crisis\u2019 in math - Science | AAAS",
+            "title": "\u2018We shouldn\u2019t be working!\u2019 Dozens walk off job after worker dies at meat-producing facility - FOX19 | Cincinnati",
             "sentiment": "NEGATIVE",
-            "score": 0.9196172952651978,
+            "score": 0.9625306725502014,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks - CNBC",
+            "title": "Bessent calls Treasury bond buyback successful, reiterates he has tools to stabilize bond market - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8576728105545044,
+            "score": 0.8544309139251709,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Employee: Dozens leave plant after worker dies at Smithfield Foods, officials say it was allowed - KWQC",
+            "title": "Man identified after driving stolen Tesla on Pacific Beach boardwalk, injuring one person - cbs8.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9455745816230774,
+            "score": 0.7441756129264832,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Iran is now threatening world\u2019s largest oil facility and vast pipeline after Houthi attacks escalate - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8074191212654114,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
