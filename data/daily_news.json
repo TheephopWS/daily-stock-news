@@ -1,31 +1,41 @@
 {
-    "last_updated": "2026-09-18 06:46:43 UTC",
+    "last_updated": "2026-09-18 09:33:39 UTC",
     "total_articles": 19,
-    "bullish_articles": 5,
-    "bearish_articles": 14,
+    "bullish_articles": 7,
+    "bearish_articles": 12,
     "articles": [
         {
-            "title": "Peter Navarro says Fed\u2019s rate raise is \u2018a bad decision\u2019 - The Hill",
-            "sentiment": "NEGATIVE",
-            "score": 0.7268179059028625,
-            "signal": "BEARISH",
-            "tickers": [
-                "FOMC"
-            ],
+            "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate hike pacifies markets' inflation worries - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8976387977600098,
+            "signal": "BULLISH",
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "FOMC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
-            "title": "Asian Stocks to Fall as Fed Hikes, Dollar Jumps: Markets Wrap - Bloomberg",
+            "title": "Plane passengers scream in harrowing mid-flight video as violent shaking sends cabin ceiling panels flying - Fox News",
             "sentiment": "NEGATIVE",
-            "score": 0.9246993660926819,
+            "score": 0.9264980554580688,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Does a Fed Interest Rate Hike Make Stocks Go Down? - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.7358007431030273,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Fears of AI sparked a moment of unity. Now that\u2019s over. - Politico",
+            "sentiment": "POSITIVE",
+            "score": 0.7032792568206787,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -40,9 +50,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected - CNBC",
+            "title": "Micron Faces New Threat to Its U.S. Memory-Chip Supremacy - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9605438113212585,
+            "score": 0.9291418194770813,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected - cnbc.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9590871930122375,
             "signal": "BEARISH",
             "tickers": [
                 "BA"
@@ -53,32 +80,6 @@
                     "ticker": "BA",
                     "impact": "negative",
                     "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Duct-tape plane passenger breaks silence \u2014 and gives unbelievable excuse for midflight meltdown - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.799209713935852,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Goldman CEO Warns of Higher Costs, Softness in Fixed Income - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.963089108467102,
-            "signal": "BEARISH",
-            "tickers": [
-                "GS"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GS",
-                    "impact": "negative",
-                    "relevance": "medium"
                 }
             ]
         },
@@ -103,7 +104,7 @@
         {
             "title": "Amazon Increases Wages, Offers New Whole Foods Discounts - Business Insider",
             "sentiment": "POSITIVE",
-            "score": 0.9264593720436096,
+            "score": 0.9264594912528992,
             "signal": "BULLISH",
             "tickers": [
                 "AMZN"
@@ -120,7 +121,7 @@
         {
             "title": "Sam Altman says people are right to fear advancing AI but should trust leaders - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9010862112045288,
+            "score": 0.9010863900184631,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -135,19 +136,53 @@
             ]
         },
         {
+            "title": "Costco expands Uber Eats delivery partnership to 47 states - cnbc.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9458221197128296,
+            "signal": "BULLISH",
+            "tickers": [
+                "UBER"
+            ],
+            "primary_ticker": "UBER",
+            "ticker_impacts": [
+                {
+                    "ticker": "UBER",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8027158975601196,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Tech giants launch flexible-power coalition for data centers - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.7021494507789612,
+            "score": 0.7021490335464478,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Passengers scream and flail as mechanical failure \u2018tears plane cabin apart\u2019 in harrowing video - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7968335151672363,
-            "signal": "BEARISH",
+            "title": "Ranked: Countries Where Bond Yields Are Rising Fastest - Visual Capitalist",
+            "sentiment": "POSITIVE",
+            "score": 0.7274870276451111,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -155,16 +190,16 @@
         {
             "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7751359343528748,
+            "score": 0.7751365900039673,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Cybersecurity experts say AI giants are shutting them out of safety plans - NBC News",
+            "title": "Americans' income hits record, but lower earners lose ground - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.8708028793334961,
+            "score": 0.9638144373893738,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -180,36 +215,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Medicare to expand its pilot that pays for technology to manage chronic diseases - STAT",
-            "sentiment": "POSITIVE",
-            "score": 0.789021909236908,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Americans' incomes rose and poverty fell in 2025, Census Bureau says - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.941881000995636,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Beaten-up bond market may be nearing 'escape velocity.' Here's what that means - cnbc.com",
-            "sentiment": "POSITIVE",
-            "score": 0.834441602230072,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Man identified after driving stolen Tesla on Pacific Beach boardwalk, injuring one person - cbs8.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7441754341125488,
+            "score": 0.744175374507904,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
