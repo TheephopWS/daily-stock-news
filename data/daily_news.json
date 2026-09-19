@@ -1,31 +1,65 @@
 {
-    "last_updated": "2026-09-19 06:42:49 UTC",
+    "last_updated": "2026-09-19 09:30:51 UTC",
     "total_articles": 23,
-    "bullish_articles": 10,
-    "bearish_articles": 13,
+    "bullish_articles": 8,
+    "bearish_articles": 15,
     "articles": [
         {
-            "title": "Stock futures are little changed after Thursday's post-Fed bounce: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9266374707221985,
-            "signal": "BULLISH",
+            "title": "OpenAI breached by researchers using Anthropic models - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9218838214874268,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Market Rebounds, But What Comes Next? SpaceX, AMD Flash Buy Signals - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.8079745769500732,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Toys R Us makes major comeback with 120 new stores opening across US this holiday season - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.9167971014976501,
+            "score": 0.9167971611022949,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Why Was Micron Technology Stock Up Today? - Currently.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7990667819976807,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "As AI behavior raises concerns, ex-researcher Jacob Coxon warns what may lie ahead - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.8350970149040222,
+            "score": 0.835097074508667,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -51,8 +85,17 @@
         {
             "title": "Whole Foods opens sprawling new California store with \u2018trained cheesemongers\u2019 and 1,500 items - New York Post",
             "sentiment": "POSITIVE",
-            "score": 0.7395293116569519,
+            "score": 0.7395299673080444,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "No relief in sight for U.S. drivers as gas and diesel prices surge - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9631623029708862,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -60,7 +103,7 @@
         {
             "title": "US economy notches remarkable new record, sparking cheers: \u2018Good job everyone\u2019 - Fox News",
             "sentiment": "NEGATIVE",
-            "score": 0.8445969820022583,
+            "score": 0.8445966243743896,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -69,26 +112,40 @@
         {
             "title": "Lockheed Martin gets first batch of Patriot interceptor parts from General Motors - Defense News",
             "sentiment": "POSITIVE",
-            "score": 0.8476327657699585,
+            "score": 0.8476329445838928,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "The AI Slowdown Debate Crashed Salesforce\u2019s Party - WIRED",
+            "sentiment": "NEGATIVE",
+            "score": 0.8418968319892883,
+            "signal": "BEARISH",
+            "tickers": [
+                "CRM",
+                "NVDA"
+            ],
+            "primary_ticker": "CRM",
+            "ticker_impacts": [
+                {
+                    "ticker": "CRM",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "How Existential Fears Are Shaping the Debate Over AI - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9526410102844238,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Micron Q4: Brace Yourself For The Inflection (NASDAQ:MU) - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.8589091897010803,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -105,7 +162,7 @@
         {
             "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.8993731141090393,
+            "score": 0.8993732333183289,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -138,18 +195,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Some gas stations \"out of diesel\" as prices surge - yahoo.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9452405571937561,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "US mortgage rates brush 7%, weighing on buyers, sellers and further straining a bleak housing market - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.8757860660552979,
+            "score": 0.8757862448692322,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -158,7 +206,7 @@
         {
             "title": "4 Reasons to Think US Inflation Will Come Back Down - Morningstar",
             "sentiment": "NEGATIVE",
-            "score": 0.7373837828636169,
+            "score": 0.7373847365379333,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -167,7 +215,7 @@
         {
             "title": "Labor crisis in U.S. chip manufacturing leaves Samsung, TSMC desperate for talent - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8455899357795715,
+            "score": 0.8455896377563477,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -176,7 +224,7 @@
         {
             "title": "How Kraft Heinz plans to revitalize its brands (without changing them too much) - NBC News",
             "sentiment": "POSITIVE",
-            "score": 0.7753076553344727,
+            "score": 0.7753080129623413,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -185,7 +233,7 @@
         {
             "title": "Rising heating oil prices have CNY homeowners worried about winter costs - WSYR",
             "sentiment": "NEGATIVE",
-            "score": 0.880040168762207,
+            "score": 0.8800396919250488,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -194,7 +242,7 @@
         {
             "title": "Industry titans\u2019 warning to Congress: Do what we say or health insurance premiums are going up - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.9550001621246338,
+            "score": 0.9550002813339233,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -208,32 +256,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Bank of England defies Fed\u2019s rate-hike lead, leaving rates unchanged - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7824857234954834,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Amazon Increases Wages, Offers New Whole Foods Discounts - Business Insider",
-            "sentiment": "POSITIVE",
-            "score": 0.9264590740203857,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
