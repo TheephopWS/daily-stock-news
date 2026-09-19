@@ -1,9 +1,26 @@
 {
-    "last_updated": "2026-09-18 21:29:25 UTC",
-    "total_articles": 31,
-    "bullish_articles": 10,
-    "bearish_articles": 21,
+    "last_updated": "2026-09-19 01:02:43 UTC",
+    "total_articles": 27,
+    "bullish_articles": 9,
+    "bearish_articles": 18,
     "articles": [
+        {
+            "title": "Dow Jones Futures Fall After S&P 500, Nasdaq Rebound Above Key Level; Moderna, AMD, SpaceX Flash Buy Signals - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9239504337310791,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Major airlines cut flights as higher jet fuel prices hit carriers - Fox Business",
             "sentiment": "NEGATIVE",
@@ -14,9 +31,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "Stock Market on Sept. 17, 2026: Dow, S&P 500 and Nasdaq end higher as tech rallies; Treasury yields ease as stocks recover from Fed-sparked selloff - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.9115519523620605,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,' new unredacted filings reveal - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9335695505142212,
+            "score": 0.9335696697235107,
             "signal": "BEARISH",
             "tickers": [
                 "MSFT"
@@ -31,36 +57,26 @@
             ]
         },
         {
-            "title": "Stocks rise, lifted by falling oil and yields as market attempts comeback after Fed sell-off: Live updates - CNBC",
+            "title": "Meta Muse May Be Biggest AI Launch Since ChatGPT. It\u2019s Just One of Many Catalysts for Meta Stock. - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9202232360839844,
+            "score": 0.9461879134178162,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How Existential Fears Are Shaping the Debate Over AI - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9526410102844238,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Check your bathroom: This hand soap was just recalled in 15 states - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9232556223869324,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Uber ordered to pay $40M to parents of Emily Normandin-Parker, woman fatally struck after being left on Orange County freeway - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
-            "score": 0.9192290902137756,
+            "score": 0.9192289710044861,
             "signal": "BEARISH",
             "tickers": [
                 "UBER"
@@ -75,15 +91,6 @@
             ]
         },
         {
-            "title": "Mastercard Joins Visa in Letting AI Bots Do Your Shopping - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8148148059844971,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Stellantis Tells Workers at Canada Plant It Has No Future There - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9542043805122375,
@@ -95,7 +102,7 @@
         {
             "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.8993733525276184,
+            "score": 0.8993731141090393,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -110,6 +117,15 @@
             ]
         },
         {
+            "title": "GM touts new V-8 engines in revived \u2018truck wars\u2019 with Ford, Ram amid lackluster EV sales - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.846275269985199,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "AI is feared globally as the destroyer of jobs - The Verge",
             "sentiment": "NEGATIVE",
             "score": 0.9631063342094421,
@@ -121,7 +137,7 @@
         {
             "title": "GM to Produce Patriot Missile Parts as U.S. Faces Critical Arms Shortage - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9383726716041565,
+            "score": 0.9383726119995117,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -130,7 +146,7 @@
         {
             "title": "Jobless Tech Workers Are Being Left Out of San Francisco\u2019s AI Boom - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9604876637458801,
+            "score": 0.9604877233505249,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -139,7 +155,7 @@
         {
             "title": "Some gas stations \"out of diesel\" as prices surge - yahoo.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9452406167984009,
+            "score": 0.9452405571937561,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -148,7 +164,7 @@
         {
             "title": "US mortgage rates brush 7%, weighing on buyers, sellers and further straining a bleak housing market - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.8757864236831665,
+            "score": 0.8757860660552979,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -157,7 +173,7 @@
         {
             "title": "AI bosses say they can self-regulate and House passes Russia sanctions bill: Morning Rundown - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.8664858341217041,
+            "score": 0.866486668586731,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -173,26 +189,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Novo explores macrocycles\u2019 potential in $1.4B cardiometabolic pact with Danish biotech - Fierce Biotech",
-            "sentiment": "POSITIVE",
-            "score": 0.8045116066932678,
-            "signal": "BULLISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "How Kraft Heinz plans to revitalize its brands (without changing them too much) - NBC News",
             "sentiment": "POSITIVE",
-            "score": 0.7753079533576965,
+            "score": 0.7753076553344727,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -201,7 +200,7 @@
         {
             "title": "Rising heating oil prices have CNY homeowners worried about winter costs - WSYR",
             "sentiment": "NEGATIVE",
-            "score": 0.8800396919250488,
+            "score": 0.880040168762207,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -210,7 +209,7 @@
         {
             "title": "Industry titans\u2019 warning to Congress: Do what we say or health insurance premiums are going up - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.9550002813339233,
+            "score": 0.9550001621246338,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -219,7 +218,7 @@
         {
             "title": "Treasury yields move lower after Fed kicks off hiking cycle - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8703829646110535,
+            "score": 0.8703831434249878,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -228,25 +227,7 @@
         {
             "title": "Bank of England defies Fed\u2019s rate-hike lead, leaving rates unchanged - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7824852466583252,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Iran says hackers launched a cyberattack on a massive oil tanker bound for Galveston - KHOU",
-            "sentiment": "NEGATIVE",
-            "score": 0.8794056177139282,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Paramount is \u2018deadly serious\u2019 about leaving Hollywood as fight erupts over $111B merger - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8218854069709778,
+            "score": 0.7824857234954834,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -255,26 +236,17 @@
         {
             "title": "Americans are richer than ever \u2014 and poverty hits an all-time low - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9480642676353455,
+            "score": 0.9480641484260559,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "\u2018People are pissed\u2019: Crypto\u2019s political agenda hits a wall - Politico",
+            "title": "Paramount Preps California Exit Amid State AGs\u2019 Warner Bros. Merger Battle - thewrap.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9233009219169617,
+            "score": 0.8672913312911987,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Solid Economic Data Show U.S. Economy Running Hot Ahead of Fed Decision - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9436174035072327,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -282,7 +254,7 @@
         {
             "title": "Amazon Increases Wages, Offers New Whole Foods Discounts - Business Insider",
             "sentiment": "POSITIVE",
-            "score": 0.9264594912528992,
+            "score": 0.9264590740203857,
             "signal": "BULLISH",
             "tickers": [
                 "AMZN"
@@ -314,18 +286,18 @@
             ]
         },
         {
-            "title": "Ranked: Countries Where Bond Yields Are Rising Fastest - Visual Capitalist",
-            "sentiment": "POSITIVE",
-            "score": 0.7274870276451111,
-            "signal": "BULLISH",
+            "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.7751379609107971,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household - CNBC",
+            "title": "America's Cryptocurrency 'Clarity Act' Fails Spectacularly, Despite Hundreds of Millions in Industry Lobbying - Slashdot",
             "sentiment": "NEGATIVE",
-            "score": 0.7751365900039673,
+            "score": 0.9213927984237671,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
