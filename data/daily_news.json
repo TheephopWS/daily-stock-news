@@ -1,9 +1,76 @@
 {
-    "last_updated": "2026-09-20 01:10:05 UTC",
-    "total_articles": 18,
-    "bullish_articles": 4,
-    "bearish_articles": 14,
+    "last_updated": "2026-09-20 03:36:52 UTC",
+    "total_articles": 23,
+    "bullish_articles": 6,
+    "bearish_articles": 17,
     "articles": [
+        {
+            "title": "Google\u2019s Gemini AI hacks 3 companies in security test, then stops - Al Jazeera",
+            "sentiment": "NEGATIVE",
+            "score": 0.8384466171264648,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL",
+                "META"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Citing Trump, GOP regulators reject gas plant for Amazon data center - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.773252546787262,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Stock Market Today: Dow Steady, Yields Edge Higher \u2014 Live Updates - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9294975996017456,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nearly 5,000 Georgians to get relief under $694M auto finance settlement - WSB-TV",
+            "sentiment": "POSITIVE",
+            "score": 0.8629266023635864,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump\u2019s Latest Trade Threat Would Throw America Into A Massive Recession - huffpost.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9449501633644104,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal - CNBC",
             "sentiment": "NEGATIVE",
@@ -14,18 +81,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Anthropic Shifts Planned IPO to November - WSJ",
+            "title": "It\u2019s almost impossible to sell a condo unit these days: \u2018I feel trapped\u2019 - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9586656093597412,
+            "score": 0.9295269250869751,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "It\u2019s almost impossible to sell a condo unit these days: \u2018I feel trapped\u2019 - MarketWatch",
+            "title": "'Outrageous': Sanders Slams FCC for Approving Saudi and UAE Ownership of Paramount-Warner Bros. - Common Dreams",
             "sentiment": "NEGATIVE",
-            "score": 0.9295269250869751,
+            "score": 0.9307265877723694,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -49,30 +116,21 @@
             ]
         },
         {
-            "title": "Uber ordered to pay $40M over death of woman left on Southern California freeway - KTLA",
+            "title": "Did OpenAI Pull Off the Biggest IP Heist of All-Time? - The Hollywood Reporter",
             "sentiment": "NEGATIVE",
-            "score": 0.9377189874649048,
+            "score": 0.8714022636413574,
             "signal": "BEARISH",
             "tickers": [
-                "UBER"
+                "MSFT"
             ],
-            "primary_ticker": "UBER",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "UBER",
+                    "ticker": "MSFT",
                     "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Dow falls Friday and posts worst week since March as Treasury yields rise: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9724503755569458,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds. - Barron's",
@@ -82,6 +140,32 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Hackers breached OpenAI, adding to fever pitch of security and safety concerns - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.753165066242218,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Delta adds another new city from LAX, bolsters 7 others as hub battle intensifies - The Points Guy",
+            "sentiment": "POSITIVE",
+            "score": 0.9113447070121765,
+            "signal": "BULLISH",
+            "tickers": [
+                "LAX"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "LAX",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "What expensive sulfur means for your dinner table - NPR",
@@ -105,15 +189,6 @@
             "title": "FBI, Coast Guard boarded hacked oil tankers heading towards US coast - TechCrunch",
             "sentiment": "NEGATIVE",
             "score": 0.9180036187171936,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX stock falls as Starship's test flight slips to Sept. 28, retail investors sell shares - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9735981225967407,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -155,19 +230,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "The S&P 500 and Nasdaq Post Biggest Gains in Six Weeks - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.798507809638977,
-            "signal": "BEARISH",
+            "title": "New tanker orders spike as Iran war redraws trade routes - Semafor",
+            "sentiment": "POSITIVE",
+            "score": 0.8726211190223694,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "FDA approves a new gene therapy for Sanfilippo syndrome, an ultra-rare disease - STAT",
-            "sentiment": "POSITIVE",
-            "score": 0.7134095430374146,
-            "signal": "BULLISH",
+            "title": "The S&P 500 and Nasdaq Post Biggest Gains in Six Weeks - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.798507809638977,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -182,10 +257,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "GM touts new V-8 engines in revived \u2018truck wars\u2019 with Ford, Ram amid lackluster EV sales - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.846275269985199,
-            "signal": "BULLISH",
+            "title": "Sharetec Outage Knocks Credit Unions Offline Across Multiple States - CU Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.8491847515106201,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
