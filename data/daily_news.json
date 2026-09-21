@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-09-21 06:59:08 UTC",
+    "last_updated": "2026-09-21 09:39:35 UTC",
     "total_articles": 26,
-    "bullish_articles": 6,
-    "bearish_articles": 20,
+    "bullish_articles": 5,
+    "bearish_articles": 21,
     "articles": [
+        {
+            "title": "Burned Out and Unemployed, Young People in China Are Launching AI Startups - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.823204517364502,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Le Pen condemns Russia over seizure of European companies\u2019 assets - The Kyiv Independent",
+            "sentiment": "NEGATIVE",
+            "score": 0.8724939823150635,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Not all AI workers think the tech could kill everyone - BBC",
             "sentiment": "NEGATIVE",
@@ -41,15 +59,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "France\u2019s National Rally criticizes Russia in rare rebuke - politico.eu",
-            "sentiment": "NEGATIVE",
-            "score": 0.9342043995857239,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9002607464790344,
@@ -65,15 +74,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Two passengers, including 7-year-old, fall \u2018critically\u2019 ill on NJ-bound cruise ship - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8862798810005188,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness' - CNBC",
@@ -93,13 +93,21 @@
             ]
         },
         {
-            "title": "Why people in the Northeast will be paying higher heating bills this winter - NEWS10 ABC",
+            "title": "Microsoft Director Admitted in Internal Document That AI Is Creating a \"Doom Loop\" That Destroys the News Media by Stealing Its Content Without Providing Anything in Return, in Turn Making the AI Useless - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.869004487991333,
+            "score": 0.8839636445045471,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day - Yahoo Finance",
@@ -129,10 +137,37 @@
             "ticker_impacts": []
         },
         {
+            "title": "Major fast-food operator with 314 locations in 15 states files for bankruptcy - MLive.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7972310185432434,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Canada took the trade war to Trump\u2019s backyard. Americans didn\u2019t care - Global News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7181164026260376,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Oil prices are high but could be much worse. Trump has China\u2019s Xi to thank for that - AP News",
             "sentiment": "POSITIVE",
             "score": 0.819476842880249,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Smithfield meatpacking walkout and the toll of death in America\u2019s workplaces - World Socialist Web Site",
+            "sentiment": "NEGATIVE",
+            "score": 0.8021938800811768,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -182,38 +217,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9609687924385071,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMD",
-                "AAPL"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Trump Opens Door To Chinese Cars In America. The Entire US Auto Industry Just Slammed It Shut - CarBuzz",
-            "sentiment": "NEGATIVE",
-            "score": 0.9178030490875244,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Uber ordered to pay $40M over death of woman left on Southern California freeway - KTLA",
             "sentiment": "NEGATIVE",
             "score": 0.9451460838317871,
@@ -231,24 +234,6 @@
             ]
         },
         {
-            "title": "FBI, Coast Guard boarded hacked oil tankers heading towards US coast - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9180036187171936,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Report faults Fed staff for epic failure of Silicon Valley Bank - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9394806623458862,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Gas prices approach highest level this year with just weeks to go before midterms - NBC News",
             "sentiment": "POSITIVE",
             "score": 0.9286405444145203,
@@ -258,19 +243,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "AI Tells Future Self to Break Free from Humans, JD Vance Warns of 'Frankenstein' - cbn.com",
+            "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8941141963005066,
+            "score": 0.9454240798950195,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8961105346679688,
             "signal": "BEARISH",
             "tickers": [
-                "INTC"
+                "MSFT"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "MSFT",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "MSFT",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
@@ -284,13 +278,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Joby Says it Completed First Fully Autonomous Flight Across the U.S. - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.784651517868042,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Netflix is headed for its worst year since 2022. Wells Fargo thinks a comeback is unlikely - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9575790762901306,
+            "signal": "BEARISH",
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
