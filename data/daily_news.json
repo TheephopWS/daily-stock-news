@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-09-20 21:29:31 UTC",
-    "total_articles": 25,
+    "last_updated": "2026-09-21 01:09:40 UTC",
+    "total_articles": 26,
     "bullish_articles": 6,
-    "bearish_articles": 19,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "Refineries Are Now the Main Chokepoint for Global Energy Supplies - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9232597351074219,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Treasury yields are blowing up CBO forecasts, and experts who downplayed US debt fears are worried - Fortune",
             "sentiment": "NEGATIVE",
@@ -31,10 +40,10 @@
             ]
         },
         {
-            "title": "Two passengers, including 7-year-old, fall \u2018critically\u2019 ill on NJ-bound cruise ship - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8862797021865845,
-            "signal": "BEARISH",
+            "title": "In 'Bit of a Bad Year for Aviation,' One Airline Stands Out - Newser",
+            "sentiment": "POSITIVE",
+            "score": 0.7455593943595886,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -51,6 +60,23 @@
             "ticker_impacts": [
                 {
                     "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Microsoft Director Admitted in Internal Document That AI Is Creating a \"Doom Loop\" That Destroys the News Media by Stealing Its Content Without Providing Anything in Return, in Turn Making the AI Useless - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.8839638233184814,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -101,10 +127,37 @@
             ]
         },
         {
+            "title": "Investors warn Anthropic could struggle to sustain revenues post-IPO - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.7720097303390503,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Oil prices are high but could be much worse. Trump has China\u2019s Xi to thank for that - AP News",
             "sentiment": "POSITIVE",
             "score": 0.8194777965545654,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Two Guests Rushed Ashore, Oasis of the Seas Delayed and Port Cancelled - Cruise Hive",
+            "sentiment": "NEGATIVE",
+            "score": 0.9528880715370178,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "California newsroom replaces dozens of laid-off reporters with AI writers - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9396150708198547,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -136,15 +189,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Embattled Amy's Kitchen to close Santa Rosa factory, lay off 260 - SFGATE",
-            "sentiment": "NEGATIVE",
-            "score": 0.9357788562774658,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "'Outrageous': Sanders Slams FCC for Approving Saudi and UAE Ownership of Paramount-Warner Bros. - Common Dreams",
             "sentiment": "NEGATIVE",
             "score": 0.9307265877723694,
@@ -154,54 +198,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oracle\u2019s $18bn data centre debt under strain amid local pushback - Financial Times",
+            "title": "Uber ordered to pay $40 million after stranded passenger killed on highway - CalMatters",
             "sentiment": "NEGATIVE",
-            "score": 0.9689637422561646,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX Is Retiring Crew Dragon, Forcing NASA to Bet Big on Boeing\u2019s Troubled Starliner - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.8381962180137634,
+            "score": 0.9355097413063049,
             "signal": "BEARISH",
             "tickers": [
-                "BA"
+                "UBER"
             ],
-            "primary_ticker": "BA",
+            "primary_ticker": "UBER",
             "ticker_impacts": [
                 {
-                    "ticker": "BA",
+                    "ticker": "UBER",
                     "impact": "negative",
                     "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Hyundai warns the US may be next in line for a wave of cheaper Chinese EVs - Electrek",
-            "sentiment": "POSITIVE",
-            "score": 0.8085978031158447,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Delta adds another new city from LAX, bolsters 7 others as hub battle intensifies - The Points Guy",
-            "sentiment": "POSITIVE",
-            "score": 0.911344587802887,
-            "signal": "BULLISH",
-            "tickers": [
-                "LAX"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "LAX",
-                    "impact": "positive",
-                    "relevance": "medium"
                 }
             ]
         },
@@ -224,18 +233,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Amway, affiliates face $225 million payout over alleged deceptive business practices - MLive.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9342572689056396,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gas Price Warning Issued for Great Lakes States - Newsweek",
+            "title": "Gas prices approach highest level this year with just weeks to go before midterms - NBC News",
             "sentiment": "POSITIVE",
-            "score": 0.8023584485054016,
+            "score": 0.9286405444145203,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -272,6 +272,15 @@
             "sentiment": "NEGATIVE",
             "score": 0.7422909140586853,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Joby Says it Completed First Fully Autonomous Flight Across the U.S. - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.7846512794494629,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
