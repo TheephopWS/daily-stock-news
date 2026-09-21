@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-09-21 15:31:16 UTC",
-    "total_articles": 22,
-    "bullish_articles": 5,
-    "bearish_articles": 17,
+    "last_updated": "2026-09-21 18:37:13 UTC",
+    "total_articles": 26,
+    "bullish_articles": 6,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "The \u2018unprofessional\u2019 item Gen Z brings to interviews could be costing them jobs - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9124642014503479,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "She thought she'd booked a dream vacation rental. Then she arrived - USA Today",
             "sentiment": "NEGATIVE",
@@ -14,10 +23,36 @@
             "ticker_impacts": []
         },
         {
+            "title": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\" - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7269876003265381,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9530487060546875,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Carney\u2019s Glitzy Summit Lures International Investments to Canada - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7022371888160706,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -59,18 +94,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Not all AI workers think the tech could kill everyone - BBC",
+            "title": "Missing Passenger Search on Carnival Panorama Ends in Overboard - cruisehive.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8972507119178772,
+            "score": 0.8584069609642029,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News",
+            "title": "Treasury yields are already blowing up the CBO\u2019s long-term forecasts, and experts who previously downplayed U.S. debt fears are now starting to worry - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9046944379806519,
+            "score": 0.9099682569503784,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - PBS",
+            "sentiment": "NEGATIVE",
+            "score": 0.9529474973678589,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -85,15 +129,6 @@
             ]
         },
         {
-            "title": "Treasury yields are already blowing up the CBO\u2019s long-term forecasts, and experts who previously downplayed U.S. debt fears are now starting to worry - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9099682569503784,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide - BleepingComputer",
             "sentiment": "NEGATIVE",
             "score": 0.8287895917892456,
@@ -101,23 +136,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Microsoft Director Admitted in Internal Document That AI Is Creating a \"Doom Loop\" That Destroys the News Media by Stealing Its Content Without Providing Anything in Return, in Turn Making the AI Useless - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.8839638233184814,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day - Yahoo Finance",
@@ -165,10 +183,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil prices are high but could be much worse. Trump has China\u2019s Xi to thank for that - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.8194777965545654,
-            "signal": "BULLISH",
+            "title": "Investors warn Anthropic could struggle to sustain revenues post-IPO - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.7720097303390503,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -211,6 +229,24 @@
             "title": "Thousands of Bay Area, Southern California security guards at major retailers, tech giants begin strike - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
             "score": 0.9278717041015625,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nearly 5,000 Georgians to get relief under $694M auto finance settlement - WSB-TV",
+            "sentiment": "POSITIVE",
+            "score": 0.8629269599914551,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8988811373710632,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
