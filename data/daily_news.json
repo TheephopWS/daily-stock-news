@@ -1,9 +1,45 @@
 {
-    "last_updated": "2026-09-21 18:37:13 UTC",
-    "total_articles": 26,
+    "last_updated": "2026-09-21 21:30:51 UTC",
+    "total_articles": 24,
     "bullish_articles": 6,
-    "bearish_articles": 20,
+    "bearish_articles": 18,
     "articles": [
+        {
+            "title": "California flight attendants erupt as \u2018illegal\u2019 new FAA plan announced - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.7979356646537781,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "LA\u2019s Fairfax District now a ghost town of empty storefronts \u2014 as biz owners blast \u2018greedy\u2019 landlords squeezing survivors - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9621617197990417,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "U.S. economy hits pivotal milestone: Spending on data centers and other hardware tops housing - Fortune",
+            "sentiment": "POSITIVE",
+            "score": 0.9090780019760132,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump tariffs hit Canada\u2019s dairy farmers as US sales stall - Al Jazeera",
+            "sentiment": "NEGATIVE",
+            "score": 0.9709872007369995,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "The \u2018unprofessional\u2019 item Gen Z brings to interviews could be costing them jobs - New York Post",
             "sentiment": "NEGATIVE",
@@ -14,9 +50,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "She thought she'd booked a dream vacation rental. Then she arrived - USA Today",
+            "title": "Dollar General CEO raises major red flag about consumers - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9060754776000977,
+            "score": 0.8060151934623718,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -40,9 +76,9 @@
             ]
         },
         {
-            "title": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies - CNBC",
+            "title": "US Housing Costs Rise Further Out of Reach Ahead of Midterms - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9530487060546875,
+            "score": 0.9426108598709106,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -58,10 +94,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "China\u2019s CXMT touts new chip process as close to \u2018world\u2019s most advanced\u2019 - South China Morning Post",
+            "title": "Coinbase (COIN), Robinhood (HOOD), Circle (CRCL) stand to gain from SEC's tokenized-stock push: analysts - CoinDesk",
             "sentiment": "POSITIVE",
-            "score": 0.8974912166595459,
+            "score": 0.914884090423584,
             "signal": "BULLISH",
+            "tickers": [
+                "HOOD",
+                "CRCL",
+                "COIN",
+                "GS"
+            ],
+            "primary_ticker": "HOOD",
+            "ticker_impacts": [
+                {
+                    "ticker": "HOOD",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "CRCL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "COIN",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GS",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "\u2018Crisis even bigger than Covid\u2019: American business owners are barely getting by - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.9080467820167542,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -94,27 +165,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Missing Passenger Search on Carnival Panorama Ends in Overboard - cruisehive.com",
+            "title": "Treasury yields are blowing up CBO forecasts, and experts who downplayed US debt fears are worried - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.8584069609642029,
+            "score": 0.9065011143684387,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Treasury yields are already blowing up the CBO\u2019s long-term forecasts, and experts who previously downplayed U.S. debt fears are now starting to worry - Yahoo Finance",
+            "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9099682569503784,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - PBS",
-            "sentiment": "NEGATIVE",
-            "score": 0.9529474973678589,
+            "score": 0.8972711563110352,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -174,15 +236,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Canada took the trade war to Trump\u2019s backyard. Americans didn\u2019t care - Global News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7181156277656555,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Investors warn Anthropic could struggle to sustain revenues post-IPO - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.7720097303390503,
@@ -224,51 +277,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Thousands of Bay Area, Southern California security guards at major retailers, tech giants begin strike - ABC7 Los Angeles",
-            "sentiment": "NEGATIVE",
-            "score": 0.9278717041015625,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nearly 5,000 Georgians to get relief under $694M auto finance settlement - WSB-TV",
-            "sentiment": "POSITIVE",
-            "score": 0.8629269599914551,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8988811373710632,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'Outrageous': Sanders Slams FCC for Approving Saudi and UAE Ownership of Paramount-Warner Bros. - Common Dreams",
-            "sentiment": "NEGATIVE",
-            "score": 0.9307265877723694,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump Opens Door To Chinese Cars In America. The Entire US Auto Industry Just Slammed It Shut - CarBuzz",
-            "sentiment": "NEGATIVE",
-            "score": 0.9178030490875244,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
