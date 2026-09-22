@@ -1,14 +1,68 @@
 {
-    "last_updated": "2026-09-21 21:30:51 UTC",
-    "total_articles": 24,
-    "bullish_articles": 6,
-    "bearish_articles": 18,
+    "last_updated": "2026-09-22 01:04:27 UTC",
+    "total_articles": 29,
+    "bullish_articles": 5,
+    "bearish_articles": 24,
     "articles": [
+        {
+            "title": "US Stock Futures Up Ahead of Talks, Dollar Steady: Markets Wrap - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9179502129554749,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "California gas prices set for big drop next month after weeks of hell - nypost.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9601858258247375,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "UPDATED: Sangertown Square Facing Foreclosure; Mall Releases Statement - WKTV",
+            "sentiment": "NEGATIVE",
+            "score": 0.8889830708503723,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AI Risk Is Everywhere and It's Making Billion Dollar Funds Nervous - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9449120759963989,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Human extinction fears make me want to flee AI and live on an island - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.724064826965332,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "California flight attendants erupt as \u2018illegal\u2019 new FAA plan announced - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.7979356646537781,
+            "score": 0.7979358434677124,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Fast-food chains are chasing the specialty drink boom. Inside Sonic's strategy - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.7561398148536682,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -18,15 +72,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9621617197990417,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. economy hits pivotal milestone: Spending on data centers and other hardware tops housing - Fortune",
-            "sentiment": "POSITIVE",
-            "score": 0.9090780019760132,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -43,7 +88,7 @@
         {
             "title": "The \u2018unprofessional\u2019 item Gen Z brings to interviews could be costing them jobs - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9124642014503479,
+            "score": 0.9124642610549927,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -52,7 +97,7 @@
         {
             "title": "Dollar General CEO raises major red flag about consumers - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8060151934623718,
+            "score": 0.929652750492096,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -61,7 +106,7 @@
         {
             "title": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\" - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.7269876003265381,
+            "score": 0.7269869446754456,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -78,16 +123,33 @@
         {
             "title": "US Housing Costs Rise Further Out of Reach Ahead of Midterms - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9426108598709106,
+            "score": 0.9426107406616211,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Costco quietly drops brand-new Pepsi soda from its warehouses - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7925314903259277,
+            "signal": "BEARISH",
+            "tickers": [
+                "PEP"
+            ],
+            "primary_ticker": "PEP",
+            "ticker_impacts": [
+                {
+                    "ticker": "PEP",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Carney\u2019s Glitzy Summit Lures International Investments to Canada - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.7022371888160706,
+            "score": 0.7022352814674377,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -99,18 +161,13 @@
             "score": 0.914884090423584,
             "signal": "BULLISH",
             "tickers": [
-                "HOOD",
                 "CRCL",
                 "COIN",
+                "HOOD",
                 "GS"
             ],
-            "primary_ticker": "HOOD",
+            "primary_ticker": "CRCL",
             "ticker_impacts": [
-                {
-                    "ticker": "HOOD",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "CRCL",
                     "impact": "positive",
@@ -118,6 +175,11 @@
                 },
                 {
                     "ticker": "COIN",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "HOOD",
                     "impact": "positive",
                     "relevance": "high"
                 },
@@ -131,17 +193,8 @@
         {
             "title": "\u2018Crisis even bigger than Covid\u2019: American business owners are barely getting by - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9080467820167542,
+            "score": 0.9080467224121094,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How Trump 2.0's stock market stacks up with predecessors - Axios",
-            "sentiment": "POSITIVE",
-            "score": 0.7018792033195496,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -149,34 +202,16 @@
         {
             "title": "Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.7935857772827148,
+            "score": 0.7935853004455566,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Crazed woman who tried to kidnap 4-year-old on NYC street arrested - New York Post",
+            "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.8564373850822449,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Treasury yields are blowing up CBO forecasts, and experts who downplayed US debt fears are worried - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9065011143684387,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8972711563110352,
+            "score": 0.9397127628326416,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -191,9 +226,44 @@
             ]
         },
         {
+            "title": "Treasury yields are already blowing up the CBO\u2019s long-term forecasts, and experts who previously downplayed U.S. debt fears are now starting to worry - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9099681973457336,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide - BleepingComputer",
             "sentiment": "NEGATIVE",
-            "score": 0.8287895917892456,
+            "score": 0.8287895321846008,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Microsoft Director Admitted in Internal Document That AI Is Creating a \"Doom Loop\" That Destroys the News Media by Stealing Its Content Without Providing Anything in Return, in Turn Making the AI Useless - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.8839636445045471,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Why people in the Northeast will be paying higher heating bills this winter - NEWS10 ABC",
+            "sentiment": "NEGATIVE",
+            "score": 0.869004487991333,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -220,7 +290,7 @@
         {
             "title": "Trump\u2019s Iran war has economists aghast - salon.com",
             "sentiment": "NEGATIVE",
-            "score": 0.801982581615448,
+            "score": 0.8019824624061584,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -229,7 +299,7 @@
         {
             "title": "Major fast-food operator with 314 locations in 15 states files for bankruptcy - MLive.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7972314953804016,
+            "score": 0.7972310185432434,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -238,7 +308,7 @@
         {
             "title": "Investors warn Anthropic could struggle to sustain revenues post-IPO - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.7720097303390503,
+            "score": 0.7720111012458801,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -247,7 +317,7 @@
         {
             "title": "Uber ordered to pay $40M after driver leaves intoxicated California woman on freeway - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9585109353065491,
+            "score": 0.9585108757019043,
             "signal": "BEARISH",
             "tickers": [
                 "UBER"
@@ -256,23 +326,6 @@
             "ticker_impacts": [
                 {
                     "ticker": "UBER",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Citing Trump, GOP regulators reject gas plant for Amazon data center - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.7732519507408142,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 }
