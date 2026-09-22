@@ -1,13 +1,179 @@
 {
-    "last_updated": "2026-09-22 15:31:20 UTC",
+    "last_updated": "2026-09-22 18:37:16 UTC",
     "total_articles": 29,
-    "bullish_articles": 10,
-    "bearish_articles": 19,
+    "bullish_articles": 9,
+    "bearish_articles": 20,
     "articles": [
         {
-            "title": "Google hit with \u20ac403m fine by Irish data watchdog over GDPR violations - BBC",
+            "title": "Eli Lilly CEO tells CNBC one-third of new GLP-1 pill patients are taking Foundayo, as drugmaker ramps up production - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8555866479873657,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia's Jensen Huang rejects AI doomsday fears: '2030 is not going to be the end of the world' - foxbusiness.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9477706551551819,
+            "score": 0.861818253993988,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Major Wendy's franchisee files for bankruptcy - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9348142743110657,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon Blocks Meta\u2019s Muse AI Agent From Its Retail Site - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9341105818748474,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN",
+                "META",
+                "INTC"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Federal Reserve will need to be \u2018aggressive\u2019 on inflation, says top official - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9520938992500305,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Prediction: Micron Stock Will Go Parabolic After Sept. 30. Here Are 31.6 Trillion Reasons Why - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.9523888826370239,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Intel and Arm Stocks Are Jumping. Thank Meta\u2019s Muse AI Agent. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9527231454849243,
+            "signal": "BULLISH",
+            "tickers": [
+                "META",
+                "INTC",
+                "AMD"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "AMD, Intel, Novo, Meta, Strategy, Critical Metals, and More Stocks That Explain Today\u2019s Market - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.7028419375419617,
+            "signal": "BULLISH",
+            "tickers": [
+                "META",
+                "INTC",
+                "AMD"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Saudi Arabia Reroutes Oil Exports as Houthi Strikes Target Yanbu - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.947449266910553,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.894438624382019,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Google hit with $463 million fine for EU location data rule breach - ABC News - Breaking News, Latest News and Videos",
+            "sentiment": "NEGATIVE",
+            "score": 0.9480504989624023,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -22,19 +188,42 @@
             ]
         },
         {
-            "title": "Nissan eyes increasing U.S. production as new Rogue hybrid launches - cnbc.com",
+            "title": "UK flight delays continue after issue with air traffic control in Scotland is fixed - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9010153412818909,
+            "score": 0.9477831721305847,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets - CoinDesk",
+            "title": "Anthropic and Microsoft Dominate Nscale\u2019s $103 Billion in Data Center Contracts - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9207491874694824,
+            "score": 0.7833510041236877,
             "signal": "BULLISH",
+            "tickers": [
+                "MSFT",
+                "INTC"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Nissan eyes increasing U.S. production as new Rogue hybrid launches - cnbc.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9010153412818909,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -49,9 +238,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Europe's Fuel Crisis Spreads From Diesel to Jet Fuel - Crude Oil Prices Today | OilPrice.com",
+            "title": "How a national farm leader is dealing with record diesel prices - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.969977617263794,
+            "score": 0.9233323335647583,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -76,36 +265,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Kuehne+Nagel Strikes Deal With Amazon For Supply Chain, Cloud Capabilities - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.80851811170578,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "As renewed chaos grips the oil market, one country is keeping global prices down \u2013 by reducing demand - The Conversation",
+            "title": "CarMax lays off 145 corporate employees, nearly half of them based in Richmond area - Richmond BizSense",
             "sentiment": "NEGATIVE",
-            "score": 0.8917085528373718,
+            "score": 0.9675344824790955,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8729878067970276,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -120,27 +283,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "A Shortage of Oil Tankers Is Threatening to Keep Gas Prices High - wsj.com",
+            "title": "A Shortage of Oil Tankers Is Threatening to Keep Gas Prices High - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9188022017478943,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stocks Rise in Upbeat Start to Week as Oil Drops: Markets Wrap - bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9286963939666748,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "California gas prices set for big drop next month after weeks of hell - nypost.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9601858258247375,
+            "score": 0.9268380999565125,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -156,39 +301,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Short-Term Treasuries Emerge as Popular Bet on Fed Inflation Win - Bloomberg.com",
+            "title": "Disney Theme Parks Defy Industry Slump With Price Cuts and Promotions - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.7050246000289917,
+            "score": 0.9352420568466187,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Google Gemini allegedly hacked three companies on its own - Mashable",
-            "sentiment": "NEGATIVE",
-            "score": 0.7072622776031494,
-            "signal": "BEARISH",
             "tickers": [
-                "GOOGL"
+                "DIS"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "DIS",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
+                    "ticker": "DIS",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "U.S. economy hits pivotal milestone: Spending on data centers and other hardware tops housing - Fortune",
-            "sentiment": "POSITIVE",
-            "score": 0.9090777635574341,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Trump tariffs hit Canada\u2019s dairy farmers as US sales stall - Al Jazeera",
@@ -200,36 +327,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Qatar\u2019s Energy Chief Sees LNG Expansion Startup in 2027 - Bloomberg.com",
+            "title": "The \u2018unprofessional\u2019 item Gen Z brings to interviews could be costing them jobs - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9563422799110413,
+            "score": 0.9124642610549927,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Why have US prosecutors labelled China\u2019s Huawei a criminal enterprise? - Al Jazeera",
+            "title": "How Crypto Blew Its Big Moment - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8841021656990051,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US Housing Costs Rise Further Out of Reach Ahead of Midterms - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9426107406616211,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Midterm voters are overwhelmingly worried about the national debt. But only small fixes are expected this year. - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9390983581542969,
+            "score": 0.7562414407730103,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -259,18 +368,13 @@
             "score": 0.914884090423584,
             "signal": "BULLISH",
             "tickers": [
-                "CRCL",
                 "HOOD",
                 "COIN",
+                "CRCL",
                 "GS"
             ],
-            "primary_ticker": "CRCL",
+            "primary_ticker": "HOOD",
             "ticker_impacts": [
-                {
-                    "ticker": "CRCL",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "HOOD",
                     "impact": "positive",
@@ -282,38 +386,16 @@
                     "relevance": "high"
                 },
                 {
+                    "ticker": "CRCL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
                     "ticker": "GS",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.7935853004455566,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "[COVER STORY] Korea-US $200 bil. investment talks hit last-stage hurdles over 'commercial viability' - The Korea Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9425686001777649,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide - BleepingComputer",
-            "sentiment": "NEGATIVE",
-            "score": 0.8287895321846008,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
