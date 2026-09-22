@@ -1,13 +1,40 @@
 {
-    "last_updated": "2026-09-22 06:47:52 UTC",
-    "total_articles": 31,
-    "bullish_articles": 6,
-    "bearish_articles": 25,
+    "last_updated": "2026-09-22 09:32:26 UTC",
+    "total_articles": 28,
+    "bullish_articles": 8,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9137178659439087,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8729878067970276,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Fast-food giant cancels breakfast at hundreds of locations - thestreet.com",
             "sentiment": "NEGATIVE",
             "score": 0.8747276067733765,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Passenger goes overboard on Carnival cruise ship heading to Long Beach - ABC7 Los Angeles",
+            "sentiment": "NEGATIVE",
+            "score": 0.9501802325248718,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -34,15 +61,6 @@
             "title": "A Shortage of Oil Tankers Is Threatening to Keep Gas Prices High - wsj.com",
             "sentiment": "NEGATIVE",
             "score": 0.9188022017478943,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US Stock Futures Up Ahead of Talks, Dollar Steady: Markets Wrap - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9179502129554749,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -85,28 +103,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Man jumps overboard from Carnival cruise ship headed to Long Beach - KTLA",
-            "sentiment": "NEGATIVE",
-            "score": 0.8014642596244812,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "S&P 500: Ready For A Melt Up (Technical Analysis) (SP500) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.8716832399368286,
+            "signal": "BULLISH",
+            "tickers": [
+                "SPY"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "SPY",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Short-Term Treasuries Emerge as Popular Bet on Fed Inflation Win - Bloomberg.com",
             "sentiment": "POSITIVE",
             "score": 0.7050246000289917,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "LA\u2019s Fairfax District now a ghost town of empty storefronts \u2014 as biz owners blast \u2018greedy\u2019 landlords squeezing survivors - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9621617197990417,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -157,15 +174,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dollar General CEO raises major red flag about consumers - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.929652750492096,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "US Housing Costs Rise Further Out of Reach Ahead of Midterms - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9426107406616211,
@@ -173,23 +181,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Costco quietly drops brand-new Pepsi soda from its warehouses - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7925314903259277,
-            "signal": "BEARISH",
-            "tickers": [
-                "PEP"
-            ],
-            "primary_ticker": "PEP",
-            "ticker_impacts": [
-                {
-                    "ticker": "PEP",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Midterm voters are overwhelmingly worried about the national debt. But only small fixes are expected this year. - MarketWatch",
@@ -215,15 +206,15 @@
             "score": 0.914884090423584,
             "signal": "BULLISH",
             "tickers": [
-                "COIN",
-                "CRCL",
                 "HOOD",
+                "CRCL",
+                "COIN",
                 "GS"
             ],
-            "primary_ticker": "COIN",
+            "primary_ticker": "HOOD",
             "ticker_impacts": [
                 {
-                    "ticker": "COIN",
+                    "ticker": "HOOD",
                     "impact": "positive",
                     "relevance": "high"
                 },
@@ -233,7 +224,7 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "HOOD",
+                    "ticker": "COIN",
                     "impact": "positive",
                     "relevance": "high"
                 },
@@ -245,10 +236,10 @@
             ]
         },
         {
-            "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.8649358749389648,
-            "signal": "BEARISH",
+            "title": "China\u2019s CXMT touts new chip process as close to \u2018world\u2019s most advanced\u2019 - scmp.com",
+            "sentiment": "POSITIVE",
+            "score": 0.907711923122406,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -272,18 +263,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.7935853004455566,
-            "signal": "BULLISH",
+            "title": "[COVER STORY] Korea-US $200 bil. investment talks hit last-stage hurdles over 'commercial viability' - The Korea Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9425686001777649,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn - Investor's Business Daily",
+            "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9131291508674622,
+            "score": 0.9397127628326416,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Treasury yields are blowing up CBO forecasts, and experts who downplayed US debt fears are worried - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9065011143684387,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -297,41 +305,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang - BleepingComputer",
-            "sentiment": "NEGATIVE",
-            "score": 0.819118082523346,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump\u2019s Iran war has economists aghast - salon.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8019824624061584,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FDA approves new breast cancer treatment - Currently.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8220819234848022,
-            "signal": "BULLISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         }
     ]
 }
