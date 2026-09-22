@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-09-22 03:37:08 UTC",
+    "last_updated": "2026-09-22 06:47:52 UTC",
     "total_articles": 31,
-    "bullish_articles": 7,
-    "bearish_articles": 24,
+    "bullish_articles": 6,
+    "bearish_articles": 25,
     "articles": [
+        {
+            "title": "Fast-food giant cancels breakfast at hundreds of locations - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8747276067733765,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives' - BBC",
             "sentiment": "NEGATIVE",
@@ -20,6 +29,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "A Shortage of Oil Tankers Is Threatening to Keep Gas Prices High - wsj.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9188022017478943,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "US Stock Futures Up Ahead of Talks, Dollar Steady: Markets Wrap - Bloomberg.com",
@@ -67,15 +85,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Fast-food chains are chasing the specialty drink boom. Inside Sonic's strategy - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.7561398148536682,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Man jumps overboard from Carnival cruise ship headed to Long Beach - KTLA",
             "sentiment": "NEGATIVE",
             "score": 0.8014642596244812,
@@ -83,23 +92,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Disney Theme Parks Defy Industry Slump With Price Cuts and Promotions - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9352420568466187,
-            "signal": "BULLISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Short-Term Treasuries Emerge as Popular Bet on Fed Inflation Win - Bloomberg.com",
@@ -120,9 +112,27 @@
             "ticker_impacts": []
         },
         {
+            "title": "U.S. economy hits pivotal milestone: Spending on data centers and other hardware tops housing - Fortune",
+            "sentiment": "POSITIVE",
+            "score": 0.9090777635574341,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Trump tariffs hit Canada\u2019s dairy farmers as US sales stall - Al Jazeera",
             "sentiment": "NEGATIVE",
             "score": 0.9709872007369995,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Fed's Kashkari reportedly says inflation is still too high across the U.S. economy - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8293917179107666,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -156,18 +166,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "Wall Street expects US to issue about $1tn of short-term debt as borrowing costs climb - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8727510571479797,
-            "signal": "BULLISH",
+            "title": "US Housing Costs Rise Further Out of Reach Ahead of Midterms - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9426107406616211,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "US Housing Costs Rise Further Out of Reach Ahead of Midterms - Yahoo Finance",
+            "title": "Costco quietly drops brand-new Pepsi soda from its warehouses - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9426107406616211,
+            "score": 0.7925314903259277,
+            "signal": "BEARISH",
+            "tickers": [
+                "PEP"
+            ],
+            "primary_ticker": "PEP",
+            "ticker_impacts": [
+                {
+                    "ticker": "PEP",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Midterm voters are overwhelmingly worried about the national debt. But only small fixes are expected this year. - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9390983581542969,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -189,8 +216,8 @@
             "signal": "BULLISH",
             "tickers": [
                 "COIN",
-                "HOOD",
                 "CRCL",
+                "HOOD",
                 "GS"
             ],
             "primary_ticker": "COIN",
@@ -201,12 +228,12 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "HOOD",
+                    "ticker": "CRCL",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "CRCL",
+                    "ticker": "HOOD",
                     "impact": "positive",
                     "relevance": "high"
                 },
@@ -254,9 +281,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Treasury yields are already blowing up the CBO\u2019s long-term forecasts, and experts who previously downplayed U.S. debt fears are now starting to worry - Yahoo Finance",
+            "title": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9099681973457336,
+            "score": 0.9131291508674622,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -272,35 +299,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Microsoft Director Admitted in Internal Document That AI Is Creating a \"Doom Loop\" That Destroys the News Media by Stealing Its Content Without Providing Anything in Return, in Turn Making the AI Useless - Futurism",
+            "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang - BleepingComputer",
             "sentiment": "NEGATIVE",
-            "score": 0.8839636445045471,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Why people in the Northeast will be paying higher heating bills this winter - NEWS10 ABC",
-            "sentiment": "NEGATIVE",
-            "score": 0.869004487991333,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "World Running Short of Supertankers Threatens Long-Haul Oil Flow - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.967744767665863,
+            "score": 0.819118082523346,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -316,22 +317,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Major fast-food operator with 314 locations in 15 states files for bankruptcy - MLive.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7972310185432434,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "FDA approves new breast cancer treatment - Currently.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8220819234848022,
+            "signal": "BULLISH",
+            "tickers": [
+                "META"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Investors warn Anthropic could struggle to sustain revenues post-IPO - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.7720111012458801,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         }
     ]
 }
