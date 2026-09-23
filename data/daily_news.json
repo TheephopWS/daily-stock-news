@@ -1,9 +1,32 @@
 {
-    "last_updated": "2026-09-23 03:37:57 UTC",
+    "last_updated": "2026-09-23 06:48:12 UTC",
     "total_articles": 27,
-    "bullish_articles": 11,
-    "bearish_articles": 16,
+    "bullish_articles": 15,
+    "bearish_articles": 12,
     "articles": [
+        {
+            "title": "Why Intel, Arm, and Other AI Chip Stocks Soared Today - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.8082554936408997,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC",
+                "META"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
         {
             "title": "Flights at major US airports delayed after cable cut by construction workers - BBC",
             "sentiment": "NEGATIVE",
@@ -68,26 +91,34 @@
         {
             "title": "GameStop CEO Ryan Cohen Buys Another $26 Million of GME Stock - benzinga.com",
             "sentiment": "POSITIVE",
-            "score": 0.8687376379966736,
+            "score": 0.8687372207641602,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "AMD hits a major milestone as AI stocks blaze higher - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.9143155217170715,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Grail Catapults 30%-Plus As FDA Mulls Cancer-Detecting Blood Test - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.9172264337539673,
+            "score": 0.9172261953353882,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Big Ag and Big Oil go head-to-head over diesel export ban - politico.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9475902318954468,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -95,7 +126,7 @@
         {
             "title": "Operator of 314 Wendy\u2019s locations in the US files for bankruptcy protection - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.854120671749115,
+            "score": 0.8541204929351807,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -104,7 +135,25 @@
         {
             "title": "Trucking company says long-term contracts are forcing it to absorb increasing cost of diesel - ABC News - Breaking News, Latest News and Videos",
             "sentiment": "NEGATIVE",
-            "score": 0.9184435606002808,
+            "score": 0.9184439778327942,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bitcoin Jumps Above $86,000 to 8-Month High - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8351061344146729,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Top Republicans tell Donald Trump to ban US diesel exports ahead of midterms - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9432230591773987,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -113,83 +162,63 @@
         {
             "title": "The company behind a new GLP-1 pill is betting $6.5 billion on Houston - Houston Chronicle",
             "sentiment": "POSITIVE",
-            "score": 0.8600713014602661,
+            "score": 0.8600707650184631,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia's Jensen Huang rejects AI doomsday fears: '2030 is not going to be the end of the world' - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.8535906076431274,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "AMD stock soars to new record as semiconductors bounce: Chart of the Day - Yahoo Finance",
+            "title": "Meta\u2019s Muse Agent Sparks \u2018Claude Code\u2019 Moment For CPUs, As 40:1 CPU-To-GPU Ratio Poised To Reshape Intel, AMD, And Arm\u2019s Fortunes - Wccftech",
             "sentiment": "POSITIVE",
-            "score": 0.9265137314796448,
+            "score": 0.9146813154220581,
             "signal": "BULLISH",
             "tickers": [
+                "INTC",
                 "AMD",
-                "INTC"
+                "META"
             ],
-            "primary_ticker": "AMD",
+            "primary_ticker": "INTC",
             "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
                 {
                     "ticker": "AMD",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "META",
                     "impact": "positive",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
         {
             "title": "US data centres \u2018are short six NYCs of electricity\u2019 - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.90761399269104,
+            "score": 0.9076142907142639,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Chipmakers fuel global stock gains as oil retreats - Yahoo Finance",
+            "title": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway' - Decrypt",
             "sentiment": "POSITIVE",
-            "score": 0.9432294964790344,
+            "score": 0.9434515833854675,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Auto Industry Workers Protest in Germany Against Job Cuts, Industrial Policy - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8964365720748901,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Wegovy Maker Novo Promises New Drugs to Boost Sales, but Investors Are Wary - WSJ",
+            "title": "Why Micron Stock Popped This Morning - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9035532474517822,
+            "score": 0.9203073382377625,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -213,18 +242,41 @@
             ]
         },
         {
+            "title": "Anthropic and Microsoft Dominate Nscale\u2019s $103 Billion in Data Center Contracts - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7833510041236877,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT",
+                "INTC"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Nissan eyes increasing U.S. production as new Rogue hybrid launches - cnbc.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9010154604911804,
+            "score": 0.9010153412818909,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets - CoinDesk",
+            "title": "SoftBank launches one of biggest junk bond deals to fund OpenAI bet - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.920749306678772,
+            "score": 0.8395955562591553,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -266,27 +318,9 @@
             ]
         },
         {
-            "title": "See the 10-Year Treasury Yield\u2019s Wild Ride on the Road to 5% - wsj.com",
+            "title": "Along Northern Border, 'Rhetoric That Has Inspired a Boycott' - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.945853590965271,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AI Risk Is Everywhere and It's Making Billion Dollar Funds Nervous - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9449120759963989,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump tariffs hit Canada\u2019s dairy farmers as US sales stall - Al Jazeera",
-            "sentiment": "NEGATIVE",
-            "score": 0.9709872007369995,
+            "score": 0.9562605023384094,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -295,7 +329,7 @@
         {
             "title": "US Housing Costs Rise Further Out of Reach Ahead of Midterms - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9426108598709106,
+            "score": 0.9426107406616211,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
