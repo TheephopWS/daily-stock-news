@@ -1,9 +1,115 @@
 {
-    "last_updated": "2026-09-24 18:37:41 UTC",
-    "total_articles": 35,
-    "bullish_articles": 14,
+    "last_updated": "2026-09-24 21:30:21 UTC",
+    "total_articles": 34,
+    "bullish_articles": 13,
     "bearish_articles": 21,
     "articles": [
+        {
+            "title": "Treasury yields surge to near 20-year high as oil jumps back above $102 per barrel - NBC News",
+            "sentiment": "POSITIVE",
+            "score": 0.9211364388465881,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Police: 9 arrested after protesters chain themselves to Kroger headquarters - wlwt.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9455533623695374,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "McDonald\u2019s to spend $8.5B on revamping restaurants, tech and franchise support - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.8541930317878723,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Caesars stockholders approve $6 billion merger with Fertitta - ABC News - Breaking News, Latest News and Videos",
+            "sentiment": "POSITIVE",
+            "score": 0.7855285406112671,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018Dammit, something has to happen\u2019: White House preparing plan for 90-day diesel exports ban - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9117203950881958,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "NYPD steps up security sweeps after 3 people exit Upper East Side manhole, with UN in town - Gothamist",
+            "sentiment": "NEGATIVE",
+            "score": 0.8577240109443665,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9007118940353394,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "DoorDash Spent $1.4 Million Trying to Stop Mamdani From Becoming Mayor. Now We Know Why. - The Intercept",
+            "sentiment": "NEGATIVE",
+            "score": 0.9156995415687561,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "D.C.'s affordability headache has a silver bullet, new study shows: Tackling $40 trillion national debt would boost household income by $36,000 - Fortune",
+            "sentiment": "POSITIVE",
+            "score": 0.8423036932945251,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "U.S. Crude Oil Stockpiles Post Unexpected Build - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9673718810081482,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "IonQ Stock Surges After Inking Quantum Computing Deal With Nvidia - Barron's",
             "sentiment": "POSITIVE",
@@ -31,96 +137,55 @@
             "ticker_impacts": []
         },
         {
-            "title": "Police: 9 arrested after protesters chain themselves to Kroger headquarters - wlwt.com",
+            "title": "McDonald's CEO expects high inflation, lackluster traffic are here to stay - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9455533623695374,
+            "score": 0.927014172077179,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Dow off 125 points, S&P 500 and Nasdaq fall as 10-year Treasury yield surges to highest since 2007 and oil prices rise - marketwatch.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9629635810852051,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "McDonald's CEO expects high inflation, flat traffic are not going away for restaurant industry - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8262118101119995,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil hovers near $100 as analysts warn Trump diesel export ban would 'tighten global supply' - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.942084550857544,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "McDonald's bets on hand-breaded chicken, AI drive-throughs to fend off Burger King - ca.finance.yahoo.com",
+            "title": "Mortgage rates top 7% for the first time in more than 2 years - CBS News",
             "sentiment": "POSITIVE",
-            "score": 0.7756869196891785,
-            "signal": "BULLISH",
-            "tickers": [
-                "MCD",
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "MCD",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Geely unveils sub-5 minute EV charging as battery race revs up - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8377506136894226,
+            "score": 0.8835629820823669,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Arcadis Shares Fall After Canada\u2019s WSP Global Pulls Takeover Offer - WSJ",
+            "title": "Tennessee school busses grind to a halt as Trump policy takes hold - AlterNet",
             "sentiment": "NEGATIVE",
-            "score": 0.9728060960769653,
+            "score": 0.9580714106559753,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Sydney-US Nonstop: Qantas Confirms Ticket Sale & Launch Date For 2nd Project Sunrise Route - Simple Flying",
+            "title": "Aldi is cutting prices on a third of its products. Here's when - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.9629106521606445,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Xi-Trump summit: China\u2019s state car has already proved a match for the US \u2018Beast\u2019 - South China Morning Post",
             "sentiment": "POSITIVE",
-            "score": 0.8340529799461365,
+            "score": 0.8610801100730896,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Massive meat recall on beef, pork and more: USDA - FOX 8 News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7392390966415405,
-            "signal": "BEARISH",
+            "title": "Enveda Raises $311 Million From Leading AI and Biotech Investors to Bring Pharma Into the 21st Century - Business Wire",
+            "sentiment": "POSITIVE",
+            "score": 0.7856746912002563,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -135,19 +200,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Live updates: Bitcoin slips under $86,000 as money rotates into BCH and ZEC - CoinDesk",
-            "sentiment": "POSITIVE",
-            "score": 0.7636854648590088,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US Mortgage Rates Surge Above 7% to a More Than Two-Year High - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.8016970753669739,
-            "signal": "BULLISH",
+            "title": "Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100 - CoinDesk",
+            "sentiment": "NEGATIVE",
+            "score": 0.9704238772392273,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -157,15 +213,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.7675411701202393,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.901948869228363,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -188,27 +235,9 @@
             ]
         },
         {
-            "title": "Massachusetts lesbian bar ignites fury after easing mask rules for one night a week - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9459454417228699,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Roche Drug Candidate Hits Target in Late-Stage Study for Autoimmune Disease - WSJ",
+            "title": "Oil prices rise, snap five day losing streak as Iran vows it will not surrender - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9366689920425415,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil prices rise after five-day losing streak - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7728950381278992,
+            "score": 0.7347661256790161,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -232,6 +261,15 @@
             ]
         },
         {
+            "title": "Massachusetts lesbian bar nearly bullied out of town after lifting mask mandate \u2014 for one night a week - nypost.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8530054092407227,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Big Banks Say They\u2019re Uneasy About People Shopping via AI Agents - Gizmodo",
             "sentiment": "NEGATIVE",
             "score": 0.9337645173072815,
@@ -241,36 +279,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Cybercriminal group claims to steal thousands of FBI employee records - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.7431429624557495,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "NJ fines data center $1 million for illegally powering facility with gas generators - Gothamist",
-            "sentiment": "NEGATIVE",
-            "score": 0.9622189998626709,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Micron, IBD Stock Of The Day, Surges Past Early Buy Point With Earnings Ahead - Investor's Business Daily",
+            "title": "The Nasdaq\u2019s rapid rise to a record is sending a message to investors: Don\u2019t wait for a pullback to buy - MarketWatch",
             "sentiment": "POSITIVE",
-            "score": 0.8022516369819641,
+            "score": 0.9261326789855957,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Royal Caribbean Stock Loses Steam on Report of Sandals Deal - Barron's",
+            "title": "Vineland data center fined more than $1 million for operating natural gas generators without a permit - WHYY",
             "sentiment": "NEGATIVE",
-            "score": 0.890832245349884,
+            "score": 0.9472734928131104,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -286,36 +306,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "CNN Mood \u2018Like a Funeral\u2019 as Paramount\u2019s Warner Bros. Win Casts New Haze on Next Steps - Variety",
+            "title": "Saudi Arabia Forced Back to Perilous Hormuz - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.951601505279541,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Amgen\u2019s Horizon-acquired fusion protein eases Sj\u00f6gren's severity in ph. 3 win - Fierce Biotech",
-            "sentiment": "POSITIVE",
-            "score": 0.947348952293396,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Flight fiasco lingers as delays at JFK, LaGuardia and EWR persist after cable cutting incident - Gothamist",
-            "sentiment": "NEGATIVE",
-            "score": 0.9489940404891968,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "San Francisco Sues Trump\u2019s Truth Social Over Paid Subscriptions - Bloomberg Law News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8835847973823547,
+            "score": 0.955348014831543,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -339,6 +332,15 @@
             ]
         },
         {
+            "title": "Wendy\u2019s seeks to enforce termination of Meritage franchise rights - WOODTV.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9593073129653931,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Nissan Is Done With Piano Black Plastic and Chrome. Consumers Are Sick of Fingerprints - The Drive",
             "sentiment": "NEGATIVE",
             "score": 0.8443683385848999,
@@ -352,15 +354,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.7498561143875122,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Roche\u2019s GLP-1/GIP drug hits in phase 2 diabetes trial, fueling best-in-disease hopes - fiercebiotech.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9065085649490356,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
