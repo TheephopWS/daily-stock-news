@@ -1,9 +1,36 @@
 {
-    "last_updated": "2026-09-25 12:43:46 UTC",
-    "total_articles": 24,
-    "bullish_articles": 10,
-    "bearish_articles": 14,
+    "last_updated": "2026-09-25 15:32:34 UTC",
+    "total_articles": 26,
+    "bullish_articles": 8,
+    "bearish_articles": 18,
     "articles": [
+        {
+            "title": "Aldi is cutting prices on a third of its products. Here's when - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.9629106521606445,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oracle Cites \u2018Force Majeure\u2019 to Shield Itself on Controversial Data Center - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9602751135826111,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Thyroid medicine recall receives FDA's highest risk level - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.7429779767990112,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Starbucks to close 250 stores: 'Difficult decision' - Fox Business",
             "sentiment": "NEGATIVE",
@@ -14,27 +41,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "U.S. stock futures fall as high yields batter tech; Trump-Xi summit begins - Investing.com",
+            "title": "Stock Market Today: Dow Falls On Rising Treasury Yields; Nvidia Extends Losses (Live Coverage) - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9544281363487244,
+            "score": 0.9711744785308838,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Iran War Updates: Oil prices back up as U.S. and Iran trade fresh threats to expand 7-month war - CBS News",
             "sentiment": "POSITIVE",
-            "score": 0.9167961478233337,
+            "score": 0.9167963862419128,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Diesel export ban backed by Trump could result in 'unintended consequences,' experts warn - Yahoo Finance",
+            "title": "Morgan Stanley Rushes to Check Fallout After Deal List Leak - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.941087543964386,
+            "score": 0.8923307061195374,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -43,7 +78,7 @@
         {
             "title": "Bank of America to hire 1,000 more apprentices, invest $150M in workforce development - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.7266662120819092,
+            "score": 0.7266669869422913,
             "signal": "BULLISH",
             "tickers": [
                 "BAC"
@@ -58,9 +93,18 @@
             ]
         },
         {
-            "title": "More than 167,000 pounds of meat with false inspection labels recalled nationwide - CNN",
+            "title": "Spot gold drops to $4,280/oz as flash S&P composite PMI improves to 58.4 in September - Kitco",
             "sentiment": "NEGATIVE",
-            "score": 0.9225689768791199,
+            "score": 0.9539458751678467,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China makes up a record 40% of all global container exports\u2014a sign it's adapted to Trump's tariffs - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9105756282806396,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -76,26 +120,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Sharp weapon discovered by TSA tucked inside unusual item in passenger's carry-on bag - Fox News",
+            "title": "Florida woman died after eating E coli-tainted frozen blueberries from Publix, lawsuit alleges - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8330762386322021,
+            "score": 0.9227733016014099,
             "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Frugal Fannie's closing Massachusetts store after 43 years - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.7285248041152954,
+            "score": 0.7285244464874268,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -113,7 +149,7 @@
         {
             "title": "Cracker Barrel upgrading 3 popular dinner items as chain completes 26-store property deal - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.9387991428375244,
+            "score": 0.938799262046814,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -122,7 +158,7 @@
         {
             "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9007118940353394,
+            "score": 0.9007121920585632,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -131,7 +167,7 @@
         {
             "title": "DoorDash Spent $1.4 Million Trying to Stop Mamdani From Becoming Mayor. Now We Know Why. - The Intercept",
             "sentiment": "NEGATIVE",
-            "score": 0.9156995415687561,
+            "score": 0.9156996011734009,
             "signal": "BEARISH",
             "tickers": [
                 "AMD"
@@ -148,7 +184,7 @@
         {
             "title": "U.S. Crude Oil Stockpiles Post Unexpected Build - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8220601677894592,
+            "score": 0.8220580816268921,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -174,17 +210,8 @@
         {
             "title": "McDonald's is exploring ways to attract GLP-1 users - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.8543254733085632,
+            "score": 0.8543259501457214,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Royal Caribbean Stock Plummets 12% Following $3 Billion Deal With Sandals Resorts - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.9534415006637573,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -192,7 +219,7 @@
         {
             "title": "Social Security tax hike would be \"financially impossible\" for many, expert says - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9502791166305542,
+            "score": 0.9502792358398438,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -201,7 +228,7 @@
         {
             "title": "Mortgage rates top 7% for the first time in more than 2 years - CBS News",
             "sentiment": "POSITIVE",
-            "score": 0.8835629820823669,
+            "score": 0.8835631012916565,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -217,23 +244,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Is It Too Late To Buy Micron Stock After Its Record Memory Run? - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8733013868331909,
-            "signal": "BULLISH",
-            "tickers": [
-                "MU"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "MU",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Enveda Raises $311 Million From Leading AI and Biotech Investors to Bring Pharma Into the 21st Century - Business Wire",
             "sentiment": "POSITIVE",
             "score": 0.7856746912002563,
@@ -243,19 +253,27 @@
             "ticker_impacts": []
         },
         {
+            "title": "GLP-1 Users Are Furious After Employers Drop Insurance Benefits - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9725210666656494,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Big Banks Say They\u2019re Uneasy About People Shopping via AI Agents - Gizmodo",
             "sentiment": "NEGATIVE",
             "score": 0.9337645173072815,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Nasdaq\u2019s rapid rise to a record is sending a message to investors: Don\u2019t wait for a pullback to buy - MarketWatch",
-            "sentiment": "POSITIVE",
-            "score": 0.9261326789855957,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
