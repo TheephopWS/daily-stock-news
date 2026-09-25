@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-09-25 01:05:18 UTC",
-    "total_articles": 27,
-    "bullish_articles": 15,
+    "last_updated": "2026-09-25 03:36:34 UTC",
+    "total_articles": 23,
+    "bullish_articles": 11,
     "bearish_articles": 12,
     "articles": [
+        {
+            "title": "Stock Market Today: Dow, Nasdaq Slip; 10-Year Treasury Hits 19-Year High \u2014 Live Updates - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9113529324531555,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Dow tumbles more than 300 points, Nasdaq drops 1% as Treasury yields surge: Live updates - CNBC",
             "sentiment": "NEGATIVE",
@@ -16,26 +25,40 @@
         {
             "title": "Cracker Barrel upgrading 3 popular dinner items as chain completes 26-store property deal - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.938799262046814,
+            "score": 0.9387991428375244,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "McDonald\u2019s to spend $8.5B on revamping restaurants, tech and franchise support - Fox Business",
+            "title": "McDonald's bets on hand-breaded chicken, AI drive-throughs to fend off Burger King - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8541933298110962,
+            "score": 0.7728906273841858,
             "signal": "BULLISH",
-            "tickers": [],
+            "tickers": [
+                "INTC",
+                "MCD"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "MCD",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "Caesars stockholders approve $6 billion merger with Fertitta - ABC News - Breaking News, Latest News and Videos",
-            "sentiment": "POSITIVE",
-            "score": 0.7855290174484253,
-            "signal": "BULLISH",
+            "title": "Passenger Says United Made Her Sit Next to Man Pleasuring Himself - Fodors Travel Guide",
+            "sentiment": "NEGATIVE",
+            "score": 0.9264369606971741,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -43,7 +66,7 @@
         {
             "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9007121920585632,
+            "score": 0.9007118940353394,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -52,7 +75,7 @@
         {
             "title": "DoorDash Spent $1.4 Million Trying to Stop Mamdani From Becoming Mayor. Now We Know Why. - The Intercept",
             "sentiment": "NEGATIVE",
-            "score": 0.9156996011734009,
+            "score": 0.9156995415687561,
             "signal": "BEARISH",
             "tickers": [
                 "AMD"
@@ -69,17 +92,8 @@
         {
             "title": "Beloved burger chain files bankruptcy, leaving 314 stores in limbo across 15 states - masslive.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9145576357841492,
+            "score": 0.9145575165748596,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "D.C.'s affordability headache has a silver bullet, new study shows: Tackling $40 trillion national debt would boost household income by $36,000 - Fortune",
-            "sentiment": "POSITIVE",
-            "score": 0.8423041105270386,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -111,18 +125,9 @@
             ]
         },
         {
-            "title": "Exclusive / Paramount weighs tapping Musk for equity investment - Semafor",
-            "sentiment": "POSITIVE",
-            "score": 0.953608512878418,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Palantir Could Be a Major Winner as Air Traffic Control Goes AI. The Stock Rises. - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9398496150970459,
+            "score": 0.9398497343063354,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -131,8 +136,17 @@
         {
             "title": "US to Buy Back Up to $6 Billion in Longer-Dated Treasuries - bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.7682065963745117,
+            "score": 0.768206000328064,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Royal Caribbean Stock Plummets 12% Following $3 Billion Deal With Sandals Resorts - Forbes",
+            "sentiment": "NEGATIVE",
+            "score": 0.9534415006637573,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -140,7 +154,7 @@
         {
             "title": "Mortgage rates top 7% for the first time in more than 2 years - CBS News",
             "sentiment": "POSITIVE",
-            "score": 0.8835631012916565,
+            "score": 0.8835629820823669,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -158,7 +172,7 @@
         {
             "title": "Aldi is cutting prices on a third of its products. Here's when - usatoday.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9610066413879395,
+            "score": 0.9610065817832947,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -176,17 +190,8 @@
         {
             "title": "Sydney-US Nonstop: Qantas Confirms Ticket Sale & Launch Date For 2nd Project Sunrise Route - Simple Flying",
             "sentiment": "POSITIVE",
-            "score": 0.8340530395507812,
+            "score": 0.8340529799461365,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100 - CoinDesk",
-            "sentiment": "NEGATIVE",
-            "score": 0.9704238772392273,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -194,17 +199,8 @@
         {
             "title": "Bringing this popular drink to a job interview could hurt your chances, experts warn - Fox News",
             "sentiment": "NEGATIVE",
-            "score": 0.7675411105155945,
+            "score": 0.7675411701202393,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil prices rise, snap five day losing streak as Iran vows it will not surrender - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7347668409347534,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -228,37 +224,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Vineland data center fined more than $1 million for operating natural gas generators without a permit - WHYY",
-            "sentiment": "NEGATIVE",
-            "score": 0.9472734928131104,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "A Bay Area transit \u2018death spiral\u2019 could double Bay Bridge delays, report says - San Francisco Chronicle",
             "sentiment": "NEGATIVE",
-            "score": 0.9432042837142944,
+            "score": 0.943204402923584,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Micron Earnings Are Set for a 10x Jump: The Stock Is Still the Cheapest in Tech - Benzinga",
+            "title": "OpenAI\u2019s GPT-6 Sol doubles its accuracy rate \u2013 for half the cost - ZDNET",
             "sentiment": "POSITIVE",
-            "score": 0.9110965132713318,
+            "score": 0.9472883939743042,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nissan Is Done With Piano Black Plastic and Chrome. Consumers Are Sick of Fingerprints - The Drive",
-            "sentiment": "NEGATIVE",
-            "score": 0.8443685173988342,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
