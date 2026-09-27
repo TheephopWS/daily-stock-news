@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-09-27 12:41:33 UTC",
-    "total_articles": 25,
-    "bullish_articles": 8,
-    "bearish_articles": 17,
+    "last_updated": "2026-09-27 15:31:01 UTC",
+    "total_articles": 22,
+    "bullish_articles": 7,
+    "bearish_articles": 15,
     "articles": [
+        {
+            "title": "Oracle gave Larry Ellison and his co-CEOs nearly $1 billion in stock options. By fiscal year end, all were underwater - Fortune",
+            "sentiment": "POSITIVE",
+            "score": 0.7145554423332214,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Chinese AI models surge in global popularity \u2014 and Washington is worried - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9384483695030212,
+            "score": 0.9384484887123108,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,7 +25,16 @@
         {
             "title": "Rogue OpenAI agents accessed US government websites - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.8099067807197571,
+            "score": 0.8099066615104675,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "TikTok to pay $100m and limit daily child usage in Alabama settlement - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8228526711463928,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,7 +43,7 @@
         {
             "title": "Starbucks to close 2 Western New York stores in nationwide shutdown - WGRZ",
             "sentiment": "NEGATIVE",
-            "score": 0.92337965965271,
+            "score": 0.9233796000480652,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -43,7 +61,7 @@
         {
             "title": "New Mexico jury finds Facebook liable for deceiving users about privacy protections - apnews.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8226662278175354,
+            "score": 0.8226662874221802,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -60,26 +78,8 @@
         {
             "title": "More than 167,000 pounds of meat were recalled. What to know about the state of food safety in the U.S. - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.8445894122123718,
+            "score": 0.8445894718170166,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Retail headwinds force women\u2019s apparel giant Cato to close dozens of locations - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9708989858627319,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stocks Rise to Cap Week of Increasing Yields, Volatile Oil Prices - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.7247372269630432,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -94,9 +94,26 @@
             "ticker_impacts": []
         },
         {
+            "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.8454552888870239,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage) - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.8605401515960693,
+            "score": 0.8605409264564514,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -112,18 +129,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Brightline Florida files for bankruptcy, SoCal-Las Vegas high-speed rail project faces delays - KTLA",
-            "sentiment": "NEGATIVE",
-            "score": 0.9637970328330994,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Trump's Stargate AI Project in Huge Trouble As $18 Billion Data Center Shrivels Toward Oblivion - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.9260683655738831,
+            "score": 0.9260683059692383,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -132,25 +140,25 @@
         {
             "title": "Costco receives $184M in tariff refunds, plans to pass savings to shoppers - MyNorthwest.com",
             "sentiment": "POSITIVE",
-            "score": 0.7697126865386963,
+            "score": 0.7697141170501709,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Prediction: This Is What a $500 Investment in Sandisk Will Be Worth in 2030 - fool.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8126481175422668,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Volkswagen to recall 2.86 million VW, Audi models over potential steering problem - AP News",
+            "title": "Americans still feel worse about the economy than at almost any point in modern history - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9337822794914246,
+            "score": 0.9740250706672668,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "EU vows to defend its stand against X after the US backs a court challenge from Elon Musk - apnews.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9091870784759521,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -159,7 +167,7 @@
         {
             "title": "BASF makes takeover approach for chemicals rival Evonik - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.8130292296409607,
+            "score": 0.8130296468734741,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -175,26 +183,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.940581202507019,
-            "signal": "BULLISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "American farmers are hurting \u2014 and worried about their futures - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9713056087493896,
+            "score": 0.9713054895401001,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -220,25 +211,7 @@
         {
             "title": "Portland coffee company backs out of plan to open free cafe in Gaza - KOIN.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7646936774253845,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "More delays: LAX train contractor buys more time for testing - LAist",
-            "sentiment": "NEGATIVE",
-            "score": 0.7167545557022095,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "GLP-1 drugs increase rare \u2018eye stroke\u2019 linked to vision loss, hundreds of lawsuits allege - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8986599445343018,
+            "score": 0.7646926641464233,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
