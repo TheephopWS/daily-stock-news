@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-09-27 06:47:14 UTC",
+    "last_updated": "2026-09-27 09:32:50 UTC",
     "total_articles": 24,
-    "bullish_articles": 8,
-    "bearish_articles": 16,
+    "bullish_articles": 9,
+    "bearish_articles": 15,
     "articles": [
         {
             "title": "Rogue OpenAI agents accessed US government websites - Politico",
@@ -14,19 +14,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "TikTok to pay $100m and limit daily child usage in Alabama settlement - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8228524327278137,
-            "signal": "BEARISH",
+            "title": "Common kitchen staple may sharpen your brain \u2014 and it only takes 2 tablespoons - Fox News",
+            "sentiment": "POSITIVE",
+            "score": 0.9269357323646545,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Common kitchen staple may sharpen your brain \u2014 and it only takes 2 tablespoons - Fox News",
-            "sentiment": "POSITIVE",
-            "score": 0.9269357323646545,
-            "signal": "BULLISH",
+            "title": "New Mexico jury finds Facebook liable for deceiving users about privacy protections - apnews.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8226662278175354,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "More than 167,000 pounds of meat were recalled. What to know about the state of food safety in the U.S. - PBS",
+            "sentiment": "NEGATIVE",
+            "score": 0.8445894122123718,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -53,23 +70,6 @@
                 {
                     "ticker": "KO",
                     "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7884528636932373,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
@@ -111,6 +111,24 @@
             "ticker_impacts": []
         },
         {
+            "title": "Trump's Stargate AI Project in Huge Trouble As $18 Billion Data Center Shrivels Toward Oblivion - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.9260683655738831,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Costco receives $184M in tariff refunds, plans to pass savings to shoppers - MyNorthwest.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7697126865386963,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Mortgage rates just keep climbing - Deseret News",
             "sentiment": "POSITIVE",
             "score": 0.8902185559272766,
@@ -129,15 +147,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "No end to the sell-off in government bonds - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9291748404502869,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Volkswagen to recall 2.86 million VW, Audi models over potential steering problem - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9337822794914246,
@@ -147,10 +156,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "BASF makes takeover approach for chemicals rival Evonik - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8130292296409607,
-            "signal": "BULLISH",
+            "title": "A diesel export ban would guarantee higher prices - The Hill",
+            "sentiment": "NEGATIVE",
+            "score": 0.9192029237747192,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -165,27 +174,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "3 Reasons Investors Should Be Ready for Bond Market Sell-Off to Worsen - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9263674020767212,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.940581202507019,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Atlanta jurors reach $164M verdict in federal sex trafficking trial - The Atlanta Journal-Constitution",
-            "sentiment": "NEGATIVE",
-            "score": 0.7872824668884277,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "American farmers are hurting \u2014 and worried about their futures - NPR",
             "sentiment": "NEGATIVE",
             "score": 0.9713056087493896,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Global bond sell-off eases as oil prices retreat from recent highs - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.7294366359710693,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -221,15 +238,6 @@
             "title": "More delays: LAX train contractor buys more time for testing - LAist",
             "sentiment": "NEGATIVE",
             "score": 0.7167545557022095,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Polymarket countersues New York state over \u2018unregulated gambling\u2019 allegation - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9344347715377808,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
