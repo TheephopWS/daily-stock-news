@@ -1,14 +1,117 @@
 {
-    "last_updated": "2026-09-27 15:31:01 UTC",
-    "total_articles": 22,
-    "bullish_articles": 7,
-    "bearish_articles": 15,
+    "last_updated": "2026-09-27 18:36:31 UTC",
+    "total_articles": 32,
+    "bullish_articles": 9,
+    "bearish_articles": 23,
     "articles": [
         {
-            "title": "Oracle gave Larry Ellison and his co-CEOs nearly $1 billion in stock options. By fiscal year end, all were underwater - Fortune",
+            "title": "How a diesel ban could burn US credibility - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9217756390571594,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI says its AI agents escaped a secure \u2018sandbox\u2019 again last weekend and it is pausing training for a second time - Fortune",
             "sentiment": "POSITIVE",
-            "score": 0.7145554423332214,
+            "score": 0.9304131865501404,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8063977956771851,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9259591102600098,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Many homeowners have a big insurance coverage gap \u2014 and don't even know it - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9441722631454468,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mamdani's Showdown With Amazon Could Have Far-Reaching Consequences - HuffPost",
+            "sentiment": "NEGATIVE",
+            "score": 0.9306820631027222,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD",
+                "AMZN"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Home asking prices have dipped in the past year. See how they've changed over a decade. - WCVB",
+            "sentiment": "NEGATIVE",
+            "score": 0.9630560278892517,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump\u2019s Greenland deal shadows Xi visit after years of Beijing eyeing Arctic influence - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7083830237388611,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Foreign capital flows into US stocks hit record as appetite for debt fades - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.9409018754959106,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI tools post user images from ChatGPT online - DW.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8108406066894531,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -16,43 +119,16 @@
         {
             "title": "Chinese AI models surge in global popularity \u2014 and Washington is worried - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9384484887123108,
+            "score": 0.9384483695030212,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Rogue OpenAI agents accessed US government websites - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.8099066615104675,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "TikTok to pay $100m and limit daily child usage in Alabama settlement - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8228526711463928,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Starbucks to close 2 Western New York stores in nationwide shutdown - WGRZ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9233796000480652,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Common kitchen staple may sharpen your brain \u2014 and it only takes 2 tablespoons - Fox News",
+            "title": "Common kitchen staple may sharpen your brain, and it only takes 2 tablespoons - Fox News",
             "sentiment": "POSITIVE",
-            "score": 0.9269357323646545,
+            "score": 0.926620364189148,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -78,7 +154,16 @@
         {
             "title": "More than 167,000 pounds of meat were recalled. What to know about the state of food safety in the U.S. - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.8445894718170166,
+            "score": 0.8445892930030823,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mark Zuckerberg Loses $9 Billion In A Day Amid AI Overspending Fears - Forbes",
+            "sentiment": "NEGATIVE",
+            "score": 0.7306767106056213,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -96,7 +181,7 @@
         {
             "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.8454552888870239,
+            "score": 0.8454553484916687,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -113,16 +198,51 @@
         {
             "title": "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage) - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.8605409264564514,
+            "score": 0.8605408072471619,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Breakfast chain franchisee files for bankruptcy as rising costs, weak sales weigh - Fox Business",
+            "title": "Crocs says Five Below copied its famous clog design - USA Today",
             "sentiment": "NEGATIVE",
-            "score": 0.9689532518386841,
+            "score": 0.9220716953277588,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia CEO Says AI Companies Will Be Sued to Death If Their Frontier Models Keep Doing Horrible Things - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.9350259900093079,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Colorado Marijuana Company Voluntarily Recalls Dozens of Contaminated Products Amid State Regulatory Delays - ProPublica",
+            "sentiment": "NEGATIVE",
+            "score": 0.9553166627883911,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Brightline Florida files for bankruptcy, SoCal-Las Vegas high-speed rail project faces delays - KTLA",
+            "sentiment": "NEGATIVE",
+            "score": 0.9637970328330994,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -131,7 +251,7 @@
         {
             "title": "Trump's Stargate AI Project in Huge Trouble As $18 Billion Data Center Shrivels Toward Oblivion - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.9260683059692383,
+            "score": 0.9260683655738831,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -140,17 +260,8 @@
         {
             "title": "Costco receives $184M in tariff refunds, plans to pass savings to shoppers - MyNorthwest.com",
             "sentiment": "POSITIVE",
-            "score": 0.7697141170501709,
+            "score": 0.7697142362594604,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Americans still feel worse about the economy than at almost any point in modern history - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9740250706672668,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -158,7 +269,34 @@
         {
             "title": "EU vows to defend its stand against X after the US backs a court challenge from Elon Musk - apnews.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9091870784759521,
+            "score": 0.9091869592666626,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Volkswagen to recall 2.86 million VW, Audi models over potential steering problem - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9337822794914246,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Which Dividend ETF Is Better for Income: Schwab's SCHD or Vanguard's VYM? - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.7938768267631531,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "How Trump's trade war with Canada is squeezing a farm cidery in Albany - Gothamist",
+            "sentiment": "NEGATIVE",
+            "score": 0.7170928716659546,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -167,7 +305,7 @@
         {
             "title": "BASF makes takeover approach for chemicals rival Evonik - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.8130296468734741,
+            "score": 0.8130295276641846,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -176,16 +314,7 @@
         {
             "title": "Inside Kalshi CEO Tarek Mansour's testy relationship with Indian casinos -- and how it could pose an existential threat: 'Lying little twerp' - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9517263174057007,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "American farmers are hurting \u2014 and worried about their futures - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9713054895401001,
+            "score": 0.9517264366149902,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -211,16 +340,7 @@
         {
             "title": "Portland coffee company backs out of plan to open free cafe in Gaza - KOIN.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7646926641464233,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "New York sues prediction market Polymarket, calling it an unlicensed gambling operation - apnews.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.908239483833313,
+            "score": 0.7646939754486084,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
