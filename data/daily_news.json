@@ -1,9 +1,35 @@
 {
-    "last_updated": "2026-09-28 12:49:33 UTC",
-    "total_articles": 24,
+    "last_updated": "2026-09-28 15:35:08 UTC",
+    "total_articles": 22,
     "bullish_articles": 7,
-    "bearish_articles": 17,
+    "bearish_articles": 15,
     "articles": [
+        {
+            "title": "Debt-hungry AI companies face increased risk as bond yields spike - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8992694020271301,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Inside the workforce housing attracting Meta's data center workers - Business Insider",
+            "sentiment": "POSITIVE",
+            "score": 0.719845712184906,
+            "signal": "BULLISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Nearly 333 pounds of Buckhead tuna recalled across 5 states over elevated scombrotoxin levels - Fox Business",
             "sentiment": "NEGATIVE",
@@ -14,9 +40,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Boeing identifies 737 MAX software glitch affecting landing navigation feature - NBC News",
+            "title": "FAA investigates software glitch in some Boeing 737 Max jets that could cause issues during aborted landings - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9269190430641174,
+            "score": 0.9468948841094971,
             "signal": "BEARISH",
             "tickers": [
                 "BA"
@@ -75,6 +101,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Convicted Theranos fraudster Elizabeth Holmes issues ominous threat from prison: \u2018I\u2019ll burn them\u2019 - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.7348645329475403,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Appeals court says Ohio and Tennessee can regulate Kalshi under gambling laws - Mashable",
             "sentiment": "NEGATIVE",
             "score": 0.7298804521560669,
@@ -91,6 +126,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "New Mexico jury finds Facebook liable for over 43 million violations of consumer protection law - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9167038798332214,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here - CNBC",
@@ -147,23 +199,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "New Mexico jury finds Facebook liable for deceiving users about privacy protections - apnews.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8226662278175354,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "More than 167,000 pounds of meat were recalled. What to know about the state of food safety in the U.S. - PBS",
             "sentiment": "NEGATIVE",
             "score": 0.8445894122123718,
@@ -191,54 +226,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "McDonald\u2019s exploring new menu items for GLP-1 users, consumers seeking more protein - KTLA",
-            "sentiment": "POSITIVE",
-            "score": 0.8247377276420593,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise. - Ars Technica",
             "sentiment": "NEGATIVE",
             "score": 0.938428521156311,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Brightline Florida files for bankruptcy, SoCal-Las Vegas high-speed rail project faces delays - KTLA",
-            "sentiment": "NEGATIVE",
-            "score": 0.9637970328330994,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Costco receives $184M in tariff refunds, plans to pass savings to shoppers - MyNorthwest.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7697126865386963,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Volkswagen and Audi recall over 208,000 vehicles in the U.S. See the affected models - NBC4 Washington",
-            "sentiment": "NEGATIVE",
-            "score": 0.9371092319488525,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oracle\u2019s Collapse\u2013$200 Billion In Data Center Shut Downs - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.943686842918396,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
