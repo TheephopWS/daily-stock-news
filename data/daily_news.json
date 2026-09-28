@@ -1,9 +1,26 @@
 {
-    "last_updated": "2026-09-28 03:44:14 UTC",
-    "total_articles": 33,
-    "bullish_articles": 11,
-    "bearish_articles": 22,
+    "last_updated": "2026-09-28 07:04:29 UTC",
+    "total_articles": 29,
+    "bullish_articles": 8,
+    "bearish_articles": 21,
     "articles": [
+        {
+            "title": "FAA investigates software glitch in some Boeing 737 Max jets that could cause issues during aborted landings - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9468948841094971,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "E. coli outbreak linked to raw milk cheese leads to 13 illnesses and eight hospitalizations across the US: FDA - Fox Business",
             "sentiment": "NEGATIVE",
@@ -12,6 +29,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Apple hit with $5.7 billion in damages over haptic patents - theverge.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9499931931495667,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Insurers claim AI is already increasing healthcare costs - TechCrunch",
@@ -30,23 +64,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Boeing flags 737 Max software glitch affecting some automated approach functions - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9527837038040161,
-            "signal": "BEARISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "How a diesel ban could burn US credibility - Politico",
@@ -72,18 +89,18 @@
             "score": 0.9306820631027222,
             "signal": "BEARISH",
             "tickers": [
-                "AMZN",
-                "AMD"
+                "AMD",
+                "AMZN"
             ],
-            "primary_ticker": "AMZN",
+            "primary_ticker": "AMD",
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMD",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -117,19 +134,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Chinese AI models surge in global popularity \u2014 and Washington is worried - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9384483695030212,
-            "signal": "BULLISH",
+            "title": "Student Loan Borrowers Sue Education Department For Botching Loan Discharges - forbes.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8946766257286072,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "TikTok to pay $100m and limit daily child usage in Alabama settlement - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8228524327278137,
-            "signal": "BEARISH",
+            "title": "Chinese AI models surge in global popularity \u2014 and Washington is worried - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9384483695030212,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -170,28 +187,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stocks Rise to Cap Week of Increasing Yields, Volatile Oil Prices - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.7247372269630432,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Consumer confidence dips in September amid inflation concerns - The Hill",
             "sentiment": "NEGATIVE",
             "score": 0.9732831716537476,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market Today: Dow Surges 450 Points On U.S.-Iran Peace Hopes; Micron Rises - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.8927634358406067,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -230,15 +229,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "The iced coffee debate reflects 'everything wrong with hiring right now,' says career expert - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9451996088027954,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Nvidia CEO Says AI Companies Will Be Sued to Death If Their Frontier Models Keep Doing Horrible Things - Futurism",
@@ -285,15 +275,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "EU vows to defend its stand against X after the US backs a court challenge from Elon Musk - apnews.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.909186840057373,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Volkswagen and Audi recall over 208,000 vehicles in the U.S. See the affected models - NBC4 Washington",
             "sentiment": "NEGATIVE",
             "score": 0.9371092319488525,
@@ -316,15 +297,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.7170924544334412,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "BASF makes takeover approach for chemicals rival Evonik - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8130292296409607,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
