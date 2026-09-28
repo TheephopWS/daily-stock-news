@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-09-28 01:13:48 UTC",
-    "total_articles": 28,
+    "last_updated": "2026-09-28 03:44:14 UTC",
+    "total_articles": 33,
     "bullish_articles": 11,
-    "bearish_articles": 17,
+    "bearish_articles": 22,
     "articles": [
         {
             "title": "E. coli outbreak linked to raw milk cheese leads to 13 illnesses and eight hospitalizations across the US: FDA - Fox Business",
@@ -21,6 +21,32 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "6 WA Starbucks locations closing amid broader shutdown. Here's where - FOX 13 Seattle",
+            "sentiment": "NEGATIVE",
+            "score": 0.9459874629974365,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Boeing flags 737 Max software glitch affecting some automated approach functions - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9527837038040161,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "How a diesel ban could burn US credibility - Politico",
@@ -46,18 +72,18 @@
             "score": 0.9306820631027222,
             "signal": "BEARISH",
             "tickers": [
-                "AMD",
-                "AMZN"
+                "AMZN",
+                "AMD"
             ],
-            "primary_ticker": "AMD",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "AMD",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -82,9 +108,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Student Loan Borrowers Sue Education Department For Botching Loan Discharges - Forbes",
+            "title": "Japan went from a rice shortage to a rice surplus in two years, due to drought, tourism and the U.S. - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9224949479103088,
+            "score": 0.7529963850975037,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -95,6 +121,15 @@
             "sentiment": "POSITIVE",
             "score": 0.9384483695030212,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "TikTok to pay $100m and limit daily child usage in Alabama settlement - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8228524327278137,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -197,6 +232,15 @@
             ]
         },
         {
+            "title": "The iced coffee debate reflects 'everything wrong with hiring right now,' says career expert - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9451996088027954,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Nvidia CEO Says AI Companies Will Be Sued to Death If Their Frontier Models Keep Doing Horrible Things - Futurism",
             "sentiment": "NEGATIVE",
             "score": 0.9350259900093079,
@@ -253,6 +297,15 @@
             "title": "Volkswagen and Audi recall over 208,000 vehicles in the U.S. See the affected models - NBC4 Washington",
             "sentiment": "NEGATIVE",
             "score": 0.9371092319488525,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Flights delayed and canceled at Boston's Logan Airport during nor'easter; airlines offering waivers - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.958606481552124,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
