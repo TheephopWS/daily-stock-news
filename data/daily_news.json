@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-09-28 21:31:08 UTC",
-    "total_articles": 20,
-    "bullish_articles": 7,
-    "bearish_articles": 13,
+    "last_updated": "2026-09-29 01:11:11 UTC",
+    "total_articles": 21,
+    "bullish_articles": 6,
+    "bearish_articles": 15,
     "articles": [
+        {
+            "title": "Stock futures slip after winning week on Wall Street: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9598923921585083,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9512951374053955,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Fed raises rates for first time in years: What it means for your wallet - Fox Business",
             "sentiment": "POSITIVE",
@@ -14,18 +32,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Emergency: Delta flight DL251 to Boston turned around over Atlantic and diverted to Porto - airlive",
+            "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8433990478515625,
+            "score": 0.7892519235610962,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI agents tried to \u2018bruteforce\u2019 a UN website - The Verge",
+            "title": "Emergency: Delta flight DL251 to Boston turned around over Atlantic and diverted to Porto - airlive",
             "sentiment": "NEGATIVE",
-            "score": 0.8367131352424622,
+            "score": 0.9099336266517639,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -41,9 +59,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "New lithium mine in Cornwall 'set to create more than 100 jobs' - bbc.com",
+            "title": "JPMorgan doubles down on diesel as record prices test inflation - thestreet.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9546735882759094,
+            "signal": "BEARISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Bessent Urges Fed to Keep \u2018Open Mind\u2019 on US Inflation Outlook - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9390804767608643,
+            "score": 0.7095592617988586,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -110,15 +145,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "$1,000 invested in SpaceX stock 2 months ago is now worth - Finbold",
-            "sentiment": "POSITIVE",
-            "score": 0.9304569363594055,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation - The Hacker News",
             "sentiment": "NEGATIVE",
             "score": 0.8637068867683411,
@@ -128,18 +154,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nearly 333 pounds of Buckhead tuna recalled across 5 states over elevated scombrotoxin levels - Fox Business",
+            "title": "Boeing identifies 737 MAX software glitch affecting landing navigation feature - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.7767427563667297,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FAA investigates software glitch in some Boeing 737 Max jets that could cause issues during aborted landings - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9468948841094971,
+            "score": 0.9269190430641174,
             "signal": "BEARISH",
             "tickers": [
                 "BA"
