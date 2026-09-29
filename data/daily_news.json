@@ -1,9 +1,131 @@
 {
-    "last_updated": "2026-09-29 15:34:55 UTC",
-    "total_articles": 25,
-    "bullish_articles": 7,
-    "bearish_articles": 18,
+    "last_updated": "2026-09-29 18:40:41 UTC",
+    "total_articles": 30,
+    "bullish_articles": 11,
+    "bearish_articles": 19,
     "articles": [
+        {
+            "title": "Treasury Takes Aim at Wall Street Tax Trades in New Notice - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9091492891311646,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9289928078651428,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "MongoDB Stock Sinks 20% as CEO Departs for Meta. \u2018Real Shocker,\u2019 Says Analyst. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9647738337516785,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Stocks fall, oil rises and bond yields surge as geopolitics keeps markets on edge - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9730657339096069,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Trump administration weakens fuel efficiency standards for new cars - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.7935564517974854,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8678992986679077,
+            "signal": "BEARISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Boeing identifies 737 MAX software glitch - KOMO",
+            "sentiment": "NEGATIVE",
+            "score": 0.9615046381950378,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "U.S. 10 Year Treasury tops 5.25% as yields continue to climb - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.9271811842918396,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Is Nike stock about to get whacked with another 'reset moment'? - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9411276578903198,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia stock jumps after largest share buyback ever - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8926800489425659,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Kodiak Sciences stock soars on positive AMD trial data - finance.yahoo.com",
             "sentiment": "POSITIVE",
@@ -22,39 +144,30 @@
             ]
         },
         {
-            "title": "At every turn, Trump\u2019s ideas for aiding U.S. consumers run into resistance - washingtonpost.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8378591537475586,
-            "signal": "BEARISH",
+            "title": "AbbVie's Cerevel buyout delivers as FDA gives go-ahead to 1st-in-class Juvmo in Parkinson's disease - fiercepharma.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9012351036071777,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia announces jaw-dropping $150 billion stock buyback, largest single authorization in history - Yahoo Finance",
+            "title": "Apple ordered to pay $5.7bn in haptic tech patent case - bbc.com",
             "sentiment": "NEGATIVE",
-            "score": 0.887553870677948,
+            "score": 0.9467253684997559,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "AAPL"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "AAPL",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "AAPL",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government - WIRED",
-            "sentiment": "NEGATIVE",
-            "score": 0.9393039345741272,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "EXCLUSIVE: Google bets $15B on Finland as nation's president explains why - Fox Business",
@@ -83,6 +196,32 @@
             "ticker_impacts": []
         },
         {
+            "title": "Gold and silver prices fall sharply as higher bond yields weigh on metals - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9757974743843079,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Oil prices surge after Trump rejects Iran\u2019s plan to reopen Strait of Hormuz - aljazeera.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8313016295433044,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Food safety becomes an election issue as major outbreaks and recalls cause concern - cbsnews.com",
             "sentiment": "NEGATIVE",
             "score": 0.919235110282898,
@@ -92,9 +231,44 @@
             "ticker_impacts": []
         },
         {
-            "title": "Boston-bound Delta flight makes emergency landing in Portugal after smoke fills cabin - New York Post",
+            "title": "Pearson's Candy Company shuts down St. Paul factory for good - mprnews.org",
             "sentiment": "NEGATIVE",
-            "score": 0.9519731998443604,
+            "score": 0.9696913361549377,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Treasury yields edge higher amid pressure on global government bonds - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9333264231681824,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Merck, Daiichi pull lung cancer filing after FDA pushback deals another blow to $4B deal - Fierce Biotech",
+            "sentiment": "NEGATIVE",
+            "score": 0.964891791343689,
+            "signal": "BEARISH",
+            "tickers": [
+                "ADC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "ADC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Trump \u2018very seriously\u2019 considering diesel export ban as global supply crunch worsens - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9251053929328918,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -110,18 +284,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Starbucks shutters Fan, Short Pump locations as part of mass closure - Richmond BizSense",
+            "title": "AI hyperscalers are transforming debt - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9206336736679077,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Texas driver arrested after \u2018intentionally\u2019 crashing into a closed Kroger to use bathroom: cops - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8492398858070374,
+            "score": 0.8865500092506409,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -137,9 +302,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "It's a 5% world. We're just living in it - Axios",
+            "title": "The Moves That Backfired on Trump and Drove Interest Rates and Inflation Higher - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8966122269630432,
+            "score": 0.8089050054550171,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -172,66 +337,6 @@
             ]
         },
         {
-            "title": "Software glitch raises safety concerns for Boeing 737 MAX planes - MyNorthwest.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9656363129615784,
-            "signal": "BEARISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Bank of America drops bombshell verdict on Nike stock - thestreet.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7373096942901611,
-            "signal": "BEARISH",
-            "tickers": [
-                "BAC"
-            ],
-            "primary_ticker": "BAC",
-            "ticker_impacts": [
-                {
-                    "ticker": "BAC",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Apple hit with $5.7 billion verdict over Taptic Engine patent infringement - 9to5mac.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8923344612121582,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Economist Peter Schiff sounds alarm on S&P 500 crash as \u2018breadth\u2019 gets \u2018bad\u2019 - Finbold",
-            "sentiment": "NEGATIVE",
-            "score": 0.7634648084640503,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Opinion: Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging - marketwatch.com",
             "sentiment": "NEGATIVE",
             "score": 0.8453021049499512,
@@ -241,23 +346,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia investors set for a hiked dividend payout on Wednesday: Here\u2019s how much they\u2019ll earn - Finbold",
-            "sentiment": "POSITIVE",
-            "score": 0.9032303094863892,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation - The Hacker News",
             "sentiment": "NEGATIVE",
             "score": 0.8637068867683411,
@@ -265,41 +353,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "San Diego County issues health warning over recalled cheese - NBC 7 San Diego",
-            "sentiment": "NEGATIVE",
-            "score": 0.8542278409004211,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Average gas price in Los Angeles County approaches all-time record high - ABC7 Los Angeles",
-            "sentiment": "POSITIVE",
-            "score": 0.7998241782188416,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "New Mexico jury finds Facebook liable for over 43 million violations of consumer protection law - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9167038798332214,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
