@@ -1,76 +1,172 @@
 {
-    "last_updated": "2026-09-30 12:50:51 UTC",
-    "total_articles": 20,
-    "bullish_articles": 2,
-    "bearish_articles": 18,
+    "last_updated": "2026-09-30 15:36:04 UTC",
+    "total_articles": 25,
+    "bullish_articles": 8,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "UK tries to stop Trump's diesel export ban - bbc.com",
+            "title": "U.S. Consumer Confidence Fell in September Amid Elevated Oil Prices, Inflation Worries, Conference Board Says - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.783447802066803,
+            "score": 0.9666529893875122,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "From motorcycles to booze, US ban on $1 billion worth of Canadian imports goes into effect - apnews.com",
+            "title": "Job openings and hiring hold steady as 'low hire, low fire' market drags on - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9588173031806946,
+            "score": 0.9654693603515625,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI scraps release of latest AI model over safety concerns - Al Jazeera",
-            "sentiment": "NEGATIVE",
-            "score": 0.959070086479187,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AI Faces $6 Trillion Test to Justify Data Centers, Bain Says - Bloomberg.com",
+            "title": "Meta is expanding its AI agent Muse to small businesses - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.8186526894569397,
+            "score": 0.7150241732597351,
+            "signal": "BULLISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8827136754989624,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Gov. Kemp declares state of emergency, suspends state\u2019s gas tax - 95.5 WSB",
+            "title": "Fair Isaac Tanks After Government Snaps FICO Score Monopoly For Mortgage Pricing - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.7866019606590271,
+            "score": 0.972913384437561,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Three Seattle Starbucks locations closing, including one 8-month old Ballard location - MyNorthwest.com",
+            "title": "Stock Market Today: Dow Rises As Oil Prices, Treasury Yields Fall; Nvidia Stock Hits Buy Point (Live Coverage) - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9558882117271423,
+            "score": 0.9338775277137756,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Alaska Airlines unveils massive premium cabin overhaul in high-end travel race - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8393275737762451,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Madison Starbucks among more than 250 closing nationwide - Wisconsin State Journal",
+            "sentiment": "NEGATIVE",
+            "score": 0.957014799118042,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Vail Resorts\u2019 Ski Pass Sales Tumble, Signaling Another Tough Winter Ahead - WSJ",
+            "title": "UniQure\u2019s gene therapy continues to slow Huntington\u2019s progression after four years - STAT",
             "sentiment": "NEGATIVE",
-            "score": 0.9556311964988708,
+            "score": 0.8909436464309692,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "US Treasury threatens crackdown on Wall Street tax-avoidance strategies - Financial Times",
+            "title": "Shell backs $23 billion LNG Canada expansion in boost to Carney's \u2018energy superpower\u2019 push - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9410736560821533,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AI agents threaten banks\u2019 cash cows - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.7242949604988098,
+            "score": 0.8716068267822266,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil Prices Rise as U.S.-Iran Talks Remain Uncertain - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9447287917137146,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Treasury yields waver near multiyear highs - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9261611104011536,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla Sell Off - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9725245833396912,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "New York Unemployment System to shut down for up to 12 days during major upgrade - WGRZ",
+            "sentiment": "NEGATIVE",
+            "score": 0.8626576662063599,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why a diesel export ban could send California gas prices soaring - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9191156625747681,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -86,18 +182,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "U.S. Stocks Slide as Treasury Selloff Deepens - WSJ",
+            "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8974034786224365,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says - cnbc.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9259409308433533,
+            "score": 0.9214880466461182,
             "signal": "BEARISH",
             "tickers": [
                 "BA"
@@ -112,21 +199,13 @@
             ]
         },
         {
-            "title": "Ben Smith Accuses Bob Chapek of Overstating Iger Email That Exposed Disney Power Struggle - WDW News Today",
-            "sentiment": "NEGATIVE",
-            "score": 0.7904342412948608,
-            "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Kodiak Stock Gains 183% as New Eye Drugs Take Aim at Regeneron\u2019s Eylea - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9412000179290771,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "FDA Announces Nationwide Cheese Recall\u2014Products Linked to Multistate E. Coli Outbreak - health.com",
@@ -136,23 +215,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "MongoDB Stock Sinks 20% as CEO Departs for Meta. \u2018Real Shocker,\u2019 Says Analyst. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9647738337516785,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Meta stock falls as OpenAI \u2019o\u2019 agent threatens historic rally - Yahoo Finance",
@@ -168,6 +230,23 @@
                     "ticker": "META",
                     "impact": "negative",
                     "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "\"Window for action may close\" if AI begins improving itself, AI pioneers warn - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.8492773771286011,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -193,32 +272,6 @@
             "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government - WIRED",
             "sentiment": "NEGATIVE",
             "score": 0.9393039345741272,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Merck, Daiichi pull lung cancer filing after FDA pushback deals another blow to $4B deal - Fierce Biotech",
-            "sentiment": "NEGATIVE",
-            "score": 0.964891791343689,
-            "signal": "BEARISH",
-            "tickers": [
-                "ADC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "ADC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "High airfares could stick around even if jet fuel prices fall - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8876822590827942,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
