@@ -1,22 +1,48 @@
 {
-    "last_updated": "2026-09-30 18:40:00 UTC",
-    "total_articles": 25,
-    "bullish_articles": 7,
-    "bearish_articles": 18,
+    "last_updated": "2026-09-30 21:33:29 UTC",
+    "total_articles": 23,
+    "bullish_articles": 4,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "Stock Market Today: Major Indexes Decline as Treasury Yields Rise Further; Oil Prices Slip - Investopedia",
+            "title": "OpenAI hit with landmark lawsuit following Hugging Face hack - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.9742144346237183,
+            "score": 0.8597601056098938,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Disney Hit By Layoffs In Multiple Areas, Hundreds Impacted - Deadline",
+            "title": "Goldman Sachs CEO succession planning faces one big problem - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9720607399940491,
+            "score": 0.7400064468383789,
+            "signal": "BEARISH",
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S. - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8384270071983337,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Disney laying off around 300 employees in latest cuts under new CEO Josh D'Amaro - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9692202210426331,
             "signal": "BEARISH",
             "tickers": [
                 "DIS"
@@ -31,6 +57,33 @@
             ]
         },
         {
+            "title": "Tech bull Dan Ives flags 'shocker risk' in Anthropic's IPO leak - finance.yahoo.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9125528335571289,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI Cancels Upcoming AI Model When It Shows Signs of Being Evil - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.9638177752494812,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Fair Isaac Tanks After Government Snaps FICO Score Monopoly For Mortgage Pricing - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9728869795799255,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "U.S. Consumer Confidence Fell in September Amid Elevated Oil Prices, Inflation Worries, Conference Board Says - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.9666529893875122,
@@ -40,27 +93,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay - cnbc.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7582241892814636,
-            "signal": "BEARISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Oura shelves its $2.2B IPO, citing \u2018uncertainty\u2019 in the market - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9449926614761353,
-            "signal": "BEARISH",
+            "title": "OpenAI revenue run rate nears $70 billion as AI IPO race heats up - finance.yahoo.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9469571709632874,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -75,63 +111,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI\u2019s Annualized Revenue Nears $70 Billion, Axios Says - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9519102573394775,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Job openings and hiring hold steady as 'low hire, low fire' market drags on - Yahoo Finance",
+            "title": "Popular blood pressure drug recalled over dissolution issues - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9654693603515625,
+            "score": 0.8537845015525818,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Meta is expanding its AI agent Muse to small businesses - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.7150241732597351,
-            "signal": "BULLISH",
+            "title": "uniQure stock crashes as Huntington\u2019s gene therapy data weaken - Fierce Biotech",
+            "sentiment": "NEGATIVE",
+            "score": 0.8979384899139404,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\"Window for action may close\" if AI begins improving itself, AI pioneers warn - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.8492773771286011,
+            "signal": "BEARISH",
             "tickers": [
-                "META"
+                "INTC"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "high"
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Fair Isaac Tanks After Government Snaps FICO Score Monopoly For Mortgage Pricing - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.972913384437561,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Alaska to bring lie-flat seats, new premium class to tap high-end travelers - The Seattle Times",
+            "title": "Alaska Airlines unveils massive premium cabin overhaul in high-end travel race - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8965436816215515,
+            "score": 0.8393275737762451,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "UniQure\u2019s gene therapy continues to slow Huntington\u2019s progression after four years - STAT",
-            "sentiment": "NEGATIVE",
-            "score": 0.8909436464309692,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -164,44 +182,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI delays latest model over security concerns, as industry faces new safety pressures - AP News",
+            "title": "Vail Resorts\u2019 Ski Pass Sales Tumble, Signaling Another Tough Winter Ahead - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9498520493507385,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Riders removed from COTALAND roller coaster after 'operational stop' on opening weekend - KEYE",
-            "sentiment": "NEGATIVE",
-            "score": 0.9348998665809631,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Three Seattle Starbucks locations closing, including one 8-month old Ballard location - MyNorthwest.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9558882117271423,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US Treasury threatens crackdown on Wall Street tax-avoidance strategies - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.7242949604988098,
+            "score": 0.9556311964988708,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -217,56 +200,39 @@
             "ticker_impacts": []
         },
         {
-            "title": "Kodiak Stock Gains 183% as New Eye Drugs Take Aim at Regeneron\u2019s Eylea - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9412000179290771,
-            "signal": "BULLISH",
+            "title": "Brian Kemp suspends Georgia\u2019s gas tax as Iran war squeezes drivers - The Atlanta Journal-Constitution",
+            "sentiment": "NEGATIVE",
+            "score": 0.8585495948791504,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Meta stock falls as OpenAI \u2019o\u2019 agent threatens historic rally - Yahoo Finance",
+            "title": "Starbucks just closed 250 stores. In Oregon, 5 shut down \u2014 including a union pioneer - OregonLive.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9743036031723022,
+            "score": 0.8938088417053223,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Boeing slides 6% as FAA halts Max 10 cert, 31% of undelivered orders at risk - finance.yahoo.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9748178720474243,
             "signal": "BEARISH",
             "tickers": [
-                "META"
+                "BA"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": "BA",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "BA",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "\"Window for action may close\" if AI begins improving itself, AI pioneers warn - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.8492773771286011,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "AbbVie's Cerevel buyout delivers as FDA gives go-ahead to 1st-in-class Juvmo in Parkinson's disease - fiercepharma.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9012351036071777,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Gold and silver prices fall sharply as higher bond yields weigh on metals - cnbc.com",
