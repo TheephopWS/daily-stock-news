@@ -1,14 +1,84 @@
 {
-    "last_updated": "2026-09-30 15:36:04 UTC",
+    "last_updated": "2026-09-30 18:40:00 UTC",
     "total_articles": 25,
-    "bullish_articles": 8,
-    "bearish_articles": 17,
+    "bullish_articles": 7,
+    "bearish_articles": 18,
     "articles": [
+        {
+            "title": "Stock Market Today: Major Indexes Decline as Treasury Yields Rise Further; Oil Prices Slip - Investopedia",
+            "sentiment": "NEGATIVE",
+            "score": 0.9742144346237183,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Disney Hit By Layoffs In Multiple Areas, Hundreds Impacted - Deadline",
+            "sentiment": "NEGATIVE",
+            "score": 0.9720607399940491,
+            "signal": "BEARISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "U.S. Consumer Confidence Fell in September Amid Elevated Oil Prices, Inflation Worries, Conference Board Says - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.9666529893875122,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay - cnbc.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.7582241892814636,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Oura shelves its $2.2B IPO, citing \u2018uncertainty\u2019 in the market - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9449926614761353,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "'Vacations are sacrosanct': Carnival stock surges on record quarter, healthy cruise demand - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9556600451469421,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI\u2019s Annualized Revenue Nears $70 Billion, Axios Says - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9519102573394775,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -40,15 +110,6 @@
             ]
         },
         {
-            "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8827136754989624,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Fair Isaac Tanks After Government Snaps FICO Score Monopoly For Mortgage Pricing - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.972913384437561,
@@ -58,36 +119,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Dow Rises As Oil Prices, Treasury Yields Fall; Nvidia Stock Hits Buy Point (Live Coverage) - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9338775277137756,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Alaska Airlines unveils massive premium cabin overhaul in high-end travel race - CNBC",
+            "title": "Alaska to bring lie-flat seats, new premium class to tap high-end travelers - The Seattle Times",
             "sentiment": "POSITIVE",
-            "score": 0.8393275737762451,
+            "score": 0.8965436816215515,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Madison Starbucks among more than 250 closing nationwide - Wisconsin State Journal",
-            "sentiment": "NEGATIVE",
-            "score": 0.957014799118042,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -111,6 +146,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Democrat Pete Buttigieg criticizes Trump's rollback of fuel-economy standards - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.9624749422073364,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "AI agents threaten banks\u2019 cash cows - Politico",
             "sentiment": "NEGATIVE",
             "score": 0.8716068267822266,
@@ -120,53 +164,44 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil Prices Rise as U.S.-Iran Talks Remain Uncertain - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9447287917137146,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Treasury yields waver near multiyear highs - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9261611104011536,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla Sell Off - Investor's Business Daily",
+            "title": "OpenAI delays latest model over security concerns, as industry faces new safety pressures - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9725245833396912,
+            "score": 0.9498520493507385,
             "signal": "BEARISH",
             "tickers": [
-                "TSLA"
+                "INTC"
             ],
-            "primary_ticker": "TSLA",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "TSLA",
+                    "ticker": "INTC",
                     "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "New York Unemployment System to shut down for up to 12 days during major upgrade - WGRZ",
+            "title": "Riders removed from COTALAND roller coaster after 'operational stop' on opening weekend - KEYE",
             "sentiment": "NEGATIVE",
-            "score": 0.8626576662063599,
+            "score": 0.9348998665809631,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Why a diesel export ban could send California gas prices soaring - Politico",
+            "title": "Three Seattle Starbucks locations closing, including one 8-month old Ballard location - MyNorthwest.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9191156625747681,
+            "score": 0.9558882117271423,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US Treasury threatens crackdown on Wall Street tax-avoidance strategies - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.7242949604988098,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -182,36 +217,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9214880466461182,
-            "signal": "BEARISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Kodiak Stock Gains 183% as New Eye Drugs Take Aim at Regeneron\u2019s Eylea - Barron's",
             "sentiment": "POSITIVE",
             "score": 0.9412000179290771,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FDA Announces Nationwide Cheese Recall\u2014Products Linked to Multistate E. Coli Outbreak - health.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.817247211933136,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -251,15 +260,6 @@
             ]
         },
         {
-            "title": "Why are Gold Futures sliding today? - Investing.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8242655992507935,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "AbbVie's Cerevel buyout delivers as FDA gives go-ahead to 1st-in-class Juvmo in Parkinson's disease - fiercepharma.com",
             "sentiment": "POSITIVE",
             "score": 0.9012351036071777,
@@ -269,13 +269,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government - WIRED",
+            "title": "Gold and silver prices fall sharply as higher bond yields weigh on metals - cnbc.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9393039345741272,
+            "score": 0.9755955934524536,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
