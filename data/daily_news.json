@@ -1,9 +1,45 @@
 {
-    "last_updated": "2026-10-03 06:56:37 UTC",
-    "total_articles": 27,
-    "bullish_articles": 9,
+    "last_updated": "2026-10-03 09:33:38 UTC",
+    "total_articles": 29,
+    "bullish_articles": 11,
     "bearish_articles": 18,
     "articles": [
+        {
+            "title": "Nike shares plummet 10% after weak revenue outlook and layoff plans underway - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.975837767124176,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721% - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9332593083381653,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI fires workers for 'mishandling sensitive information' - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9232649207115173,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Asia stocks mixed ahead of U.S. jobs data; Hong Kong shares drop 3% - Investing.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9652966260910034,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Boeing engineers, tech workers approve contract, avoid strike - KOMO",
             "sentiment": "NEGATIVE",
@@ -22,27 +58,9 @@
             ]
         },
         {
-            "title": "OpenAI fires three workers over mishandling 'sensitive information' - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9481828808784485,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Paramount-WBD Deal Architect Gerry Cardinale Says Most Of $6B In Expected Cost Savings Will Not Be Layoffs - Deadline",
             "sentiment": "NEGATIVE",
             "score": 0.7868297696113586,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Friday's big stock stories: What\u2019s likely to move the market in the next trading session - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8371191024780273,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -53,15 +71,6 @@
             "sentiment": "POSITIVE",
             "score": 0.7694603800773621,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nike stock sinks as revenue misses estimates, expects to cut jobs - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9710862040519714,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -93,10 +102,10 @@
             ]
         },
         {
-            "title": "S&P 500 futures are little changed as September jobs report looms: Live updates - cnbc.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9588932394981384,
-            "signal": "BEARISH",
+            "title": "Exclusive | Barbie-Maker Mattel Draws Takeover Interest From Authentic Brands Group - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.942356526851654,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -111,6 +120,29 @@
             "ticker_impacts": []
         },
         {
+            "title": "Will Google Turn The Tables In AI Race? Wall Street Reacts To Gemini 4. - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9424330592155457,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL",
+                "INTC"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Trump could target three Fed governors. Removing them may be harder than it looks - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.8368567824363708,
@@ -120,13 +152,44 @@
             "ticker_impacts": []
         },
         {
-            "title": "US mortgage rates jump the most in four years in blow to housing market - ft.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9585959315299988,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "Synopsys Is the Top Stock in the Nasdaq 100 Today. Here\u2019s Why. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9324245452880859,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC",
+                "AMZN"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Dana Walden Addresses Disney Layoffs: \u201cTechnology Set Their Sights On Our Business\u201d - deadline.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9314837455749512,
+            "signal": "BEARISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Outdoors retailer files Chapter 11 after 80 stores closed in 2026 - thestreet.com",
@@ -138,9 +201,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026 - TechPowerUp",
+            "title": "Why U.S. Bonds Are Bouncing Back Today - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.7050586342811584,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Starbucks closes 3 Missouri locations, including 2 in St. Louis area - FOX 2",
             "sentiment": "NEGATIVE",
-            "score": 0.7639791369438171,
+            "score": 0.795369565486908,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mortgage Rates Surge, Notching Largest Weekly Gain in Four Years - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.901370108127594,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Micron stock dips after earnings despite answer to analyst's key question - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9582895636558533,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -165,57 +255,31 @@
             "ticker_impacts": []
         },
         {
-            "title": "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says - CNBC",
+            "title": "Futures Rise, S&P 500 Finds Key Support; Micron Crushes Views - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.7012671828269958,
+            "score": 0.7371304631233215,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Mike Rowe warns US workforce facing \u2018problem of the decade\u2019 - Fox Business",
+            "title": "Trump Says Inflation Could Pay Down the Debt \u2018Very Rapidly\u2019 - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9550137519836426,
+            "score": 0.8964453339576721,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Egg prices have tumbled since Trump returned to office. Here's why - NPR",
+            "title": "Pat's King of Steaks owner wants justice after cheesesteak assault caught on video - 6abc Philadelphia",
             "sentiment": "NEGATIVE",
-            "score": 0.9629634022712708,
+            "score": 0.7501865029335022,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Treasury yields fall from multiyear highs - cnbc.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7005195021629333,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Google Unveils New AI Model Gemini 4 Argon, Sending Alphabet Stock Higher - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.902496874332428,
-            "signal": "BULLISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "AI training of copyrighted material not fair use: Third Circuit - Courthouse News",
@@ -245,35 +309,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta's Muse tops 5 million downloads, faster than ChatGPT, Claude - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8826395273208618,
-            "signal": "BULLISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Trump's latest global tariffs face trade court challenge - CNBC",
+            "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9071041345596313,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Six Flags retires X2 roller coaster after multiple lawsuits allege traumatic brain injuries - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9497018456459045,
+            "score": 0.9368104934692383,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
