@@ -1,13 +1,30 @@
 {
-    "last_updated": "2026-10-03 09:33:38 UTC",
-    "total_articles": 29,
+    "last_updated": "2026-10-03 14:07:05 UTC",
+    "total_articles": 28,
     "bullish_articles": 11,
-    "bearish_articles": 18,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "Nike shares plummet 10% after weak revenue outlook and layoff plans underway - CNBC",
+            "title": "Leaked Anthropic IPO prospectus: The US government could hurt our business - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.975837767124176,
+            "score": 0.9346699118614197,
+            "signal": "BEARISH",
+            "tickers": [
+                "ANTH"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "ANTH",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Nike warning hits stocks prices of Lululemon, On, Under Armour and Hoku maker Deckers Outdoor - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.965477466583252,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,8 +33,17 @@
         {
             "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721% - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9332593083381653,
+            "score": 0.9332594275474548,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "What to expect from today\u2019s jobs report - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.971413791179657,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -25,34 +51,40 @@
         {
             "title": "OpenAI fires workers for 'mishandling sensitive information' - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9232649207115173,
+            "score": 0.9232648611068726,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Asia stocks mixed ahead of U.S. jobs data; Hong Kong shares drop 3% - Investing.com",
+            "title": "Treasury yields hold flat as investors await key jobs report - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9652966260910034,
+            "score": 0.9729966521263123,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Boeing engineers, tech workers approve contract, avoid strike - KOMO",
-            "sentiment": "NEGATIVE",
-            "score": 0.8760960102081299,
-            "signal": "BEARISH",
+            "title": "Amazon seeks to offload $8bn of Nvidia chips to investors - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.9476200938224792,
+            "signal": "BULLISH",
             "tickers": [
-                "BA"
+                "AMZN",
+                "NVDA"
             ],
-            "primary_ticker": "BA",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "BA",
-                    "impact": "negative",
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
@@ -60,17 +92,8 @@
         {
             "title": "Paramount-WBD Deal Architect Gerry Cardinale Says Most Of $6B In Expected Cost Savings Will Not Be Layoffs - Deadline",
             "sentiment": "NEGATIVE",
-            "score": 0.7868297696113586,
+            "score": 0.7868294715881348,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US presses Europe to release 'immediately' diesel reserves as Trump threatens export ban - France 24",
-            "sentiment": "POSITIVE",
-            "score": 0.7694603800773621,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -78,7 +101,7 @@
         {
             "title": "Medicare Advantage plans shift more costs onto seniors in 2027 - STAT",
             "sentiment": "POSITIVE",
-            "score": 0.8037667870521545,
+            "score": 0.8037664294242859,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -87,7 +110,7 @@
         {
             "title": "Amazon locks in nuclear power for 20 years as energy demand surges - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.8182917237281799,
+            "score": 0.8182917833328247,
             "signal": "BULLISH",
             "tickers": [
                 "AMZN"
@@ -104,7 +127,7 @@
         {
             "title": "Exclusive | Barbie-Maker Mattel Draws Takeover Interest From Authentic Brands Group - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.942356526851654,
+            "score": 0.9423566460609436,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -122,7 +145,7 @@
         {
             "title": "Will Google Turn The Tables In AI Race? Wall Street Reacts To Gemini 4. - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9424330592155457,
+            "score": 0.9424329400062561,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL",
@@ -145,7 +168,7 @@
         {
             "title": "Trump could target three Fed governors. Removing them may be harder than it looks - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8368567824363708,
+            "score": 0.8368573784828186,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -157,18 +180,18 @@
             "score": 0.9324245452880859,
             "signal": "BULLISH",
             "tickers": [
-                "INTC",
-                "AMZN"
+                "AMZN",
+                "INTC"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -177,7 +200,7 @@
         {
             "title": "Dana Walden Addresses Disney Layoffs: \u201cTechnology Set Their Sights On Our Business\u201d - deadline.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9314837455749512,
+            "score": 0.931483805179596,
             "signal": "BEARISH",
             "tickers": [
                 "DIS"
@@ -203,7 +226,7 @@
         {
             "title": "Why U.S. Bonds Are Bouncing Back Today - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.7050586342811584,
+            "score": 0.7050581574440002,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -212,7 +235,7 @@
         {
             "title": "Starbucks closes 3 Missouri locations, including 2 in St. Louis area - FOX 2",
             "sentiment": "NEGATIVE",
-            "score": 0.795369565486908,
+            "score": 0.9180487394332886,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -221,17 +244,8 @@
         {
             "title": "Mortgage Rates Surge, Notching Largest Weekly Gain in Four Years - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.901370108127594,
+            "score": 0.9013702869415283,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Micron stock dips after earnings despite answer to analyst's key question - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9582895636558533,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -239,7 +253,16 @@
         {
             "title": "Elon Musk Slashes Starship Launch Schedule For Next Year - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9574621915817261,
+            "score": 0.9574623107910156,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Foghorn lays off 40% of employees as Lilly cancer collab collapses over poor data - Fierce Biotech",
+            "sentiment": "NEGATIVE",
+            "score": 0.9712488055229187,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -257,7 +280,7 @@
         {
             "title": "Futures Rise, S&P 500 Finds Key Support; Micron Crushes Views - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.7371304631233215,
+            "score": 0.7371310591697693,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -266,7 +289,7 @@
         {
             "title": "Trump Says Inflation Could Pay Down the Debt \u2018Very Rapidly\u2019 - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8964453339576721,
+            "score": 0.8964455127716064,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -275,16 +298,16 @@
         {
             "title": "Pat's King of Steaks owner wants justice after cheesesteak assault caught on video - 6abc Philadelphia",
             "sentiment": "NEGATIVE",
-            "score": 0.7501865029335022,
+            "score": 0.7501859664916992,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "AI training of copyrighted material not fair use: Third Circuit - Courthouse News",
+            "title": "Ford CEO sounds skilled-worker alarm as young technicians tout less debt, job security - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8221322298049927,
+            "score": 0.8141841292381287,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -295,24 +318,6 @@
             "sentiment": "POSITIVE",
             "score": 0.8263037204742432,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US oil industry warns diesel prices will not return to normal for a year - ft.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9171848297119141,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9368104934692383,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
