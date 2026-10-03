@@ -1,13 +1,57 @@
 {
-    "last_updated": "2026-10-03 14:07:05 UTC",
-    "total_articles": 28,
-    "bullish_articles": 11,
-    "bearish_articles": 17,
+    "last_updated": "2026-10-03 16:45:15 UTC",
+    "total_articles": 29,
+    "bullish_articles": 10,
+    "bearish_articles": 19,
     "articles": [
+        {
+            "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9749351143836975,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tesla Is Winning the New EV Race. Here\u2019s How. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.7063984870910645,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Dow jumps 400 points after weak jobs data sends yields tumbling: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.963424026966095,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Western Digital, Seagate Stock Slide On AI Hard-Drive Competition Report - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9727044701576233,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Leaked Anthropic IPO prospectus: The US government could hurt our business - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9346699118614197,
+            "score": 0.9346697926521301,
             "signal": "BEARISH",
             "tickers": [
                 "ANTH"
@@ -40,18 +84,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "What to expect from today\u2019s jobs report - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.971413791179657,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "OpenAI fires workers for 'mishandling sensitive information' - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9232648611068726,
+            "score": 0.9232649207115173,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -67,33 +102,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Amazon seeks to offload $8bn of Nvidia chips to investors - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9476200938224792,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN",
-                "NVDA"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Paramount-WBD Deal Architect Gerry Cardinale Says Most Of $6B In Expected Cost Savings Will Not Be Layoffs - Deadline",
             "sentiment": "NEGATIVE",
-            "score": 0.7868294715881348,
+            "score": 0.7868293523788452,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Heating oil prices in New York State jump nearly 70% ahead of winter - NEWS10 ABC",
+            "sentiment": "POSITIVE",
+            "score": 0.9351320862770081,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -101,7 +122,7 @@
         {
             "title": "Medicare Advantage plans shift more costs onto seniors in 2027 - STAT",
             "sentiment": "POSITIVE",
-            "score": 0.8037664294242859,
+            "score": 0.8037664890289307,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -110,7 +131,7 @@
         {
             "title": "Amazon locks in nuclear power for 20 years as energy demand surges - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.8182917833328247,
+            "score": 0.8182919025421143,
             "signal": "BULLISH",
             "tickers": [
                 "AMZN"
@@ -180,22 +201,31 @@
             "score": 0.9324245452880859,
             "signal": "BULLISH",
             "tickers": [
-                "AMZN",
-                "INTC"
+                "INTC",
+                "AMZN"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "AMZN",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "US mortgage rates jump the most in four years in blow to housing market - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9597330093383789,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Dana Walden Addresses Disney Layoffs: \u201cTechnology Set Their Sights On Our Business\u201d - deadline.com",
@@ -215,9 +245,18 @@
             ]
         },
         {
+            "title": "Suspect in Pat\u2019s cheesesteak-throwing incident has turned himself in, reports say - Inquirer.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8626706004142761,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Outdoors retailer files Chapter 11 after 80 stores closed in 2026 - thestreet.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8672952651977539,
+            "score": 0.86729496717453,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -226,7 +265,7 @@
         {
             "title": "Why U.S. Bonds Are Bouncing Back Today - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.7050581574440002,
+            "score": 0.7050589323043823,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -237,15 +276,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9180487394332886,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mortgage Rates Surge, Notching Largest Weekly Gain in Four Years - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9013702869415283,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -269,18 +299,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Angry Bondholders Flood Wall Street With Complaints on Paramount Losses - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9496296048164368,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Futures Rise, S&P 500 Finds Key Support; Micron Crushes Views - Investor's Business Daily",
+            "title": "Retail investors are aggressively piling into this bold contrarian bet through one ETF - MarketWatch",
             "sentiment": "POSITIVE",
-            "score": 0.7371310591697693,
+            "score": 0.7867271900177002,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -289,25 +310,7 @@
         {
             "title": "Trump Says Inflation Could Pay Down the Debt \u2018Very Rapidly\u2019 - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8964455127716064,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Pat's King of Steaks owner wants justice after cheesesteak assault caught on video - 6abc Philadelphia",
-            "sentiment": "NEGATIVE",
-            "score": 0.7501859664916992,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Ford CEO sounds skilled-worker alarm as young technicians tout less debt, job security - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.8141841292381287,
+            "score": 0.8964455723762512,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -316,7 +319,7 @@
         {
             "title": "Persian Gulf crude oil flows have largely recovered. For diesel and gasoline, it's more complicated. - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8263037204742432,
+            "score": 0.826304018497467,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
