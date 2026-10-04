@@ -1,7 +1,7 @@
 {
-    "last_updated": "2026-10-04 04:51:09 UTC",
-    "total_articles": 24,
-    "bullish_articles": 5,
+    "last_updated": "2026-10-04 08:29:06 UTC",
+    "total_articles": 25,
+    "bullish_articles": 6,
     "bearish_articles": 19,
     "articles": [
         {
@@ -34,7 +34,7 @@
         {
             "title": "Amazon\u2019s $1B plan to combat data center backlash draws more backlash - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.7567453980445862,
+            "score": 0.7567457556724548,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN"
@@ -51,8 +51,17 @@
         {
             "title": "DOJ will not reopen criminal probe of Powell, Blanche says - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.72532057762146,
+            "score": 0.7253207564353943,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US Stock Futures Advance Ahead of September Payrolls Data - bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8212454319000244,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -78,7 +87,7 @@
         {
             "title": "SDG&E begins power shutoffs amid extreme heat, Santa Ana winds - fox5sandiego.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9130572080612183,
+            "score": 0.9130570888519287,
             "signal": "BEARISH",
             "tickers": [
                 "FOX"
@@ -120,10 +129,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "AI-Fueled Earnings Keep Climbing: 3 Top Stocks With Bullish EPS Revisions - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.8904217481613159,
-            "signal": "BULLISH",
+            "title": "Micron Stock Wobbles on Chip Cycle and Margin Worries. Two More Reasons to Fret. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.8907507658004761,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -131,11 +140,28 @@
         {
             "title": "High Gas Prices Push Drivers Away From Big Trucks, SUVs - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.7892816066741943,
+            "score": 0.7892813682556152,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3 - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.9157193303108215,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Men are losing ground in the labor market. Here's why - CNBC",
@@ -147,6 +173,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Trump threatens to 'charge' Korea 'more' if it rejects Alaska LNG project - The Korea Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.8281422257423401,
+            "signal": "BEARISH",
+            "tickers": [
+                "L"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "L",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Three reasons Middle East oil is nearly back to pre-Iran war levels - BBC",
             "sentiment": "POSITIVE",
             "score": 0.9514445662498474,
@@ -154,23 +197,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Tesla Is Winning the New EV Race. Here\u2019s How. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.7063993215560913,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter - CNBC",
@@ -182,26 +208,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dow Jones Futures Rise, Oil Prices Tumble With Tesla, Jobs Due; Nike, Seagate, Western Digital Are Big Losers - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9558559656143188,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Leaked Anthropic IPO prospectus: The US government could hurt our business - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9346699118614197,
+            "score": 0.9346697926521301,
             "signal": "BEARISH",
             "tickers": [
                 "ANTH"
@@ -218,16 +227,7 @@
         {
             "title": "Maryland becomes first state to ban dynamic pricing in grocery stores - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8937715291976929,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nike CEO Warns of New Layoffs Next Year Amid Changing Operating Model - wwd.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.962639570236206,
+            "score": 0.8937716484069824,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -236,7 +236,16 @@
         {
             "title": "Mortgage rates approach 3-year high as new applications plunge - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.9361129403114319,
+            "score": 0.9361128211021423,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "New $350 IHG One Rewards Premier Select Card: 200K Bonus Points, Strong Perks - One Mile at a Time",
+            "sentiment": "POSITIVE",
+            "score": 0.7150062322616577,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -245,7 +254,7 @@
         {
             "title": "Starbucks closes 3 Missouri locations, including 2 in St. Louis area - FOX 2",
             "sentiment": "NEGATIVE",
-            "score": 0.7953692674636841,
+            "score": 0.795369565486908,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -254,7 +263,7 @@
         {
             "title": "10-year Treasury yield posts biggest monthly gain since 2022: Chart of the Day - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9720126390457153,
+            "score": 0.9720125198364258,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
