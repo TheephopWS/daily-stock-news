@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-10-04 01:39:07 UTC",
-    "total_articles": 30,
-    "bullish_articles": 8,
-    "bearish_articles": 22,
+    "last_updated": "2026-10-04 04:51:09 UTC",
+    "total_articles": 24,
+    "bullish_articles": 5,
+    "bearish_articles": 19,
     "articles": [
+        {
+            "title": "OpenAI safety leader David Robinson resigns as the team's upheaval mounts - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.8668469786643982,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Seagate Stock and Western Digital Tumble as Investors Worry AI Shortage Will Ease - Barron's",
             "sentiment": "NEGATIVE",
@@ -14,37 +23,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "Another disappointing jobs report suggests more challenges for Trump, GOP - The Washington Post",
+            "title": "Pool supplies retailer files for bankruptcy, to close 76 stores - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.859289824962616,
+            "score": 0.9520005583763123,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Pool supplies retailer files for bankruptcy, to close 76 stores - Fox Business",
+            "title": "Amazon\u2019s $1B plan to combat data center backlash draws more backlash - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.9520006775856018,
+            "score": 0.7567453980445862,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "DOJ will not reopen criminal probe of Powell, Blanche says - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.7253206968307495,
+            "score": 0.72532057762146,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Supermarket voted best grocery store in America as customers praise variety of offerings - New York Post",
-            "sentiment": "POSITIVE",
-            "score": 0.9109362363815308,
-            "signal": "BULLISH",
+            "title": "U.S. labor market slows with midterms on the horizon - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.972016453742981,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -61,7 +78,7 @@
         {
             "title": "SDG&E begins power shutoffs amid extreme heat, Santa Ana winds - fox5sandiego.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9130570888519287,
+            "score": 0.9130572080612183,
             "signal": "BEARISH",
             "tickers": [
                 "FOX"
@@ -85,9 +102,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "UnitedHealth and Humana cutting Medicare Advantage plans in 2027 - qz.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9679620862007141,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Rivian\u2019s sales pop as the company\u2019s big R2 bet starts to pay off - The Verge",
             "sentiment": "POSITIVE",
-            "score": 0.9558888077735901,
+            "score": 0.9558887481689453,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -96,26 +122,8 @@
         {
             "title": "AI-Fueled Earnings Keep Climbing: 3 Top Stocks With Bullish EPS Revisions - Seeking Alpha",
             "sentiment": "POSITIVE",
-            "score": 0.8904215693473816,
+            "score": 0.8904217481613159,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Dated Brent Above $120 Signals a Serious Oil Squeeze - Crude Oil Prices Today | OilPrice.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9609955549240112,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Micron Stock Wobbles on Chip Cycle and Margin Worries. Two More Reasons to Fret. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.8907509446144104,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -123,28 +131,11 @@
         {
             "title": "High Gas Prices Push Drivers Away From Big Trucks, SUVs - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.7892815470695496,
+            "score": 0.7892816066741943,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3 - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.9157189130783081,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Men are losing ground in the labor market. Here's why - CNBC",
@@ -165,27 +156,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Global Credit Market Starts to Sputter as Jumbo Deals Drag - Bloomberg.com",
+            "title": "Tesla Is Winning the New EV Race. Here\u2019s How. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9528070092201233,
+            "score": 0.7063993215560913,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia stock hits new all-time high, market cap at $5.7 trillion - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9210206270217896,
-            "signal": "BULLISH",
             "tickers": [
-                "NVDA"
+                "TSLA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
-                    "impact": "positive",
+                    "ticker": "TSLA",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
@@ -200,27 +182,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dow jumps 400 points after weak jobs data sends yields tumbling: Live updates - CNBC",
+            "title": "Dow Jones Futures Rise, Oil Prices Tumble With Tesla, Jobs Due; Nike, Seagate, Western Digital Are Big Losers - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.963424026966095,
+            "score": 0.9558559656143188,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling - The Hacker News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9600455164909363,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Leaked Anthropic IPO prospectus: The US government could hurt our business - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9346697926521301,
+            "score": 0.9346699118614197,
             "signal": "BEARISH",
             "tickers": [
                 "ANTH"
@@ -235,55 +216,28 @@
             ]
         },
         {
-            "title": "France\u2019s Troubles Are Deepening as Investors Head for the Exit - bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9022198915481567,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721% - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9332594275474548,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Maryland becomes first state to ban dynamic pricing in grocery stores - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8937714099884033,
+            "score": 0.8937715291976929,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nike CEO Warns of New Layoffs Next Year Amid Changing Operating Model - WWD",
+            "title": "Nike CEO Warns of New Layoffs Next Year Amid Changing Operating Model - wwd.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9634224772453308,
+            "score": 0.962639570236206,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Medicare Advantage plans shift more costs onto seniors in 2027 - STAT",
+            "title": "Mortgage rates approach 3-year high as new applications plunge - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.8037664890289307,
+            "score": 0.9361129403114319,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Angry Bondholders Flood Wall Street With Complaints on Paramount Losses - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9496296644210815,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -291,7 +245,7 @@
         {
             "title": "Starbucks closes 3 Missouri locations, including 2 in St. Louis area - FOX 2",
             "sentiment": "NEGATIVE",
-            "score": 0.9180487394332886,
+            "score": 0.7953692674636841,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
