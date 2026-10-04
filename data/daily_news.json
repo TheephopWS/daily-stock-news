@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-10-04 08:29:06 UTC",
-    "total_articles": 25,
+    "last_updated": "2026-10-04 11:07:31 UTC",
+    "total_articles": 23,
     "bullish_articles": 6,
-    "bearish_articles": 19,
+    "bearish_articles": 17,
     "articles": [
+        {
+            "title": "FDA concludes investigation into Cyclospora outbreak tied to recalled Taylor Farms iceberg lettuce - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.8701350092887878,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally - apnews.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9249223470687866,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "OpenAI safety leader David Robinson resigns as the team's upheaval mounts - Business Insider",
             "sentiment": "NEGATIVE",
@@ -23,6 +41,29 @@
             "ticker_impacts": []
         },
         {
+            "title": "Stock Market Today: Nasdaq Leads Charge On Rate Hopes; Nvidia Hits Highs - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.8989840149879456,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "TSLA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Pool supplies retailer files for bankruptcy, to close 76 stores - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9520005583763123,
@@ -34,7 +75,7 @@
         {
             "title": "Amazon\u2019s $1B plan to combat data center backlash draws more backlash - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.7567457556724548,
+            "score": 0.7567453980445862,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN"
@@ -51,34 +92,33 @@
         {
             "title": "DOJ will not reopen criminal probe of Powell, Blanche says - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.7253207564353943,
+            "score": 0.72532057762146,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "US Stock Futures Advance Ahead of September Payrolls Data - bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8212454319000244,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. labor market slows with midterms on the horizon - NBC News",
+            "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.972016453742981,
+            "score": 0.8952164649963379,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Queens-founded Chip City shutters all stores amid legal dispute - Queens Daily Eagle",
+            "title": "Chip City abruptly closes all locations, including NYC stores, citing \u2018macro-economic headwinds\u2019 for closure - amNewYork",
             "sentiment": "NEGATIVE",
-            "score": 0.965286135673523,
+            "score": 0.9570057392120361,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -87,7 +127,7 @@
         {
             "title": "SDG&E begins power shutoffs amid extreme heat, Santa Ana winds - fox5sandiego.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9130570888519287,
+            "score": 0.9130572080612183,
             "signal": "BEARISH",
             "tickers": [
                 "FOX"
@@ -129,41 +169,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron Stock Wobbles on Chip Cycle and Margin Worries. Two More Reasons to Fret. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.8907507658004761,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "High Gas Prices Push Drivers Away From Big Trucks, SUVs - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.7892813682556152,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3 - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.9157193303108215,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Men are losing ground in the labor market. Here's why - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.953769862651825,
@@ -175,7 +180,7 @@
         {
             "title": "Trump threatens to 'charge' Korea 'more' if it rejects Alaska LNG project - The Korea Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8281422257423401,
+            "score": 0.8281424045562744,
             "signal": "BEARISH",
             "tickers": [
                 "L"
@@ -199,6 +204,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Tesla Is Winning the New EV Race. Here\u2019s How. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.7063993215560913,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9749351143836975,
@@ -208,26 +230,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Leaked Anthropic IPO prospectus: The US government could hurt our business - Yahoo Finance",
+            "title": "Memory maker warns shortages will get worse in 2027, as CEO celebrates \u2018much higher prices\u2019 - Video Games Chronicle",
             "sentiment": "NEGATIVE",
-            "score": 0.9346697926521301,
+            "score": 0.9355724453926086,
             "signal": "BEARISH",
-            "tickers": [
-                "ANTH"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "ANTH",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
-            "title": "Maryland becomes first state to ban dynamic pricing in grocery stores - The Washington Post",
+            "title": "Nike shares tumble after weak revenue outlook and layoff plans underway - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8937716484069824,
+            "score": 0.9745305776596069,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -236,16 +250,7 @@
         {
             "title": "Mortgage rates approach 3-year high as new applications plunge - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.9361128211021423,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "New $350 IHG One Rewards Premier Select Card: 200K Bonus Points, Strong Perks - One Mile at a Time",
-            "sentiment": "POSITIVE",
-            "score": 0.7150062322616577,
+            "score": 0.9361129403114319,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -254,16 +259,7 @@
         {
             "title": "Starbucks closes 3 Missouri locations, including 2 in St. Louis area - FOX 2",
             "sentiment": "NEGATIVE",
-            "score": 0.795369565486908,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "10-year Treasury yield posts biggest monthly gain since 2022: Chart of the Day - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9720125198364258,
+            "score": 0.9180487394332886,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
