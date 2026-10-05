@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-10-05 18:42:19 UTC",
-    "total_articles": 27,
-    "bullish_articles": 7,
-    "bearish_articles": 20,
+    "last_updated": "2026-10-05 21:33:01 UTC",
+    "total_articles": 21,
+    "bullish_articles": 5,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "Stores are reversing course on self-checkout. The internet reveals clues as to why - The Independent",
+            "sentiment": "NEGATIVE",
+            "score": 0.9549143314361572,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Kroger and Publix have a Costco problem they can\u2019t fix - thestreet.com",
             "sentiment": "NEGATIVE",
@@ -31,13 +40,33 @@
             ]
         },
         {
-            "title": "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8321573734283447,
-            "signal": "BULLISH",
-            "tickers": [],
+            "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9474192261695862,
+            "signal": "BEARISH",
+            "tickers": [
+                "META",
+                "GOOGL",
+                "AAPL"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks - Financial Times",
@@ -58,15 +87,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Farmers struggle to sell once-lucrative produce: \u2018Sickening\u2019 - Cleveland.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7169045805931091,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "China closes hundreds of banks to bolster financial system - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9716284871101379,
@@ -74,6 +94,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Middle East crude exports recover to near pre-war levels but oil products still lag, analysts say - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.9471485018730164,
+            "signal": "BULLISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer - Bloomberg.com",
@@ -93,6 +130,15 @@
             ]
         },
         {
+            "title": "Falling wages, soaring energy prices and inflation: It's beginning to look a lot like the 1970s - Morningstar",
+            "sentiment": "NEGATIVE",
+            "score": 0.8227297067642212,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Popular cookie chain abruptly closes all locations after years of rapid expansion - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.94886314868927,
@@ -105,15 +151,6 @@
             "title": "A $28 billion hemp THC industry is fighting to save itself from a looming federal ban - pbs.org",
             "sentiment": "NEGATIVE",
             "score": 0.7918339371681213,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9502107501029968,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -172,24 +209,6 @@
             ]
         },
         {
-            "title": "Bessent Downplays Worries on Rising Yields, AI Bubble Concerns - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.703254222869873,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices? - Al Jazeera",
-            "sentiment": "POSITIVE",
-            "score": 0.8343079090118408,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Ellison: Google\u2019s Pine Island data center could cost Minnesotans millions for electricity - MPR News",
             "sentiment": "NEGATIVE",
             "score": 0.8926383256912231,
@@ -225,6 +244,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "FDA identifies source of cyclospora outbreak linked to lettuce - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8955128192901611,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Last remaining Hooters location in Jacksonville permanently closes its doors - news4jax.com",
             "sentiment": "NEGATIVE",
             "score": 0.8763762712478638,
@@ -232,84 +260,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "What a hiring slowdown signals about the state of the U.S. economy - PBS",
-            "sentiment": "NEGATIVE",
-            "score": 0.9485977292060852,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Community Banks Swing Back at Trump Regulators Over Crypto Charters - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9012607336044312,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Amazon\u2019s $1B plan to combat data center backlash draws more backlash - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.7567457556724548,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "14 Jefferson County restaurants fail health inspections in September - WBRC 6 News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9454987645149231,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Google Accused of Illegally Killing a Massive Forest for Its New Data Center Project - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.9517120718955994,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "SDG&E begins power shutoffs amid extreme heat, Santa Ana winds - fox5sandiego.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9130570888519287,
-            "signal": "BEARISH",
-            "tickers": [
-                "FOX"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "FOX",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         }
     ]
 }
