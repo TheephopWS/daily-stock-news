@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-10-06 03:40:41 UTC",
-    "total_articles": 22,
-    "bullish_articles": 7,
+    "last_updated": "2026-10-06 06:52:36 UTC",
+    "total_articles": 20,
+    "bullish_articles": 5,
     "bearish_articles": 15,
     "articles": [
         {
+            "title": "They survived World War II and lost decades, but not 2026. Japan's century-old businesses are disappearing at a record pace - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9668095111846924,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Stock futures are flat as investors grapple with higher yields, await Fed minutes: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8999439477920532,
+            "score": 0.8999437689781189,
             "signal": "BEARISH",
             "tickers": [
                 "AAPL"
@@ -24,16 +33,16 @@
         {
             "title": "Asian Shares Rise as Fed Bets Ease, Bonds Edge Up: Markets Wrap - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.8734464049339294,
+            "score": 0.873447060585022,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Europe's Diesel Woes Just Got Even Worse - Crude Oil Prices Today | OilPrice.com",
+            "title": "Australian ban on new KPMG contracts still leaves room for $38.5M to flow to consulting firm - politico.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9736842513084412,
+            "score": 0.8657569885253906,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -42,7 +51,7 @@
         {
             "title": "Google Is Accused of Destroying Nearly 500 Football Fields of Forest for New Data Center Project - Gadget Review",
             "sentiment": "NEGATIVE",
-            "score": 0.8540927767753601,
+            "score": 0.8540925979614258,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -59,34 +68,8 @@
         {
             "title": "Trump Aide Hassett Says Powell Should \u2018Move On\u2019 From Fed Board - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7154203653335571,
+            "score": 0.7154209613800049,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Wall Street\u2019s AI Party Is on Edge as Soaring Yields Raise Risks - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7582303285598755,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8321573734283447,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -97,17 +80,12 @@
             "score": 0.9474192261695862,
             "signal": "BEARISH",
             "tickers": [
-                "META",
                 "AAPL",
-                "GOOGL"
+                "GOOGL",
+                "META"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
                 {
                     "ticker": "AAPL",
                     "impact": "negative",
@@ -117,14 +95,19 @@
                     "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "medium"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Wall Street\u2019s merger frenzy takes a third quarter breather: Chart of the Day - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9135527610778809,
-            "signal": "BEARISH",
+            "title": "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8321574926376343,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -159,7 +142,7 @@
         {
             "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.7952207326889038,
+            "score": 0.7952213287353516,
             "signal": "BULLISH",
             "tickers": [
                 "INTC"
@@ -176,16 +159,16 @@
         {
             "title": "Falling wages, soaring energy prices and inflation: It's beginning to look a lot like the 1970s - Morningstar",
             "sentiment": "NEGATIVE",
-            "score": 0.8227297067642212,
+            "score": 0.8227298855781555,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Popular cookie chain abruptly closes all locations after years of rapid expansion - Fox Business",
+            "title": "Fairview Heights police arrest 2 juveniles after fights involving about 250 teens - KSDK",
             "sentiment": "NEGATIVE",
-            "score": 0.94886314868927,
+            "score": 0.8624747395515442,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -203,7 +186,7 @@
         {
             "title": "Why U.S. airlines balked at adopting Boeing\u2019s latest 737 Max software versions - The Air Current",
             "sentiment": "NEGATIVE",
-            "score": 0.8848757743835449,
+            "score": 0.8848758339881897,
             "signal": "BEARISH",
             "tickers": [
                 "BA"
@@ -220,33 +203,33 @@
         {
             "title": "Northrop Grumman\u2019s Talon Blue Collaborative Combat Aircraft Has Flown - TWZ",
             "sentiment": "POSITIVE",
-            "score": 0.7171316742897034,
+            "score": 0.7171324491500854,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Disney cuts 300 jobs and major overhaul puts hundreds more at risk - Yahoo Finance",
+            "title": "An Overwhelming Percent of Americans Now Want to Pause AI and Tax Billionaires - futurism.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8938710689544678,
+            "score": 0.7174403071403503,
             "signal": "BEARISH",
             "tickers": [
-                "DIS"
+                "INTC"
             ],
-            "primary_ticker": "DIS",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "DIS",
+                    "ticker": "INTC",
                     "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
         },
         {
             "title": "Americans feel more and more glum, data shows. Economists are over it - usatoday.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9220029711723328,
+            "score": 0.9220028519630432,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -255,16 +238,7 @@
         {
             "title": "FDA concludes investigation into cyclospora outbreak tied to recalled Taylor Farms iceberg lettuce - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.8701344132423401,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Vietnam's economy grew 9.95% in Q3, fastest pace in 4 years - Nikkei Asia",
-            "sentiment": "POSITIVE",
-            "score": 0.927628755569458,
+            "score": 0.8701350092887878,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
