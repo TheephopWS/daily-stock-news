@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-06 15:32:43 UTC",
+    "last_updated": "2026-10-06 18:40:50 UTC",
     "total_articles": 26,
     "bullish_articles": 9,
     "bearish_articles": 17,
@@ -252,12 +252,17 @@
             "score": 0.9474192261695862,
             "signal": "BEARISH",
             "tickers": [
+                "META",
                 "AAPL",
-                "GOOGL",
-                "META"
+                "GOOGL"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
                 {
                     "ticker": "AAPL",
                     "impact": "negative",
@@ -265,11 +270,6 @@
                 },
                 {
                     "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "META",
                     "impact": "negative",
                     "relevance": "medium"
                 }
