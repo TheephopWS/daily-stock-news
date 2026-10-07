@@ -1,40 +1,66 @@
 {
-    "last_updated": "2026-10-06 21:32:47 UTC",
-    "total_articles": 31,
-    "bullish_articles": 11,
-    "bearish_articles": 20,
+    "last_updated": "2026-10-07 01:13:14 UTC",
+    "total_articles": 26,
+    "bullish_articles": 9,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "FDA recalls 122,000 cases of Gatorade sold across 37 states - ABC7 Eyewitness News",
+            "title": "Raleigh-area wedding photography company ordered to pay nearly $1.7M - WRAL",
             "sentiment": "NEGATIVE",
-            "score": 0.7972606420516968,
+            "score": 0.9510186910629272,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "British Airways flight to Chicago drops 28,000 feet, returns to London - NBC News",
+            "title": "Stock Market Today: Dow Slips, Dollar Strengthens as Investors Look for Safety \u2014 Live Updates - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9252187013626099,
+            "score": 0.829958438873291,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "What will Washington do next if US bond yields keep rising? - Kitco",
+            "title": "A lawsuit accuses Starbucks of mislabeling 8 \u2018sugar-free\u2019 protein drinks - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.7652063369750977,
+            "score": 0.8601653575897217,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia Stock at New All-Time Highs: Market Expert Says \u2018Cusp of a Major Breakout\u2019 - Benzinga",
+            "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.7771515250205994,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Lucid (LCID) Q3 deliveries drop 7% as it slashes production by 38% - Electrek",
+            "sentiment": "NEGATIVE",
+            "score": 0.9758540391921997,
+            "signal": "BEARISH",
+            "tickers": [
+                "LCID"
+            ],
+            "primary_ticker": "LCID",
+            "ticker_impacts": [
+                {
+                    "ticker": "LCID",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia Stock Hits Record as Key Supplier\u2019s Revenue Booms on AI Demand - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.8983461260795593,
+            "score": 0.9448092579841614,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -49,66 +75,107 @@
             ]
         },
         {
-            "title": "OpenAI PR tells journalist to \u2018move on\u2019 while asking Sam Altman about a ChatGPT user\u2019s suicide - The Verge",
+            "title": "Intel Stock Drops as Elon Musk Deals a Setback to the Chip Maker. Why You Shouldn\u2019t Panic. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.757133424282074,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "UPDATE: C.H. Robinson acquisition of RXO may give a jolt to industry consolidation - FreightWaves",
-            "sentiment": "POSITIVE",
-            "score": 0.9392728209495544,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Meet David Robinson, the OpenAI safety leader who quit and warned that the company isn\u2019t careful enough - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9461884498596191,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX stock jumps on bullish Morgan Stanley call - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9241626858711243,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "WA ferries cancel multiple sailings due to widespread crew shortages - FOX 13 Seattle",
-            "sentiment": "NEGATIVE",
-            "score": 0.9685670137405396,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Walmart Deals start now: We're eyeing 25+ discounts that rival October Prime Day - Yahoo",
-            "sentiment": "NEGATIVE",
-            "score": 0.8650223016738892,
+            "score": 0.9653372764587402,
             "signal": "BEARISH",
             "tickers": [
-                "WMT"
+                "INTC",
+                "TSLA"
             ],
-            "primary_ticker": "WMT",
+            "primary_ticker": "INTC",
             "ticker_impacts": [
                 {
-                    "ticker": "WMT",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "SpaceX stock climbs to highest since June, returning Musk to trillionaire status - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9491402506828308,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Georgia Power says hackers accessed information from about 400,000 customer accounts - WSB-TV",
+            "sentiment": "NEGATIVE",
+            "score": 0.913760781288147,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Crew call-outs cause major disruptions to state ferry service, 72% not in operation - KOMO",
+            "sentiment": "NEGATIVE",
+            "score": 0.9679800271987915,
+            "signal": "BEARISH",
+            "tickers": [
+                "WSF"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "WSF",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "GOP senator warns Anthropic of \"alarmist\" approach to AI - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9247950911521912,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Metrolink hikes fares as riders fume at sticker shock - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.8484400510787964,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oprah-backed True Food Kitchen files for bankruptcy, blaming management turnover and strategy shifts - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9732027649879456,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Aramco CEO Warns Oil Inventories Are 'Scarily Thin' - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.961948037147522,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Qualcomm Licenses Patents on Huawei\u2019s LogicFolding Chip Tech - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9046055674552917,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Vaxcyte\u2019s stock jumps as pneumococcal vaccine holds its own against Pfizer's, Merck\u2019s shots - Fierce Biotech",
@@ -120,18 +187,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "GM says hybrid vehicles are coming: 'We're not tone deaf to our customers' - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9171102046966553,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Cerebras stock pops after OpenAI CEO Altman lauds 'close partner' - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9087033867835999,
+            "score": 0.9087039828300476,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -142,15 +200,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9544779658317566,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Home affordability gap for first-time buyers widens as costs rise - WLWT",
-            "sentiment": "NEGATIVE",
-            "score": 0.9498485326766968,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -167,7 +216,7 @@
         {
             "title": "The American consumer is souring: What to watch this week - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9293426275253296,
+            "score": 0.9293428063392639,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -176,7 +225,7 @@
         {
             "title": "How Britain Learned to Love Chinese Cars\u2014Especially a Look-Alike Range Rover - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.7911527156829834,
+            "score": 0.7911534309387207,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -202,69 +251,16 @@
         {
             "title": "Exclusive | Warren and Hawley to Probe Insurers Over Zero-Payout Claims - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8547176718711853,
+            "score": 0.8547178506851196,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "The \u2018Silver Tsunami\u2019 Could Solve the Inventory Problem\u2014and Create a Demand Problem - Realtor.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9242874383926392,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Saudi Aramco chief warns world\u2019s oil stockpiles are \u2018scarily thin\u2019 - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.929900586605072,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Genmab\u2019s latest phase 2 data spur claim ADC is \u2018clearly superior\u2019 to AbbVie\u2019s Elahere - Fierce Biotech",
-            "sentiment": "POSITIVE",
-            "score": 0.9249711632728577,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Qualcomm Licenses Patents on Huawei\u2019s LogicFolding Chip Tech - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9417581558227539,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock futures are flat as investors grapple with higher yields, await Fed minutes: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8999439477920532,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Frozen berries recalled at Trader Joe\u2019s and Walmart amid E. coli outbreak - The Independent",
             "sentiment": "NEGATIVE",
-            "score": 0.857524037361145,
+            "score": 0.8575239777565002,
             "signal": "BEARISH",
             "tickers": [
                 "WMT"
@@ -279,45 +275,18 @@
             ]
         },
         {
-            "title": "Peter Schiff Says MicroStrategy Lost Its Bitcoin-Buying Power - BeInCrypto",
-            "sentiment": "NEGATIVE",
-            "score": 0.940542459487915,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump Aide Hassett Says Powell Should \u2018Move On\u2019 From Fed Board - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.7154203653335571,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Broadcom's 2028 Projection Makes the Stock a Screaming Buy - The Motley Fool",
+            "title": "Third Avenue, Lexington seeing faster growth as prime corridors fill up - New York Post",
             "sentiment": "POSITIVE",
-            "score": 0.7751419544219971,
+            "score": 0.9055073857307434,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "LIHEAP heat benefits may fall short as winter bills jump, new data shows - WBAL-TV",
+            "title": "America\u2019s Diesel Problem Isn\u2019t A Lack Of Oil - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.9670430421829224,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Wall Street\u2019s IPO fervour cools on tepid demand and valuation worries - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.945579469203949,
+            "score": 0.9241496324539185,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
