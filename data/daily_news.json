@@ -1,9 +1,52 @@
 {
-    "last_updated": "2026-10-07 09:38:57 UTC",
+    "last_updated": "2026-10-07 12:49:12 UTC",
     "total_articles": 25,
-    "bullish_articles": 8,
-    "bearish_articles": 17,
+    "bullish_articles": 12,
+    "bearish_articles": 13,
     "articles": [
+        {
+            "title": "Walmart Deals start now: We're eyeing 25+ discounts that rival October Prime Day - Yahoo",
+            "sentiment": "NEGATIVE",
+            "score": 0.8650221824645996,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "The Costco conundrum: Packed parking lots and a falling stock - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.8930374383926392,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Wall Street is booming. Surging yields could shake things up - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.7660199403762817,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Stock futures edge higher after Nasdaq hits new record: Live updates - cnbc.com",
             "sentiment": "POSITIVE",
@@ -49,6 +92,24 @@
             ]
         },
         {
+            "title": "Qualcomm Licenses Patents on Huawei\u2019s LogicFolding Chip Tech - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9046055674552917,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "U.S. stock futures inch up amid retreating yields, easing oil prices - Investing.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8799466490745544,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "CNBC Daily Open: China shuts down record 670 banks, new worries over oil and AI - cnbc.com",
             "sentiment": "NEGATIVE",
             "score": 0.9661083817481995,
@@ -61,24 +122,6 @@
             "title": "Oprah-backed True Food Kitchen files for bankruptcy after shuttering a dozen restaurants - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9625087976455688,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Raleigh-area wedding photography company ordered to pay nearly $1.7M - WRAL",
-            "sentiment": "NEGATIVE",
-            "score": 0.9510186910629272,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Standard Chartered Says Hormuz Oil Flows Are Far From Normal - Crude Oil Prices Today | OilPrice.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.923842191696167,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -103,45 +146,34 @@
             "ticker_impacts": []
         },
         {
-            "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap - Ars Technica",
+            "title": "Lucid Motors\u2019 EV output falls to lowest level in almost 2 years - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.7771515250205994,
+            "score": 0.9723811745643616,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Lucid (LCID) Q3 deliveries drop 7% as it slashes production by 38% - Electrek",
-            "sentiment": "NEGATIVE",
-            "score": 0.9758540391921997,
-            "signal": "BEARISH",
-            "tickers": [
-                "LCID"
-            ],
-            "primary_ticker": "LCID",
-            "ticker_impacts": [
-                {
-                    "ticker": "LCID",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Nvidia Stock Hits Record as Key Supplier\u2019s Revenue Booms on AI Demand - Barron's",
+            "title": "Microsoft Seen As 'Adults In Charge' Of AI. Stock Upgraded To Buy. - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.9448092579841614,
+            "score": 0.9543639421463013,
             "signal": "BULLISH",
             "tickers": [
-                "NVDA"
+                "MSFT",
+                "INTC"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "MSFT",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -150,6 +182,15 @@
             "sentiment": "POSITIVE",
             "score": 0.9032087326049805,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Georgia Power says hackers accessed information from about 400,000 customer accounts - WSB-TV",
+            "sentiment": "NEGATIVE",
+            "score": 0.913760781288147,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -164,13 +205,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Seattle\u2019s tax burden shifted to business as jobs slipped away, new report finds - GeekWire",
-            "sentiment": "NEGATIVE",
-            "score": 0.7878283262252808,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Nvidia Stock at New All-Time Highs: Market Expert Says \u2018Cusp of a Major Breakout\u2019 - Benzinga",
+            "sentiment": "POSITIVE",
+            "score": 0.8983463048934937,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "SpaceX Stock Surges as Morgan Stanley Says Stock \u2018Cheap and Getting Cheaper\u2019 - Investopedia",
@@ -182,9 +231,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Walmart, Trader Joe\u2019s frozen berries added to expanded recall due to E. coli - Scripps News",
+            "title": "Walmart, Trader Joe\u2019s frozen berries added to expanded recall due to E. coli - KPAX News",
             "sentiment": "POSITIVE",
-            "score": 0.7875346541404724,
+            "score": 0.7756605744361877,
             "signal": "BULLISH",
             "tickers": [
                 "WMT"
@@ -208,15 +257,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "World's oil supply cushion is 'scarily thin,' says Aramco chief - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.7779534459114075,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Vaxcyte\u2019s stock jumps as pneumococcal vaccine holds its own against Pfizer's, Merck\u2019s shots - Fierce Biotech",
             "sentiment": "POSITIVE",
             "score": 0.9489186406135559,
@@ -226,51 +266,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Wall St futures dip as tech stocks take a breather - Yahoo Finance",
+            "title": "Exclusive | GE HealthCare to Buy Sofie for Nearly $1 Billion to Grow Medical-Imaging Business - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.8491138219833374,
+            "score": 0.930813729763031,
             "signal": "BULLISH",
-            "tickers": [
-                "NVDA",
-                "MSFT"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "The American consumer is souring: What to watch this week - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9293428063392639,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "$234 Billion In Student Loans Are Now In Default, And Things Are About To Get Worse - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.9283933043479919,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Exclusive | Warren and Hawley to Probe Insurers Over Zero-Payout Claims - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8547178506851196,
-            "signal": "BEARISH",
+            "title": "Wave of affordable electric cars is boosting consumers' choice: sales of sub-\u20ac25,000 models set to rise sevenfold - transportenvironment.org",
+            "sentiment": "POSITIVE",
+            "score": 0.9544779658317566,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
