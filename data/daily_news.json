@@ -1,13 +1,57 @@
 {
-    "last_updated": "2026-10-07 12:49:12 UTC",
-    "total_articles": 25,
-    "bullish_articles": 12,
-    "bearish_articles": 13,
+    "last_updated": "2026-10-07 15:43:05 UTC",
+    "total_articles": 27,
+    "bullish_articles": 10,
+    "bearish_articles": 17,
     "articles": [
+        {
+            "title": "U.S. International Trade in Goods and Services, August 2026 - Bureau of Economic Analysis (BEA) (.gov)",
+            "sentiment": "POSITIVE",
+            "score": 0.9331352710723877,
+            "signal": "BULLISH",
+            "tickers": [
+                "BEA"
+            ],
+            "primary_ticker": "BEA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BEA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.9231338500976562,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX jumps to highest close since June on bullish Morgan Stanley call - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9323898553848267,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Kentucky bourbon CEO fired after lawsuit alleges hidden cameras recording family members, minors nude: reports - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8804095983505249,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Walmart Deals start now: We're eyeing 25+ discounts that rival October Prime Day - Yahoo",
             "sentiment": "NEGATIVE",
-            "score": 0.8650221824645996,
+            "score": 0.8650223016738892,
             "signal": "BEARISH",
             "tickers": [
                 "WMT"
@@ -22,44 +66,32 @@
             ]
         },
         {
-            "title": "The Costco conundrum: Packed parking lots and a falling stock - Business Insider",
+            "title": "Why Citi now thinks AMD stock could rip another 25% because of Meta Muse - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8930374383926392,
+            "score": 0.7779374718666077,
             "signal": "BEARISH",
             "tickers": [
-                "WMT"
+                "AMD",
+                "META"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "AMD",
             "ticker_impacts": [
                 {
-                    "ticker": "WMT",
+                    "ticker": "AMD",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Wall Street is booming. Surging yields could shake things up - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.7660199403762817,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock futures edge higher after Nasdaq hits new record: Live updates - cnbc.com",
+            "title": "Wall Street Eyes Record Bonuses as Profit Heads Past $90 Billion - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9348233938217163,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9221140742301941,
+            "score": 0.9307306408882141,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -68,7 +100,7 @@
         {
             "title": "Ray Dalio Warns China, Japan May Pull Back From US Treasuries - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9465319514274597,
+            "score": 0.946532130241394,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -77,7 +109,7 @@
         {
             "title": "Intel stock falls as TSMC eyes Elon Musk's Terafab venture - qz.com",
             "sentiment": "NEGATIVE",
-            "score": 0.919519305229187,
+            "score": 0.9195193648338318,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -94,16 +126,7 @@
         {
             "title": "Qualcomm Licenses Patents on Huawei\u2019s LogicFolding Chip Tech - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9046055674552917,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. stock futures inch up amid retreating yields, easing oil prices - Investing.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8799466490745544,
+            "score": 0.9046053290367126,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -130,7 +153,7 @@
         {
             "title": "GOP committee chair rebuts Sam Altman: \u2018I\u2019m never willing to accept bad results\u2019 from AI - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.8645524382591248,
+            "score": 0.8645522594451904,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -139,16 +162,54 @@
         {
             "title": "A lawsuit accuses Starbucks of mislabeling 8 \u2018sugar-free\u2019 protein drinks - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.8601653575897217,
+            "score": 0.8601651787757874,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Stocks are hitting records despite surging yields. Cramer explains why - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8845513463020325,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT",
+                "NVDA",
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Lucid Motors\u2019 EV output falls to lowest level in almost 2 years - TechCrunch",
             "sentiment": "NEGATIVE",
             "score": 0.9723811745643616,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Hospital and pharmaceutical prices are smothering America\u2019s businesses - STAT",
+            "sentiment": "NEGATIVE",
+            "score": 0.937492311000824,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -180,16 +241,16 @@
         {
             "title": "Cerebras stock surges after OpenAI CEO Altman lauds 'close partner' - finance.yahoo.com",
             "sentiment": "POSITIVE",
-            "score": 0.9032087326049805,
+            "score": 0.9032080769538879,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Georgia Power says hackers accessed information from about 400,000 customer accounts - WSB-TV",
+            "title": "CPI | McDonald\u2019s Hit With Antitrust Suit Over AI-Assisted Menu Pricing - PYMNTS.com",
             "sentiment": "NEGATIVE",
-            "score": 0.913760781288147,
+            "score": 0.934906542301178,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -205,35 +266,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia Stock at New All-Time Highs: Market Expert Says \u2018Cusp of a Major Breakout\u2019 - Benzinga",
-            "sentiment": "POSITIVE",
-            "score": 0.8983463048934937,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "SpaceX Stock Surges as Morgan Stanley Says Stock \u2018Cheap and Getting Cheaper\u2019 - Investopedia",
-            "sentiment": "POSITIVE",
-            "score": 0.8799641132354736,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Walmart, Trader Joe\u2019s frozen berries added to expanded recall due to E. coli - KPAX News",
             "sentiment": "POSITIVE",
-            "score": 0.7756605744361877,
+            "score": 0.7756593823432922,
             "signal": "BULLISH",
             "tickers": [
                 "WMT"
@@ -266,19 +301,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "Exclusive | GE HealthCare to Buy Sofie for Nearly $1 Billion to Grow Medical-Imaging Business - WSJ",
+            "title": "Wave of affordable electric cars is boosting consumers' choice: sales of sub-\u20ac25,000 models set to rise sevenfold - transportenvironment.org",
             "sentiment": "POSITIVE",
-            "score": 0.930813729763031,
+            "score": 0.9544779658317566,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Wave of affordable electric cars is boosting consumers' choice: sales of sub-\u20ac25,000 models set to rise sevenfold - transportenvironment.org",
-            "sentiment": "POSITIVE",
-            "score": 0.9544779658317566,
-            "signal": "BULLISH",
+            "title": "Home affordability gap for first-time buyers widens as costs rise - WESH",
+            "sentiment": "NEGATIVE",
+            "score": 0.9526376724243164,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "$234 Billion In Student Loans Are Now In Default, And Things Are About To Get Worse - Forbes",
+            "sentiment": "NEGATIVE",
+            "score": 0.9283933639526367,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
