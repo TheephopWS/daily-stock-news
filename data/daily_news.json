@@ -1,32 +1,49 @@
 {
-    "last_updated": "2026-10-08 09:40:16 UTC",
+    "last_updated": "2026-10-08 12:48:23 UTC",
     "total_articles": 28,
-    "bullish_articles": 9,
-    "bearish_articles": 19,
+    "bullish_articles": 12,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "France\u2019s student protests highlight a debt crisis that could spill over to the rest of Europe - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9263195395469666,
-            "signal": "BEARISH",
+            "title": "US stock market hits all-time high as investors continue to bet on AI - Al Jazeera",
+            "sentiment": "POSITIVE",
+            "score": 0.9422358274459839,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Constellation Energy's sweeping nuclear deal sparks rally in power sector stocks (CEG:NASDAQ) - Seeking Alpha",
+            "title": "Intel to Keep Working on Elon Musk\u2019s Terafab Chipmaking Venture - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9448588490486145,
+            "score": 0.7587568163871765,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL"
+                "INTC"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "INTC",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "INTC",
                     "impact": "positive",
-                    "relevance": "medium"
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "SpaceX looks to raise $40bn to buy Nvidia chips - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8719946146011353,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
                 }
             ]
         },
@@ -40,6 +57,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Nvidia stock flashes massive signal as Wall Street leans in - TheStreet",
+            "sentiment": "POSITIVE",
+            "score": 0.8272958397865295,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Washington State Ferries to suspend Edmonds/Kingston route - MyNorthwest.com",
             "sentiment": "NEGATIVE",
             "score": 0.9064520001411438,
@@ -47,23 +81,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Walmart Deals start now: We're eyeing 25+ discounts that rival October Prime Day - Yahoo",
-            "sentiment": "NEGATIVE",
-            "score": 0.8650223016738892,
-            "signal": "BEARISH",
-            "tickers": [
-                "WMT"
-            ],
-            "primary_ticker": "WMT",
-            "ticker_impacts": [
-                {
-                    "ticker": "WMT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "$5,100 Split Across These 5 AI Infrastructure Stocks Could Be Worth This Much by 2030 - The Motley Fool",
@@ -84,23 +101,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "AMD Rallies On Bullish Takes For AI Hardware Sales - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9511648416519165,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMD"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "California set to ban quartz countertop production amid health concerns - NewsNation",
             "sentiment": "NEGATIVE",
             "score": 0.8889862895011902,
@@ -108,6 +108,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Google\u2019s power-hungry data centers crave nuclear energy - The Verge",
+            "sentiment": "POSITIVE",
+            "score": 0.9321674108505249,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "McDonald\u2019s sued over AI tool that recommends prices to US franchisees - AP News",
@@ -155,9 +172,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Seagate And Western Digital Stocks Fall. There's A New Twist To Toshiba Competition Fears. - Investor's Business Daily",
+            "title": "High mortgage rates strand home sellers as buyer demand plummets - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9735335111618042,
+            "score": 0.8821305632591248,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -218,6 +235,29 @@
             "ticker_impacts": []
         },
         {
+            "title": "Why Citi now thinks AMD stock could rip another 25% because of Meta Muse - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.7779374718666077,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD",
+                "META"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "The bad \u2014 and unexpected good \u2014 of being in layoff limbo - Business Insider",
             "sentiment": "NEGATIVE",
             "score": 0.966442883014679,
@@ -244,19 +284,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Wall Street Eyes Record Bonuses as Profit Heads Past $90 Billion - Yahoo Finance",
+            "title": "Wall Street on track for record-smashing $90B year, undermining lefty calls for tax hikes - New York Post",
             "sentiment": "POSITIVE",
-            "score": 0.9307306408882141,
+            "score": 0.9178282618522644,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "CNBC Daily Open: China shuts down record 670 banks, new worries over oil and AI - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9662391543388367,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -274,15 +305,6 @@
             "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days - The Drive",
             "sentiment": "NEGATIVE",
             "score": 0.9365983009338379,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Euro plummets against US dollar: has the next financial crisis begun? - DW.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.966578483581543,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
