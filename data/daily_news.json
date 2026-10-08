@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-10-08 03:43:30 UTC",
-    "total_articles": 21,
-    "bullish_articles": 13,
-    "bearish_articles": 8,
+    "last_updated": "2026-10-08 06:54:09 UTC",
+    "total_articles": 28,
+    "bullish_articles": 10,
+    "bearish_articles": 18,
     "articles": [
         {
             "title": "SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.8375838398933411,
+            "score": 0.8375842571258545,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -17,6 +17,41 @@
                 {
                     "ticker": "NVDA",
                     "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Record Run for US Stocks to Set Tone for Asia: Markets Wrap - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9717341661453247,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Washington State Ferries to suspend Edmonds/Kingston route - MyNorthwest.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.906451940536499,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Walmart Deals start now: We're eyeing 25+ discounts that rival October Prime Day - Yahoo",
+            "sentiment": "NEGATIVE",
+            "score": 0.8650220036506653,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
@@ -48,19 +83,19 @@
             ]
         },
         {
-            "title": "McDonald\u2019s sued over AI tool that recommends prices to US franchisees - AP News",
+            "title": "California set to ban quartz countertop production amid health concerns - NewsNation",
             "sentiment": "NEGATIVE",
-            "score": 0.9030530452728271,
+            "score": 0.8889864087104797,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX stock climbs again, hits another multimonth closing high - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9466887712478638,
-            "signal": "BULLISH",
+            "title": "McDonald\u2019s sued over AI tool that recommends prices to US franchisees - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9030532836914062,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -75,26 +110,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "CEG, VST, TLN Jump: Google\u2019s Power Deal Sparks A Nuclear Rally - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9010842442512512,
-            "signal": "BULLISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Deeply Distressed US Loans Rise to Highest Level Since Pandemic, JPMorgan Says - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9154305458068848,
+            "score": 0.9154309034347534,
             "signal": "BULLISH",
             "tickers": [
                 "JPM"
@@ -109,9 +127,45 @@
             ]
         },
         {
+            "title": "Starbucks sued for allegedly mislabeling 'sugar-free' protein drinks - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.7865015268325806,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Anthropic researcher whose resignation made waves last month says he was 'working to automate' himself - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.7525566816329956,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Skydance Credit Rating Downgraded by Fitch on Massive Debt in Wake of Paramount-Warner Bros. Merger - Variety",
+            "sentiment": "NEGATIVE",
+            "score": 0.9541435837745667,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Seagate And Western Digital Stocks Fall. There's A New Twist To Toshiba Competition Fears. - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9735335111618042,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "A Data-Center Crunch is Coming - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.809523344039917,
+            "score": 0.8095232844352722,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -127,45 +181,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Canada\u2019s August Trade Surplus Widens Sharply Ahead of Fresh Tariffs - WSJ",
+            "title": "Nvidia stock rises to new highs as market cap closes in on $6 trillion - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.7811219692230225,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. Trade Deficit Widens to Largest Level in More Than a Year - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.879671573638916,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Uber to Expand Uber Eats Service with $2.3 Billion Acquisition of Catering Platform - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.8859018087387085,
+            "score": 0.9249293804168701,
             "signal": "BULLISH",
             "tickers": [
-                "UBER"
+                "NVDA"
             ],
-            "primary_ticker": "UBER",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "UBER",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Seagate, Western Digital stocks slip as Toshiba's AI storage push rattles sector - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9741215705871582,
-            "signal": "BEARISH",
+            "title": "U.S. Trade Deficit Widens to Largest Level in More Than a Year - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8796717524528503,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -173,20 +209,28 @@
         {
             "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.9231338500976562,
+            "score": 0.9231339693069458,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Netlist and Micron Enter Patent License and Settlement Agreements - Yahoo Finance",
+            "title": "Google enters massive 3.6-GW power deal with Constellation Energy - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7653441429138184,
+            "score": 0.9093111157417297,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Oil Inventories in the West Have Been Exhausted, Vitol CEO Says - Bloomberg.com",
@@ -200,17 +244,44 @@
         {
             "title": "AstraZeneca hopes to \u2018achieve amazing things\u2019 with new Kendall Square R&D center - Fierce Biotech",
             "sentiment": "POSITIVE",
-            "score": 0.7493888735771179,
+            "score": 0.7493898868560791,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Wall Street on track for record-smashing $90B year, undermining lefty calls for tax hikes - New York Post",
+            "title": "Wall Street Eyes Record Bonuses as Profit Heads Past $90 Billion - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9178282618522644,
+            "score": 0.9307306408882141,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "CNBC Daily Open: China shuts down record 670 banks, new worries over oil and AI - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9662391543388367,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "FDA recalls 122,000 cases of Gatorade sold across 37 states - ABC7 Eyewitness News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7972596883773804,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days - The Drive",
+            "sentiment": "NEGATIVE",
+            "score": 0.9365983009338379,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -218,7 +289,7 @@
         {
             "title": "Walmart, Trader Joe\u2019s frozen berries added to expanded recall due to E. coli - Scripps News",
             "sentiment": "POSITIVE",
-            "score": 0.7875336408615112,
+            "score": 0.787534773349762,
             "signal": "BULLISH",
             "tickers": [
                 "WMT"
