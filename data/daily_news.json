@@ -1,22 +1,83 @@
 {
-    "last_updated": "2026-10-08 12:48:23 UTC",
-    "total_articles": 28,
+    "last_updated": "2026-10-08 15:36:22 UTC",
+    "total_articles": 34,
     "bullish_articles": 12,
-    "bearish_articles": 16,
+    "bearish_articles": 22,
     "articles": [
         {
-            "title": "US stock market hits all-time high as investors continue to bet on AI - Al Jazeera",
+            "title": "Exclusive | Wells Fargo Faces Regulator Probe Over Efforts to Boost Black Homeownership - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.7515189051628113,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023 - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9422358274459839,
+            "score": 0.941628098487854,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Intel to Keep Working on Elon Musk\u2019s Terafab Chipmaking Venture - Bloomberg.com",
+            "title": "Global bond sell-off pushes U.S. Treasury yields to fresh 24-year highs - NBC News",
             "sentiment": "POSITIVE",
-            "score": 0.7587568163871765,
+            "score": 0.8998066186904907,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "A teen account shared suicidal thoughts with ChatGPT. New protections failed - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.7588940262794495,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Walmart Deals event is heating up, and we're eyeing 25+ discounts that rival October Prime Day - Yahoo",
+            "sentiment": "NEGATIVE",
+            "score": 0.8315711617469788,
+            "signal": "BEARISH",
+            "tickers": [
+                "WMT"
+            ],
+            "primary_ticker": "WMT",
+            "ticker_impacts": [
+                {
+                    "ticker": "WMT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "SpaceX stock slips on report of its $40 billion in new debt for Nvidia chips - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9733028411865234,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Intel Stock Defies Chip Slump as Musk Explains SpaceX AI Chip Project - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9193121790885925,
             "signal": "BULLISH",
             "tickers": [
                 "INTC"
@@ -31,9 +92,89 @@
             ]
         },
         {
-            "title": "SpaceX looks to raise $40bn to buy Nvidia chips - Financial Times",
+            "title": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9748525619506836,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dollar climbs ahead of Fed minutes; euro slides towards 17-month lows - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.8758314847946167,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Ex-bankers jailed for rigging rates have convictions quashed - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.7266162633895874,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil prices climb above $100 on Strait of Hormuz attacks, Gulf storm threat - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8719946146011353,
+            "score": 0.8665373921394348,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Chip stock could soar nearly 200%, analyst says: \"If you don\u2019t buy it, they will\" - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9420907497406006,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "ICE came to town and left behind weakened economies - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9652457237243652,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Caribou Biosciences, biotech co-founded by Jennifer Doudna, is shutting down - STAT",
+            "sentiment": "NEGATIVE",
+            "score": 0.9346568584442139,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Google ordered to halt work on two data centers in \u2018Texas of Europe\u2019 - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.870827317237854,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia Director Tops AI Billionaires on Insider Stock Sales - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9165321588516235,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -48,10 +189,19 @@
             ]
         },
         {
-            "title": "Record Run for US Stocks to Set Tone for Asia: Markets Wrap - Bloomberg.com",
+            "title": "Why McDonald's faces a tough slog winning customers back - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9717341661453247,
+            "score": 0.9675602316856384,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US trade deficit passes $100B for first time since March 2025 - The Hill",
+            "sentiment": "POSITIVE",
+            "score": 0.8374386429786682,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -59,7 +209,7 @@
         {
             "title": "Nvidia stock flashes massive signal as Wall Street leans in - TheStreet",
             "sentiment": "POSITIVE",
-            "score": 0.8272958397865295,
+            "score": 0.8272960186004639,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -101,9 +251,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "California set to ban quartz countertop production amid health concerns - NewsNation",
+            "title": "16 trucking companies filed for bankruptcy amid high diesel prices: Report - NewsNation",
             "sentiment": "NEGATIVE",
-            "score": 0.8889862895011902,
+            "score": 0.9540731310844421,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -112,7 +262,7 @@
         {
             "title": "Google\u2019s power-hungry data centers crave nuclear energy - The Verge",
             "sentiment": "POSITIVE",
-            "score": 0.9321674108505249,
+            "score": 0.9321675896644592,
             "signal": "BULLISH",
             "tickers": [
                 "GOOGL"
@@ -127,27 +277,26 @@
             ]
         },
         {
-            "title": "McDonald\u2019s sued over AI tool that recommends prices to US franchisees - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9030530452728271,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "S&P 500 Set for First Record Since August as Bulls Downplay Risk - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9253392219543457,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "Kratom, an opioid-like drug, remains legal in most states - The Washington Post",
+            "title": "South Korea\u2019s Lee says AI appears to have been used in bank hacks - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.808036208152771,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FBI says contractor failure led to hack of its jobs website - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9459941387176514,
+            "score": 0.8031032681465149,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -156,7 +305,7 @@
         {
             "title": "Starbucks sued for allegedly mislabeling 'sugar-free' protein drinks - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.786501407623291,
+            "score": 0.7865017056465149,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -165,16 +314,16 @@
         {
             "title": "The Anthropic researcher whose resignation made waves last month says he was 'working to automate' himself - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.7525564432144165,
+            "score": 0.7525571584701538,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "High mortgage rates strand home sellers as buyer demand plummets - NBC News",
+            "title": "California set to ban quartz countertop production amid health concerns - NewsNation",
             "sentiment": "NEGATIVE",
-            "score": 0.8821305632591248,
+            "score": 0.8889864683151245,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -183,44 +332,8 @@
         {
             "title": "A Data-Center Crunch is Coming - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.809523344039917,
+            "score": 0.8095230460166931,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Marvell stock surges after company raises 2028 revenue outlook to $20 billion - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9452261328697205,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX stock climbs higher, poised for another multimonth closing high - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9475635886192322,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. Trade Deficit Widens to Largest Level in More Than a Year - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.879671573638916,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Is Micron Stock Worth Holding After Its Solid Q4 Earnings Results? - Zacks Investment Research",
-            "sentiment": "POSITIVE",
-            "score": 0.9266290664672852,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -235,76 +348,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why Citi now thinks AMD stock could rip another 25% because of Meta Muse - Yahoo Finance",
+            "title": "Barbie maker Mattel faces investor pressure to consider a sale amid stagnating growth - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7779374718666077,
+            "score": 0.9688581228256226,
             "signal": "BEARISH",
-            "tickers": [
-                "AMD",
-                "META"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "The bad \u2014 and unexpected good \u2014 of being in layoff limbo - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.966442883014679,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
-            "title": "AstraZeneca hopes to \u2018achieve amazing things\u2019 with new Kendall Square R&D center - Fierce Biotech",
+            "title": "Wall Street Eyes Record Bonuses as Profit Heads Past $90 Billion - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.7493888735771179,
+            "score": 0.9307306408882141,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Wall Street on track for record-smashing $90B year, undermining lefty calls for tax hikes - New York Post",
-            "sentiment": "POSITIVE",
-            "score": 0.9178282618522644,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FDA recalls 122,000 cases of Gatorade sold across 37 states - ABC7 Eyewitness News",
+            "title": "GOP committee chair rebuts Sam Altman: \u2018I\u2019m never willing to accept bad results\u2019 from AI - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.7972606420516968,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days - The Drive",
-            "sentiment": "NEGATIVE",
-            "score": 0.9365983009338379,
+            "score": 0.8645524382591248,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
