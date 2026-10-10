@@ -1,31 +1,100 @@
 {
-    "last_updated": "2026-10-09 21:33:11 UTC",
-    "total_articles": 27,
-    "bullish_articles": 7,
-    "bearish_articles": 20,
+    "last_updated": "2026-10-10 01:12:42 UTC",
+    "total_articles": 33,
+    "bullish_articles": 12,
+    "bearish_articles": 21,
     "articles": [
         {
-            "title": "Stock Market Today: Oil Rises, Nasdaq Slips on Fresh Tanker Attack - WSJ",
+            "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9455167055130005,
+            "score": 0.9272767305374146,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia-Backed IPO\u2019s Cratering Demand Sends Warning on AI Funding - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9619596004486084,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Anthropic bans 'cruel' behavior against its Claude AI - Yahoo Tech",
+            "sentiment": "NEGATIVE",
+            "score": 0.8433735966682434,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Tech stocks drop after report that OpenAI\u2019s revenue is lower than expected - CNN",
+            "title": "Tech Stocks to Fall as OpenAI Sinks US Chipmakers: Markets Wrap - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9754339456558228,
+            "score": 0.9699599146842957,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "Mortgage rates rise for seventh straight week, squeezing homebuyers - Fox Business",
+            "title": "Mortgage rates hit 7.4 percent for first time since November 2023 - The Hill",
             "sentiment": "POSITIVE",
-            "score": 0.9430916905403137,
+            "score": 0.9374545812606812,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock futures are little changed after OpenAI's revenue report prompts tech sector turmoil: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9720484614372253,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "U.S. Treasury Yields Retreat From Early Highs; Eurozone Yields Remain Elevated - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.926286518573761,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The cost of Halloween candy spiked 71% in 5 years \u2014 consider a few boo-dget swaps - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.769757091999054,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -34,7 +103,7 @@
         {
             "title": "Inside Trump investigation of Wells Fargo's Black homeownership program - USA Today",
             "sentiment": "NEGATIVE",
-            "score": 0.9362528324127197,
+            "score": 0.9362528920173645,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -43,16 +112,16 @@
         {
             "title": "Micron Analyst Sees MU Stock Nearly Tripling to $3,000 - Micron Technology (NASDAQ:MU) - Benzinga",
             "sentiment": "POSITIVE",
-            "score": 0.9126426577568054,
+            "score": 0.9126428365707397,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The Memory Trade Cools After Samsung\u2019s Preliminary Results Disappoint - Yahoo Finance",
+            "title": "The Memory Trade Cools After Samsung\u2019s Preliminary Results Disappoint - Investopedia",
             "sentiment": "NEGATIVE",
-            "score": 0.7707591652870178,
+            "score": 0.8271729946136475,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -68,18 +137,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Kwik Trip tumbles from first to fifth in convenience store rankings - Wisconsin State Journal",
-            "sentiment": "NEGATIVE",
-            "score": 0.9594686031341553,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "TSMC Gives AI Trade Upbeat Signal\u2014AMD and Other Chip Stocks Fall Anyway - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.8478466272354126,
+            "score": 0.8478482365608215,
             "signal": "BULLISH",
             "tickers": [
                 "AMD"
@@ -94,36 +154,18 @@
             ]
         },
         {
-            "title": "Fed officials feared inflation pressures could spread, minutes show - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.8701208233833313,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Blue Origin picks Hutto for massive investment - The Business Journals",
             "sentiment": "POSITIVE",
-            "score": 0.8104361891746521,
+            "score": 0.8104366660118103,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Pre-workout powder recalled nationwide due to illegal ingredient: FDA - FOX 8 News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8790456056594849,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Chrysler Building to get its crown restored after being sold - BBC",
+            "title": "IBM Gets Defense Dept. Quantum Stamp of Approval. Investors Should Take Notice. - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.7544577121734619,
+            "score": 0.9198393225669861,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -132,8 +174,17 @@
         {
             "title": "How U.S. states address latest teenage craze wreaking havoc: E-bikes - The Seattle Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8358271718025208,
+            "score": 0.8358273506164551,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Prediction: These 2 Stocks Will Be Worth More Than Palantir 5 Years From Now - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.9198925495147705,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -141,24 +192,42 @@
         {
             "title": "California's once-mighty wine industry is on the ropes - SFGATE",
             "sentiment": "NEGATIVE",
-            "score": 0.9190605878829956,
+            "score": 0.9190605282783508,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia-Backed IPO\u2019s Cratering Demand Sends Warning on AI Funding - Bloomberg.com",
+            "title": "Oil prices jump on tanker attack and slowing flows through Strait of Hormuz - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9676116108894348,
+            "score": 0.9502575993537903,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Baby product recalled over alcohol content: FDA - FOX 8 News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9388341307640076,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9710611701011658,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "PEP"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "PEP",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "PEP",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -167,7 +236,16 @@
         {
             "title": "Applied Digital\u2019s Earnings Show Its Data Center Bet Is Starting to Pay Off - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9562177062034607,
+            "score": 0.9562177658081055,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The American Dream now costs $5.3 million \u2014 nearly $2 million more than just three years ago - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.9247745871543884,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -176,7 +254,7 @@
         {
             "title": "3 Million Student Loan Borrowers Could Face $12,000 Tax Penalty, Warns Group - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.7383546233177185,
+            "score": 0.7383544445037842,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -185,7 +263,7 @@
         {
             "title": "Treasury yields are lower after reaching multiyear highs, traders weigh latest bond auction - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.941691517829895,
+            "score": 0.9416916370391846,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -201,19 +279,46 @@
             "ticker_impacts": []
         },
         {
-            "title": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says - Yahoo Finance UK",
-            "sentiment": "NEGATIVE",
-            "score": 0.769208550453186,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
+            "title": "Fed\u2019s Waller sees additional rate hikes to get inflation down faster - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8171114325523376,
+            "signal": "BULLISH",
+            "tickers": [],
             "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Passenger Allegedly Left Terminal, Stole Airport Tug - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.7757735252380371,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Global bond sell-off pushes U.S. Treasury yields to fresh 24-year highs - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.962062656879425,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8760161399841309,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
                 }
             ]
         },
@@ -229,7 +334,7 @@
         {
             "title": "U.S. Crude Oil Stockpiles Post Weekly Drop - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9584421515464783,
+            "score": 0.9584422707557678,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -238,46 +343,11 @@
         {
             "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023 - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9416280388832092,
+            "score": 0.941628098487854,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Hershey adds disclaimer to Reese\u2019s Peanut Butter Pumpkins - WFTV",
-            "sentiment": "NEGATIVE",
-            "score": 0.9079884886741638,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "ICE came to town and left behind weakened economies - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9652457237243652,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Apple threw a wrench into the digital ad industry, and marketers are bracing for impact - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.7893273234367371,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
