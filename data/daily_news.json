@@ -1,23 +1,46 @@
 {
-    "last_updated": "2026-10-10 06:49:34 UTC",
+    "last_updated": "2026-10-10 09:35:13 UTC",
     "total_articles": 31,
     "bullish_articles": 11,
     "bearish_articles": 20,
     "articles": [
         {
-            "title": "Nvidia-Backed Firmus IPO Collapses as AI Valuation Concerns Grow - Bloomberg.com",
+            "title": "What smart people are saying about the US suspending PERM visas for Microsoft, Adobe, and Indian tech giants - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9680004715919495,
+            "score": 0.9516869783401489,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT",
+                "ADBE"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "ADBE",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Australian data centre operator pulls $5bn IPO - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9482856392860413,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
                     "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
         },
@@ -31,44 +54,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - AP News",
+            "title": "OpenAI withdraws three preprints a day after releasing 722 manuscripts on unsolved math problems - Retraction Watch",
             "sentiment": "NEGATIVE",
-            "score": 0.9272765517234802,
+            "score": 0.9346844553947449,
             "signal": "BEARISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Tech Stocks to Fall as OpenAI Sinks US Chipmakers: Markets Wrap - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9699599146842957,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "SpaceX announces plan to become a \u2018major mobile carrier\u2019 - The Verge",
-            "sentiment": "POSITIVE",
-            "score": 0.7860826849937439,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -92,10 +81,37 @@
             "ticker_impacts": []
         },
         {
+            "title": "S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9710891842842102,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX Announces Spectrum Deal for Starlink Mobile Phone Service - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9644151926040649,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "U.S. Treasury Yields Retreat From Early Highs; Eurozone Yields Remain Elevated - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9262866973876953,
+            "score": 0.8238317966461182,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Chip Foundry TSMC Beats September Sales Target - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9393731355667114,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -110,9 +126,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "PepsiCo signals international at 45% of profit year-to-date while cutting costs to fund North America turnaround - Seeking Alpha",
+            "title": "'We don\u2019t feel good': PepsiCo plans price hike after offsetting cost with $178 million tariff refund - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.7953154444694519,
+            "score": 0.8735330104827881,
             "signal": "BEARISH",
             "tickers": [
                 "PEP"
@@ -125,6 +141,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "U.S. Interest Rates Could Rise Over Next Six to Nine Months, Fed\u2019s Musalem Says - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9041389226913452,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Inside Trump investigation of Wells Fargo's Black homeownership program - USA Today",
@@ -140,6 +165,15 @@
             "sentiment": "POSITIVE",
             "score": 0.9126426577568054,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nessel accuses Blue Cross Blue Shield of running illegal monopoly - FOX 2 Detroit",
+            "sentiment": "NEGATIVE",
+            "score": 0.9232896566390991,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -171,33 +205,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Michigan Files Antitrust Suit Against Blue Cross Blue Shield Over Rising Costs - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8897117376327515,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Moment California McDonald\u2019s worker is gunned down inside store after shooting female colleague - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8595280051231384,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Pre-workout powder recalled over illegal drug linked to heart attacks - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8317879438400269,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Americans Still Aren't Buying EVs Despite High Gas Prices - Jalopnik",
             "sentiment": "NEGATIVE",
             "score": 0.9678093194961548,
@@ -207,27 +214,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "TSMC Gives AI Trade Upbeat Signal\u2014AMD and Other Chip Stocks Fall Anyway - Barron's",
+            "title": "IBM Gets Defense Dept. Quantum Stamp of Approval. Investors Should Take Notice. - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.8478466272354126,
+            "score": 0.9198392033576965,
             "signal": "BULLISH",
-            "tickers": [
-                "AMD"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "Blue Origin picks Hutto for massive investment - The Business Journals",
-            "sentiment": "POSITIVE",
-            "score": 0.8104361891746521,
-            "signal": "BULLISH",
+            "title": "How U.S. states address latest teenage craze wreaking havoc: E-bikes - The Seattle Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.8358271718025208,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -317,15 +316,6 @@
             "title": "Passenger Allegedly Left Terminal, Stole Airport Tug - Newser",
             "sentiment": "NEGATIVE",
             "score": 0.7757736444473267,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. Crude Oil Stockpiles Post Weekly Drop - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9584421515464783,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
