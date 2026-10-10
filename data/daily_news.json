@@ -1,9 +1,76 @@
 {
-    "last_updated": "2026-10-10 18:38:38 UTC",
-    "total_articles": 29,
-    "bullish_articles": 6,
-    "bearish_articles": 23,
+    "last_updated": "2026-10-10 21:32:19 UTC",
+    "total_articles": 25,
+    "bullish_articles": 5,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "'Black Box' Revenue From Anthropic and OpenAI Stumps Traders - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.883821964263916,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk\u2019s growing SpaceX empire sends AT&T, Verizon and T-Mobile shares plunging - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9481441974639893,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US stocks rise toward the finish of a record-breaking week - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.7977188229560852,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump orders new investigation of Fed's Lisa Cook - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.8519084453582764,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Google unveils new cloud-based AI agent to compete with Meta, OpenAI - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8513150215148926,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL",
+                "META"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Trump\u2019s beef gamble isn\u2019t paying off - Politico",
             "sentiment": "NEGATIVE",
@@ -14,45 +81,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Nasdaq Opens Higher After Trump Vows Not to Strike Iran Before Midterms \u2014 Live Updates - WSJ",
+            "title": "Americans' debt problems are flashing a warning not seen since the Great Recession - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9527505040168762,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Volkswagen ID.4 Is Dead: Meet Its New Electric SUV Replacement - Motor1.com",
             "sentiment": "POSITIVE",
-            "score": 0.7840700745582581,
+            "score": 0.7296413779258728,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Netflix Gearing Up to Lay Off 5% of Workforce: Report - Variety",
-            "sentiment": "NEGATIVE",
-            "score": 0.9726531505584717,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Consumer sentiment falls to 5-month low as frustration mounts over higher costs - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9699530601501465,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Americans' debt problems are flashing a warning not seen since the Great Recession - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9527505040168762,
-            "signal": "BEARISH",
+            "title": "Micron Stock Pops. Why Buybacks Could be Crucial for Gains. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.7635566592216492,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -92,31 +142,38 @@
             ]
         },
         {
-            "title": "Student loan forgiveness is a ticking tax bomb again, study warns - USA Today",
+            "title": "What Microsoft\u2019s green card suspension means for Seattle-area workers - The Seattle Times",
             "sentiment": "NEGATIVE",
-            "score": 0.7320329546928406,
+            "score": 0.958578884601593,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Severe turbulence diverts New York City flight to Miami, 8 injured - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9572553634643555,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "Stock Market Today: Dow Rallies 400 Points As These Energy Stocks Hit Highs (Live Coverage) - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.849470317363739,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AT&T, Verizon, and T-Mobile Are Dropping on Starlink Fears. Analysts Say Buy. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9693649411201477,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Hershey changes Reese\u2019s Pumpkins packaging after lawsuit over design - Fox Business",
@@ -131,32 +188,6 @@
             "title": "Nobel winner Krugman says France may have become 'too big to save' - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9118762016296387,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "\u2018Indentured servants\u2019: US green card move will hit thousands of IT workers - Al Jazeera",
-            "sentiment": "NEGATIVE",
-            "score": 0.956105649471283,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Anthropic asks users to stop being mean to Claude - The Register",
-            "sentiment": "NEGATIVE",
-            "score": 0.7355048656463623,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -198,81 +229,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "PepsiCo raising prices on Doritos, Ruffles, SunChips and some sodas after recent cuts - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.9429380893707275,
-            "signal": "BULLISH",
+            "title": "American Express fined $350 million for inadequate anti-money laundering controls - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9638171792030334,
+            "signal": "BEARISH",
             "tickers": [
-                "PEP"
+                "AXP"
             ],
-            "primary_ticker": "PEP",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "PEP",
-                    "impact": "positive",
-                    "relevance": "high"
+                    "ticker": "AXP",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Ray Dalio Says AI Bubble Is \u2018Close\u2019 to Bursting as Debt and Rising Rates Raise Red Flags - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.7779403924942017,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "OpenAI withdraws three preprints a day after releasing 722 manuscripts on unsolved math problems - Retraction Watch",
+            "title": "Crumbl closures offer glimpse into pressure on fast-casual, discretionary spending - KUTV",
             "sentiment": "NEGATIVE",
-            "score": 0.9346844553947449,
+            "score": 0.9494042992591858,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nessel accuses Blue Cross Blue Shield of running an illegal monopoly - The Detroit News",
+            "title": "Refinery outages pumping up fuel prices more than cost of crude oil - Federal Reserve Bank of Dallas",
             "sentiment": "NEGATIVE",
-            "score": 0.9090750217437744,
+            "score": 0.9342693090438843,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Tech stocks drop after report that OpenAI\u2019s revenue is lower than expected - CNN",
+            "title": "Nessel accuses Blue Cross Blue Shield of running illegal monopoly - FOX 2 Detroit",
             "sentiment": "NEGATIVE",
-            "score": 0.9754339456558228,
+            "score": 0.9232896566390991,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. Interest Rates Could Rise Over Next Six to Nine Months, Fed\u2019s Musalem Says - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9041389226913452,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Inside Trump investigation of Wells Fargo's Black homeownership program - USA Today",
-            "sentiment": "NEGATIVE",
-            "score": 0.9362528324127197,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Micron Analyst Sees MU Stock Nearly Tripling to $3,000 - Micron Technology (NASDAQ:MU) - Benzinga",
-            "sentiment": "POSITIVE",
-            "score": 0.9126426577568054,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -287,15 +282,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron Stock Drops\u2014and Not Even Samsung\u2019s Record Profit Can Give It a Lift - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.7946897745132446,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "California's once-mighty wine industry is on the ropes - SFGATE",
             "sentiment": "NEGATIVE",
             "score": 0.9190605878829956,
@@ -305,9 +291,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil prices jump on tanker attacks and slowing flows through Strait of Hormuz - Financial Times",
+            "title": "3 Million Student Loan Borrowers Could Face $12,000 Tax Penalty, Warns Group - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.9295273423194885,
+            "score": 0.7383546233177185,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
