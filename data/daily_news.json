@@ -1,53 +1,91 @@
 {
-    "last_updated": "2026-10-10 09:35:13 UTC",
+    "last_updated": "2026-10-10 12:43:37 UTC",
     "total_articles": 31,
-    "bullish_articles": 11,
-    "bearish_articles": 20,
+    "bullish_articles": 12,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "What smart people are saying about the US suspending PERM visas for Microsoft, Adobe, and Indian tech giants - Business Insider",
+            "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9516869783401489,
+            "score": 0.9749020338058472,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "PepsiCo raising prices on Doritos, Ruffles, SunChips and some sodas after recent cuts - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.9429380893707275,
+            "signal": "BULLISH",
             "tickers": [
-                "MSFT",
-                "ADBE"
+                "PEP"
             ],
-            "primary_ticker": "MSFT",
+            "primary_ticker": "PEP",
             "ticker_impacts": [
                 {
-                    "ticker": "MSFT",
-                    "impact": "negative",
+                    "ticker": "PEP",
+                    "impact": "positive",
                     "relevance": "high"
-                },
+                }
+            ]
+        },
+        {
+            "title": "Exclusive: Apple cuts iPhone 18 Pro orders due to soft demand - Nikkei Asia",
+            "sentiment": "NEGATIVE",
+            "score": 0.9689592719078064,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
                 {
-                    "ticker": "ADBE",
+                    "ticker": "AAPL",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Australian data centre operator pulls $5bn IPO - Financial Times",
+            "title": "Nvidia-Backed Firmus IPO Collapses as AI Valuation Concerns Grow - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9482856392860413,
+            "score": 0.9680004715919495,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
         {
-            "title": "American Oil Refiners Are Printing Money as Wars Shrink Global Energy Supplies - WSJ",
+            "title": "Ray Dalio Says AI Bubble Is \u2018Close\u2019 to Bursting as Debt and Rising Rates Raise Red Flags - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.7779403924942017,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Guggenheim Funds\u2019 Outflows Surged to $2.4 Billion in September - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7510268688201904,
+            "score": 0.9122879505157471,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Anthropic bans 'cruel' behavior against its Claude AI - Yahoo Tech",
+            "sentiment": "NEGATIVE",
+            "score": 0.8433735370635986,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -61,6 +99,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Stocks Bounce as Oil Falls and AI Worries Ease: Markets Wrap - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7656723856925964,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Mortgage rates hit 7.4 percent for first time since November 2023 - The Hill",
@@ -90,28 +145,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX Announces Spectrum Deal for Starlink Mobile Phone Service - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9644151926040649,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "U.S. Treasury Yields Retreat From Early Highs; Eurozone Yields Remain Elevated - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.8238317966461182,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Chip Foundry TSMC Beats September Sales Target - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9393731355667114,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -126,21 +163,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "'We don\u2019t feel good': PepsiCo plans price hike after offsetting cost with $178 million tariff refund - Fortune",
+            "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.8735330104827881,
+            "score": 0.9585068225860596,
             "signal": "BEARISH",
-            "tickers": [
-                "PEP"
-            ],
-            "primary_ticker": "PEP",
-            "ticker_impacts": [
-                {
-                    "ticker": "PEP",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Refinery outages pumping up fuel prices more than cost of crude oil - Federal Reserve Bank of Dallas",
+            "sentiment": "NEGATIVE",
+            "score": 0.9342693090438843,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "U.S. Interest Rates Could Rise Over Next Six to Nine Months, Fed\u2019s Musalem Says - WSJ",
@@ -179,23 +217,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "The Walmart Deals event is still going strong \u2014 we're eyeing these 40+ major discounts - Yahoo",
-            "sentiment": "NEGATIVE",
-            "score": 0.8456066846847534,
-            "signal": "BEARISH",
-            "tickers": [
-                "WMT"
-            ],
-            "primary_ticker": "WMT",
-            "ticker_impacts": [
-                {
-                    "ticker": "WMT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "The Memory Trade Cools After Samsung\u2019s Preliminary Results Disappoint - Investopedia",
             "sentiment": "NEGATIVE",
             "score": 0.8271726965904236,
@@ -223,15 +244,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "How U.S. states address latest teenage craze wreaking havoc: E-bikes - The Seattle Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8358271718025208,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Prediction: These 2 Stocks Will Be Worth More Than Palantir 5 Years From Now - The Motley Fool",
             "sentiment": "POSITIVE",
             "score": 0.9198923707008362,
@@ -250,27 +262,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil prices jump on tanker attack and slowing flows through Strait of Hormuz - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9502571821212769,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Applied Digital\u2019s Earnings Show Its Data Center Bet Is Starting to Pay Off - Barron's",
             "sentiment": "POSITIVE",
             "score": 0.9562177062034607,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The American Dream now costs $5.3 million \u2014 nearly $2 million more than just three years ago - New York Post",
-            "sentiment": "POSITIVE",
-            "score": 0.9247744679450989,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -295,15 +289,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Fed\u2019s Waller sees additional rate hikes to get inflation down faster - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.817111074924469,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Argenx digests phase 2 celiac win for $2.2B drug, preps pivotal run - Fierce Biotech",
             "sentiment": "POSITIVE",
             "score": 0.9310432076454163,
@@ -317,6 +302,15 @@
             "sentiment": "NEGATIVE",
             "score": 0.7757736444473267,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Exclusive | Pandemic-era homeowners face $1,000-a-month increase in mortgages as ultra-low rates finally expire - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.7806538939476013,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
