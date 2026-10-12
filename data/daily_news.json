@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-10-12 03:53:09 UTC",
-    "total_articles": 31,
-    "bullish_articles": 8,
-    "bearish_articles": 23,
+    "last_updated": "2026-10-12 07:12:00 UTC",
+    "total_articles": 32,
+    "bullish_articles": 10,
+    "bearish_articles": 22,
     "articles": [
+        {
+            "title": "China\u2019s growing debt burden limits space for economic stimulus - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9404099583625793,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "America\u2019s EV Downturn Hides a Silver Lining: Charging Is Quietly Getting Better - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9027960896492004,
+            "score": 0.9027959108352661,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,9 +32,35 @@
             "ticker_impacts": []
         },
         {
+            "title": "Nvidia Discusses Boosting Reflection Investment, Computing Deal - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8983048796653748,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "AI Issuers Are Upending Longstanding Safety Valve - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9293655753135681,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Cloudflare acquires Deno to improve its Workers programming model - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.9122523069381714,
+            "score": 0.9122518301010132,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -51,16 +86,7 @@
         {
             "title": "Coalition Files Emergency Motion to Stop Trump FCC From Unleashing Media Consolidation Spree - Common Dreams",
             "sentiment": "NEGATIVE",
-            "score": 0.7052252292633057,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The surprising post-pandemic drop in income inequality - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.8976585268974304,
+            "score": 0.7052249908447266,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -69,7 +95,7 @@
         {
             "title": "SpaceX spectrum acquisition ripples through telecom stocks - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.9434422254562378,
+            "score": 0.9434421062469482,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -78,7 +104,7 @@
         {
             "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7472579479217529,
+            "score": 0.747258186340332,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -95,7 +121,7 @@
         {
             "title": "\u2018People feeling like they\u2019re going backwards\u2019: KIRO hosts debate wages, living costs after WA ferry disruptions - MyNorthwest.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8565031290054321,
+            "score": 0.85650235414505,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -111,19 +137,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "AI borrowing slows as investors grow wary of debt binge - Financial Times",
+            "title": "Thieves pull off Italy\u2019s biggest-ever wine heist, stealing 30,000 bottles worth $5.8M - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.7069126963615417,
+            "score": 0.8596001267433167,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The world of one trade \u2014 AI - Financial Times",
+            "title": "Anthropic AI model submits false homicide tip to Philadelphia police - Al Jazeera",
             "sentiment": "NEGATIVE",
-            "score": 0.906955361366272,
+            "score": 0.9463114142417908,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Chinese camera rivals battle for dominance after GoPro\u2019s decline - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8441346883773804,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -131,7 +166,7 @@
         {
             "title": "A mathematician says OpenAI wiped out entire research programs in one day - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.8557565212249756,
+            "score": 0.8557565808296204,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -149,7 +184,7 @@
         {
             "title": "Why Record Crude Output Can't Solve America's Diesel Crisis - Crude Oil Prices Today | OilPrice.com",
             "sentiment": "NEGATIVE",
-            "score": 0.88013756275177,
+            "score": 0.8801369071006775,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -174,6 +209,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "These 18 million households now rank as the richest in the U.S., new Fed data shows - CBS News",
+            "sentiment": "POSITIVE",
+            "score": 0.8454479575157166,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Moderna stock hits 4-year high on planned national cancer vaccine effort - Yahoo Finance",
             "sentiment": "POSITIVE",
             "score": 0.9360644221305847,
@@ -183,27 +227,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Thieves steal 30,000 bottles of Italy's most prized wines in $5.8 million heist - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7841017842292786,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Federal budget deficit hits $2T as national debt costs surge - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.7919430732727051,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "'Black Box' Revenue From Anthropic and OpenAI Stumps Traders - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8838224411010742,
+            "score": 0.883821964263916,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -220,7 +246,7 @@
         {
             "title": "Amazon Prime Day might be over, but the deals aren't \u2014 score major savings on Stanley, Carhartt, Lego and more this weekend - Yahoo",
             "sentiment": "POSITIVE",
-            "score": 0.7045049071311951,
+            "score": 0.7045037746429443,
             "signal": "BULLISH",
             "tickers": [
                 "AMZN"
@@ -237,7 +263,7 @@
         {
             "title": "100M Emails, 500M Chats: Google's Bid for Bankrupt Spirit Airlines' Data to Train AI Raises Privacy Alarm - International Business Times UK",
             "sentiment": "NEGATIVE",
-            "score": 0.9169968962669373,
+            "score": 0.9169968366622925,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -254,7 +280,7 @@
         {
             "title": "Trump\u2019s beef gamble isn\u2019t paying off - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.7967432737350464,
+            "score": 0.7967434525489807,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -272,7 +298,7 @@
         {
             "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8559255599975586,
+            "score": 0.8559253811836243,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -290,7 +316,7 @@
         {
             "title": "Stock Market Today: Dow Rallies 400 Points As These Energy Stocks Hit Highs (Live Coverage) - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.8494704961776733,
+            "score": 0.849470317363739,
             "signal": "BULLISH",
             "tickers": [
                 "AAPL"
@@ -316,16 +342,7 @@
         {
             "title": "Micron Stock Falls. Why Buybacks Could be Crucial for Gains. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.784791886806488,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'Careless use of AI is the real threat - not the ghost stories' - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7345482707023621,
+            "score": 0.7847917675971985,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
