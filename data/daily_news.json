@@ -1,17 +1,124 @@
 {
-    "last_updated": "2026-10-13 12:50:59 UTC",
+    "last_updated": "2026-10-13 15:36:34 UTC",
     "total_articles": 25,
-    "bullish_articles": 5,
-    "bearish_articles": 20,
+    "bullish_articles": 7,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Concerns Over U.S. Fiscal Outlook Could Keep Long-End Treasury Yields Elevated - WSJ",
+            "title": "Micron Stock Drops as Chinese Rival CXMT Advances New Chip - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.912321150302887,
+            "score": 0.9553743600845337,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9447979927062988,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Salesforce Climbs Amid Bank Of America Upgrade To Buy On Improved AI Trends - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9539918899536133,
+            "signal": "BULLISH",
+            "tickers": [
+                "CRM",
+                "BAC"
+            ],
+            "primary_ticker": "CRM",
+            "ticker_impacts": [
+                {
+                    "ticker": "CRM",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "BAC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "A handful of tech stocks are masking an ugly S&P 500 problem - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9575421214103699,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9435258507728577,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA",
+                "MSFT"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Mike Rowe says CEOs are 'freaking out' over barriers to recruiting skilled trades workers - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.8367138504981995,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Cyberattack shuts down French supermarket refrigerators - France 24",
+            "sentiment": "NEGATIVE",
+            "score": 0.9557957053184509,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Lufthansa Boeing 747 Performs Eye-Catching Go-Around At LAX - One Mile at a Time",
+            "sentiment": "NEGATIVE",
+            "score": 0.8098275065422058,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "AI agents are going rogue \u2014 and the law can\u2019t keep up - Politico",
@@ -46,10 +153,10 @@
             ]
         },
         {
-            "title": "U.S. restrictions on Chinese drones are leaving police departments in the lurch - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9081345796585083,
-            "signal": "BEARISH",
+            "title": "Oil prices fluctuate on Trump's Russian diesel comments, attacks on Saudi - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9488599300384521,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -82,27 +189,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "CNBC Daily Open: Will America open another front in the Middle East? Trump is considering - CNBC",
+            "title": "Wall Street\u2019s record-breaking trading streak set to cool - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.7366615533828735,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why China is importing a record amount of gold \u2014 and what it means for prices - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8826729655265808,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "McKinsey Strips Partner of Leadership Role Over LinkedIn Posts - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9436013102531433,
+            "score": 0.9696781635284424,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -118,10 +207,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "VW chief calls for France and Germany to co-operate on China car fightback - Financial Times",
+            "title": "CNBC Daily Open: Will America open another front in the Middle East? Trump is considering - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.7366615533828735,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Amazon emerges as potential buyer of Israeli AI startup Decart at $7 billion - CTech",
             "sentiment": "POSITIVE",
-            "score": 0.8945260047912598,
+            "score": 0.880124032497406,
             "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Ransomware negotiator arrested on federal charges as FBI probes hacking of personnel files - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8468784689903259,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AstraZeneca blames trial design for Phase 3 failure of bone disease drug - Endpoints News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9644933938980103,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -134,23 +258,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Dozens sick, hospitalized from apparent food poisoning in Lebanon - WKRN News 2",
-            "sentiment": "NEGATIVE",
-            "score": 0.9522079229354858,
-            "signal": "BEARISH",
-            "tickers": [
-                "WMT"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "WMT",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Bill Gates warns cyberattacks most imminent AI threat - Yahoo",
@@ -179,68 +286,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "What to Expect in Markets This Week: Big Bank Reports Fire Up Earnings Season; Inflation, Retail Sales Figures Land - Investopedia",
+            "title": "Foreign investors flee South Korean stocks as AI boom loses steam By Investing.com - Investing.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9636410474777222,
+            "score": 0.9200659990310669,
             "signal": "BEARISH",
-            "tickers": [
-                "BAC",
-                "JPM"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "BAC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "AI may change the price of your Big Mac and groceries \u2014 what this means for shoppers - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8623878359794617,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Foreign investors flee South Korean stocks as AI boom loses steam - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9694443941116333,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Bessent mocks Sen Warren, wishes her 'Happy Indigenous Peoples' Day' in response to letter - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.8644943833351135,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis - Crude Oil Prices Today | OilPrice.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9276435971260071,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -253,41 +302,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Why Micron Stock is Struggling Despite Revenue Growth and a Low Valuation - Benzinga",
-            "sentiment": "NEGATIVE",
-            "score": 0.8932541608810425,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "India Slams Vance Over 'Indentured Servants' Remark - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.9253910779953003,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.747258186340332,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         }
     ]
 }
