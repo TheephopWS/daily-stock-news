@@ -1,112 +1,39 @@
 {
-    "last_updated": "2026-10-13 15:36:34 UTC",
-    "total_articles": 25,
-    "bullish_articles": 7,
-    "bearish_articles": 18,
+    "last_updated": "2026-10-13 18:42:42 UTC",
+    "total_articles": 27,
+    "bullish_articles": 11,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "Micron Stock Drops as Chinese Rival CXMT Advances New Chip - Barron's",
+            "title": "French Supermarket Refrigeration Sites Hit by Cyberattacks - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9553743600845337,
+            "score": 0.9601424336433411,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task - CNBC",
+            "title": "Mark Zuckerberg says Meta has reached AI \u2018frontier\u2019 and rejects calls for slowdown - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.9447979927062988,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Salesforce Climbs Amid Bank Of America Upgrade To Buy On Improved AI Trends - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9539918899536133,
+            "score": 0.7758651971817017,
             "signal": "BULLISH",
             "tickers": [
-                "CRM",
-                "BAC"
+                "META"
             ],
-            "primary_ticker": "CRM",
+            "primary_ticker": "META",
             "ticker_impacts": [
                 {
-                    "ticker": "CRM",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "BAC",
+                    "ticker": "META",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "A handful of tech stocks are masking an ugly S&P 500 problem - Yahoo Finance",
+            "title": "Terrifying moment massive Boeing 747 bounces off runway at LAX as tail scrapes ground - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9575421214103699,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9435258507728577,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA",
-                "MSFT"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Mike Rowe says CEOs are 'freaking out' over barriers to recruiting skilled trades workers - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.8367138504981995,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Cyberattack shuts down French supermarket refrigerators - France 24",
-            "sentiment": "NEGATIVE",
-            "score": 0.9557957053184509,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Lufthansa Boeing 747 Performs Eye-Catching Go-Around At LAX - One Mile at a Time",
-            "sentiment": "NEGATIVE",
-            "score": 0.8098275065422058,
+            "score": 0.7234264016151428,
             "signal": "BEARISH",
             "tickers": [
                 "BA"
@@ -121,9 +48,126 @@
             ]
         },
         {
+            "title": "Continued growth in the third quarter of 2026 - LVMH",
+            "sentiment": "POSITIVE",
+            "score": 0.9000457525253296,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9447979927062988,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why IonQ Is Betting Big on Quantum Cybersecurity With $1.3 Billion Elisity Acquisition - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.8460047841072083,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Salesforce Climbs Amid Bank Of America Upgrade To Buy On Improved AI Trends - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9539920091629028,
+            "signal": "BULLISH",
+            "tickers": [
+                "BAC",
+                "CRM"
+            ],
+            "primary_ticker": "BAC",
+            "ticker_impacts": [
+                {
+                    "ticker": "BAC",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "CRM",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "A handful of tech stocks are masking an ugly S&P 500 problem - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9575422406196594,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Why SpaceX\u2019s Spectrum Purchase Is Good for AST SpaceMobile Stock - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9507002234458923,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9435258507728577,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT",
+                "NVDA"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "\u2018Security Issue\u2019 Reported at Ahold Delhaize - Progressive Grocer",
+            "sentiment": "NEGATIVE",
+            "score": 0.8917599320411682,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mike Rowe says CEOs are 'freaking out' over barriers to recruiting skilled trades workers - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.8367140293121338,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "AI agents are going rogue \u2014 and the law can\u2019t keep up - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.7116690278053284,
+            "score": 0.7116687893867493,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -132,7 +176,7 @@
         {
             "title": "Nvidia and Micron Technology Just Received Some Very Bad News From an Unlikely Place - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.8560822606086731,
+            "score": 0.856082022190094,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA",
@@ -162,6 +206,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Jeff Bezos says he gets why socialism is surging\u2014but politicians blaming \u2018greedy landlords\u2019 have housing all wrong - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.7340341210365295,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Volkswagen Vehicle Deliveries Fall on Continued China Weakness - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.9667083621025085,
@@ -180,15 +241,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "TikTok CEO sees major scientific breakthroughs from AI within three years - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.867102861404419,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Wall Street\u2019s record-breaking trading streak set to cool - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9696781635284424,
@@ -198,19 +250,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bond Selloff May Mean Fewer Rate Hikes From Global Central Banks - Bloomberg.com",
+            "title": "Executive MBA Ranking 2026: Alumni pay recovers from Covid dip - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.9221005439758301,
+            "score": 0.9220789074897766,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "CNBC Daily Open: Will America open another front in the Middle East? Trump is considering - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7366615533828735,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -218,7 +261,7 @@
         {
             "title": "Amazon emerges as potential buyer of Israeli AI startup Decart at $7 billion - CTech",
             "sentiment": "POSITIVE",
-            "score": 0.880124032497406,
+            "score": 0.8801240921020508,
             "signal": "BULLISH",
             "tickers": [
                 "AMZN"
@@ -235,7 +278,7 @@
         {
             "title": "Ransomware negotiator arrested on federal charges as FBI probes hacking of personnel files - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8468784689903259,
+            "score": 0.8468785285949707,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -246,6 +289,15 @@
             "sentiment": "NEGATIVE",
             "score": 0.9644933938980103,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Fed minutes: Another rate hike likely coming this year to combat persistent inflation - ABC7 Los Angeles",
+            "sentiment": "POSITIVE",
+            "score": 0.7382540106773376,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -262,7 +314,7 @@
         {
             "title": "Bill Gates warns cyberattacks most imminent AI threat - Yahoo",
             "sentiment": "NEGATIVE",
-            "score": 0.8520294427871704,
+            "score": 0.8520296812057495,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -280,24 +332,6 @@
             "title": "NJ Transit riders face 5 weeks of schedule disruptions starting Sunday - Gothamist",
             "sentiment": "NEGATIVE",
             "score": 0.9589329957962036,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Foreign investors flee South Korean stocks as AI boom loses steam By Investing.com - Investing.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9200659990310669,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AI Issuers Are Upending Longstanding Safety Valve - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9293655753135681,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
