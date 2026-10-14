@@ -1,13 +1,76 @@
 {
-    "last_updated": "2026-10-14 12:43:21 UTC",
-    "total_articles": 35,
-    "bullish_articles": 12,
-    "bearish_articles": 23,
+    "last_updated": "2026-10-14 15:35:50 UTC",
+    "total_articles": 37,
+    "bullish_articles": 10,
+    "bearish_articles": 27,
     "articles": [
         {
-            "title": "Stock futures are mixed as bank earnings roll out; memory names slide after sell-off in Korea: Live updates - CNBC",
+            "title": "Stock Market Today: Dow falls 170 points despite strong Goldman Sachs earnings; chip selloff deepens - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9560196995735168,
+            "score": 0.9704639911651611,
+            "signal": "BEARISH",
+            "tickers": [
+                "GS",
+                "JPM"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Bank earnings takeaways: Here's how JPMorgan, Goldman, Wells Fargo and Citi performed in Q3 - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9497219324111938,
+            "signal": "BEARISH",
+            "tickers": [
+                "JPM",
+                "GS"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Google finally releases Gemini 4 Argon - The Verge",
+            "sentiment": "POSITIVE",
+            "score": 0.9198347926139832,
+            "signal": "BULLISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "SpaceX stock slammed as AI memory trade crumbles in South Korea - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9604422450065613,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -31,18 +94,142 @@
             ]
         },
         {
-            "title": "Investigators hunt hackers who heated French supermarket fridges, sparking fires and spiling food - NBC News",
+            "title": "Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence - ABC News - Breaking News, Latest News and Videos",
             "sentiment": "NEGATIVE",
-            "score": 0.8851749300956726,
+            "score": 0.9515277743339539,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "HR giant ordered to pay $400,000 to job applicant who wanted to bring a service dog to work - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9368704557418823,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "JPMorgan Reports Surprise Drop in Fixed-Income Trading Revenue - Bloomberg.com",
+            "title": "Romance scammers are getting harder to catch. The consequences are costly. - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.97621750831604,
+            "score": 0.811636745929718,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "UnitedHealth Earnings Beat Wall Street Estimates. The Turnaround Continues. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9527352452278137,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Goldman Sachs profits surge 29% as trading boom holds up better than expected - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.953375518321991,
+            "signal": "BULLISH",
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8268613815307617,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.7766293883323669,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "It's Probably for the Best This Qantas Flight Was Grounded - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.9610722661018372,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.7239460945129395,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Blackstone\u2019s Gray, Fed\u2019s Waller See Warning From France\u2019s Stress - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8645581603050232,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nasdaq Futures Fall as Global AI Selloff Intensifies - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9494085311889648,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Earnings live updates: Citi stock rises after bank posts best Q3 revenue in a decade - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8951396346092224,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "This Town Was Named the Best Suburb to Live in the U.S.\u2014With 12 Parks, Scenic Trails, and a Charming Downtown - Travel + Leisure",
+            "sentiment": "POSITIVE",
+            "score": 0.8994645476341248,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "JPMorgan Posts Surprise Drop in Fixed-Income Trading Revenue - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9762129783630371,
             "signal": "BEARISH",
             "tickers": [
                 "JPM"
@@ -57,45 +244,36 @@
             ]
         },
         {
-            "title": "UnitedHealth Group raises profit forecast on third-quarter earnings beat - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9485167264938354,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Visa gets approval for China card business ahead of Trump-Xi summit - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.875383198261261,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China\u2019s CXMT Claims Memory Breakthrough Ahead of Samsung, Hynix - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7702574133872986,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen - CNBC",
+            "title": "Pickleball company files for bankruptcy as founder acknowledges business mistake: \u2018I own it\u2019 - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9633797407150269,
+            "score": 0.9106302261352539,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Kroger to cut 3K corporate jobs over the next 3 years - Grocery Dive",
+            "title": "Eric Trump Calls Out People Criticizing Susan Dell\u2019s Appearance - Newsweek",
             "sentiment": "NEGATIVE",
-            "score": 0.9659291505813599,
+            "score": 0.8426690101623535,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Investors brave US Treasury rout to lock in highest yields in decades - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.9367517232894897,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Chip stocks slide in wake of \u2018casino\u2019 comment by Broadcom boss - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9679849743843079,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -104,7 +282,7 @@
         {
             "title": "Starlink Is Getting A Key Upgrade To Start Competing With T-Mobile And AT&T - BGR",
             "sentiment": "POSITIVE",
-            "score": 0.7131648659706116,
+            "score": 0.7131655216217041,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -146,26 +324,41 @@
             "ticker_impacts": []
         },
         {
-            "title": "Chip Stocks Fall As Broadcom, Intel CEOs Warn About AI Funding - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9732584357261658,
-            "signal": "BEARISH",
+            "title": "Stock Market Today: Dow Higher, Nasdaq Drops As Memory Names Fall; Meta Snaps Losing Streak - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.7841148972511292,
+            "signal": "BULLISH",
             "tickers": [
-                "INTC"
+                "META",
+                "CRM"
             ],
-            "primary_ticker": "INTC",
+            "primary_ticker": "META",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
-                    "impact": "negative",
+                    "ticker": "META",
+                    "impact": "positive",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "CRM",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Oil Climbs as Fighting Flares in Middle East, Ukraine - WSJ",
+            "title": "Exclusive | Retirement Savers Sue Dodgers Owner Mark Walter Saying His Insurers Misled Them - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9271404147148132,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why SpaceX\u2019s Spectrum Purchase Is Good for AST SpaceMobile Stock - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.7047398686408997,
+            "score": 0.9507002234458923,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -174,26 +367,8 @@
         {
             "title": "Starbucks says it is not buying Chipotle following deal speculation - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.877196192741394,
+            "score": 0.8771959543228149,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Pickleball facility franchisor files for bankruptcy as founder acknowledges business mistake: 'I own it' - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9686851501464844,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8741122484207153,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -208,104 +383,28 @@
             "ticker_impacts": []
         },
         {
+            "title": "Albertsons Seeks More Than $9 Billion Over Busted Kroger Deal - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.8492554426193237,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "FERC rejects most of PJM\u2019s large load interconnection plan - Utility Dive",
             "sentiment": "NEGATIVE",
-            "score": 0.9223378896713257,
+            "score": 0.9223380088806152,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Arizona breweries win big at the 2026 Great American Beer Festival - Phoenix New Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8331148624420166,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Micron board raises buyback ceiling to $35.16bn - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9207331538200378,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Dollar hovers near 18-month high as Gulf unrest, US inflation keep investors on edge - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9338240027427673,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Pregnant Influencer Says Flight Attendant Refused to Help Lift Her Bag into Overhead Bin - People.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9040510058403015,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Salesforce Climbs Amid Bank Of America Upgrade To Buy On Improved AI Trends - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9539918899536133,
-            "signal": "BULLISH",
-            "tickers": [
-                "BAC",
-                "CRM"
-            ],
-            "primary_ticker": "BAC",
-            "ticker_impacts": [
-                {
-                    "ticker": "BAC",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "CRM",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "A handful of tech stocks are masking an ugly S&P 500 problem - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9575421214103699,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "\u2018Security Issue\u2019 Reported at Ahold Delhaize - Progressive Grocer",
             "sentiment": "NEGATIVE",
-            "score": 0.8917608857154846,
+            "score": 0.891759991645813,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "BMS doubles up with pivotal wins in lung disease, solid tumor that offer hope for post-patent cliff growth - Fierce Biotech",
-            "sentiment": "POSITIVE",
-            "score": 0.8168849349021912,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -320,18 +419,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "AI agents are going rogue \u2014 and the law can\u2019t keep up - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.7116690278053284,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Nvidia and Micron Technology Just Received Some Very Bad News From an Unlikely Place - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.8560822606086731,
+            "score": 0.8560823798179626,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA",
@@ -350,42 +440,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Bankruptcy judge lifts pause on wrongful death lawsuits against Camp Mystic - KUT",
-            "sentiment": "NEGATIVE",
-            "score": 0.915448009967804,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Is 8% next? Why mortgage rates have surged, and may stay higher for longer - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9326096177101135,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China\u2019s Auto Sales Fall Despite Traditional Peak Season - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9650798439979553,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Ransomware negotiator arrested on federal charges as FBI probes hacking of personnel files - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8468784689903259,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
