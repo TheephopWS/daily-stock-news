@@ -1,14 +1,58 @@
 {
-    "last_updated": "2026-10-15 03:37:44 UTC",
-    "total_articles": 26,
-    "bullish_articles": 7,
-    "bearish_articles": 19,
+    "last_updated": "2026-10-15 06:49:06 UTC",
+    "total_articles": 31,
+    "bullish_articles": 6,
+    "bearish_articles": 25,
     "articles": [
+        {
+            "title": "ASML says it's getting order interest through 2030 as profit smashes expectations - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9191727638244629,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "CVS Pharmacy reaches $315M settlement with Justice Department over controlled substance prescriptions - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.8344219326972961,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "China\u2019s exports surge 36% as AI-related shipments boom - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.896020233631134,
+            "score": 0.8960199952125549,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bank of America fined $1.2bn over failing to stop money laundering - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9508587718009949,
+            "signal": "BEARISH",
+            "tickers": [
+                "BAC"
+            ],
+            "primary_ticker": "BAC",
+            "ticker_impacts": [
+                {
+                    "ticker": "BAC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room - The Hacker News",
+            "sentiment": "NEGATIVE",
+            "score": 0.927868127822876,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -34,7 +78,7 @@
         {
             "title": "Stock Market News, Oct. 13, 2026: Stocks Slip Despite Solid Wall Street Results - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9629297852516174,
+            "score": 0.962929904460907,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -43,17 +87,8 @@
         {
             "title": "Is it OK for jobseekers or employers to use AI? - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7095114588737488,
+            "score": 0.7095109820365906,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Asia Stocks to Gain on Signal for Fewer Fed Hikes: Markets Wrap - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.900546133518219,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -61,7 +96,7 @@
         {
             "title": "Goldman Jumps On Strong Earnings. But Big Bank Rivals Waver, Fall. - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9106449484825134,
+            "score": 0.9106452465057373,
             "signal": "BEARISH",
             "tickers": [
                 "JPM"
@@ -85,6 +120,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work - 404 Media",
+            "sentiment": "NEGATIVE",
+            "score": 0.8917319178581238,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9488784074783325,
@@ -102,6 +146,15 @@
             ]
         },
         {
+            "title": "Arm shares fall after jury rules in favor of Qualcomm in license dispute - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9746916890144348,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "French supermarkets face millions in losses after cyberattack hits refrigerators nationwide - Fox News",
             "sentiment": "NEGATIVE",
             "score": 0.9655393958091736,
@@ -111,9 +164,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "CVS agrees to pay $315 million to settle Justice Department case over opioid prescriptions - AP News",
+            "title": "Diesel futures jump, signaling higher prices to come despite Trump\u2019s Russia deal - NBC News",
             "sentiment": "POSITIVE",
-            "score": 0.7034890055656433,
+            "score": 0.9104793071746826,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -122,7 +175,7 @@
         {
             "title": "Domino\u2019s Pizza Sales Squeezed by Gas Costs - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9450243711471558,
+            "score": 0.9450244903564453,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -140,7 +193,7 @@
         {
             "title": "Dodgers owner Mark Walter\u2019s legal troubles deepen with wave of new lawsuits - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.7782888412475586,
+            "score": 0.7782889604568481,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -149,7 +202,7 @@
         {
             "title": "IMF chief warns AI\u2019s \u2018slow-moving tsunami\u2019 is coming\u2014and it could leave Gen Z grads as baristas - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.793565034866333,
+            "score": 0.7935648560523987,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -158,7 +211,7 @@
         {
             "title": "Romance scammers are getting harder to catch. The consequences are costly. - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.8116363883018494,
+            "score": 0.8116362690925598,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -194,7 +247,7 @@
         {
             "title": "Earnings live updates: JPMorgan, Goldman Sachs stocks rise as big banks kick off Q3 earnings season - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.720817506313324,
+            "score": 0.7208147644996643,
             "signal": "BULLISH",
             "tickers": [
                 "GS",
@@ -217,7 +270,7 @@
         {
             "title": "JPMorgan profits rise as Jamie Dimon warns economic forces 'shift under the surface' - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8176188468933105,
+            "score": 0.8176192045211792,
             "signal": "BEARISH",
             "tickers": [
                 "JPM"
@@ -232,26 +285,26 @@
             ]
         },
         {
-            "title": "Meta has reached AI \u2018frontier,\u2019 Zuckerberg says - Semafor",
-            "sentiment": "POSITIVE",
-            "score": 0.8155066967010498,
-            "signal": "BULLISH",
+            "title": "Cracks Grow Across the AI Trade as Memory-Chip Stocks Tumble - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9665575623512268,
+            "signal": "BEARISH",
             "tickers": [
-                "META"
+                "INTC"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "high"
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
         {
             "title": "Starbucks says it is not buying Chipotle following deal speculation - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8771959543228149,
+            "score": 0.877196192741394,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -260,7 +313,7 @@
         {
             "title": "Trump\u2019s massive $150 billion manufacturing boom just hit a major snag: WSJ - AlterNet",
             "sentiment": "NEGATIVE",
-            "score": 0.9200426936149597,
+            "score": 0.9200425744056702,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
