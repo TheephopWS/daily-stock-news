@@ -1,31 +1,22 @@
 {
-    "last_updated": "2026-10-14 21:31:24 UTC",
-    "total_articles": 25,
-    "bullish_articles": 4,
-    "bearish_articles": 21,
+    "last_updated": "2026-10-15 01:00:51 UTC",
+    "total_articles": 27,
+    "bullish_articles": 7,
+    "bearish_articles": 20,
     "articles": [
         {
-            "title": "S&P 500 closes near flat after big banks post earnings and memory chip stocks decline - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.970349133014679,
-            "signal": "BEARISH",
+            "title": "United Airlines is making it harder to reach its top frequent flyer status in 2027 - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8900418281555176,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Food Lion, Stop & Shop and Hannaford websites face outages after cybersecurity issue - Fox Business",
+            "title": "Bank of America fined $1.2 billion by Treasury Department for anti-money laundering and sanctions laws violations - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9657710194587708,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bank of America hit with $1.2B in penalties over money laundering compliance failures - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9567304849624634,
+            "score": 0.9287095665931702,
             "signal": "BEARISH",
             "tickers": [
                 "BAC"
@@ -38,6 +29,24 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Food Lion, Stop & Shop and Hannaford websites face outages after cybersecurity issue - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9657710194587708,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work - 404 Media",
+            "sentiment": "NEGATIVE",
+            "score": 0.8917319178581238,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence - AP News",
@@ -57,26 +66,9 @@
             ]
         },
         {
-            "title": "Why Micron Stock (MU) Is Falling Today: Musk Flags China Chip Threat - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9582372307777405,
-            "signal": "BEARISH",
-            "tickers": [
-                "MU"
-            ],
-            "primary_ticker": "MU",
-            "ticker_impacts": [
-                {
-                    "ticker": "MU",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "The latest inflation data is expected to show price increases are accelerating - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9481721520423889,
+            "score": 0.9481720328330994,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -92,53 +84,59 @@
             "ticker_impacts": []
         },
         {
-            "title": "FTC: \u2018Pharma bro\u2019 Shkreli violated lifetime industry ban, should be held in contempt - The Hill",
-            "sentiment": "NEGATIVE",
-            "score": 0.8221570253372192,
-            "signal": "BEARISH",
-            "tickers": [
-                "FTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "FTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "CVS agrees to pay $315 million to settle Justice Department case over opioid prescriptions - AP News",
+            "title": "Diesel futures jump, signaling higher prices to come despite Trump\u2019s Russia deal - NBC News",
             "sentiment": "POSITIVE",
-            "score": 0.7034890055656433,
+            "score": 0.9104793071746826,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Albertsons hastens cost-cutting drive as sales continue to flounder - Yahoo Finance",
+            "title": "CVS agrees to pay $315 million to settle Justice Department case over opioid prescriptions - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.7034885287284851,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bank earnings takeaways: Here's how JPMorgan, Goldman, Wells Fargo and Citi performed in Q3 - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9722070693969727,
+            "score": 0.9497219324111938,
+            "signal": "BEARISH",
+            "tickers": [
+                "JPM",
+                "GS"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GS",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Domino\u2019s Pizza Sales Squeezed by Gas Costs - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9450244903564453,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Johnson & Johnson stock falls despite strong earnings as investors focus on medtech unit - Yahoo Finance",
+            "title": "SpaceX stock slammed as AI memory trade crumbles in South Korea - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9722468256950378,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Some who have taken hyped, unregulated peptides have regrets - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9120970964431763,
+            "score": 0.9604422450065613,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -147,16 +145,16 @@
         {
             "title": "Dodgers owner Mark Walter\u2019s legal troubles deepen with wave of new lawsuits - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.7782888412475586,
+            "score": 0.7782889604568481,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset - TechCrunch",
+            "title": "Romance scammers are getting harder to catch. The consequences are costly. - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9389493465423584,
+            "score": 0.8116362690925598,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -183,7 +181,7 @@
         {
             "title": "AI bubble could burst and take global economy with it, IMF warns - The Register",
             "sentiment": "NEGATIVE",
-            "score": 0.9627701044082642,
+            "score": 0.9627701640129089,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -192,16 +190,48 @@
         {
             "title": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7766289114952087,
+            "score": 0.776629626750946,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "It's Probably for the Best This Qantas Flight Was Grounded - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.9610722661018372,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Earnings live updates: JPMorgan, Goldman Sachs stocks rise as big banks kick off Q3 earnings season - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.7208147644996643,
+            "signal": "BULLISH",
+            "tickers": [
+                "GS",
+                "JPM"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "JPM",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "JPMorgan profits rise as Jamie Dimon warns economic forces 'shift under the surface' - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8176188468933105,
+            "score": 0.8176192045211792,
             "signal": "BEARISH",
             "tickers": [
                 "JPM"
@@ -216,27 +246,35 @@
             ]
         },
         {
-            "title": "Medicare coverage options are changing. Here's what beneficiaries should know - CBS News",
+            "title": "Oil prices mixed as traders assess Russian diesel supply prospects and Saudi-Houthi conflict - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9548680186271667,
+            "score": 0.7482028603553772,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oil Climbs as Fighting Flares in Middle East, Ukraine - WSJ",
+            "title": "Meta has reached AI \u2018frontier,\u2019 Zuckerberg says - Semafor",
             "sentiment": "POSITIVE",
-            "score": 0.7047398090362549,
+            "score": 0.8155068159103394,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Starbucks says it is not buying Chipotle following deal speculation - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8771959543228149,
+            "score": 0.877196192741394,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -254,7 +292,7 @@
         {
             "title": "Albertsons Seeks More Than $9 Billion Over Busted Kroger Deal - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8492556810379028,
+            "score": 0.8492552638053894,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
