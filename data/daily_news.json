@@ -1,32 +1,57 @@
 {
-    "last_updated": "2026-10-15 06:49:06 UTC",
-    "total_articles": 31,
-    "bullish_articles": 6,
-    "bearish_articles": 25,
+    "last_updated": "2026-10-15 09:36:12 UTC",
+    "total_articles": 32,
+    "bullish_articles": 9,
+    "bearish_articles": 23,
     "articles": [
         {
-            "title": "ASML says it's getting order interest through 2030 as profit smashes expectations - CNBC",
+            "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge higher ahead of CPI inflation data, earnings - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9191727638244629,
+            "score": 0.9354729056358337,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Amazon Extra Strength Acetaminophen recalled: More than 112,000 bottles affected by discoloration complaints - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9592322707176208,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "ASML Boosts Outlook as Demand for Chip Tools Outpaces Supply - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9527292847633362,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "CVS Pharmacy reaches $315M settlement with Justice Department over controlled substance prescriptions - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8344219326972961,
+            "score": 0.8314493298530579,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China\u2019s exports surge 36% as AI-related shipments boom - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8960199952125549,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -58,15 +83,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock futures are little changed as traders await consumer inflation report: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9647595286369324,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Producer prices in China rise at fastest pace since June 2022, beating expectations - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.9503141045570374,
@@ -76,9 +92,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market News, Oct. 13, 2026: Stocks Slip Despite Solid Wall Street Results - WSJ",
+            "title": "Power restored at Austin's airport after outage impacts main terminal, causes flight delays - KVUE",
             "sentiment": "NEGATIVE",
-            "score": 0.962929904460907,
+            "score": 0.8488340973854065,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -94,21 +110,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "Goldman Jumps On Strong Earnings. But Big Bank Rivals Waver, Fall. - Investor's Business Daily",
+            "title": "Stock Market News, Oct. 13, 2026: Dow snaps 3-day win streak to end lower; chip selloff drags down S&P 500 and Nasdaq - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9106452465057373,
+            "score": 0.9721487164497375,
             "signal": "BEARISH",
-            "tickers": [
-                "JPM"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
+        },
+        {
+            "title": "United Airlines is making it harder to reach its top frequent flyer status in 2027 - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8900418281555176,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Food Lion, Stop & Shop and Hannaford websites face outages after cybersecurity issue - Fox Business",
@@ -120,10 +137,28 @@
             "ticker_impacts": []
         },
         {
+            "title": "Micron\u2019s stock extends declines as China competition heats up - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9572469592094421,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work - 404 Media",
             "sentiment": "NEGATIVE",
             "score": 0.8917319178581238,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Colorado breweries win big at a vastly changed Great American Beer Festival - Westword",
+            "sentiment": "POSITIVE",
+            "score": 0.8439247012138367,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -146,19 +181,10 @@
             ]
         },
         {
-            "title": "Arm shares fall after jury rules in favor of Qualcomm in license dispute - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9746916890144348,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "French supermarkets face millions in losses after cyberattack hits refrigerators nationwide - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9655393958091736,
-            "signal": "BEARISH",
+            "title": "Pimco\u2019s Bond King Sees Fixed-Income Returns as High as 8% With Yields Near 25-Year Highs - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9247825145721436,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -173,18 +199,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Domino\u2019s Pizza Sales Squeezed by Gas Costs - WSJ",
+            "title": "The Iran war is costing American households $2,000 each, Moody\u2019s estimates - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.9450244903564453,
+            "score": 0.8068863153457642,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX stock slammed as AI-memory trade crumbles in South Korea - Yahoo Finance",
+            "title": "Domino\u2019s Pizza Sales Squeezed by Gas Costs - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9618403911590576,
+            "score": 0.9450244903564453,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -227,6 +253,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Bank stocks rise on JPMorgan, Goldman earnings as chip stocks fall: AlphaCheck - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.8589854836463928,
+            "signal": "BEARISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "BioNTech\u2019s mRNA cancer vaccine fails phase 3 test, significantly denting analysts\u2019 confidence - Fierce Biotech",
             "sentiment": "NEGATIVE",
             "score": 0.9695209264755249,
@@ -236,36 +279,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "It's Probably for the Best This Qantas Flight Was Grounded - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.9610722661018372,
-            "signal": "BEARISH",
+            "title": "Roche inks $1.2B deal with China's Rona to enter emerging ALK7 obesity race - Fierce Biotech",
+            "sentiment": "POSITIVE",
+            "score": 0.8851866722106934,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Earnings live updates: JPMorgan, Goldman Sachs stocks rise as big banks kick off Q3 earnings season - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.7208147644996643,
-            "signal": "BULLISH",
-            "tickers": [
-                "GS",
-                "JPM"
-            ],
-            "primary_ticker": "GS",
-            "ticker_impacts": [
-                {
-                    "ticker": "GS",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "JPM",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "JPMorgan profits rise as Jamie Dimon warns economic forces 'shift under the surface' - Yahoo Finance",
@@ -305,15 +325,6 @@
             "title": "Starbucks says it is not buying Chipotle following deal speculation - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.877196192741394,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump\u2019s massive $150 billion manufacturing boom just hit a major snag: WSJ - AlterNet",
-            "sentiment": "NEGATIVE",
-            "score": 0.9200425744056702,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
