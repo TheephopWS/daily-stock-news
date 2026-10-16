@@ -1,14 +1,14 @@
 {
-    "last_updated": "2026-10-15 21:32:29 UTC",
-    "total_articles": 29,
-    "bullish_articles": 7,
-    "bearish_articles": 22,
+    "last_updated": "2026-10-16 01:00:40 UTC",
+    "total_articles": 28,
+    "bullish_articles": 9,
+    "bearish_articles": 19,
     "articles": [
         {
             "title": "Anthropic revenue jumps to $16.8bn in third quarter - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9116424322128296,
-            "signal": "BULLISH",
+            "sentiment": "NEGATIVE",
+            "score": 0.843109130859375,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -23,10 +23,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Delta One gets a boozy upgrade with $200 wines, luxe dining and new suites on the way - The Points Guy",
-            "sentiment": "POSITIVE",
-            "score": 0.8096879124641418,
-            "signal": "BULLISH",
+            "title": "Fridge hack costing millions and sparking fires stemmed from poor security - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.9473663568496704,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -35,15 +35,6 @@
             "title": "Top U.S. banks dropped customers over political and religious views, regulator says - CBS News",
             "sentiment": "NEGATIVE",
             "score": 0.9592621922492981,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "OpenAI engineer arrested after recording device found at San Francisco office - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8930981159210205,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -78,8 +69,17 @@
         {
             "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing' - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9230162501335144,
+            "score": 0.9706986546516418,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Delta One gets a boozy upgrade with $200 wines, luxe dining and new suites on the way - The Points Guy",
+            "sentiment": "POSITIVE",
+            "score": 0.8096879124641418,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -103,13 +103,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "American Airlines cancels all flights to 3 major travel destinations \u2014 citing geopolitical unrest - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9659277200698853,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Apple retakes $5 trillion market cap, only second company to eclipse milestone number - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.7555415630340576,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Power Grid Emergency Declared In PA: What It Means - Patch",
@@ -123,25 +131,16 @@
         {
             "title": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8762788772583008,
+            "score": 0.9450225830078125,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Verastem CEO claims RAS drug has 'set a new benchmark' for tricky cancer in early readout - Fierce Biotech",
-            "sentiment": "POSITIVE",
-            "score": 0.9399569034576416,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bank of America Q3 profit tumbles 17% as deals, trading revenue fall - Yahoo Finance",
+            "title": "U.S. hits Bank of America with $1.2 billion fine, saying it violated money laundering and sanctions laws - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.9641894102096558,
+            "score": 0.799202024936676,
             "signal": "BEARISH",
             "tickers": [
                 "BAC"
@@ -154,6 +153,24 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Verastem CEO claims RAS drug has 'set a new benchmark' for tricky cancer in early readout - Fierce Biotech",
+            "sentiment": "POSITIVE",
+            "score": 0.9399569034576416,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "S&P 500, Dow futures inch up before inflation data; bank results in focus - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.970887303352356,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Chipotle\u2019s problems will take more than Starbucks rumors to fix - TheStreet",
@@ -177,15 +194,6 @@
             "title": "Chip-Gear Giant ASML Posts Mixed Q3 Results, Guides Up - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.9559674859046936,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Thousands of refrigerators were hacked across France. How worried should you be? - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9603498578071594,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -219,15 +227,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7410600185394287,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "10-year Treasury yields dip as traders look ahead to Thursday economic reports - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9741732478141785,
@@ -235,23 +234,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Amazon Extra Strength Acetaminophen recalled: More than 112,000 bottles affected by discoloration complaints - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9309763312339783,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Food Lion, Stop & Shop and Hannaford websites face outages after cybersecurity issue - Fox Business",
@@ -263,31 +245,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "T-Mobile's Parent Company Fires Back at SpaceX's Starlink Mobile Challenge - PCMag",
-            "sentiment": "NEGATIVE",
-            "score": 0.9362034797668457,
-            "signal": "BEARISH",
-            "tickers": [
-                "MVNO"
-            ],
+            "title": "Pimco\u2019s Bond King Sees Fixed-Income Returns as High as 8% With Yields Near 25-Year Highs - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9219073057174683,
+            "signal": "BULLISH",
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "MVNO",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
-            "title": "JPMorgan CEO Dimon warns customers of \u2018liability transfer\u2019 with AI - Banking Dive",
+            "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8661497831344604,
+            "score": 0.7087300419807434,
             "signal": "BEARISH",
             "tickers": [
-                "JPM",
-                "META",
-                "INTC"
+                "JPM"
             ],
             "primary_ticker": "JPM",
             "ticker_impacts": [
@@ -295,35 +267,26 @@
                     "ticker": "JPM",
                     "impact": "negative",
                     "relevance": "high"
-                },
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence - ABC News - Breaking News, Latest News and Videos",
+            "title": "Diesel futures jump, signaling higher prices to come despite Trump\u2019s Russia deal - NBC News",
+            "sentiment": "POSITIVE",
+            "score": 0.9104793071746826,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.8790051341056824,
+            "score": 0.9389493465423584,
             "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         }
     ]
 }
