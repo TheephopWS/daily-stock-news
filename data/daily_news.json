@@ -1,14 +1,40 @@
 {
-    "last_updated": "2026-10-16 06:49:11 UTC",
-    "total_articles": 23,
-    "bullish_articles": 7,
-    "bearish_articles": 16,
+    "last_updated": "2026-10-16 09:34:50 UTC",
+    "total_articles": 25,
+    "bullish_articles": 3,
+    "bearish_articles": 22,
     "articles": [
         {
-            "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9447472095489502,
-            "signal": "BULLISH",
+            "title": "S&P 500 futures fall ahead of more U.S. economic data; South Korea's Kospi plunges 7%: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9736807346343994,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Unfortunate News for Micron Stock and Sandisk Stock Investors - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.9618752002716064,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Korea Stocks Tumble 8% as Investors Rush to Unwind AI Exposure - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9659748673439026,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -32,6 +58,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Major airline abandons 3 key cities as passengers face shrinking flight choices - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9696024656295776,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Fridge hack costing millions and sparking fires stemmed from poor security - Ars Technica",
             "sentiment": "NEGATIVE",
             "score": 0.9473663568496704,
@@ -41,13 +76,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "Top U.S. banks dropped customers over political and religious views, regulator says - CBS News",
+            "title": "Rocket Lab Stock Tanks After Neutron Launch Officially Pushed to 2027 - Benzinga",
             "sentiment": "NEGATIVE",
-            "score": 0.9592621922492981,
+            "score": 0.9575143456459045,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Skydance Shares Tumble In Technical Adjustment As Inflation, Interest Rate Jitters Roil Markets; Apple Regains $5 Trillion Market Cap - Deadline",
+            "sentiment": "NEGATIVE",
+            "score": 0.9660881161689758,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "IonQ Stock Tumbles on $2 Billion Equity Offering. Why Other Quantum Names Are Falling Just as Hard. - Barron's",
@@ -76,9 +128,18 @@
             ]
         },
         {
-            "title": "'Yikes': CoreWeave stock tanks on bond yield woes, CEO blames market acting 'irrationally' - Yahoo Finance",
+            "title": "White House economic chief reveals why Americans aren't feeling optimistic about economy - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9733933210372925,
+            "score": 0.9618958234786987,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.7663723826408386,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -103,26 +164,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Apple retakes $5 trillion market cap, only second company to eclipse milestone number - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.755540668964386,
-            "signal": "BULLISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "American Airlines cancels all flights to 3 major travel destinations \u2014 citing geopolitical unrest - New York Post",
+            "title": "US regulator accuses nation's largest banks of debanking customers over political views - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9659277200698853,
+            "score": 0.911867082118988,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -149,7 +193,7 @@
         {
             "title": "Bank of America Q3 profit tumbles 17% as $1.2 billion fine and soft trading weigh on results - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9681783318519592,
+            "score": 0.9758056402206421,
             "signal": "BEARISH",
             "tickers": [
                 "BAC"
@@ -164,19 +208,19 @@
             ]
         },
         {
-            "title": "S&P 500, Dow futures inch up before inflation data; bank results in focus - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.970887303352356,
-            "signal": "BEARISH",
+            "title": "Vir CEO sees \u2018opportunity to do more deals\u2019 after striking $1.9B Gilead pact for dual-masked TCEs - Fierce Biotech",
+            "sentiment": "POSITIVE",
+            "score": 0.8092474937438965,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9314681887626648,
-            "signal": "BULLISH",
+            "title": "S&P 500, Dow futures inch up before inflation data; bank results in focus - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.970887303352356,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -200,13 +244,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "China\u2019s exports surge 36% as AI-related shipments boom - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9378050565719604,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Google says it needs the grid. The grid can\u2019t keep up. - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9215819239616394,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Food Lion, Stop & Shop and Hannaford websites face outages after cybersecurity issue - Fox Business",
@@ -216,32 +268,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Pimco\u2019s Bond King Sees Fixed-Income Returns as High as 8% With Yields Near 25-Year Highs - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9247825145721436,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7087295651435852,
-            "signal": "BEARISH",
-            "tickers": [
-                "JPM"
-            ],
-            "primary_ticker": "JPM",
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
