@@ -1,9 +1,26 @@
 {
-    "last_updated": "2026-10-16 15:32:02 UTC",
-    "total_articles": 24,
-    "bullish_articles": 4,
-    "bearish_articles": 20,
+    "last_updated": "2026-10-16 18:37:13 UTC",
+    "total_articles": 16,
+    "bullish_articles": 2,
+    "bearish_articles": 14,
     "articles": [
+        {
+            "title": "Netflix Layoffs: Unscripted Casting & Development Execs Impacted - Deadline",
+            "sentiment": "NEGATIVE",
+            "score": 0.8680277466773987,
+            "signal": "BEARISH",
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Social Security cost-of-living increase sparks debate over looming funding shortfall - Fox Business",
             "sentiment": "NEGATIVE",
@@ -14,18 +31,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "The number of Americans filing for jobless aid remain at historically low levels below 200,000 - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9125387072563171,
-            "signal": "BEARISH",
+            "title": "Wholesale inflation jumped last month by most in four years as gas prices soared - ABC News - Breaking News, Latest News and Videos",
+            "sentiment": "POSITIVE",
+            "score": 0.8457461595535278,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: S&P 500 and Nasdaq fall as tech stocks struggle; Dow rises as Treasury yields drop - MarketWatch",
+            "title": "The number of Americans filing for jobless aid remain at historically low levels below 200,000 - ABC News - Breaking News, Latest News and Videos",
             "sentiment": "NEGATIVE",
-            "score": 0.9577091336250305,
+            "score": 0.818579912185669,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -44,24 +61,6 @@
             "title": "Rocket Lab Stock Tumbles On Latest Neutron Launch Delay - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.9544097781181335,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Dow Jones Futures Rise, But AI Sell-Off Continues On Anthropic News; Taiwan Semiconductor Earnings Strong - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9076061844825745,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Credit Suisse bankers denied bonuses stripped after UBS takeover - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.910400927066803,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -102,15 +101,6 @@
             ]
         },
         {
-            "title": "Unfortunate News for Micron Stock and Sandisk Stock Investors - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.9618752002716064,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Global chip sell-off deepens as South Korean market plunges - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9692755937576294,
@@ -138,24 +128,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Reuters",
-            "sentiment": "NEGATIVE",
-            "score": 0.9410234689712524,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Major airline abandons 3 key cities as passengers face shrinking flight choices - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9696024656295776,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Fridge hack costing millions and sparking fires stemmed from poor security - Ars Technica",
             "sentiment": "NEGATIVE",
             "score": 0.9473663568496704,
@@ -174,75 +146,23 @@
             "ticker_impacts": []
         },
         {
-            "title": "Netflix TV Executives Lisa Lang McMullen, James Oh, Carolina Garcia and Andrew McQuinn Among Layoffs - The Hollywood Reporter",
-            "sentiment": "NEGATIVE",
-            "score": 0.8097294569015503,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "IMF chief urges US and wealthy nations to rein in debt to ease global economic pressure - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.7346572875976562,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Major US banks post solid third quarter loan growth, but see more competition for deposits - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9110122323036194,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Intel, AMD, and More Chip Stocks Fall After ASML\u2019s Strong Earnings - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9615721106529236,
+            "score": 0.9730000495910645,
             "signal": "BEARISH",
             "tickers": [
-                "INTC",
-                "AMD"
+                "AMD",
+                "INTC"
             ],
-            "primary_ticker": "INTC",
+            "primary_ticker": "AMD",
             "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "U.S. hits Bank of America with $1.2 billion fine, saying it violated money laundering and sanctions laws - PBS",
-            "sentiment": "NEGATIVE",
-            "score": 0.9089052081108093,
-            "signal": "BEARISH",
-            "tickers": [
-                "BAC"
-            ],
-            "primary_ticker": "BAC",
-            "ticker_impacts": [
+                },
                 {
-                    "ticker": "BAC",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "high"
                 }
