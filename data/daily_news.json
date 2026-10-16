@@ -1,23 +1,103 @@
 {
-    "last_updated": "2026-10-16 12:43:48 UTC",
-    "total_articles": 25,
-    "bullish_articles": 3,
-    "bearish_articles": 22,
+    "last_updated": "2026-10-16 15:32:02 UTC",
+    "total_articles": 24,
+    "bullish_articles": 4,
+    "bearish_articles": 20,
     "articles": [
         {
-            "title": "S&P 500 futures fall ahead of more U.S. economic data; South Korea's Kospi plunges 7%: Live updates - CNBC",
+            "title": "Social Security cost-of-living increase sparks debate over looming funding shortfall - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9736807346343994,
+            "score": 0.856159508228302,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The number of Americans filing for jobless aid remain at historically low levels below 200,000 - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9125387072563171,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: S&P 500 and Nasdaq fall as tech stocks struggle; Dow rises as Treasury yields drop - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9577091336250305,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8413240909576416,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Rocket Lab Stock Tumbles On Latest Neutron Launch Delay - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9544097781181335,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dow Jones Futures Rise, But AI Sell-Off Continues On Anthropic News; Taiwan Semiconductor Earnings Strong - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9076061844825745,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Credit Suisse bankers denied bonuses stripped after UBS takeover - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.910400927066803,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Microsoft\u2019s president warns White House against skilled immigration crackdown - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.9437633156776428,
             "signal": "BEARISH",
             "tickers": [
-                "INTC"
+                "MSFT"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "MSFT",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "MSFT",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Chevron CEO warns oil buffers that cushioned the Iran war shock have been \u2018drained\u2019 - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9606911540031433,
+            "signal": "BEARISH",
+            "tickers": [
+                "CVX"
+            ],
+            "primary_ticker": "CVX",
+            "ticker_impacts": [
+                {
+                    "ticker": "CVX",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
@@ -31,9 +111,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Korea Stocks Tumble 8% as Investors Rush to Unwind AI Exposure - Bloomberg.com",
+            "title": "Global chip sell-off deepens as South Korean market plunges - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9659748673439026,
+            "score": 0.9692755937576294,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -42,16 +122,25 @@
         {
             "title": "AI giant Anthropic sees revenue surge ahead of stock market listing - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.76763516664505,
+            "score": 0.7676342725753784,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "UPDATED: Genesis begins transition after judge approves liquidation plan, closing \u2018tense\u2019 and uncertain chapter - McKnight's Long-Term Care News",
+            "title": "How Debanking Took Hold Inside the Biggest Banks - The Free Press",
             "sentiment": "NEGATIVE",
-            "score": 0.7650498151779175,
+            "score": 0.9102075099945068,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Reuters",
+            "sentiment": "NEGATIVE",
+            "score": 0.9410234689712524,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -76,32 +165,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Rocket Lab Stock Tanks After Neutron Launch Officially Pushed to 2027 - Benzinga",
-            "sentiment": "NEGATIVE",
-            "score": 0.9575143456459045,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Skydance Shares Tumble In Technical Adjustment As Inflation, Interest Rate Jitters Roil Markets; Apple Regains $5 Trillion Market Cap - Deadline",
-            "sentiment": "NEGATIVE",
-            "score": 0.9660881161689758,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "IonQ Stock Tumbles on $2 Billion Equity Offering. Why Other Quantum Names Are Falling Just as Hard. - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.9731159806251526,
@@ -113,7 +176,7 @@
         {
             "title": "Netflix TV Executives Lisa Lang McMullen, James Oh, Carolina Garcia and Andrew McQuinn Among Layoffs - The Hollywood Reporter",
             "sentiment": "NEGATIVE",
-            "score": 0.8097293376922607,
+            "score": 0.8097294569015503,
             "signal": "BEARISH",
             "tickers": [
                 "NFLX"
@@ -128,28 +191,10 @@
             ]
         },
         {
-            "title": "White House economic chief reveals why Americans aren't feeling optimistic about economy - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9618958234786987,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.7663723826408386,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Lisa Cook lawyer doubts Trump committee's fairness as president calls her 'automatic no vote' - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7283918261528015,
-            "signal": "BEARISH",
+            "title": "IMF chief urges US and wealthy nations to rein in debt to ease global economic pressure - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.7346572875976562,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -157,43 +202,39 @@
         {
             "title": "Major US banks post solid third quarter loan growth, but see more competition for deposits - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9110125303268433,
+            "score": 0.9110122323036194,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "US regulator accuses nation's largest banks of debanking customers over political views - Fox Business",
+            "title": "Intel, AMD, and More Chip Stocks Fall After ASML\u2019s Strong Earnings - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.911867082118988,
+            "score": 0.9615721106529236,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "INTC",
+                "AMD"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession - CNBC",
+            "title": "U.S. hits Bank of America with $1.2 billion fine, saying it violated money laundering and sanctions laws - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.9450226426124573,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Verastem CEO claims RAS drug has 'set a new benchmark' for tricky cancer in early readout - Fierce Biotech",
-            "sentiment": "POSITIVE",
-            "score": 0.9399569034576416,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bank of America Q3 profit tumbles 17% as $1.2 billion fine and soft trading weigh on results - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9758056402206421,
+            "score": 0.9089052081108093,
             "signal": "BEARISH",
             "tickers": [
                 "BAC"
@@ -208,28 +249,10 @@
             ]
         },
         {
-            "title": "Vir CEO sees \u2018opportunity to do more deals\u2019 after striking $1.9B Gilead pact for dual-masked TCEs - Fierce Biotech",
+            "title": "Verastem CEO claims RAS drug has 'set a new benchmark' for tricky cancer in early readout - Fierce Biotech",
             "sentiment": "POSITIVE",
-            "score": 0.8092474937438965,
+            "score": 0.7080978155136108,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "S&P 500, Dow futures inch up before inflation data; bank results in focus - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.970887303352356,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Chip-Gear Giant ASML Posts Mixed Q3 Results, Guides Up - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9559672474861145,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -237,33 +260,7 @@
         {
             "title": "AI linked to 84% of ransomware attacks, new report finds - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.7315778136253357,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Google says it needs the grid. The grid can\u2019t keep up. - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.9215819239616394,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Food Lion, Stop & Shop and Hannaford websites face outages after cybersecurity issue - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9657710194587708,
+            "score": 0.7315765619277954,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
