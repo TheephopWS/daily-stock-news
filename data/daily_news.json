@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-10-17 18:33:26 UTC",
-    "total_articles": 23,
-    "bullish_articles": 5,
-    "bearish_articles": 18,
+    "last_updated": "2026-10-17 21:30:10 UTC",
+    "total_articles": 25,
+    "bullish_articles": 3,
+    "bearish_articles": 22,
     "articles": [
         {
-            "title": "Stock Market Today: Tech Stocks Slump as Nasdaq Faces Weekly Loss - WSJ",
+            "title": "Wall Street ends down sharply, worries about AI trade and high oil prices weigh - Reuters",
             "sentiment": "NEGATIVE",
-            "score": 0.9676249623298645,
+            "score": 0.8982773423194885,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Hyundai recalls more than 94,000 vehicles over fire risk - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9576929807662964,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,34 +25,51 @@
         {
             "title": "Palantir's record breakout unravels as software stocks shed $260 billion - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9374101758003235,
+            "score": 0.9374103546142578,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Woman pleads guilty in $1.2 billion plot targeting Bucks co-owner and Fortress co-founder Wes Edens - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.7204362154006958,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "CoreWeave Drops. Even Jensen Huang and Cathie Wood Can\u2019t Buoy the Stock. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9743615388870239,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Micron Stock\u2019s Drop Triggers \u2018Buy the Dip\u2019 Calls. No One\u2019s Listening. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.8301438093185425,
+            "score": 0.8301432132720947,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Southwest unveils new perks for flyers in rewards program shake-up - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.7619126439094543,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Netflix Is Profitable and Still Growing. Why Did It Just Make a Huge Round of Layoffs and Oust Its Top Content Exec? - Variety",
+            "title": "Netflix stock falls as executive shake-up aims to revive viewership growth - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.968686044216156,
+            "score": 0.8098713755607605,
             "signal": "BEARISH",
             "tickers": [
                 "NFLX"
@@ -54,6 +80,32 @@
                     "ticker": "NFLX",
                     "impact": "negative",
                     "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Southwest unveils new perks for flyers in rewards program shake-up - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.7619112730026245,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gold holds near $4,170 as inflation keeps December Fed tightening in play - Kitco AM Report - Kitco",
+            "sentiment": "POSITIVE",
+            "score": 0.853374719619751,
+            "signal": "BULLISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -78,28 +130,11 @@
         {
             "title": "Banks are pulling back as AI's massive debt pile disconnects from economic reality - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.8948807716369629,
+            "score": 0.8948810696601868,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Netflix Chief Content Officer Bela Bajaria exits amid major layoffs - Los Angeles Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8880424499511719,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Bad News for Trump. The US Is In Its Worst Bond Crisis Since Alexander Hamilton Was Leading the Treasury - 24/7 Wall St.",
@@ -109,23 +144,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.7918069362640381,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Europe\u2019s EV sales soar as North America drops 44% \u2013 here\u2019s the catch - Electrek",
@@ -148,24 +166,7 @@
         {
             "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.8441160321235657,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Chipmakers Set for Longest Losing Streak Since \u201808: Markets Wrap - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9617887735366821,
+            "score": 0.8441164493560791,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -189,19 +190,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Global tech rout loses steam - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.7915424108505249,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Proofpoint to acquire Israeli-founded Varonis in $6.3 billion all-cash deal - CTech",
-            "sentiment": "POSITIVE",
-            "score": 0.8537542819976807,
-            "signal": "BULLISH",
+            "title": "Woman arrested after blocking delivery robot in Center City Philadelphia confrontation - 6abc Philadelphia",
+            "sentiment": "NEGATIVE",
+            "score": 0.8660455346107483,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -209,7 +201,7 @@
         {
             "title": "Nscale's Data Centers Hit by Fires, Angry Workers Ahead of IPO - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9391920566558838,
+            "score": 0.9641386866569519,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -234,9 +226,27 @@
             "ticker_impacts": []
         },
         {
+            "title": "The Guy Who Allegedly Bugged OpenAI's Executive Conference Room Had Booked a One-Way Flight to Saudi Arabia With His Family - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.8414629697799683,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Economists: Hot PPI shows Fed's work is not done - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8167047500610352,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Lisa Cook's lawyer challenges impartiality of Trump panel reviewing Fed mortgage allegations - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9115070104598999,
+            "score": 0.9115067720413208,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
