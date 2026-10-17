@@ -1,26 +1,34 @@
 {
-    "last_updated": "2026-10-17 12:38:05 UTC",
-    "total_articles": 32,
+    "last_updated": "2026-10-17 15:30:20 UTC",
+    "total_articles": 24,
     "bullish_articles": 5,
-    "bearish_articles": 27,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "Stock Market Today: Dow, Nasdaq Futures Slip; Investors Pare Rate-Hike Bets; CoreWeave in Focus \u2014 Live Updates - WSJ",
+            "title": "Dow jumps 150 points, Nasdaq slides as investors continue to rotate out of AI stocks: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9391847252845764,
+            "score": 0.9036218523979187,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Indonesian Stocks Plunge on Threat to Drop Market From Major Indexes - The New York Times",
+            "title": "Netflix Is Profitable and Still Growing. Why Did It Just Make a Huge Round of Layoffs and Oust Its Top Content Exec? - Variety",
             "sentiment": "NEGATIVE",
-            "score": 0.9368622899055481,
+            "score": 0.968686044216156,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Nike's India campus is a long-term growth bet amid turnaround - CNBC",
@@ -32,13 +40,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "NPR investigation finds evidence of widespread fraud at mall kiosks tied to Israeli skincare brand - The Forward",
+            "sentiment": "NEGATIVE",
+            "score": 0.9432026743888855,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Amazon has vowed to fire thousands of NYC workers if Mamdani labor bill passes \u2014 what experts say could happen - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8538929224014282,
+            "score": 0.9346047043800354,
             "signal": "BEARISH",
             "tickers": [
                 "AMD",
-                "AMZN"
+                "AMZN",
+                "AAPL"
             ],
             "primary_ticker": "AMD",
             "ticker_impacts": [
@@ -51,30 +69,18 @@
                     "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "PepsiCo just lost the KFC US business\u2014here's how much it could sting financially - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9462677836418152,
-            "signal": "BEARISH",
-            "tickers": [
-                "PEP"
-            ],
-            "primary_ticker": "PEP",
-            "ticker_impacts": [
+                },
                 {
-                    "ticker": "PEP",
+                    "ticker": "AAPL",
                     "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Where do shoppers spend the most (and least) on groceries in the US? - USA Today",
+            "title": "Banks are pulling back as AI's massive debt pile disconnects from economic reality - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.7655361294746399,
+            "score": 0.8654365539550781,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -90,24 +96,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9375205636024475,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9270823001861572,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Asia stocks rebound as chipmakers recover, Indonesia rout deepens with 11% slump - Investing.com",
             "sentiment": "NEGATIVE",
             "score": 0.9199203252792358,
@@ -115,23 +103,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Futures Mixed; Anthropic Value, Tesla Roadster In Focus - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9289925694465637,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Why Did Netflix Boot Bela Bajaria? - Variety",
@@ -168,6 +139,15 @@
             ]
         },
         {
+            "title": "Harvard Fund Soars to Record $68 Billion After 27% Annual Return - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7433733344078064,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.8441164493560791,
@@ -185,15 +165,6 @@
             ]
         },
         {
-            "title": "Cracks are beginning to show in the stock market as doubts about AI investments grow - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9672959446907043,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Global tech rout loses steam - Yahoo Finance",
             "sentiment": "POSITIVE",
             "score": 0.7915416955947876,
@@ -206,15 +177,6 @@
             "title": "Proofpoint to acquire Israeli-founded Varonis in $6.3 billion all-cash deal - CTech",
             "sentiment": "POSITIVE",
             "score": 0.8537537455558777,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9455939531326294,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -239,21 +201,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Netflix Layoffs: Unscripted Casting & Development Execs Impacted - Deadline",
-            "sentiment": "NEGATIVE",
-            "score": 0.852618932723999,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Oil flow through Strait of Hormuz hits 12M barrels a day \u2014 defying increasing attacks from Iran - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.9328075647354126,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Neutron\u2019s first launch slips again amid trouble with carbon composites - Ars Technica",
@@ -265,18 +219,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "U.S. Crude Oil Stockpiles Post Large Weekly Drop - WSJ",
+            "title": "Character.AI: A huge AI chatbot company has gone bankrupt \u2013 and experts are worried what happens next - The Independent",
             "sentiment": "NEGATIVE",
-            "score": 0.9283369779586792,
+            "score": 0.7255465388298035,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "High mortgage rates are deepening a \u2018K-shaped\u2019 housing market - CNN",
+            "title": "Woman sues Torchy\u2019s Tacos over \u2018cow tooth\u2019 in taco - KXAN Austin",
             "sentiment": "NEGATIVE",
-            "score": 0.7298384308815002,
+            "score": 0.7369587421417236,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -298,33 +252,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Michael Dell Lost $16 Billion Thursday, Falling To No. 6 In Billionaire Rankings Amid Global Tech Selloff - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.9636058211326599,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Producer Prices See Biggest Jump in Four Years, Soaring 1.3% in September - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9448240399360657,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Investors dump data centre bonds as AI borrowers face \u2018Darwin moment\u2019 - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9724393486976624,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Microsoft\u2019s president warns White House against skilled immigration crackdown - Politico",
@@ -361,18 +288,9 @@
             ]
         },
         {
-            "title": "How Debanking Took Hold Inside the Biggest Banks - The Free Press",
+            "title": "Top U.S. banks dropped customers over political and religious views, regulator says - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9102075099945068,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "September's CPI Came in Hotter Than Expected and Geopolitical Tensions Climbed. Stocks Fell. - International Business Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8921078443527222,
+            "score": 0.9592621922492981,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
