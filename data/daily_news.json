@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-10-17 03:35:31 UTC",
-    "total_articles": 21,
-    "bullish_articles": 5,
-    "bearish_articles": 16,
+    "last_updated": "2026-10-17 06:44:19 UTC",
+    "total_articles": 24,
+    "bullish_articles": 7,
+    "bearish_articles": 17,
     "articles": [
+        {
+            "title": "Dollar weakens as Fed chair Kevin Warsh declines to hint at October rate rise - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.8593337535858154,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Why Did Netflix Boot Bela Bajaria? - Variety",
             "sentiment": "NEGATIVE",
@@ -24,20 +33,28 @@
         {
             "title": "CNBC Daily Open: Is the AI sector losing its rose-colored glow? - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8174272775650024,
+            "score": 0.8174276947975159,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Europe\u2019s EV sales soar as North America drops 44% \u2013 here\u2019s the catch - Electrek",
-            "sentiment": "NEGATIVE",
-            "score": 0.957914412021637,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power - Business Insider",
+            "sentiment": "POSITIVE",
+            "score": 0.8616925477981567,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults - AP News",
@@ -59,7 +76,16 @@
         {
             "title": "Global tech rout loses steam - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.7915416955947876,
+            "score": 0.7915425300598145,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Proofpoint to acquire Israeli-founded Varonis in $6.3 billion all-cash deal - CTech",
+            "sentiment": "POSITIVE",
+            "score": 0.8537544012069702,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -68,16 +94,16 @@
         {
             "title": "U.S. producer prices post biggest gain in 4 1/2 years - Honolulu Star-Advertiser",
             "sentiment": "POSITIVE",
-            "score": 0.9429956078529358,
+            "score": 0.9429957270622253,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "CoreWeave Founders Shield Fortunes With $3.3 Billion Stock Sales - Bloomberg",
+            "title": "Chip Leader TSMC Delivers Beat-And-Raise Third-Quarter Report - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.7769513726234436,
+            "score": 0.967917263507843,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -93,6 +119,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Sandisk, AMD Stocks Fall as Anthropic Adds to AI Concerns - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9672269821166992,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "FTC Sues Ticket Broker Over Unlawful Tactics Used to Buy Millions of Tickets to Popular Live Events - Federal Trade Commission (.gov)",
             "sentiment": "NEGATIVE",
             "score": 0.9166536927223206,
@@ -104,7 +147,7 @@
         {
             "title": "Southwest announces major loyalty shake-up, new elite tiers - The Points Guy",
             "sentiment": "POSITIVE",
-            "score": 0.7349156737327576,
+            "score": 0.7349169850349426,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -113,7 +156,7 @@
         {
             "title": "Netflix Layoffs: Unscripted Casting & Development Execs Impacted - Deadline",
             "sentiment": "NEGATIVE",
-            "score": 0.852618932723999,
+            "score": 0.8526186347007751,
             "signal": "BEARISH",
             "tickers": [
                 "NFLX"
@@ -128,9 +171,18 @@
             ]
         },
         {
+            "title": "U.S. Crude Oil Stockpiles Post Large Weekly Drop - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9283363819122314,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Woman sues Torchy\u2019s Tacos over \u2018cow tooth\u2019 in taco - KXAN Austin",
             "sentiment": "NEGATIVE",
-            "score": 0.8515578508377075,
+            "score": 0.8515580296516418,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -156,7 +208,7 @@
         {
             "title": "Bank of America\u2019s $1.2 Billion Problem Doesn\u2019t End With Its Consent Order - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.7758450508117676,
+            "score": 0.7758451700210571,
             "signal": "BEARISH",
             "tickers": [
                 "BAC"
@@ -171,18 +223,9 @@
             ]
         },
         {
-            "title": "TSMC posts record profit amid 'extremely robust demand' for AI chips - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9721880555152893,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Lisa Cook's lawyer challenges impartiality of Trump panel reviewing Fed mortgage allegations - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9115067720413208,
+            "score": 0.9115068912506104,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -232,18 +275,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Fridge hack costing millions and sparking fires stemmed from poor security - Ars Technica",
+            "title": "U.S. Stocks Fall on Hot Inflation Report, AI Sell-Off - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9473663568496704,
+            "score": 0.9022430181503296,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "U.S. Stocks Fall on Hot Inflation Report, AI Sell-Off - WSJ",
+            "title": "This is the worst-rated McDonald\u2019s in the US. See why customers have reviewed it so poorly - WBRC",
             "sentiment": "NEGATIVE",
-            "score": 0.9022433757781982,
+            "score": 0.9500362277030945,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
