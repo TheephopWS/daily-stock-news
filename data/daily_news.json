@@ -1,23 +1,31 @@
 {
-    "last_updated": "2026-10-19 09:42:55 UTC",
-    "total_articles": 26,
-    "bullish_articles": 8,
-    "bearish_articles": 18,
+    "last_updated": "2026-10-19 12:47:12 UTC",
+    "total_articles": 28,
+    "bullish_articles": 7,
+    "bearish_articles": 21,
     "articles": [
+        {
+            "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8322820067405701,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
         {
             "title": "'France, truly, is on the brink' and days away from a make-or-break moment in its debt crisis - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.8890101313591003,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US debt interest costs hit $3 billion a day and jumped 8% in 2026\u2014faster than spending, revenue, GDP - Fortune",
-            "sentiment": "POSITIVE",
-            "score": 0.9485363364219666,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -34,11 +42,28 @@
         {
             "title": "Heating oil prices will break the bank in the Northeast this winter - TheStreet",
             "sentiment": "NEGATIVE",
-            "score": 0.8184521794319153,
+            "score": 0.8184520602226257,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9014277458190918,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "The Iran war has cost the average U.S. household the equivalent of almost $2,000, top economist says - Fortune",
@@ -52,21 +77,21 @@
         {
             "title": "Websites are closing their doors to AI agents - The Verge",
             "sentiment": "NEGATIVE",
-            "score": 0.8343308568000793,
+            "score": 0.8343307971954346,
             "signal": "BEARISH",
             "tickers": [
-                "GOOGL",
-                "META"
+                "META",
+                "GOOGL"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "META",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "META",
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -75,7 +100,7 @@
         {
             "title": "Software\u2019s new consolidator gets big vote of confidence from Berkshire - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7815143465995789,
+            "score": 0.7815146446228027,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -91,9 +116,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "Investors Disturbed by Anthropic\u2019s Financial Data - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.9562420845031738,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Raw milk cheddar cheese recalled in NY, NJ over fears of dangerous E. coli contamination - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9042447209358215,
+            "score": 0.9513162970542908,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -102,7 +136,7 @@
         {
             "title": "Anthropic offers Blackstone double-digit yield in latest chip financing - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.7150000333786011,
+            "score": 0.7150015830993652,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -111,7 +145,7 @@
         {
             "title": "Chinese Stocks Turn Biggest Losers as Global AI Trade Stumbles - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9693924188613892,
+            "score": 0.9693925976753235,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -120,7 +154,7 @@
         {
             "title": "How much could a Medicare hike trim retirees\u2019 Social Security raise? - NewsNation",
             "sentiment": "POSITIVE",
-            "score": 0.939109742641449,
+            "score": 0.9391098618507385,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -129,7 +163,7 @@
         {
             "title": "GIANT Food Stores remain impacted by digital shutdown days after problem began - WFMZ.com",
             "sentiment": "NEGATIVE",
-            "score": 0.933456540107727,
+            "score": 0.9334566593170166,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -147,7 +181,16 @@
         {
             "title": "China warns EU not to \u2018fantasise\u2019 on trade approach after \u2018kill switch\u2019 threat - South China Morning Post",
             "sentiment": "NEGATIVE",
-            "score": 0.7850981950759888,
+            "score": 0.7850977182388306,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AI Debt Warning Signs Are Piling Up: Why Bond Markets Are Getting Nervous About AI Infrastructure Spending - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.7006763815879822,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -156,34 +199,42 @@
         {
             "title": "Exclusive | Air-Traffic Controllers\u2019 Practice of Leaving Work Early Targeted in Pay Deal - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9285773634910583,
+            "score": 0.9285775423049927,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "U.S. Stocks Fall as Credit Fears Haunt Tech Sector - WSJ",
+            "title": "Tech stocks erase $1 trillion of wealth as oil surges to $110 for the first time since May - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.974511444568634,
+            "score": 0.9658197164535522,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "NYC Council Speaker Menin drags reps from Elon Musk\u2019s SpaceX for \u2018sexualized\u2019 images created with Grok - New York Post",
+            "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars - The Verge",
             "sentiment": "NEGATIVE",
-            "score": 0.8021341562271118,
+            "score": 0.7828531861305237,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Blue Origin\u2019s Latest Move Shows How It\u2019s Quietly Taking On SpaceX - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.8379986882209778,
+            "score": 0.8379985690116882,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -192,7 +243,7 @@
         {
             "title": "How Mike Lyons, Truist's new CEO, is plotting a turnaround - American Banker",
             "sentiment": "POSITIVE",
-            "score": 0.711432933807373,
+            "score": 0.7114336490631104,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -201,7 +252,7 @@
         {
             "title": "Hyundai recalls more than 94,000 vehicles over fire risk - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9576929807662964,
+            "score": 0.9576930999755859,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -219,7 +270,7 @@
         {
             "title": "France and Germany Reach Deal to Protect Europe\u2019s Car Industry - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.7726006507873535,
+            "score": 0.7726005911827087,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -238,15 +289,6 @@
             "title": "Texas customer sues after she found cow tooth in taco at fast-casual chain - WFAA",
             "sentiment": "NEGATIVE",
             "score": 0.9378937482833862,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bad News for Trump. The US Is In Its Worst Bond Crisis Since Alexander Hamilton Was Leading the Treasury - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.9554288387298584,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
