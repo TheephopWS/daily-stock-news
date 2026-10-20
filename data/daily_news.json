@@ -1,13 +1,83 @@
 {
-    "last_updated": "2026-10-20 12:45:17 UTC",
-    "total_articles": 29,
-    "bullish_articles": 3,
-    "bearish_articles": 26,
+    "last_updated": "2026-10-20 15:33:29 UTC",
+    "total_articles": 25,
+    "bullish_articles": 6,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "French Government-Bond Yields Rise on Protests, Budget Concerns; Treasury Yields Fall - WSJ",
+            "title": "Oil Futures Pull Back on Russia Sanctions Waiver - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9053528308868408,
+            "score": 0.8384822010993958,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Uber wins bid to throw out \u00a3200m black cab claims - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9289949536323547,
+            "signal": "BEARISH",
+            "tickers": [
+                "UBER"
+            ],
+            "primary_ticker": "UBER",
+            "ticker_impacts": [
+                {
+                    "ticker": "UBER",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "CLF Stock Flashes Buy Signal On Steelmaker's Massive $4 Bil Outlook - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.946733295917511,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "European telecoms groups join forces to challenge Elon Musk\u2019s Starlink - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8553166389465332,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Netflix Stock Might be a Sleeper Hit - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9158449172973633,
+            "signal": "BULLISH",
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Homebuyers are canceling sales at near-record rates - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9741835594177246,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018I\u2019ve had it\u2019: Boston\u2019s Starbucks exodus leaves crowded cafes and empty storefronts - The Boston Globe",
+            "sentiment": "NEGATIVE",
+            "score": 0.9494946002960205,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,6 +102,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "INTC, AMD, MU, SNDK: US Chip Stocks Rebound After Worst Week Since March - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.7297357320785522,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "North Carolina has the lowest gas prices in the country. Some say it's still too high - WRAL",
             "sentiment": "NEGATIVE",
             "score": 0.9444828629493713,
@@ -44,6 +131,15 @@
             "title": "Here Is What a $5,000 Investment in Micron Could Be Worth by 2028 - The Motley Fool",
             "sentiment": "NEGATIVE",
             "score": 0.9084230065345764,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "70-year-old worker falls to his death at Bass Pro Shops in Leeds - AL.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8276704549789429,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -85,24 +181,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "India\u2019s Finance Minister blames easy exits and excess liquidity for equity market's underperformance - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9336817860603333,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9730273485183716,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Hormuz Is Turning Shipping's Fuel Bill Into a Supply Crisis - Crude Oil Prices Today | OilPrice.com",
             "sentiment": "NEGATIVE",
             "score": 0.9666025638580322,
@@ -110,32 +188,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Plane skids off runway at Las Vegas airport, hits fence - KLAS 8 News Now",
-            "sentiment": "NEGATIVE",
-            "score": 0.9620898962020874,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Exclusive: NVIDIA\u2019s Vera Team Says Chiplet Designs Sacrificed Single-Threaded Performance For Core Counts, And Agentic AI Is Now Forcing A Reversal - Wccftech",
-            "sentiment": "NEGATIVE",
-            "score": 0.8465518951416016,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Bond Market\u2019s Big Short Bet Gets Wakeup Call as AI Trade Wobbles - Bloomberg.com",
@@ -147,18 +199,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "A woman was arrested in Philly for blocking a delivery robot - The Verge",
+            "title": "A 930-megawatt reactor on the South African coast was cut to half power when dead sardines packed its seawater intake and a cooling pump shut itself off, the only nuclear plant in Africa was already down to one machine with its twin in refueling, and on Frida - Autonocion.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9229983687400818,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Sign of the Beefcarver to close its original \u2212 and last \u2212 location - Detroit Free Press",
-            "sentiment": "NEGATIVE",
-            "score": 0.9011653661727905,
+            "score": 0.8790081739425659,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -172,23 +215,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Microsoft Scraps UK Data Center Deal With Nscale, Telegraph Says - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9728269577026367,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Oracle (ORCL) Has Fallen 54% and 80% of Analysts Still Say Buy. Why? - Yahoo Finance",
@@ -208,18 +234,9 @@
             ]
         },
         {
-            "title": "Massachusetts Bay Transportation Authority increases speed on part of the Orange Line - WCVB",
-            "sentiment": "POSITIVE",
-            "score": 0.8803561925888062,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Accenture looks to sell Chinese operations for up to $1.5bn - Financial Times",
+            "title": "\u2018Black Monday\u2019 fears intensify as prediction markets shrug off 2026 crash - Finbold",
             "sentiment": "NEGATIVE",
-            "score": 0.9577654600143433,
+            "score": 0.8901576399803162,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -235,9 +252,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "The Plaza Hotel is closing for years of renovations. Cue the wedding panic. - The Washington Post",
+            "title": "'France, truly, is on the brink' and days away from a make-or-break moment in its debt crisis - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9315400123596191,
+            "score": 0.8890101313591003,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -248,59 +265,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9485363364219666,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Heating oil prices will break the bank in the Northeast this winter - TheStreet",
-            "sentiment": "NEGATIVE",
-            "score": 0.8184521794319153,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Vanguard economist says sticky inflation will test your patience - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.865135669708252,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia\u2019s CEO Says \u201cAll of This Is Going to Pass\u201d After Tech Lost $1 Trillion in a Day - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8197664618492126,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Senator warns \u2018clock is ticking\u2019 as Social Security funds run dry - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9553623795509338,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Investors Disturbed by Anthropic\u2019s Financial Data - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.9562420845031738,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
