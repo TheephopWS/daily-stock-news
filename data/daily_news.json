@@ -1,25 +1,52 @@
 {
-    "last_updated": "2026-10-20 18:38:45 UTC",
-    "total_articles": 26,
-    "bullish_articles": 5,
-    "bearish_articles": 21,
+    "last_updated": "2026-10-20 21:32:07 UTC",
+    "total_articles": 23,
+    "bullish_articles": 8,
+    "bearish_articles": 15,
     "articles": [
         {
-            "title": "Netflix Fired Everyone. Now What? - Vulture",
+            "title": "Nestl\u00e9 confirms Solon factory closure, operations moving to South Carolina - Cleveland 19 News",
             "sentiment": "NEGATIVE",
-            "score": 0.7173088788986206,
+            "score": 0.8773531913757324,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tesla Rises 4% as DeSantis Vows to Make Flying Roadster Legal in Florida; Rivian and Lucid Slip - 24/7 Wall St.",
+            "sentiment": "POSITIVE",
+            "score": 0.8540581464767456,
+            "signal": "BULLISH",
             "tickers": [
-                "NFLX"
+                "TSLA"
             ],
-            "primary_ticker": "NFLX",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "NFLX",
-                    "impact": "negative",
+                    "ticker": "TSLA",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Berkeley\u2019s beloved Nabolom Bakery closes, blames political backlash, high costs - KRON4",
+            "sentiment": "NEGATIVE",
+            "score": 0.8766849040985107,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Violence, looting, arson: France faces an ominous doom loop - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9525635242462158,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Netflix Earnings Preview: Not the Time to Chill - The Hollywood Reporter",
@@ -56,13 +83,27 @@
             ]
         },
         {
-            "title": "USDA Announces Nationwide Meat Recall\u2014More Than 1.5 Million Pounds of Hot Dogs, Bacon, Deli Meat, and More Affected - Health.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9602843523025513,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Amazon is funding a new nuclear plant in Indiana - The Verge",
+            "sentiment": "POSITIVE",
+            "score": 0.8896392583847046,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN",
+                "AEP"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AEP",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Micron, Intel lead chip recovery, adding nearly $250B as most of Wall Street falls: Chart of the Day - Yahoo Finance",
@@ -82,10 +123,10 @@
             ]
         },
         {
-            "title": "U.S. Home-Builder Sentiment Sinks to 14-Year Low - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9655638337135315,
-            "signal": "BEARISH",
+            "title": "Major European mobile carriers are teaming up for a \u2018direct\u2019 satellite program without Starlink - The Verge",
+            "sentiment": "POSITIVE",
+            "score": 0.8528218269348145,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -108,6 +149,32 @@
             ]
         },
         {
+            "title": "Merck KGaA buys Silence in $1.3B deal after siRNA drug's phase 2 blood cancer win - Fierce Biotech",
+            "sentiment": "POSITIVE",
+            "score": 0.7559547424316406,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Microsoft abandons UK AI supercomputer as grid struggles to keep up - The Register",
+            "sentiment": "NEGATIVE",
+            "score": 0.945234477519989,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "CLF Stock Flashes Buy Signal On Steelmaker's Massive $4 Bil Outlook - Investor's Business Daily",
             "sentiment": "POSITIVE",
             "score": 0.946733295917511,
@@ -117,18 +184,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Vinted Faces Influx of Suspected Looted Goods After French Riots - Bloomberg.com",
+            "title": "So you say you hate \u2018surveillance pricing\u2019 - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.759783923625946,
+            "score": 0.8499584794044495,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "So you say you hate \u2018surveillance pricing\u2019 - CNN",
+            "title": "A Repeat Of 'Black Monday' Would Send The S&P 500 Down More Than 1,500 Points And Wipe Out More Than $13 Trillion In Stock Market Value - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.8499584794044495,
+            "score": 0.7907932996749878,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -144,36 +211,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Microsoft Pulls Out of Giant British AI Cloud Deal Just As Cloud Company Was Expecting to IPO - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.9143478870391846,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "French bond sell-off intensifies after violent protests - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9539479613304138,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Indonesia\u2019s Selloff Deepens Across Stocks, Bonds on MSCI Risk - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9105759263038635,
-            "signal": "BEARISH",
+            "title": "AbbVie\u2019s next-gen Crohn\u2019s disease combo beats Skyrizi in phase 2 trial - Fierce Biotech",
+            "sentiment": "POSITIVE",
+            "score": 0.8235993981361389,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -206,32 +247,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Here\u2019s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030 - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.7322218418121338,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Anthropic commits 5% of shares to \u2018public benefit\u2019 fund - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9050623178482056,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Here Is What a $5,000 Investment in Micron Could Be Worth by 2028 - The Motley Fool",
             "sentiment": "NEGATIVE",
             "score": 0.9084230065345764,
@@ -250,54 +265,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "AI Cloud Firm Nscale Faces Investor Pushback Over IPO Valuation - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9542900919914246,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Helium is way more important than you might think. And the supply chain is in crisis. - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9473792314529419,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Cheddar cheese recalled across several states over dangerous E. coli - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9174032807350159,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Bond Market\u2019s Big Short Bet Gets Wakeup Call as AI Trade Wobbles - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.7482529878616333,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Massachusetts Bay Transportation Authority increases speed on part of the Orange Line - WCVB",
-            "sentiment": "POSITIVE",
-            "score": 0.8803561925888062,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
