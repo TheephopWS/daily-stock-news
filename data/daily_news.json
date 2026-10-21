@@ -1,9 +1,61 @@
 {
-    "last_updated": "2026-10-20 21:32:07 UTC",
-    "total_articles": 23,
-    "bullish_articles": 8,
-    "bearish_articles": 15,
+    "last_updated": "2026-10-21 01:03:25 UTC",
+    "total_articles": 25,
+    "bullish_articles": 6,
+    "bearish_articles": 19,
     "articles": [
+        {
+            "title": "Nearly 1.6M pounds of hot dogs, bacon and other meats recalled nationwide - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9051229357719421,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Card Collector Who Spent Over Two Years Building $100,000 Collection Gets Terrible News From PSA - Kotaku",
+            "sentiment": "NEGATIVE",
+            "score": 0.940966784954071,
+            "signal": "BEARISH",
+            "tickers": [
+                "UBER"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "UBER",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Oil reverses course higher after US and Houthi attacks - investingLive",
+            "sentiment": "NEGATIVE",
+            "score": 0.8363118767738342,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Netflix's Co-CEO Ted Sarandos Just Gave Investors Bad News Before Earnings - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.963769793510437,
+            "signal": "BEARISH",
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Nestl\u00e9 confirms Solon factory closure, operations moving to South Carolina - Cleveland 19 News",
             "sentiment": "NEGATIVE",
@@ -14,30 +66,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tesla Rises 4% as DeSantis Vows to Make Flying Roadster Legal in Florida; Rivian and Lucid Slip - 24/7 Wall St.",
-            "sentiment": "POSITIVE",
-            "score": 0.8540581464767456,
-            "signal": "BULLISH",
+            "title": "Broadcom\u2019s Time is Nearing as Neocloud Risk Jolts Nvidia - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.8449593782424927,
+            "signal": "BEARISH",
             "tickers": [
-                "TSLA"
+                "NVDA"
             ],
-            "primary_ticker": "TSLA",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "TSLA",
-                    "impact": "positive",
+                    "ticker": "NVDA",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Berkeley\u2019s beloved Nabolom Bakery closes, blames political backlash, high costs - KRON4",
-            "sentiment": "NEGATIVE",
-            "score": 0.8766849040985107,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Violence, looting, arson: France faces an ominous doom loop - Axios",
@@ -66,23 +109,6 @@
             ]
         },
         {
-            "title": "Amazon stock pops after Morgan Stanley details 5 catalysts, lifts price target - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9385867714881897,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Amazon is funding a new nuclear plant in Indiana - The Verge",
             "sentiment": "POSITIVE",
             "score": 0.8896392583847046,
@@ -104,6 +130,24 @@
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Lufthansa to launch Columbus-to-Frankfurt nonstop service in May 2027 - WSYX",
+            "sentiment": "POSITIVE",
+            "score": 0.8085359930992126,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Exclusive / Saudi postpones FII in person after Wall Street lobbying - Semafor",
+            "sentiment": "NEGATIVE",
+            "score": 0.8382229804992676,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Micron, Intel lead chip recovery, adding nearly $250B as most of Wall Street falls: Chart of the Day - Yahoo Finance",
@@ -132,47 +176,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Uber wins bid to throw out \u00a3200m black cab claims - BBC",
+            "title": "US Homebuilder Sentiment Drops to 14-Year Low on Weak Sales - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9289949536323547,
+            "score": 0.9741078019142151,
             "signal": "BEARISH",
-            "tickers": [
-                "UBER"
-            ],
-            "primary_ticker": "UBER",
-            "ticker_impacts": [
-                {
-                    "ticker": "UBER",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Merck KGaA buys Silence in $1.3B deal after siRNA drug's phase 2 blood cancer win - Fierce Biotech",
-            "sentiment": "POSITIVE",
-            "score": 0.7559547424316406,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Microsoft abandons UK AI supercomputer as grid struggles to keep up - The Register",
-            "sentiment": "NEGATIVE",
-            "score": 0.945234477519989,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "CLF Stock Flashes Buy Signal On Steelmaker's Massive $4 Bil Outlook - Investor's Business Daily",
@@ -193,10 +203,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "A Repeat Of 'Black Monday' Would Send The S&P 500 Down More Than 1,500 Points And Wipe Out More Than $13 Trillion In Stock Market Value - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.7907932996749878,
-            "signal": "BEARISH",
+            "title": "China\u2019s economy accelerated in the July-September quarter on robust exports - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.9488176703453064,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -211,13 +221,44 @@
             "ticker_impacts": []
         },
         {
-            "title": "AbbVie\u2019s next-gen Crohn\u2019s disease combo beats Skyrizi in phase 2 trial - Fierce Biotech",
-            "sentiment": "POSITIVE",
-            "score": 0.8235993981361389,
-            "signal": "BULLISH",
-            "tickers": [],
+            "title": "Microsoft Pulls Out of Giant British AI Cloud Deal Just As Cloud Company Was Expecting to IPO - Gizmodo",
+            "sentiment": "NEGATIVE",
+            "score": 0.9143478870391846,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "AWS's CFO joked about the financial toll of AI. An internal recording reveals why. - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9667702913284302,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "AMZN"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Most vape products will become illegal in Pennsylvania after midnight deadline - WPXI",
@@ -241,15 +282,6 @@
             "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9745049476623535,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Here Is What a $5,000 Investment in Micron Could Be Worth by 2028 - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.9084230065345764,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
