@@ -1,22 +1,39 @@
 {
-    "last_updated": "2026-10-21 06:49:35 UTC",
-    "total_articles": 24,
-    "bullish_articles": 6,
+    "last_updated": "2026-10-21 09:36:21 UTC",
+    "total_articles": 25,
+    "bullish_articles": 7,
     "bearish_articles": 18,
     "articles": [
         {
             "title": "Nearly 1.6M pounds of hot dogs, bacon and other meats recalled nationwide - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9051229357719421,
+            "score": 0.9051231741905212,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Data-Center Firm Elice Plunges 32% in Debut After Korea IPO - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9707622528076172,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Netflix, America\u2019s Dominant Streaming Service, Has Hit a Wall - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9170041084289551,
+            "score": 0.9170043468475342,
             "signal": "BEARISH",
             "tickers": [
                 "NFLX"
@@ -31,6 +48,40 @@
             ]
         },
         {
+            "title": "US sanctions 5 Chinese entities over ex-Google engineer\u2019s AI trade secrets theft - South China Morning Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8741775751113892,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "US Stock Futures Edge Higher After Chipmaker Rally: Markets Wrap - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.95583176612854,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Omaha drivers report gas station supply issues across the metro; Pillen signs EO to help - WOWT",
             "sentiment": "NEGATIVE",
             "score": 0.9649879932403564,
@@ -40,27 +91,43 @@
             "ticker_impacts": []
         },
         {
-            "title": "IMF Warns That AI Bubble Could Take Down the Entire World Economy - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.925950288772583,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "Chip Stocks Catch A Break After Prolonged Slide. AI Names Among Leaders. - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.8485640287399292,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMD"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "Oil reverses course higher after US and Houthi attacks - investingLive",
+            "title": "Netflix Fired Everyone. Now What? - Vulture",
             "sentiment": "NEGATIVE",
-            "score": 0.8363118767738342,
+            "score": 0.7175209522247314,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Nestl\u00e9 confirms Solon factory closure, operations moving to South Carolina - Cleveland 19 News",
             "sentiment": "NEGATIVE",
-            "score": 0.8773531913757324,
+            "score": 0.8773532509803772,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -69,7 +136,7 @@
         {
             "title": "Broadcom\u2019s Time is Nearing as Neocloud Risk Jolts Nvidia - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.8449593782424927,
+            "score": 0.8449593186378479,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -95,7 +162,7 @@
         {
             "title": "Amazon is funding a new nuclear plant in Indiana - The Verge",
             "sentiment": "POSITIVE",
-            "score": 0.8896392583847046,
+            "score": 0.8896395564079285,
             "signal": "BULLISH",
             "tickers": [
                 "AMZN",
@@ -116,56 +183,39 @@
             ]
         },
         {
-            "title": "Exclusive / Saudi postpones FII in person after Wall Street lobbying - Semafor",
-            "sentiment": "NEGATIVE",
-            "score": 0.8382229804992676,
-            "signal": "BEARISH",
+            "title": "Major European mobile carriers are teaming up for a \u2018direct\u2019 satellite program without Starlink - The Verge",
+            "sentiment": "POSITIVE",
+            "score": 0.8528221845626831,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Micron, Intel lead chip recovery, adding nearly $250B as most of Wall Street falls: Chart of the Day - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.7955496311187744,
-            "signal": "BULLISH",
+            "title": "Daimler accuses former Oregon employee of embezzling millions for vacations, Uber Eats - KPTV",
+            "sentiment": "NEGATIVE",
+            "score": 0.9109075665473938,
+            "signal": "BEARISH",
             "tickers": [
-                "INTC"
+                "UBER"
             ],
-            "primary_ticker": "INTC",
+            "primary_ticker": "UBER",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
-                    "impact": "positive",
+                    "ticker": "UBER",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Major European mobile carriers are teaming up for a \u2018direct\u2019 satellite program without Starlink - The Verge",
+            "title": "Merck KGaA buys Silence in $1.3B deal after siRNA drug's phase 2 blood cancer win - Fierce Biotech",
             "sentiment": "POSITIVE",
-            "score": 0.8528218269348145,
+            "score": 0.7559552788734436,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "AI Cloud Firm Nscale Faces Investor Pushback Over IPO Valuation - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9542900919914246,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "CLF Stock Flashes Buy Signal On Steelmaker's Massive $4 Bil Outlook - Investor's Business Daily",
@@ -179,7 +229,7 @@
         {
             "title": "So you say you hate \u2018surveillance pricing\u2019 - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.8499584794044495,
+            "score": 0.8499588966369629,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -197,7 +247,7 @@
         {
             "title": "JPMorgan announces $5 billion in investments in companies critical to US national security - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.7518580555915833,
+            "score": 0.7518590092658997,
             "signal": "BULLISH",
             "tickers": [
                 "JPM"
@@ -212,50 +262,58 @@
             ]
         },
         {
+            "title": "The Iran War has sent gas and oil prices higher. That could spell economic disaster in the midterms. - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.933701753616333,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Microsoft Pulls Out of Giant British AI Cloud Deal Just As Cloud Company Was Expecting to IPO - Gizmodo",
+            "sentiment": "NEGATIVE",
+            "score": 0.9143478274345398,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "AWS's CFO joked about the financial toll of AI. An internal recording reveals why. - Business Insider",
             "sentiment": "NEGATIVE",
             "score": 0.9667702913284302,
             "signal": "BEARISH",
             "tickers": [
-                "AMZN",
-                "NVDA"
+                "NVDA",
+                "AMZN"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Most vape products will become illegal in Pennsylvania after midnight deadline - WPXI",
-            "sentiment": "NEGATIVE",
-            "score": 0.9444367289543152,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "North Carolina has the lowest gas prices in the country. Some say it's still too high - WRAL",
             "sentiment": "NEGATIVE",
-            "score": 0.9444828629493713,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9745049476623535,
+            "score": 0.9444829821586609,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -264,7 +322,7 @@
         {
             "title": "70-year-old worker falls to his death at Bass Pro Shops in Leeds - AL.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8276704549789429,
+            "score": 0.827670693397522,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -273,16 +331,7 @@
         {
             "title": "Helium is way more important than you might think. And the supply chain is in crisis. - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9473792314529419,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bond Market\u2019s Big Short Bet Gets Wakeup Call as AI Trade Wobbles - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7482529878616333,
+            "score": 0.9473792910575867,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
