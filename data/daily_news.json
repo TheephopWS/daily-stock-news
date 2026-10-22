@@ -1,13 +1,48 @@
 {
-    "last_updated": "2026-10-22 12:45:22 UTC",
-    "total_articles": 41,
-    "bullish_articles": 13,
-    "bearish_articles": 28,
+    "last_updated": "2026-10-22 15:34:56 UTC",
+    "total_articles": 35,
+    "bullish_articles": 11,
+    "bearish_articles": 24,
     "articles": [
         {
-            "title": "Netflix Stock Drops. Why Wall Street Is Still Worried After Earnings Beat. - Barron's",
+            "title": "AT&T Wireless Subscriber Growth Underwhelms. Will It Spark IPhone 18 Battle? - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.972851574420929,
+            "score": 0.9678759574890137,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Supermicro stock jumps as server maker lifts revenue forecast - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9226803183555603,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Boeing's largest 737 MAX jet wins FAA certification, clearing way for deliveries of 1,555 ordered planes - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.9295738935470581,
+            "signal": "BULLISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Netflix stock sinks after streamer's Q3 earnings, Q4 revenue forecast falls short of estimates - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9749391078948975,
             "signal": "BEARISH",
             "tickers": [
                 "NFLX"
@@ -22,56 +57,81 @@
             ]
         },
         {
-            "title": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8702506422996521,
-            "signal": "BULLISH",
-            "tickers": [
-                "GS"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GS",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "U.S. stock futures rise as SpaceX surges on upbeat earnings - Investing.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8209949135780334,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "OpenAI \u2018agents\u2019 disabled their own monitoring systems - Financial Times",
+            "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7411569952964783,
+            "score": 0.9669036865234375,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service - NPR",
+            "title": "Nvidia CEO Huang Pitches Europe on All Industries Adopting AI - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.7466186285018921,
+            "score": 0.9068490862846375,
             "signal": "BULLISH",
             "tickers": [
-                "BA"
+                "NVDA",
+                "INTC"
             ],
-            "primary_ticker": "BA",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "BA",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Lost track of an old 401(k)? Your savings may be slipping away - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.9572239518165588,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Critical PHP Vulnerabilities Leaked Ahead of Scheduled Security Patches - Infosecurity Magazine",
+            "sentiment": "NEGATIVE",
+            "score": 0.8915185332298279,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Treasury Market\u2019s New Power Brokers Are Pickier Than Ever - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8992416262626648,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Healthcare Stocks Are Rallying, and Flashing a Warning for the Rest of the Market - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.7234432697296143,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI's most powerful AI models disabled their own safety monitoring \u2014 and one lied about it - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9116978049278259,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "UK inflation jumps to 3.5% \u2014 cementing rate hike expectations - CNBC",
@@ -101,50 +161,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Asia stocks rebound as SpaceX, Super Micro results lift chipmakers - Investing.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8421371579170227,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "PHP warns it plans to release 2 emergency patches imminently - Ars Technica",
+            "title": "Ken Griffin calls Trump\u2019s tariffs on US allies 'a disaster' and predicts it will hurt Republicans in the midterms - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.908755362033844,
+            "score": 0.945550262928009,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck - Investor's Business Daily",
+            "title": "Massive Meat Recall Includes Hot Dogs, Bacon - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.8915709853172302,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA",
-                "META"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Japan exports post huge miss in September as growth slows to 16.7% - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9670958518981934,
+            "score": 0.9653514623641968,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -160,42 +188,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "Beijing blasts US sanctions on 5 Chinese firms tied to ex-Google engineer - AP News",
+            "title": "Is my GLP-1 safe? What to know about FDA's crackdown on copycat drugs - USA Today",
             "sentiment": "NEGATIVE",
-            "score": 0.9126136898994446,
+            "score": 0.7811050415039062,
             "signal": "BEARISH",
-            "tickers": [
-                "GOOGL",
-                "INTC"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "Ferrari CEO rates Tesla Roadster launch '10 out of 10,' thanks Elon Musk for daring to innovate - Fox Business",
+            "title": "Stocks Climb as SpaceX Results Reignite AI Trade: Markets Wrap - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9138438105583191,
+            "score": 0.9174888730049133,
             "signal": "BULLISH",
             "tickers": [
-                "TSLA"
+                "INTC"
             ],
-            "primary_ticker": "TSLA",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "TSLA",
+                    "ticker": "INTC",
                     "impact": "positive",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
         },
@@ -203,15 +217,6 @@
             "title": "Utah sues Kalshi, saying it\u2019s \u2018the manager of a back-alley gambling den\u2019 - The Salt Lake Tribune",
             "sentiment": "NEGATIVE",
             "score": 0.9068140983581543,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "GLP-1 injections recalled nationwide over sterility concerns, FDA says - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9556522965431213,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -235,15 +240,6 @@
             ]
         },
         {
-            "title": "3 things to look out for on Wednesday - Seeking Alpha",
-            "sentiment": "NEGATIVE",
-            "score": 0.8562254905700684,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Homebuyers get an advantage in dozens of US cities \u2014 but pay a steep price - Fox Business",
             "sentiment": "POSITIVE",
             "score": 0.7100502252578735,
@@ -256,33 +252,6 @@
             "title": "Nearly $1 million worth of rare Pokemon and sports cards stolen from FedEx truck in Orange County heist, police say - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
             "score": 0.8656566739082336,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Jim Cramer spots familiar pattern in the AI stock sell-off - TheStreet",
-            "sentiment": "NEGATIVE",
-            "score": 0.740871250629425,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Kroger to cut $5B in its bid to lower prices - The Business Journals",
-            "sentiment": "NEGATIVE",
-            "score": 0.7488813400268555,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Outrage grows as some L.A. residents report water and power bills spiking by thousands of dollars - KTLA",
-            "sentiment": "NEGATIVE",
-            "score": 0.9345259070396423,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -306,45 +275,21 @@
             ]
         },
         {
-            "title": "Mamdani Proposal Targets AI Customer Service \u2018Doom Loops\u2019 (1) - Bloomberg Law News",
+            "title": "AI Neoclouds Lose Their Shine, Stalling IPOs and Sinking Stocks - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8247812986373901,
+            "score": 0.9499338269233704,
             "signal": "BEARISH",
             "tickers": [
-                "AMD",
                 "INTC"
             ],
-            "primary_ticker": "AMD",
+            "primary_ticker": null,
             "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Homebuilder sentiment is at a 14-year low - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9694094061851501,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "'Grand Theft Auto VI' release set to cost US economy staggering amount as gamers plan PTO days | OutKick - Fox News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9420117735862732,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Delivery Robots Accused Of Scanning Customers\u2019 Faces, Sharing Biometric Data - AP News",
@@ -365,36 +310,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "AI jitters clobber South Korea's Elice as stock sinks 32% in trading debut - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9668302536010742,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Chip stocks recover as AI jitters fade - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9100377559661865,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "GE Aerospace Keeps Beating Earnings, GE Stock Keeps Falling - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.9751308560371399,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil prices whipsaw as markets weigh Middle East turmoil against uncertain demand - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9696424007415771,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -445,13 +363,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Scientists discover a surprising link between vitamin C and cancer survival - Science Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9433648586273193,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Zuckerberg spent years building on Apple\u2019s terms. His $100-billion-plus AI bet is about owning everything - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.7496480941772461,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL",
+                "META"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Omaha drivers report gas station supply issues across the metro; Pillen signs EO to help - WOWT",
