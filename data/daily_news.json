@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-10-22 01:02:00 UTC",
-    "total_articles": 29,
-    "bullish_articles": 2,
-    "bearish_articles": 27,
+    "last_updated": "2026-10-22 03:39:00 UTC",
+    "total_articles": 27,
+    "bullish_articles": 7,
+    "bearish_articles": 20,
     "articles": [
         {
             "title": "Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck - Investor's Business Daily",
@@ -45,10 +45,33 @@
             ]
         },
         {
-            "title": "Is my GLP-1 safe? What to know about FDA's crackdown on copycat drugs - USA Today",
+            "title": "Beijing blasts US sanctions on 5 Chinese firms tied to ex-Google engineer - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.7811048626899719,
+            "score": 0.9126138687133789,
             "signal": "BEARISH",
+            "tickers": [
+                "GOOGL",
+                "INTC"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9134462475776672,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -61,6 +84,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Amazon to hire more than 300,000 US workers for holiday shopping rush - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.7162229418754578,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Netflix Q3 Revenue Meets Wall Street Estimates, Forecasts Q4 Slowdown and Says It Will Miss Ad Sales Target for the Year - Variety",
@@ -97,19 +137,10 @@
             ]
         },
         {
-            "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9720877408981323,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9326048493385315,
-            "signal": "BEARISH",
+            "title": "Homebuyers get an advantage in dozens of US cities \u2014 but pay a steep price - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.7100513577461243,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -118,6 +149,15 @@
             "title": "Nearly $1 million worth of rare Pokemon and sports cards stolen from FedEx truck in Orange County heist, police say - ABC7 Los Angeles",
             "sentiment": "NEGATIVE",
             "score": 0.8656564950942993,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Kroger to cut $5B in its bid to lower prices - The Business Journals",
+            "sentiment": "NEGATIVE",
+            "score": 0.7488818168640137,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -139,6 +179,24 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9677352905273438,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Outrage grows as some L.A. residents report water and power bills spiking by thousands of dollars - KTLA",
+            "sentiment": "NEGATIVE",
+            "score": 0.9345259070396423,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Mamdani Proposal Targets AI Customer Service \u2018Doom Loops\u2019 (1) - Bloomberg Law News",
@@ -164,24 +222,6 @@
             ]
         },
         {
-            "title": "Homebuilder sentiment is at a 14-year low - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9694094061851501,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "IPO Stock Crash: South Korea\u2019s Elice Brings Warning Bells for AI - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9717459678649902,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Delivery Robots Accused Of Scanning Customers\u2019 Faces, Sharing Biometric Data - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.8697847723960876,
@@ -191,18 +231,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "GLP-1 injections recalled nationwide over concerning reason - New York Post",
+            "title": "AI jitters clobber South Korea's Elice as stock sinks 32% in trading debut - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9331305027008057,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Over 1.5M pounds of meat recalled over serious potential health concerns - The Independent",
-            "sentiment": "NEGATIVE",
-            "score": 0.8570016622543335,
+            "score": 0.9668302536010742,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -218,27 +249,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron Stock Rises to Defy 3 Warning Signals - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.967392086982727,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "GE Aerospace Keeps Beating Earnings, GE Stock Keeps Falling - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.9751308560371399,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US pending home sales tumble to record low in September - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9736918210983276,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -254,19 +267,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Chips lead Nasdaq lower, oil tops 5-month high: AlphaCheck - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9502302408218384,
-            "signal": "BEARISH",
+            "title": "Passengers, Prepare for Takeoff (of Your Holiday Airfares) - Newser",
+            "sentiment": "POSITIVE",
+            "score": 0.9197804927825928,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Dow Giant Jumps On AI Data Center Deal. No, Not That One. - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9540864825248718,
-            "signal": "BEARISH",
+            "title": "News | RTX Reports Q3 2026 Results - RTX",
+            "sentiment": "POSITIVE",
+            "score": 0.7585106492042542,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -281,22 +294,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tougher Federal Worker Reviews Roll Out With Hits to Morale - Bloomberg Law News",
+            "title": "Zuckerberg spent years building on Apple\u2019s terms. His $100-billion-plus AI bet is about owning everything - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9683380722999573,
+            "score": 0.7496487498283386,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8959926962852478,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "AAPL",
+                "META"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "As US' Hottest Summer Cools, Many Face Staggering Power Bills - Newser",
