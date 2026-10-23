@@ -1,19 +1,74 @@
 {
-    "last_updated": "2026-10-23 01:05:15 UTC",
-    "total_articles": 27,
-    "bullish_articles": 8,
-    "bearish_articles": 19,
+    "last_updated": "2026-10-23 03:39:35 UTC",
+    "total_articles": 23,
+    "bullish_articles": 10,
+    "bearish_articles": 13,
     "articles": [
         {
-            "title": "US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap - Bloomberg.com",
+            "title": "Stock futures fall as investors digest earnings from Meta and Tesla: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9705113172531128,
+            "score": 0.765927791595459,
             "signal": "BEARISH",
             "tickers": [
+                "META",
+                "TSLA"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "China\u2019s DeepSeek Raises $15 Billion to Challenge Top US AI Labs - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9087899923324585,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Airbnb cracks down on checkout chore lists as hosts face new limits - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9590203762054443,
+            "signal": "BEARISH",
+            "tickers": [
+                "ABNB"
+            ],
+            "primary_ticker": "ABNB",
+            "ticker_impacts": [
+                {
+                    "ticker": "ABNB",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Tesla profits fall on higher spending as 'Elon Inc.' talk builds - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9713728427886963,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA",
                 "INTC"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
                 {
                     "ticker": "INTC",
                     "impact": "negative",
@@ -24,16 +79,7 @@
         {
             "title": "Trump's green card curbs test Indian tech workers' American dream - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7869383692741394,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Electricity bills force 1 in 5 Americans to cut grocery costs - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9342920184135437,
+            "score": 0.7869386672973633,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -42,25 +88,25 @@
         {
             "title": "IBM Stock Rallies as Earnings Offer Glimmer of Recovery - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.922892689704895,
+            "score": 0.9228927493095398,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "UnitedHealthcare, Humana Medicare Advantage cancellations to affect 1M - NewsNation",
+            "title": "Lam Research Stock Falls As Chip-Gear Maker's Outlook Fails To Impress - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9510142803192139,
+            "score": 0.9740536212921143,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook - AP News",
+            "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.8770225048065186,
+            "score": 0.9389781355857849,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -75,95 +121,10 @@
             ]
         },
         {
-            "title": "Dow Jones Futures: Meta, Tesla Are Earnings Movers Late After SpaceX, Super Micro Lead Bullish Nasdaq Move - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.8273448348045349,
-            "signal": "BULLISH",
-            "tickers": [
-                "TSLA",
-                "META"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9704504609107971,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Lam Research slides even as Q1 results and guidance top Wall Street's forecast (LRCX:NASDAQ) - Seeking Alpha",
-            "sentiment": "NEGATIVE",
-            "score": 0.9693474769592285,
-            "signal": "BEARISH",
-            "tickers": [
-                "LRCX"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "LRCX",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Websites taken down worldwide as critical cyber-security update issued - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9299557209014893,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Energy Dept to loan part of home heating oil reserve to ease prices, drawing bipartisan praise - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.9331740140914917,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FDA Announces Nationwide Recall of More Than 4 Million Tubes of Toothpaste - Health.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7158144116401672,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Supermicro stock jumps as server maker lifts revenue forecast - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8926005959510803,
+            "score": 0.8926010727882385,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Just Eat apologises for AI food mistakes after social media ridicule - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8482579588890076,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -180,7 +141,7 @@
         {
             "title": "What to know about GLP-1s and cannabis use - LiveNOW from FOX",
             "sentiment": "NEGATIVE",
-            "score": 0.7050594091415405,
+            "score": 0.7050597667694092,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -198,7 +159,7 @@
         {
             "title": "Intel hits construction milestone at Ohio chip fab that\u2019s at least 5 years behind schedule - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8198584318161011,
+            "score": 0.8198587894439697,
             "signal": "BULLISH",
             "tickers": [
                 "INTC"
@@ -213,34 +174,40 @@
             ]
         },
         {
-            "title": "Netflix Sales Growth to Decline for Fourth Quarter in a Row - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9748596549034119,
-            "signal": "BEARISH",
+            "title": "Tech stocks lead market higher as SpaceX shares surge: AlphaCheck - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.941774308681488,
+            "signal": "BULLISH",
             "tickers": [
-                "NFLX"
+                "META",
+                "TSLA"
             ],
-            "primary_ticker": "NFLX",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Boeing's largest 737 MAX jet wins FAA certification, clearing way for deliveries of 1,555 ordered planes - Fox Business",
+            "title": "Nvidia Stock Jumps After Hours on Elon Musk\u2019s SpaceX Chip Plan - NVIDIA (NASDAQ:NVDA) - Benzinga",
             "sentiment": "POSITIVE",
-            "score": 0.9295738935470581,
+            "score": 0.9054824113845825,
             "signal": "BULLISH",
             "tickers": [
-                "BA"
+                "NVDA"
             ],
-            "primary_ticker": "BA",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "BA",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -256,19 +223,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Anthropic posts $80bn loss in first half of 2026: WSJ - Al Jazeera",
-            "sentiment": "NEGATIVE",
-            "score": 0.9486645460128784,
-            "signal": "BEARISH",
+            "title": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service - NPR",
+            "sentiment": "POSITIVE",
+            "score": 0.7466188669204712,
+            "signal": "BULLISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Mayor Karen Bass announces relief for LADWP customers facing high bills: 'pay whatever they can afford' - ABC7 Los Angeles",
+            "sentiment": "POSITIVE",
+            "score": 0.8916763067245483,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Mayor Karen Bass announces relief for LADWP customers facing high bills: 'pay whatever they can afford' - ABC7 Los Angeles",
-            "sentiment": "POSITIVE",
-            "score": 0.891676127910614,
-            "signal": "BULLISH",
+            "title": "Nearly $1M in Pok\u00e9mon and sports cards vanish from FedEx truck, driver discovers missing lock - FreightWaves",
+            "sentiment": "NEGATIVE",
+            "score": 0.9283028841018677,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -276,7 +260,7 @@
         {
             "title": "Massive Meat Recall Includes Hot Dogs, Bacon - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.9653514623641968,
+            "score": 0.9653515815734863,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -285,7 +269,7 @@
         {
             "title": "Amazon to hire more than 300,000 US workers for holiday shopping rush - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.7162225246429443,
+            "score": 0.7162232995033264,
             "signal": "BULLISH",
             "tickers": [
                 "AMZN"
@@ -300,10 +284,10 @@
             ]
         },
         {
-            "title": "Nearly $1 million worth of rare Pokemon and sports cards stolen from FedEx truck in Orange County heist, police say - ABC7 Los Angeles",
-            "sentiment": "NEGATIVE",
-            "score": 0.8656566739082336,
-            "signal": "BEARISH",
+            "title": "Homebuyers get an advantage in dozens of US cities \u2014 but pay a steep price - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.7100508809089661,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -311,7 +295,7 @@
         {
             "title": "Delivery robots accused of scanning customers\u2019 faces and sharing biometric data - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.8823506236076355,
+            "score": 0.882350742816925,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
