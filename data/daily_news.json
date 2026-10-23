@@ -1,9 +1,35 @@
 {
-    "last_updated": "2026-10-23 09:38:06 UTC",
-    "total_articles": 24,
-    "bullish_articles": 10,
-    "bearish_articles": 14,
+    "last_updated": "2026-10-23 12:44:05 UTC",
+    "total_articles": 28,
+    "bullish_articles": 11,
+    "bearish_articles": 17,
     "articles": [
+        {
+            "title": "Stock Market Today: Stocks Slide After Mideast Tensions, Tesla Earnings \u2014 Live Updates - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9542772769927979,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "American Airlines expects deeper 2026 loss on pricier fuel despite record revenue - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.971833348274231,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Barclays to Cut 5,000 Jobs in AI-Fueled Push to Lower Costs - Bloomberg.com",
             "sentiment": "NEGATIVE",
@@ -22,44 +48,39 @@
             ]
         },
         {
-            "title": "Nasdaq futures down 1.8% as investors digest earnings from Meta and Tesla: Live updates - CNBC",
+            "title": "China Stocks Set for Bear Market as AI Trade, Policy Hopes Fade - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9693877100944519,
+            "score": 0.9724518656730652,
             "signal": "BEARISH",
             "tickers": [
-                "TSLA",
-                "META"
+                "INTC"
             ],
-            "primary_ticker": "TSLA",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "TSLA",
+                    "ticker": "INTC",
                     "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Meta hit with $25 billion penalty for misleading Facebook users - Axios",
+            "title": "How long does it take to save up for a starter home? Twice as long as it did in 2019 - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.8472135066986084,
+            "score": 0.7111732363700867,
             "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "World's largest wealth fund posts $30 billion loss after bond market turbulence - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9565615057945251,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Elon Musk says Tesla vehicle demand exceeding production ahead of Dallas Cybercab launch - Fox Business",
@@ -79,27 +100,41 @@
             ]
         },
         {
-            "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout - CNBC",
+            "title": "Australia extends ban on KPMG federal contracts until 2027 - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.9738758206367493,
+            "score": 0.9704018831253052,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "China\u2019s DeepSeek Raises $15 Billion to Challenge Top US AI Labs - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9087899923324585,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Futures Fall; Meta, Tesla Lead Big Earnings Late - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9541753530502319,
+            "signal": "BEARISH",
+            "tickers": [
+                "META",
+                "TSLA"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "TSLA, SPCX Slip Overnight: Musk Reportedly Pushes Merger Before Trump\u2019s Exit \u2014 ARK Sees Tesla Holders \u20185x Better Off\u2019 By 2036 - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9293479919433594,
+            "score": 0.9293478727340698,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -116,7 +151,7 @@
         {
             "title": "Meta Q3 revenue tops estimates and Zuckerberg says Muse accounts have topped 10 million - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.8754901885986328,
+            "score": 0.8754907250404358,
             "signal": "BULLISH",
             "tickers": [
                 "META"
@@ -131,10 +166,42 @@
             ]
         },
         {
-            "title": "Electricity bills force 1 in 5 Americans to cut grocery costs - USA Today",
+            "title": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock \u2014 SPCX, META, TSLA, SKYD, IBM In Focus - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9261415004730225,
+            "signal": "BULLISH",
+            "tickers": [
+                "META",
+                "TSLA"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Stocks Slide as AI Trade Falters and Oil Rallies: Markets Wrap - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9391606450080872,
+            "score": 0.9692028760910034,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "IBM Stock Jumps After Q3 Earnings And Revenue Beat Expectations - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9387679696083069,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -149,23 +216,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Dow Pops; Nasdaq Charges Higher As SpaceX Soars On Earnings, Tesla Talks - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.8402329087257385,
-            "signal": "BULLISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9704504609107971,
@@ -175,9 +225,35 @@
             "ticker_impacts": []
         },
         {
+            "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9389781355857849,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Energy Dept to loan part of home heating oil reserve to ease prices, drawing bipartisan praise - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.9331740140914917,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Supermicro stock jumps as server maker lifts revenue forecast - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8926010727882385,
+            "score": 0.8926005959510803,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -195,7 +271,7 @@
         {
             "title": "'GTA 6' could cause $1 billion sick day as 1.5 million estimated to skip work: reports - FOX 29 Philadelphia",
             "sentiment": "NEGATIVE",
-            "score": 0.9251788854598999,
+            "score": 0.9251787662506104,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -213,7 +289,7 @@
         {
             "title": "Intel hits construction milestone at Ohio chip fab that\u2019s at least 5 years behind schedule - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8198587894439697,
+            "score": 0.8198584318161011,
             "signal": "BULLISH",
             "tickers": [
                 "INTC"
@@ -230,7 +306,7 @@
         {
             "title": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service - NPR",
             "sentiment": "POSITIVE",
-            "score": 0.7466188669204712,
+            "score": 0.7466186285018921,
             "signal": "BULLISH",
             "tickers": [
                 "BA"
@@ -245,18 +321,9 @@
             ]
         },
         {
-            "title": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9720226526260376,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Mayor Karen Bass announces relief for LADWP customers facing high bills: 'pay whatever they can afford' - ABC7 Los Angeles",
             "sentiment": "POSITIVE",
-            "score": 0.8916763067245483,
+            "score": 0.891676127910614,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -274,7 +341,7 @@
         {
             "title": "Massive Meat Recall Includes Hot Dogs, Bacon - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.9653515815734863,
+            "score": 0.9653514623641968,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -283,7 +350,7 @@
         {
             "title": "Amazon to hire more than 300,000 US workers for holiday shopping rush - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.7162232995033264,
+            "score": 0.7162225246429443,
             "signal": "BULLISH",
             "tickers": [
                 "AMZN"
@@ -296,15 +363,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Homebuilder sentiment is at a 14-year low - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9694094061851501,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
