@@ -1,22 +1,60 @@
 {
-    "last_updated": "2026-10-23 15:36:05 UTC",
-    "total_articles": 25,
-    "bullish_articles": 4,
+    "last_updated": "2026-10-23 18:39:46 UTC",
+    "total_articles": 24,
+    "bullish_articles": 3,
     "bearish_articles": 21,
     "articles": [
         {
-            "title": "Over 4 million tubes of toothpaste recalled. See affected products - USA Today",
+            "title": "Moderna\u2019s Shares Plummet After Cancer-Vaccine Data Shared on Social Media - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.766697883605957,
+            "score": 0.9464715719223022,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Meta and chip stocks decline as AI trade comes under pressure: AlphaCheck - Yahoo Finance",
+            "title": "Chip Stock Rebound Comes Undone After Lam Research Stokes Spending Fears - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9739769101142883,
+            "score": 0.9709594249725342,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD",
+                "INTC",
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Race to update services' computer systems after cyber-security flaw found - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9378277063369751,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta whines New Mexico is \u201cimpossible\u201d to please after historic $25 billion fine - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.9193655252456665,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -31,64 +69,78 @@
             ]
         },
         {
-            "title": "Quest Diagnostics reports cyber breach affecting \u2018certain patient records\u2019 - AP News",
+            "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9491766691207886,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nasdaq tumbles on AI spending concerns and jump in oil prices: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9737855195999146,
+            "score": 0.7717446088790894,
             "signal": "BEARISH",
             "tickers": [
-                "TSLA",
-                "INTC",
                 "META"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "META",
             "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
                 {
                     "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Tesla stock slips despite Q3 earnings beat, better-than-expected capex spend - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9570634961128235,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints' - Yahoo Finance",
+            "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9010468125343323,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oracle Stock Was Caught In the AI Debt Selloff. Wall Street Says That\u2019s a Mistake. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9737896919250488,
+            "score": 0.9579150676727295,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Nearly 4 Million Tubes of Toothpaste Are Being Recalled - EatingWell",
+            "sentiment": "NEGATIVE",
+            "score": 0.9702659845352173,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AI doubts drive bond rally as Meta, IBM flash warning signs (TLT:NASDAQ) - Seeking Alpha",
+            "sentiment": "NEGATIVE",
+            "score": 0.9276624917984009,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9732506275177002,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -107,23 +159,6 @@
             "title": "Meta's Muse AI Momentum Wins Over Analysts \u2014 But $140B Spending Outlook Raises Funding Questions - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9157829880714417,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "The Morning Risk Report: Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9060354232788086,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -173,36 +208,26 @@
             ]
         },
         {
-            "title": "Treasury yields fall sharply as traders seek safety from stock market sell-off - CNBC",
+            "title": "China Stocks Set for Bear Market as AI Trade, Policy Hopes Fade - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.968834638595581,
+            "score": 0.9724518656730652,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "How long does it take to save up for a starter home? Twice as long as it did in 2019 - NPR",
             "sentiment": "NEGATIVE",
             "score": 0.7111732363700867,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock market slides as Iran tensions weigh on sentiment (COMP:IND:) - Seeking Alpha",
-            "sentiment": "NEGATIVE",
-            "score": 0.9630674123764038,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "World's largest wealth fund posts $30 billion loss after bond market turbulence - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9565615057945251,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -218,13 +243,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout - CNBC",
+            "title": "Brent crude tops $111 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9738758206367493,
+            "score": 0.8456060886383057,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Tesla profits fall on higher spending as 'Elon Inc.' talk builds - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9713728427886963,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA",
+                "INTC"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "IBM Stock Jumps After Q3 Earnings And Revenue Beat Expectations - Investor's Business Daily",
@@ -266,41 +314,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9759442806243896,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9669036865234375,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service - NPR",
-            "sentiment": "POSITIVE",
-            "score": 0.7466186285018921,
-            "signal": "BULLISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Mayor Karen Bass announces relief for LADWP customers facing high bills: 'pay whatever they can afford' - ABC7 Los Angeles",
-            "sentiment": "POSITIVE",
-            "score": 0.891676127910614,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
