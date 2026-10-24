@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-10-24 09:32:22 UTC",
-    "total_articles": 25,
-    "bullish_articles": 6,
+    "last_updated": "2026-10-24 12:39:58 UTC",
+    "total_articles": 23,
+    "bullish_articles": 4,
     "bearish_articles": 19,
     "articles": [
         {
-            "title": "Stock futures trade mixed after tech sector sell-off: Live updates - CNBC",
+            "title": "1 Thing in Bloom Energy\u2019s Strong Earnings That May Be Dragging the Stock Down - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9700367450714111,
+            "score": 0.9678238034248352,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "What smart people are saying about the cybersecurity 'vulnerability tsunami' that's roiling the internet - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9332862496376038,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,18 +41,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial - STAT",
-            "sentiment": "POSITIVE",
-            "score": 0.9550254940986633,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "\u2018Just the beginning\u2019: New Mexico AG warns AI industry after $25B Meta ruling - Politico",
             "sentiment": "POSITIVE",
-            "score": 0.7844043970108032,
+            "score": 0.7844045162200928,
             "signal": "BULLISH",
             "tickers": [
                 "META"
@@ -67,10 +67,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Hackers appear to be struggling to exploit PHP flaws after global cybersecurity crisis - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9527267813682556,
-            "signal": "BEARISH",
+            "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.8411834836006165,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -78,7 +78,7 @@
         {
             "title": "Comcast loses more customers, claims other ISPs\u2019 cheap prices are \u201cirrational\u201d - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.9630240797996521,
+            "score": 0.9630239605903625,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -87,7 +87,7 @@
         {
             "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.804446280002594,
+            "score": 0.8044458031654358,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -96,16 +96,7 @@
         {
             "title": "Airfares will not return to pre-Iran war levels, American Airlines warns - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.9260890483856201,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bloom Energy Reports Record Third Quarter 2026 Financial Results and Raises Full Year 2026 Guidance - Bloom Energy",
-            "sentiment": "POSITIVE",
-            "score": 0.9451654553413391,
+            "score": 0.9260892271995544,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -114,7 +105,7 @@
         {
             "title": "NYC MTA Eagle teams ordered to stand down after allegations of excessive force - ABC7 New York",
             "sentiment": "NEGATIVE",
-            "score": 0.9532825350761414,
+            "score": 0.9532826542854309,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -130,9 +121,35 @@
             "ticker_impacts": []
         },
         {
+            "title": "Black October: why bugs discovered by OpenAI tech are creating a cyber emergency - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.7314152717590332,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta, AI Stocks Tumble As AI Spending Fears Reignite - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9273602962493896,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Consumer Reports calls for Millie Moon to recall its diapers and recommends that parents stop using them - Consumers Union",
             "sentiment": "NEGATIVE",
-            "score": 0.9239663481712341,
+            "score": 0.9239664077758789,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -141,7 +158,7 @@
         {
             "title": "Looking for a job? These companies are hiring ahead of holidays - Good Morning America",
             "sentiment": "NEGATIVE",
-            "score": 0.7848518490791321,
+            "score": 0.7848512530326843,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -153,14 +170,14 @@
             "score": 0.9709594249725342,
             "signal": "BEARISH",
             "tickers": [
-                "AMD",
+                "NVDA",
                 "INTC",
-                "NVDA"
+                "AMD"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "AMD",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "medium"
                 },
@@ -170,33 +187,16 @@
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Elon Musk says Tesla will sell 5 million cars by 2030 \u2014 math says otherwise - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.9606069922447205,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "'Everyone Was Yelling': United Flight Suddenly Drops Near LAX, Injuring 4 - Patch",
             "sentiment": "NEGATIVE",
-            "score": 0.9430727958679199,
+            "score": 0.9430726766586304,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -212,39 +212,47 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta\u2019s Stock Split Paves Way for Huge AI Financing Deal - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.7277708053588867,
-            "signal": "BULLISH",
+            "title": "Getty Images files for bankruptcy amid mounting debt and AI competition - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9616377949714661,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tesla (TSLA) quietly cuts 2026 capex guidance to $20B - Electrek",
+            "sentiment": "NEGATIVE",
+            "score": 0.8470988273620605,
+            "signal": "BEARISH",
             "tickers": [
-                "META"
+                "TSLA"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
-                    "impact": "positive",
+                    "ticker": "TSLA",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Jon Gray Rebuts AI Bubble Warnings, Calls Demand \u2018Parabolic\u2019 - Bloomberg.com",
+            "title": "China Stocks Set for Bear Market as AI Trade, Policy Hopes Fade - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7532957196235657,
+            "score": 0.9724518656730652,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Residents to Nederland leaders: End the deal to buy Eldora ski area immediately - The Colorado Sun",
-            "sentiment": "NEGATIVE",
-            "score": 0.9283722043037415,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "France\u2019s Debt Crisis Deepens as Foreign Investors Look for the Exit - WSJ",
@@ -254,32 +262,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9738758206367493,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Lefty NYC Council member shrugs off warnings that her crusade against Amazon could kill thousands of jobs - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9648250937461853,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
