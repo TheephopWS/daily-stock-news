@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-10-24 03:37:15 UTC",
-    "total_articles": 27,
+    "last_updated": "2026-10-24 06:46:16 UTC",
+    "total_articles": 20,
     "bullish_articles": 4,
-    "bearish_articles": 23,
+    "bearish_articles": 16,
     "articles": [
         {
             "title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans - CNBC",
@@ -14,22 +14,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market News, Oct. 22, 2026: Tech Selloff Deepens as Flight Into Treasurys Drives Yields Lower - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8021876811981201,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial - STAT",
+            "title": "\u2018Just the beginning\u2019: New Mexico AG warns AI industry after $25B Meta ruling - Politico",
             "sentiment": "POSITIVE",
-            "score": 0.9550254940986633,
+            "score": 0.7844043970108032,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Hackers appear to be struggling to exploit PHP flaws after global cybersecurity crisis - NBC News",
@@ -67,24 +66,6 @@
             ]
         },
         {
-            "title": "Nasdaq dives more than 750 points as investors worry massive AI spending won't pay off - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.965523898601532,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Exclusive / SpaceX $40 billion debt deal gets pricey as AI fears spread - Semafor",
-            "sentiment": "NEGATIVE",
-            "score": 0.7947006821632385,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Airfares will not return to pre-Iran war levels, American Airlines warns - Financial Times",
             "sentiment": "POSITIVE",
             "score": 0.9260890483856201,
@@ -94,21 +75,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta stock drops more than 7% despite strong Q3 results as AI spending fears return - Yahoo Finance",
+            "title": "NYC MTA Eagle teams ordered to stand down after allegations of excessive force - ABC7 New York",
             "sentiment": "NEGATIVE",
-            "score": 0.9743665456771851,
+            "score": 0.9532825350761414,
             "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "News | Rising rates derail CBRE's real estate deal momentum - CoStar",
@@ -120,9 +93,41 @@
             "ticker_impacts": []
         },
         {
+            "title": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019 - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.8467016220092773,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT",
+                "INTC"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Consumer Reports calls for Millie Moon to recall its diapers and recommends that parents stop using them - Consumers Union",
             "sentiment": "NEGATIVE",
             "score": 0.9239663481712341,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "911 Outages Hit Multiple Cities in California - Gizmodo",
+            "sentiment": "NEGATIVE",
+            "score": 0.8235108256340027,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -143,17 +148,12 @@
             "score": 0.9709594249725342,
             "signal": "BEARISH",
             "tickers": [
-                "INTC",
                 "NVDA",
-                "AMD"
+                "AMD",
+                "INTC"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
                 {
                     "ticker": "NVDA",
                     "impact": "negative",
@@ -161,6 +161,11 @@
                 },
                 {
                     "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -184,30 +189,39 @@
             ]
         },
         {
-            "title": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals - CNBC",
+            "title": "'Everyone Was Yelling': United Flight Suddenly Drops Near LAX, Injuring 4 - Patch",
             "sentiment": "NEGATIVE",
-            "score": 0.7063983678817749,
+            "score": 0.9430727958679199,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Oracle Stock Was Caught In the AI Debt Selloff. Wall Street Says That\u2019s a Mistake. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9579150676727295,
-            "signal": "BEARISH",
+            "title": "Meta\u2019s Stock Split Paves Way for Huge AI Financing Deal - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.7277708053588867,
+            "signal": "BULLISH",
             "tickers": [
-                "INTC"
+                "META"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "META",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Crypto shareholder sues Trump, family-backed crypto venture - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.7075039148330688,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues - CNBC",
@@ -217,32 +231,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Jon Gray Rebuts AI Bubble Warnings, Calls Demand \u2018Parabolic\u2019 - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7532957196235657,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Morning Risk Report: Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9060354232788086,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "China Stocks Set for Bear Market as AI Trade, Policy Hopes Fade - Bloomberg.com",
@@ -266,51 +254,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9677344560623169,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How long does it take to save up for a starter home? Twice as long as it did in 2019 - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.7111732363700867,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "United Airlines flight arrives at LAX after turbulence injures flight attendants - ABC7 Los Angeles",
-            "sentiment": "NEGATIVE",
-            "score": 0.9510026574134827,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Brent crude tops $111 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8456060886383057,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "IBM Stock Jumps After Q3 Earnings And Revenue Beat Expectations - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9387679696083069,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Energy Dept to loan part of home heating oil reserve to ease prices, drawing bipartisan praise - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.9331740140914917,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
