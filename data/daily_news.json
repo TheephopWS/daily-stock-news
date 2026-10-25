@@ -1,9 +1,27 @@
 {
-    "last_updated": "2026-10-25 01:07:52 UTC",
-    "total_articles": 30,
-    "bullish_articles": 7,
+    "last_updated": "2026-10-25 03:40:50 UTC",
+    "total_articles": 31,
+    "bullish_articles": 8,
     "bearish_articles": 23,
     "articles": [
+        {
+            "title": "MTA suspending bus fare enforcement teams after altercations emerge - Gothamist",
+            "sentiment": "NEGATIVE",
+            "score": 0.9430423974990845,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.936768651008606,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Argentina drops investigation into President Milei over crypto fraud - BBC",
             "sentiment": "NEGATIVE",
@@ -14,43 +32,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.9368147253990173,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "OpenAI to Train AI Models Without Internet After Cyber Incidents - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.898182213306427,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Meta faces massive AI bills and legal troubles. Mark Zuckerberg keeps finding ways to come out on top. - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9107043743133545,
+            "score": 0.9107044339179993,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -67,7 +51,7 @@
         {
             "title": "Moderna mRNA vaccine almost halves the risk of skin cancer returning - Nature",
             "sentiment": "POSITIVE",
-            "score": 0.9071047306060791,
+            "score": 0.9071046113967896,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -76,7 +60,7 @@
         {
             "title": "Mitsubishi Power's $490 million Chatham County expansion to create 220 jobs - WJCL",
             "sentiment": "POSITIVE",
-            "score": 0.9168312549591064,
+            "score": 0.9168309569358826,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -85,7 +69,7 @@
         {
             "title": "Bloom Energy Stock Sinks Despite Record Revenue and a Stellar Outlook. Is It Time to Buy? - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8975707292556763,
+            "score": 0.8975712060928345,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -94,7 +78,7 @@
         {
             "title": "AI agents are roaming around consumers' bank accounts, and banks aren't happy about it - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.8104119300842285,
+            "score": 0.8104117512702942,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -110,9 +94,26 @@
             "ticker_impacts": []
         },
         {
+            "title": "How Many Billions Would It Take to Hold Meta Accountable? - WIRED",
+            "sentiment": "NEGATIVE",
+            "score": 0.9512906074523926,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Etsy to restrict AI-generated content in effort to combat seller slop - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9186071753501892,
+            "score": 0.9186069965362549,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -121,25 +122,39 @@
         {
             "title": "Gold drops below $4,000 as \u2018haven\u2019 asset joins market sell-off - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9440173506736755,
+            "score": 0.944017231464386,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Restaurant earnings will test whether owning more brands pays off - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7607677578926086,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "King Apple is taking Wall Street\u2019s top spot back from Nvidia \u2014 for the fifth time - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.759570300579071,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL",
+                "NVDA"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "SK Hynix Stock Jumps After Scrapping U.S. IPO of Memory-Chip Unit - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.7541057467460632,
+            "score": 0.7541024684906006,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -148,17 +163,8 @@
         {
             "title": "US Business Activity Expands, Prices Surge by Most Since 2022 - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9433855414390564,
+            "score": 0.9433854818344116,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "\u2018Difficult but necessary\u2019: Largest hospital system in Mass. announces more layoffs - Boston 25 News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9690228700637817,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -193,16 +199,7 @@
         {
             "title": "AI Tech Fears Push Global Credit Spreads to 17-Month High - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8601767420768738,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware - The Hacker News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8362904787063599,
+            "score": 0.8601773977279663,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -220,7 +217,7 @@
         {
             "title": "Trump invokes Cold War-era act to bolster U.S. gasoline production - upi",
             "sentiment": "POSITIVE",
-            "score": 0.854606032371521,
+            "score": 0.8546056151390076,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -236,9 +233,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "\u2018Administrative savings alone will not be enough\u2019: Mass General Brigham cuts more jobs amid $300M budget shortfall - Becker's Hospital Review",
+            "sentiment": "NEGATIVE",
+            "score": 0.9483392834663391,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.8411834836006165,
+            "score": 0.8411833047866821,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -256,7 +262,7 @@
         {
             "title": "\"A painful winter\" ahead for home heating oil customers as prices spike - WRGB",
             "sentiment": "NEGATIVE",
-            "score": 0.9491258859634399,
+            "score": 0.9491260051727295,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -265,16 +271,25 @@
         {
             "title": "Exclusive / SpaceX $40 billion debt deal gets pricey as AI fears spread - Semafor",
             "sentiment": "NEGATIVE",
-            "score": 0.7946997880935669,
+            "score": 0.7947006821632385,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "NYC MTA Eagle teams ordered to stand down after allegations of excessive force - ABC7 New York",
+            "title": "SpaceX Has a CoreWeave Problem That No One Is Talking About - Inc.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9532826542854309,
+            "score": 0.9362431764602661,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Looking for a job? These companies are hiring ahead of holidays - Good Morning America",
+            "sentiment": "NEGATIVE",
+            "score": 0.7848518490791321,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -292,7 +307,7 @@
         {
             "title": "AI Is Changing Everything About Hacking. No One Knows What Happens Next - 404 Media",
             "sentiment": "NEGATIVE",
-            "score": 0.8141219019889832,
+            "score": 0.8141222596168518,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
