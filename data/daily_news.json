@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-10-25 09:32:43 UTC",
+    "last_updated": "2026-10-25 12:40:49 UTC",
     "total_articles": 27,
     "bullish_articles": 8,
     "bearish_articles": 19,
     "articles": [
         {
-            "title": "October 23, 2026 - Letters from an American | Heather Cox Richardson",
+            "title": "Washington's message to AI execs: Please shut up - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.7186995148658752,
+            "score": 0.9298399686813354,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Still sending checks in the mail? It's time to stop - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.8245077729225159,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,6 +32,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Medicare Advantage cuts leave millions scrambling to find coverage - PBS",
+            "sentiment": "NEGATIVE",
+            "score": 0.9359609484672546,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Texas sues OpenAI, Sam Altman over product safety - Politico",
             "sentiment": "NEGATIVE",
             "score": 0.9368088245391846,
@@ -32,19 +50,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Humana, UnitedHealthcare ending Medicare Advantage plans for 1 million seniors, insurers say - CBS News",
+            "title": "Another AI power stock plunges 11% despite earnings beat - TheStreet",
             "sentiment": "NEGATIVE",
-            "score": 0.9642909169197083,
+            "score": 0.9557806849479675,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "ICE wants robot dogs. Boston Dynamics' workers urge company to 'cancel the sale' - WBUR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9101276397705078,
-            "signal": "BEARISH",
+            "title": "Personalized mRNA vaccine for melanoma cut risk of cancer\u2019s return in late-stage trial - NBC News",
+            "sentiment": "POSITIVE",
+            "score": 0.947026252746582,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -59,13 +77,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8869731426239014,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Airbnb Hosts Are Having a Meltdown After New Rules Means They Can't Force Guests to Clean Up Everything For Them - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.9602673053741455,
+            "signal": "BEARISH",
+            "tickers": [
+                "ABNB"
+            ],
+            "primary_ticker": "ABNB",
+            "ticker_impacts": [
+                {
+                    "ticker": "ABNB",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach - TechCrunch",
@@ -94,6 +120,23 @@
             ]
         },
         {
+            "title": "Nvidia ticks up even as Seaport reiterates Sell rating and says competition is 'mounting' (NVDA:NASDAQ) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.9098709225654602,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Etsy to restrict AI-generated content in effort to combat seller slop - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.9186069965362549,
@@ -117,18 +160,18 @@
             "score": 0.759570300579071,
             "signal": "BULLISH",
             "tickers": [
-                "AAPL",
-                "NVDA"
+                "NVDA",
+                "AAPL"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "AAPL",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "AAPL",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -138,15 +181,6 @@
             "title": "American Express profit jumps as customers stick with the $895 Platinum Card - ABC News - Breaking News, Latest News and Videos",
             "sentiment": "POSITIVE",
             "score": 0.930332601070404,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bloom Energy Q3 Earnings: 3 Key Takeaways for Long-Term Investors - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.9566755890846252,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -189,18 +223,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "France is flashing euro crisis signals. This time, the fault lines are different - CNBC",
+            "title": "How Congress could address Social Security insolvency \u2013 and the hidden cost - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.7293522953987122,
+            "score": 0.8708707690238953,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware - The Hacker News",
+            "title": "France is flashing euro crisis signals. This time, the fault lines are different - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8362908959388733,
+            "score": 0.7293522953987122,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -216,9 +250,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Man struck and killed while crossing Savannah Highway in West Ashley, police confirm - Live 5 News",
+            "title": "\"A painful winter\" ahead for home heating oil customers as prices spike - WRGB",
             "sentiment": "NEGATIVE",
-            "score": 0.8538491725921631,
+            "score": 0.9491260051727295,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -234,23 +268,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta, AI Stocks Tumble As AI Spending Fears Reignite - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9273602962493896,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Consumer Reports calls for Millie Moon to recall its diapers and recommends that parents stop using them - Consumers Union",
             "sentiment": "NEGATIVE",
             "score": 0.9239663481712341,
@@ -263,15 +280,6 @@
             "title": "Looking for a job? These companies are hiring ahead of holidays - Good Morning America",
             "sentiment": "NEGATIVE",
             "score": 0.7848518490791321,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AI Is Changing Everything About Hacking. No One Knows What Happens Next - 404 Media",
-            "sentiment": "NEGATIVE",
-            "score": 0.8141222596168518,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
