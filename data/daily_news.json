@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-10-25 12:40:49 UTC",
-    "total_articles": 27,
+    "last_updated": "2026-10-25 15:31:50 UTC",
+    "total_articles": 29,
     "bullish_articles": 8,
-    "bearish_articles": 19,
+    "bearish_articles": 21,
     "articles": [
         {
             "title": "Washington's message to AI execs: Please shut up - Axios",
@@ -16,7 +16,25 @@
         {
             "title": "Still sending checks in the mail? It's time to stop - USA Today",
             "sentiment": "NEGATIVE",
-            "score": 0.8245077729225159,
+            "score": 0.8245081901550293,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "President Donald Trump Just Threw Fed Chair Kevin Warsh Under the Bus, and Things Could Get Ugly for Wall Street - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.8910448551177979,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "October 23, 2026 - Letters from an American | Heather Cox Richardson",
+            "sentiment": "NEGATIVE",
+            "score": 0.718699038028717,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -32,9 +50,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Medicare Advantage cuts leave millions scrambling to find coverage - PBS",
+            "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9359609484672546,
+            "score": 0.9367688894271851,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -50,6 +68,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "SpaceX $40 Billion Off-Balance Sheet Debt Snarled by AI Turmoil - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9643531441688538,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Another AI power stock plunges 11% despite earnings beat - TheStreet",
             "sentiment": "NEGATIVE",
             "score": 0.9557806849479675,
@@ -59,9 +94,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "ICE wants robot dogs. Boston Dynamics' workers urge company to 'cancel the sale' - WBUR",
+            "sentiment": "NEGATIVE",
+            "score": 0.9101276397705078,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Personalized mRNA vaccine for melanoma cut risk of cancer\u2019s return in late-stage trial - NBC News",
             "sentiment": "POSITIVE",
-            "score": 0.947026252746582,
+            "score": 0.9470261335372925,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -70,7 +114,16 @@
         {
             "title": "Mitsubishi Power's $490 million Chatham County expansion to create 220 jobs - WJCL",
             "sentiment": "POSITIVE",
-            "score": 0.9168309569358826,
+            "score": 0.9168312549591064,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8869736194610596,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -122,7 +175,7 @@
         {
             "title": "Nvidia ticks up even as Seaport reiterates Sell rating and says competition is 'mounting' (NVDA:NASDAQ) - Seeking Alpha",
             "sentiment": "POSITIVE",
-            "score": 0.9098709225654602,
+            "score": 0.9098710417747498,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -139,7 +192,7 @@
         {
             "title": "Etsy to restrict AI-generated content in effort to combat seller slop - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9186069965362549,
+            "score": 0.9186071753501892,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -148,7 +201,7 @@
         {
             "title": "Gold drops below $4,000 as \u2018haven\u2019 asset joins market sell-off - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.944017231464386,
+            "score": 0.9440173506736755,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -157,21 +210,21 @@
         {
             "title": "King Apple is taking Wall Street\u2019s top spot back from Nvidia \u2014 for the fifth time - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.759570300579071,
+            "score": 0.7595714926719666,
             "signal": "BULLISH",
             "tickers": [
-                "NVDA",
-                "AAPL"
+                "AAPL",
+                "NVDA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "AAPL",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "AAPL",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AAPL",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 }
@@ -180,7 +233,7 @@
         {
             "title": "American Express profit jumps as customers stick with the $895 Platinum Card - ABC News - Breaking News, Latest News and Videos",
             "sentiment": "POSITIVE",
-            "score": 0.930332601070404,
+            "score": 0.9303327202796936,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -189,7 +242,7 @@
         {
             "title": "SK Hynix Stock Jumps After Scrapping U.S. IPO of Memory-Chip Unit - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.7541024684906006,
+            "score": 0.7541057467460632,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -198,7 +251,7 @@
         {
             "title": "US Business Activity Expands, Prices Surge by Most Since 2022 - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9433854818344116,
+            "score": 0.9433855414390564,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -232,36 +285,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "France is flashing euro crisis signals. This time, the fault lines are different - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.7293522953987122,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump invokes Cold War-era act to bolster U.S. gasoline production - upi",
-            "sentiment": "POSITIVE",
-            "score": 0.8546056151390076,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "\"A painful winter\" ahead for home heating oil customers as prices spike - WRGB",
-            "sentiment": "NEGATIVE",
-            "score": 0.9491260051727295,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "SpaceX Has a CoreWeave Problem That No One Is Talking About - Inc.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9362431764602661,
+            "score": 0.9362429976463318,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -270,7 +296,7 @@
         {
             "title": "Consumer Reports calls for Millie Moon to recall its diapers and recommends that parents stop using them - Consumers Union",
             "sentiment": "NEGATIVE",
-            "score": 0.9239663481712341,
+            "score": 0.9239664077758789,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -279,7 +305,7 @@
         {
             "title": "Looking for a job? These companies are hiring ahead of holidays - Good Morning America",
             "sentiment": "NEGATIVE",
-            "score": 0.7848518490791321,
+            "score": 0.7848512530326843,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
