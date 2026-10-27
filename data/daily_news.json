@@ -1,14 +1,40 @@
 {
-    "last_updated": "2026-10-27 06:51:28 UTC",
-    "total_articles": 26,
-    "bullish_articles": 9,
+    "last_updated": "2026-10-27 09:38:14 UTC",
+    "total_articles": 29,
+    "bullish_articles": 12,
     "bearish_articles": 17,
     "articles": [
+        {
+            "title": "Emerging Debt Outruns Treasuries as Rich-World Fiscal Fears Grow - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8223379850387573,
+            "signal": "BULLISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
         {
             "title": "Brazil Stocks Dive As President Lula Wins Re-Election - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.9600659608840942,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Roche Targets Emerging Oncology Market With New Lung-Cancer Drug - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9463752508163452,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -107,37 +133,20 @@
             "score": 0.7426324486732483,
             "signal": "BULLISH",
             "tickers": [
-                "META",
-                "GOOGL"
+                "GOOGL",
+                "META"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "META",
                     "impact": "positive",
                     "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Netflix Users Are Watching Less, Not Opening the App as Often - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9637817740440369,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
                 }
             ]
         },
@@ -163,6 +172,15 @@
             "sentiment": "POSITIVE",
             "score": 0.7443135976791382,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9514718651771545,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -304,6 +322,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8439282774925232,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "What\u2019s Priced into Brent at $117? - Robin J Brooks | Substack",
