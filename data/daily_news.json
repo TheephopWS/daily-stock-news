@@ -1,57 +1,135 @@
 {
-    "last_updated": "2026-10-27 18:30:20 UTC",
-    "total_articles": 25,
-    "bullish_articles": 8,
-    "bearish_articles": 17,
+    "last_updated": "2026-10-27 21:26:48 UTC",
+    "total_articles": 26,
+    "bullish_articles": 10,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "Stock market today: Dow, S&P 500, Nasdaq rally as investors parse Anthropic IPO filing, busy week of tech earnings - Yahoo Finance",
+            "title": "Brazilian Markets Crash After Lula\u2019s Surprise Election Win Stuns Investors - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.767310380935669,
+            "score": 0.8980048298835754,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Microsoft offers voluntary buyouts to 60,000 employees - CNBC",
+            "title": "JetBlue\u2019s Outlook Worsens as Operating Loss Margin Drops - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8590120077133179,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018Crash ur row only\u2019: United flight turned around after passenger allegedly said he\u2019d \u2018hijack\u2019 plane - The Seattle Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.8771294355392456,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Intel to acquire Israeli quantum startup Classiq for $2.3 billion - CTech",
             "sentiment": "POSITIVE",
-            "score": 0.7347397208213806,
+            "score": 0.9129212498664856,
             "signal": "BULLISH",
             "tickers": [
-                "MSFT"
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Dollar General is sued by the FTC and 20 states for what's being described as deceptive pricing - ABC News - Breaking News, Latest News and Videos",
+            "sentiment": "NEGATIVE",
+            "score": 0.925727128982544,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.8126206994056702,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw - The Hacker News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7989163398742676,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8330499529838562,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT",
+                "INTC"
             ],
             "primary_ticker": "MSFT",
             "ticker_impacts": [
                 {
                     "ticker": "MSFT",
-                    "impact": "positive",
+                    "impact": "negative",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Tesla Stock, Upgraded On SpaceX Prospects, Takes A Run At Resistance - Investor's Business Daily",
+            "title": "SpaceX locks in $40B GPU financing deal with Apollo - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.7683504223823547,
+            "score": 0.9114856123924255,
             "signal": "BULLISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Halloween candy prices are scary this year. Here's how bad - Chron",
+            "sentiment": "POSITIVE",
+            "score": 0.9363702535629272,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Verizon Stock: Verizon Earnings Top Estimates, Revenue Light. Wireless Subscriber Adds Beat. - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9640994668006897,
+            "score": 0.9640995264053345,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stagwell Acquires Publisher Monetization Network Freestar - AdExchanger",
+            "sentiment": "POSITIVE",
+            "score": 0.8366570472717285,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -66,9 +144,27 @@
             "ticker_impacts": []
         },
         {
+            "title": "CoreWeave, AI landlord stocks sink to lowest levels in more than a year as the price of insuring CoreWeave's debt doubles - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9668147563934326,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Micron Just Delivered a Monster Quarter, but the Stock Is Plummeting. The Reason Is Obvious. - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.7166323065757751,
+            "score": 0.7166323661804199,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Johns Hopkins alerts 3,182 patients after worker uploads data to unapproved AI tool - Becker's Hospital Review",
+            "sentiment": "NEGATIVE",
+            "score": 0.7827070355415344,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -84,18 +180,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "The 10 biggest stocks are faltering, and it's dragging the S&P 500 down - Yahoo Finance",
+            "title": "Morning Joe panel howls at GOP's 'desperate' Cheesecake Factory meltdown - AlterNet",
             "sentiment": "NEGATIVE",
-            "score": 0.9709380865097046,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "\u2018Disturbing and pathetic\u2019: German politicians slam Audi CEO\u2019s appearance at Trump rally - POLITICO.eu",
-            "sentiment": "NEGATIVE",
-            "score": 0.8495369553565979,
+            "score": 0.9047701358795166,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -104,7 +191,7 @@
         {
             "title": "It took just 12 hours for an AI start-up founded by ex-DOGE staffers to break into Anthropic - The Washington Post",
             "sentiment": "POSITIVE",
-            "score": 0.7401224970817566,
+            "score": 0.7401225566864014,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -113,51 +200,7 @@
         {
             "title": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.92383873462677,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why Is MercadoLibre Stock Sinking Monday? - Benzinga",
-            "sentiment": "NEGATIVE",
-            "score": 0.9693068265914917,
-            "signal": "BEARISH",
-            "tickers": [
-                "MELI"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "MELI",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "CoreWeave Rout Sends Warning Sign to Rest of the Stock Market - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.965005099773407,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "A game-changing new treatment just arrived for one of the deadliest cancers \u2014 here\u2019s why doctors are so excited - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9422813653945923,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump failed to stop inflation. Now Republicans may pay the price in the midterm elections - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.8135084509849548,
+            "score": 0.9238386154174805,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -166,15 +209,20 @@
         {
             "title": "Google, Microsoft, Amazon, and the Fed step up to a skittish market: What to watch this week - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8072784543037415,
+            "score": 0.8072782158851624,
             "signal": "BEARISH",
             "tickers": [
+                "GOOGL",
                 "MSFT",
-                "AMZN",
-                "GOOGL"
+                "AMZN"
             ],
-            "primary_ticker": "MSFT",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
                 {
                     "ticker": "MSFT",
                     "impact": "negative",
@@ -184,30 +232,17 @@
                     "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Netflix Just Posted a Record Margin. So Why Is Wall Street Panicking? - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.9625149965286255,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "title": "SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9178233742713928,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Roche Targets Emerging Oncology Market With New Lung-Cancer Drug - WSJ",
@@ -219,9 +254,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "United flight returned to Las Vegas after 'potential security concern' - USA Today",
+            "title": "Affordability Is Splintering the Voter Coalition Trump Built With Midterms at Stake - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9606771469116211,
+            "score": 0.9653330445289612,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -230,16 +265,7 @@
         {
             "title": "Trump\u2019s tariff pause angers some US ranchers, boosts Brazilian beef imports - Al Jazeera",
             "sentiment": "NEGATIVE",
-            "score": 0.8600507378578186,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Is the AI Storage Boom Over? Why SanDisk\u2019s Oct. 29 Earnings Could Prove the Doubters Wrong - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.9484692215919495,
+            "score": 0.8600512742996216,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -248,58 +274,23 @@
         {
             "title": "Does enough capital exist to finance everyone\u2019s ambitious AI spending plans? - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.7426324486732483,
+            "score": 0.7426332831382751,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL",
-                "META"
+                "META",
+                "GOOGL"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
                 {
                     "ticker": "META",
                     "impact": "positive",
                     "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Thousands booked tropical Bahamas cruise and ended up in freezing Canada instead - AOL.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9552333354949951,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "France's latest debt warning describes a country where governance is breaking down - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9603968262672424,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "From zeitgeist to zeitghost: How Netflix kept a hold on viewers\u2014but lost its spot in pop culture - Fast Company",
-            "sentiment": "NEGATIVE",
-            "score": 0.8582885265350342,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
+                },
                 {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         }
