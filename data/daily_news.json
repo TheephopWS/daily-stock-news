@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-10-27 01:06:23 UTC",
-    "total_articles": 18,
-    "bullish_articles": 6,
-    "bearish_articles": 12,
+    "last_updated": "2026-10-27 03:40:33 UTC",
+    "total_articles": 24,
+    "bullish_articles": 7,
+    "bearish_articles": 17,
     "articles": [
         {
             "title": "US Stock Futures Climb as Crude Oil Price Dips: Markets Wrap - Bloomberg.com",
@@ -22,19 +22,36 @@
             ]
         },
         {
-            "title": "Ahead of Kinus, 18 New Communities Join the Fastest-Growing Shlichus - COLlive",
-            "sentiment": "POSITIVE",
-            "score": 0.8445651531219482,
-            "signal": "BULLISH",
+            "title": "Inside the Firings and Leadership Changes at Netflix - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8879063725471497,
+            "signal": "BEARISH",
             "tickers": [
-                "CYP"
+                "NFLX"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "NFLX",
             "ticker_impacts": [
                 {
-                    "ticker": "CYP",
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "New Boeing MAX 10 with special safety upgrade approved to fly travelers - TheStreet",
+            "sentiment": "POSITIVE",
+            "score": 0.833078145980835,
+            "signal": "BULLISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
                     "impact": "positive",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
@@ -57,18 +74,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "GM expands \u2018eyes-off\u2019 autonomous driving plans to pickups and SUVs - Fox Business",
+            "title": "770 Expansion Zal Being Completed in Record Speed - Anash.org",
             "sentiment": "POSITIVE",
-            "score": 0.7987670302391052,
+            "score": 0.8705188632011414,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "New Beis Medrash Behind 770 Set to Open Before Kinus Hashluchim - COLlive",
+            "title": "GM expands \u2018eyes-off\u2019 autonomous driving plans to pickups and SUVs - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.8917827606201172,
+            "score": 0.7987670302391052,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -150,21 +167,40 @@
             ]
         },
         {
-            "title": "Emerging Debt Outruns Treasuries as Rich-World Fiscal Fears Grow - Bloomberg.com",
+            "title": "Chinese Auto Giant Chery Wants To Crack The U.S. Market. It Thinks Detroit Could Help - InsideEVs",
             "sentiment": "POSITIVE",
-            "score": 0.8223376274108887,
+            "score": 0.7443122863769531,
             "signal": "BULLISH",
-            "tickers": [
-                "JPM"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
+        },
+        {
+            "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9514719843864441,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9578700065612793,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Students fear AI is about to ruin their future - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9280458092689514,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Americans say the economy is bad but keep spending. Don\u2019t mistake the midterm polls for a forecast - Fortune",
@@ -211,6 +247,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "France's latest debt warning describes a country where governance is breaking down - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9603968262672424,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9757206439971924,
@@ -224,6 +269,23 @@
                     "ticker": "AAPL",
                     "impact": "negative",
                     "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8439286947250366,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
                 }
             ]
         },
