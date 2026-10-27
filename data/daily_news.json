@@ -1,14 +1,84 @@
 {
-    "last_updated": "2026-10-26 21:34:24 UTC",
-    "total_articles": 15,
+    "last_updated": "2026-10-27 01:06:23 UTC",
+    "total_articles": 18,
     "bullish_articles": 6,
-    "bearish_articles": 9,
+    "bearish_articles": 12,
     "articles": [
+        {
+            "title": "US Stock Futures Climb as Crude Oil Price Dips: Markets Wrap - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9589411616325378,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Ahead of Kinus, 18 New Communities Join the Fastest-Growing Shlichus - COLlive",
+            "sentiment": "POSITIVE",
+            "score": 0.8445651531219482,
+            "signal": "BULLISH",
+            "tickers": [
+                "CYP"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "CYP",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.7222215533256531,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Weil\u2019s incoming leader to walk away from top job as law firm faces talent crisis - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9015125632286072,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "GM expands \u2018eyes-off\u2019 autonomous driving plans to pickups and SUVs - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.7987670302391052,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "New Beis Medrash Behind 770 Set to Open Before Kinus Hashluchim - COLlive",
             "sentiment": "POSITIVE",
-            "score": 0.8917828798294067,
+            "score": 0.8917827606201172,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Driver abandoned vehicle inside Muni tunnel in \u2018hit and run,\u2019 S.F. police say - Mission Local",
+            "sentiment": "NEGATIVE",
+            "score": 0.9154910445213318,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -16,11 +86,34 @@
         {
             "title": "Trump\u2019s tariff pause angers some US ranchers, boosts Brazilian beef imports - Al Jazeera",
             "sentiment": "NEGATIVE",
-            "score": 0.8600507378578186,
+            "score": 0.8600512742996216,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Does enough capital exist to finance everyone\u2019s ambitious AI spending plans? - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.7426332831382751,
+            "signal": "BULLISH",
+            "tickers": [
+                "META",
+                "GOOGL"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Netflix Users Are Watching Less, Not Opening the App as Often - Bloomberg.com",
@@ -40,18 +133,26 @@
             ]
         },
         {
-            "title": "AI Spending Fears Threaten to Swamp Big Tech\u2019s Strong Earnings - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8013299703598022,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Netflix Is Down 51% From Its High. History Suggests This Is What Happens Next. - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.9335247874259949,
+            "signal": "BEARISH",
+            "tickers": [
+                "NFLX"
+            ],
+            "primary_ticker": "NFLX",
+            "ticker_impacts": [
+                {
+                    "ticker": "NFLX",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Emerging Debt Outruns Treasuries as Rich-World Fiscal Fears Grow - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.8223379850387573,
+            "score": 0.8223376274108887,
             "signal": "BULLISH",
             "tickers": [
                 "JPM"
@@ -77,7 +178,7 @@
         {
             "title": "How Pepsi fell behind in the cola wars\u2014and then lost KFC - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.8675662875175476,
+            "score": 0.8675657510757446,
             "signal": "BEARISH",
             "tickers": [
                 "PEP"
@@ -90,15 +191,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Car drives into Muni tunnel, shutting down Market St. subway for night - Mission Local",
-            "sentiment": "NEGATIVE",
-            "score": 0.939954400062561,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Sinking Profits Turn China\u2019s $3.5 Trillion Stock Rout Into Trap - Bloomberg.com",
@@ -119,53 +211,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "Halloween candy sales are down. Here's what's driving it - USA Today",
+            "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9205145835876465,
+            "score": 0.9757206439971924,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "France's latest debt warning describes a country where governance is breaking down - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9603968262672424,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "ESMO: Amgen\u2019s Imdelltra drives massive survival benefit in \u2018watershed moment\u2019 for small cell lung cancer - Fierce Pharma",
-            "sentiment": "POSITIVE",
-            "score": 0.9080772399902344,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8439282774925232,
-            "signal": "BULLISH",
             "tickers": [
-                "NVDA"
+                "AAPL"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
         {
             "title": "What\u2019s Priced into Brent at $117? - Robin J Brooks | Substack",
             "sentiment": "POSITIVE",
-            "score": 0.8123695850372314,
+            "score": 0.8123700618743896,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
