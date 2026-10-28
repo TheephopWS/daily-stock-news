@@ -1,75 +1,40 @@
 {
-    "last_updated": "2026-10-28 06:38:24 UTC",
-    "total_articles": 26,
-    "bullish_articles": 14,
-    "bearish_articles": 12,
+    "last_updated": "2026-10-28 09:29:40 UTC",
+    "total_articles": 20,
+    "bullish_articles": 10,
+    "bearish_articles": 10,
     "articles": [
         {
-            "title": "BlackRock\u2019s Rieder Spent All Weekend Doing Deals in AI Debt Rush - Bloomberg.com",
+            "title": "Stock futures are mixed after Wall Street starts the week on a winning note: Live updates - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7142961621284485,
+            "score": 0.8797699213027954,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Stock futures are little changed after Wall Street starts the week on a winning note: Live updates - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9245505332946777,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The \u201cinfluencer who doesn\u2019t exist\u201d: Social media platforms struggle to detect AI profiles - WRAL",
+            "title": "Netflix Stock Falls on Report That Viewers Watch Less. Why Wall Street Is Worried. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.7087786197662354,
+            "score": 0.974824070930481,
             "signal": "BEARISH",
             "tickers": [
-                "META"
+                "NFLX"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "NFLX",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "NFLX",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
         {
-            "title": "'Crash ur row only': United flight turned around after passenger allegedly said he'd 'hijack' plane - SFGATE",
+            "title": "Japanese virtual desktop cloud hacked so hard it asks to be banned - The Register",
             "sentiment": "NEGATIVE",
-            "score": 0.9125433564186096,
+            "score": 0.9559237957000732,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9102094769477844,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "OpenAI announces three big science discoveries and a new way to work with academics - The Verge",
-            "sentiment": "POSITIVE",
-            "score": 0.7254494428634644,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -84,19 +49,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "JetBlue Brings Some Relief to Investors With Third-Quarter Performance - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.8971918821334839,
-            "signal": "BULLISH",
+            "title": "Another Royal Caribbean cruise reroutes from sunny hotspot to chilly Canada -- which is shockingly legal: experts - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8678997755050659,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Another Royal Caribbean cruise reroutes from sunny hotspot to chilly Canada -- which is shockingly legal: experts - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8678997755050659,
-            "signal": "BEARISH",
+            "title": "Wall Street rises as AI stocks keep swinging - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.8456124067306519,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -117,6 +82,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Brazil\u2019s Richest Bankers Lose $9 Billion After Lula Victory - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9712770581245422,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Broadcom Arranges $63 Billion Deal to Finance Anthropic\u2019s Chips - Bloomberg.com",
@@ -174,15 +148,6 @@
             ]
         },
         {
-            "title": "OpenAI upgrades ChatGPT and Codex with new GPT-6.1 Terra model - 9to5Mac",
-            "sentiment": "POSITIVE",
-            "score": 0.718815803527832,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees - Ars Technica",
             "sentiment": "NEGATIVE",
             "score": 0.8126204013824463,
@@ -190,29 +155,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8330497741699219,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT",
-                "INTC"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Halloween candy prices are scary this year. Here's how bad - Chron",
@@ -233,23 +175,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta Will Offer Up to $95 Billion in Stock. What That Means for Its Big AI Push. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.8358374238014221,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Micron Stock Finds Its Footing as It Pushes Back on Chinese Memory Threat - Barron's",
             "sentiment": "POSITIVE",
             "score": 0.9510077238082886,
@@ -259,18 +184,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "JetBlue creditors hire advisors as financial concerns grow: report - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9659720063209534,
-            "signal": "BEARISH",
+            "title": "Two Top U.S. Natural Gas Producers To Combine In $13 Billion Deal - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.7048127055168152,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "CoreWeave, AI landlord stocks sink to lowest levels in more than a year as the price of insuring CoreWeave's debt doubles - Yahoo Finance",
+            "title": "CoreWeave Rout Sends Warning Sign to Rest of the Stock Market - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9668147563934326,
+            "score": 0.9700565934181213,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -302,29 +227,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Does enough capital exist to finance everyone\u2019s ambitious AI spending plans? - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.7426324486732483,
-            "signal": "BULLISH",
-            "tickers": [
-                "GOOGL",
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         }
     ]
 }
