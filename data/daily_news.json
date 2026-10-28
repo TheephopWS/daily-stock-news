@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-10-28 03:30:51 UTC",
-    "total_articles": 27,
-    "bullish_articles": 16,
-    "bearish_articles": 11,
+    "last_updated": "2026-10-28 06:38:24 UTC",
+    "total_articles": 26,
+    "bullish_articles": 14,
+    "bearish_articles": 12,
     "articles": [
         {
             "title": "BlackRock\u2019s Rieder Spent All Weekend Doing Deals in AI Debt Rush - Bloomberg.com",
@@ -40,13 +40,30 @@
             ]
         },
         {
-            "title": "Las Vegas police say man accused of making terroristic threats on plane - Las Vegas Review-Journal",
+            "title": "'Crash ur row only': United flight turned around after passenger allegedly said he'd 'hijack' plane - SFGATE",
             "sentiment": "NEGATIVE",
-            "score": 0.9267536401748657,
+            "score": 0.9125433564186096,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9102094769477844,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "OpenAI announces three big science discoveries and a new way to work with academics - The Verge",
@@ -69,7 +86,7 @@
         {
             "title": "JetBlue Brings Some Relief to Investors With Third-Quarter Performance - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9341490268707275,
+            "score": 0.8971918821334839,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -128,13 +145,33 @@
             "ticker_impacts": []
         },
         {
-            "title": "Dollar General is sued by the FTC and 20 states for what's being described as deceptive pricing - ABC News - Breaking News, Latest News and Videos",
+            "title": "Elon Musk Just Delivered a Sweeping Blow to Nvidia Investors - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.925727128982544,
+            "score": 0.8167012333869934,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA",
+                "INTC",
+                "AI"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AI",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "OpenAI upgrades ChatGPT and Codex with new GPT-6.1 Terra model - 9to5Mac",
@@ -150,15 +187,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.8126204013824463,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic expands AI support for nonprofits as it files to sell shares to the public - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.7689893245697021,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -187,15 +215,6 @@
             ]
         },
         {
-            "title": "SpaceX locks in $40B GPU financing deal with Apollo - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.9114857316017151,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Halloween candy prices are scary this year. Here's how bad - Chron",
             "sentiment": "POSITIVE",
             "score": 0.9363703727722168,
@@ -205,9 +224,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Verizon Stock: Verizon Earnings Top Estimates, Revenue Light. Wireless Subscriber Adds Beat. - Investor's Business Daily",
+            "title": "Trump promised to stop inflation. Now Republicans may pay the price in the midterm elections - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.9640994668006897,
+            "score": 0.9294185042381287,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -234,15 +253,6 @@
             "title": "Micron Stock Finds Its Footing as It Pushes Back on Chinese Memory Threat - Barron's",
             "sentiment": "POSITIVE",
             "score": 0.9510077238082886,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stagwell Acquires Publisher Monetization Network Freestar - AdExchanger",
-            "sentiment": "POSITIVE",
-            "score": 0.8366572856903076,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -276,6 +286,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Morgan Stanley Sees Further China Stock Downside Before Bottom - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9728979468345642,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Roche Targets Emerging Oncology Market With New Lung-Cancer Drug - WSJ",
             "sentiment": "POSITIVE",
             "score": 0.9463752508163452,
@@ -290,18 +309,18 @@
             "score": 0.7426324486732483,
             "signal": "BULLISH",
             "tickers": [
-                "META",
-                "GOOGL"
+                "GOOGL",
+                "META"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "META",
                     "impact": "positive",
                     "relevance": "medium"
                 }
