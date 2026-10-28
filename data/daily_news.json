@@ -1,14 +1,40 @@
 {
-    "last_updated": "2026-10-28 09:29:40 UTC",
-    "total_articles": 20,
-    "bullish_articles": 10,
-    "bearish_articles": 10,
+    "last_updated": "2026-10-28 12:35:30 UTC",
+    "total_articles": 27,
+    "bullish_articles": 11,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "Stock futures are mixed after Wall Street starts the week on a winning note: Live updates - CNBC",
+            "title": "SoFi Reports Third Quarter 2026 with Record Net Revenue of $1.4 Billion, Net Income of $241 Million and Raises Full-Year Guidance - SoFi Investor Relations",
             "sentiment": "POSITIVE",
-            "score": 0.8797699213027954,
+            "score": 0.9542481899261475,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9378222227096558,
+            "signal": "BEARISH",
+            "tickers": [
+                "BA"
+            ],
+            "primary_ticker": "BA",
+            "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Big Tech just went from crushing the average stock to losing to it: Chart of the Day - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.8476948738098145,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -31,6 +57,24 @@
             ]
         },
         {
+            "title": "Oil Prices Fall as Traders Assess Iran Diplomacy, Saudi Attacks - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.7829644680023193,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "DoorDash in advanced talks to acquire Instacart in potential $17B deal: report - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.8394779562950134,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Japanese virtual desktop cloud hacked so hard it asks to be banned - The Register",
             "sentiment": "NEGATIVE",
             "score": 0.9559237957000732,
@@ -40,27 +84,26 @@
             "ticker_impacts": []
         },
         {
+            "title": "US Stock Futures Gain, Oil Falls on Iran Comments: Markets Wrap - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9344730973243713,
+            "signal": "BULLISH",
+            "tickers": [
+                "KO"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "KO",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Trump's promise of 300,000 tons of tariff-reduced beef imports to reduce grocery costs falls short - Fortune",
             "sentiment": "POSITIVE",
-            "score": 0.7023406624794006,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Another Royal Caribbean cruise reroutes from sunny hotspot to chilly Canada -- which is shockingly legal: experts - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8678997755050659,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Wall Street rises as AI stocks keep swinging - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.8456124067306519,
+            "score": 0.7023388743400574,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -69,7 +112,7 @@
         {
             "title": "Airbnb hosts throw tantrums over strict rule changes as site loses its shine - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9146649241447449,
+            "score": 0.9146650433540344,
             "signal": "BEARISH",
             "tickers": [
                 "ABNB"
@@ -84,6 +127,15 @@
             ]
         },
         {
+            "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9487066268920898,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Brazil\u2019s Richest Bankers Lose $9 Billion After Lula Victory - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9712770581245422,
@@ -95,7 +147,7 @@
         {
             "title": "Broadcom Arranges $63 Billion Deal to Finance Anthropic\u2019s Chips - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.749617338180542,
+            "score": 0.7496166825294495,
             "signal": "BULLISH",
             "tickers": [
                 "BAC"
@@ -110,18 +162,50 @@
             ]
         },
         {
-            "title": "Moderna\u2019s Cancer Vaccine Rally Hits a Wall. This Other Drugmaker Stole the Show. - Barron's",
+            "title": "3 things to look out for on Tuesday - Seeking Alpha",
             "sentiment": "POSITIVE",
-            "score": 0.9294456839561462,
+            "score": 0.9343361258506775,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Dollar General is sued by the FTC and 20 states for what's being described as deceptive pricing - ABC News - Breaking News, Latest News and Videos",
+            "sentiment": "NEGATIVE",
+            "score": 0.925727128982544,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8330499529838562,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT",
+                "INTC"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Elon Musk Just Delivered a Sweeping Blow to Nvidia Investors - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.8167012333869934,
+            "score": 0.816701352596283,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA",
@@ -150,17 +234,8 @@
         {
             "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.8126204013824463,
+            "score": 0.8126206994056702,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Halloween candy prices are scary this year. Here's how bad - Chron",
-            "sentiment": "POSITIVE",
-            "score": 0.9363703727722168,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -168,16 +243,33 @@
         {
             "title": "Trump promised to stop inflation. Now Republicans may pay the price in the midterm elections - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.9294185042381287,
+            "score": 0.9294183850288391,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Micron Stock Finds Its Footing as It Pushes Back on Chinese Memory Threat - Barron's",
+            "title": "Meta Will Offer Up to $95 Billion in Stock. What That Means for Its Big AI Push. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.835837721824646,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Stagwell Acquires Publisher Monetization Network Freestar - AdExchanger",
             "sentiment": "POSITIVE",
-            "score": 0.9510077238082886,
+            "score": 0.8366570472717285,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -186,16 +278,16 @@
         {
             "title": "Two Top U.S. Natural Gas Producers To Combine In $13 Billion Deal - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.7048127055168152,
+            "score": 0.7048126459121704,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "CoreWeave Rout Sends Warning Sign to Rest of the Stock Market - Bloomberg.com",
+            "title": "Micron Just Delivered a Monster Quarter, but the Stock Is Plummeting. The Reason Is Obvious. - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.9700565934181213,
+            "score": 0.7166323661804199,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -204,11 +296,40 @@
         {
             "title": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.92383873462677,
+            "score": 0.9238386154174805,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Google, Microsoft, Amazon, and the Fed step up to a skittish market: What to watch this week - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.8072782158851624,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL",
+                "AMZN",
+                "MSFT"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Morgan Stanley Sees Further China Stock Downside Before Bottom - Bloomberg.com",
