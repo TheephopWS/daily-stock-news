@@ -1,65 +1,154 @@
 {
-    "last_updated": "2026-10-28 12:35:30 UTC",
-    "total_articles": 27,
+    "last_updated": "2026-10-28 15:29:06 UTC",
+    "total_articles": 24,
     "bullish_articles": 11,
-    "bearish_articles": 16,
+    "bearish_articles": 13,
     "articles": [
         {
-            "title": "SoFi Reports Third Quarter 2026 with Record Net Revenue of $1.4 Billion, Net Income of $241 Million and Raises Full-Year Guidance - SoFi Investor Relations",
+            "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9170684814453125,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "A 'never-ending' cruise has halted operations and told residents to disembark in Cambodia after fuel costs rose over 300% - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9677500128746033,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "UPS Earnings Deliver Good News for the U.S. Economy - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9542481899261475,
+            "score": 0.9335787892341614,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9378222227096558,
-            "signal": "BEARISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "title": "US consumer confidence recovers in October as gas prices eased a bit - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.9424481987953186,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "Big Tech just went from crushing the average stock to losing to it: Chart of the Day - Yahoo Finance",
+            "title": "United \u2018hijack\u2019 text scare forces plane to turn back - NewsNation",
             "sentiment": "NEGATIVE",
-            "score": 0.8476948738098145,
+            "score": 0.7646303176879883,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Netflix Stock Falls on Report That Viewers Watch Less. Why Wall Street Is Worried. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.974824070930481,
-            "signal": "BEARISH",
+            "title": "Anthropic IPO Filing Calms Nerves With Signs of Healthy Growth - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8017359972000122,
+            "signal": "BULLISH",
             "tickers": [
-                "NFLX"
+                "INTC"
             ],
-            "primary_ticker": "NFLX",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "NFLX",
-                    "impact": "negative",
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Donald Trump Hammered Joe Biden Over Gas Prices. Now His Average Is Higher. - HuffPost",
+            "sentiment": "NEGATIVE",
+            "score": 0.7979390621185303,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Coca-Cola Raises Outlook as Increased Volumes, Prices Boost Results - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.932567834854126,
+            "signal": "BULLISH",
+            "tickers": [
+                "KO"
+            ],
+            "primary_ticker": "KO",
+            "ticker_impacts": [
+                {
+                    "ticker": "KO",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
+            "title": "Trump promised to revive American manufacturing, but is it working? What the data shows - WCVB",
+            "sentiment": "NEGATIVE",
+            "score": 0.9643979072570801,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "intelligence bets on quantum with deal for Israeli software startup Classiq - The Jerusalem Post",
+            "sentiment": "POSITIVE",
+            "score": 0.885811448097229,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "TikTok parent ByteDance's founder Zhang Yiming reclaims spot as China's richest person, thanks to firm's AI push - CBS News",
+            "sentiment": "POSITIVE",
+            "score": 0.7868972420692444,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Global cyberscams bilk Americans out of billions. A fragmented US response means few get money back - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9399354457855225,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Oil Prices Fall as Traders Assess Iran Diplomacy, Saudi Attacks - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.7829644680023193,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution - The Hacker News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7604378461837769,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -75,32 +164,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Japanese virtual desktop cloud hacked so hard it asks to be banned - The Register",
-            "sentiment": "NEGATIVE",
-            "score": 0.9559237957000732,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US Stock Futures Gain, Oil Falls on Iran Comments: Markets Wrap - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9344730973243713,
-            "signal": "BULLISH",
-            "tickers": [
-                "KO"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "KO",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Trump's promise of 300,000 tons of tariff-reduced beef imports to reduce grocery costs falls short - Fortune",
             "sentiment": "POSITIVE",
             "score": 0.7023388743400574,
@@ -110,36 +173,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Airbnb hosts throw tantrums over strict rule changes as site loses its shine - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9146650433540344,
-            "signal": "BEARISH",
-            "tickers": [
-                "ABNB"
-            ],
-            "primary_ticker": "ABNB",
-            "ticker_impacts": [
-                {
-                    "ticker": "ABNB",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving - CNBC",
+            "title": "JetBlue Brings Some Relief to Investors With Third-Quarter Performance - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9487066268920898,
+            "score": 0.9341491460800171,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Brazil\u2019s Richest Bankers Lose $9 Billion After Lula Victory - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9712770581245422,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -157,76 +194,6 @@
                 {
                     "ticker": "BAC",
                     "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "3 things to look out for on Tuesday - Seeking Alpha",
-            "sentiment": "POSITIVE",
-            "score": 0.9343361258506775,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Dollar General is sued by the FTC and 20 states for what's being described as deceptive pricing - ABC News - Breaking News, Latest News and Videos",
-            "sentiment": "NEGATIVE",
-            "score": 0.925727128982544,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8330499529838562,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT",
-                "INTC"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Elon Musk Just Delivered a Sweeping Blow to Nvidia Investors - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.816701352596283,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA",
-                "INTC",
-                "AI"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "AI",
-                    "impact": "negative",
                     "relevance": "medium"
                 }
             ]
@@ -250,54 +217,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta Will Offer Up to $95 Billion in Stock. What That Means for Its Big AI Push. - Barron's",
+            "title": "Beef jerky sold in 7 states recalled after bypassing federal inspection - KDVR",
             "sentiment": "NEGATIVE",
-            "score": 0.835837721824646,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Stagwell Acquires Publisher Monetization Network Freestar - AdExchanger",
-            "sentiment": "POSITIVE",
-            "score": 0.8366570472717285,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Two Top U.S. Natural Gas Producers To Combine In $13 Billion Deal - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.7048126459121704,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Micron Just Delivered a Monster Quarter, but the Stock Is Plummeting. The Reason Is Obvious. - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.7166323661804199,
+            "score": 0.8977046012878418,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9238386154174805,
-            "signal": "BULLISH",
+            "title": "Johns Hopkins alerts 3,182 patients after worker uploads data to unapproved AI tool - Becker's Hospital Review",
+            "sentiment": "NEGATIVE",
+            "score": 0.7827070355415344,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -308,17 +240,12 @@
             "score": 0.8072782158851624,
             "signal": "BEARISH",
             "tickers": [
-                "GOOGL",
                 "AMZN",
-                "MSFT"
+                "MSFT",
+                "GOOGL"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "AMZN",
                     "impact": "negative",
@@ -328,17 +255,13 @@
                     "ticker": "MSFT",
                     "impact": "negative",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Morgan Stanley Sees Further China Stock Downside Before Bottom - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9728979468345642,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Roche Targets Emerging Oncology Market With New Lung-Cancer Drug - WSJ",
