@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-10-29 04:26:01 UTC",
-    "total_articles": 22,
+    "last_updated": "2026-10-29 06:39:06 UTC",
+    "total_articles": 26,
     "bullish_articles": 9,
-    "bearish_articles": 13,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "They bought cabins to live on a luxury cruise ship. High fuel costs got them kicked off in Cambodia. - NBC News",
+            "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9662922024726868,
+            "score": 0.950167715549469,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8076547384262085,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -31,9 +40,27 @@
             ]
         },
         {
-            "title": "S&P 500 posts back-to-back winning days as chips rally and oil prices slide: Live updates - CNBC",
+            "title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.8834319114685059,
+            "score": 0.9414898753166199,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9171406030654907,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Visa Posts Record Annual Revenue. The Focus Now Shifts to Reaching New Customers. - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9527872800827026,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -53,6 +80,24 @@
             "sentiment": "NEGATIVE",
             "score": 0.9563668966293335,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Californian\u2019s bill targets negligent pet boarding facilities after dog\u2019s viral death - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7796275019645691,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Cheesecake Factory Logs Higher Revenue After Double-Digit Growth at Namesake Restaurants - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9493977427482605,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -84,24 +129,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Nasdaq Extends Gains After Anthropic Rally \u2014 Live Updates - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.8715012073516846,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Elite consulting firms raise starting salaries for first time since 2022 - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9283246397972107,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "American consumers are paying 8x more in fuel costs than the rest of the world, report finds - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.8797283172607422,
@@ -111,18 +138,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "Corning Earnings Show It\u2019s Deeply Dependent on AI Demand. Why That Could Be Bad. - Barron's",
+            "title": "Scripps begins new round of layoffs impacting technical, news production roles - TheDesk.net",
             "sentiment": "NEGATIVE",
-            "score": 0.9693063497543335,
+            "score": 0.9403083324432373,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Federal Reserve expected to hold interest rates steady in last decision before midterm elections - Fox Business",
+            "title": "PayPal Beats Earnings Estimates. Does It Now Have a Shorter Path to Recovery? - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9441609978675842,
+            "signal": "BULLISH",
+            "tickers": [
+                "PYPL"
+            ],
+            "primary_ticker": "PYPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "PYPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Corning Earnings Show It\u2019s Deeply Dependent on AI Demand. Why That Could Be Bad. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.8018928170204163,
+            "score": 0.9693063497543335,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -200,23 +244,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "intelligence bets on quantum with deal for Israeli software startup Classiq - The Jerusalem Post",
-            "sentiment": "POSITIVE",
-            "score": 0.885811448097229,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Global cyberscams bilk Americans out of billions. A fragmented US response means few get money back - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.9399354457855225,
@@ -229,6 +256,15 @@
             "title": "Oil Prices Fall as Traders Assess Iran Diplomacy, Saudi Attacks - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.9754550457000732,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018Disturbing and pathetic\u2019: German politicians slam Audi CEO\u2019s appearance at Trump rally - POLITICO.eu",
+            "sentiment": "NEGATIVE",
+            "score": 0.8495372533798218,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
