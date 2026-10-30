@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-10-29 21:28:23 UTC",
-    "total_articles": 26,
-    "bullish_articles": 14,
-    "bearish_articles": 12,
+    "last_updated": "2026-10-30 00:51:41 UTC",
+    "total_articles": 30,
+    "bullish_articles": 15,
+    "bearish_articles": 15,
     "articles": [
         {
-            "title": "Google Shares Fall 10% as Growth in Search Revenue Slows - WSJ",
+            "title": "Alphabet Shares Tank on Sales Misses Across Core Businesses - Bloomberg",
             "sentiment": "NEGATIVE",
-            "score": 0.9562934637069702,
+            "score": 0.9735432267189026,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -22,26 +22,68 @@
             ]
         },
         {
-            "title": "Microsoft Stock Jumps on Earnings Beat. Capex Was Lower Than Expected. - Barron's",
+            "title": "SK Hynix Stock Jumps On Q3 Earnings Beat - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.8075432777404785,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Dow, Nasdaq Rise After No Fed Rate Hike; Labcorp Blasts Off - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.909349799156189,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tech Futures Fall On Google, These Huge Losers - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.906575083732605,
+            "score": 0.958386242389679,
             "signal": "BEARISH",
             "tickers": [
+                "GOOGL",
                 "MSFT"
             ],
-            "primary_ticker": "MSFT",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
                 {
                     "ticker": "MSFT",
                     "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Federal Reserve makes interest rate decision ahead of midterms - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.751923143863678,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.9400568604469299,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Chipotle stock pops on sustained sales momentum in Q3 - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.7595089077949524,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -74,6 +116,15 @@
             ]
         },
         {
+            "title": "Exclusive | Nelson Peltz\u2019s Trian Offers to Buy Wendy\u2019s for $1.4 Billion - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9737633466720581,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling - Ars Technica",
             "sentiment": "NEGATIVE",
             "score": 0.9051414132118225,
@@ -83,9 +134,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Chipotle earnings miss estimates, but same-store sales increase for third straight quarter - CNBC",
+            "title": "US Bans Chinese Genomics Companies BGI, MGI, Citing Forced Labor - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.906640887260437,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Retatrutide beats Ozempic on weight loss, blood sugar control, study says - USA Today",
             "sentiment": "POSITIVE",
-            "score": 0.9408701062202454,
+            "score": 0.798619270324707,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -119,15 +179,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why Seagate Stock Is Falling Despite An Earnings Beat And Strong AI-Driven Demand - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9687573909759521,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells - Barron's",
             "sentiment": "POSITIVE",
             "score": 0.9301617741584778,
@@ -155,28 +206,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bye bye Ozempic: Eli Lilly says its new drug retatrutide more than doubles weight loss - Business Insider",
-            "sentiment": "POSITIVE",
-            "score": 0.8498749136924744,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Recalled butter sold in 10 states receives risk warning: FDA - The Hill",
             "sentiment": "NEGATIVE",
             "score": 0.8295004963874817,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SK Hynix Jumps 8% After a 632% Profit Surge and a $45 Billion Shareholder Pledge. Micron and SanDisk Are Riding Along. - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.7809355854988098,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -209,21 +242,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Wall Street\u2019s AI Debt Machine Is Starting to Choke on Supply - Bloomberg.com",
+            "title": "China\u2019s Electric Carmakers Are Running Out of Domestic Buyers | The 10-Point for Oct. 28 - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.8725671172142029,
+            "score": 0.8307098150253296,
             "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Jio shares surge 21% in market debut after blockbuster India IPO - TechCrunch",
@@ -253,9 +278,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Scripps begins new round of layoffs impacting technical, news production roles - TheDesk.net",
+            "title": "Cheerios introduces a Ziploc-sealed cereal bag. Finally. - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9403082132339478,
+            "score": 0.7406634092330933,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9193763732910156,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
