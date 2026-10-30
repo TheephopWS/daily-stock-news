@@ -1,13 +1,31 @@
 {
-    "last_updated": "2026-10-30 00:51:41 UTC",
-    "total_articles": 30,
-    "bullish_articles": 15,
-    "bearish_articles": 15,
+    "last_updated": "2026-10-30 03:31:19 UTC",
+    "total_articles": 28,
+    "bullish_articles": 14,
+    "bearish_articles": 14,
     "articles": [
         {
-            "title": "Alphabet Shares Tank on Sales Misses Across Core Businesses - Bloomberg",
+            "title": "Samsung Chip Profit Misses Estimates Lifted by Resurgent AI Hope - Bloomberg",
             "sentiment": "NEGATIVE",
-            "score": 0.9735432267189026,
+            "score": 0.9725266098976135,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Kalshi, co-founders hit with criminal charges in US state of Utah - Al Jazeera",
+            "sentiment": "NEGATIVE",
+            "score": 0.8819530010223389,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nasdaq-100 futures dip as Alphabet shares sell off after earnings report: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9718503355979919,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -22,9 +40,26 @@
             ]
         },
         {
-            "title": "SK Hynix Stock Jumps On Q3 Earnings Beat - Investor's Business Daily",
+            "title": "Microsoft posts $33.6bn profit after offering buyouts to one in four workers - BBC",
             "sentiment": "POSITIVE",
-            "score": 0.8075432777404785,
+            "score": 0.822127640247345,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Carvana Profit Soars as Vehicle Sales Climb Nearly 40% - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.9306337833404541,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -40,32 +75,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tech Futures Fall On Google, These Huge Losers - Investor's Business Daily",
+            "title": "Wendy\u2019s, struggling with beef prices and growing competition, gets a buyout offer - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.958386242389679,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL",
-                "MSFT"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Federal Reserve makes interest rate decision ahead of midterms - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.751923143863678,
+            "score": 0.9657285809516907,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -90,9 +102,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Earnings live updates: ServiceNow stock plunges on Q3 earnings miss - Yahoo Finance",
+            "title": "Oracle stock soars as it promises the AI spending will start paying for itself - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.7727768421173096,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Genmab Stock Surges to Record High as Cancer Drug Slashes Risk of Death by 50% - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9481013417243958,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "ServiceNow drops after Q3 results despite Control Tower strategy gaining momentum - Seeking Alpha",
             "sentiment": "NEGATIVE",
-            "score": 0.8425410389900208,
+            "score": 0.8471161127090454,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -114,24 +144,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Exclusive | Nelson Peltz\u2019s Trian Offers to Buy Wendy\u2019s for $1.4 Billion - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9737633466720581,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.9051414132118225,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "US Bans Chinese Genomics Companies BGI, MGI, Citing Forced Labor - Bloomberg",
@@ -161,6 +173,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "TSA finds sharp \"mutant blades\" in carry-on bag at Seattle airport: \"Never seen anything like this\" - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7141033411026001,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "GE Vernova Stock Falls; 'New Orders And New Slots Missed By A Mile' - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.9085600972175598,
@@ -170,9 +191,27 @@
             "ticker_impacts": []
         },
         {
+            "title": "FDA recalls butter brand over potential illness caused by E.coli, mold and yeast - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8573343753814697,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "VF Signals Slow Sales as Vans Wholesale Rebound Stalls - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9559887051582336,
+            "score": 0.976280689239502,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Boston Scientific cuts guidance in wake of cyberattack, sees rebuilding years ahead - MassDevice",
+            "sentiment": "NEGATIVE",
+            "score": 0.7491981983184814,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -206,45 +245,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Recalled butter sold in 10 states receives risk warning: FDA - The Hill",
+            "title": "As Epic\u2019s dominance grows, its iron grip is choking innovation in health technology - STAT",
             "sentiment": "NEGATIVE",
-            "score": 0.8295004963874817,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Yemen\u2019s Houthis attack Saudi Arabia\u2019s largest oil refinery - Semafor",
-            "sentiment": "POSITIVE",
-            "score": 0.7164271473884583,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The AI bubble already popped \u2014 in China - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8323254585266113,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Boston Scientific announces results for third quarter 2026 - Boston Scientific",
-            "sentiment": "POSITIVE",
-            "score": 0.91323322057724,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "China\u2019s Electric Carmakers Are Running Out of Domestic Buyers | The 10-Point for Oct. 28 - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8307098150253296,
+            "score": 0.9533699750900269,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -269,37 +272,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Robinhood Misses Q3 Earnings as Crypto Revenue Rises and Prediction Market Bets Grow - Decrypt",
-            "sentiment": "NEGATIVE",
-            "score": 0.9662214517593384,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Cheerios introduces a Ziploc-sealed cereal bag. Finally. - The Washington Post",
             "sentiment": "NEGATIVE",
             "score": 0.7406634092330933,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9193763732910156,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US consumer confidence recovers in October as gas prices eased a bit - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.9424481987953186,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
