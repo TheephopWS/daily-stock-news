@@ -1,13 +1,56 @@
 {
-    "last_updated": "2026-10-30 18:27:49 UTC",
-    "total_articles": 25,
-    "bullish_articles": 13,
-    "bearish_articles": 12,
+    "last_updated": "2026-10-30 21:27:16 UTC",
+    "total_articles": 27,
+    "bullish_articles": 10,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as Alphabet, Caterpillar earnings disappoint, but most stocks rise - MarketWatch",
+            "title": "Intel Earnings: 2 Reasons the Stock Is Down So Much - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9015958309173584,
+            "score": 0.9743028283119202,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9249383211135864,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "What killed Weil Gotshal? - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9624848365783691,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9719076752662659,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -20,6 +63,82 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9507678747177124,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Polymarket Halted International Trading After Hackers Drained Accounts - WIRED",
+            "sentiment": "NEGATIVE",
+            "score": 0.921570360660553,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Starbucks international business disappoints but U.S. stores outperform - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8743413090705872,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as Alphabet, Caterpillar earnings disappoint, but most stocks rise - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9726334810256958,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Trump ignored intel on China\u2019s Nvidia spy to protect company\u2019s stock, report says - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.7036517262458801,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "INTC"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.8839924335479736,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Google admits AI search makes less money, but it\u2019s fixing that with more ads - Ars Technica",
@@ -39,28 +158,28 @@
             ]
         },
         {
-            "title": "Burger King\u2019s Turnaround Attracts Price-Conscious Diners as Sales Rise - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9569624066352844,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Many with ACA coverage face a new crisis in 2027: Insurers fleeing the market - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8813490271568298,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Iovance, A Top 1% Biotech Stock, Crashes In A Surprise Lung Cancer Twist - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.9704018831253052,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9704127907752991,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Caterpillar Sales Jump on Growing AI Demand, But Wall Street Wanted More - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8210002779960632,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -75,30 +194,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "S&P 500 heads for first loss in four days as Alphabet, Caterpillar crack after earnings: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9699090719223022,
-            "signal": "BEARISH",
+            "title": "DoorDash to Buy Rival Instacart in $17 Billion Deal - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9014542698860168,
+            "signal": "BULLISH",
             "tickers": [
-                "GOOGL"
+                "AMZN",
+                "WMT"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "WMT",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Federal Debt Hits 100% of GDP - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9351713061332703,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Mistral Says Its AI Model \u2018Le Chonk\u2019 Has Leapfrogged China in the Open-Weight Race - WIRED",
@@ -119,76 +235,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Airbnb pledges $500M to nonprofit, scaling emergency stays and raising questions over housing relief - AP News",
+            "title": "Exclusive | Trump Administration Promised Tariff Relief in Talks to Secure U.S. Audi Factory - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.7126724123954773,
-            "signal": "BULLISH",
-            "tickers": [
-                "ABNB"
-            ],
-            "primary_ticker": "ABNB",
-            "ticker_impacts": [
-                {
-                    "ticker": "ABNB",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "SpaceX Wins Target Lift On AI, Data Center Growth. But Is It A Buy? - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9395525455474854,
+            "score": 0.9092978239059448,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Microsoft Reports Rising Cloud Sales That Show Payoff From AI - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9439546465873718,
-            "signal": "BULLISH",
-            "tickers": [
-                "MSFT",
-                "INTC"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "ECB Leaves Rates Unchanged as Challenges Mount for Lagarde\u2019s Successor - WSJ",
+            "title": "VW Group Says The Quiet Part Out Loud: EVs Are Still Less Profitable Than Gas Cars - Motor1.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9613211750984192,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Popular airline hits customers with steep fee hike for first time in 8 years - Fox News",
-            "sentiment": "POSITIVE",
-            "score": 0.7673960328102112,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "An AI Breakthrough Has Made Decades of Computer Science Research \u2018Irrelevant\u2019 - WIRED",
-            "sentiment": "NEGATIVE",
-            "score": 0.7882283926010132,
+            "score": 0.9692097306251526,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -213,28 +271,33 @@
             "ticker_impacts": []
         },
         {
-            "title": "Utah ups the ante in Kalshi gambling fight with felony charges - NPR Utah | KUER",
+            "title": "Alphabet, Microsoft earnings reveal surging AI demand as spending soars - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.9508610963821411,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT",
+                "GOOGL"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "MGM Says Deal Talks With Barry Diller\u2019s People Incorporated Are Over - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.763338029384613,
+            "score": 0.8873045444488525,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "People who care for an elderly parent or other loved one face soaring costs - CBS News",
-            "sentiment": "POSITIVE",
-            "score": 0.8796074986457825,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Genmab Stock Surges to Record High as Cancer Drug Slashes Risk of Death by 50% - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9481013417243958,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -249,27 +312,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Retatrutide beats Ozempic on weight loss, blood sugar control, study says - USA Today",
+            "title": "What\u2019s gone up even faster than gas or rent? The cost of caregiving - NPR",
             "sentiment": "POSITIVE",
-            "score": 0.7986196875572205,
+            "score": 0.8566060662269592,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Major Memory Vendor: We're Basically Sold Out Through 2029 - PCMag",
-            "sentiment": "NEGATIVE",
-            "score": 0.8083844780921936,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Yemen\u2019s Houthis attack Saudi Arabia\u2019s largest oil refinery - Semafor",
+            "title": "Bye bye Ozempic: Eli Lilly says its new drug retatrutide more than doubles weight loss - Business Insider",
             "sentiment": "POSITIVE",
-            "score": 0.7164261937141418,
+            "score": 0.8498746752738953,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
