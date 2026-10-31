@@ -1,30 +1,22 @@
 {
-    "last_updated": "2026-10-31 06:31:17 UTC",
-    "total_articles": 20,
-    "bullish_articles": 6,
-    "bearish_articles": 14,
+    "last_updated": "2026-10-31 09:26:50 UTC",
+    "total_articles": 23,
+    "bullish_articles": 5,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Asia Stocks Under Pressure, Haven Bid Boosts Bonds: Markets Wrap - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.7882989048957825,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
+            "title": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9295342564582825,
+            "signal": "BEARISH",
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
-            "title": "Amazon Spending Soars Amid Slowing Growth of Online Business - Bloomberg",
+            "title": "Amazon Spending Soars Amid Slowing Growth of Online Business - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9755169749259949,
+            "score": 0.9755277633666992,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN"
@@ -39,6 +31,24 @@
             ]
         },
         {
+            "title": "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates - Investing.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9441325068473816,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "ServiceNow Stock Just Plunged More Than 20% in a Single Day. Here's What It Did After Its Other Biggest Drops. - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.7182135581970215,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "3 customers suffer chemical burns after drinking margaritas at Chili's in North Carolina - WLOS",
             "sentiment": "NEGATIVE",
             "score": 0.942391574382782,
@@ -46,6 +56,29 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Amazon CEO says shopping agents like Meta\u2019s Muse \u2018not great\u2019 - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8839161992073059,
+            "signal": "BEARISH",
+            "tickers": [
+                "META",
+                "AMZN"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "'We're technically homeless': Residential cruise ceases operations - USA Today",
@@ -80,17 +113,26 @@
             ]
         },
         {
-            "title": "U.S. Stocks Fall as Alphabet Slide Weighs on AI Optimism - WSJ",
+            "title": "Starbucks to resume share buybacks but China shift clouds growth outlook - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.9238048195838928,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Intel Earnings: 2 Reasons the Stock Is Down So Much - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.944811999797821,
+            "score": 0.9743028283119202,
             "signal": "BEARISH",
             "tickers": [
-                "GOOGL"
+                "INTC"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "INTC",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -115,44 +157,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "Starbucks posts slight revenue miss, earnings beat in Q4 results as CEO says turnaround plan 'is working' - Yahoo Finance",
+            "title": "Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller - Electrek",
             "sentiment": "POSITIVE",
-            "score": 0.9201169013977051,
+            "score": 0.9193591475486755,
             "signal": "BULLISH",
             "tickers": [
-                "SBUX"
+                "RIVN"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "RIVN",
             "ticker_impacts": [
                 {
-                    "ticker": "SBUX",
+                    "ticker": "RIVN",
                     "impact": "positive",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
         {
-            "title": "ServiceNow stock sinks in worst day ever, Fortinet shares drop as Q3 earnings reports send software sector lower - Yahoo Finance",
+            "title": "Google Eats Its Own Tail (and Profits) With AI Summaries as Stock Price Plunges - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.9723447561264038,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9507678747177124,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as Alphabet, Caterpillar earnings disappoint, but most stocks rise - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9726334810256958,
+            "score": 0.8366484642028809,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -167,26 +191,17 @@
             ]
         },
         {
-            "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling - The Verge",
+            "title": "Nvidia CEO Says Ties to Company Under Spying Probe Were \u2018Normal\u2019 - Bloomberg",
             "sentiment": "NEGATIVE",
-            "score": 0.8839924335479736,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Google admits AI search makes less money, but it\u2019s fixing that with more ads - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.974722146987915,
+            "score": 0.7238703966140747,
             "signal": "BEARISH",
             "tickers": [
-                "GOOGL"
+                "NVDA"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -211,6 +226,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Porsche Writedown Plunges Volkswagen Deeper Into The Financial Abyss - Jalopnik",
+            "sentiment": "NEGATIVE",
+            "score": 0.8824508786201477,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Exclusive | Trump Administration Promised Tariff Relief in Talks to Secure U.S. Audi Factory - WSJ",
             "sentiment": "POSITIVE",
             "score": 0.9092978239059448,
@@ -220,9 +244,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "VW Group Says The Quiet Part Out Loud: EVs Are Still Less Profitable Than Gas Cars - Motor1.com",
+            "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Alphabet stock sells off, AI jitters return - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9692097306251526,
+            "score": 0.9557863473892212,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.934362530708313,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
