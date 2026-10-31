@@ -1,14 +1,101 @@
 {
-    "last_updated": "2026-10-31 12:28:44 UTC",
-    "total_articles": 23,
-    "bullish_articles": 5,
-    "bearish_articles": 18,
+    "last_updated": "2026-10-31 15:27:11 UTC",
+    "total_articles": 18,
+    "bullish_articles": 6,
+    "bearish_articles": 12,
     "articles": [
         {
-            "title": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist - WSJ",
+            "title": "Cheaper cars are selling considerably faster than at the beginning of the year - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9295342564582825,
+            "score": 0.8759355545043945,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock market today: Nasdaq dives, S&P 500 and Dow fall as Amazon, Intel earnings fuel tech rout - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9731825590133667,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN",
+                "INTC",
+                "GOOGL",
+                "GOOG"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "GOOG",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Why Intel\u2019s stock is sinking toward its worst day in decades \u2014 and a $140 billion wipeout - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.972179114818573,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Eurozone Economy Slows as French Debt Worries Mount - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.858066737651825,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Chevron beats estimates as refining margins lift earnings - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9504125118255615,
+            "signal": "BULLISH",
+            "tickers": [
+                "CVX"
+            ],
+            "primary_ticker": "CVX",
+            "ticker_impacts": [
+                {
+                    "ticker": "CVX",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year - NPR",
+            "sentiment": "POSITIVE",
+            "score": 0.9160982370376587,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -31,9 +118,9 @@
             ]
         },
         {
-            "title": "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates - Investing.com",
+            "title": "Chili's customers suffer chemical burns after dangerous margarita mix-up - Fox News",
             "sentiment": "NEGATIVE",
-            "score": 0.9441325068473816,
+            "score": 0.9628183841705322,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -49,90 +136,17 @@
             "ticker_impacts": []
         },
         {
-            "title": "3 customers suffer chemical burns after drinking margaritas at Chili's in North Carolina - WLOS",
+            "title": "Finland Investigates After Google Clears Forest for AI Site - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.942391574382782,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Amazon CEO says shopping agents like Meta\u2019s Muse \u2018not great\u2019 - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8839161992073059,
+            "score": 0.9650201797485352,
             "signal": "BEARISH",
             "tickers": [
-                "AMZN",
-                "META"
+                "GOOGL"
             ],
-            "primary_ticker": "AMZN",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "'We're technically homeless': Residential cruise ceases operations - USA Today",
-            "sentiment": "NEGATIVE",
-            "score": 0.9572802782058716,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nasdaq-100 futures fall as Amazon and Intel swoon after earnings: Live updates - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9700890183448792,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN",
-                "INTC"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Starbucks to resume share buybacks but China shift clouds growth outlook - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9238048195838928,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Intel Earnings: 2 Reasons the Stock Is Down So Much - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9743028283119202,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -142,15 +156,6 @@
             "title": "Sandisk Reports Another Big Earnings Beat. Investors May Have Wanted More. - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.9739242196083069,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "What killed Weil Gotshal? - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9624848365783691,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -174,38 +179,22 @@
             ]
         },
         {
-            "title": "Google Eats Its Own Tail (and Profits) With AI Summaries as Stock Price Plunges - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.8366484642028809,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Trump First President To See National Debt Hit 100% Of GDP Since Harry Truman - 24/7 Wall St.",
+            "sentiment": "POSITIVE",
+            "score": 0.7105206251144409,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "Nvidia CEO Says Ties to Company Under Spying Probe Were \u2018Normal\u2019 - Bloomberg",
+            "title": "Polymarket Halted International Trading After Hackers Drained Accounts - WIRED",
             "sentiment": "NEGATIVE",
-            "score": 0.7238703966140747,
+            "score": 0.921570360660553,
             "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Iovance, A Top 1% Biotech Stock, Crashes In A Surprise Lung Cancer Twist - Investor's Business Daily",
@@ -217,54 +206,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Fed\u2019s preferred inflation gauge rose in September as third-quarter GDP beats expectations - Fox Business",
+            "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.8839924335479736,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Inflation heats up again, days before midterm elections - PBS",
             "sentiment": "POSITIVE",
-            "score": 0.8954632878303528,
+            "score": 0.8905820846557617,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Porsche Writedown Plunges Volkswagen Deeper Into The Financial Abyss - Jalopnik",
-            "sentiment": "NEGATIVE",
-            "score": 0.8824508786201477,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Exclusive | Trump Administration Promised Tariff Relief in Talks to Secure U.S. Audi Factory - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.9092978239059448,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Alphabet stock sells off, AI jitters return - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9557863473892212,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.934362530708313,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -274,15 +228,6 @@
             "sentiment": "POSITIVE",
             "score": 0.8357980847358704,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces - The Hacker News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9177430272102356,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
