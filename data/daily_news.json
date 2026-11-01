@@ -1,34 +1,76 @@
 {
-    "last_updated": "2026-10-31 21:27:01 UTC",
-    "total_articles": 20,
+    "last_updated": "2026-11-01 00:49:57 UTC",
+    "total_articles": 25,
     "bullish_articles": 8,
-    "bearish_articles": 12,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom - NBC News",
+            "title": "Federal debt surpassed GDP for fiscal 2026 - The Hill",
+            "sentiment": "POSITIVE",
+            "score": 0.7608239054679871,
+            "signal": "BULLISH",
+            "tickers": [
+                "GDP",
+                "BEA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "GDP",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "BEA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Ground cinnamon recalled in 13 states - NewsNation",
             "sentiment": "NEGATIVE",
-            "score": 0.9676448702812195,
+            "score": 0.7007054686546326,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Intel stock plunges nearly 30%, on pace for its worst day since 1974 - Yahoo Finance",
+            "title": "Stock Market Today: Nasdaq Dives 2.9% on Tech Selloff \u2014 Live Updates - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9715636968612671,
+            "score": 0.9646623134613037,
             "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tech Earnings Sink SpaceX Stock. No Other Companies Meet Elon Musk\u2019s High Bar. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.951131284236908,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "North Korean hackers likelinked to record-breaking $6.3 billion Binance crypto heist - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9707356095314026,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Think tank: 114 companies paid no current federal income tax but still aren\u2019t biggest hit to deficit - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9018495678901672,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Nearly 6 million coffee makers sold at major retailers recalled over burn risk - Fox Business",
@@ -54,15 +96,6 @@
             ]
         },
         {
-            "title": "Reddit stock plunges 29% after weak outlook, wrapping its worst day ever - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9726553559303284,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Oil giants post billions in profits as Americans feel pain at the pump - Fox Business",
             "sentiment": "POSITIVE",
             "score": 0.8782241940498352,
@@ -86,13 +119,39 @@
             ]
         },
         {
-            "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9343150854110718,
-            "signal": "BULLISH",
+            "title": "Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead - Kitco",
+            "sentiment": "NEGATIVE",
+            "score": 0.968482255935669,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Reddit Shares Plunge 30% After Company Says Its Q3 Search Traffic Was \"Down Meaningfully\" - Deadline",
+            "sentiment": "NEGATIVE",
+            "score": 0.9725645184516907,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Rivian\u2019s autonomy gamble faces its first real test - The Verge",
+            "sentiment": "POSITIVE",
+            "score": 0.8655649423599243,
+            "signal": "BULLISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Cheaper cars are selling considerably faster than at the beginning of the year - CNBC",
@@ -104,13 +163,46 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Nasdaq Slumps On Weak Intel Report; These Two Biopharmas Break Out (Live Coverage) - Investor's Business Daily",
+            "title": "US tech stocks see sharp falls over AI cost fears - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9719589352607727,
+            "score": 0.9734048247337341,
             "signal": "BEARISH",
             "tickers": [
-                "INTC",
-                "AMZN"
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Hanwha Philly Shipyard Selected to Build US Navy Medium Landing Ship (LSM) - Naval News",
+            "sentiment": "POSITIVE",
+            "score": 0.8673055768013,
+            "signal": "BULLISH",
+            "tickers": [
+                "LSM"
+            ],
+            "primary_ticker": "LSM",
+            "ticker_impacts": [
+                {
+                    "ticker": "LSM",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Intel Stock Is Crashing Out. Here\u2019s Why the Shares Are Dropping Today - Investopedia",
+            "sentiment": "NEGATIVE",
+            "score": 0.936762273311615,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
             ],
             "primary_ticker": "INTC",
             "ticker_impacts": [
@@ -118,11 +210,6 @@
                     "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "high"
-                },
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "medium"
                 }
             ]
         },
@@ -134,23 +221,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Amazon's AI build-out just pushed its cash burn to a record: Chart of the Day - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.974872350692749,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year - NPR",
@@ -188,30 +258,21 @@
             ]
         },
         {
-            "title": "Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller - Electrek",
-            "sentiment": "POSITIVE",
-            "score": 0.9193591475486755,
-            "signal": "BULLISH",
+            "title": "Stock Market Today, Oct. 29: Amazon Falls on Q3 Earnings Report and Capex Concerns - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.9711734652519226,
+            "signal": "BEARISH",
             "tickers": [
-                "RIVN"
+                "AMZN"
             ],
-            "primary_ticker": "RIVN",
+            "primary_ticker": "AMZN",
             "ticker_impacts": [
                 {
-                    "ticker": "RIVN",
-                    "impact": "positive",
+                    "ticker": "AMZN",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Trump First President To See National Debt Hit 100% Of GDP Since Harry Truman - 24/7 Wall St.",
-            "sentiment": "POSITIVE",
-            "score": 0.7105206251144409,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Polymarket Halted International Trading After Hackers Drained Accounts - WIRED",
