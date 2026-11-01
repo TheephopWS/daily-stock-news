@@ -1,31 +1,30 @@
 {
-    "last_updated": "2026-11-01 15:27:15 UTC",
-    "total_articles": 24,
+    "last_updated": "2026-11-01 18:27:19 UTC",
+    "total_articles": 25,
     "bullish_articles": 7,
-    "bearish_articles": 17,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Wall Street's favorite stocks are in their worst slump since 2010: Chart of the Day - Yahoo Finance",
+            "title": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9648856520652771,
+            "score": 0.9050866365432739,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How suspected North Korean hackers swiped billions in crypto in only minutes - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7567952871322632,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "The Surf Communities Selling Man-Made Waves to Homeowners - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.8151295185089111,
+            "score": 0.8151285648345947,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -41,9 +40,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil company earnings skyrocket \u2014 again - NPR",
+            "title": "Rating agency Fitch hits France with unscheduled outlook downgrade - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8953821659088135,
+            "score": 0.9659445285797119,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -52,7 +51,7 @@
         {
             "title": "McDonald's dealt legal setback as judge allows McRib meat lawsuit to proceed - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8903207182884216,
+            "score": 0.8903213739395142,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -61,7 +60,7 @@
         {
             "title": "Meta\u2019s Rating Outlook Cut to Negative by S&P on AI Spending - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.924820065498352,
+            "score": 0.9248199462890625,
             "signal": "BEARISH",
             "tickers": [
                 "META",
@@ -119,21 +118,21 @@
         {
             "title": "Federal debt surpassed GDP for fiscal 2026 - The Hill",
             "sentiment": "POSITIVE",
-            "score": 0.7608243823051453,
+            "score": 0.7608239054679871,
             "signal": "BULLISH",
             "tickers": [
-                "BEA",
-                "GDP"
+                "GDP",
+                "BEA"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "BEA",
+                    "ticker": "GDP",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "GDP",
+                    "ticker": "BEA",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -142,32 +141,32 @@
         {
             "title": "Think tank: 114 companies paid no current federal income tax but still aren\u2019t biggest hit to deficit - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9018502831459045,
+            "score": 0.9018495678901672,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nearly 6 million coffee makers sold at major retailers recalled over burn risk - Fox Business",
+            "title": "Apple Is Near a Record. Netflix Is Down More Than Half. I'd Buy Only 1 of Them. - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.9604301452636719,
+            "score": 0.8560835123062134,
             "signal": "BEARISH",
             "tickers": [
-                "AMZN",
-                "WMT"
+                "AAPL",
+                "NFLX"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "AAPL",
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
+                    "ticker": "AAPL",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 },
                 {
-                    "ticker": "WMT",
+                    "ticker": "NFLX",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
@@ -201,7 +200,7 @@
         {
             "title": "Rivian\u2019s autonomy gamble faces its first real test - The Verge",
             "sentiment": "POSITIVE",
-            "score": 0.8655652403831482,
+            "score": 0.8655649423599243,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -225,9 +224,35 @@
             "ticker_impacts": []
         },
         {
+            "title": "Cheaper cars are selling considerably faster than at the beginning of the year - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8700109124183655,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "For Google, the Economics of AI Mode Look Shaky - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9705203175544739,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Hanwha Philly Shipyard Selected to Build US Navy Medium Landing Ship (LSM) - Naval News",
             "sentiment": "POSITIVE",
-            "score": 0.8673057556152344,
+            "score": 0.8673055768013,
             "signal": "BULLISH",
             "tickers": [
                 "LSM"
@@ -269,19 +294,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year - NPR",
-            "sentiment": "POSITIVE",
-            "score": 0.9160985350608826,
-            "signal": "BULLISH",
-            "tickers": [],
+            "title": "Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9560298323631287,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "ServiceNow Stock Just Plunged More Than 20% in a Single Day. Here's What It Did After Its Other Biggest Drops. - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.7182132601737976,
-            "signal": "BEARISH",
+            "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year - NPR",
+            "sentiment": "POSITIVE",
+            "score": 0.9160982370376587,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
