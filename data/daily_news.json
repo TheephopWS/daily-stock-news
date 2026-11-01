@@ -1,13 +1,49 @@
 {
-    "last_updated": "2026-11-01 12:28:32 UTC",
-    "total_articles": 20,
+    "last_updated": "2026-11-01 15:27:15 UTC",
+    "total_articles": 24,
     "bullish_articles": 7,
-    "bearish_articles": 13,
+    "bearish_articles": 17,
     "articles": [
+        {
+            "title": "Wall Street's favorite stocks are in their worst slump since 2010: Chart of the Day - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9648856520652771,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "How suspected North Korean hackers swiped billions in crypto in only minutes - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.7567955255508423,
+            "score": 0.7567952871322632,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Surf Communities Selling Man-Made Waves to Homeowners - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8151295185089111,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Anthropic's path to the Nasdaq just got a lot bumpier - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9640803933143616,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil company earnings skyrocket \u2014 again - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.8953821659088135,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,7 +52,7 @@
         {
             "title": "McDonald's dealt legal setback as judge allows McRib meat lawsuit to proceed - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8903213739395142,
+            "score": 0.8903207182884216,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,7 +61,7 @@
         {
             "title": "Meta\u2019s Rating Outlook Cut to Negative by S&P on AI Spending - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9248199462890625,
+            "score": 0.924820065498352,
             "signal": "BEARISH",
             "tickers": [
                 "META",
@@ -55,44 +91,15 @@
             "ticker_impacts": []
         },
         {
-            "title": "Federal debt surpassed GDP for fiscal 2026 - The Hill",
-            "sentiment": "POSITIVE",
-            "score": 0.7608239054679871,
-            "signal": "BULLISH",
-            "tickers": [
-                "GDP",
-                "BEA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "GDP",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "BEA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "AMD\u2019s stock slides after Intel earnings reveal two big issues - MarketWatch",
+            "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.967518150806427,
+            "score": 0.9701797962188721,
             "signal": "BEARISH",
             "tickers": [
-                "AMD",
                 "INTC"
             ],
-            "primary_ticker": "AMD",
+            "primary_ticker": "INTC",
             "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "INTC",
                     "impact": "negative",
@@ -101,9 +108,41 @@
             ]
         },
         {
+            "title": "Cracks are emerging in the AI spending boom - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9595808982849121,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Federal debt surpassed GDP for fiscal 2026 - The Hill",
+            "sentiment": "POSITIVE",
+            "score": 0.7608243823051453,
+            "signal": "BULLISH",
+            "tickers": [
+                "BEA",
+                "GDP"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "BEA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "GDP",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Think tank: 114 companies paid no current federal income tax but still aren\u2019t biggest hit to deficit - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9018495678901672,
+            "score": 0.9018502831459045,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -115,45 +154,40 @@
             "score": 0.9604301452636719,
             "signal": "BEARISH",
             "tickers": [
-                "WMT",
-                "AMZN"
+                "AMZN",
+                "WMT"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "WMT",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "WMT",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Apple Is Near a Record. Netflix Is Down More Than Half. I'd Buy Only 1 of Them. - The Motley Fool",
+            "title": "Stock market today: Nasdaq dives over 3%, S&P 500 and Dow tank as AI reckoning grips Wall Street - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8560835123062134,
+            "score": 0.9659464359283447,
             "signal": "BEARISH",
-            "tickers": [
-                "NFLX",
-                "AAPL"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead - Kitco",
+            "sentiment": "NEGATIVE",
+            "score": 0.968482255935669,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Reddit Shares Plunge 30% After Company Says Its Q3 Search Traffic Was \"Down Meaningfully\" - Deadline",
@@ -167,7 +201,7 @@
         {
             "title": "Rivian\u2019s autonomy gamble faces its first real test - The Verge",
             "sentiment": "POSITIVE",
-            "score": 0.8655649423599243,
+            "score": 0.8655652403831482,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -184,7 +218,7 @@
         {
             "title": "Sandisk Stock Is Falling Friday: What's Going On? - SanDisk (NASDAQ:SNDK) - Benzinga",
             "sentiment": "NEGATIVE",
-            "score": 0.9539079070091248,
+            "score": 0.9729378819465637,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -193,7 +227,7 @@
         {
             "title": "Hanwha Philly Shipyard Selected to Build US Navy Medium Landing Ship (LSM) - Naval News",
             "sentiment": "POSITIVE",
-            "score": 0.8673055768013,
+            "score": 0.8673057556152344,
             "signal": "BULLISH",
             "tickers": [
                 "LSM"
@@ -237,7 +271,7 @@
         {
             "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year - NPR",
             "sentiment": "POSITIVE",
-            "score": 0.9160982370376587,
+            "score": 0.9160985350608826,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -246,34 +280,8 @@
         {
             "title": "ServiceNow Stock Just Plunged More Than 20% in a Single Day. Here's What It Did After Its Other Biggest Drops. - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.7182135581970215,
+            "score": 0.7182132601737976,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mamdani Warns $17B DoorDash-Instacart Deal Risks Higher Costs for Customers - Newsweek",
-            "sentiment": "NEGATIVE",
-            "score": 0.7351269721984863,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMD"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Inflation heats up again, days before midterm elections - PBS",
-            "sentiment": "POSITIVE",
-            "score": 0.8905820846557617,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
