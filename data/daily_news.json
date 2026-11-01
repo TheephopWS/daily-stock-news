@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-11-01 06:32:01 UTC",
-    "total_articles": 20,
+    "last_updated": "2026-11-01 09:27:26 UTC",
+    "total_articles": 24,
     "bullish_articles": 7,
-    "bearish_articles": 13,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "Stock Market News, Oct. 30, 2026: Tech Selloff Pushes Nasdaq to Its Worst Month in Over a Year - WSJ",
+            "title": "Expert warns of 'AI hacking bloodbath' following massive Binance cryptocurrency theft - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9078124165534973,
+            "score": 0.9306659698486328,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "McDonald's dealt legal setback as judge allows McRib meat lawsuit to proceed - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.8903202414512634,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -37,13 +46,30 @@
             ]
         },
         {
-            "title": "Gold sinks to one-year low, silver slips below $50 on inflation concerns, tech selloff - Seeking Alpha",
+            "title": "Exclusive | Hedge Fund Arini Offloads $800 Million in Debt as Losses Deepen - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9630904197692871,
+            "score": 0.9735465049743652,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9701797962188721,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Cracks are emerging in the AI spending boom - TechCrunch",
@@ -57,7 +83,7 @@
         {
             "title": "Federal debt surpassed GDP for fiscal 2026 - The Hill",
             "sentiment": "POSITIVE",
-            "score": 0.7608239054679871,
+            "score": 0.7608246803283691,
             "signal": "BULLISH",
             "tickers": [
                 "BEA",
@@ -78,26 +104,18 @@
             ]
         },
         {
-            "title": "Intel\u2019s drop on Friday shaves the US government\u2019s equity stake by about $10 billion. It\u2019s still up 3x since last August. - Yahoo Finance",
+            "title": "Tech Earnings Sink SpaceX Stock. No Other Companies Meet Elon Musk\u2019s High Bar. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.842689037322998,
+            "score": 0.9511311650276184,
             "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Think tank: 114 companies paid no current federal income tax but still aren\u2019t biggest hit to deficit - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9018495678901672,
+            "score": 0.9018499851226807,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -129,7 +147,7 @@
         {
             "title": "Apple Is Near a Record. Netflix Is Down More Than Half. I'd Buy Only 1 of Them. - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.8560835123062134,
+            "score": 0.8560831546783447,
             "signal": "BEARISH",
             "tickers": [
                 "AAPL",
@@ -159,27 +177,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil giants post billions in profits as Americans feel pain at the pump - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.8782241940498352,
-            "signal": "BULLISH",
-            "tickers": [
-                "XOM",
-                "CVX"
-            ],
+            "title": "Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead - Kitco",
+            "sentiment": "NEGATIVE",
+            "score": 0.968482255935669,
+            "signal": "BEARISH",
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "XOM",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "CVX",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Reddit Shares Plunge 30% After Company Says Its Q3 Search Traffic Was \"Down Meaningfully\" - Deadline",
@@ -193,7 +197,7 @@
         {
             "title": "Rivian\u2019s autonomy gamble faces its first real test - The Verge",
             "sentiment": "POSITIVE",
-            "score": 0.8655649423599243,
+            "score": 0.8655652403831482,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -210,7 +214,7 @@
         {
             "title": "Hanwha Philly Shipyard Selected to Build US Navy Medium Landing Ship (LSM) - Naval News",
             "sentiment": "POSITIVE",
-            "score": 0.8673055768013,
+            "score": 0.8673058152198792,
             "signal": "BULLISH",
             "tickers": [
                 "LSM"
@@ -225,6 +229,32 @@
             ]
         },
         {
+            "title": "Amazon Spending Soars Amid Slowing Growth of Online Business - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9755169749259949,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Oil Prices Rise After Hormuz Tanker Attack, Houthi Claims Stoke Supply Fears - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8979408144950867,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "AbbVie Reports Third-Quarter 2026 Financial Results - AbbVie News Center",
             "sentiment": "POSITIVE",
             "score": 0.9391779899597168,
@@ -236,7 +266,7 @@
         {
             "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year - NPR",
             "sentiment": "POSITIVE",
-            "score": 0.9160982370376587,
+            "score": 0.9160986542701721,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -245,7 +275,7 @@
         {
             "title": "ServiceNow Stock Just Plunged More Than 20% in a Single Day. Here's What It Did After Its Other Biggest Drops. - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.7182135581970215,
+            "score": 0.718213677406311,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -263,7 +293,7 @@
         {
             "title": "Mamdani Warns $17B DoorDash-Instacart Deal Risks Higher Costs for Customers - Newsweek",
             "sentiment": "NEGATIVE",
-            "score": 0.7351269721984863,
+            "score": 0.7351263165473938,
             "signal": "BEARISH",
             "tickers": [
                 "AMD"
@@ -280,7 +310,7 @@
         {
             "title": "Inflation heats up again, days before midterm elections - PBS",
             "sentiment": "POSITIVE",
-            "score": 0.8905820846557617,
+            "score": 0.8905821442604065,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
