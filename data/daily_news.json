@@ -1,40 +1,81 @@
 {
-    "last_updated": "2026-11-01 00:49:57 UTC",
-    "total_articles": 25,
-    "bullish_articles": 8,
-    "bearish_articles": 17,
+    "last_updated": "2026-11-01 03:30:08 UTC",
+    "total_articles": 24,
+    "bullish_articles": 9,
+    "bearish_articles": 15,
     "articles": [
+        {
+            "title": "McDonald's dealt legal setback as judge allows McRib meat lawsuit to proceed - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.8903213739395142,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta\u2019s Rating Outlook Cut to Negative by S&P on AI Spending - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9248199462890625,
+            "signal": "BEARISH",
+            "tickers": [
+                "META",
+                "INTC"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Cracks are emerging in the AI spending boom - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9595808982849121,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Wall Street abandons ship after gold sinks below $3,900/oz, Main Street maintains bullish majority bias as midterms, payrolls loom - Kitco",
+            "sentiment": "NEGATIVE",
+            "score": 0.9210039377212524,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Federal debt surpassed GDP for fiscal 2026 - The Hill",
             "sentiment": "POSITIVE",
             "score": 0.7608239054679871,
             "signal": "BULLISH",
             "tickers": [
-                "GDP",
-                "BEA"
+                "BEA",
+                "GDP"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "GDP",
+                    "ticker": "BEA",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "BEA",
+                    "ticker": "GDP",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Ground cinnamon recalled in 13 states - NewsNation",
-            "sentiment": "NEGATIVE",
-            "score": 0.7007054686546326,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Stock Market Today: Nasdaq Dives 2.9% on Tech Selloff \u2014 Live Updates - WSJ",
@@ -46,18 +87,44 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tech Earnings Sink SpaceX Stock. No Other Companies Meet Elon Musk\u2019s High Bar. - Barron's",
+            "title": "Intel, Amazon, Nvidia, ExxonMobil, Sandisk, FedEx Freight, and More Stocks That Explain Today\u2019s Market - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.951131284236908,
+            "score": 0.9701581001281738,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "INTC",
+                "NVDA",
+                "AMZN",
+                "XOM"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "XOM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "North Korean hackers likelinked to record-breaking $6.3 billion Binance crypto heist - Yahoo Finance",
+            "title": "Wyoming Couple Who Sold Everything To Live On Cruise Ship Stranded In Cambodia - Cowboy State Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9707356095314026,
+            "score": 0.9396436810493469,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -78,18 +145,18 @@
             "score": 0.9604301452636719,
             "signal": "BEARISH",
             "tickers": [
-                "WMT",
-                "AMZN"
+                "AMZN",
+                "WMT"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "WMT",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "WMT",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -101,31 +168,22 @@
             "score": 0.8782241940498352,
             "signal": "BULLISH",
             "tickers": [
-                "XOM",
-                "CVX"
+                "CVX",
+                "XOM"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "XOM",
+                    "ticker": "CVX",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "CVX",
+                    "ticker": "XOM",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead - Kitco",
-            "sentiment": "NEGATIVE",
-            "score": 0.968482255935669,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Reddit Shares Plunge 30% After Company Says Its Q3 Search Traffic Was \"Down Meaningfully\" - Deadline",
@@ -154,30 +212,13 @@
             ]
         },
         {
-            "title": "Cheaper cars are selling considerably faster than at the beginning of the year - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8759355545043945,
-            "signal": "BEARISH",
+            "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.9343150854110718,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "US tech stocks see sharp falls over AI cost fears - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9734048247337341,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Hanwha Philly Shipyard Selected to Build US Navy Medium Landing Ship (LSM) - Naval News",
@@ -258,23 +299,6 @@
             ]
         },
         {
-            "title": "Stock Market Today, Oct. 29: Amazon Falls on Q3 Earnings Report and Capex Concerns - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.9711734652519226,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Polymarket Halted International Trading After Hackers Drained Accounts - WIRED",
             "sentiment": "NEGATIVE",
             "score": 0.921570360660553,
@@ -304,15 +328,6 @@
             "title": "Iovance, A Top 1% Biotech Stock, Crashes In A Surprise Lung Cancer Twist - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.9704018831253052,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.8839924335479736,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
