@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-11-02 03:29:42 UTC",
-    "total_articles": 32,
+    "last_updated": "2026-11-02 06:42:52 UTC",
+    "total_articles": 28,
     "bullish_articles": 6,
-    "bearish_articles": 26,
+    "bearish_articles": 22,
     "articles": [
         {
-            "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history - AP News",
+            "title": "Judge won't dismiss McRib class-action lawsuit against McDonald's - USA Today",
             "sentiment": "NEGATIVE",
-            "score": 0.7216553092002869,
+            "score": 0.9418800473213196,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Ford stock jumps 12% as car buyers face a costly reality - TheStreet",
+            "sentiment": "NEGATIVE",
+            "score": 0.7431381940841675,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -40,13 +49,21 @@
             ]
         },
         {
-            "title": "McDonald\u2019s must face lawsuit over McRib, judge rules - NBC News",
+            "title": "AI outlook: OpenAI cuts fundraising goal while Meta gets a credit warning on cash flow and spending - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.8538899421691895,
+            "score": 0.9642346501350403,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "New York and LA didn't win America's best mega airport title, but one Midwest hub did - Fox News",
@@ -61,15 +78,6 @@
             "title": "Tech stock meltdown could get a lot of worse if history is any guide - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9186310172080994,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "OpenAI Cuts Funding Target As Investors Lose AI Appetite - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.933488130569458,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -94,27 +102,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "Rating agency Fitch hits France with unscheduled outlook downgrade - Financial Times",
+            "title": "Reddit (and everyone else) faces a bleak internet without Google traffic - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9659445285797119,
+            "score": 0.7505859136581421,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "This retired professor was arrested for blocking a delivery robot. She says she\u2019ll do it again - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.840598464012146,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Oil company earnings skyrocket \u2014 again - NPR",
             "sentiment": "NEGATIVE",
             "score": 0.8953824639320374,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Woman says protest was free speech after arrest for allegedly blocking robot\u2019s path - WNDU",
+            "sentiment": "NEGATIVE",
+            "score": 0.8428332209587097,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -142,15 +158,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Exclusive | Hedge Fund Arini Offloads $800 Million in Debt as Losses Deepen - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9735465049743652,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Citing 'challenging operating environment,' Alaska Airlines to lay off about 200 employees - KING5.com",
@@ -185,8 +192,8 @@
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL",
-                "INTC",
-                "NVDA"
+                "NVDA",
+                "INTC"
             ],
             "primary_ticker": "GOOGL",
             "ticker_impacts": [
@@ -196,12 +203,12 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -240,23 +247,6 @@
             ]
         },
         {
-            "title": "Meta settles claims with second plaintiff in social media addiction case - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7947776913642883,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Think tank: 114 companies paid no current federal income tax but still aren\u2019t biggest hit to deficit - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.9018495678901672,
@@ -264,29 +254,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Apple Is Near a Record. Netflix Is Down More Than Half. I'd Buy Only 1 of Them. - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.8560835123062134,
-            "signal": "BEARISH",
-            "tickers": [
-                "NFLX",
-                "AAPL"
-            ],
-            "primary_ticker": "NFLX",
-            "ticker_impacts": [
-                {
-                    "ticker": "NFLX",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Stock market today: Nasdaq dives over 3%, S&P 500 and Dow tank as AI reckoning grips Wall Street - Yahoo Finance",
@@ -301,15 +268,6 @@
             "title": "Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead - Kitco",
             "sentiment": "NEGATIVE",
             "score": 0.968482255935669,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Reddit Shares Plunge 30% After Company Says Its Q3 Search Traffic Was \"Down Meaningfully\" - Deadline",
-            "sentiment": "NEGATIVE",
-            "score": 0.9725645184516907,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
