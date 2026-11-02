@@ -1,14 +1,49 @@
 {
-    "last_updated": "2026-11-01 21:27:22 UTC",
-    "total_articles": 25,
+    "last_updated": "2026-11-02 00:45:56 UTC",
+    "total_articles": 29,
     "bullish_articles": 6,
-    "bearish_articles": 19,
+    "bearish_articles": 23,
     "articles": [
+        {
+            "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9472129940986633,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Popular supplement sold at Whole Foods and Amazon recalled over salmonella concerns - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9382509589195251,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "McDonald\u2019s must face lawsuit over McRib, judge rules - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.8538902997970581,
+            "score": 0.8538899421691895,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "New York and LA didn't win America's best mega airport title, but one Midwest hub did - Fox News",
+            "sentiment": "POSITIVE",
+            "score": 0.9314348101615906,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -16,34 +51,35 @@
         {
             "title": "OpenAI reportedly lowers funding target for new round - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.8299586772918701,
+            "score": 0.8299592137336731,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse - Bloomberg.com",
+            "title": "Tech stock meltdown could get a lot of worse if history is any guide - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9050865173339844,
+            "score": 0.9186310172080994,
             "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
-            "title": "The Surf Communities Selling Man-Made Waves to Homeowners - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.8151295185089111,
-            "signal": "BULLISH",
+            "title": "Wall Street wipes $1 trillion from the stock market as tech\u2019s $828 billion AI spending spree sparks market fears - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.8903999328613281,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Anthropic's path to the Nasdaq just got a lot bumpier - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9640803933143616,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -51,7 +87,7 @@
         {
             "title": "Reddit (and everyone else) faces a bleak internet without Google traffic - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7505850791931152,
+            "score": 0.7505859136581421,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -77,7 +113,7 @@
         {
             "title": "This retired professor was arrested for blocking a delivery robot. She says she\u2019ll do it again - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.8405990600585938,
+            "score": 0.840598464012146,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -86,7 +122,7 @@
         {
             "title": "Why 20 states, including Michigan, are suing Dollar General over its price tags - ClickOnDetroit | WDIV Local 4",
             "sentiment": "NEGATIVE",
-            "score": 0.9409578442573547,
+            "score": 0.9409577250480652,
             "signal": "BEARISH",
             "tickers": [
                 "FTC"
@@ -101,9 +137,18 @@
             ]
         },
         {
+            "title": "Oil company earnings skyrocket \u2014 again - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.8953824639320374,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Meta\u2019s Rating Outlook Cut to Negative by S&P on AI Spending - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.924820065498352,
+            "score": 0.9248199462890625,
             "signal": "BEARISH",
             "tickers": [
                 "META",
@@ -135,51 +180,22 @@
         {
             "title": "Citing 'challenging operating environment,' Alaska Airlines to lay off about 200 employees - KING5.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9371626973152161,
+            "score": 0.9371625781059265,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Federal debt surpassed GDP for fiscal 2026 - The Hill",
-            "sentiment": "POSITIVE",
-            "score": 0.7608243823051453,
-            "signal": "BULLISH",
-            "tickers": [
-                "BEA",
-                "GDP"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "BEA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "GDP",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "AMD\u2019s stock slides after Intel earnings reveal two big issues - MarketWatch",
+            "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9675182700157166,
+            "score": 0.9701797962188721,
             "signal": "BEARISH",
             "tickers": [
-                "AMD",
                 "INTC"
             ],
-            "primary_ticker": "AMD",
+            "primary_ticker": "INTC",
             "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "INTC",
                     "impact": "negative",
@@ -188,9 +204,70 @@
             ]
         },
         {
+            "title": "Alphabet\u2019s October wipeout hits $758 billion, its worst month ever - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9723846912384033,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL",
+                "INTC",
+                "NVDA"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Weil Collapse Floods Market With Lawyers Looking for New Jobs - Bloomberg Law News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9204906225204468,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Federal debt surpassed GDP for fiscal 2026 - The Hill",
+            "sentiment": "POSITIVE",
+            "score": 0.7608239054679871,
+            "signal": "BULLISH",
+            "tickers": [
+                "GDP",
+                "BEA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "GDP",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "BEA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Think tank: 114 companies paid no current federal income tax but still aren\u2019t biggest hit to deficit - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9018502831459045,
+            "score": 0.9018495678901672,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -199,7 +276,7 @@
         {
             "title": "Apple Is Near a Record. Netflix Is Down More Than Half. I'd Buy Only 1 of Them. - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.8560837507247925,
+            "score": 0.8560835123062134,
             "signal": "BEARISH",
             "tickers": [
                 "NFLX",
@@ -238,9 +315,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8826673030853271,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Rivian\u2019s autonomy gamble faces its first real test - The Verge",
             "sentiment": "POSITIVE",
-            "score": 0.8655652403831482,
+            "score": 0.8655649423599243,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -255,44 +341,9 @@
             ]
         },
         {
-            "title": "Cheaper cars are selling considerably faster than at the beginning of the year - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8700108528137207,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "For Google, the Economics of AI Mode Look Shaky - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9705203175544739,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Why are Micron, SK Hynix, and SanDisk stocks falling on Friday? - Invezz",
-            "sentiment": "NEGATIVE",
-            "score": 0.9035845398902893,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Hanwha Philly Shipyard Selected to Build US Navy Medium Landing Ship (LSM) - Naval News",
             "sentiment": "POSITIVE",
-            "score": 0.8673057556152344,
+            "score": 0.8673055768013,
             "signal": "BULLISH",
             "tickers": [
                 "LSM"
@@ -319,15 +370,6 @@
             "title": "AbbVie Revenue Rises on Strength in Immunology, Neuroscience - WSJ",
             "sentiment": "POSITIVE",
             "score": 0.951392650604248,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising? - Al Jazeera",
-            "sentiment": "POSITIVE",
-            "score": 0.9538344740867615,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
