@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-11-02 00:45:56 UTC",
-    "total_articles": 29,
+    "last_updated": "2026-11-02 03:29:42 UTC",
+    "total_articles": 32,
     "bullish_articles": 6,
-    "bearish_articles": 23,
+    "bearish_articles": 26,
     "articles": [
+        {
+            "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7216553092002869,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution - CNBC",
             "sentiment": "NEGATIVE",
@@ -49,18 +58,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI reportedly lowers funding target for new round - TechCrunch",
+            "title": "Tech stock meltdown could get a lot of worse if history is any guide - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8299592137336731,
+            "score": 0.9186310172080994,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Tech stock meltdown could get a lot of worse if history is any guide - Yahoo Finance",
+            "title": "OpenAI Cuts Funding Target As Investors Lose AI Appetite - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9186310172080994,
+            "score": 0.933488130569458,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -85,23 +94,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Reddit (and everyone else) faces a bleak internet without Google traffic - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.7505859136581421,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Rating agency Fitch hits France with unscheduled outlook downgrade - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9659445285797119,
@@ -118,23 +110,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Why 20 states, including Michigan, are suing Dollar General over its price tags - ClickOnDetroit | WDIV Local 4",
-            "sentiment": "NEGATIVE",
-            "score": 0.9409577250480652,
-            "signal": "BEARISH",
-            "tickers": [
-                "FTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "FTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Oil company earnings skyrocket \u2014 again - NPR",
@@ -247,20 +222,37 @@
             "score": 0.7608239054679871,
             "signal": "BULLISH",
             "tickers": [
-                "GDP",
-                "BEA"
+                "BEA",
+                "GDP"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "GDP",
+                    "ticker": "BEA",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "BEA",
+                    "ticker": "GDP",
                     "impact": "positive",
                     "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Meta settles claims with second plaintiff in social media addiction case - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.7947776913642883,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
@@ -315,6 +307,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Reddit Shares Plunge 30% After Company Says Its Q3 Search Traffic Was \"Down Meaningfully\" - Deadline",
+            "sentiment": "NEGATIVE",
+            "score": 0.9725645184516907,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.8826673030853271,
@@ -337,6 +338,32 @@
                     "ticker": "TSLA",
                     "impact": "positive",
                     "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "The cost of caring for a loved one is surging \u2013 and families are feeling the strain - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.919368326663971,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "For Google, the Economics of AI Mode Look Shaky - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9705203175544739,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
