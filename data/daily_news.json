@@ -1,13 +1,100 @@
 {
-    "last_updated": "2026-11-03 15:26:44 UTC",
-    "total_articles": 25,
-    "bullish_articles": 5,
-    "bearish_articles": 20,
+    "last_updated": "2026-11-03 18:27:52 UTC",
+    "total_articles": 29,
+    "bullish_articles": 7,
+    "bearish_articles": 22,
     "articles": [
         {
-            "title": "Oil Drops More Than 4% on U.S.-Iran Diplomatic Hopes - WSJ",
+            "title": "Tesla Robotaxi Adds This New City, Stock Continues Rally - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9186728000640869,
+            "signal": "BULLISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Micron Stock Needs Markets to Clear These 3 Hurdles - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.8881620764732361,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9448128938674927,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Oil Prices Plunge as Draft Proposal to End U.S.-Iran War is Circulated - Crude Oil Prices Today | OilPrice.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8417124152183533,
+            "score": 0.9738291501998901,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Prediction: This Will Be Sandisk\u2019s Stock Price After 1 Year - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.8714957237243652,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Intel Stock Slides Again Monday: What's Going On? - Intel (NASDAQ:INTC) - Benzinga",
+            "sentiment": "NEGATIVE",
+            "score": 0.972295880317688,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "European stocks edge down, oil drops as midterm caution prevails - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.8103457689285278,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Morning Risk Report: Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9507296681404114,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,34 +110,20 @@
             "ticker_impacts": []
         },
         {
-            "title": "Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8850236535072327,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "It would shock you how bearish Wall Street is on hyperscalers Microsoft, Amazon, Alphabet, Meta and Oracle - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.7446718215942383,
             "signal": "BEARISH",
             "tickers": [
-                "GOOGL",
-                "MSFT",
+                "META",
                 "AMZN",
-                "META"
+                "MSFT",
+                "GOOGL"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "META",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
+                    "ticker": "META",
                     "impact": "negative",
                     "relevance": "high"
                 },
@@ -60,7 +133,12 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "META",
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -76,21 +154,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "US Stocks Halt Selloff as Oil Prices Retreat: Markets Wrap - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.9256485104560852,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
+            "title": "OpenAI is already pitching 2028 hopefuls on how to talk about AI - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.8513440489768982,
+            "signal": "BEARISH",
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
+        },
+        {
+            "title": "Elon Musk appears to have throttled Grok Bot for being \u201cunsustainably\u201d expensive. - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.9011995792388916,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Goldman Sachs Raises December Brent Oil Price Forecast to $105 - Crude Oil Prices Today | OilPrice.com",
@@ -110,21 +189,13 @@
             ]
         },
         {
-            "title": "Alphabet Kicks Off Sale of Its Second Euro Bond This Year - Bloomberg",
-            "sentiment": "POSITIVE",
-            "score": 0.9230284690856934,
-            "signal": "BULLISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Alstom Shares Plunge After Technical Issues Prompt Guidance Cut - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.951068639755249,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Petrol prices set to hit record high under Trump on eve of US elections - Financial Times",
@@ -189,27 +260,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Junk debt rout sparks \u2018bloodbath\u2019 for credit investors - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9378498196601868,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again - Bloomberg",
             "sentiment": "NEGATIVE",
             "score": 0.8631640672683716,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Roundup: October 2026 deliveries by major Chinese automakers - CnEVPost",
-            "sentiment": "NEGATIVE",
-            "score": 0.8654813766479492,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -237,15 +290,6 @@
             "title": "Margarita Mix-Up Leaves Chili's Customers With Burns - Newser",
             "sentiment": "NEGATIVE",
             "score": 0.892678439617157,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Perion to be acquired by India\u2019s Affle for $420 million, marking a steep fall for a once-billion-dollar Israeli company - CTech",
-            "sentiment": "NEGATIVE",
-            "score": 0.9515553116798401,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
