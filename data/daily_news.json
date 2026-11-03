@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-11-03 06:34:19 UTC",
-    "total_articles": 34,
-    "bullish_articles": 4,
-    "bearish_articles": 30,
+    "last_updated": "2026-11-03 09:27:38 UTC",
+    "total_articles": 29,
+    "bullish_articles": 5,
+    "bearish_articles": 24,
     "articles": [
+        {
+            "title": "China Stocks Rise on Report of Regulator Market Support Meeting - Bloomberg",
+            "sentiment": "POSITIVE",
+            "score": 0.9183542728424072,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Oil prices fall amid reports that the U.S. and Iran are both seeking diplomacy - CNBC",
             "sentiment": "NEGATIVE",
@@ -14,18 +23,26 @@
             "ticker_impacts": []
         },
         {
+            "title": "Kioxia Shares Sink After Outlook Shows Demand Leveling Off - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9743524193763733,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Could Orbital Data Centers Ruin the Night Sky? - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.9257713556289673,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Binance users withdraw billions after record crypto hack - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.913689374923706,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -86,15 +103,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "The trust-busters going after CVS are Republicans - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.850124716758728,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again - Bloomberg",
             "sentiment": "NEGATIVE",
             "score": 0.8631640672683716,
@@ -148,29 +156,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why AI is boosting Meta's ad business while hurting Google search - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9237640500068665,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL",
-                "META"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Margarita Mix-Up Leaves Chili's Customers With Burns - Newser",
             "sentiment": "NEGATIVE",
             "score": 0.892678439617157,
@@ -215,15 +200,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script - The Hacker News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9486169219017029,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Companies promised AI gains \u2014 here's how the payoff showed up in earnings - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.9334315061569214,
@@ -251,24 +227,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bond investors sit out \u2018most consequential\u2019 US midterm elections in years - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8657134771347046,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Judge won't dismiss McRib class-action lawsuit against McDonald's - USA Today",
-            "sentiment": "NEGATIVE",
-            "score": 0.9418800473213196,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "South Korea\u2019s Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer - WSJ",
             "sentiment": "POSITIVE",
             "score": 0.9465510249137878,
@@ -281,6 +239,15 @@
             "title": "SpaceX Stock Fell Below Its IPO Price, But Binance\u2019s CZ Is Bullish - BeInCrypto",
             "sentiment": "NEGATIVE",
             "score": 0.9690797328948975,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "McDonald's must face lawsuit alleging McRib contains no rib meat - upi",
+            "sentiment": "NEGATIVE",
+            "score": 0.9243856072425842,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -310,12 +277,17 @@
             "score": 0.9469678997993469,
             "signal": "BEARISH",
             "tickers": [
+                "INTC",
                 "GOOGL",
-                "AMZN",
-                "INTC"
+                "AMZN"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
                 {
                     "ticker": "GOOGL",
                     "impact": "negative",
@@ -325,37 +297,6 @@
                     "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "medium"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Trumpflation Is Getting Worse and It Could Trigger a Wall Street Nightmare - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.955396831035614,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Reddit stock plunges 29.2% as Google AI cuts US traffic - TheStreet",
-            "sentiment": "NEGATIVE",
-            "score": 0.9519606828689575,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
                 }
             ]
         },
