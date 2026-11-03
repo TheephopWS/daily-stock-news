@@ -1,9 +1,45 @@
 {
-    "last_updated": "2026-11-03 00:43:32 UTC",
-    "total_articles": 31,
-    "bullish_articles": 5,
+    "last_updated": "2026-11-03 03:28:31 UTC",
+    "total_articles": 30,
+    "bullish_articles": 4,
     "bearish_articles": 26,
     "articles": [
+        {
+            "title": "Binance users withdraw billions after record crypto hack - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.913689374923706,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil Prices No Longer Follow Headlines - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9339762926101685,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Suit: ChatGPT Killed Our Daughter With Bad Meds Advice - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.9073405861854553,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Toyota RAV4 Sales Have Fallen 29% In 2026, But Demand Isn't The Problem - SlashGear",
+            "sentiment": "NEGATIVE",
+            "score": 0.9541013836860657,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "California school staffers busted in $300K embezzlement scheme after massive Costco breakfast order blew their cover - New York Post",
             "sentiment": "NEGATIVE",
@@ -14,9 +50,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "AI investors hedge against losses amid tech stock selloff - The Jerusalem Post",
+            "title": "Why are San Antonio drivers waiting hours for emissions tests? - MySA",
             "sentiment": "NEGATIVE",
-            "score": 0.801089882850647,
+            "score": 0.9670580625534058,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -44,15 +80,6 @@
             "title": "The trust-busters going after CVS are Republicans - Politico",
             "sentiment": "NEGATIVE",
             "score": 0.850124716758728,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Junk debt rout sparks \u2018bloodbath\u2019 for credit investors - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9378498196601868,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -103,32 +130,6 @@
             ]
         },
         {
-            "title": "'They can't afford to keep the ones that they have': Jake and Spike clash over Seattle's $22 minimum wage - MyNorthwest.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9186611175537109,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Alphabet Gets Kicked Out of the $4 Trillion Club After Its Record $505 Billion Drop. Here's What History Says Could Come Next - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.9332392811775208,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Weil Gotshal: what happens now at the troubled Wall St law firm? - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9127650856971741,
@@ -138,10 +139,33 @@
             "ticker_impacts": []
         },
         {
-            "title": "US critical minerals push delivers a gold rush \u2014 for Washington lobbyists - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8911467790603638,
-            "signal": "BULLISH",
+            "title": "Why AI is boosting Meta's ad business while hurting Google search - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9237640500068665,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL",
+                "META"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "The Stock Market Is Doing Something for Only the 3rd Time in 28 Years, and History Says It's Clear What Comes Next for Stocks - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.9315705299377441,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -228,15 +252,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Sam Altman to Infuriated Mathematicians: The Math Slop Won\u2019t Stop - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.7863848805427551,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "AI outlook: OpenAI cuts fundraising goal while Meta gets a credit warning on cash flow and spending - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.9642346501350403,
@@ -259,12 +274,17 @@
             "score": 0.9516950845718384,
             "signal": "BEARISH",
             "tickers": [
+                "GOOGL",
                 "INTC",
-                "AMZN",
-                "GOOGL"
+                "AMZN"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
                 {
                     "ticker": "INTC",
                     "impact": "negative",
@@ -274,27 +294,22 @@
                     "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "medium"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Wall Street wipes $1 trillion from the stock market as tech\u2019s $828 billion AI spending spree sparks market fears - Fortune",
+            "title": "Trumpflation Is Getting Worse and It Could Trigger a Wall Street Nightmare - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.8903999328613281,
+            "score": 0.955396831035614,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Reddit stock plunges 29.2% as Google AI cuts US traffic - TheStreet",
+            "title": "Reddit (and everyone else) faces a bleak internet without Google traffic - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9519606828689575,
+            "score": 0.7505859136581421,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -309,28 +324,10 @@
             ]
         },
         {
-            "title": "Rating agency Fitch hits France with unscheduled outlook downgrade - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9659445285797119,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "In Biden's First Halloween In Office, A 100-Piece Bag Of Candy Cost $9.91, A Study Found. This Year It's $16.96, And Government Data Shows Candy Prices Rose 7.7% In A Year, More Than Double Overall Inflation - 24/7 Wall St.",
+            "title": "In Biden\u2019s First Halloween In Office, A 100-Piece Bag Of Candy Cost $9.91, A Study Found. This Year It\u2019s $16.96, And Government Data Shows Candy Prices Rose 7.7% In A Year, More Than Double Overall Inflation - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.7172218561172485,
+            "score": 0.7190253734588623,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Citing 'challenging operating environment,' Alaska Airlines to lay off about 200 employees - KING5.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9371625781059265,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
