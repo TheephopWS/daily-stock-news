@@ -1,9 +1,61 @@
 {
-    "last_updated": "2026-11-03 09:27:38 UTC",
-    "total_articles": 29,
-    "bullish_articles": 5,
-    "bearish_articles": 24,
+    "last_updated": "2026-11-03 12:31:05 UTC",
+    "total_articles": 26,
+    "bullish_articles": 6,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8850236535072327,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "She quit her job, then her offer was rescinded. Now she's rethinking what job security looks like. - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.8061646819114685,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US Stocks Halt Selloff as Oil Prices Retreat: Markets Wrap - Bloomberg",
+            "sentiment": "POSITIVE",
+            "score": 0.9256485104560852,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Goldman Sachs Raises December Brent Oil Price Forecast to $105 - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9073241353034973,
+            "signal": "BULLISH",
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": "GS",
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "China Stocks Rise on Report of Regulator Market Support Meeting - Bloomberg",
             "sentiment": "POSITIVE",
@@ -14,9 +66,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Oil prices fall amid reports that the U.S. and Iran are both seeking diplomacy - CNBC",
+            "title": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9718138575553894,
+            "score": 0.9718486666679382,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -49,19 +101,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Suit: ChatGPT Killed Our Daughter With Bad Meds Advice - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.9073405861854553,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Wash Trades and 5,000% Gains: Inside Indonesia\u2019s MSCI Hustle - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8537492752075195,
-            "signal": "BEARISH",
+            "title": "Companies Have a Solution for the Skilled Trade Shortage: More Women - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.7735891342163086,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -70,15 +113,6 @@
             "title": "California school staffers busted in $300K embezzlement scheme after massive Costco breakfast order blew their cover - New York Post",
             "sentiment": "NEGATIVE",
             "score": 0.9378582239151001,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why are San Antonio drivers waiting hours for emissions tests? - MySA",
-            "sentiment": "NEGATIVE",
-            "score": 0.9670580625534058,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -103,6 +137,24 @@
             "ticker_impacts": []
         },
         {
+            "title": "Everything changed for the oil, AI and bond trades over the past month - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9599666595458984,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Junk debt rout sparks \u2018bloodbath\u2019 for credit investors - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9378498196601868,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again - Bloomberg",
             "sentiment": "NEGATIVE",
             "score": 0.8631640672683716,
@@ -110,32 +162,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic\u2019s $2T IPO could create millionaires\u2014but it\u2019s asking candidates what they\u2019d do if stock hit zero - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9204761981964111,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tesla China EV Rivals BYD, Xiaomi, XPeng Report Strong Sales As Year-End Push Begins - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9556757211685181,
-            "signal": "BULLISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Saudi Economy Shrank at Slower Pace Before Houthi Escalation - Bloomberg",
@@ -151,6 +177,15 @@
             "sentiment": "NEGATIVE",
             "score": 0.9127650856971741,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US critical minerals push delivers a gold rush \u2014 for Washington lobbyists - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8911467790603638,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -174,23 +209,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Alphabet Says Its AI Spending Will Keep Rising. 2 Data Center Stocks to Buy and Hold Through 2030. - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.7454507946968079,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Why Wendy\u2019s is losing the burger wars\u2014and is now a takeover target for Nelson Peltz - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.9615032076835632,
@@ -200,27 +218,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Companies promised AI gains \u2014 here's how the payoff showed up in earnings - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9334315061569214,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil majors resist pressure to invest in new refineries as fuel prices keep rising - Financial Times",
+            "title": "Judge won't dismiss McRib class-action lawsuit against McDonald's - USA Today",
             "sentiment": "NEGATIVE",
-            "score": 0.9456896781921387,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Germany fails to meet gas storage target as winter approaches - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9535233378410339,
+            "score": 0.9418800473213196,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -231,24 +231,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9465510249137878,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX Stock Fell Below Its IPO Price, But Binance\u2019s CZ Is Bullish - BeInCrypto",
-            "sentiment": "NEGATIVE",
-            "score": 0.9690797328948975,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "McDonald's must face lawsuit alleging McRib contains no rib meat - upi",
-            "sentiment": "NEGATIVE",
-            "score": 0.9243856072425842,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -277,19 +259,19 @@
             "score": 0.9469678997993469,
             "signal": "BEARISH",
             "tickers": [
-                "INTC",
                 "GOOGL",
+                "INTC",
                 "AMZN"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "medium"
                 },
@@ -299,15 +281,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "In Biden\u2019s First Halloween In Office, A 100-Piece Bag Of Candy Cost $9.91, A Study Found. This Year It\u2019s $16.96, And Government Data Shows Candy Prices Rose 7.7% In A Year, More Than Double Overall Inflation - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.7190253734588623,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
