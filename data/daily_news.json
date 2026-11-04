@@ -1,9 +1,35 @@
 {
-    "last_updated": "2026-11-04 03:27:55 UTC",
+    "last_updated": "2026-11-04 06:34:43 UTC",
     "total_articles": 31,
-    "bullish_articles": 8,
-    "bearish_articles": 23,
+    "bullish_articles": 7,
+    "bearish_articles": 24,
     "articles": [
+        {
+            "title": "Australia hikes rates to 18-year high to fight inflation - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9272143840789795,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Disney To Undergo More Layoffs With Divisions Eyeing Up To 20% In Cost Savings - Deadline",
+            "sentiment": "NEGATIVE",
+            "score": 0.8119369149208069,
+            "signal": "BEARISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Dow Jones Futures: AI Trade Dives As Apple Tumbles On Earnings; Midterm Elections Next - Investor's Business Daily",
             "sentiment": "NEGATIVE",
@@ -22,15 +48,6 @@
             ]
         },
         {
-            "title": "Prediction Markets Kalshi and Polymarket Forecast Trump\u2019s Worst Nightmare - The Daily Beast",
-            "sentiment": "NEGATIVE",
-            "score": 0.8686710596084595,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "North Korea denies being behind record $6.3bn Binance hack - BBC",
             "sentiment": "NEGATIVE",
             "score": 0.9452432990074158,
@@ -38,23 +55,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Disney Eyes Thousands of Layoffs, With Managers Asked to Cut 20% - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9487047791481018,
-            "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Meeting the demand: More nonstop flights are coming between Maine and California - WMTW",
@@ -146,6 +146,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "The Intel stock collapse is getting worse \u2014 and the $3.7 trillion chip rout is spreading - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9430730938911438,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "US Tech Stocks Enter Correction on AI and Midterm Election Risks - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.971589207649231,
@@ -172,26 +189,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meta delays new business terms after outcry over potential web scraping of news sites - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9527950882911682,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": "META",
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Feeling isolated? Half of in-office workers describe their desk jobs as 'remote,' NY Fed survey finds - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9337067008018494,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Alabama Woman Hit With Beautiful Karma After Taking Almost Entire Bowl Of Halloween Candy And Lying About It - Bored Panda",
+            "sentiment": "NEGATIVE",
+            "score": 0.8201050758361816,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -205,23 +214,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Intel foundry push faces critical test after stock's 45% plunge in October - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9487168192863464,
-            "signal": "BULLISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Snap settles with two teens during trial testing claims social media caused depression, eating disorders - NBC News",
@@ -256,18 +248,18 @@
             "score": 0.9568054676055908,
             "signal": "BEARISH",
             "tickers": [
-                "INTC",
-                "AMD"
+                "AMD",
+                "INTC"
             ],
-            "primary_ticker": "INTC",
+            "primary_ticker": "AMD",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMD",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -309,18 +301,18 @@
             ]
         },
         {
-            "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.904131293296814,
-            "signal": "BULLISH",
+            "title": "Outback Steakhouse Franchisee Files Bankruptcy After Costs Swell - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9583624601364136,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "China Stocks Rise on Report of Regulator Market Support Meeting - Bloomberg.com",
+            "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.9241582155227661,
+            "score": 0.904131293296814,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
