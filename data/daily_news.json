@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-11-04 18:28:18 UTC",
-    "total_articles": 33,
-    "bullish_articles": 8,
-    "bearish_articles": 25,
+    "last_updated": "2026-11-04 21:27:45 UTC",
+    "total_articles": 28,
+    "bullish_articles": 10,
+    "bearish_articles": 18,
     "articles": [
         {
             "title": "Stock Market Today: Dow Opens Lower; Apple Stock Falls After Earnings Disappoint - WSJ",
@@ -22,9 +22,105 @@
             ]
         },
         {
-            "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report - CNBC",
+            "title": "AMD stock rises after Q3 earnings beat, as data center revenue climbs 97% - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9232707619667053,
+            "score": 0.9253391027450562,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "JetBlue raises bag fees for third time in a year as fuel costs bite - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9227773547172546,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nearly $1.9 billion traded on midterms in booming prediction markets - The Washington Post",
+            "sentiment": "POSITIVE",
+            "score": 0.8420466780662537,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US Stocks Waver as Election, AI Bubble Risks Weigh on Outlook - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9064602255821228,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Anthropic is still grappling with the economics of compute - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9661457538604736,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20% - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.965941309928894,
+            "signal": "BEARISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Brent Flash Crashes $6 Before Rebounding Towards $104 - Crude Oil Prices Today | OilPrice.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9573109149932861,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Job openings and hiring edged higher in September, but it's still a 'low hire, low fire' market - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.7654650807380676,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Pfizer Bets on Cancer and Weight-Loss Drugs in Post-Pandemic Second Act - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9301420450210571,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -38,6 +134,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Analysts downgrade Marvell and slash price targets over Lumentum deal - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9679182767868042,
+            "signal": "BEARISH",
+            "tickers": [
+                "BAC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "BAC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "UK will face AI cyberattacks on critical infrastructure by 2028, official says - AP News",
@@ -66,23 +179,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Apple CEO John Ternus criticized for \u2018scripted\u2019 approach to first earnings call - 9to5Mac",
-            "sentiment": "NEGATIVE",
-            "score": 0.9028164744377136,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9713718295097351,
@@ -101,15 +197,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.8372777700424194,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "China halts listings in bid to bolster struggling markets - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9632532000541687,
@@ -119,26 +206,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Disney Expected to Lay Off Thousands of Staffers in Biggest Round of Cuts This Year - Variety",
-            "sentiment": "NEGATIVE",
-            "score": 0.9706833958625793,
-            "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Anthropic Claims to Be Near Recursive Self-Improvement - Gizmodo",
             "sentiment": "POSITIVE",
-            "score": 0.743184506893158,
+            "score": 0.7431849241256714,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -147,7 +217,7 @@
         {
             "title": "Gas prices are set to be highest for any Election Day in U.S. history - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8491279482841492,
+            "score": 0.8491285443305969,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -156,7 +226,7 @@
         {
             "title": "Australia hikes rates to 18-year high to fight inflation - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9272143840789795,
+            "score": 0.927214503288269,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -182,42 +252,7 @@
         {
             "title": "Coast Guard detains cruise ship in Miami, officials say - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9609463214874268,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Exclusive: Salesforce Acquires Startup Cresta for $2.7 Billion - The Information",
-            "sentiment": "POSITIVE",
-            "score": 0.7222817540168762,
-            "signal": "BULLISH",
-            "tickers": [
-                "CRM"
-            ],
-            "primary_ticker": "CRM",
-            "ticker_impacts": [
-                {
-                    "ticker": "CRM",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Marvell, Lumentum tout historic $115B deal to create \u2018category leader\u2019 in AI connectivity - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.8281944990158081,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market Today: S&P 500, Nasdaq close lower as tech selloff deepens, but Dow rises and oil prices drop - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9713752269744873,
+            "score": 0.9609464406967163,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -226,123 +261,63 @@
         {
             "title": "Approval of a cheap version of HIV-prevention shot lenacapavir raises hopes in low-income countries - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.9042167067527771,
+            "score": 0.9042167663574219,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "MTA should eliminate some jobs to prepare for budget woes, watchdog writes - Gothamist",
+            "title": "Nasdaq 100 Enters Correction as Megacap Results Amplify AI Fears - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9121314883232117,
+            "score": 0.9725322723388672,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Intel foundry push faces critical test after stock's 45% plunge in October - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9487168192863464,
-            "signal": "BULLISH",
             "tickers": [
                 "INTC"
             ],
-            "primary_ticker": "INTC",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
                     "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "high"
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Snap settles with two teens during trial testing claims social media caused depression, eating disorders - NBC News",
+            "title": "Alabama Woman Hit With Beautiful Karma After Taking Almost Entire Bowl Of Halloween Candy And Lying About It - Bored Panda",
             "sentiment": "NEGATIVE",
-            "score": 0.8605198264122009,
+            "score": 0.8201051354408264,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The S&P 500 Turns Red. It's on Track for Worst Intraday Reversal in Nearly a Year. - Barron's",
+            "title": "Gold and silver selloff is the buying opportunity of a lifetime - Bawden Capital - Kitco",
             "sentiment": "NEGATIVE",
-            "score": 0.948442816734314,
+            "score": 0.9526169896125793,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Dow Rebounds After Friday\u2019s Selloff as Oil Slides - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8303962349891663,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. Treasury, European Bond Yields Fall as Oil Prices Drop - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9026273488998413,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AMD to report Q3 results following disappointing showing from Intel - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9568054676055908,
-            "signal": "BEARISH",
+            "title": "Manufacturing sector marks 10 straight months of growth ahead of midterms - The Hill",
+            "sentiment": "POSITIVE",
+            "score": 0.941193699836731,
+            "signal": "BULLISH",
             "tickers": [
-                "INTC",
-                "AMD"
+                "PMI"
             ],
-            "primary_ticker": "INTC",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "ticker": "PMI",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Micron Stock Needs Markets to Clear These 3 Hurdles - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9718543887138367,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.9036777019500732,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic posts $17B quarterly revenue but losses continue in fresh IPO filing - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8096218705177307,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Berkshire Hathaway\u2019s Alphabet Loss Exposes Weak Stock-Picking Record - Barron's",
@@ -360,24 +335,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Outback Steakhouse Franchisee Files Bankruptcy After Costs Swell - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9583624601364136,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.904131293296814,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
