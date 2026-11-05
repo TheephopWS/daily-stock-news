@@ -1,25 +1,96 @@
 {
-    "last_updated": "2026-11-05 12:32:23 UTC",
-    "total_articles": 24,
-    "bullish_articles": 11,
-    "bearish_articles": 13,
+    "last_updated": "2026-11-05 15:27:19 UTC",
+    "total_articles": 27,
+    "bullish_articles": 10,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "SpaceX, Tesla fall around 4% on Democrats' big win; AI stocks mixed - CNBC",
+            "title": "Oil Prices Fall as Investors Weigh U.S. Midterm Results, Iran Risks - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9484534859657288,
+            "score": 0.845247745513916,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9437634944915771,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "McDonald\u2019s Q3 sales seen slowing as spending cools, now value, drinks in focus - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9687000513076782,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Canva lays off over 1,200 people amid slowing growth - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9716013669967651,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AI Data Center Boom Set for Upheaval After US Election Rout - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9589710831642151,
             "signal": "BEARISH",
             "tickers": [
-                "TSLA"
+                "INTC"
             ],
-            "primary_ticker": "TSLA",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "TSLA",
+                    "ticker": "INTC",
                     "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Semiconductor Sell-Off: The Best Chip Stocks to Buy Right Now Before They Skyrocket Once Again - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.9302520155906677,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9193006157875061,
+            "signal": "BULLISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "'Worst Possible Combination:' Top Analyst Warns of Trump White House With Democratic Congress \u2014 Here's Wh - Benzinga",
+            "sentiment": "NEGATIVE",
+            "score": 0.9146586656570435,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off - CNBC",
@@ -89,31 +160,27 @@
             ]
         },
         {
-            "title": "Pfizer CEO Says Covid Is \u2018Irrelevant.\u2019 He\u2019s Betting on Cancer and Weight-Loss Drugs. - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.8094420433044434,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Paraguay seizes major digital bank tied to president, leaving millions of customers in limbo - AP News",
+            "title": "Google will block search access for schools that ban AI use - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9519656300544739,
+            "score": 0.8466335535049438,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "McDonald\u2019s Q3 sales seen slowing as spending cools, now value, drinks in focus - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9687000513076782,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "GOOGL",
+                "AMD"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "US tech giants' hidden AI debt swells 90% to $3.2tn in 6 months - Nikkei Asia",
@@ -157,10 +224,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "AI inference startup Fal doubles its valuation to $16B as demand surges - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.9334282875061035,
-            "signal": "BULLISH",
+            "title": "Servier\u2019s $1.5B bet on Edgewise drug fails five months in - Endpoints News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9652010798454285,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -175,10 +242,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nearly $1.9 billion traded on midterms in booming prediction markets - The Washington Post",
+            "title": "AI Inference Startup Fal Raises Capital at $16 Billion Valuation - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.8420466780662537,
+            "score": 0.9191483855247498,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Anthropic is still grappling with the economics of compute - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.9661457538604736,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -218,23 +294,6 @@
             ]
         },
         {
-            "title": "Analysts downgrade Marvell and slash price targets over Lumentum deal - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9679182767868042,
-            "signal": "BEARISH",
-            "tickers": [
-                "BAC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "BAC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "UK will face AI cyberattacks on critical infrastructure by 2028, official says - AP News",
             "sentiment": "NEGATIVE",
             "score": 0.8771098852157593,
@@ -261,35 +320,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Australia hikes rates to 18-year high to fight inflation - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.927214503288269,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Apple\u2019s inventory surges 154% as memory chip costs climb - TechCrunch",
-            "sentiment": "POSITIVE",
-            "score": 0.8494882583618164,
-            "signal": "BULLISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Gold and silver selloff is the buying opportunity of the decade - Bawden Capital - Kitco",
+            "title": "Gold and silver selloff is the buying opportunity of a lifetime - Bawden Capital - Kitco",
             "sentiment": "NEGATIVE",
-            "score": 0.9599136114120483,
+            "score": 0.9526169896125793,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
