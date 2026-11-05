@@ -1,31 +1,92 @@
 {
-    "last_updated": "2026-11-05 15:27:19 UTC",
-    "total_articles": 27,
+    "last_updated": "2026-11-05 18:29:23 UTC",
+    "total_articles": 30,
     "bullish_articles": 10,
-    "bearish_articles": 17,
+    "bearish_articles": 20,
     "articles": [
         {
-            "title": "Oil Prices Fall as Investors Weigh U.S. Midterm Results, Iran Risks - WSJ",
+            "title": "Oil tumbles below $100 on post-election peace hopes - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.845247745513916,
+            "score": 0.945245623588562,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says - CNBC",
+            "title": "Private sector added 86,000 jobs in October, above expectations, ADP says - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9464356303215027,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Russian hacktivists say they were behind freezer hacks, but speculation remains - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9313668608665466,
+            "signal": "BEARISH",
+            "tickers": [
+                "EFS"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "EFS",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Bank That Counts 60% of One Nation as Customers Just Failed - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.8978999853134155,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Datadog Earnings Top Views. Shares Plunge On Weak Sales Outlook. - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9681847095489502,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9437634944915771,
+            "score": 0.9259645342826843,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "McDonald\u2019s Q3 sales seen slowing as spending cools, now value, drinks in focus - Yahoo Finance",
+            "title": "AMD beats Q3 earnings expectations, with data center revenue climbing 97% - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9489032030105591,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Mortgage rates drop for the third straight week, but homebuyers are still leaving the market - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9687000513076782,
+            "score": 0.9741337895393372,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -41,26 +102,65 @@
             "ticker_impacts": []
         },
         {
-            "title": "AI Data Center Boom Set for Upheaval After US Election Rout - Bloomberg.com",
+            "title": "U.S. cruise ship departs Cambodia with no passengers after abruptly forcing everyone to disembark - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9589710831642151,
+            "score": 0.9641386866569519,
             "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
+            "tickers": [],
             "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Jim Cramer Sees These 'Non-Magnificent' Tech Stocks Emerging as Market Leaders While Nvidia, Microsoft St - Benzinga",
+            "sentiment": "POSITIVE",
+            "score": 0.9018035531044006,
+            "signal": "BULLISH",
+            "tickers": [
+                "MSFT",
+                "NVDA",
+                "AMD"
+            ],
+            "primary_ticker": "MSFT",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
-                    "impact": "negative",
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Semiconductor Sell-Off: The Best Chip Stocks to Buy Right Now Before They Skyrocket Once Again - The Motley Fool",
+            "title": "Ultragenyx shrinks workforce and axes assets to halve R&D spend - Fierce Biotech",
+            "sentiment": "NEGATIVE",
+            "score": 0.9485291838645935,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Novo Nordisk Lifts Guidance as Rollout of Wegovy Weight-Loss Pill Continues - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9302520155906677,
+            "score": 0.9378270506858826,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China Boosts Market Defense With National Team Buying, Buybacks - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.928297221660614,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -69,7 +169,7 @@
         {
             "title": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9193006157875061,
+            "score": 0.9193004965782166,
             "signal": "BULLISH",
             "tickers": [
                 "META"
@@ -84,27 +184,9 @@
             ]
         },
         {
-            "title": "'Worst Possible Combination:' Top Analyst Warns of Trump White House With Democratic Congress \u2014 Here's Wh - Benzinga",
+            "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9146586656570435,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.96790611743927,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How malware and a bogus job interview let attackers nab $6.3B from Binance - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.7400859594345093,
+            "score": 0.944914698600769,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -120,86 +202,55 @@
             "ticker_impacts": []
         },
         {
-            "title": "AMD Stock Jumps on Big Earnings Beat - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.939636766910553,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMD"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Rising food costs prompt big Outback Steakhouse franchisee to file for bankruptcy - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9553967714309692,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - AP News",
             "sentiment": "POSITIVE",
-            "score": 0.893680214881897,
+            "score": 0.8936800956726074,
             "signal": "BULLISH",
             "tickers": [
-                "AAPL",
-                "NVDA"
+                "NVDA",
+                "AAPL"
             ],
-            "primary_ticker": "AAPL",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Google will block search access for schools that ban AI use - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8466335535049438,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL",
-                "AMD"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
                 },
                 {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "medium"
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
                 }
             ]
         },
         {
             "title": "US tech giants' hidden AI debt swells 90% to $3.2tn in 6 months - Nikkei Asia",
             "sentiment": "POSITIVE",
-            "score": 0.8858099579811096,
+            "score": 0.8858097791671753,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL",
-                "META"
+                "META",
+                "GOOGL"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "META",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "META",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -208,7 +259,7 @@
         {
             "title": "Kirkland Gets Closer to Hiring Weil's Ramona Nee, Along With 20-Member Team - Law.com",
             "sentiment": "POSITIVE",
-            "score": 0.8485665917396545,
+            "score": 0.8485662937164307,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -224,28 +275,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Servier\u2019s $1.5B bet on Edgewise drug fails five months in - Endpoints News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9652010798454285,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Shopify Stock Falls as Slowing Merchandise Sales Flash a Warning Sign - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.9738057255744934,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AI Inference Startup Fal Raises Capital at $16 Billion Valuation - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9191483855247498,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -262,7 +295,7 @@
         {
             "title": "Disney\u2019s Year Of Cuts Continues With Thousands More Layoffs Expected - Cartoon Brew",
             "sentiment": "NEGATIVE",
-            "score": 0.9067701101303101,
+            "score": 0.906769871711731,
             "signal": "BEARISH",
             "tickers": [
                 "DIS"
@@ -277,9 +310,18 @@
             ]
         },
         {
+            "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9232707619667053,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Apple\u2019s \u2019unprecedented\u2019 memory warning adds fuel to wobbly Micron, SK hynix trade - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7355432510375977,
+            "score": 0.7355442047119141,
             "signal": "BEARISH",
             "tickers": [
                 "AAPL"
@@ -311,28 +353,10 @@
             ]
         },
         {
-            "title": "Anthropic Claims to Be Near Recursive Self-Improvement - Gizmodo",
-            "sentiment": "POSITIVE",
-            "score": 0.7431849241256714,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gold and silver selloff is the buying opportunity of a lifetime - Bawden Capital - Kitco",
+            "title": "U.S. Loses $35.1 Billion From Its Bet On Intel's Imploding Stock - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9526169896125793,
+            "score": 0.9693787097930908,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Intel foundry push faces critical test after stock's 45% plunge in October - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9487168192863464,
-            "signal": "BULLISH",
             "tickers": [
                 "INTC"
             ],
@@ -340,7 +364,24 @@
             "ticker_impacts": [
                 {
                     "ticker": "INTC",
-                    "impact": "positive",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk Fires Back at Democrat James Talarico Over Tesla Loan - Tesla (NASDAQ:TSLA) - Benzinga",
+            "sentiment": "NEGATIVE",
+            "score": 0.9501058459281921,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
