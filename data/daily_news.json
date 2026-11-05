@@ -1,22 +1,13 @@
 {
-    "last_updated": "2026-11-05 03:28:30 UTC",
-    "total_articles": 29,
-    "bullish_articles": 11,
-    "bearish_articles": 18,
+    "last_updated": "2026-11-05 06:35:02 UTC",
+    "total_articles": 22,
+    "bullish_articles": 10,
+    "bearish_articles": 12,
     "articles": [
         {
             "title": "How malware and a bogus job interview let attackers nab $6.3B from Binance - The Washington Post",
             "sentiment": "NEGATIVE",
             "score": 0.7400859594345093,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market Today: Stock Futures Drop as Investors Weigh Potential Democratic Gains - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9539353847503662,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -40,10 +31,33 @@
             ]
         },
         {
-            "title": "CVS Health moves to dismantle $117bn healthcare empire - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8999357223510742,
-            "signal": "BEARISH",
+            "title": "Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - AP News",
+            "sentiment": "POSITIVE",
+            "score": 0.893680214881897,
+            "signal": "BULLISH",
+            "tickers": [
+                "AAPL",
+                "NVDA"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Supermicro tops Q1 estimates, offers strong Q2 outlook - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9307661652565002,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -66,29 +80,6 @@
                 },
                 {
                     "ticker": "XOM",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Google will block search access for schools that ban AI use - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8466335535049438,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL",
-                "AMD"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -127,15 +118,6 @@
             ]
         },
         {
-            "title": "Kirkland Gets Closer to Hiring Weil's Ramona Nee, Along With 20-Member Team - Law.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8485665917396545,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Cruise canceled after U.S. Coast Guard detains MSC ship in Florida - WFLA",
             "sentiment": "NEGATIVE",
             "score": 0.9491927623748779,
@@ -154,9 +136,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why the Anthropic IPO 'could be the swing vote' for Wall Street bank stocks - Yahoo Finance",
+            "title": "Anthropic is still grappling with the economics of compute - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9220975041389465,
+            "score": 0.9661457538604736,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -172,31 +154,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling - Crude Oil Prices Today | OilPrice.com",
+            "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20% - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9224053621292114,
+            "score": 0.965941309928894,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oasis unloads on Vail Resorts in proxy fight, citing long lines, overcrowding, rising food prices - VailDaily.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8844127655029297,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Pfizer Bets on Cancer and Weight-Loss Drugs in Post-Pandemic Second Act - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9301420450210571,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Shopify Stock Plunges. Slowing Merchandise Sales Flash a Warning Sign. - Barron's",
@@ -268,58 +240,6 @@
             ]
         },
         {
-            "title": "'Quiet quitting' could be hitting the economy - here's why - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9593823552131653,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Disney Expected to Lay Off Thousands of Staffers in Biggest Round of Cuts This Year - Variety",
-            "sentiment": "NEGATIVE",
-            "score": 0.9706833958625793,
-            "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Anthropic Claims to Be Near Recursive Self-Improvement - Gizmodo",
-            "sentiment": "POSITIVE",
-            "score": 0.7431849241256714,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Dow Jones Futures: AI Trade Dives As Apple Tumbles On Earnings; Midterm Elections Next - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.8854791522026062,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Apple\u2019s inventory surges 154% as memory chip costs climb - TechCrunch",
             "sentiment": "POSITIVE",
             "score": 0.8494882583618164,
@@ -337,10 +257,10 @@
             ]
         },
         {
-            "title": "Approval of a cheap version of HIV-prevention shot lenacapavir raises hopes in low-income countries - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.9042167663574219,
-            "signal": "BULLISH",
+            "title": "Oil prices slide in biggest drop since July on hope for more Iran talks - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9482215642929077,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -370,6 +290,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Intel foundry push faces critical test after stock's 45% plunge in October - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9487168192863464,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
