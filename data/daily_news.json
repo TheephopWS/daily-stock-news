@@ -1,22 +1,48 @@
 {
-    "last_updated": "2026-11-05 09:27:57 UTC",
-    "total_articles": 23,
-    "bullish_articles": 12,
-    "bearish_articles": 11,
+    "last_updated": "2026-11-05 12:32:23 UTC",
+    "total_articles": 24,
+    "bullish_articles": 11,
+    "bearish_articles": 13,
     "articles": [
         {
-            "title": "How malware and a bogus job interview let attackers nab $6.3B from Binance - The Washington Post",
+            "title": "SpaceX, Tesla fall around 4% on Democrats' big win; AI stocks mixed - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7400863766670227,
+            "score": 0.9484534859657288,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.96790611743927,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Canva announces major job cuts after 'our hardest year yet' - BBC",
+            "title": "How malware and a bogus job interview let attackers nab $6.3B from Binance - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9524306058883667,
+            "score": 0.7400859594345093,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "5 tech stock stalwarts have tumbled over 50% - TheStreet",
+            "sentiment": "NEGATIVE",
+            "score": 0.9537777900695801,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -65,43 +91,20 @@
         {
             "title": "Pfizer CEO Says Covid Is \u2018Irrelevant.\u2019 He\u2019s Betting on Cancer and Weight-Loss Drugs. - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.8094423413276672,
+            "score": 0.8094420433044434,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Super Micro Reports Strong Earnings Beat. The Stock Pops. - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9458516836166382,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day - Investor's Business Daily",
+            "title": "Paraguay seizes major digital bank tied to president, leaving millions of customers in limbo - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9687281847000122,
+            "score": 0.9519656300544739,
             "signal": "BEARISH",
-            "tickers": [
-                "CVX",
-                "XOM"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "CVX",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "XOM",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "McDonald\u2019s Q3 sales seen slowing as spending cools, now value, drinks in focus - Yahoo Finance",
@@ -113,41 +116,23 @@
             "ticker_impacts": []
         },
         {
-            "title": "European supermarket fridges got hacked. Again. Here\u2019s what to know - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9487863183021545,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "JetBlue raises bag fees for third time in a year as fuel costs bite - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9227772355079651,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "US tech giants' hidden AI debt swells 90% to $3.2tn in 6 months - Nikkei Asia",
             "sentiment": "POSITIVE",
             "score": 0.8858099579811096,
             "signal": "BULLISH",
             "tickers": [
-                "META",
-                "GOOGL"
+                "GOOGL",
+                "META"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "META",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -156,7 +141,7 @@
         {
             "title": "Kirkland Gets Closer to Hiring Weil's Ramona Nee, Along With 20-Member Team - Law.com",
             "sentiment": "POSITIVE",
-            "score": 0.8485668897628784,
+            "score": 0.8485665917396545,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -172,22 +157,65 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nearly $1.9 billion traded on midterms in booming prediction markets - The Washington Post",
+            "title": "AI inference startup Fal doubles its valuation to $16B as demand surges - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.8420466184616089,
+            "score": 0.9334282875061035,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Shopify expects Q4 revenue growth in the low 30s, while outlining free cash flow margin in line with last year - Seeking Alpha",
+            "title": "Shopify Stock Falls as Slowing Merchandise Sales Flash a Warning Sign - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9738057255744934,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nearly $1.9 billion traded on midterms in booming prediction markets - The Washington Post",
             "sentiment": "POSITIVE",
-            "score": 0.9485267996788025,
+            "score": 0.8420466780662537,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Disney\u2019s Year Of Cuts Continues With Thousands More Layoffs Expected - Cartoon Brew",
+            "sentiment": "NEGATIVE",
+            "score": 0.9067701101303101,
+            "signal": "BEARISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Apple\u2019s \u2019unprecedented\u2019 memory warning adds fuel to wobbly Micron, SK hynix trade - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.7355432510375977,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Analysts downgrade Marvell and slash price targets over Lumentum deal - Yahoo Finance",
@@ -209,7 +237,7 @@
         {
             "title": "UK will face AI cyberattacks on critical infrastructure by 2028, official says - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.8771100640296936,
+            "score": 0.8771098852157593,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -224,9 +252,27 @@
             ]
         },
         {
-            "title": "Apple earnings suggest the iPhone 18 launch strategy is really working - 9to5Mac",
+            "title": "Anthropic Claims to Be Near Recursive Self-Improvement - Gizmodo",
             "sentiment": "POSITIVE",
-            "score": 0.8890573382377625,
+            "score": 0.7431849241256714,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Australia hikes rates to 18-year high to fight inflation - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.927214503288269,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Apple\u2019s inventory surges 154% as memory chip costs climb - TechCrunch",
+            "sentiment": "POSITIVE",
+            "score": 0.8494882583618164,
             "signal": "BULLISH",
             "tickers": [
                 "AAPL"
@@ -241,52 +287,9 @@
             ]
         },
         {
-            "title": "Disney Expected to Lay Off Thousands of Staffers in Biggest Round of Cuts This Year - Variety",
-            "sentiment": "NEGATIVE",
-            "score": 0.9706833958625793,
-            "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Anthropic Claims to Be Near Recursive Self-Improvement - Gizmodo",
-            "sentiment": "POSITIVE",
-            "score": 0.7431846857070923,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nasdaq 100 Enters Correction as Megacap Results Amplify AI Fears - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9725322723388672,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Gold and silver selloff is the buying opportunity of the decade - Bawden Capital - Kitco",
             "sentiment": "NEGATIVE",
-            "score": 0.9599137902259827,
+            "score": 0.9599136114120483,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
