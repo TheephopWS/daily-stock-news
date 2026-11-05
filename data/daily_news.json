@@ -1,30 +1,22 @@
 {
-    "last_updated": "2026-11-05 00:43:13 UTC",
-    "total_articles": 30,
-    "bullish_articles": 12,
+    "last_updated": "2026-11-05 03:28:30 UTC",
+    "total_articles": 29,
+    "bullish_articles": 11,
     "bearish_articles": 18,
     "articles": [
         {
-            "title": "Election Night: Tech Futures Rise On AMD, Arista, Supermicro (Live) - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9028290510177612,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMD"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "title": "How malware and a bogus job interview let attackers nab $6.3B from Binance - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.7400859594345093,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff - The Verge",
+            "title": "Stock Market Today: Stock Futures Drop as Investors Weigh Potential Democratic Gains - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9496621489524841,
+            "score": 0.9539353847503662,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -50,16 +42,62 @@
         {
             "title": "CVS Health moves to dismantle $117bn healthcare empire - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8999359607696533,
+            "score": 0.8999357223510742,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9687281847000122,
+            "signal": "BEARISH",
+            "tickers": [
+                "CVX",
+                "XOM"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "CVX",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "XOM",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Google will block search access for schools that ban AI use - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8466335535049438,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL",
+                "AMD"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "JetBlue raises bag fees for third time in a year as fuel costs bite - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9227772355079651,
+            "score": 0.9227773547172546,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -71,18 +109,18 @@
             "score": 0.8858099579811096,
             "signal": "BULLISH",
             "tickers": [
-                "META",
-                "GOOGL"
+                "GOOGL",
+                "META"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "META",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -91,7 +129,7 @@
         {
             "title": "Kirkland Gets Closer to Hiring Weil's Ramona Nee, Along With 20-Member Team - Law.com",
             "sentiment": "POSITIVE",
-            "score": 0.8485668897628784,
+            "score": 0.8485665917396545,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -100,7 +138,7 @@
         {
             "title": "Cruise canceled after U.S. Coast Guard detains MSC ship in Florida - WFLA",
             "sentiment": "NEGATIVE",
-            "score": 0.8381878733634949,
+            "score": 0.9491927623748779,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -109,7 +147,7 @@
         {
             "title": "Nearly $1.9 billion traded on midterms in booming prediction markets - The Washington Post",
             "sentiment": "POSITIVE",
-            "score": 0.8420466184616089,
+            "score": 0.8420466780662537,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -136,7 +174,7 @@
         {
             "title": "Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling - Crude Oil Prices Today | OilPrice.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9224051833152771,
+            "score": 0.9224053621292114,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -145,33 +183,16 @@
         {
             "title": "Oasis unloads on Vail Resorts in proxy fight, citing long lines, overcrowding, rising food prices - VailDaily.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8844126462936401,
+            "score": 0.8844127655029297,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20% - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.965941309928894,
-            "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Pfizer Bets on Cancer and Weight-Loss Drugs in Post-Pandemic Second Act - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9301421642303467,
+            "score": 0.9301420450210571,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -206,7 +227,7 @@
         {
             "title": "UK will face AI cyberattacks on critical infrastructure by 2028, official says - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.8771100640296936,
+            "score": 0.8771098852157593,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -230,18 +251,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Chicago parking strike begins; disruptions possible at airports, hotels, major events - NBC 5 Chicago",
-            "sentiment": "NEGATIVE",
-            "score": 0.9163385033607483,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Apple earnings suggest the iPhone 18 launch strategy is really working - 9to5Mac",
             "sentiment": "POSITIVE",
-            "score": 0.8890573382377625,
+            "score": 0.8890575170516968,
             "signal": "BULLISH",
             "tickers": [
                 "AAPL"
@@ -265,18 +277,26 @@
             "ticker_impacts": []
         },
         {
-            "title": "China halts listings in bid to bolster struggling markets - Financial Times",
+            "title": "Disney Expected to Lay Off Thousands of Staffers in Biggest Round of Cuts This Year - Variety",
             "sentiment": "NEGATIVE",
-            "score": 0.9632532000541687,
+            "score": 0.9706833958625793,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Australia hikes rates to 18-year high to fight inflation - CNBC",
+            "title": "Anthropic Claims to Be Near Recursive Self-Improvement - Gizmodo",
             "sentiment": "POSITIVE",
-            "score": 0.927214503288269,
+            "score": 0.7431849241256714,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -343,18 +363,9 @@
             ]
         },
         {
-            "title": "Alabama Woman Hit With Beautiful Karma After Taking Almost Entire Bowl Of Halloween Candy And Lying About It - Bored Panda",
+            "title": "Gold and silver selloff is the buying opportunity of the decade - Bawden Capital - Kitco",
             "sentiment": "NEGATIVE",
-            "score": 0.8201050162315369,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gold and silver selloff is the buying opportunity of a lifetime - Bawden Capital - Kitco",
-            "sentiment": "NEGATIVE",
-            "score": 0.9526168704032898,
+            "score": 0.9599136114120483,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
