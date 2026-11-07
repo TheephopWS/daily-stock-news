@@ -1,9 +1,70 @@
 {
-    "last_updated": "2026-11-07 12:29:03 UTC",
-    "total_articles": 33,
-    "bullish_articles": 10,
-    "bearish_articles": 23,
+    "last_updated": "2026-11-07 15:26:49 UTC",
+    "total_articles": 30,
+    "bullish_articles": 12,
+    "bearish_articles": 18,
     "articles": [
+        {
+            "title": "Stock market today: Nasdaq futures rebound after brutal sell-off, Dow and S&P 500 wobble as US adds 165K jobs - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9652398228645325,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Anthropic IPO Valuation Expectations Pressured After AI Rout - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9715657830238342,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Moderna swings to profit as momentum for cancer vaccine builds - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.9135341644287109,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why Amazon and Other AI Data-Center Stocks Will Be Post-Midterm Winners - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9495298266410828,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Global market rout deepens after midterms intensify AI fears - NBC News",
+            "sentiment": "POSITIVE",
+            "score": 0.7501094937324524,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Mystery Seller Seeks to Dump $500 Million of Data Center Loans - Bloomberg.com",
             "sentiment": "NEGATIVE",
@@ -14,28 +75,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nikkei Falls 6.0%, Posts Biggest Loss in 1.5 Years - WSJ",
+            "title": "\u2018The nail that sticks out gets hammered first\u2019: Elon Musk\u2019s net worth falls $113 billion from Tesla and SpaceX drops - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.9590498805046082,
+            "score": 0.9483609199523926,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Japanese stocks post biggest one-day fall since \u2018liberation day\u2019 chaos - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9624402523040771,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Data centers took a beating in the midterm elections. A reckoning may be ahead for tech giants - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7735439538955688,
-            "signal": "BEARISH",
+            "title": "The world's best airline is updating its business and first-class experience - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7170093655586243,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -50,15 +110,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Global tech stocks plunge as US midterms add to AI slowdown fears - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9692765474319458,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Retail traders dump $257 million in stocks in 5th biggest selling day since 2020 - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9587003588676453,
@@ -66,6 +117,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "$11.4 million shipment of Nvidia cargo stolen from Oakland, Calif. - ABC7 Bay Area",
+            "sentiment": "NEGATIVE",
+            "score": 0.9544250965118408,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Exclusive | Hedge Funds Dump Positions and Cut Staff as Selloff Deepens - WSJ",
@@ -86,13 +154,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request - CNBC",
+            "title": "Cathie Wood Sells $12.8 Million Of Alphabet, Days After The Stock Suffered Its Worst Day Since Its 2004 IPO, Losing Nearly Half A Trillion Dollars In Market Value - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.9597830176353455,
+            "score": 0.9306676387786865,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "MP Materials Rare-Earth Earnings Were Rock Solid. What\u2019s Up With the Stock? - Barron's",
@@ -102,23 +178,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia Stock Is Below $200. What History Suggests Is the Floor. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9139302968978882,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Gas prices could soon dip below $4 a gallon. So why are fuel costs falling? - CBS News",
@@ -156,27 +215,9 @@
             ]
         },
         {
-            "title": "Bay Area AI stocks plunge after data center voter backlash in worst trading day since April 2025 - San Francisco Chronicle",
-            "sentiment": "NEGATIVE",
-            "score": 0.9192039966583252,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Marvell Just Dropped 49% in a Month: Is MRVL Stock Hopeless or Ready for a Rebound? - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
             "score": 0.9606789350509644,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Truth Social's Stock Price Can't Seem to Stop Falling After Trump's Brutal Defeat in the Midterms - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.9735723733901978,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -187,15 +228,6 @@
             "sentiment": "NEGATIVE",
             "score": 0.9454649090766907,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "McDonald's plans new value menu offerings next year to boost sluggish sales - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.8123712539672852,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -218,15 +250,6 @@
             ]
         },
         {
-            "title": "Wall Street Is Already Bracing for a 2027 Debt Ceiling Fight - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.9521685838699341,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Thicker bacon and ditching breakfast. Wendy\u2019s hopes a menu shakeup can revive sales - CNN",
             "sentiment": "NEGATIVE",
             "score": 0.9708918929100037,
@@ -245,45 +268,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Berkshire Hathaway Stock Has Surged. Can Earnings Keep the Rally Going? - Barron's",
+            "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery - TechCrunch",
             "sentiment": "POSITIVE",
-            "score": 0.8703011870384216,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Amazon Adds Uber Food Delivery Perks for Prime Subscribers - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7998819351196289,
+            "score": 0.9373653531074524,
             "signal": "BULLISH",
             "tickers": [
-                "UBER",
-                "AMZN"
+                "WMT"
             ],
-            "primary_ticker": "UBER",
+            "primary_ticker": "WMT",
             "ticker_impacts": [
                 {
-                    "ticker": "UBER",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMZN",
+                    "ticker": "WMT",
                     "impact": "positive",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "John Deere Announces Iowa Plant Closures, Production Moves Through 2029 - DTN Progressive Farmer",
-            "sentiment": "NEGATIVE",
-            "score": 0.8998300433158875,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "First-time homebuyers remain scarce, but a record share of them pay all cash - NPR",
@@ -304,9 +303,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "2 arrested after children obtain mushroom gummies on Halloween in Ocean Beach - NBC 7 San Diego",
+            "title": "Beyond statins, one drug lowered heart attack risk by 20% - STAT",
+            "sentiment": "POSITIVE",
+            "score": 0.7823101282119751,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US weekly jobless claims at 57-year lows amid low layoffs - Yahoo! Finance Canada",
             "sentiment": "NEGATIVE",
-            "score": 0.8648175001144409,
+            "score": 0.9750837087631226,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -322,19 +330,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "World\u2019s most valuable company targeted by bandits for $11.4M shipment as truck vanishes in California - New York Post",
+            "title": "Oil prices plunge after Vance post on Iran war - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.9070467948913574,
+            "score": 0.9533095359802246,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "3M agrees to pay more than $7 billion to settle 'forever chemical' groundwater contamination claims - AP News",
-            "sentiment": "POSITIVE",
-            "score": 0.8281111717224121,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
