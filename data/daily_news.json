@@ -1,22 +1,88 @@
 {
-    "last_updated": "2026-11-08 00:45:46 UTC",
-    "total_articles": 26,
-    "bullish_articles": 8,
-    "bearish_articles": 18,
+    "last_updated": "2026-11-08 03:28:29 UTC",
+    "total_articles": 22,
+    "bullish_articles": 6,
+    "bearish_articles": 16,
     "articles": [
         {
-            "title": "US Stock Rout Pauses as Dip Buyers Offer Support: Markets Wrap - Bloomberg.com",
+            "title": "Here\u2019s what\u2019s at stake for the economy if AI investment falters - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9596419334411621,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "A Retiree Who Bought 1,000 Oracle Shares at $39 Just Watched Microsoft Walk Away - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.7157343029975891,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk Is Killing the Cybertruck. What It Means for Tesla Stock. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.851037859916687,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020 - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9156785607337952,
+            "score": 0.7683682441711426,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMD",
+                "NVDA"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.740938127040863,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation - Financial Times",
+            "title": "We Energies rate hike approved, customers to pay more in 2027 and 2028 - WISN",
             "sentiment": "POSITIVE",
-            "score": 0.7409375309944153,
+            "score": 0.9059129357337952,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,7 +91,7 @@
         {
             "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.9464127421379089,
+            "score": 0.9464128613471985,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -42,46 +108,22 @@
         {
             "title": "ChatGPT \u2018manipulated and encouraged\u2019 a woman in her plot to poison her husband, suit alleges - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.7045255303382874,
+            "score": 0.7045254111289978,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close - CoinDesk",
+            "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9441050887107849,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Fox completes acquisition of streaming giant Roku - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.8772532343864441,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock Market Today: Dow Wobbles, Nasdaq Rises After AI Rout; Nvidia, Intel Lead Chip Rebound (Live Coverage) - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9641978144645691,
+            "score": 0.9476656913757324,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA",
                 "INTC"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "INTC",
             "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "INTC",
                     "impact": "negative",
@@ -90,19 +132,46 @@
             ]
         },
         {
-            "title": "Microsoft Is Winding Down Oracle Deal to Rent AI Cloud Capacity - Bloomberg.com",
+            "title": "Retail traders dump $338 million in stocks in biggest selling day since 2020 - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7533973455429077,
+            "score": 0.9603846073150635,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why The Blue Tsunami Rattled AI Stocks - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.8939598202705383,
             "signal": "BEARISH",
             "tickers": [
-                "MSFT"
+                "MSFT",
+                "GOOGL",
+                "NVDA",
+                "AMZN"
             ],
-            "primary_ticker": "MSFT",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
                     "ticker": "MSFT",
                     "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -116,18 +185,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "3 foreign nationals allegedly used AI to mimic CEOs in $129M scheme, DOJ says - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7757752537727356,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "OpenAI investing in AI data centers despite election results, CFO says - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7747752666473389,
+            "score": 0.7747748494148254,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -136,7 +196,7 @@
         {
             "title": "NYC schools\u2019 standoff with Google over AI raises prospect of no search in class - Gothamist",
             "sentiment": "NEGATIVE",
-            "score": 0.8235244154930115,
+            "score": 0.823524534702301,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -151,10 +211,10 @@
             ]
         },
         {
-            "title": "Could the US midterms put a pin in the AI bubble? - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.850374698638916,
-            "signal": "BEARISH",
+            "title": "MP Materials Rare-Earth Earnings Were Rock Solid. What\u2019s Up With the Stock? - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9297281503677368,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -162,34 +222,16 @@
         {
             "title": "Hims & Hers Surges On 'Surprising And Inevitable' Deal With Eli Lilly - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.8995581269264221,
+            "score": 0.8995579481124878,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market tightens - CNBC",
+            "title": "NH warehouse strike disrupts deliveries to some local grocery stores - WCAX",
             "sentiment": "NEGATIVE",
-            "score": 0.945888340473175,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Major New England strike could leave grocery store shelves empty - WCAX",
-            "sentiment": "NEGATIVE",
-            "score": 0.9514659643173218,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why gold prices are surprisingly low : Planet Money - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.8710529804229736,
+            "score": 0.9603378772735596,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -198,11 +240,28 @@
         {
             "title": "Asian stock markets plunge as Japan Nikkei, South Korea KOSPI and Taiwan stocks fall - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9666804075241089,
+            "score": 0.9666802883148193,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Cathie Wood Sells $12.8 Million Of Alphabet, Days After The Stock Suffered Its Worst Day Since Its 2004 IPO, Losing Nearly Half A Trillion Dollars In Market Value - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.9306676387786865,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "\u2018It was hellish\u2019: Shoreline woman says gold bar scam cost her $3 million - MyNorthwest.com",
@@ -214,80 +273,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron Stock Plunges As Memory-Chip Shortages Cause Ripple Effects - Investor's Business Daily",
+            "title": "Lefty digital news site Salon closes after 31 years - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9731543660163879,
+            "score": 0.7451939582824707,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Tesla Optimus Rival Agility Robotics Begins Trading After SPAC Merger - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9028372764587402,
-            "signal": "BULLISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Bay Area AI stocks plunge after data center voter backlash in worst trading day since April 2025 - San Francisco Chronicle",
+            "title": "Wendy\u2019s rejects buyout bid and girds itself for a hostile takeover campaign - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9670484662055969,
+            "score": 0.8925915956497192,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US agencies issue warning after spate of cyberattacks on refrigerators - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.9454649090766907,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Goldman Sachs just welcomed 109 new members to its most exclusive club. Here's a breakdown of the new partner class. - Business Insider",
-            "sentiment": "POSITIVE",
-            "score": 0.940942108631134,
-            "signal": "BULLISH",
-            "tickers": [
-                "GS"
-            ],
-            "primary_ticker": "GS",
-            "ticker_impacts": [
-                {
-                    "ticker": "GS",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Thicker bacon and ditching breakfast. Wendy\u2019s hopes a menu shakeup can revive sales - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9708918929100037,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Beyond statins, one drug lowered heart attack risk by 20% - STAT",
-            "sentiment": "POSITIVE",
-            "score": 0.7823098301887512,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
