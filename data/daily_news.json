@@ -1,22 +1,13 @@
 {
-    "last_updated": "2026-11-08 15:26:56 UTC",
-    "total_articles": 24,
-    "bullish_articles": 11,
-    "bearish_articles": 13,
+    "last_updated": "2026-11-08 18:26:53 UTC",
+    "total_articles": 27,
+    "bullish_articles": 9,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7575879096984863,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Schools scramble after Google gives AI ultimatum - The Hill",
+            "title": "NYC schools\u2019 standoff with Google over AI raises prospect of no search in class - Gothamist",
             "sentiment": "NEGATIVE",
-            "score": 0.878870964050293,
+            "score": 0.8235241174697876,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -29,6 +20,58 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Millions of ladders recalled nationwide after numerous reports of head injuries, skull fractures - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9617472887039185,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9017878174781799,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Jim Cramer sends a strong signal to Nvidia stock investors - TheStreet",
+            "sentiment": "POSITIVE",
+            "score": 0.707526683807373,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7575879096984863,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Mega Millions winning numbers as jackpot climbs to $505M for Nov. 6 - USA Today",
@@ -124,33 +167,13 @@
             ]
         },
         {
-            "title": "Tech Stock Sell-Off 'Golden Buying Opportunity,' Says Dan Ives - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9165791869163513,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA",
-                "AAPL",
-                "MSFT"
-            ],
+            "title": "Micron\u2019s stock is dirt cheap \u2014 and that\u2019s igniting a fierce online debate - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8173571825027466,
+            "signal": "BEARISH",
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Ex-OpenAI employee accused of spying pleads not guilty - Financial Times",
@@ -214,18 +237,40 @@
             ]
         },
         {
+            "title": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says - PCMag",
+            "sentiment": "POSITIVE",
+            "score": 0.7425390481948853,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Why The Blue Tsunami Rattled AI Stocks - Investor's Business Daily",
             "sentiment": "NEGATIVE",
             "score": 0.893959641456604,
             "signal": "BEARISH",
             "tickers": [
+                "MSFT",
                 "AMZN",
                 "GOOGL",
-                "NVDA",
-                "MSFT"
+                "NVDA"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
                 {
                     "ticker": "AMZN",
                     "impact": "negative",
@@ -240,19 +285,14 @@
                     "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "medium"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "OpenAI investing in AI data centers despite election results, CFO says - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7747753858566284,
-            "signal": "BULLISH",
+            "title": "DraftKings Plunges 27% on Weak 2027 Forecast and Prediction-Market Spending; Flutter Sinks 8%, Penn Entertainment Drops 4% - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.966218113899231,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -285,22 +325,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Asian stock markets plunge as Japan Nikkei, South Korea KOSPI and Taiwan stocks fall - Fox Business",
+            "title": "Japan\u2019s Nikkei Breaks Below Key 60,000 Level on AI Selloff - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9666802883148193,
+            "score": 0.965691089630127,
             "signal": "BEARISH",
-            "tickers": [],
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "BYD YANGWANG U9 Xtreme becomes fastest production car in the world after topping 500km/h to set record - Supercar Blondie",
-            "sentiment": "POSITIVE",
-            "score": 0.8437366485595703,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Gas prices could soon dip below $4 a gallon. So why are fuel costs falling? - CBS News",
@@ -312,10 +351,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "MP Materials Rare-Earth Earnings Were Rock Solid. What\u2019s Up With the Stock? - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9297283887863159,
-            "signal": "BULLISH",
+            "title": "Last call for THC drinks at Illinois liquor stores - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9431799054145813,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
