@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-11-08 03:28:29 UTC",
-    "total_articles": 22,
-    "bullish_articles": 6,
-    "bearish_articles": 16,
+    "last_updated": "2026-11-08 06:31:54 UTC",
+    "total_articles": 24,
+    "bullish_articles": 7,
+    "bearish_articles": 17,
     "articles": [
         {
             "title": "Here\u2019s what\u2019s at stake for the economy if AI investment falters - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9596419334411621,
+            "score": 0.9596419930458069,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,7 +16,7 @@
         {
             "title": "A Retiree Who Bought 1,000 Oracle Shares at $39 Just Watched Microsoft Walk Away - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7157343029975891,
+            "score": 0.7157345414161682,
             "signal": "BEARISH",
             "tickers": [
                 "MSFT"
@@ -31,26 +31,35 @@
             ]
         },
         {
-            "title": "Elon Musk Is Killing the Cybertruck. What It Means for Tesla Stock. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.851037859916687,
-            "signal": "BEARISH",
+            "title": "The Cybertruck\u2019s Death Is Actually Great News for EVs - WIRED",
+            "sentiment": "POSITIVE",
+            "score": 0.8171553611755371,
+            "signal": "BULLISH",
             "tickers": [
                 "TSLA"
             ],
-            "primary_ticker": "TSLA",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
                     "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
         {
+            "title": "US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.8920648097991943,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020 - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.7683682441711426,
+            "score": 0.7683678269386292,
             "signal": "BULLISH",
             "tickers": [
                 "AMD",
@@ -73,7 +82,7 @@
         {
             "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation - Financial Times",
             "sentiment": "POSITIVE",
-            "score": 0.740938127040863,
+            "score": 0.7409375309944153,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -82,7 +91,7 @@
         {
             "title": "We Energies rate hike approved, customers to pay more in 2027 and 2028 - WISN",
             "sentiment": "POSITIVE",
-            "score": 0.9059129357337952,
+            "score": 0.9059130549430847,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -91,7 +100,7 @@
         {
             "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.9464128613471985,
+            "score": 0.9464127421379089,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -108,7 +117,7 @@
         {
             "title": "ChatGPT \u2018manipulated and encouraged\u2019 a woman in her plot to poison her husband, suit alleges - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.7045254111289978,
+            "score": 0.7045255303382874,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -143,33 +152,33 @@
         {
             "title": "Why The Blue Tsunami Rattled AI Stocks - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.8939598202705383,
+            "score": 0.8939595222473145,
             "signal": "BEARISH",
             "tickers": [
-                "MSFT",
                 "GOOGL",
-                "NVDA",
-                "AMZN"
+                "MSFT",
+                "AMZN",
+                "NVDA"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
                 {
                     "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "MSFT",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
                     "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -187,7 +196,7 @@
         {
             "title": "OpenAI investing in AI data centers despite election results, CFO says - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7747748494148254,
+            "score": 0.7747752666473389,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -196,7 +205,7 @@
         {
             "title": "NYC schools\u2019 standoff with Google over AI raises prospect of no search in class - Gothamist",
             "sentiment": "NEGATIVE",
-            "score": 0.823524534702301,
+            "score": 0.8235244154930115,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -222,7 +231,7 @@
         {
             "title": "Hims & Hers Surges On 'Surprising And Inevitable' Deal With Eli Lilly - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.8995579481124878,
+            "score": 0.8995581269264221,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -240,26 +249,26 @@
         {
             "title": "Asian stock markets plunge as Japan Nikkei, South Korea KOSPI and Taiwan stocks fall - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9666802883148193,
+            "score": 0.9666804075241089,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Cathie Wood Sells $12.8 Million Of Alphabet, Days After The Stock Suffered Its Worst Day Since Its 2004 IPO, Losing Nearly Half A Trillion Dollars In Market Value - 24/7 Wall St.",
+            "title": "Trading of KOSPI stocks suspended amid tech sell-off - The Korea Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9306676387786865,
+            "score": 0.9511837959289551,
             "signal": "BEARISH",
             "tickers": [
-                "GOOGL"
+                "KOSPI"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "KOSPI",
                     "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
         },
@@ -273,18 +282,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Lefty digital news site Salon closes after 31 years - New York Post",
+            "title": "Wendy's rejects buyout bid and girds itself for a hostile takeover campaign - ABC News - Breaking News, Latest News and Videos",
             "sentiment": "NEGATIVE",
-            "score": 0.7451939582824707,
+            "score": 0.9450523853302002,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Wendy\u2019s rejects buyout bid and girds itself for a hostile takeover campaign - AP News",
+            "title": "Bay Area AI stocks plunge after data center voter backlash in worst trading day since April 2025 - San Francisco Chronicle",
             "sentiment": "NEGATIVE",
-            "score": 0.8925915956497192,
+            "score": 0.9670484662055969,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock market today: Nasdaq plunges 5% amid chip stock wipeout, Dow and S&P 500 erase post-election rally gains - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9657783508300781,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
