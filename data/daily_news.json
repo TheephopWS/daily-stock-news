@@ -1,13 +1,31 @@
 {
-    "last_updated": "2026-11-09 03:29:59 UTC",
+    "last_updated": "2026-11-09 06:43:23 UTC",
     "total_articles": 29,
-    "bullish_articles": 9,
-    "bearish_articles": 20,
+    "bullish_articles": 8,
+    "bearish_articles": 21,
     "articles": [
+        {
+            "title": "Trump's Recent Warning Is Sending Shockwaves Through Wall Street. Here's What It Could Mean for Your Retirement Savings. - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.9585811495780945,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Dozens party outside Elon Musk's Austin home after campaign donations fell flat - Austin American-Statesman",
             "sentiment": "NEGATIVE",
-            "score": 0.702681303024292,
+            "score": 0.702681839466095,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Labubu sales are slumping. Is the craze over? - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9717052578926086,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,42 +43,39 @@
         {
             "title": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.7879253625869751,
+            "score": 0.7879253029823303,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Musk says unable to meet Cybertruck order backlog (TSLA:NASDAQ) - Seeking Alpha",
+            "title": "Older Nvidia Chips Just Cost Oracle Its Microsoft AI Deal - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.9271329641342163,
+            "score": 0.9075412750244141,
             "signal": "BEARISH",
             "tickers": [
-                "TSLA"
+                "NVDA",
+                "MSFT"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "TSLA",
+                    "ticker": "NVDA",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
         {
             "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows - CoinDesk",
             "sentiment": "NEGATIVE",
-            "score": 0.9360109567642212,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "\u2018I\u2019m destroyed.\u2019 Owner speaks on E. coli outbreak that shut down SLO County farm - San Luis Obispo Tribune",
-            "sentiment": "NEGATIVE",
-            "score": 0.7268595695495605,
+            "score": 0.9360112547874451,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -69,7 +84,7 @@
         {
             "title": "Airline begins charging $140 for checked bags on some roundtrip flights - SFGATE",
             "sentiment": "POSITIVE",
-            "score": 0.9101394414901733,
+            "score": 0.9101396799087524,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -78,7 +93,7 @@
         {
             "title": "Millions of ladders recalled nationwide after numerous reports of head injuries, skull fractures - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9617472887039185,
+            "score": 0.9617471694946289,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -87,7 +102,7 @@
         {
             "title": "Jim Cramer sends a strong signal to Nvidia stock investors - TheStreet",
             "sentiment": "POSITIVE",
-            "score": 0.7075273990631104,
+            "score": 0.7075265645980835,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -104,7 +119,7 @@
         {
             "title": "Wall Street Strategists Call Stock Rout a Fresh Reason to Buy - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7007591724395752,
+            "score": 0.7007575631141663,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -113,7 +128,7 @@
         {
             "title": "Tech stocks are now cheaper than the S&P 500 for the first time since 2017 \u2014 here's what history says comes next: Chart of the Day - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9594244956970215,
+            "score": 0.959424614906311,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -122,7 +137,7 @@
         {
             "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7575873136520386,
+            "score": 0.7575878500938416,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -131,7 +146,7 @@
         {
             "title": "Crypto\u2019s Trump-Fueled Washington Boom Reaches Its Endgame - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8955103158950806,
+            "score": 0.8955106139183044,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -140,7 +155,7 @@
         {
             "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call - WIRED",
             "sentiment": "NEGATIVE",
-            "score": 0.8470892310142517,
+            "score": 0.847089409828186,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -149,7 +164,24 @@
         {
             "title": "Schools scramble after Google gives AI ultimatum - The Hill",
             "sentiment": "NEGATIVE",
-            "score": 0.8788713216781616,
+            "score": 0.8788710236549377,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Parents sue Google after discovering what daughter was doing with AI on school Chromebook - Cleveland.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8438844680786133,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -175,7 +207,7 @@
         {
             "title": "U.S. Stocks Mixed After Jobs Data, Muted AI Rebound - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.7480610013008118,
+            "score": 0.7480611801147461,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -184,57 +216,16 @@
         {
             "title": "Hims & Hers inks deal with Eli Lilly to offer branded weight loss drugs - Fierce Healthcare",
             "sentiment": "POSITIVE",
-            "score": 0.923984944820404,
+            "score": 0.9239850640296936,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020 - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.7683682441711426,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMD",
-                "NVDA"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Micron\u2019s stock is dirt cheap \u2014 and that\u2019s igniting a fierce online debate - MarketWatch",
+            "title": "Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas - TechPowerUp",
             "sentiment": "NEGATIVE",
-            "score": 0.8173576593399048,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Ex-OpenAI employee accused of spying pleads not guilty - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8497121334075928,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.9464128613471985,
+            "score": 0.8624619245529175,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -249,9 +240,27 @@
             ]
         },
         {
+            "title": "Micron\u2019s stock is dirt cheap \u2014 and that\u2019s igniting a fierce online debate - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8173568844795227,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Ex-OpenAI employee accused of spying pleads not guilty - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.8497121930122375,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "DEA And Marijuana Rescheduling Opponents File Final Briefs In Hearing Ahead Of Judge's Decision - Marijuana Moment",
             "sentiment": "NEGATIVE",
-            "score": 0.9155724048614502,
+            "score": 0.9155725240707397,
             "signal": "BEARISH",
             "tickers": [
                 "DEA"
@@ -268,7 +277,7 @@
         {
             "title": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says - PCMag",
             "sentiment": "POSITIVE",
-            "score": 0.7425388097763062,
+            "score": 0.7425388693809509,
             "signal": "BULLISH",
             "tickers": [
                 "AMD"
@@ -285,16 +294,7 @@
         {
             "title": "US economy adds 165,000 jobs in October, blowing past expectations - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8651689291000366,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "3 foreign nationals allegedly used AI to mimic CEOs in $129M scheme, DOJ says - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7757749557495117,
+            "score": 0.8651688694953918,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -303,7 +303,7 @@
         {
             "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.720119833946228,
+            "score": 0.7201210260391235,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
