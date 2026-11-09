@@ -1,7 +1,7 @@
 {
-    "last_updated": "2026-11-09 09:29:19 UTC",
-    "total_articles": 29,
-    "bullish_articles": 10,
+    "last_updated": "2026-11-09 12:31:35 UTC",
+    "total_articles": 28,
+    "bullish_articles": 9,
     "bearish_articles": 19,
     "articles": [
         {
@@ -16,11 +16,28 @@
         {
             "title": "After the midterms, things are looking rocky for Elon Musk and data centers - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.7010487914085388,
+            "score": 0.7010493874549866,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "NYC schools\u2019 standoff with Google over AI raises prospect of no search in class - Gothamist",
+            "sentiment": "NEGATIVE",
+            "score": 0.823524534702301,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "California college system drops $193M on sprawling cliffside hotel \u2014 as in-state students fork over $50K a year on tuition - New York Post",
@@ -32,9 +49,26 @@
             "ticker_impacts": []
         },
         {
+            "title": "Gas prices could fall, but Exxon CEO warns of a 2027 catch - TheStreet",
+            "sentiment": "NEGATIVE",
+            "score": 0.8839507699012756,
+            "signal": "BEARISH",
+            "tickers": [
+                "XOM"
+            ],
+            "primary_ticker": "XOM",
+            "ticker_impacts": [
+                {
+                    "ticker": "XOM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.7879253029823303,
+            "score": 0.7879253625869751,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -43,16 +77,33 @@
         {
             "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows - CoinDesk",
             "sentiment": "NEGATIVE",
-            "score": 0.9360112547874451,
+            "score": 0.9360109567642212,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Data center heists are getting bolder, and the latest one hit Nvidia for $11.4 million - TechSpot",
+            "sentiment": "NEGATIVE",
+            "score": 0.901469886302948,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Airline begins charging $140 for checked bags on some roundtrip flights - SFGATE",
             "sentiment": "POSITIVE",
-            "score": 0.9101396799087524,
+            "score": 0.9101394414901733,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -61,7 +112,16 @@
         {
             "title": "Millions of ladders recalled nationwide after numerous reports of head injuries, skull fractures - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9617471694946289,
+            "score": 0.9617472887039185,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Stock Market Is Doing Something for Only the 5th Time in 30 Years, and History Is Crystal Clear on What Comes Next for Stocks - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9063035845756531,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -70,7 +130,7 @@
         {
             "title": "Jim Cramer sends a strong signal to Nvidia stock investors - TheStreet",
             "sentiment": "POSITIVE",
-            "score": 0.7075265645980835,
+            "score": 0.7075273990631104,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -85,18 +145,9 @@
             ]
         },
         {
-            "title": "Wall Street Strategists Call Stock Rout a Fresh Reason to Buy - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.7007575631141663,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Tech stocks are now cheaper than the S&P 500 for the first time since 2017 \u2014 here's what history says comes next: Chart of the Day - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.959424614906311,
+            "score": 0.9594244956970215,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -105,17 +156,8 @@
         {
             "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7575878500938416,
+            "score": 0.7575873136520386,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call - WIRED",
-            "sentiment": "NEGATIVE",
-            "score": 0.847089409828186,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -130,47 +172,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "Schools scramble after Google gives AI ultimatum - The Hill",
+            "title": "The crazy numbers that show the AI bubble is ripe for bursting - The Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8788710236549377,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Parents sue Google after discovering what daughter was doing with AI on school Chromebook - Cleveland.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8438844680786133,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "The New York Times Doesn\u2019t Understand AI\u2019s Role in Suppressing Wages - Gizmodo",
-            "sentiment": "NEGATIVE",
-            "score": 0.944589376449585,
+            "score": 0.9524168968200684,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Parents sue Google after discovering what daughter was doing with AI on school Chromebook - Cleveland.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.843884289264679,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Arini\u2019s Hedge Fund Losses Grow to 32% as It Sells Some Positions - Bloomberg.com",
@@ -182,21 +207,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "U.S. Stocks Mixed After Jobs Data, Muted AI Rebound - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.7480611801147461,
-            "signal": "BEARISH",
+            "title": "Hims & Hers inks deal with Eli Lilly to offer branded weight loss drugs - Fierce Healthcare",
+            "sentiment": "POSITIVE",
+            "score": 0.923984944820404,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia Stock, Other AI Names Rebound After Sell-Off - Investor's Business Daily",
+            "title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020 - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.9025881290435791,
+            "score": 0.7683682441711426,
             "signal": "BULLISH",
             "tickers": [
-                "NVDA"
+                "NVDA",
+                "AMD"
             ],
             "primary_ticker": "NVDA",
             "ticker_impacts": [
@@ -204,39 +230,27 @@
                     "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Hims & Hers inks deal with Eli Lilly to offer branded weight loss drugs - Fierce Healthcare",
-            "sentiment": "POSITIVE",
-            "score": 0.9239850640296936,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas - TechPowerUp",
-            "sentiment": "NEGATIVE",
-            "score": 0.8624619245529175,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
+                },
                 {
-                    "ticker": "NVDA",
-                    "impact": "negative",
+                    "ticker": "AMD",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
         },
         {
+            "title": "Micron\u2019s stock is dirt cheap \u2014 and that\u2019s igniting a fierce online debate - MarketWatch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8173576593399048,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Ex-OpenAI employee accused of spying pleads not guilty - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8497121930122375,
+            "score": 0.8497121334075928,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -254,7 +268,7 @@
         {
             "title": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says - PCMag",
             "sentiment": "POSITIVE",
-            "score": 0.7425388693809509,
+            "score": 0.7425388097763062,
             "signal": "BULLISH",
             "tickers": [
                 "AMD"
@@ -271,17 +285,26 @@
         {
             "title": "You know the launch market is tough when satellite companies start building rockets - Ars Technica",
             "sentiment": "POSITIVE",
-            "score": 0.7853988409042358,
+            "score": 0.7853984236717224,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI investing in AI data centers despite election results, CFO says - CNBC",
+            "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7747752666473389,
+            "score": 0.720119833946228,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump Media\u2019s investors lost $2.2 billion while president holds $460 million stake - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.922187864780426,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -289,25 +312,7 @@
         {
             "title": "The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace - Crude Oil Prices Today | OilPrice.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8840081691741943,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Moderna Swings to Profit, Lifts Outlook as Covid-19 Vaccine Demand Stabilizes - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.94166499376297,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "NH warehouse strike disrupts deliveries to some local grocery stores - WCAX",
-            "sentiment": "NEGATIVE",
-            "score": 0.9603378772735596,
+            "score": 0.88400799036026,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
