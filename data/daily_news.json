@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-11-09 18:29:03 UTC",
-    "total_articles": 21,
-    "bullish_articles": 9,
-    "bearish_articles": 12,
+    "last_updated": "2026-11-09 21:27:44 UTC",
+    "total_articles": 22,
+    "bullish_articles": 4,
+    "bearish_articles": 18,
     "articles": [
+        {
+            "title": "Air Algerie Business Class Airbus A330neo Review: Utterly Awful - One Mile at a Time",
+            "sentiment": "NEGATIVE",
+            "score": 0.760182797908783,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "2027 Toyota RAV4 Woodland Gains An Inch Where It Counts, All PHEVs Get NACS And Level 3 Charging - Jalopnik",
             "sentiment": "POSITIVE",
@@ -14,9 +23,58 @@
             "ticker_impacts": []
         },
         {
+            "title": "Mamdani Blasts Google for Using Monopoly to Bully Schools That Ban AI - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.9303373098373413,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD",
+                "GOOGL"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "The Texas Roadhouse Tradition Customers And Employees Wish Would End - Chowhound",
             "sentiment": "NEGATIVE",
-            "score": 0.7572287917137146,
+            "score": 0.7572285532951355,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Intel, Arm, and Marvell Have Each Been Cut in Half Since June. Only 1 Is a Stock I'd Buy Now. - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.8819352984428406,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Air France A350 Nearly Collides Midair With American A321 After Wrong Turn At LAX - Simple Flying",
+            "sentiment": "NEGATIVE",
+            "score": 0.9611478447914124,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,7 +83,7 @@
         {
             "title": "The Democratic Surge Will Cap Trump\u2019s Reach at the Fed - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.7382063269615173,
+            "score": 0.7382049560546875,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -34,7 +92,16 @@
         {
             "title": "After the midterms, things are looking rocky for Elon Musk and data centers - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.7010478377342224,
+            "score": 0.7010493874549866,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Berkshire Surprised With Record Buybacks, but Pace Slowed as the Stock Rose - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9694162607192993,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -50,9 +117,26 @@
             "ticker_impacts": []
         },
         {
+            "title": "Gas prices could fall, but Exxon CEO warns of a 2027 catch - TheStreet",
+            "sentiment": "NEGATIVE",
+            "score": 0.8839507699012756,
+            "signal": "BEARISH",
+            "tickers": [
+                "XOM"
+            ],
+            "primary_ticker": "XOM",
+            "ticker_impacts": [
+                {
+                    "ticker": "XOM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.7879254221916199,
+            "score": 0.7879253625869751,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -61,7 +145,7 @@
         {
             "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows - CoinDesk",
             "sentiment": "NEGATIVE",
-            "score": 0.9360110759735107,
+            "score": 0.9360109567642212,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -70,7 +154,7 @@
         {
             "title": "Data center heists are getting bolder, and the latest one hit Nvidia for $11.4 million - TechSpot",
             "sentiment": "NEGATIVE",
-            "score": 0.9014697670936584,
+            "score": 0.901469886302948,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -85,6 +169,24 @@
             ]
         },
         {
+            "title": "Are hackers targeting America\u2019s food supply? - The Hill",
+            "sentiment": "NEGATIVE",
+            "score": 0.9484502673149109,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Airline begins charging $140 for checked bags on some round-trip flights - SFGATE",
+            "sentiment": "POSITIVE",
+            "score": 0.9123445749282837,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Millions of ladders recalled nationwide after numerous reports of head injuries, skull fractures - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9644148945808411,
@@ -94,39 +196,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Jim Cramer sends a strong signal to Nvidia stock investors - TheStreet",
-            "sentiment": "POSITIVE",
-            "score": 0.707526683807373,
-            "signal": "BULLISH",
+            "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9017876982688904,
+            "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "INTC"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "OpenAI Just Raised $11 Billion at a $1.25 Trillion Valuation, Below the $1.4 Trillion It First Sought - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.9331044554710388,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7575879096984863,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Spectrum Cable TV is In Trouble As It Races to Cut $2 Billion in Costs & Change the Company - | Cord Cutters News",
@@ -149,7 +233,7 @@
         {
             "title": "Charlotte woman plotted to kill her husband. ChatGPT \u2018encouraged\u2019 her, suit alleges - Charlotte Observer",
             "sentiment": "NEGATIVE",
-            "score": 0.725574791431427,
+            "score": 0.7255749106407166,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -158,7 +242,7 @@
         {
             "title": "Parents sue Google after discovering what daughter was doing with AI on school Chromebook - Cleveland.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8438844680786133,
+            "score": 0.843884289264679,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -171,59 +255,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Hims & Hers inks deal with Eli Lilly to offer branded weight loss drugs - Fierce Healthcare",
-            "sentiment": "POSITIVE",
-            "score": 0.9239850640296936,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Ex-OpenAI employee accused of spying pleads not guilty - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8497121930122375,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says - PCMag",
-            "sentiment": "POSITIVE",
-            "score": 0.7425390481948853,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMD"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Fox completes acquisition of streaming giant Roku - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.8772532343864441,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "You know the launch market is tough when satellite companies start building rockets - Ars Technica",
-            "sentiment": "POSITIVE",
-            "score": 0.785398542881012,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
