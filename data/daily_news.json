@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-10 15:26:50 UTC",
+    "last_updated": "2026-11-10 18:27:58 UTC",
     "total_articles": 31,
     "bullish_articles": 10,
     "bearish_articles": 21,
@@ -102,19 +102,19 @@
             "score": 0.7598848938941956,
             "signal": "BULLISH",
             "tickers": [
-                "GOOGL",
                 "NVDA",
+                "GOOGL",
                 "INTC"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "GOOGL",
                     "impact": "positive",
                     "relevance": "high"
                 },
@@ -326,18 +326,18 @@
             "score": 0.9303375482559204,
             "signal": "BEARISH",
             "tickers": [
-                "AMD",
-                "GOOGL"
+                "GOOGL",
+                "AMD"
             ],
-            "primary_ticker": "AMD",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "AMD",
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
                 }
