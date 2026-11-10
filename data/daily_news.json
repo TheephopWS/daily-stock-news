@@ -1,14 +1,40 @@
 {
-    "last_updated": "2026-11-10 06:33:42 UTC",
-    "total_articles": 23,
-    "bullish_articles": 6,
-    "bearish_articles": 17,
+    "last_updated": "2026-11-10 09:27:56 UTC",
+    "total_articles": 27,
+    "bullish_articles": 8,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "Asian stocks rebound after AI rout - Financial Times",
+            "title": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8880189657211304,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Air France A350 Nearly Collides Midair With American A321 After Wrong Turn At LAX - Simple Flying",
             "sentiment": "NEGATIVE",
-            "score": 0.9528189897537231,
+            "score": 0.9611478447914124,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China Producer Inflation Accelerates to Over Four-Year High - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.8804531693458557,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -40,9 +66,27 @@
             ]
         },
         {
+            "title": "Dwindling Pay Fuels High-Profile Exits From Blackstone\u2019s Marquee Real Estate Team - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9087327122688293,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "6 Costco Breads To Buy, 2 To Avoid At All Costs - The Takeout",
             "sentiment": "NEGATIVE",
             "score": 0.901881754398346,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "America\u2019s most expensive neighborhood with $500M homes on verge of collapse: \u2018Ego got in the way\u2019 - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8854852914810181,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -143,31 +187,22 @@
             "score": 0.9303373098373413,
             "signal": "BEARISH",
             "tickers": [
-                "GOOGL",
-                "AMD"
+                "AMD",
+                "GOOGL"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "AMD",
             "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Opinion: This market signal called the tech selloff. Now it\u2019s sending another warning. - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9538899064064026,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Why the latest heart drug failures should make us all more skeptical of AI hype - STAT",
@@ -179,9 +214,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Trump's Recent Warning Is Sending Shockwaves Through Wall Street. Here's What It Could Mean for Your Retirement Savings. - The Motley Fool",
+            "title": "Berkshire Surprised With Record Buybacks, but Pace Slowed as the Stock Rose - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9585811495780945,
+            "score": 0.9694162607192993,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -226,6 +261,15 @@
             "title": "Are hackers targeting America\u2019s food supply? - The Hill",
             "sentiment": "NEGATIVE",
             "score": 0.9484502673149109,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tech stocks are now cheaper than the S&P 500 for the first time since 2017 \u2014 here's what history says comes next: Chart of the Day - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9594244956970215,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
