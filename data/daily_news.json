@@ -1,13 +1,31 @@
 {
-    "last_updated": "2026-11-09 21:27:44 UTC",
-    "total_articles": 22,
-    "bullish_articles": 4,
-    "bearish_articles": 18,
+    "last_updated": "2026-11-10 00:42:32 UTC",
+    "total_articles": 21,
+    "bullish_articles": 5,
+    "bearish_articles": 16,
     "articles": [
         {
             "title": "Air Algerie Business Class Airbus A330neo Review: Utterly Awful - One Mile at a Time",
             "sentiment": "NEGATIVE",
-            "score": 0.760182797908783,
+            "score": 0.7601833343505859,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Treasury Rally Gets New Boost as Election Hammers the AI Trade - Bloomberg",
+            "sentiment": "POSITIVE",
+            "score": 0.9159553050994873,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "60+ Outback Steakhouse locations to close after franchisee files for bankruptcy. Here\u2019s where - FOX Carolina News",
+            "sentiment": "NEGATIVE",
+            "score": 0.892250657081604,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,21 +43,21 @@
         {
             "title": "Mamdani Blasts Google for Using Monopoly to Bully Schools That Ban AI - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.9303373098373413,
+            "score": 0.9303375482559204,
             "signal": "BEARISH",
             "tickers": [
-                "AMD",
-                "GOOGL"
+                "GOOGL",
+                "AMD"
             ],
-            "primary_ticker": "AMD",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "AMD",
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -48,7 +66,7 @@
         {
             "title": "The Texas Roadhouse Tradition Customers And Employees Wish Would End - Chowhound",
             "sentiment": "NEGATIVE",
-            "score": 0.7572285532951355,
+            "score": 0.7572287917137146,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -57,7 +75,7 @@
         {
             "title": "Intel, Arm, and Marvell Have Each Been Cut in Half Since June. Only 1 Is a Stock I'd Buy Now. - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.8819352984428406,
+            "score": 0.8819352388381958,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -72,6 +90,15 @@
             ]
         },
         {
+            "title": "NASA unveils $10B Moon base contract as SpaceX, Blue Origin join lunar gold rush - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.7409842014312744,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Air France A350 Nearly Collides Midair With American A321 After Wrong Turn At LAX - Simple Flying",
             "sentiment": "NEGATIVE",
             "score": 0.9611478447914124,
@@ -83,25 +110,16 @@
         {
             "title": "The Democratic Surge Will Cap Trump\u2019s Reach at the Fed - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.7382049560546875,
+            "score": 0.7382063269615173,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "After the midterms, things are looking rocky for Elon Musk and data centers - TechCrunch",
+            "title": "Dozens party outside Elon Musk's Austin home after campaign donations fell flat - Austin American-Statesman",
             "sentiment": "NEGATIVE",
-            "score": 0.7010493874549866,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Berkshire Surprised With Record Buybacks, but Pace Slowed as the Stock Rose - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9694162607192993,
+            "score": 0.7026801109313965,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -119,7 +137,7 @@
         {
             "title": "Gas prices could fall, but Exxon CEO warns of a 2027 catch - TheStreet",
             "sentiment": "NEGATIVE",
-            "score": 0.8839507699012756,
+            "score": 0.8839511275291443,
             "signal": "BEARISH",
             "tickers": [
                 "XOM"
@@ -136,7 +154,7 @@
         {
             "title": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.7879253625869751,
+            "score": 0.7879254221916199,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -145,7 +163,7 @@
         {
             "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows - CoinDesk",
             "sentiment": "NEGATIVE",
-            "score": 0.9360109567642212,
+            "score": 0.9360110759735107,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -154,7 +172,7 @@
         {
             "title": "Data center heists are getting bolder, and the latest one hit Nvidia for $11.4 million - TechSpot",
             "sentiment": "NEGATIVE",
-            "score": 0.901469886302948,
+            "score": 0.9014697670936584,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -178,27 +196,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Airline begins charging $140 for checked bags on some round-trip flights - SFGATE",
-            "sentiment": "POSITIVE",
-            "score": 0.9123445749282837,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Millions of ladders recalled nationwide after numerous reports of head injuries, skull fractures - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9644148945808411,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9017876982688904,
+            "score": 0.9017878174781799,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -222,18 +222,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "The crazy numbers that show the AI bubble is ripe for bursting - The Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9524168968200684,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Charlotte woman plotted to kill her husband. ChatGPT \u2018encouraged\u2019 her, suit alleges - Charlotte Observer",
             "sentiment": "NEGATIVE",
-            "score": 0.7255749106407166,
+            "score": 0.725574791431427,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -242,7 +233,7 @@
         {
             "title": "Parents sue Google after discovering what daughter was doing with AI on school Chromebook - Cleveland.com",
             "sentiment": "NEGATIVE",
-            "score": 0.843884289264679,
+            "score": 0.8438844680786133,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
