@@ -1,13 +1,66 @@
 {
-    "last_updated": "2026-11-11 09:27:19 UTC",
+    "last_updated": "2026-11-11 12:30:51 UTC",
     "total_articles": 24,
-    "bullish_articles": 6,
-    "bearish_articles": 18,
+    "bullish_articles": 7,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "'Cruise for life' ship Villa Vie Odyssey seized in Singapore - BBC",
+            "title": "Stock Market Today: Oil Prices Fall to $90 a Barrel on Trump Iran Comments; Investors Await CPI Report - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9500591158866882,
+            "score": 0.921546995639801,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.703264594078064,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trade Desk\u2019s Earnings Beat Defies Analysts\u2019 \u2018Lost Year\u2019 Projections - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.909730851650238,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gas prices fall below $4 per gallon for the first time since July - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9686836004257202,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SoftBank swings to $7 billion loss after U.S. data center hit and Intel share decline - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9610947370529175,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.8404911756515503,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,37 +76,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Silicon Valley\u2019s Trump-era playbook is falling apart. A major shift is underway. - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8297200202941895,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump Media cashes in on high-speed access to social media posts - NBC News",
+            "title": "Skydance Details Cost Savings and Plans HBO Max-Paramount+ Bundle in First Post-Deal Earnings Report - The Hollywood Reporter",
             "sentiment": "POSITIVE",
-            "score": 0.9068534970283508,
+            "score": 0.7065407037734985,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "California amusement park to close after more than 50 years - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.7306103110313416,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "France accuses Iran of cyber 'sabotage' in fridge attacks - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9322081208229065,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -61,7 +87,7 @@
         {
             "title": "Vanderbilt urges campus to shut down computers amid cyberattack - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.8044586181640625,
+            "score": 0.8044586777687073,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -70,51 +96,29 @@
         {
             "title": "Air France, American Airlines jets nearly collide after wrong turn in midair over LAX - KTLA",
             "sentiment": "NEGATIVE",
-            "score": 0.8897625803947449,
+            "score": 0.9472034573554993,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Plane rolls over after being hit by blast from jet engines - CNN",
+            "title": "Trump Media & Technology Group Swings to Profit Ahead of TAE Technologies Merger - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9013208746910095,
+            "score": 0.8821486234664917,
             "signal": "BEARISH",
-            "tickers": [
-                "BA"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
-            "title": "AMD Stock Rises On Google Cloud Deal, Wall Street Upgrade - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9218880534172058,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMD",
-                "GOOGL"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "GOOGL",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "title": "Take-Two Interactive Software Gives Restrained Outlook Before 'Grand Theft Auto 6' Launch - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9441196918487549,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Rocket Lab Backlog Went to the Moon. The Stock Is Down Anyway. - Barron's",
@@ -126,13 +130,53 @@
             "ticker_impacts": []
         },
         {
-            "title": "Lucid misses Wall Street\u2019s earnings expectations, expands loan from Saudi Arabia fund - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.890861451625824,
-            "signal": "BEARISH",
+            "title": "SpaceX, Blue Origin Winners As NASA Awards $10 Bil In Moon Base Contracts - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.8142197132110596,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia, AMD, CoreWeave, Coherent, First Solar, Trade Desk, and More Stocks That Explain Today\u2019s Market - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9454313516616821,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "AMD"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "PepsiCo to cut about 1,000 jobs as North American business struggles - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9694356322288513,
+            "signal": "BEARISH",
+            "tickers": [
+                "PEP"
+            ],
+            "primary_ticker": "PEP",
+            "ticker_impacts": [
+                {
+                    "ticker": "PEP",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Musk says many buyers will get their deposits back as Tesla prepares to end Cybertruck's production - Fortune",
@@ -169,45 +213,28 @@
             ]
         },
         {
-            "title": "Brent Crashes 7% on Iran Peace Hopes Despite Fresh Saudi Pipeline Attack - Crude Oil Prices Today | OilPrice.com",
+            "title": "Anthropic launches Fable 5.2 with a price cut and stronger coding scores - The New Stack",
             "sentiment": "POSITIVE",
-            "score": 0.9223858118057251,
+            "score": 0.9013296365737915,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "PepsiCo Is Cutting Around 1,000 Jobs Across North America - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9666706919670105,
-            "signal": "BEARISH",
-            "tickers": [
-                "PEP"
-            ],
-            "primary_ticker": "PEP",
-            "ticker_impacts": [
-                {
-                    "ticker": "PEP",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "CoreWeave CEO Urges Clarity on Texas Data-Center Buildout. The Stock Rises. - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.8528842926025391,
+            "score": 0.8528836369514465,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX, Rocket Lab blast higher as NASA hands out $10 billion in moon base awards - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8367487788200378,
-            "signal": "BULLISH",
+            "title": "Seniors Nationwide Scammed Into Handing Over Gold - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.8726727962493896,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -215,25 +242,7 @@
         {
             "title": "If the Stock Market Crashes, I'm Loading Up on These 2 No-Brainer ETFs - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.8826529383659363,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gas is about to drop below $4 for the first time since July - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9541590809822083,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Shakeup at Goodyear: Stewart out, Wood in as interim CEO - Tire Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.792998731136322,
+            "score": 0.8826536536216736,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -251,28 +260,11 @@
         {
             "title": "Dulles Airport to unveil new concourse with 14 gates, restaurants and passenger lounge - WTOP News",
             "sentiment": "POSITIVE",
-            "score": 0.7361359596252441,
+            "score": 0.73613440990448,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Tech sell-off raises risks for SoftBank\u2019s massive AI bet - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9667738676071167,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
         }
     ]
 }
