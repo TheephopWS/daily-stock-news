@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-11 21:27:15 UTC",
+    "last_updated": "2026-11-12 00:44:35 UTC",
     "total_articles": 31,
     "bullish_articles": 11,
     "bearish_articles": 20,
@@ -258,17 +258,12 @@
             "score": 0.7779196500778198,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA",
                 "TSLA",
-                "AMZN"
+                "AMZN",
+                "NVDA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "TSLA",
                     "impact": "negative",
@@ -276,6 +271,11 @@
                 },
                 {
                     "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
                 }
