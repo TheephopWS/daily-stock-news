@@ -1,17 +1,60 @@
 {
-    "last_updated": "2026-11-13 12:31:47 UTC",
-    "total_articles": 26,
-    "bullish_articles": 5,
-    "bearish_articles": 21,
+    "last_updated": "2026-11-13 15:27:23 UTC",
+    "total_articles": 30,
+    "bullish_articles": 6,
+    "bearish_articles": 24,
     "articles": [
         {
-            "title": "Stocks Slide on Nvidia Troubles, Oil Edges Lower: Markets Wrap - Bloomberg.com",
+            "title": "Home Sales in October Plummet to 16-Year Low - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9603669047355652,
+            "score": 0.964408814907074,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Singapore barred Alice Huang for giving police \u2018inaccurate information\u2019 - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.8758810758590698,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA",
-                "INTC"
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "US jobless claims tick up to 200,000 but remain low by historic standards - ABC News - Breaking News, Latest News and Videos",
+            "sentiment": "NEGATIVE",
+            "score": 0.9621085524559021,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Faisal Islam: Why the UK economy is surprisingly resilient - BBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8666461706161499,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tech Futures Fall; Nvidia Dives As It Mulls Ousting CEO Huang - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9663171768188477,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
             ],
             "primary_ticker": "NVDA",
             "ticker_impacts": [
@@ -19,13 +62,76 @@
                     "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "The Inflation Fight May Be About to Turn Painful - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9248430132865906,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AMD Stock Gets Upgrade. What It Says About the Future of the AI Trade. - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9328921437263489,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD",
+                "NVDA"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Your Dog Is Too Fat: Why Everyone at the Vet\u2019s Office Is at Each Other\u2019s Throats - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.8650476336479187,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Strategy, the World\u2019s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9250458478927612,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Neurosterix pulls in $105M for schizophrenia drug, taps Cobenfy vets - Endpoints News",
+            "sentiment": "POSITIVE",
+            "score": 0.763116180896759,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Alibaba, Tencent shares fall on report U.S. weighs curbs on remote AI chip access - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9749187231063843,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "United Airlines flight emergency: Unruly passenger hospitalized after being removed from plane from Tokyo, Japan to Chicago O'Hare - ABC7 Chicago",
@@ -37,9 +143,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "Why are gas prices dropping and how low will they go? - WCVB",
+            "sentiment": "NEGATIVE",
+            "score": 0.946260929107666,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Europe\u2019s electric car sales jump 49% as global EV sales grow - Electrek",
             "sentiment": "POSITIVE",
-            "score": 0.9462692737579346,
+            "score": 0.946269154548645,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -72,13 +187,38 @@
             "ticker_impacts": []
         },
         {
-            "title": "Lego marketplace BrickLink offline after 'unusual activity' detected - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9181784987449646,
-            "signal": "BEARISH",
-            "tickers": [],
+            "title": "Nasdaq 100 Advances 3% as Easing AI Anxiety Draws Dip Buyers In - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9296936392784119,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
             "primary_ticker": null,
-            "ticker_impacts": []
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "BMO says silver\u2019s solar boom is fading, investment demand unlikely to compensate - Kitco",
+            "sentiment": "NEGATIVE",
+            "score": 0.9721384644508362,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Canada\u2019s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment - CNBC",
@@ -90,18 +230,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why is gasoline suddenly under $4 a gallon? - NPR",
+            "title": "Heating costs will surge this winter due to Iran war \u2014 with heating oil prices spiking as much as 70% - New York Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8142744302749634,
+            "score": 0.9526224732398987,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Bad News for Nuclear: A Landmark Reactor Just Got Delayed - Barron's",
+            "title": "Check Your Fridge Before Thanksgiving: This Costco Kirkland Product Was Just Recalled - The Takeout",
             "sentiment": "NEGATIVE",
-            "score": 0.9648014307022095,
+            "score": 0.8512200117111206,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -110,7 +250,7 @@
         {
             "title": "Lawsuit filed over Vanderbilt University cyberattack - WKRN News 2",
             "sentiment": "NEGATIVE",
-            "score": 0.9100248217582703,
+            "score": 0.9100249409675598,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -119,7 +259,7 @@
         {
             "title": "Column | Powerful new weight-loss drug may also ease knee pain, major study finds - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.7907354831695557,
+            "score": 0.7907363772392273,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -137,16 +277,7 @@
         {
             "title": "Wall Street thinks the Fed made a 'mistake' \u2014 and now more hikes are coming - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9158985018730164,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Thanksgiving shoppers face higher turkey prices as family farms struggle with rising costs - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.8839321732521057,
+            "score": 0.9158983826637268,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -162,40 +293,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Tech rises as CoreWeave results reignite AI trade: AlphaCheck - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9187741279602051,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "As higher prices seep into broader economy, Fed officials consider faster hikes - AP News",
+            "title": "PepsiCo to cut about 1,000 North American jobs as it seeks to improve performance - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.8992800116539001,
+            "score": 0.9715656042098999,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mortgage rates jump sharply higher, after easing for four straight weeks. Here's why - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9142757654190063,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nissan, Back in Red, Cuts Sales View on China Slump - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.7561567425727844,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "PEP"
+            ],
+            "primary_ticker": "PEP",
+            "ticker_impacts": [
+                {
+                    "ticker": "PEP",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Subdued sales for Singles' Day, China's online shopping festival, signal weak appetite for spending - AP News",
@@ -209,35 +321,8 @@
         {
             "title": "California city hit with shocking utility rate hike proposal: \u2018A slap in the face to us\u2019 - New York Post",
             "sentiment": "POSITIVE",
-            "score": 0.8966290950775146,
+            "score": 0.896629273891449,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Kraft Group wants to build a $16 billion data center campus in a small Central Mass. town - The Boston Globe",
-            "sentiment": "NEGATIVE",
-            "score": 0.9035165309906006,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Fed\u2019s Goolsbee Says October CPI Report \u2018Borderline Disturbing\u2019 - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.9464433789253235,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. inflation report highlights strain of rising food, energy and housing costs - PBS",
-            "sentiment": "NEGATIVE",
-            "score": 0.8585109114646912,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -246,15 +331,6 @@
             "title": "Illinois Delays Hemp THC Ban For 250 Businesses That Sued Over It - Block Club Chicago",
             "sentiment": "NEGATIVE",
             "score": 0.8394210338592529,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Former Eli Lilly rep claims she was fired for complaining about marketing of Mounjaro diabetes drug - STAT",
-            "sentiment": "NEGATIVE",
-            "score": 0.9550855159759521,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
