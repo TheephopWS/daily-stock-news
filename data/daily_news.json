@@ -1,14 +1,32 @@
 {
-    "last_updated": "2026-11-14 12:28:33 UTC",
-    "total_articles": 30,
-    "bullish_articles": 6,
-    "bearish_articles": 24,
+    "last_updated": "2026-11-14 15:26:41 UTC",
+    "total_articles": 32,
+    "bullish_articles": 7,
+    "bearish_articles": 25,
     "articles": [
         {
-            "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver as Nvidia tumult deepens - Yahoo Finance",
+            "title": "The Fed chief said AI would tame inflation. His colleagues disagree. - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8937749862670898,
+            "score": 0.8093950748443604,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9498199224472046,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dow rises 200 points as Nvidia stabilizes, inflation data is slightly lower than expected: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8598459362983704,
+            "signal": "BULLISH",
             "tickers": [
                 "NVDA"
             ],
@@ -16,10 +34,36 @@
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
-                    "impact": "negative",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Jensen Huang\u2019s years-long effort to get close to China - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.7721372246742249,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "A New York Construction Worker Fell for a Tiny Car\u2014and Started a Rebellion - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.7547180652618408,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Why is Google cutting off Search from AI-free schools? Here are some theories - NPR",
@@ -39,35 +83,27 @@
             ]
         },
         {
-            "title": "Treasury Yield Surge Shatters Hopes Worst of Bond Rout Is Over - Bloomberg.com",
+            "title": "\u2018We will sue them\u2019: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8981290459632874,
+            "score": 0.9640879034996033,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The AI boom was built around Jensen Huang. Now what? - CNN",
+            "title": "Treasury Yield Surge Shatters Hopes Worst of Bond Rout Is Over - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9310367107391357,
+            "score": 0.8981289863586426,
             "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Asian Airlines Face a $148-a-Barrel Fuel Gamble - Crude Oil Prices Today | OilPrice.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9447786211967468,
+            "score": 0.9447787404060364,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -83,19 +119,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock futures edge lower after markets slide amid Nvidia woes: Live updates - CNBC",
+            "title": "Gold Holds Drop to Near One-Year Low as Rate-Hike Bets Increase - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9723071455955505,
+            "score": 0.8499250411987305,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Nscale warns it needs more cash ahead of $35bn IPO - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.7059699892997742,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
                     "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
         },
@@ -111,7 +164,7 @@
         {
             "title": "Inflation Is Sending Bond Yields Higher Again. Here\u2019s Why We\u2019re Not Worried - Morningstar",
             "sentiment": "NEGATIVE",
-            "score": 0.7472051978111267,
+            "score": 0.7472047805786133,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -152,7 +205,7 @@
         {
             "title": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.8940613865852356,
+            "score": 0.8940616846084595,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -169,7 +222,7 @@
         {
             "title": "Alaska Airlines to launch 5 new nonstop routes next year - The Seattle Times",
             "sentiment": "POSITIVE",
-            "score": 0.7378900647163391,
+            "score": 0.7378901243209839,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -178,7 +231,7 @@
         {
             "title": "OpenAI Joins Groundswell of Support for AI Chip Control Measures - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.8817480802536011,
+            "score": 0.8817479610443115,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA",
@@ -218,7 +271,7 @@
         {
             "title": "NYC Council passes ban on 'surveillance pricing' that relies on personal data - Gothamist",
             "sentiment": "NEGATIVE",
-            "score": 0.9245720505714417,
+            "score": 0.9245719313621521,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -236,7 +289,7 @@
         {
             "title": "United Airlines blocks AI agents from booking flights - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8564484715461731,
+            "score": 0.8564486503601074,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -251,40 +304,6 @@
             ]
         },
         {
-            "title": "Nvidia live updates: Jensen Huang resigns as CEO as third affair allegation emerges, risking broader fallout - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8410149812698364,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns - Yahoo",
-            "sentiment": "POSITIVE",
-            "score": 0.762852132320404,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "US home sales fall to lowest level since 2010 as mortgage rates soar - Financial Times",
             "sentiment": "NEGATIVE",
             "score": 0.9672482013702393,
@@ -294,69 +313,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "\u2018The end of Tesla!\u2019: Cybertruck diehards turn on Elon Musk after he pulls the plug - The Verge",
-            "sentiment": "NEGATIVE",
-            "score": 0.8630383014678955,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "FDA appears to pause controversial speedy review program, complete response letter disclosures - Fierce Pharma",
-            "sentiment": "NEGATIVE",
-            "score": 0.9325035810470581,
-            "signal": "BEARISH",
-            "tickers": [
-                "CNPV"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "CNPV",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "OpenAI Is Sustaining Enormous Losses - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.911375105381012,
+            "score": 0.9113746881484985,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nebius Earnings Top Estimates. Nvidia-Backed Neoclouds Sell Off. - Investor's Business Daily",
+            "title": "The Audacious Plan to Electrify the Global Economy\u2014Again ? Climate & Energy for Nov. 12 - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9002489447593689,
+            "score": 0.8399693965911865,
             "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Bank of America raises Fed interest rate warning after October CPI surprise - TheStreet",
             "sentiment": "NEGATIVE",
-            "score": 0.9146949648857117,
+            "score": 0.9146950840950012,
             "signal": "BEARISH",
             "tickers": [
                 "BAC"
@@ -380,9 +357,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "SEC enforcement against public companies hits record low under Atkins - InvestmentNews",
+            "sentiment": "NEGATIVE",
+            "score": 0.9732463955879211,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "The Confidential Payments Meta and TikTok Made to Addicted Teens - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8679127097129822,
+            "score": 0.8679128885269165,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -399,7 +385,7 @@
         {
             "title": "Social Security faces major cuts: Retirees in these 15 states could lose more than $515 a month - Cleveland.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8765954971313477,
+            "score": 0.8765956163406372,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
