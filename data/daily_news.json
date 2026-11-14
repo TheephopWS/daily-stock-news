@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-11-14 06:32:18 UTC",
-    "total_articles": 25,
-    "bullish_articles": 4,
-    "bearish_articles": 21,
+    "last_updated": "2026-11-14 09:27:01 UTC",
+    "total_articles": 31,
+    "bullish_articles": 5,
+    "bearish_articles": 26,
     "articles": [
+        {
+            "title": "BTC news: Prices slip below $70K, triggering $1.2 billion in liquidations - CoinDesk",
+            "sentiment": "NEGATIVE",
+            "score": 0.9666966795921326,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Stock futures rise after market dips amid Nvidia woes: Live updates - CNBC",
             "sentiment": "NEGATIVE",
@@ -22,44 +31,84 @@
             ]
         },
         {
-            "title": "Home sales in worst slump since the aftermath of the Great Recession - The Washington Post",
+            "title": "Mercedes-Benz halts all further investment at German facilities - DW.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9675009846687317,
+            "score": 0.9630332589149475,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Massive Microsoft outage disrupts businesses, schools and governments around the world - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.9164401888847351,
-            "signal": "BEARISH",
+            "title": "Cerebras Stock: Earnings Beat and New Microsoft Partnership - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9481573700904846,
+            "signal": "BULLISH",
             "tickers": [
-                "MSFT"
+                "MSFT",
+                "NVDA"
             ],
             "primary_ticker": "MSFT",
             "ticker_impacts": [
                 {
                     "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.8940615653991699,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Canada threatens to sue Stellantis over auto plant sale as Trump\u2019s trade war shifts production south - AP News",
+            "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9463862776756287,
+            "score": 0.9092786312103271,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Kalshi cuts ties to Donald Trump Jr after Democrats\u2019 midterm sweep - Financial Times",
+            "title": "Mamdani\u2019s budget has ballooned to nearly $130B \u2014 as mayor falls far short of targeted saving cuts - New York Post",
+            "sentiment": "POSITIVE",
+            "score": 0.9288964867591858,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMD"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Applied Materials Beats Fiscal Q4 Targets On Strong Chip-Gear Sales - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9480463266372681,
+            "score": 0.8748485445976257,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -75,23 +124,23 @@
             "ticker_impacts": []
         },
         {
-            "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal - CNBC",
+            "title": "OpenAI Joins Groundswell of Support for AI Chip Control Measures - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9427407383918762,
+            "score": 0.8817476034164429,
             "signal": "BULLISH",
             "tickers": [
-                "MSFT",
-                "AMZN"
+                "INTC",
+                "NVDA"
             ],
-            "primary_ticker": "MSFT",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "MSFT",
+                    "ticker": "INTC",
                     "impact": "positive",
-                    "relevance": "high"
+                    "relevance": "medium"
                 },
                 {
-                    "ticker": "AMZN",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -133,23 +182,6 @@
             ]
         },
         {
-            "title": "Nvidia live updates: Jensen Huang resigns as CEO as third affair allegation emerges, risking broader fallout - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8410147428512573,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Retail investors are buying Nvidia\u2019s stock crash like never before \u2014 history urges patience - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.8289669752120972,
@@ -184,38 +216,31 @@
             ]
         },
         {
-            "title": "Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns - Yahoo",
-            "sentiment": "POSITIVE",
-            "score": 0.7628517150878906,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "title": "US home sales fall to lowest level since 2010 as mortgage rates soar - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9672482013702393,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "House Foreign Affairs chair: \u2018Very likely\u2019 chips restrictions make it into defense bill - Politico",
-            "sentiment": "POSITIVE",
-            "score": 0.9155518412590027,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
+            "title": "U.S. Crude-Oil Stockpiles Post Unexpected Weekly Build - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9164711236953735,
+            "signal": "BEARISH",
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
+        },
+        {
+            "title": "Driverless - Paul Wells | Substack",
+            "sentiment": "NEGATIVE",
+            "score": 0.8191432952880859,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "\u2018The end of Tesla!\u2019: Cybertruck diehards turn on Elon Musk after he pulls the plug - The Verge",
@@ -235,6 +260,23 @@
             ]
         },
         {
+            "title": "FDA appears to pause controversial speedy review program, complete response letter disclosures - Fierce Pharma",
+            "sentiment": "NEGATIVE",
+            "score": 0.9325035810470581,
+            "signal": "BEARISH",
+            "tickers": [
+                "CNPV"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "CNPV",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "OpenAI Is Sustaining Enormous Losses - Futurism",
             "sentiment": "NEGATIVE",
             "score": 0.9113751649856567,
@@ -244,18 +286,35 @@
             "ticker_impacts": []
         },
         {
-            "title": "Advocacy groups sue AI giants to freeze new models, warning of \u2018catastrophic\u2019 risks - AP News",
+            "title": "Nebius Earnings Top Estimates. Nvidia-Backed Neoclouds Sell Off. - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9002489447593689,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Trump Tariffs Backfire as Canada Warns of Damage to US Economy - Newsweek",
             "sentiment": "NEGATIVE",
-            "score": 0.9318749904632568,
+            "score": 0.9654403328895569,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Trump Tariffs Backfire as Canada Warns of Damage to US Economy - Newsweek",
+            "title": "SoftBank Loses $7 Billion as AI Data Centers Turn Out to Be Risky Investment - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.9654403328895569,
+            "score": 0.973290205001831,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -296,6 +355,32 @@
             ]
         },
         {
+            "title": "For Some, Winter Heating Bills Could Skyrocket - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.9687039256095886,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The Confidential Payments Meta and TikTok Made to Addicted Teens - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.867912769317627,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "The Inflation Fight May Be About to Turn Painful - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.9248430728912354,
@@ -317,15 +402,6 @@
             "title": "Record credit card balances, fewer trips to McDonald\u2019s: More signs of strain ahead of the holidays - NBC News",
             "sentiment": "NEGATIVE",
             "score": 0.9724490642547607,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Heating costs will surge this winter due to Iran war \u2014 with heating oil prices spiking as much as 70% - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9526224732398987,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
