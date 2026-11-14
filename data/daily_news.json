@@ -1,22 +1,31 @@
 {
-    "last_updated": "2026-11-13 21:27:01 UTC",
-    "total_articles": 27,
-    "bullish_articles": 6,
+    "last_updated": "2026-11-14 00:41:47 UTC",
+    "total_articles": 25,
+    "bullish_articles": 4,
     "bearish_articles": 21,
     "articles": [
         {
-            "title": "Nasdaq falters as Nvidia shares fall on CEO exit, oil prices rise: Live updates - CNBC",
+            "title": "Home sales in worst slump since the aftermath of the Great Recession - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9616991281509399,
+            "score": 0.9675009846687317,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SpaceX and Tesla Talks on Record Merger Are Said to Progress - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9080637693405151,
+            "signal": "BULLISH",
             "tickers": [
-                "NVDA"
+                "TSLA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
-                    "impact": "negative",
+                    "ticker": "TSLA",
+                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
@@ -39,18 +48,26 @@
             ]
         },
         {
-            "title": "US home sales fall to lowest level since 2010 as mortgage rates soar - Financial Times",
+            "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email - WIRED",
             "sentiment": "NEGATIVE",
-            "score": 0.9672482013702393,
+            "score": 0.9629896879196167,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Interim Nvidia CEO Colette Kress Has Tried to Tame Nvidia\u2019s Riskiest Bets - The Information",
+            "title": "Exclusive: US DOJ probes Nvidia as fallout from Huang\u2019s resignation ripples across Washington - Semafor",
             "sentiment": "NEGATIVE",
-            "score": 0.8363189101219177,
+            "score": 0.8738523125648499,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -65,17 +82,17 @@
             ]
         },
         {
-            "title": "'Big Short' Michael Burry says to 'get out' of Nvidia stock on CEO Jensen Huang's exit - Business Insider",
+            "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash - Ars Technica",
             "sentiment": "NEGATIVE",
-            "score": 0.9641403555870056,
+            "score": 0.945888340473175,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "GOOGL"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "GOOGL",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "GOOGL",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -100,10 +117,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Ondas Posts Record Q3 2026 Revenue of $167.5 Million on Strong Bookings and Backlog Growth; Raises Full-Year Outlook - Ondas inc.",
-            "sentiment": "POSITIVE",
-            "score": 0.942041277885437,
-            "signal": "BULLISH",
+            "title": "Updated: Bristol Myers shakes up R&D leadership ahead of patent cliff - Endpoints News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8814401626586914,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -135,29 +152,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "AMD Stock Gets Upgrade. What It Says About the Future of the AI Trade. - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.9328920245170593,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMD",
-                "NVDA"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "The housing market is in 'a standoff.' Here's how to sell your home - USA Today",
             "sentiment": "NEGATIVE",
             "score": 0.8083301186561584,
@@ -167,28 +161,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Neurosterix pulls in $105M for schizophrenia drug, taps Cobenfy vets - Endpoints News",
-            "sentiment": "POSITIVE",
-            "score": 0.7631157636642456,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Alibaba, Tencent shares fall on report U.S. weighs curbs on remote AI chip access - Yahoo Finance",
+            "title": "Social Security faces major cuts: Retirees in these 15 states could lose more than $515 a month - Cleveland.com",
             "sentiment": "NEGATIVE",
-            "score": 0.974918782711029,
+            "score": 0.8765956163406372,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Europe\u2019s electric car sales jump 49% as global EV sales grow - Electrek",
-            "sentiment": "POSITIVE",
-            "score": 0.946269154548645,
-            "signal": "BULLISH",
+            "title": "A Quarter of Key Goods Vulnerable to Supply Disruptions, Study Finds - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9211961030960083,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -220,32 +205,6 @@
             ]
         },
         {
-            "title": "BMO says silver\u2019s solar boom is fading, investment demand unlikely to compensate - Kitco",
-            "sentiment": "NEGATIVE",
-            "score": 0.9721384644508362,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Why is gasoline suddenly under $4 a gallon? - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.8142747282981873,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Heating costs will surge this winter due to Iran war \u2014 with heating oil prices spiking as much as 70% - New York Post",
             "sentiment": "NEGATIVE",
             "score": 0.9526224732398987,
@@ -273,18 +232,26 @@
             "ticker_impacts": []
         },
         {
+            "title": "View / Nvidia is more than a chip company - Semafor",
+            "sentiment": "NEGATIVE",
+            "score": 0.7402758002281189,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "City needs to shake up sluggish O\u2019Hare terminal project or risk ire of more air travelers, report warns - Chicago Sun-Times",
             "sentiment": "NEGATIVE",
             "score": 0.9657643437385559,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million - BleepingComputer",
-            "sentiment": "NEGATIVE",
-            "score": 0.8298419713973999,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -309,13 +276,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "Ed Yardeni Backs 50-Point Fed Hike in December - iShares 1-3 Year Treasury Bond ETF (NASDAQ:SHY) - Benzinga",
-            "sentiment": "POSITIVE",
-            "score": 0.9108704924583435,
-            "signal": "BULLISH",
+            "title": "As higher prices seep into broader economy, Fed officials consider faster hikes - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8992803692817688,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Goldman adds another rate hike to Fed outlook after hot inflation data - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9385141134262085,
+            "signal": "BULLISH",
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         }
     ]
 }
