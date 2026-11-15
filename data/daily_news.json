@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-11-15 06:32:31 UTC",
-    "total_articles": 24,
-    "bullish_articles": 3,
-    "bearish_articles": 21,
+    "last_updated": "2026-11-15 09:27:04 UTC",
+    "total_articles": 27,
+    "bullish_articles": 5,
+    "bearish_articles": 22,
     "articles": [
         {
-            "title": "FAA says airlines can resume flights after hours-long ground stop, but delays and cancellations to continue - CNN",
+            "title": "Ari Emanuel Blames FAA Issues On Pete Buttigieg - Deadline",
             "sentiment": "NEGATIVE",
-            "score": 0.8067797422409058,
+            "score": 0.8706992864608765,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Trump doesn\u2019t plan to raise Nvidia, spy issue during China trip: U.S. officials - CNBC",
+            "title": "Bessent accuses Lutnick of failing to prevent China from obtaining Nvidia chips - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.8457472324371338,
+            "score": 0.9097601175308228,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -33,31 +33,34 @@
         {
             "title": "Super Micro, run by Jensen Huang\u2019s friend, says Megaspeed was \u2018never\u2019 its customer - Fortune",
             "sentiment": "NEGATIVE",
-            "score": 0.8895415663719177,
+            "score": 0.8895413279533386,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "No radar outage: National Weather Service sets record straight - News4JAX",
+            "title": "US Futures Gain With Microsoft Outage, Producer Prices in Focus - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9417371153831482,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade | Markets P.M. for Nov. 13 - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9626690745353699,
+            "score": 0.9748654365539551,
             "signal": "BEARISH",
             "tickers": [
+                "MSFT",
+                "INTC",
                 "NVDA"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "MSFT",
             "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
                 {
                     "ticker": "NVDA",
                     "impact": "negative",
@@ -66,18 +69,9 @@
             ]
         },
         {
-            "title": "Family Dollar to pay $63 million to settle claims it overcharged customers - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8400171399116516,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "The Fed chief said AI would tame inflation. His colleagues disagree. - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8093950748443604,
+            "score": 0.8093957901000977,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -121,16 +115,33 @@
         {
             "title": "Coast Guard launches criminal investigation into MSC Poesia cruise ship over potential \"magic pipe\" - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.704900860786438,
+            "score": 0.7049009799957275,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Arm boss Rene Haas approached in Nvidia CEO search - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.8646968007087708,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "What the Nvidia scandal means for the company's earnings next week - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7154226303100586,
+            "score": 0.715422511100769,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -154,9 +165,27 @@
             "ticker_impacts": []
         },
         {
+            "title": "Over 1,322 flights delayed, 268 canceled amid widespread U.S. travel disruptions - NJ.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8859238028526306,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9079579710960388,
+            "score": 0.9079578518867493,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Cellectis will shed 70% of workforce as part of in vivo pivot - Fierce Biotech",
+            "sentiment": "NEGATIVE",
+            "score": 0.8072901964187622,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -174,7 +203,7 @@
         {
             "title": "Neocloud Nscale Reveals $5.5 Billion Debt and Closer Nvidia Ties Ahead of IPO - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9395929574966431,
+            "score": 0.9395930767059326,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -189,9 +218,18 @@
             ]
         },
         {
+            "title": "US Postal Service to permanently raise postage rates in 2027 - WWMT",
+            "sentiment": "POSITIVE",
+            "score": 0.9304459095001221,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Doctors want liability shield from AI mistakes - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.8076366782188416,
+            "score": 0.8076364994049072,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -226,25 +264,33 @@
         {
             "title": "Treasury Yield Surge Shatters Hopes Worst of Bond Rout Is Over - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8981289863586426,
+            "score": 0.8981290459632874,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Thanksgiving staple recalled at Costco over possible contamination with cleaning chemical - Fox Business",
+            "title": "CoreWeave stuns Wall Street as Nvidia scandal deepens - TheStreet",
             "sentiment": "NEGATIVE",
-            "score": 0.9636380672454834,
+            "score": 0.8485702276229858,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.8940616846084595,
+            "score": 0.8940613865852356,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -259,9 +305,18 @@
             ]
         },
         {
+            "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9268726110458374,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "NYC Council passes ban on 'surveillance pricing' that relies on personal data - Gothamist",
             "sentiment": "NEGATIVE",
-            "score": 0.9245719313621521,
+            "score": 0.9245720505714417,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -270,7 +325,7 @@
         {
             "title": "SpaceX and Tesla Talks on Record Merger Are Said to Progress - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9080637693405151,
+            "score": 0.9080640077590942,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
