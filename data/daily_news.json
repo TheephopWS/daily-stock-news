@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-11-15 15:26:54 UTC",
-    "total_articles": 30,
-    "bullish_articles": 6,
-    "bearish_articles": 24,
+    "last_updated": "2026-11-15 18:27:16 UTC",
+    "total_articles": 23,
+    "bullish_articles": 4,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "Jensen Huang reportedly gave up in final hours as Nvidia CEO \u2014 as his affair scandal wipes away more than $1T in value - Yahoo Finance",
+            "title": "Nvidia scandal hits Trump\u2019s political vulnerabilities after Democratic sweep - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8547260761260986,
+            "score": 0.9483675956726074,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -20,6 +20,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9595866799354553,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Software company with thousands of Fortune 500 clients joins Microsoft in experiencing major outage - Fox Business",
@@ -53,7 +62,7 @@
         {
             "title": "MAGA turns on Lutnick amid China spy scandal - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.863348126411438,
+            "score": 0.8633476495742798,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -69,31 +78,14 @@
             "ticker_impacts": []
         },
         {
-            "title": "Should You Really Buy Nvidia Stock After CEO Jensen Huang's Exit? Wall Street Has a Clear Answer for Investors. - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8773084282875061,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "US Futures Gain With Microsoft Outage, Producer Prices in Focus - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.9748654365539551,
             "signal": "BEARISH",
             "tickers": [
                 "MSFT",
-                "NVDA",
-                "INTC"
+                "INTC",
+                "NVDA"
             ],
             "primary_ticker": "MSFT",
             "ticker_impacts": [
@@ -103,34 +95,16 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Caltrain Gets $750 Million Boost for Long-Awaited Downtown SF Extension - SFist",
-            "sentiment": "POSITIVE",
-            "score": 0.8931653499603271,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "The Fed chief said AI would tame inflation. His colleagues disagree. - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8093948364257812,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Consumer Alert: Urgent Park Outside Recall Issued for Nearly 721K BMW Vehicles - NHTSA | National Highway Traffic Safety Administration (.gov)",
@@ -144,7 +118,7 @@
         {
             "title": "In China, Nvidia scandal stirs defiance and skepticism - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9265043139457703,
+            "score": 0.9265040755271912,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -170,16 +144,7 @@
         {
             "title": "Coast Guard launches criminal investigation into MSC Poesia cruise ship over potential \"magic pipe\" - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.7049014568328857,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper - BleepingComputer",
-            "sentiment": "NEGATIVE",
-            "score": 0.8327434062957764,
+            "score": 0.704900860786438,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -188,7 +153,7 @@
         {
             "title": "What the Nvidia scandal means for the company's earnings next week - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7154231071472168,
+            "score": 0.7154226303100586,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -203,9 +168,9 @@
             ]
         },
         {
-            "title": "Over 1,322 flights delayed, 268 canceled amid widespread U.S. travel disruptions - NJ.com",
+            "title": "Gas prices are falling below $4. Why it's not about the election. - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8859237432479858,
+            "score": 0.9532561898231506,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -214,17 +179,8 @@
         {
             "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9079578518867493,
+            "score": 0.9079579710960388,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Wholesale inflation rose in October to highest annual rate in nearly four years - CNN",
-            "sentiment": "POSITIVE",
-            "score": 0.936072051525116,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -249,7 +205,7 @@
         {
             "title": "US Postal Service to permanently raise postage rates in 2027 - WWMT",
             "sentiment": "POSITIVE",
-            "score": 0.9304456114768982,
+            "score": 0.9304459095001221,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -258,7 +214,7 @@
         {
             "title": "Doctors want liability shield from AI mistakes - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.8076369166374207,
+            "score": 0.8076366782188416,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -267,7 +223,7 @@
         {
             "title": "Why is Google cutting off Search from AI-free schools? Here are some theories - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9460543394088745,
+            "score": 0.9460544586181641,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -282,18 +238,9 @@
             ]
         },
         {
-            "title": "\u2018We will sue them\u2019: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9640879034996033,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Global Oil Market Set to Return to Surplus as Gulf Exports Recover, IEA Says - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.8300445079803467,
+            "score": 0.830045223236084,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -311,7 +258,7 @@
         {
             "title": "Inflation Is Sending Bond Yields Higher Again. Here\u2019s Why We\u2019re Not Worried - Morningstar",
             "sentiment": "NEGATIVE",
-            "score": 0.7472040057182312,
+            "score": 0.7472047805786133,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -320,7 +267,7 @@
         {
             "title": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.8940615653991699,
+            "score": 0.8940616846084595,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -335,39 +282,13 @@
             ]
         },
         {
-            "title": "Cisco Stock: Cisco Earnings, Revenue Top Estimates On AI Data Center Growth - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9647673964500427,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "NYC Council passes ban on 'surveillance pricing' that relies on personal data - Gothamist",
-            "sentiment": "NEGATIVE",
-            "score": 0.9245718717575073,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SpaceX and Tesla Talks on Record Merger Are Said to Progress - Bloomberg.com",
+            "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9080637693405151,
+            "score": 0.9268726110458374,
             "signal": "BULLISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years - NPR",
