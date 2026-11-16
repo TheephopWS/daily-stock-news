@@ -1,22 +1,65 @@
 {
-    "last_updated": "2026-11-15 21:27:08 UTC",
+    "last_updated": "2026-11-16 00:50:25 UTC",
     "total_articles": 26,
-    "bullish_articles": 4,
-    "bearish_articles": 22,
+    "bullish_articles": 3,
+    "bearish_articles": 23,
     "articles": [
         {
-            "title": "US Flight Chaos Spills Into Weekend After Nationwide Stoppage - Bloomberg.com",
+            "title": "FAA ground stop latest updates: Controllers\u2019 union chief says communications with some planes were disrupted; cancellations top 5,000; Duffy blames L3Harris - Yahoo",
             "sentiment": "NEGATIVE",
-            "score": 0.9593310952186584,
+            "score": 0.9598316550254822,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Blumenthal says Lutnick \u2018must go\u2019 following Nvidia scandal - The Hill",
+            "sentiment": "NEGATIVE",
+            "score": 0.8979721665382385,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "A liberal Brooklyn food co-op boycotts Israeli products. New Jersey regulators are scrutinizing it. - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.7753096222877502,
+            "score": 0.7753098607063293,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Italy fines Meta \u20ac805m over accessing users' photos - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9442641735076904,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone' - CoinDesk",
+            "sentiment": "NEGATIVE",
+            "score": 0.9684748649597168,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -38,8 +81,8 @@
             "signal": "BEARISH",
             "tickers": [
                 "MSFT",
-                "NFLX",
-                "WMT"
+                "WMT",
+                "NFLX"
             ],
             "primary_ticker": "MSFT",
             "ticker_impacts": [
@@ -49,25 +92,16 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "NFLX",
+                    "ticker": "WMT",
                     "impact": "negative",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "WMT",
+                    "ticker": "NFLX",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "MAGA turns on Lutnick amid China spy scandal - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.8633476495742798,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home - CNBC",
@@ -79,18 +113,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Not Only Did President Donald Trump Fail to Keep His Social Security Promise, but He May Have Accelerated the Program's Path to Insolvency - The Motley Fool",
+            "title": "Should You Really Buy Nvidia Stock After CEO Jensen Huang's Exit? Wall Street Has a Clear Answer for Investors. - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.783066987991333,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia\u2019s 60% target cut exposes a Wall Street split - TheStreet",
-            "sentiment": "NEGATIVE",
-            "score": 0.7091192007064819,
+            "score": 0.822191059589386,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -105,10 +130,77 @@
             ]
         },
         {
+            "title": "The Nvidia scandal is heightening America\u2019s AI rivalry with China ahead of Trump\u2019s visit - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8369761109352112,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "INTC"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "City declares balcony rooms unsafe at downtown hotel - Ocala Gazette",
+            "sentiment": "NEGATIVE",
+            "score": 0.9677984714508057,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "A changing economy has worsened Social Security\u2019s shortfall, AARP says - NewsNation",
+            "sentiment": "NEGATIVE",
+            "score": 0.8134600520133972,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gold is on the cusp of breaking key support, and further USD strength could drive price to $3,500/oz \u2013 Jesse Colombo - Kitco",
+            "sentiment": "NEGATIVE",
+            "score": 0.9510659575462341,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade | Markets P.M. for Nov. 13 - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9403941035270691,
+            "score": 0.9403942227363586,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Caltrain Gets $750 Million Boost for Long-Awaited Downtown SF Extension - SFist",
+            "sentiment": "POSITIVE",
+            "score": 0.8931653499603271,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -116,7 +208,7 @@
         {
             "title": "FDA Announces Nationwide Recall on Toothpaste and Mouthwash Due to Potential Health Risks - EatingWell",
             "sentiment": "NEGATIVE",
-            "score": 0.8139373660087585,
+            "score": 0.8139378428459167,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -125,7 +217,7 @@
         {
             "title": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast - Electrek",
             "sentiment": "POSITIVE",
-            "score": 0.9064959287643433,
+            "score": 0.9064956903457642,
             "signal": "BULLISH",
             "tickers": [
                 "TSLA"
@@ -158,26 +250,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "In China, Nvidia scandal stirs defiance and skepticism - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9265040755271912,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Coast Guard launches criminal investigation into MSC Poesia cruise ship over potential \"magic pipe\" - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.704900860786438,
+            "score": 0.7049014568328857,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -203,16 +278,7 @@
         {
             "title": "PPI report: Inflation shows signs of broadening in red-hot wholesale prices, keeping pressure on Fed to hike rates - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7401695251464844,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gas prices are falling below $4. Why it's not about the election. - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9532561898231506,
+            "score": 0.740169107913971,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -221,17 +287,8 @@
         {
             "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9079579710960388,
+            "score": 0.9079578518867493,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Scout\u2019s Gas-Backed Traveler SUV Will Make 800 HP, Its CEO Told Us - The Drive",
-            "sentiment": "POSITIVE",
-            "score": 0.8458728194236755,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -239,7 +296,7 @@
         {
             "title": "Why is Google cutting off Search from AI-free schools? Here are some theories - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9460544586181641,
+            "score": 0.9460543394088745,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -263,18 +320,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Global Oil Market Set to Return to Surplus as Gulf Exports Recover, IEA Says - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.830045223236084,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Nscale warns it needs more cash ahead of $35bn IPO - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.7059699892997742,
+            "score": 0.7059726715087891,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -285,32 +333,6 @@
                     "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Inflation Is Sending Bond Yields Higher Again. Here\u2019s Why We\u2019re Not Worried - Morningstar",
-            "sentiment": "NEGATIVE",
-            "score": 0.7472047805786133,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.8940616846084595,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
                 }
             ]
         }
