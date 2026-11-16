@@ -1,9 +1,53 @@
 {
-    "last_updated": "2026-11-16 12:39:21 UTC",
-    "total_articles": 21,
+    "last_updated": "2026-11-16 15:36:03 UTC",
+    "total_articles": 26,
     "bullish_articles": 5,
-    "bearish_articles": 16,
+    "bearish_articles": 21,
     "articles": [
+        {
+            "title": "Transportation secretary says he doesn\u2019t apologize for FAA\u2019s nationwide ground stop - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8459584712982178,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8541321754455566,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "FDA rejects Summit\u2019s ivonescimab, derailing US arrival of much-hyped PD-1xVEGF class - Fierce Pharma",
+            "sentiment": "NEGATIVE",
+            "score": 0.8994625210762024,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Beef Imports Aren't Helping the Larger Problem - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.9690561890602112,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "As US credit card debt hits $1.29T, bank algorithms are rejecting debt-free, six-figure earners - Fox Business",
             "sentiment": "NEGATIVE",
@@ -31,36 +75,89 @@
             ]
         },
         {
-            "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business - CNBC",
+            "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend. - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9274187088012695,
+            "score": 0.9559469819068909,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Death is driving Americans into debt - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.8633662462234497,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Jensen Huang's daughter was on the rise inside Nvidia. Succession may have come too soon. - Business Insider",
+            "sentiment": "POSITIVE",
+            "score": 0.9177358150482178,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Jim Cramer Calls It An Insult To NVIDIA\u2019s 49,000 Employees To Think The Company Is Nothing Without The \u201cGuy With A Leather Jacket,\u201d Doubles Down On Support For Interim CEO - Wccftech",
+            "sentiment": "NEGATIVE",
+            "score": 0.8238220810890198,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9579709768295288,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Crypto\u2019s Slow-Motion Selloff Leaves Traders Weary and Hopeless - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.969672441482544,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Unruly Logan Airport passenger tackled, arrested after trying to grab computer behind baggage counter - WCVB",
+            "sentiment": "NEGATIVE",
+            "score": 0.9212693572044373,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "IRS raises 401(k) contribution limit by $1,000 for 2027 as retirement savings caps increase - Fox Business",
             "sentiment": "POSITIVE",
             "score": 0.8818389773368835,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Omaha pizza place closes both its Blackstone and Aksarben locations - WOWT",
-            "sentiment": "NEGATIVE",
-            "score": 0.9485186338424683,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -73,6 +170,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "The hottest job in AI right now may be counterintelligence as companies hire to protect secrets - Fortune",
+            "sentiment": "POSITIVE",
+            "score": 0.8636415004730225,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Nvidia\u2019s retreat from Huang's circular AI financing won\u2019t bring back affordable GeForce cards in 2027 - Notebookcheck",
@@ -92,28 +206,19 @@
             ]
         },
         {
+            "title": "Over 720K BMW Vehicles Recalled Over Fire Risk - TMZ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9369211196899414,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "How a $49 sushi boat and sizzling dumplings helped turn P.F. Chang\u2019s around - CNN",
             "sentiment": "NEGATIVE",
             "score": 0.8807859420776367,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone' - CoinDesk",
-            "sentiment": "NEGATIVE",
-            "score": 0.9684748649597168,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S. - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7725696563720703,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -146,73 +251,45 @@
             "ticker_impacts": []
         },
         {
+            "title": "Nvidia exposed to possible lawsuits after Jensen Huang\u2019s downfall - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.8841159343719482,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "A changing economy has worsened Social Security\u2019s shortfall, AARP says - NewsNation",
             "sentiment": "NEGATIVE",
-            "score": 0.8134593367576599,
+            "score": 0.9176874756813049,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade | Markets P.M. for Nov. 13 - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9403942227363586,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Caltrain Gets $750 Million Boost for Long-Awaited Downtown SF Extension - SFist",
+            "title": "Riverside restaurant Oaxaca De Mis Amores sees surge in customers after social media influencer's video goes viral - ABC7 Los Angeles",
             "sentiment": "POSITIVE",
-            "score": 0.8931654095649719,
+            "score": 0.9499359726905823,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "FDA Announces Nationwide Recall on Toothpaste and Mouthwash Due to Potential Health Risks - EatingWell",
+            "title": "Coast Guard launches criminal investigation into MSC Poesia cruise ship over potential \"magic pipe\" - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.8139375448226929,
+            "score": 0.7049009799957275,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Consumer Alert: Urgent Park Outside Recall Issued for Nearly 721K BMW Vehicles - NHTSA | National Highway Traffic Safety Administration (.gov)",
-            "sentiment": "NEGATIVE",
-            "score": 0.9104482531547546,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper - BleepingComputer",
-            "sentiment": "NEGATIVE",
-            "score": 0.8327438235282898,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. debt now equals the whole economy \u2014 and tax cuts since 2001 added over $10 trillion - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.8666846752166748,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US Postal Service to permanently raise postage rates in 2027 - WWMT",
-            "sentiment": "POSITIVE",
-            "score": 0.9304459095001221,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
