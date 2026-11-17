@@ -1,22 +1,87 @@
 {
-    "last_updated": "2026-11-17 06:35:41 UTC",
-    "total_articles": 24,
-    "bullish_articles": 7,
-    "bearish_articles": 17,
+    "last_updated": "2026-11-17 09:28:34 UTC",
+    "total_articles": 28,
+    "bullish_articles": 9,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "China\u2019s Domestic Demand Continues to Disappoint - WSJ",
+            "title": "Tech Stocks Slide as Nvidia, Anthropic Tests Await: Markets Wrap - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.728547990322113,
+            "score": 0.9695918560028076,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia stock slips as Jensen Huang reportedly weighs CEO comeback, Musk backs return - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9524296522140503,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Amazon loses 40 Leo satellites as Boeing-Lockheed rocket fails - DW.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9661126136779785,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN",
+                "BA"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Exclusive | Trump Administration to Name Nvidia Among AI \u2018National Champions\u2019 - WSJ",
+            "sentiment": "POSITIVE",
+            "score": 0.7632798552513123,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Jensen Huang\u2019s wife could land massive divorce settlement, attorney says - NewsNation",
             "sentiment": "POSITIVE",
-            "score": 0.7567474246025085,
+            "score": 0.7567484974861145,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -40,6 +105,15 @@
             ]
         },
         {
+            "title": "Japan\u2019s Economy Contracts Amid Inflation Squeeze - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.974503755569458,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Costco recalls whipped cream over potential cleaning chemical contamination - The Washington Post",
             "sentiment": "NEGATIVE",
             "score": 0.9649102091789246,
@@ -49,35 +123,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia\u2019s CEO Search Draws Fire With Bessent\u2019s \u2018Shakeup\u2019 Call - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.9536046385765076,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.9613138437271118,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates - CNBC",
+            "title": "Nvidia\u2019s Days as an Open Checkbook for the AI Economy Are Numbered - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.9317774772644043,
+            "score": 0.830366313457489,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -92,9 +140,36 @@
             ]
         },
         {
+            "title": "China\u2019s economic activity falters in October amid sluggish retail sales - South China Morning Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9728806614875793,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Crypto\u2019s Slow-Motion Selloff Leaves Traders Weary and Hopeless - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.969672441482544,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Oil Steadies With Iranian Attack on Base in Bahrain in Focus - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.7683128714561462,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Italy fines Meta $887M for accessing Android users\u2019 photos - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8995057344436646,
+            "score": 0.8995055556297302,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -128,7 +203,7 @@
         {
             "title": "US, Allies Agree to Guard AI Supply Chains From China, FT Says - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9102419018745422,
+            "score": 0.9102421998977661,
             "signal": "BULLISH",
             "tickers": [
                 "INTC"
@@ -143,19 +218,61 @@
             ]
         },
         {
-            "title": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9014060497283936,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Bessent says if Nvidia was a bank, 'a lot of the executives would be removed' as Huang eyes return - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9115167856216431,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Samsung, SK hynix, and Micron Fail to Get DRAM Antitrust Suit Dismissed - TechPowerUp",
+            "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal - The Verge",
             "sentiment": "NEGATIVE",
-            "score": 0.7102761268615723,
+            "score": 0.8773497939109802,
             "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks - BleepingComputer",
+            "sentiment": "NEGATIVE",
+            "score": 0.9332234859466553,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.9014062285423279,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -172,7 +289,7 @@
         {
             "title": "Jim Cramer Says Nvidia\u2019s New CEO Asked the Questions Jensen Huang Wouldn\u2019t Answer - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.784651517868042,
+            "score": 0.7846500873565674,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -222,18 +339,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend. - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9559469819068909,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Jensen Huang's daughter was on the rise inside Nvidia. Succession may have come too soon. - Business Insider",
+            "title": "Dan Ives Says Nvidia Turmoil Could Hand Big Tech an Unexpected AI Advantage as Hyperscalers Gain, Dismiss - Benzinga",
             "sentiment": "POSITIVE",
-            "score": 0.9177356958389282,
+            "score": 0.9084527492523193,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -248,18 +356,9 @@
             ]
         },
         {
-            "title": "Crypto\u2019s Slow-Motion Selloff Leaves Traders Weary and Hopeless - Bloomberg.com",
+            "title": "DJT Stock Tumbles as Trump Media Races Against a $1 Billion Deadline - Benzinga",
             "sentiment": "NEGATIVE",
-            "score": 0.969672441482544,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How a $49 sushi boat and sizzling dumplings helped turn P.F. Chang\u2019s around - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.8807858824729919,
+            "score": 0.9463827610015869,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -268,7 +367,7 @@
         {
             "title": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9353135228157043,
+            "score": 0.9353138208389282,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -277,17 +376,8 @@
         {
             "title": "How Canadian stocks could be big winners of U.S. midterms - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9301585555076599,
+            "score": 0.930158793926239,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Delaware - The Harvard Law School Forum on Corporate Governance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8907328248023987,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
