@@ -1,9 +1,52 @@
 {
-    "last_updated": "2026-11-17 00:44:44 UTC",
-    "total_articles": 23,
-    "bullish_articles": 5,
-    "bearish_articles": 18,
+    "last_updated": "2026-11-17 03:29:19 UTC",
+    "total_articles": 20,
+    "bullish_articles": 4,
+    "bearish_articles": 16,
     "articles": [
+        {
+            "title": "Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9694322943687439,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors - Ars Technica",
+            "sentiment": "NEGATIVE",
+            "score": 0.9613138437271118,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9317774772644043,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Italy fines Meta $887M for accessing Android users\u2019 photos - The Washington Post",
             "sentiment": "NEGATIVE",
@@ -22,6 +65,23 @@
             ]
         },
         {
+            "title": "Orlando International Airport Issues Ground Stop Two Days After Nationwide Incident - WDW News Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.9602938890457153,
+            "signal": "BEARISH",
+            "tickers": [
+                "MCO"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "MCO",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Thousands of US flights cancelled or delayed two days after grounding of planes nationwide - BBC",
             "sentiment": "NEGATIVE",
             "score": 0.9458585977554321,
@@ -35,6 +95,15 @@
             "sentiment": "POSITIVE",
             "score": 0.9014061093330383,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Saudi Arabia and Nigeria see oil sales to the world's largest economy plunge as Venezuela becomes a new US oil frontier, putting even Canada under pressure - Business Insider Africa",
+            "sentiment": "NEGATIVE",
+            "score": 0.971699595451355,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -66,24 +135,6 @@
             ]
         },
         {
-            "title": "FDA rejects Summit\u2019s ivonescimab, derailing US arrival of much-hyped PD-1xVEGF class - Fierce Pharma",
-            "sentiment": "NEGATIVE",
-            "score": 0.8994626402854919,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Federal Judge Rejects Memory Makers\u2019 Defense To Advance Class-Action Antitrust Lawsuit; Samsung, Micron & SK hynix Must Face The Music Over Artificial DRAM Shortage - Wccftech",
-            "sentiment": "NEGATIVE",
-            "score": 0.9383150935173035,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "As US credit card debt hits $1.29T, bank algorithms are rejecting debt-free, six-figure earners - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9571009278297424,
@@ -102,52 +153,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Jensen Huang's daughter was on the rise inside Nvidia. Succession may have come too soon. - Business Insider",
-            "sentiment": "POSITIVE",
-            "score": 0.9177359938621521,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Trump officials trade blows as Nvidia spying scandal deepens - The Observer",
-            "sentiment": "NEGATIVE",
-            "score": 0.8646015524864197,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Crypto\u2019s Slow-Motion Selloff Leaves Traders Weary and Hopeless - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.969672441482544,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Unruly Logan Airport passenger tackled, arrested after trying to grab computer behind baggage counter - WCVB",
-            "sentiment": "NEGATIVE",
-            "score": 0.9212693572044373,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -158,15 +166,6 @@
             "sentiment": "POSITIVE",
             "score": 0.8818389773368835,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Omaha pizza place closes both its Blackstone and Aksarben locations - WOWT",
-            "sentiment": "NEGATIVE",
-            "score": 0.9485186338424683,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -198,28 +197,10 @@
             ]
         },
         {
-            "title": "Over 720K BMW Vehicles Recalled Over Fire Risk - TMZ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9369211196899414,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "How a $49 sushi boat and sizzling dumplings helped turn P.F. Chang\u2019s around - CNN",
             "sentiment": "NEGATIVE",
             "score": 0.8807858824729919,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "How Canadian stocks could be big winners of U.S. midterms - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9301585555076599,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -243,13 +224,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Meghan Markle\u2019s Online Shop Has Year on Year Drop at Crucial Time - Newsweek",
+            "title": "Nvidia exposed to possible lawsuits after Jensen Huang\u2019s downfall - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9758502840995789,
+            "score": 0.8841160535812378,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
