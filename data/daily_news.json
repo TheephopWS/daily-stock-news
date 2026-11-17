@@ -1,23 +1,67 @@
 {
-    "last_updated": "2026-11-17 03:29:19 UTC",
-    "total_articles": 20,
-    "bullish_articles": 4,
-    "bearish_articles": 16,
+    "last_updated": "2026-11-17 06:35:41 UTC",
+    "total_articles": 24,
+    "bullish_articles": 7,
+    "bearish_articles": 17,
     "articles": [
         {
-            "title": "Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap - Bloomberg",
+            "title": "China\u2019s Domestic Demand Continues to Disappoint - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9694322943687439,
+            "score": 0.728547990322113,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Jensen Huang\u2019s wife could land massive divorce settlement, attorney says - NewsNation",
+            "sentiment": "POSITIVE",
+            "score": 0.7567474246025085,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Investors sue chip giant Intel after 29% stock plunge - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9622873067855835,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "INTC",
             "ticker_impacts": [
                 {
                     "ticker": "INTC",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Costco recalls whipped cream over potential cleaning chemical contamination - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9649102091789246,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia\u2019s CEO Search Draws Fire With Bessent\u2019s \u2018Shakeup\u2019 Call - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9536046385765076,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
@@ -50,7 +94,7 @@
         {
             "title": "Italy fines Meta $887M for accessing Android users\u2019 photos - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8995056748390198,
+            "score": 0.8995057344436646,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -82,19 +126,36 @@
             ]
         },
         {
-            "title": "Thousands of US flights cancelled or delayed two days after grounding of planes nationwide - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9458585977554321,
-            "signal": "BEARISH",
+            "title": "US, Allies Agree to Guard AI Supply Chains From China, FT Says - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9102419018745422,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.9014060497283936,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9014061093330383,
-            "signal": "BULLISH",
+            "title": "Samsung, SK hynix, and Micron Fail to Get DRAM Antitrust Suit Dismissed - TechPowerUp",
+            "sentiment": "NEGATIVE",
+            "score": 0.7102761268615723,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -109,6 +170,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Jim Cramer Says Nvidia\u2019s New CEO Asked the Questions Jensen Huang Wouldn\u2019t Answer - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.784651517868042,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Morgan Stanley doubles down on SpaceX price target ahead of 2027 - TheStreet",
             "sentiment": "NEGATIVE",
             "score": 0.9561005234718323,
@@ -120,7 +198,7 @@
         {
             "title": "Traders Turn to Kalshi Stock \u2018Perps\u2019 on Nvidia and SpaceX as Leverage Fears Grow - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.8717566132545471,
+            "score": 0.8717564344406128,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -153,6 +231,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Jensen Huang's daughter was on the rise inside Nvidia. Succession may have come too soon. - Business Insider",
+            "sentiment": "POSITIVE",
+            "score": 0.9177356958389282,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Crypto\u2019s Slow-Motion Selloff Leaves Traders Weary and Hopeless - Bloomberg.com",
             "sentiment": "NEGATIVE",
             "score": 0.969672441482544,
@@ -162,45 +257,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "IRS raises 401(k) contribution limit by $1,000 for 2027 as retirement savings caps increase - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.8818389773368835,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Costco-brand whipped cream recalled over potential presence of cleaning chemical - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9585686922073364,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia\u2019s retreat from Huang's circular AI financing won\u2019t bring back affordable GeForce cards in 2027 - Notebookcheck",
-            "sentiment": "NEGATIVE",
-            "score": 0.7834240794181824,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "How a $49 sushi boat and sizzling dumplings helped turn P.F. Chang\u2019s around - CNN",
             "sentiment": "NEGATIVE",
             "score": 0.8807858824729919,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9353135228157043,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "How Canadian stocks could be big winners of U.S. midterms - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9301585555076599,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -213,32 +291,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9728358387947083,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia exposed to possible lawsuits after Jensen Huang\u2019s downfall - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.8841160535812378,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
