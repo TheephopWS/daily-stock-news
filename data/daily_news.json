@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-11-17 18:29:27 UTC",
-    "total_articles": 29,
+    "last_updated": "2026-11-17 21:26:58 UTC",
+    "total_articles": 28,
     "bullish_articles": 5,
-    "bearish_articles": 24,
+    "bearish_articles": 23,
     "articles": [
         {
-            "title": "Stocks slide as Nvidia leads AI names lower: Live updates - CNBC",
+            "title": "Nvidia\u2019s stock extends declines following harsh words from the U.S. government - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.8221516609191895,
+            "score": 0.9665833711624146,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -22,28 +22,70 @@
             ]
         },
         {
-            "title": "Chip stocks fall on US semiconductor restrictions: AlphaCheck - Yahoo Finance",
+            "title": "Microsoft Outage Explained: The 3 Issues Behind Last Week's Crash - PCMag",
             "sentiment": "NEGATIVE",
-            "score": 0.9728754758834839,
+            "score": 0.9080729484558105,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7451757788658142,
+            "score": 0.9716356992721558,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash \u2014 and $500 oil - MarketWatch",
+            "title": "SpaceX Rival's Rocket Failure Destroys 40 Amazon Satellites - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8620043396949768,
+            "score": 0.9658820033073425,
             "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Tech Stocks Slide as Nvidia, Anthropic Tests Await: Markets Wrap - Bloomberg",
+            "sentiment": "NEGATIVE",
+            "score": 0.9660752415657043,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Diamondback strikes $5bn deal to expand drilling in oil-rich Permian Basin - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.8885633945465088,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -93,23 +135,6 @@
             ]
         },
         {
-            "title": "Gold price falls to lowest level in a year in key signal over interest rates - Yahoo Finance UK",
-            "sentiment": "NEGATIVE",
-            "score": 0.9624585509300232,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Employer health cost crunch is worse than projected - Axios",
             "sentiment": "NEGATIVE",
             "score": 0.9667165875434875,
@@ -137,10 +162,62 @@
             "ticker_impacts": []
         },
         {
+            "title": "Big Tech Needs to Spread Its Bets on Data Centers - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.8502005338668823,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "MAGA figures hope Jensen Huang's spy scandal finally breaks Trump's embrace of Big Tech - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.7133884429931641,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "\u2018Five-alarm fire\u2019: Nvidia\u2019s fall from grace sets off Washington AI industry scramble - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.7287124395370483,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "\u2018Standing on one leg\u2019: IMF chief warns about global economy as AI circular financing hits $1 trillion - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.7847320437431335,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "China\u2019s Economy Disappoints With New Stimulus Yet to Kick In - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9709693193435669,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -155,59 +232,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia\u2019s CEO Search Draws Fire With Bessent\u2019s Shakeup Call - Bloomberg.com",
+            "title": "Jensen Huang\u2019s fall hits \u2018open\u2019 models in boost to Anthropic and OpenAI - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9566563963890076,
+            "score": 0.9119791984558105,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
                     "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Amazon loses 40 Leo satellites as Boeing-Lockheed rocket fails - DW.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9661126136779785,
-            "signal": "BEARISH",
-            "tickers": [
-                "BA",
-                "AMZN"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Exclusive | Trump Administration to Name Nvidia Among AI \u2018National Champions\u2019 - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.7632798552513123,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
         },
@@ -232,15 +269,6 @@
             "title": "Japan\u2019s Economy Contracts Amid Inflation Squeeze - WSJ",
             "sentiment": "NEGATIVE",
             "score": 0.974503755569458,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Costco recalls whipped cream over potential cleaning chemical contamination - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9649102091789246,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -281,15 +309,6 @@
             ]
         },
         {
-            "title": "China\u2019s retail sales falter in October as Beijing paces out consumption boost - South China Morning Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9730170965194702,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Italy fines Meta $887M for accessing Android users\u2019 photos - The Washington Post",
             "sentiment": "NEGATIVE",
             "score": 0.8995055556297302,
@@ -324,6 +343,23 @@
             ]
         },
         {
+            "title": "Bessent says if Nvidia was a bank, 'a lot of the executives would be removed' as Huang eyes return - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9115167856216431,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "U.S. Home Sales Just Fell to a 16-Year Low. The Last Time They Were This Weak Was After the 2008 Crash - Yahoo Finance",
             "sentiment": "NEGATIVE",
             "score": 0.9646478891372681,
@@ -331,49 +367,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Copa Airlines, UPS planes collide at Miami airport, 2 injuries reported - USA Today",
-            "sentiment": "NEGATIVE",
-            "score": 0.9505889415740967,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Jim Cramer Says Nvidia\u2019s New CEO Asked the Questions Jensen Huang Wouldn\u2019t Answer - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.7846500873565674,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Megaspeed says Alice Huang left company in 2025, denies wrongdoing amid Nvidia scandal - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7808228731155396,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
