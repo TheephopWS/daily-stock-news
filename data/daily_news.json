@@ -1,9 +1,26 @@
 {
-    "last_updated": "2026-11-18 03:29:13 UTC",
-    "total_articles": 20,
-    "bullish_articles": 1,
+    "last_updated": "2026-11-18 06:35:26 UTC",
+    "total_articles": 21,
+    "bullish_articles": 2,
     "bearish_articles": 19,
     "articles": [
+        {
+            "title": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9227851629257202,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Trump administration orders Commerce to close chip loophole at heart of Nvidia scandal - The Washington Post",
             "sentiment": "NEGATIVE",
@@ -75,6 +92,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Biotech Tops The 'Most Bullish Conversations' And Breaks Out - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9407732486724854,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Microsoft reveals hidden bug behind global Outlook and Microsoft 365 outage - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9674524664878845,
@@ -141,18 +167,18 @@
             "score": 0.9105070233345032,
             "signal": "BULLISH",
             "tickers": [
-                "INTC",
-                "NVDA"
+                "NVDA",
+                "INTC"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -188,23 +214,6 @@
             "ticker_impacts": [
                 {
                     "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 as it happened - The Guardian",
-            "sentiment": "NEGATIVE",
-            "score": 0.7023293375968933,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
                 }
