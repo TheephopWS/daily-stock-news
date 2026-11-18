@@ -1,42 +1,26 @@
 {
-    "last_updated": "2026-11-18 15:26:52 UTC",
-    "total_articles": 21,
-    "bullish_articles": 2,
-    "bearish_articles": 19,
+    "last_updated": "2026-11-18 18:27:27 UTC",
+    "total_articles": 18,
+    "bullish_articles": 3,
+    "bearish_articles": 15,
     "articles": [
         {
-            "title": "Dow tumbles more than 700 points, Nvidia falls again as traders await earnings: Live updates - CNBC",
+            "title": "Dow falls 700 points as tech shares decline, traders eye reported NSA network outage: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9070539474487305,
+            "score": 0.818567156791687,
             "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Dow Opens Lower Ahead of Nvidia Q3 Earnings \u2014 Live Updates - WSJ",
+            "title": "David Beckham sues for $41 million after his fragrance is sold in gas stations and discount stores - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9472610950469971,
+            "score": 0.9386147856712341,
             "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Spending growth slowed at retail stores in October as high prices give shoppers pause - AP News",
@@ -46,6 +30,29 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Tech outages live updates: Microsoft, banks and FAA - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9622094035148621,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT",
+                "BAC"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "BAC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "How Jensen Huang\u2019s family shaped Nvidia\u2019s Singapore dealings - Financial Times",
@@ -65,6 +72,23 @@
             ]
         },
         {
+            "title": "Customers report outages at Chase, Bank of America and Wells Fargo - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9288135170936584,
+            "signal": "BEARISH",
+            "tickers": [
+                "BAC"
+            ],
+            "primary_ticker": "BAC",
+            "ticker_impacts": [
+                {
+                    "ticker": "BAC",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9752504825592041,
@@ -74,13 +98,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Fed's Cook won't appear at White House hearing on potential firing without changes - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.8599141836166382,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "title": "Disney Q4 2026 Earnings: Company Forecasts $3B in Cost Savings by 2029 Including Through Layoffs - Variety",
+            "sentiment": "POSITIVE",
+            "score": 0.9519938230514526,
+            "signal": "BULLISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Can Google win the AI race without killing its cash cow? : Planet Money - NPR",
@@ -145,37 +177,19 @@
         {
             "title": "Roche Secures First U.S. Approval for New Breast-Cancer Pill - WSJ",
             "sentiment": "POSITIVE",
-            "score": 0.7266421318054199,
+            "score": 0.8711650967597961,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FAA, Microsoft, banks: Why it feels like everything keeps breaking - Yahoo Tech",
-            "sentiment": "NEGATIVE",
-            "score": 0.7136068344116211,
-            "signal": "BEARISH",
             "tickers": [
-                "MSFT"
+                "META"
             ],
-            "primary_ticker": "MSFT",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Women stranded by FAA ground stop buy a Bronco for a 27-hour road trip home - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.7295586466789246,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Microsoft Bug Undetected Since July Triggered Worldwide Outage - Bloomberg.com",
@@ -191,23 +205,6 @@
                     "ticker": "MSFT",
                     "impact": "negative",
                     "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Bank outage: Chase says transactions 'processing normally' after nationwide outage - LiveNOW from FOX",
-            "sentiment": "NEGATIVE",
-            "score": 0.8291374444961548,
-            "signal": "BEARISH",
-            "tickers": [
-                "BAC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "BAC",
-                    "impact": "negative",
-                    "relevance": "medium"
                 }
             ]
         },
@@ -259,32 +256,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "FDA Rejects China's Pioneering Lung Cancer Drug - Newser",
-            "sentiment": "NEGATIVE",
-            "score": 0.867148220539093,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Delta Bet Its Future On Amazon Satellite Wi-Fi\u2014And A Major Rocket Failure Just Made That Gamble Riskier - View from the Wing",
-            "sentiment": "NEGATIVE",
-            "score": 0.7811276316642761,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "AAA forecasts another busy \u2014 but not quite as busy \u2014 Thanksgiving travel week - AP News",
