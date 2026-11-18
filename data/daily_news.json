@@ -1,21 +1,65 @@
 {
-    "last_updated": "2026-11-18 09:28:18 UTC",
-    "total_articles": 22,
-    "bullish_articles": 7,
-    "bearish_articles": 15,
+    "last_updated": "2026-11-18 12:31:44 UTC",
+    "total_articles": 25,
+    "bullish_articles": 5,
+    "bearish_articles": 20,
     "articles": [
         {
-            "title": "Tech sell-off deepens as Nvidia results loom - Financial Times",
+            "title": "1.5-hour-long system outage forces United Airlines to delay departing flights - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.949815571308136,
+            "score": 0.9442532658576965,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Blood pressure drug recalled nationwide over possible metal contamination - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.941789448261261,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "META"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "META",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "What we know about what caused the FAA's nationwide ground stop - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.7151645421981812,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bessent pushed new AI chips rule over Commerce objections - Politico",
+            "sentiment": "NEGATIVE",
+            "score": 0.8105718493461609,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "JPMorgan Chase systems recovering following hourslong nationwide technical outage - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9564257264137268,
+            "signal": "BEARISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -31,13 +75,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "United Airlines system outage disrupts departures just days after the big ground stop - The Verge",
+            "title": "Berkshire Hathaway Slashes This Top 5 Stock; Nvidia Boosts SpaceX - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9672391414642334,
+            "score": 0.8921865224838257,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Women stranded by FAA ground stop buy a Bronco for a 27-hour road trip home - NBC News",
@@ -66,23 +118,6 @@
             ]
         },
         {
-            "title": "The Bank Outage May Have Nothing to Do With Your Bank - WIRED",
-            "sentiment": "NEGATIVE",
-            "score": 0.966967761516571,
-            "signal": "BEARISH",
-            "tickers": [
-                "JPM"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Biotech Tops The 'Most Bullish Conversations' And Breaks Out - Investor's Business Daily",
             "sentiment": "POSITIVE",
             "score": 0.9407732486724854,
@@ -105,29 +140,6 @@
                     "ticker": "MSFT",
                     "impact": "negative",
                     "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9709103107452393,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMD",
-                "NVDA"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
                 }
             ]
         },
@@ -159,36 +171,19 @@
             "ticker_impacts": []
         },
         {
-            "title": "Prediction: Here\u2019s What Nvidia Stock Will Do After Its Projected $108 Billion Quarter Results Are Announced on Nov. 17 - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.717589795589447,
-            "signal": "BULLISH",
+            "title": "Jensen Huang Was Allegedly Making Graphics Cards Hard to Obtain on Purpose to Boost Profits - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.9485346674919128,
+            "signal": "BEARISH",
             "tickers": [
                 "NVDA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Trump\u2019s stake in Nvidia grew to as much as $62 million before scandal broke out - The Washington Post",
-            "sentiment": "POSITIVE",
-            "score": 0.7877551913261414,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
+                    "impact": "negative",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -198,18 +193,18 @@
             "score": 0.9105070233345032,
             "signal": "BULLISH",
             "tickers": [
-                "INTC",
-                "NVDA"
+                "NVDA",
+                "INTC"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -223,6 +218,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "U.S. chip stocks slide as traders unwind Nvidia rival bets before earnings - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9742355942726135,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Elon Musk Criticizes Jeremy Culhane\u2019s \u2018SNL\u2019 Impression: \u2018They Need to Try Harder\u2019 - Variety",
@@ -261,15 +273,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "SpaceX Rival's Rocket Failure Destroys 40 Amazon Satellites - Bloomberg.com",
+            "title": "Amazon loses 40 Leo satellites as Boeing-Lockheed rocket fails - DW.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9658820033073425,
+            "score": 0.9661126136779785,
             "signal": "BEARISH",
             "tickers": [
+                "BA",
                 "AMZN"
             ],
-            "primary_ticker": "AMZN",
+            "primary_ticker": "BA",
             "ticker_impacts": [
+                {
+                    "ticker": "BA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
                 {
                     "ticker": "AMZN",
                     "impact": "negative",
@@ -285,6 +303,23 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia\u2019s CEO Search Draws Fire With Bessent\u2019s Shakeup Call - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9566563963890076,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
