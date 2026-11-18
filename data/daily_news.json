@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-11-18 00:45:46 UTC",
+    "last_updated": "2026-11-18 03:29:13 UTC",
     "total_articles": 20,
-    "bullish_articles": 0,
-    "bearish_articles": 20,
+    "bullish_articles": 1,
+    "bearish_articles": 19,
     "articles": [
         {
             "title": "Trump administration orders Commerce to close chip loophole at heart of Nvidia scandal - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8978593349456787,
+            "score": 0.8978590965270996,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -22,43 +22,44 @@
             ]
         },
         {
-            "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks - AP News",
+            "title": "Major banking outage linked to Chase, impacted Wells Fargo and BofA - USA Today",
             "sentiment": "NEGATIVE",
-            "score": 0.9167132377624512,
+            "score": 0.7737964391708374,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "FAA, Microsoft, banks: Why it feels like everything keeps breaking - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.8178922533988953,
             "signal": "BEARISH",
             "tickers": [
-                "JPM"
+                "MSFT"
             ],
-            "primary_ticker": "JPM",
+            "primary_ticker": "MSFT",
             "ticker_impacts": [
                 {
-                    "ticker": "JPM",
+                    "ticker": "MSFT",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Stock Market Today: Nasdaq Slides 1.5% as Nvidia Drama Continues to Unfold \u2014 Live Updates - WSJ",
+            "title": "California sues OpenAI over Hugging Face attack - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9359219670295715,
+            "score": 0.8802083134651184,
             "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "United Airlines reports system outage affecting departing flights - CNBC",
+            "title": "United Airlines has a widespread system outage just days after nationwide ground stop - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.953327476978302,
+            "score": 0.9498854279518127,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -67,94 +68,109 @@
         {
             "title": "Women stranded by FAA ground stop buy a Bronco for a 27-hour road trip home - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.7295582294464111,
+            "score": 0.7295588850975037,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Microsoft reveals hidden bug behind global Outlook and Microsoft 365 outage - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9674524664878845,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.9122255444526672,
+            "score": 0.9122254252433777,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "OpenAI sued by California over 80 \u2018loss of control\u2019 incidents - Financial Times",
+            "title": "Fed's Warsh sees risk of stock bust if AI boom disappoints - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.9511050581932068,
+            "score": 0.9128219485282898,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.9635517001152039,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Defying court order, Energy Department again forces Michigan coal plant to stay open past retirement - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.8562222719192505,
+            "score": 0.8562219738960266,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia Stock Falls Again. It Doesn\u2019t Need a Jensen Huang Comeback to Thrive. - Barron's",
+            "title": "Jensen Huang Was Allegedly Making Graphics Cards Hard to Obtain on Purpose to Boost Profits - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.948093593120575,
+            "score": 0.9485346674919128,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
             ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "AI stock boom nears its end as Anthropic IPOs, with hiring near 50,000 a month and growth slowing - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9520525932312012,
-            "signal": "BEARISH",
-            "tickers": [
-                "JPM"
-            ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "JPM",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
+            "title": "Altman Says AI Industry \u2018Will Be Fine\u2019 After Huang\u2019s Ouster - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9105070233345032,
+            "signal": "BULLISH",
+            "tickers": [
+                "INTC",
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Zillow warns the housing market is heading for a rough patch - TheStreet",
+            "sentiment": "NEGATIVE",
+            "score": 0.9371511936187744,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9716358184814453,
+            "score": 0.9716356992721558,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -178,53 +194,9 @@
             ]
         },
         {
-            "title": "Former SEC chair Gary Gensler warns AI bubble is likely to cause recession before 2028 election - Quartz",
+            "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 as it happened - The Guardian",
             "sentiment": "NEGATIVE",
-            "score": 0.962600588798523,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AAA forecasts another busy \u2014 but not quite as busy \u2014 Thanksgiving travel week - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9025486707687378,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Big Tech Needs to Spread Its Bets on Data Centers - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8502002358436584,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "MAGA figures hope Jensen Huang's spy scandal finally breaks Trump's embrace of Big Tech - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.7133892178535461,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "\u2018Five-alarm fire\u2019: Nvidia\u2019s fall from grace sets off Washington AI industry scramble - Politico",
-            "sentiment": "NEGATIVE",
-            "score": 0.7287120223045349,
+            "score": 0.7023293375968933,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -239,22 +211,56 @@
             ]
         },
         {
-            "title": "China\u2019s Domestic Demand Continues to Disappoint - WSJ",
+            "title": "AAA forecasts another busy \u2014 but not quite as busy \u2014 Thanksgiving travel week - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.7285459637641907,
+            "score": 0.902548611164093,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Japan\u2019s Economy Contracts Amid Inflation Squeeze - WSJ",
+            "title": "MAGA figures hope Jensen Huang's spy scandal finally breaks Trump's embrace of Big Tech - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.974503755569458,
+            "score": 0.7133884429931641,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Bessent says if Nvidia was a bank, 'a lot of the executives would be removed' as Huang eyes return - Fortune",
+            "sentiment": "NEGATIVE",
+            "score": 0.9115167856216431,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Jim Cramer Says Nvidia\u2019s New CEO Asked the Questions Jensen Huang Wouldn\u2019t Answer - 24/7 Wall St.",
+            "sentiment": "NEGATIVE",
+            "score": 0.7846500873565674,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         }
     ]
 }
