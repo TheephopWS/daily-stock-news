@@ -1,22 +1,126 @@
 {
-    "last_updated": "2026-11-18 18:27:27 UTC",
-    "total_articles": 18,
-    "bullish_articles": 3,
-    "bearish_articles": 15,
+    "last_updated": "2026-11-18 21:26:44 UTC",
+    "total_articles": 22,
+    "bullish_articles": 2,
+    "bearish_articles": 20,
     "articles": [
         {
-            "title": "Dow falls 700 points as tech shares decline, traders eye reported NSA network outage: Live updates - CNBC",
+            "title": "Fed official Lisa Cook refuses to attend White House firing hearing, citing bias - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.818567156791687,
+            "score": 0.8889314532279968,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Sean Duffy\u2019s attacks on past FAA ground stop resurface - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.9282005429267883,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Dow falls 700 points as tech shares decline, traders eye reported NSA network outage: Live updates - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9301697015762329,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Outage math at the airport: When a four-hour Uber beats waiting out a ground stop - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8665550947189331,
+            "signal": "BEARISH",
+            "tickers": [
+                "UBER"
+            ],
+            "primary_ticker": "UBER",
+            "ticker_impacts": [
+                {
+                    "ticker": "UBER",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Inside Microsoft\u2019s giant Outlook outage - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.9267027974128723,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "CA DMV bans Waymos from operating on state freeways after Bay Area traffic incidents - ABC7 Bay Area",
+            "sentiment": "NEGATIVE",
+            "score": 0.8967916369438171,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Disney Unpacks $3 Billion In Planned Cost Savings - Deadline",
+            "sentiment": "POSITIVE",
+            "score": 0.7895196676254272,
+            "signal": "BULLISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "David Beckham sues for $41 million after his fragrance is sold in gas stations and discount stores - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9386147856712341,
+            "score": 0.9386149048805237,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9126086235046387,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Severe turbulence injures 5 on JetBlue flight to Florida - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9569557309150696,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -25,7 +129,7 @@
         {
             "title": "Spending growth slowed at retail stores in October as high prices give shoppers pause - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9447623491287231,
+            "score": 0.9447624087333679,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -57,7 +161,7 @@
         {
             "title": "How Jensen Huang\u2019s family shaped Nvidia\u2019s Singapore dealings - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8580500483512878,
+            "score": 0.8580498695373535,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -74,7 +178,7 @@
         {
             "title": "Customers report outages at Chase, Bank of America and Wells Fargo - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9288135170936584,
+            "score": 0.928813636302948,
             "signal": "BEARISH",
             "tickers": [
                 "BAC"
@@ -98,26 +202,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Disney Q4 2026 Earnings: Company Forecasts $3B in Cost Savings by 2029 Including Through Layoffs - Variety",
-            "sentiment": "POSITIVE",
-            "score": 0.9519938230514526,
-            "signal": "BULLISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Can Google win the AI race without killing its cash cow? : Planet Money - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9366498589515686,
+            "score": 0.9366499781608582,
             "signal": "BEARISH",
             "tickers": [
                 "GOOGL"
@@ -134,7 +221,7 @@
         {
             "title": "US government confirms investigation into tech firm Megaspeed - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.8966778516769409,
+            "score": 0.8966776132583618,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -147,6 +234,15 @@
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "FBI warns hackers weaponizing ARTEX AI framework to automate attacks on energy, manufacturing, telecom - Industrial Cyber",
+            "sentiment": "NEGATIVE",
+            "score": 0.7356351613998413,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "The new tax plan that could stop Social Security cuts - USA Today",
@@ -158,72 +254,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Jensen Huang was building Anthropic's worst nightmare. Then he was ousted. - Business Insider",
+            "title": "US Gas Pump Price Hits Lowest Since March as Oil Supply Recovers - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8525830507278442,
+            "score": 0.9735729098320007,
             "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Roche Secures First U.S. Approval for New Breast-Cancer Pill - WSJ",
-            "sentiment": "POSITIVE",
-            "score": 0.8711650967597961,
-            "signal": "BULLISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Microsoft Bug Undetected Since July Triggered Worldwide Outage - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9408721327781677,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Jensen Huang Was Allegedly Making Graphics Cards Hard to Obtain on Purpose to Boost Profits - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.9485346674919128,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Altman Says AI Industry \u2018Will Be Fine\u2019 After Huang\u2019s Ouster - Bloomberg.com",
@@ -231,18 +268,18 @@
             "score": 0.9105070233345032,
             "signal": "BULLISH",
             "tickers": [
-                "NVDA",
-                "INTC"
+                "INTC",
+                "NVDA"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "medium"
                 }
@@ -251,16 +288,7 @@
         {
             "title": "Fed's Warsh sees risk of stock bust if AI boom disappoints - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.9128218293190002,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "AAA forecasts another busy \u2014 but not quite as busy \u2014 Thanksgiving travel week - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.902548611164093,
+            "score": 0.9128219485282898,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
