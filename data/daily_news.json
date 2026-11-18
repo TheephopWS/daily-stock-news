@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-11-18 06:35:26 UTC",
-    "total_articles": 21,
-    "bullish_articles": 2,
-    "bearish_articles": 19,
+    "last_updated": "2026-11-18 09:28:18 UTC",
+    "total_articles": 22,
+    "bullish_articles": 7,
+    "bearish_articles": 15,
     "articles": [
         {
-            "title": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates - CNBC",
+            "title": "Tech sell-off deepens as Nvidia results loom - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9227851629257202,
+            "score": 0.949815571308136,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -16,49 +16,6 @@
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Trump administration orders Commerce to close chip loophole at heart of Nvidia scandal - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8978590965270996,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Major banking outage linked to Chase, impacted Wells Fargo and BofA - USA Today",
-            "sentiment": "NEGATIVE",
-            "score": 0.7737964391708374,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FAA, Microsoft, banks: Why it feels like everything keeps breaking - USA Today",
-            "sentiment": "NEGATIVE",
-            "score": 0.8178922533988953,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -74,9 +31,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "United Airlines has a widespread system outage just days after nationwide ground stop - AP News",
+            "title": "United Airlines system outage disrupts departures just days after the big ground stop - The Verge",
             "sentiment": "NEGATIVE",
-            "score": 0.9498854279518127,
+            "score": 0.9672391414642334,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -85,11 +42,45 @@
         {
             "title": "Women stranded by FAA ground stop buy a Bronco for a 27-hour road trip home - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.7295588850975037,
+            "score": 0.7295582294464111,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Soros Joins Family Offices in Selling Nvidia Before CEO Exit - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7986610531806946,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "The Bank Outage May Have Nothing to Do With Your Bank - WIRED",
+            "sentiment": "NEGATIVE",
+            "score": 0.966967761516571,
+            "signal": "BEARISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Biotech Tops The 'Most Bullish Conversations' And Breaks Out - Investor's Business Daily",
@@ -118,19 +109,42 @@
             ]
         },
         {
+            "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9709103107452393,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD",
+                "NVDA"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.9122254252433777,
+            "score": 0.9122255444526672,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Fed's Warsh sees risk of stock bust if AI boom disappoints - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9128219485282898,
-            "signal": "BEARISH",
+            "title": "Dollar hits highest since April 2025 as traders bet on rate hikes - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9438668489456177,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -138,26 +152,43 @@
         {
             "title": "Defying court order, Energy Department again forces Michigan coal plant to stay open past retirement - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.8562219738960266,
+            "score": 0.8562222719192505,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Jensen Huang Was Allegedly Making Graphics Cards Hard to Obtain on Purpose to Boost Profits - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.9485346674919128,
-            "signal": "BEARISH",
+            "title": "Prediction: Here\u2019s What Nvidia Stock Will Do After Its Projected $108 Billion Quarter Results Are Announced on Nov. 17 - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.717589795589447,
+            "signal": "BULLISH",
             "tickers": [
                 "NVDA"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Trump\u2019s stake in Nvidia grew to as much as $62 million before scandal broke out - The Washington Post",
+            "sentiment": "POSITIVE",
+            "score": 0.7877551913261414,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
                 }
             ]
         },
@@ -167,22 +198,40 @@
             "score": 0.9105070233345032,
             "signal": "BULLISH",
             "tickers": [
-                "NVDA",
-                "INTC"
+                "INTC",
+                "NVDA"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "INTC",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "NVDA",
                     "impact": "positive",
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Fed chair Kevin Warsh says AI boom could help sustain \u2018substantially higher\u2019 US growth - Financial Times",
+            "sentiment": "POSITIVE",
+            "score": 0.9470909237861633,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Elon Musk Criticizes Jeremy Culhane\u2019s \u2018SNL\u2019 Impression: \u2018They Need to Try Harder\u2019 - Variety",
+            "sentiment": "NEGATIVE",
+            "score": 0.9241465926170349,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Zillow warns the housing market is heading for a rough patch - TheStreet",
@@ -194,9 +243,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "FDA Rejects China's Pioneering Lung Cancer Drug - Newser",
+            "sentiment": "NEGATIVE",
+            "score": 0.867148220539093,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9716356992721558,
+            "score": 0.9716358184814453,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -222,54 +280,11 @@
         {
             "title": "AAA forecasts another busy \u2014 but not quite as busy \u2014 Thanksgiving travel week - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.902548611164093,
+            "score": 0.9025486707687378,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "MAGA figures hope Jensen Huang's spy scandal finally breaks Trump's embrace of Big Tech - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.7133884429931641,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bessent says if Nvidia was a bank, 'a lot of the executives would be removed' as Huang eyes return - Fortune",
-            "sentiment": "NEGATIVE",
-            "score": 0.9115167856216431,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Jim Cramer Says Nvidia\u2019s New CEO Asked the Questions Jensen Huang Wouldn\u2019t Answer - 24/7 Wall St.",
-            "sentiment": "NEGATIVE",
-            "score": 0.7846500873565674,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
