@@ -1,14 +1,75 @@
 {
-    "last_updated": "2026-11-19 09:28:21 UTC",
-    "total_articles": 22,
-    "bullish_articles": 5,
-    "bearish_articles": 17,
+    "last_updated": "2026-11-19 12:31:23 UTC",
+    "total_articles": 24,
+    "bullish_articles": 6,
+    "bearish_articles": 18,
     "articles": [
+        {
+            "title": "\u2018Hall of Shame\u2019 singles out major retailers before Black Friday - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.9220934510231018,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Anthropic Crypto Bets Imply $1.7 Trillion Value Despite AI Rout - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.8892141580581665,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Rubio says there's 'zero' information that U.S. outages are caused by a malign actor - NPR",
+            "sentiment": "NEGATIVE",
+            "score": 0.8483067750930786,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "FAA oversaw and signed off on repair work before nationwide ground stop - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8137181401252747,
+            "score": 0.8137168884277344,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Colette Kress Just Delivered Excellent News for Nvidia Investors - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.8963416814804077,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs - The Washington Post",
+            "sentiment": "POSITIVE",
+            "score": 0.9350194334983826,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -31,40 +92,36 @@
             ]
         },
         {
-            "title": "Waymo suspends driverless freeway rides across US after California ban - Al Jazeera",
+            "title": "Waymo temporarily pulls driverless taxis from all US freeways - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9202930331230164,
+            "score": 0.9306164383888245,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs - The Washington Post",
+            "title": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.935019314289093,
+            "score": 0.7170266509056091,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Deutsche Bank under fire after internal documents about shady business deals made public - DW.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9505020976066589,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Do not eat these breakfast items, says USDA health alert - USA Today",
-            "sentiment": "NEGATIVE",
-            "score": 0.9526504278182983,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "MSFT",
+                "INTC"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "AAA forecasts slight drop in Thanksgiving travel, in part due to higher costs - The Washington Post",
@@ -78,7 +135,7 @@
         {
             "title": "Apple outages appear to be resolved after internal update takes popular services offline - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9075549244880676,
+            "score": 0.9075546264648438,
             "signal": "BEARISH",
             "tickers": [
                 "AAPL"
@@ -95,7 +152,7 @@
         {
             "title": "Stock Market News, Nov. 17, 2026: Dow ends down 850 points, S&P 500 and Nasdaq also plunge as tech names come under further pressure ahead of Nvidia\u2019s earnings - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.8944356441497803,
+            "score": 0.894435465335846,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -112,7 +169,7 @@
         {
             "title": "US Fed\u2019s Lisa Cook refuses to attend White House hearing - Al Jazeera",
             "sentiment": "NEGATIVE",
-            "score": 0.8994097113609314,
+            "score": 0.8994097709655762,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -121,7 +178,16 @@
         {
             "title": "I-5 express lanes reopen but deck remains on the brink of breakdowns - The Seattle Times",
             "sentiment": "NEGATIVE",
-            "score": 0.7092611193656921,
+            "score": 0.7092610001564026,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Bitcoin Investors Are Capitulating\u2014That\u2019s Historically Been a Bottom Signal - Decrypt",
+            "sentiment": "NEGATIVE",
+            "score": 0.9647589325904846,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -130,7 +196,7 @@
         {
             "title": "NC approves Duke Energy rate hikes, new rules for data centers - WRAL",
             "sentiment": "POSITIVE",
-            "score": 0.9373658895492554,
+            "score": 0.9373659491539001,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -139,17 +205,8 @@
         {
             "title": "Kalshi halts trading on Trump's speeches - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.8632745742797852,
+            "score": 0.8632746338844299,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Mesa Gateway Airport to add nonstop flights to two US cities - AZ Family",
-            "sentiment": "POSITIVE",
-            "score": 0.81602942943573,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -192,7 +249,7 @@
         {
             "title": "Disney Unpacks $3 Billion In Planned Cost Savings - Deadline",
             "sentiment": "POSITIVE",
-            "score": 0.7895200848579407,
+            "score": 0.7895196676254272,
             "signal": "BULLISH",
             "tickers": [
                 "DIS"
@@ -209,7 +266,7 @@
         {
             "title": "Spending growth slowed at retail stores in October as high prices give shoppers pause - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9447623491287231,
+            "score": 0.9447624087333679,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -218,7 +275,7 @@
         {
             "title": "Customers report outages at Chase, Bank of America and Wells Fargo - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9288135170936584,
+            "score": 0.928813636302948,
             "signal": "BEARISH",
             "tickers": [
                 "BAC"
@@ -235,28 +292,11 @@
         {
             "title": "Fed Issues Possible Bank Run Warning As Outages Fuel Wild Nov. 17 \u2018Blackout\u2019 Theories - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.8036973476409912,
+            "score": 0.8036971092224121,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Can Google win the AI race without killing its cash cow? : Planet Money - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9366498589515686,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
