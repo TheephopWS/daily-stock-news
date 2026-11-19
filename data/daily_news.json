@@ -1,13 +1,57 @@
 {
-    "last_updated": "2026-11-19 00:45:31 UTC",
-    "total_articles": 23,
+    "last_updated": "2026-11-19 03:30:03 UTC",
+    "total_articles": 21,
     "bullish_articles": 6,
-    "bearish_articles": 17,
+    "bearish_articles": 15,
     "articles": [
+        {
+            "title": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs - The Washington Post",
+            "sentiment": "POSITIVE",
+            "score": 0.9350194334983826,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9326229691505432,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Do not eat these breakfast items, says USDA health alert - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.9526505470275879,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Waymo suspends all rides on freeways after California banned the vehicles from its state freeways - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8861441016197205,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "AAA forecasts slight drop in Thanksgiving travel, in part due to higher costs - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9623873829841614,
+            "score": 0.9713523983955383,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -63,36 +107,25 @@
             ]
         },
         {
-            "title": "Nvidia earnings live: Nvidia posts Q3 beat, board says it will not reinstate Jensen Huang as CEO - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.7630816102027893,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "New Nvidia boss says 'ambition has never been greater' after Jensen Huang's exit - BBC",
+            "title": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.9512555599212646,
+            "score": 0.7170266509056091,
             "signal": "BULLISH",
             "tickers": [
-                "NVDA"
+                "MSFT",
+                "INTC"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "MSFT",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "positive",
+                    "relevance": "medium"
                 }
             ]
         },
@@ -124,23 +157,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9669463038444519,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "ULA lost a Vulcan Centaur rocket 10 minutes after launch \u2014 but the failure began just after liftoff - Space",
             "sentiment": "NEGATIVE",
             "score": 0.9569627046585083,
@@ -150,50 +166,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models - Axios",
-            "sentiment": "POSITIVE",
-            "score": 0.7170266509056091,
-            "signal": "BULLISH",
-            "tickers": [
-                "MSFT",
-                "INTC"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "INTC",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "What to know about the online banking delays that affected major US banks - AP News",
+            "title": "Some of the world\u2019s most-visited websites targeted by cyberattack - WBAL-TV",
             "sentiment": "NEGATIVE",
-            "score": 0.9630129933357239,
+            "score": 0.9300373792648315,
             "signal": "BEARISH",
-            "tickers": [
-                "MSFT",
-                "JPM"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents - Ars Technica",
@@ -203,23 +182,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Cyberattack targets BBC, Zoom and Ikea as 178 websites hacked - The Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.916889488697052,
-            "signal": "BEARISH",
-            "tickers": [
-                "ZM"
-            ],
-            "primary_ticker": "ZM",
-            "ticker_impacts": [
-                {
-                    "ticker": "ZM",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "Inside Microsoft\u2019s giant Outlook outage - The Verge",
@@ -265,65 +227,39 @@
             "ticker_impacts": []
         },
         {
-            "title": "Federal Reserve's Cook refuses to participate in White House hearing - ABC News - Breaking News, Latest News and Videos",
+            "title": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9313907623291016,
+            "score": 0.8644529581069946,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Fed Issues Possible Bank Run Warning As Outages Fuel Wild Nov. 17 \u2018Blackout\u2019 Theories - Forbes",
+            "title": "\u2018Software bug\u2019 in JPMorgan Chase systems halts online banking - Politico",
             "sentiment": "NEGATIVE",
-            "score": 0.8036971092224121,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SELLAS Life Sciences stock soars 240% on positive cancer trial - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9516720175743103,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Can Google win the AI race without killing its cash cow? : Planet Money - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9366499781608582,
+            "score": 0.9667519330978394,
             "signal": "BEARISH",
             "tickers": [
-                "GOOGL"
+                "JPM"
             ],
-            "primary_ticker": "GOOGL",
+            "primary_ticker": "JPM",
             "ticker_impacts": [
                 {
-                    "ticker": "GOOGL",
+                    "ticker": "JPM",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Tesla\u2019s Plan to Build 1 Million Cybercabs Faces EU Roadblocks - Gizmodo",
+            "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.8674165606498718,
+            "score": 0.9122254252433777,
             "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         }
     ]
 }
