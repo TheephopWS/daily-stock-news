@@ -1,22 +1,99 @@
 {
-    "last_updated": "2026-11-20 18:30:10 UTC",
+    "last_updated": "2026-11-20 21:26:46 UTC",
     "total_articles": 28,
-    "bullish_articles": 9,
-    "bearish_articles": 19,
+    "bullish_articles": 7,
+    "bearish_articles": 21,
     "articles": [
         {
-            "title": "The outages keep coming. Some Americans are preparing for a collapse. - The Washington Post",
+            "title": "US mortgage rates rise for the first time in five weeks | CNN Business - CNN",
+            "sentiment": "POSITIVE",
+            "score": 0.933730959892273,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Jensen Huang's \u2014 and Nvidia's \u2014 legal exposure balloons - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9431333541870117,
+            "score": 0.9254582524299622,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Thanksgiving travel to dip for first time in years as higher costs weigh on Americans - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9740910530090332,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Walmart beats Q3 earnings expectations, raises 2026 outlook again - Yahoo Finance",
+            "title": "Breakfast sandwiches recalled over horrifying bug linked to stillbirths - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.932611346244812,
+            "signal": "BEARISH",
+            "tickers": [
+                "FDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "FDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "UK government forced to disclose secret Apple backdoor order - TechCrunch",
+            "sentiment": "NEGATIVE",
+            "score": 0.8802064657211304,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Jensen Huang Stepped Away From Nvidia. The Stock Has Crashed. Instead of Rushing to Buy the Dip, Here Are 2 AI Stocks Down More Than 15% to Buy Instead. - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.8393370509147644,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Walmart Raises Outlook as Wealthier Shoppers Hunt for Deals - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.8572366833686829,
+            "score": 0.94761723279953,
             "signal": "BULLISH",
             "tickers": [
                 "WMT"
@@ -31,37 +108,37 @@
             ]
         },
         {
-            "title": "Number of people seeking unemployment aid ticks higher yet still low historically - ABC News - Breaking News, Latest News and Videos",
-            "sentiment": "NEGATIVE",
-            "score": 0.7929252982139587,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Thanksgiving dinner will come with higher price tag: Research - The Hill",
             "sentiment": "POSITIVE",
-            "score": 0.7815008163452148,
+            "score": 0.7815016508102417,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia Slides After Blowout Earnings As Investigations Line Up; Is Nvidia Stock A Sell Now? - Investor's Business Daily",
+            "title": "U.S. Jobless Claims Unexpectedly Move Higher - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9622031450271606,
+            "score": 0.8447047472000122,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gold's bad year is getting worse. Why its price keeps falling - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9666140079498291,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "META"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "META",
                     "impact": "negative",
-                    "relevance": "high"
+                    "relevance": "medium"
                 }
             ]
         },
@@ -77,7 +154,7 @@
         {
             "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals - BBC",
             "sentiment": "POSITIVE",
-            "score": 0.8665570020675659,
+            "score": 0.8665570616722107,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -93,21 +170,22 @@
             "ticker_impacts": []
         },
         {
-            "title": "Exclusive | Amazon warns NYC customers they face price hikes up to $5 for every order if delivery bill is passed - New York Post",
+            "title": "Investigating claim Trump's Project 2025 implementation caused bank outages, will impact power grid - Snopes",
             "sentiment": "NEGATIVE",
-            "score": 0.8562912344932556,
+            "score": 0.9476562738418579,
             "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Doomsday prepping goes mainstream - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9122899174690247,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "New alarm over China controlling drug supply chains - Axios",
@@ -119,10 +197,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "TSMC and Samsung suspend some chip shipments to Chinese customers - Financial Times",
+            "title": "Japan Tobacco takes $8.6bn loss after Vladimir Putin orders seizure of Russian business - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9542337656021118,
+            "score": 0.9617869853973389,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Waymo pauses driverless taxis on U.S. freeways after California traffic incidents - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9267752766609192,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "The world\u2019s biggest oil shock could give EVs and solar a boost - Electrek",
+            "sentiment": "POSITIVE",
+            "score": 0.9148851037025452,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -130,7 +226,16 @@
         {
             "title": "NY faces statewide electricity shortage and has nation's oldest grid - Times Union",
             "sentiment": "NEGATIVE",
-            "score": 0.9492638111114502,
+            "score": 0.9492636919021606,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Is AI\u2019s Perfect Storm on the Horizon? - The Free Press",
+            "sentiment": "NEGATIVE",
+            "score": 0.8593379855155945,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -146,18 +251,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Thousands without power as heavy rain, snow and wind pass through California - KCRA",
-            "sentiment": "NEGATIVE",
-            "score": 0.9492894411087036,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is 'unpatchable' - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9120576977729797,
+            "score": 0.912057638168335,
             "signal": "BEARISH",
             "tickers": [
                 "MSFT"
@@ -172,44 +268,9 @@
             ]
         },
         {
-            "title": "Palo Alto Jumps On Earnings Beat, Strong Revenue Outlook - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9473881721496582,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Arm CEO Haas Approached by Nvidia Board\u2019s Recruitment Firm - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.7554348707199097,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Costco sees surge in emergency supply purchases amid tech outages - NewsNation",
-            "sentiment": "POSITIVE",
-            "score": 0.8402422666549683,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia declines, adding to evidence of an AI bubble destined to pop, says SA analyst (NVDA:NASDAQ) - Seeking Alpha",
+            "title": "Stock Market Today: Dow Ends In Red On Rate Shock Fears; Nvidia Sinks As Anthropic IPO Looms - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9624630212783813,
+            "score": 0.9621160626411438,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -226,33 +287,25 @@
         {
             "title": "Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.9334996342658997,
+            "score": 0.9334995150566101,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Disney CFO Hugh Johnston Confirms More Layoffs Coming as Company Targets $3 Billion in Savings - WDW News Today",
+            "title": "A historic crash in pending home sales is the latest dire data point for the struggling housing market - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9505584239959717,
+            "score": 0.9755141139030457,
             "signal": "BEARISH",
-            "tickers": [
-                "DIS"
-            ],
-            "primary_ticker": "DIS",
-            "ticker_impacts": [
-                {
-                    "ticker": "DIS",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "ULA traces Vulcan Centaur rocket failure to 'inadequate fuel supply' to 1st-stage engines - Space",
+            "title": "Copper Prices Plunge in Worst Day in Over a Year as AI Data-Center Bets Unravel - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.875511646270752,
+            "score": 0.9697484374046326,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -263,59 +316,6 @@
             "sentiment": "POSITIVE",
             "score": 0.9456684589385986,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8141244649887085,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Drugmaker's Shares Triple on Leukemia Vaccine News - Newser",
-            "sentiment": "POSITIVE",
-            "score": 0.9229037165641785,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "A perfect storm is descending on the AI industry - Vox",
-            "sentiment": "NEGATIVE",
-            "score": 0.9160013794898987,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "China and the U.S. are still the biggest polluters, but only China is doing better - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.9247193336486816,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution - The Hacker News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9299324154853821,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
