@@ -1,13 +1,48 @@
 {
-    "last_updated": "2026-11-20 03:29:57 UTC",
-    "total_articles": 22,
-    "bullish_articles": 4,
-    "bearish_articles": 18,
+    "last_updated": "2026-11-20 06:35:23 UTC",
+    "total_articles": 28,
+    "bullish_articles": 7,
+    "bearish_articles": 21,
     "articles": [
+        {
+            "title": "Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9489069581031799,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "NY faces statewide electricity shortage and has nation's oldest grid - Times Union",
+            "sentiment": "NEGATIVE",
+            "score": 0.9492636919021606,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Elon Musk says he regrets midterm spending - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.7559714317321777,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Waymo pauses driverless taxis on U.S. freeways after California traffic incidents - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.926775336265564,
+            "score": 0.9267752766609192,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,29 +51,63 @@
         {
             "title": "Worried about an AI bust? So is the Federal Reserve. - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8555173873901367,
+            "score": 0.8555172085762024,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Take-Two stock jumps over 6% as Rockstar's long-awaited \u2018GTA VI\u2019 arrives after 13-year wait - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.9435014128684998,
+            "signal": "BULLISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
             "title": "Thousands without power as heavy rain, snow and wind pass through California - KCRA",
             "sentiment": "NEGATIVE",
-            "score": 0.8444586992263794,
+            "score": 0.9492894411087036,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "DOT's Duffy said ground stop might have been shorter if L3Harris had spotted the problem sooner - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8748443722724915,
-            "signal": "BEARISH",
+            "title": "Why UnitedHealth and Other Medicare Advantage Insurers Are Falling - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.7006786465644836,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Arm CEO Haas Approached by Nvidia Board\u2019s Recruitment Firm - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.7554341554641724,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Stock Market Today: Dow Ends In Red On Rate Shock Fears; Nvidia Sinks As Anthropic IPO Looms - Investor's Business Daily",
@@ -58,13 +127,47 @@
             ]
         },
         {
-            "title": "KFC Stores Closing After Franchisee Bankruptcy: List of Locations Impacted - Newsweek",
+            "title": "Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.9727802276611328,
+            "score": 0.9334994554519653,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Jensen Huang and Howard Lutnick will appear publicly before a powerful Senate panel - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.933361291885376,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Google faces a reckoning after pushing its AI tools into classrooms - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9459275007247925,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Gold, Silver, Platinum Pounded To One-Year-Plus Lows After This Shock - Investor's Business Daily",
@@ -86,7 +189,7 @@
         {
             "title": "Nvidia says leadership crisis won\u2019t derail AI capacity work - American Banker",
             "sentiment": "NEGATIVE",
-            "score": 0.8044358491897583,
+            "score": 0.804435670375824,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -103,34 +206,26 @@
         {
             "title": "ULA traces Vulcan Centaur rocket failure to 'inadequate fuel supply' to 1st-stage engines - Space",
             "sentiment": "NEGATIVE",
-            "score": 0.875511646270752,
+            "score": 0.8755118250846863,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "UnitedHealth and other insurance stocks drag down the Dow after CMS proposes new anti-fraud rule - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9696219563484192,
-            "signal": "BEARISH",
-            "tickers": [
-                "CMS"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "CMS",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Target price cuts help retailer post strongest sales growth in years heading into holidays - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.9456684589385986,
+            "score": 0.9456683397293091,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Major KFC franchisee files for bankruptcy \u2014 facing 84 closures across 10 states - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9125635623931885,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -147,7 +242,7 @@
         {
             "title": "Costco sees surge in panic buying after string of tech outages, report says - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.904391884803772,
+            "score": 0.9043922424316406,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -163,32 +258,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "US tech outages blamed on rush to fix bugs found by AI - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9652827382087708,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT",
-                "JPM"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Four takeaways from Nvidia\u2019s first earnings report after Jensen Huang scandal - CNN",
             "sentiment": "NEGATIVE",
-            "score": 0.7042262554168701,
+            "score": 0.704226553440094,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -205,7 +277,7 @@
         {
             "title": "China and the U.S. are still the biggest polluters, but only China is doing better - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9247193336486816,
+            "score": 0.9247194528579712,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -221,6 +293,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Apple services restored after outage impacted thousands - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.9134773015975952,
+            "signal": "BEARISH",
+            "tickers": [
+                "AAPL"
+            ],
+            "primary_ticker": "AAPL",
+            "ticker_impacts": [
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "NC approves Duke Energy rate hikes, new rules for data centers - WRAL",
             "sentiment": "POSITIVE",
             "score": 0.9373658895492554,
@@ -232,7 +321,7 @@
         {
             "title": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.7170260548591614,
+            "score": 0.7170255184173584,
             "signal": "BULLISH",
             "tickers": [
                 "MSFT",
@@ -253,26 +342,9 @@
             ]
         },
         {
-            "title": "Apple outages appear to be resolved after internal update takes popular services offline - NBC10 Philadelphia",
-            "sentiment": "NEGATIVE",
-            "score": 0.9181153774261475,
-            "signal": "BEARISH",
-            "tickers": [
-                "AAPL"
-            ],
-            "primary_ticker": "AAPL",
-            "ticker_impacts": [
-                {
-                    "ticker": "AAPL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Inside Microsoft\u2019s giant Outlook outage - The Verge",
             "sentiment": "NEGATIVE",
-            "score": 0.9267026782035828,
+            "score": 0.9267027974128723,
             "signal": "BEARISH",
             "tickers": [
                 "MSFT"
