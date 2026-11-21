@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-11-21 03:28:18 UTC",
-    "total_articles": 29,
+    "last_updated": "2026-11-21 06:33:25 UTC",
+    "total_articles": 26,
     "bullish_articles": 7,
-    "bearish_articles": 22,
+    "bearish_articles": 19,
     "articles": [
         {
             "title": "Cyberattack may have exposed Chase Bank and Mastercard customer data - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.8798278570175171,
+            "score": 0.8798280358314514,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9709630608558655,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -16,7 +25,7 @@
         {
             "title": "Over 314,000 older Toyota and Lexus vehicles recalled for potentially dangerous airbag issue - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9598020911216736,
+            "score": 0.959801971912384,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -33,7 +42,7 @@
         {
             "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish - BBC",
             "sentiment": "POSITIVE",
-            "score": 0.8829113841056824,
+            "score": 0.8829107880592346,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -42,16 +51,16 @@
         {
             "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7576372623443604,
+            "score": 0.7576371431350708,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion - CNBC",
+            "title": "California targets Nvidia in China AI chip probe - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9093454480171204,
+            "score": 0.8939828872680664,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -64,41 +73,6 @@
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Anthropic was supposed to save the AI trade. What went wrong? - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9393249750137329,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia\u2019s stock falls further. It has lost $669 billion in six trading days. - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9557175040245056,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Stocks plunge as investors take cover amid growing uncertainty - CBS News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9518285989761353,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Gap names new Athleta CEO, lowers full-year guidance - CNBC",
@@ -121,7 +95,7 @@
         {
             "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants - WIRED",
             "sentiment": "NEGATIVE",
-            "score": 0.9028177857398987,
+            "score": 0.9028178453445435,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -141,18 +115,18 @@
             "score": 0.972033679485321,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA",
-                "AMD"
+                "AMD",
+                "NVDA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "AMD",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMD",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -161,12 +135,12 @@
         {
             "title": "Walmart, Costco see some panic-buying after tech outages - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8255808353424072,
+            "score": 0.8255804181098938,
             "signal": "BULLISH",
             "tickers": [
                 "WMT",
-                "AAPL",
-                "MSFT"
+                "MSFT",
+                "AAPL"
             ],
             "primary_ticker": "WMT",
             "ticker_impacts": [
@@ -176,14 +150,31 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AAPL",
+                    "ticker": "MSFT",
                     "impact": "positive",
                     "relevance": "medium"
                 },
                 {
-                    "ticker": "MSFT",
+                    "ticker": "AAPL",
                     "impact": "positive",
                     "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Microsoft CEO Reveals What Caused Massive Outlook Outage - Cheddar",
+            "sentiment": "NEGATIVE",
+            "score": 0.7517544627189636,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
@@ -214,18 +205,35 @@
             ]
         },
         {
-            "title": "Trump upset 'biggest drop in gasoline in 18 years' came after election - USA Today",
+            "title": "Over 879 flights delayed, 55 canceled amid widespread U.S. travel disruptions - NJ.com",
             "sentiment": "NEGATIVE",
-            "score": 0.8208969235420227,
+            "score": 0.9039286375045776,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Jensen Huang Stepped Away From Nvidia. The Stock Has Crashed. Instead of Rushing to Buy the Dip, Here Are 2 AI Stocks Down More Than 15% to Buy Instead. - The Motley Fool",
+            "sentiment": "NEGATIVE",
+            "score": 0.8393369317054749,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Thanksgiving dinner will come with higher price tag: Research - The Hill",
             "sentiment": "POSITIVE",
-            "score": 0.7815008163452148,
+            "score": 0.781500518321991,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -251,7 +259,7 @@
         {
             "title": "New alarm over China controlling drug supply chains - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.8392048478126526,
+            "score": 0.839204728603363,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -260,7 +268,7 @@
         {
             "title": "Proposed \u2018Fair Share Tax\u2019 could bring $70 million in revenue to Portland - KPTV",
             "sentiment": "POSITIVE",
-            "score": 0.7146772742271423,
+            "score": 0.7146756649017334,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -269,16 +277,16 @@
         {
             "title": "Waymo pauses driverless taxis on U.S. freeways after California traffic incidents - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.926775336265564,
+            "score": 0.9267752766609192,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says - WSJ",
+            "title": "Worried about an AI bust? So is the Federal Reserve. - The Washington Post",
             "sentiment": "NEGATIVE",
-            "score": 0.9729612469673157,
+            "score": 0.8555172085762024,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -287,16 +295,7 @@
         {
             "title": "NY faces statewide electricity shortage and has nation's oldest grid - Times Union",
             "sentiment": "NEGATIVE",
-            "score": 0.9492638111114502,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Is AI\u2019s Perfect Storm on the Horizon? - The Free Press",
-            "sentiment": "NEGATIVE",
-            "score": 0.8593376278877258,
+            "score": 0.9492636919021606,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -305,7 +304,7 @@
         {
             "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is 'unpatchable' - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.9120576977729797,
+            "score": 0.9120579361915588,
             "signal": "BEARISH",
             "tickers": [
                 "MSFT"
@@ -320,35 +319,9 @@
             ]
         },
         {
-            "title": "DOT's Duffy said ground stop might have been shorter if L3Harris had spotted the problem sooner - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.8748443722724915,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Google faces a reckoning after pushing its AI tools into classrooms - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9459275007247925,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Target price cuts help retailer post strongest sales growth in years heading into holidays - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.9456684589385986,
+            "score": 0.9456683397293091,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
