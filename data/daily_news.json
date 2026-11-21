@@ -1,57 +1,63 @@
 {
-    "last_updated": "2026-11-21 15:26:49 UTC",
-    "total_articles": 24,
+    "last_updated": "2026-11-21 18:27:30 UTC",
+    "total_articles": 25,
     "bullish_articles": 6,
-    "bearish_articles": 18,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "Stock Market Today: Anthropic Stock Drops Premarket; Nasdaq Futures Tumble \u2014 Live Updates - WSJ",
+            "title": "Stock Market Today: Dow bounces, S&P 500 and Nasdaq fall as major indexes head for worst week since 'liberation day' - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.8115084767341614,
+            "score": 0.8790573477745056,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nasdaq drops as Anthropic shares tumble; Dow nears correction territory: Live updates - CNBC",
+            "title": "Anthropic IPO live: Anthropic stock drops after first day of trading - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9743666648864746,
+            "score": 0.9425507187843323,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia stock extends 6-day losing streak, as AMD, Broadcom lead chip sector lower - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9217841029167175,
             "signal": "BEARISH",
             "tickers": [
-                "INTC"
+                "NVDA",
+                "AMD"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "NVDA",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Intuit Earnings Beat Isn\u2019t Enough to Boost the Stock - Barron's",
-            "sentiment": "POSITIVE",
-            "score": 0.9456131458282471,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Why is gold price going down? - The National",
+            "title": "Stocks slide despite Anthropic\u2019s record debut and Trump touts \u2018unbelievable\u2019 China summit: Morning Rundown - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9703325033187866,
+            "score": 0.972807765007019,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "\u2018Dean Of Valuation\u2019 Says Nvidia Is 30% Below Fair Value, Waits For $140 \u2014 Calls Jensen Huang \u2018Great CEO, But Human\u2019 - Yahoo Finance",
+            "title": "Trump reveals hundreds of stock trades, including Nvidia and SpaceX - Newsweek",
             "sentiment": "NEGATIVE",
-            "score": 0.9351701140403748,
+            "score": 0.7613280415534973,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -64,6 +70,15 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Nasdaq 100 futures slide over 2% as tech sell-off shows no signs of letting up - Investing.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9567675590515137,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Microsoft CEO Nadella faces uncomfortable reality after outage - TheStreet",
@@ -83,6 +98,32 @@
             ]
         },
         {
+            "title": "Over 314,000 older Toyota and Lexus vehicles recalled for potentially dangerous airbag issue - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.959801971912384,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Gold and Silver Shed $1 Trillion in Six Hours. What Turned Gold Around Last Time? - BeInCrypto",
+            "sentiment": "NEGATIVE",
+            "score": 0.969906210899353,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "California targets Nvidia in China AI chip probe - BBC",
             "sentiment": "NEGATIVE",
             "score": 0.8939828872680664,
@@ -100,23 +141,6 @@
             ]
         },
         {
-            "title": "Third-party breach exposes JPMorgan, Visa, and Mastercard customer data - Semafor",
-            "sentiment": "NEGATIVE",
-            "score": 0.9223797917366028,
-            "signal": "BEARISH",
-            "tickers": [
-                "JPM"
-            ],
-            "primary_ticker": "JPM",
-            "ticker_impacts": [
-                {
-                    "ticker": "JPM",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "UnitedHealth Stock Continues Slide on Medicare for All Push. What Lies Ahead for Insurers. - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.9711604118347168,
@@ -126,49 +150,43 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stocks making big moves after hours: INTU, BULL, GAP (SP500:) - Seeking Alpha",
-            "sentiment": "NEGATIVE",
-            "score": 0.9714418053627014,
-            "signal": "BEARISH",
+            "title": "Sanofi Reportedly Mulls The Biggest Biotech Deal In Years - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.940057635307312,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "AMD Stock Drops After Short Report Says It Isn\u2019t an Nvidia Replacement - Barron's",
+            "title": "Costco sees panic buying surge after tech outages, report says - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.972033679485321,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMD",
-                "NVDA"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Microsoft CEO Reveals What Caused Massive Outlook Outage - Cheddar",
-            "sentiment": "NEGATIVE",
-            "score": 0.7517544627189636,
+            "score": 0.9547244310379028,
             "signal": "BEARISH",
             "tickers": [
                 "MSFT"
             ],
-            "primary_ticker": "MSFT",
+            "primary_ticker": null,
             "ticker_impacts": [
                 {
                     "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia\u2019s Interim CEO Addresses Employees - Cheddar",
+            "sentiment": "NEGATIVE",
+            "score": 0.880935788154602,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -219,15 +237,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Gas prices take biggest 3-week dive since 2008 - CNN",
-            "sentiment": "NEGATIVE",
-            "score": 0.966945469379425,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "UK government forced to disclose secret Apple backdoor order - TechCrunch",
             "sentiment": "NEGATIVE",
             "score": 0.8802067637443542,
@@ -245,9 +254,9 @@
             ]
         },
         {
-            "title": "Over 879 flights delayed, 55 canceled amid widespread U.S. travel disruptions - NJ.com",
+            "title": "Trump upset 'biggest drop in gasoline in 18 years' came after election - USA Today",
             "sentiment": "NEGATIVE",
-            "score": 0.9039286375045776,
+            "score": 0.9665947556495667,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -258,6 +267,15 @@
             "sentiment": "POSITIVE",
             "score": 0.781500518321991,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Student Loan Borrowers Face Major Setback After Court Allows Repayment Plan Changes - Forbes",
+            "sentiment": "NEGATIVE",
+            "score": 0.9486739635467529,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -292,15 +310,6 @@
             "title": "Waymo pauses driverless taxis on U.S. freeways after California traffic incidents - The Washington Post",
             "sentiment": "NEGATIVE",
             "score": 0.9267752766609192,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Worried about an AI bust? So is the Federal Reserve. - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8555172085762024,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
