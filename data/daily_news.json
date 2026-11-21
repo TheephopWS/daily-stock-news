@@ -1,22 +1,13 @@
 {
-    "last_updated": "2026-11-20 21:26:46 UTC",
-    "total_articles": 28,
-    "bullish_articles": 7,
-    "bearish_articles": 21,
+    "last_updated": "2026-11-21 00:43:29 UTC",
+    "total_articles": 36,
+    "bullish_articles": 9,
+    "bearish_articles": 27,
     "articles": [
         {
-            "title": "US mortgage rates rise for the first time in five weeks | CNN Business - CNN",
-            "sentiment": "POSITIVE",
-            "score": 0.933730959892273,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Jensen Huang's \u2014 and Nvidia's \u2014 legal exposure balloons - CNBC",
+            "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9254582524299622,
+            "score": 0.909345269203186,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -31,6 +22,160 @@
             ]
         },
         {
+            "title": "Anthropic IPO live: Anthropic stock closes up 17% from initial price for $1.27T valuation in first day of trading - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9460728764533997,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stocks plunge as investors take cover amid growing uncertainty - CBS News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9518285989761353,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia, Broadcom, and Micron stocks decline as Anthropic goes public - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9726057648658752,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Gap names new Athleta CEO, lowers full-year guidance - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9712206721305847,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.945550799369812,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Costco sees panic buying surge after tech outages, report says - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9547244310379028,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "AMD Stock Drops After Short Report Says It Isn\u2019t an Nvidia Replacement - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.972033679485321,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "AMD"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "JPMorgan, Visa and Mastercard disclose cyberattack on third-party vendors - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.7462913990020752,
+            "signal": "BEARISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "US mortgage rates rise for the first time in five weeks | CNN Business - CNN",
+            "sentiment": "POSITIVE",
+            "score": 0.9337308406829834,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia\u2019s Interim CEO Addresses Employees - Cheddar",
+            "sentiment": "NEGATIVE",
+            "score": 0.880935788154602,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "The link between \u2018patchmegeddon\u2019 and recent tech outages - American Banker",
+            "sentiment": "NEGATIVE",
+            "score": 0.8898928761482239,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "2027 Hyundai Elantra Is Bigger, More Powerful, And Gets Up To 53 MPG - Motor1.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8200085759162903,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Thanksgiving travel to dip for first time in years as higher costs weigh on Americans - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9740910530090332,
@@ -40,26 +185,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Breakfast sandwiches recalled over horrifying bug linked to stillbirths - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.932611346244812,
-            "signal": "BEARISH",
-            "tickers": [
-                "FDA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "FDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "UK government forced to disclose secret Apple backdoor order - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.8802064657211304,
+            "score": 0.8802067637443542,
             "signal": "BEARISH",
             "tickers": [
                 "AAPL"
@@ -74,9 +202,62 @@
             ]
         },
         {
-            "title": "Jensen Huang Stepped Away From Nvidia. The Stock Has Crashed. Instead of Rushing to Buy the Dip, Here Are 2 AI Stocks Down More Than 15% to Buy Instead. - The Motley Fool",
+            "title": "Advertisers cut Google Ads spending amid rising costs, AI changes - Search Engine Land",
             "sentiment": "NEGATIVE",
-            "score": 0.8393370509147644,
+            "score": 0.954789936542511,
+            "signal": "BEARISH",
+            "tickers": [
+                "GOOGL"
+            ],
+            "primary_ticker": "GOOGL",
+            "ticker_impacts": [
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Social Security raise: What\u2019s left after the Medicare premium hike? - NewsNation",
+            "sentiment": "POSITIVE",
+            "score": 0.7726002335548401,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Cybersecurity Stocks Rally On Palo Alto Earnings Beat, Raised Guidance - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.947563886642456,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Thanksgiving dinner will come with higher price tag: Research - The Hill",
+            "sentiment": "POSITIVE",
+            "score": 0.781500518321991,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "U.S. Jobless Claims Unexpectedly Move Higher - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.8447048664093018,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia Slides After Blowout Earnings As Investigations Line Up; Is Nvidia Stock A Sell Now? - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9622031450271606,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -91,9 +272,9 @@
             ]
         },
         {
-            "title": "Walmart Raises Outlook as Wealthier Shoppers Hunt for Deals - Bloomberg.com",
+            "title": "Walmart raises full-year outlook as wealthier shoppers fuel sales growth - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.94761723279953,
+            "score": 0.9557822942733765,
             "signal": "BULLISH",
             "tickers": [
                 "WMT"
@@ -108,99 +289,19 @@
             ]
         },
         {
-            "title": "Thanksgiving dinner will come with higher price tag: Research - The Hill",
-            "sentiment": "POSITIVE",
-            "score": 0.7815016508102417,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "U.S. Jobless Claims Unexpectedly Move Higher - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.8447047472000122,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gold's bad year is getting worse. Why its price keeps falling - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9666140079498291,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Major KFC franchisee files for bankruptcy, puts 84 restaurants up for sale - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9690558910369873,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals - BBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8665570616722107,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "NC utilities commissioner resigns days after Duke Energy rate hike decisions - WRAL",
-            "sentiment": "NEGATIVE",
-            "score": 0.887759268283844,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Investigating claim Trump's Project 2025 implementation caused bank outages, will impact power grid - Snopes",
-            "sentiment": "NEGATIVE",
-            "score": 0.9476562738418579,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Doomsday prepping goes mainstream - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9122899174690247,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "New alarm over China controlling drug supply chains - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.8392048478126526,
+            "score": 0.839204728603363,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Japan Tobacco takes $8.6bn loss after Vladimir Putin orders seizure of Russian business - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9617869853973389,
-            "signal": "BEARISH",
+            "title": "Proposed \u2018Fair Share Tax\u2019 could bring $70 million in revenue to Portland - KPTV",
+            "sentiment": "POSITIVE",
+            "score": 0.7146756649017334,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -215,10 +316,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "The world\u2019s biggest oil shock could give EVs and solar a boost - Electrek",
-            "sentiment": "POSITIVE",
-            "score": 0.9148851037025452,
-            "signal": "BULLISH",
+            "title": "The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says - WSJ",
+            "sentiment": "NEGATIVE",
+            "score": 0.9729612469673157,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -235,16 +336,7 @@
         {
             "title": "Is AI\u2019s Perfect Storm on the Horizon? - The Free Press",
             "sentiment": "NEGATIVE",
-            "score": 0.8593379855155945,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Worried about an AI bust? So is the Federal Reserve. - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.8555173873901367,
+            "score": 0.8593376874923706,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -253,7 +345,7 @@
         {
             "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is 'unpatchable' - TechCrunch",
             "sentiment": "NEGATIVE",
-            "score": 0.912057638168335,
+            "score": 0.9120579361915588,
             "signal": "BEARISH",
             "tickers": [
                 "MSFT"
@@ -268,9 +360,44 @@
             ]
         },
         {
-            "title": "Stock Market Today: Dow Ends In Red On Rate Shock Fears; Nvidia Sinks As Anthropic IPO Looms - Investor's Business Daily",
+            "title": "DOT's Duffy said ground stop might have been shorter if L3Harris had spotted the problem sooner - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.9621160626411438,
+            "score": 0.8748442530632019,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Gold Stocks, Silver, Copper, Platinum Pounded To Lows After This 'Shock' - Investor's Business Daily",
+            "sentiment": "NEGATIVE",
+            "score": 0.9619573950767517,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "A historic crash in pending home sales is the latest dire data point for the struggling housing market - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9755141139030457,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Billionaire investor Bill Ackman bashes Nvidia\u2019s board for not bringing back Jensen Huang - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9311924576759338,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -285,37 +412,28 @@
             ]
         },
         {
-            "title": "Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown - PBS",
+            "title": "Fed's Waller doubles down on a jumbo rate hike in December, sees more hikes to come - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9334995150566101,
+            "score": 0.8554853796958923,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "A historic crash in pending home sales is the latest dire data point for the struggling housing market - Business Insider",
+            "title": "Safety warnings went unresolved during VA health record modernization, former employee claims - Military Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9755141139030457,
+            "score": 0.9468047022819519,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Copper Prices Plunge in Worst Day in Over a Year as AI Data-Center Bets Unravel - Barron's",
+            "title": "China and the U.S. are the world\u2019s biggest polluters. And the U.S. is falling behind - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.9697484374046326,
+            "score": 0.8787832260131836,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Target price cuts help retailer post strongest sales growth in years heading into holidays - Fox Business",
-            "sentiment": "POSITIVE",
-            "score": 0.9456684589385986,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
