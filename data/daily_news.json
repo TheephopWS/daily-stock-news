@@ -1,31 +1,57 @@
 {
-    "last_updated": "2026-11-21 12:30:30 UTC",
-    "total_articles": 27,
+    "last_updated": "2026-11-21 15:26:49 UTC",
+    "total_articles": 24,
     "bullish_articles": 6,
-    "bearish_articles": 21,
+    "bearish_articles": 18,
     "articles": [
         {
-            "title": "Anthropic stock dives after rip-roaring IPO - Yahoo Finance",
+            "title": "Stock Market Today: Anthropic Stock Drops Premarket; Nasdaq Futures Tumble \u2014 Live Updates - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9068570137023926,
+            "score": 0.8115084767341614,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nasdaq futures fall after Anthropic fails to lift market sentiment: Live updates - CNBC",
+            "title": "Nasdaq drops as Anthropic shares tumble; Dow nears correction territory: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9745040535926819,
+            "score": 0.9743666648864746,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Intuit Earnings Beat Isn\u2019t Enough to Boost the Stock - Barron's",
+            "sentiment": "POSITIVE",
+            "score": 0.9456131458282471,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Why is gold price going down? - The National",
+            "sentiment": "NEGATIVE",
+            "score": 0.9703325033187866,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Trump Discloses Hundreds of Stock Trades, Including Nvidia, SpaceX - Newsweek",
+            "title": "\u2018Dean Of Valuation\u2019 Says Nvidia Is 30% Below Fair Value, Waits For $140 \u2014 Calls Jensen Huang \u2018Great CEO, But Human\u2019 - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8184252977371216,
+            "score": 0.9351701140403748,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -40,39 +66,21 @@
             ]
         },
         {
-            "title": "Cyberattack may have exposed Chase Bank and Mastercard customer data - The Washington Post",
+            "title": "Microsoft CEO Nadella faces uncomfortable reality after outage - TheStreet",
             "sentiment": "NEGATIVE",
-            "score": 0.8798280358314514,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Over 314,000 older Toyota and Lexus vehicles recalled for potentially dangerous airbag issue - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.959801971912384,
+            "score": 0.8706169128417969,
             "signal": "BEARISH",
             "tickers": [
-                "META"
+                "MSFT"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "MSFT",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
+                    "ticker": "MSFT",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish - BBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8829107880592346,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "California targets Nvidia in China AI chip probe - BBC",
@@ -92,6 +100,23 @@
             ]
         },
         {
+            "title": "Third-party breach exposes JPMorgan, Visa, and Mastercard customer data - Semafor",
+            "sentiment": "NEGATIVE",
+            "score": 0.9223797917366028,
+            "signal": "BEARISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "UnitedHealth Stock Continues Slide on Medicare for All Push. What Lies Ahead for Insurers. - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.9711604118347168,
@@ -101,9 +126,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion - CNBC",
+            "title": "Stocks making big moves after hours: INTU, BULL, GAP (SP500:) - Seeking Alpha",
             "sentiment": "NEGATIVE",
-            "score": 0.945550799369812,
+            "score": 0.9714418053627014,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -112,63 +137,25 @@
         {
             "title": "AMD Stock Drops After Short Report Says It Isn\u2019t an Nvidia Replacement - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.932320237159729,
+            "score": 0.972033679485321,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA",
-                "AMD"
+                "AMD",
+                "NVDA"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "AMD",
             "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Walmart, Costco see some panic-buying after tech outages - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8255804181098938,
-            "signal": "BULLISH",
-            "tickers": [
-                "WMT",
-                "MSFT",
-                "AAPL"
-            ],
-            "primary_ticker": "WMT",
-            "ticker_impacts": [
+                },
                 {
-                    "ticker": "WMT",
-                    "impact": "positive",
+                    "ticker": "NVDA",
+                    "impact": "negative",
                     "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "positive",
-                    "relevance": "medium"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Gold, Silver Futures Extend Losses - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.751182496547699,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Microsoft CEO Reveals What Caused Massive Outlook Outage - Cheddar",
@@ -192,6 +179,32 @@
             "sentiment": "NEGATIVE",
             "score": 0.8676213026046753,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Meta rethinks climate goal as AI emissions soar 45% - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.8193190693855286,
+            "signal": "BULLISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": "META",
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "2027 Hyundai Elantra Is Bigger, More Powerful, And Gets Up To 53 MPG - Motor1.com",
+            "sentiment": "POSITIVE",
+            "score": 0.8200085759162903,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -232,36 +245,19 @@
             ]
         },
         {
-            "title": "Thanksgiving dinner will come with higher price tag: Research - The Hill",
-            "sentiment": "POSITIVE",
-            "score": 0.781500518321991,
-            "signal": "BULLISH",
+            "title": "Over 879 flights delayed, 55 canceled amid widespread U.S. travel disruptions - NJ.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9039286375045776,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia Slides After Blowout Earnings As Investigations Line Up; Is Nvidia Stock A Sell Now? - Investor's Business Daily",
-            "sentiment": "NEGATIVE",
-            "score": 0.9622031450271606,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Major KFC franchisee files for bankruptcy, puts 84 restaurants up for sale - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9690558910369873,
-            "signal": "BEARISH",
+            "title": "Thanksgiving dinner will come with higher price tag: Research - The Hill",
+            "sentiment": "POSITIVE",
+            "score": 0.781500518321991,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -309,49 +305,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is 'unpatchable' - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9120579361915588,
-            "signal": "BEARISH",
-            "tickers": [
-                "MSFT"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.8938585519790649,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Google faces a reckoning after pushing its AI tools into classrooms - NBC News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9459275007247925,
-            "signal": "BEARISH",
-            "tickers": [
-                "GOOGL"
-            ],
-            "primary_ticker": "GOOGL",
-            "ticker_impacts": [
-                {
-                    "ticker": "GOOGL",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
