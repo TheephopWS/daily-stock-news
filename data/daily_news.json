@@ -1,43 +1,77 @@
 {
-    "last_updated": "2026-11-22 00:46:30 UTC",
-    "total_articles": 24,
-    "bullish_articles": 2,
-    "bearish_articles": 22,
+    "last_updated": "2026-11-22 03:29:32 UTC",
+    "total_articles": 20,
+    "bullish_articles": 1,
+    "bearish_articles": 19,
     "articles": [
         {
-            "title": "Anthropic stock drops 8% after rip-roaring IPO - Yahoo Finance",
+            "title": "Markets plunge: Nasdaq erases 2026 gains, S&P and Dow enter corrections - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9609041810035706,
+            "score": 0.9327405691146851,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "S&P 500 and Dow enter correction, Nasdaq wipes out 2026 gain as Anthropic leads AI sell-off: Live updates - CNBC",
+            "title": "Nvidia's $1 trillion plunge crystalizes the extraordinary power of a tech founder CEO - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9702636003494263,
+            "score": 0.9642297625541687,
             "signal": "BEARISH",
             "tickers": [
-                "INTC"
+                "NVDA"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "NVDA",
                     "impact": "negative",
-                    "relevance": "medium"
+                    "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Jensen Huang\u2019s \u2018Lying\u2019 Alarmed Nvidia Board Ahead of His Resignation - WIRED",
+            "title": "Trump critiques Jensen Huang's replacement as he wades deeper into Nvidia turmoil - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8097854256629944,
+            "score": 0.8924822807312012,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9723377823829651,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9723844528198242,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA",
-                "INTC"
+                "AMD"
             ],
             "primary_ticker": "NVDA",
             "ticker_impacts": [
@@ -47,34 +81,68 @@
                     "relevance": "high"
                 },
                 {
-                    "ticker": "INTC",
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9391857385635376,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Raft of departures could hit WCCO as CBS buyout deadline arrives - Bring Me The News",
+            "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.7356393337249756,
+            "score": 0.9641929864883423,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA",
+                "MSFT",
+                "GOOGL",
+                "AAPL"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                },
+                {
+                    "ticker": "AAPL",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "Nasdaq Is Now Down for 2026 - WSJ",
+            "title": "'Life is hell on board': Dozens of crew members remain on Villa Vie's Odyssey 3 weeks after residents disembarked - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9026448726654053,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Jensen Huang Scandal: Timeline That Led To His Resignation\u2014And Potential Comeback - Forbes",
-            "sentiment": "NEGATIVE",
-            "score": 0.9003962278366089,
+            "score": 0.9529426097869873,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -90,32 +158,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "A judge confirms student-loan borrowers can be forced off a key affordable repayment plan - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9308065176010132,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nasdaq Slide Deepens After Report of Nvidia SEC Accounting Probe - Barron's",
-            "sentiment": "NEGATIVE",
-            "score": 0.8563129901885986,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Did Banks Get Hacked? Visa, Mastercard, Chase Confirm Vendor Cyberattack - Forbes",
             "sentiment": "NEGATIVE",
             "score": 0.8972870111465454,
@@ -125,18 +167,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "Gold, Silver Drop to Lowest Levels in Over a Year - WSJ",
+            "title": "'Miserable 7' Stocks Shed Whopping $4 Trillion In Value Overnight - Investor's Business Daily",
             "sentiment": "NEGATIVE",
-            "score": 0.9490340948104858,
+            "score": 0.9583728909492493,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "What Happened To Big Law? - Defector",
+            "title": "What Gold\u2019s Price Collapse Means For Millions of Americans - Newsweek",
             "sentiment": "NEGATIVE",
-            "score": 0.8042390942573547,
+            "score": 0.9726136326789856,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -146,15 +188,6 @@
             "title": "The Odds of a Fed Rate Hike Are 100%. Why That Would Be 100% Bad. - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.966080367565155,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "F5 releases emergency patches for critical BIG-IP RCE flaws - BleepingComputer",
-            "sentiment": "NEGATIVE",
-            "score": 0.9233957529067993,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -187,35 +220,9 @@
             ]
         },
         {
-            "title": "Over 314,000 older Toyota and Lexus vehicles recalled for potentially dangerous airbag issue - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9598020911216736,
-            "signal": "BEARISH",
-            "tickers": [
-                "META"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "META",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "UnitedHealth Stock Continues Slide on Medicare for All Push. What Lies Ahead for Insurers. - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.9711605310440063,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9713677167892456,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -239,45 +246,36 @@
             ]
         },
         {
-            "title": "Report Long Island Could Face Electricity Shortage For The First Time - News12 | Long Island",
+            "title": "Microsoft CEO Reveals What Caused Massive Outlook Outage - Cheddar",
             "sentiment": "NEGATIVE",
-            "score": 0.8676208853721619,
+            "score": 0.7517541646957397,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Meta rethinks climate goal as AI emissions soar 45% - Axios",
-            "sentiment": "POSITIVE",
-            "score": 0.8193188905715942,
-            "signal": "BULLISH",
             "tickers": [
-                "META"
+                "MSFT"
             ],
-            "primary_ticker": "META",
+            "primary_ticker": "MSFT",
             "ticker_impacts": [
                 {
-                    "ticker": "META",
-                    "impact": "positive",
+                    "ticker": "MSFT",
+                    "impact": "negative",
                     "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Trump upset 'biggest drop in gasoline in 18 years' came after election - USA Today",
-            "sentiment": "NEGATIVE",
-            "score": 0.9665947556495667,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "Thanksgiving dinner will come with higher price tag: Research - The Hill",
             "sentiment": "POSITIVE",
             "score": 0.7815016508102417,
             "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Major KFC franchisee files for bankruptcy, puts 84 restaurants up for sale - Fox Business",
+            "sentiment": "NEGATIVE",
+            "score": 0.9690558910369873,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
