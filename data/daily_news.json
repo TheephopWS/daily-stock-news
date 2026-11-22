@@ -1,9 +1,18 @@
 {
-    "last_updated": "2026-11-21 21:26:42 UTC",
-    "total_articles": 22,
+    "last_updated": "2026-11-22 00:46:30 UTC",
+    "total_articles": 24,
     "bullish_articles": 2,
-    "bearish_articles": 20,
+    "bearish_articles": 22,
     "articles": [
+        {
+            "title": "Anthropic stock drops 8% after rip-roaring IPO - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9609041810035706,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "S&P 500 and Dow enter correction, Nasdaq wipes out 2026 gain as Anthropic leads AI sell-off: Live updates - CNBC",
             "sentiment": "NEGATIVE",
@@ -22,12 +31,13 @@
             ]
         },
         {
-            "title": "Nvidia stock extends $2.5 trillion rout as SEC probe reportedly investigates its accounting - Yahoo Finance",
+            "title": "Jensen Huang\u2019s \u2018Lying\u2019 Alarmed Nvidia Board Ahead of His Resignation - WIRED",
             "sentiment": "NEGATIVE",
-            "score": 0.9413823485374451,
+            "score": 0.8097854256629944,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "NVDA",
+                "INTC"
             ],
             "primary_ticker": "NVDA",
             "ticker_impacts": [
@@ -35,73 +45,27 @@
                     "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9391857385635376,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
+                },
                 {
-                    "ticker": "NVDA",
+                    "ticker": "INTC",
                     "impact": "negative",
                     "relevance": "medium"
                 }
             ]
         },
         {
-            "title": "Here's what our readers are saying about Amazon's threat to raise NYC delivery costs - Business Insider",
+            "title": "Raft of departures could hit WCCO as CBS buyout deadline arrives - Bring Me The News",
             "sentiment": "NEGATIVE",
-            "score": 0.7369415163993835,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "\u2018Buyers are out for blood\u2019: With home sales at a record low, buyers are calling the shots - MarketWatch",
-            "sentiment": "NEGATIVE",
-            "score": 0.9358963370323181,
+            "score": 0.7356393337249756,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia Stock Drops Below $150 Support After Jensen Huang Scandal: Key Levels to Watch - Barron's",
+            "title": "Nasdaq Is Now Down for 2026 - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9025104641914368,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Anthropic shares fall a day after blockbuster IPO - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9710292220115662,
+            "score": 0.9026448726654053,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -110,25 +74,51 @@
         {
             "title": "Jensen Huang Scandal: Timeline That Led To His Resignation\u2014And Potential Comeback - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.9003960490226746,
+            "score": 0.9003962278366089,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "The AI fever in markets is breaking - Financial Times",
+            "title": "TSMC Stock Slides As Taiwan Market Suffers Worst Week Since 1990: What's Going On? - Benzinga",
             "sentiment": "NEGATIVE",
-            "score": 0.923262894153595,
+            "score": 0.9742050766944885,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "A judge confirms student-loan borrowers can be forced off a key affordable repayment plan - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9308065176010132,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nasdaq Slide Deepens After Report of Nvidia SEC Accounting Probe - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.8563129901885986,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Did Banks Get Hacked? Visa, Mastercard, Chase Confirm Vendor Cyberattack - Forbes",
             "sentiment": "NEGATIVE",
-            "score": 0.8972868919372559,
+            "score": 0.8972870111465454,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -137,33 +127,25 @@
         {
             "title": "Gold, Silver Drop to Lowest Levels in Over a Year - WSJ",
             "sentiment": "NEGATIVE",
-            "score": 0.9490341544151306,
+            "score": 0.9490340948104858,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Behind Jensen Huang\u2019s exit, questions about a management style reportedly built on fear - TechCrunch",
+            "title": "What Happened To Big Law? - Defector",
             "sentiment": "NEGATIVE",
-            "score": 0.8205302357673645,
+            "score": 0.8042390942573547,
             "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
-            "title": "Stocks slide despite Anthropic\u2019s record debut and Trump touts \u2018unbelievable\u2019 China summit: Morning Rundown - NBC News",
+            "title": "The Odds of a Fed Rate Hike Are 100%. Why That Would Be 100% Bad. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.972807765007019,
+            "score": 0.966080367565155,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -179,9 +161,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "US trailblazer\u2019s Marc Marquez MotoGP dream overshadowed by $600m sponsor fraud charge - Crash.net",
+            "sentiment": "NEGATIVE",
+            "score": 0.871040403842926,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Microsoft CEO Nadella faces uncomfortable reality after outage - TheStreet",
             "sentiment": "NEGATIVE",
-            "score": 0.8706169128417969,
+            "score": 0.8706169724464417,
             "signal": "BEARISH",
             "tickers": [
                 "MSFT"
@@ -198,7 +189,7 @@
         {
             "title": "Over 314,000 older Toyota and Lexus vehicles recalled for potentially dangerous airbag issue - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.959801971912384,
+            "score": 0.9598020911216736,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -215,24 +206,33 @@
         {
             "title": "UnitedHealth Stock Continues Slide on Medicare for All Push. What Lies Ahead for Insurers. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9711604118347168,
+            "score": 0.9711605310440063,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia\u2019s Interim CEO Addresses Employees - Cheddar",
+            "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.880935788154602,
+            "score": 0.9713677167892456,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "AMD stock drops after Hunterbrook Media raises export control concerns - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9637336134910583,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "AMD"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "AMD",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -241,7 +241,7 @@
         {
             "title": "Report Long Island Could Face Electricity Shortage For The First Time - News12 | Long Island",
             "sentiment": "NEGATIVE",
-            "score": 0.8676213026046753,
+            "score": 0.8676208853721619,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -250,7 +250,7 @@
         {
             "title": "Meta rethinks climate goal as AI emissions soar 45% - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.8193190693855286,
+            "score": 0.8193188905715942,
             "signal": "BULLISH",
             "tickers": [
                 "META"
@@ -276,7 +276,7 @@
         {
             "title": "Thanksgiving dinner will come with higher price tag: Research - The Hill",
             "sentiment": "POSITIVE",
-            "score": 0.781500518321991,
+            "score": 0.7815016508102417,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
