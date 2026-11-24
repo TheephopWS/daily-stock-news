@@ -1,13 +1,39 @@
 {
-    "last_updated": "2026-11-23 21:27:15 UTC",
+    "last_updated": "2026-11-24 00:41:17 UTC",
     "total_articles": 27,
-    "bullish_articles": 6,
-    "bearish_articles": 21,
+    "bullish_articles": 4,
+    "bearish_articles": 23,
     "articles": [
         {
-            "title": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance",
+            "title": "US Stock Futures Open Higher After Tech Selloff: Markets Wrap - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9439984560012817,
+            "score": 0.8737651705741882,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Officials warn king tides may disrupt Thanksgiving travel across western WA - KING5.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9417939782142639,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Jim Beam to pause production at flagship Kentucky distillery in major shift for iconic American whiskey brand - Fox News",
+            "sentiment": "NEGATIVE",
+            "score": 0.8810981512069702,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,18 +49,32 @@
             "ticker_impacts": []
         },
         {
-            "title": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely - Bloomberg.com",
+            "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9720083475112915,
+            "score": 0.9499156475067139,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "INTC",
+                "MSFT"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
         },
         {
-            "title": "Investors Brave Stock Market \u2018Fragility\u2019 as AI Trade Falters - Bloomberg.com",
+            "title": "Brussels Airport Cancels All Flights as Skeyes Shuts Belgian Airspace - MiGFlug",
             "sentiment": "NEGATIVE",
-            "score": 0.8541343212127686,
+            "score": 0.959550678730011,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -43,7 +83,7 @@
         {
             "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7429975867271423,
+            "score": 0.742996335029602,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -69,50 +109,33 @@
         {
             "title": "China Lowers Margin Requirement to 80% to Boost Stock Liquidity - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.936421275138855,
+            "score": 0.9364212155342102,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "US ports face cyber attack onslaught as hackers target vital trade routes - Financial Times",
+            "title": "Copper Prices Are Plunging and Sending a Warning for the US Economy - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9356870055198669,
+            "score": 0.9673646688461304,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Trump\u2019s meme coin gala raises eyebrows \u2014 even in MAGA circles - MS NOW",
-            "sentiment": "POSITIVE",
-            "score": 0.7739549279212952,
-            "signal": "BULLISH",
-            "tickers": [
-                "TRUMP"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "TRUMP",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "The Great Cash Grab Is Crashing Gold, Silver And Bitcoin, Goldman Sachs Warns The Stock Selloff Isn't Over - Yahoo Finance",
+            "title": "Tesla FSD V15 Makes Your Drive Look Like Grand Theft Auto - InsideEVs",
             "sentiment": "NEGATIVE",
-            "score": 0.8338649272918701,
+            "score": 0.8370687365531921,
             "signal": "BEARISH",
             "tickers": [
-                "GS"
+                "TSLA"
             ],
-            "primary_ticker": "GS",
+            "primary_ticker": "TSLA",
             "ticker_impacts": [
                 {
-                    "ticker": "GS",
+                    "ticker": "TSLA",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -121,7 +144,7 @@
         {
             "title": "Amazon\u2019s AI resistance: workers ready for battle over data centres - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.8639321327209473,
+            "score": 0.863932192325592,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN"
@@ -136,19 +159,45 @@
             ]
         },
         {
+            "title": "Chamath Palihapitiya Praises Jensen Huang As \u2018Biblically Good,\u2019 But Warns Bringing Him Back At Nvidia Could Put \u2018Everybody\u2019 At Risk - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.8788977861404419,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Waymo issues double safety recall days after California bans robotaxis from freeways - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9263445138931274,
+            "score": 0.9263445734977722,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "'Save Americans Money,' Says Warren After Trump Renews Support for 10% Cap on Credit Card Interest Rates - Common Dreams",
-            "sentiment": "POSITIVE",
-            "score": 0.799272358417511,
-            "signal": "BULLISH",
+            "title": "US MARKETS CALL: A Bull-Market Correction Or A Tech-Wreck Bear Market? Also: Our New S&P 500 Targets. - Yardeni QuickTakes",
+            "sentiment": "NEGATIVE",
+            "score": 0.8026260137557983,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Kroger lays off American workers, moves jobs to India - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9640858173370361,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -165,7 +214,7 @@
         {
             "title": "China\u2019s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9462553858757019,
+            "score": 0.9462552666664124,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -174,7 +223,7 @@
         {
             "title": "Amazon is complaining about NYC Council on shipping labels, too - The Verge",
             "sentiment": "NEGATIVE",
-            "score": 0.9287575483322144,
+            "score": 0.9287576675415039,
             "signal": "BEARISH",
             "tickers": [
                 "AMZN"
@@ -191,7 +240,7 @@
         {
             "title": "Nvidia faces US accounting probe amid deepening turmoil: media - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.9005534052848816,
+            "score": 0.9005539417266846,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA",
@@ -212,9 +261,26 @@
             ]
         },
         {
+            "title": "Prediction: This Will Be Nvidia\u2019s Stock Price in 2027 After Its Phenomenal Q3 Results - The Motley Fool",
+            "sentiment": "POSITIVE",
+            "score": 0.9370547533035278,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Fluffy Cotton Balls - Emptywheel",
             "sentiment": "NEGATIVE",
-            "score": 0.7952019572257996,
+            "score": 0.7952018976211548,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -231,7 +297,7 @@
         {
             "title": "New Report Claims Jensen Huang Regularly Threatened Nvidia Staff With Over-The-Top Violence - Kotaku",
             "sentiment": "NEGATIVE",
-            "score": 0.9129674434661865,
+            "score": 0.9129673838615417,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -248,7 +314,7 @@
         {
             "title": "Bitcoin Bounces Off Two-Year Lows. Could Crypto Rescue Stocks on Monday? - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.9230100512504578,
+            "score": 0.9230098724365234,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -257,7 +323,7 @@
         {
             "title": "Microsoft\u2019s final Outlook outage report details testing gaps and safeguards that backfired - GeekWire",
             "sentiment": "NEGATIVE",
-            "score": 0.7022500038146973,
+            "score": 0.7022506594657898,
             "signal": "BEARISH",
             "tickers": [
                 "MSFT"
@@ -272,32 +338,9 @@
             ]
         },
         {
-            "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9153068661689758,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN",
-                "NVDA"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Bessent says no further restrictions are needed for Nvidia chip exports to China - PBS",
             "sentiment": "NEGATIVE",
-            "score": 0.8230354189872742,
+            "score": 0.8230352401733398,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -314,34 +357,7 @@
         {
             "title": "It's a Major Recall for Honda, Toyota - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.9710925221443176,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Over 50K units of toothpaste, mouthwash recalled in US after hormones detected: FDA - New York Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.774694561958313,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "FDA rejects Capricor Therapeutics' Duchenne therapy, a decision that was a long time coming - STAT",
-            "sentiment": "NEGATIVE",
-            "score": 0.7985919117927551,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Dollar General overcharging lawsuit: 10 more states join legal action against store - NewsNation",
-            "sentiment": "NEGATIVE",
-            "score": 0.9259004592895508,
+            "score": 0.9710924029350281,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
