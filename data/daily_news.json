@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-11-24 06:37:07 UTC",
-    "total_articles": 28,
+    "last_updated": "2026-11-24 09:29:13 UTC",
+    "total_articles": 26,
     "bullish_articles": 3,
-    "bearish_articles": 25,
+    "bearish_articles": 23,
     "articles": [
         {
             "title": "Wall Street set to rebound after AI stock sell-off - Financial Times",
@@ -16,7 +16,7 @@
         {
             "title": "Copper Rises After Falling More Than 9% Last Week on AI Gloom - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9657548069953918,
+            "score": 0.9657549262046814,
             "signal": "BEARISH",
             "tickers": [
                 "META"
@@ -58,27 +58,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "US Treasury Secretary Scott Bessent warns on Fed hike as AI bubble fears mount - Semafor",
-            "sentiment": "NEGATIVE",
-            "score": 0.8205975294113159,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Trump\u2019s AI Chip Crackdown Inflicts Collateral Damage Across Asia - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9560917019844055,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.736319363117218,
+            "score": 0.7363185882568359,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -96,7 +78,7 @@
         {
             "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.8687570691108704,
+            "score": 0.8687573671340942,
             "signal": "BULLISH",
             "tickers": [
                 "GS"
@@ -131,7 +113,7 @@
         {
             "title": "Tech and AI Sentiment, Thanksgiving and Other Key Things to Watch this Week - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.759036660194397,
+            "score": 0.7590354681015015,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -140,6 +122,29 @@
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9499156475067139,
+            "signal": "BEARISH",
+            "tickers": [
+                "INTC",
+                "MSFT"
+            ],
+            "primary_ticker": "INTC",
+            "ticker_impacts": [
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "MSFT",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -164,70 +169,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.742996335029602,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Centrica boss 'hugely concerned' over impact of soaring energy bills - BBC",
+            "title": "Is Nvidia a Buy at $125? Here's My Honest Take - The Motley Fool",
             "sentiment": "NEGATIVE",
-            "score": 0.9100833535194397,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Strong Earnings Prove No Match for the Crumbling AI Trade - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9512988924980164,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "US ports face cyber attack onslaught as hackers target vital trade routes - Financial Times",
-            "sentiment": "NEGATIVE",
-            "score": 0.9356868863105774,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Tesla FSD V15 Makes Your Drive Look Like Grand Theft Auto - InsideEVs",
-            "sentiment": "NEGATIVE",
-            "score": 0.8370687365531921,
-            "signal": "BEARISH",
-            "tickers": [
-                "TSLA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Chamath Palihapitiya Praises Jensen Huang As \u2018Biblically Good,\u2019 But Warns Bringing Him Back At Nvidia Could Put \u2018Everybody\u2019 At Risk - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.8788977861404419,
+            "score": 0.9204731583595276,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -242,9 +186,53 @@
             ]
         },
         {
+            "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.7429975867271423,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Centrica boss 'hugely concerned' over impact of soaring energy bills - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9100830554962158,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US ports face cyber attack onslaught as hackers target vital trade routes - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9356870055198669,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Tesla FSD V15 Makes Your Drive Look Like Grand Theft Auto - InsideEVs",
+            "sentiment": "NEGATIVE",
+            "score": 0.8370679616928101,
+            "signal": "BEARISH",
+            "tickers": [
+                "TSLA"
+            ],
+            "primary_ticker": "TSLA",
+            "ticker_impacts": [
+                {
+                    "ticker": "TSLA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "Waymo issues double safety recall days after California bans robotaxis from freeways - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9263445734977722,
+            "score": 0.9263445138931274,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -253,39 +241,25 @@
         {
             "title": "I-285 bridge over Chattahoochee reopens after temporary repairs closed span - WSB-TV",
             "sentiment": "NEGATIVE",
-            "score": 0.9422158598899841,
+            "score": 0.9422157406806946,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than a Decade and Cheaper Than Microsoft and Broadcom - 24/7 Wall St.",
+            "title": "China\u2019s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9378681778907776,
+            "score": 0.9462553858757019,
             "signal": "BEARISH",
-            "tickers": [
-                "MSFT",
-                "NVDA"
-            ],
-            "primary_ticker": "MSFT",
-            "ticker_impacts": [
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Companies Turn Tariff Refunds Into Executive Bonuses - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.7842831015586853,
+            "score": 0.7842822670936584,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -294,7 +268,7 @@
         {
             "title": "Bitcoin rises 9% from two-year low, reclaiming $60,000 as forced selling eases - CoinDesk",
             "sentiment": "NEGATIVE",
-            "score": 0.9620490670204163,
+            "score": 0.9620489478111267,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -303,7 +277,7 @@
         {
             "title": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9466919302940369,
+            "score": 0.9466918110847473,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -312,7 +286,7 @@
         {
             "title": "Fluffy Cotton Balls - emptywheel",
             "sentiment": "NEGATIVE",
-            "score": 0.7952018976211548,
+            "score": 0.7952019572257996,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
