@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-11-24 09:29:13 UTC",
-    "total_articles": 26,
+    "last_updated": "2026-11-24 12:32:36 UTC",
+    "total_articles": 28,
     "bullish_articles": 3,
-    "bearish_articles": 23,
+    "bearish_articles": 25,
     "articles": [
         {
             "title": "Wall Street set to rebound after AI stock sell-off - Financial Times",
@@ -49,13 +49,30 @@
             "ticker_impacts": []
         },
         {
-            "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing - BBC",
+            "title": "XRP\u2019s Next 10 Years: Is It One to Buy, Hold or Avoid? - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.9571028351783752,
+            "score": 0.7271592617034912,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Microsoft President Warns of More Tech Outages in Coming Months - Newsweek",
+            "sentiment": "NEGATIVE",
+            "score": 0.9655945897102356,
+            "signal": "BEARISH",
+            "tickers": [
+                "MSFT"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market - Bloomberg.com",
@@ -128,29 +145,6 @@
             ]
         },
         {
-            "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9499156475067139,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC",
-                "MSFT"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
             "title": "Brussels Airport Cancels All Flights as Skeyes Shuts Belgian Airspace - MiGFlug",
             "sentiment": "NEGATIVE",
             "score": 0.959550678730011,
@@ -169,36 +163,10 @@
             "ticker_impacts": []
         },
         {
-            "title": "Is Nvidia a Buy at $125? Here's My Honest Take - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.9204731583595276,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep - CNBC",
             "sentiment": "POSITIVE",
             "score": 0.7429975867271423,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Centrica boss 'hugely concerned' over impact of soaring energy bills - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9100830554962158,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -266,6 +234,55 @@
             "ticker_impacts": []
         },
         {
+            "title": "Amazon is complaining about NYC Council on shipping labels, too - The Verge",
+            "sentiment": "NEGATIVE",
+            "score": 0.9287575483322144,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia faces US accounting probe amid deepening turmoil: media - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9005534052848816,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "INTC"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "INTC",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide - The Block",
+            "sentiment": "NEGATIVE",
+            "score": 0.849724531173706,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Bitcoin rises 9% from two-year low, reclaiming $60,000 as forced selling eases - CoinDesk",
             "sentiment": "NEGATIVE",
             "score": 0.9620489478111267,
@@ -299,6 +316,15 @@
                     "relevance": "medium"
                 }
             ]
+        },
+        {
+            "title": "Economists Are Hyperventilating Over the AI Bubble - Futurism",
+            "sentiment": "NEGATIVE",
+            "score": 0.9466308355331421,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         }
     ]
 }
