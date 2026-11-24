@@ -1,9 +1,43 @@
 {
-    "last_updated": "2026-11-24 15:27:29 UTC",
-    "total_articles": 22,
-    "bullish_articles": 4,
-    "bearish_articles": 18,
+    "last_updated": "2026-11-24 18:29:00 UTC",
+    "total_articles": 26,
+    "bullish_articles": 6,
+    "bearish_articles": 20,
     "articles": [
+        {
+            "title": "Stock Market Today: Dow, Nasdaq Surge As Jensen Huang Returns To Nvidia; Chip Plays Rocket (Live Coverage) - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9150846004486084,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Stocks rebound as Nvidia spikes after Jensen Huang's return - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.8467867970466614,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
         {
             "title": "Jensen Huang went to war with Washington \u2014 and won a path to China - The Washington Post",
             "sentiment": "NEGATIVE",
@@ -22,28 +56,33 @@
             ]
         },
         {
-            "title": "Virginia, Oregon sue Musk\u2019s AI company over sexual deepfakes - Politico",
+            "title": "Amazon warns NYC of $5 fees due to mayor\u2019s delivery bill; Mamdani cries \u2018greed\u2019 - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.7024049758911133,
+            "score": 0.931505560874939,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "AMZN",
+                "AMD"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Flights grounded in Belgium due to austerity measures strike - BBC",
+            "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9671933054924011,
+            "score": 0.8559697270393372,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Morgan Stanley\u2019s Wilson Says Buying Opportunity Too Good to Miss - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.8911937475204468,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -58,23 +97,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia shares soar 30% after board reinstates Jensen Huang - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.8551549315452576,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Honda recalls 810K vehicles over dangerous Takata airbag inflator rupture risk - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9624205827713013,
@@ -84,9 +106,41 @@
             "ticker_impacts": []
         },
         {
+            "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says \u2018Bears Feel Validated,\u2019 But There\u2019s No Stopping The AI Wave - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.9285416603088379,
+            "signal": "BULLISH",
+            "tickers": [
+                "AMD",
+                "AAPL"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "positive",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AAPL",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Oil falls as robust Gulf exports offset Iran escalation, supply glut risks - Investing.com",
             "sentiment": "NEGATIVE",
             "score": 0.9235170483589172,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.960161030292511,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -102,13 +156,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "US Treasury Secretary Scott Bessent warns on Fed hike as AI bubble fears mount - Semafor",
+            "title": "NTSB weighs probe of Amazon drone crash in Huntington Woods - Detroit Free Press",
             "sentiment": "NEGATIVE",
-            "score": 0.8205975294113159,
+            "score": 0.7937585711479187,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "AMZN"
+            ],
+            "primary_ticker": "AMZN",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Microsoft President Warns of More Tech Outages in Coming Months - Newsweek",
@@ -128,9 +190,9 @@
             ]
         },
         {
-            "title": "Half Of All Delta Flights Delayed Sunday After Ground Delay In Atlanta - Forbes",
+            "title": "Two people hospitalized after Amtrak train hits vehicle at Encinitas railroad crossing - FOX 5 San Diego & KUSI News",
             "sentiment": "NEGATIVE",
-            "score": 0.9139176607131958,
+            "score": 0.9511390328407288,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -155,9 +217,44 @@
             "ticker_impacts": []
         },
         {
+            "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.868757426738739,
+            "signal": "BULLISH",
+            "tickers": [
+                "GS"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "GS",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9439984560012817,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "US ports face onslaught of cyber attacks - The Hill",
             "sentiment": "NEGATIVE",
             "score": 0.9276043176651001,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Brussels Airport Cancels All Flights as Skeyes Shuts Belgian Airspace - MiGFlug",
+            "sentiment": "NEGATIVE",
+            "score": 0.959550678730011,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -173,6 +270,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "Copper Prices Are Plunging and Sending a Warning for the US Economy - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9673646688461304,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Waymo issues double safety recall days after California bans robotaxis from freeways - Fox Business",
             "sentiment": "NEGATIVE",
             "score": 0.9263445138931274,
@@ -182,9 +288,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "China\u2019s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com",
+            "title": "I-285 bridge over Chattahoochee reopens after temporary repairs closed span - WSB-TV",
             "sentiment": "NEGATIVE",
-            "score": 0.9462553858757019,
+            "score": 0.9422158598899841,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -215,32 +321,6 @@
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Bitcoin rises 9% from two-year low, reclaiming $60,000 as forced selling eases - CoinDesk",
-            "sentiment": "NEGATIVE",
-            "score": 0.9620490670204163,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Bessent says no further restrictions are needed for Nvidia chip exports to China - PBS",
-            "sentiment": "NEGATIVE",
-            "score": 0.8230355381965637,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         }
     ]
 }
