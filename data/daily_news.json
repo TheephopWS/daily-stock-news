@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-11-24 18:29:00 UTC",
-    "total_articles": 26,
-    "bullish_articles": 6,
-    "bearish_articles": 20,
+    "last_updated": "2026-11-24 21:26:58 UTC",
+    "total_articles": 27,
+    "bullish_articles": 5,
+    "bearish_articles": 22,
     "articles": [
         {
-            "title": "Stock Market Today: Dow, Nasdaq Surge As Jensen Huang Returns To Nvidia; Chip Plays Rocket (Live Coverage) - Investor's Business Daily",
+            "title": "Stocks surge in best day since 2025, adding trillions in value after Jensen Huang returns to Nvidia - NBC News",
             "sentiment": "POSITIVE",
-            "score": 0.9150846004486084,
+            "score": 0.8977923393249512,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -22,9 +22,32 @@
             ]
         },
         {
-            "title": "Stocks rebound as Nvidia spikes after Jensen Huang's return - Fox Business",
+            "title": "NYC Citi Bike member rides to be capped at $3.65 after Mamdani inks new deal with Lyft - Gothamist",
+            "sentiment": "NEGATIVE",
+            "score": 0.8183011412620544,
+            "signal": "BEARISH",
+            "tickers": [
+                "AMD",
+                "LYFT"
+            ],
+            "primary_ticker": "AMD",
+            "ticker_impacts": [
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "LYFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia stock has best day since May 2003, gaining nearly $1T in market cap after Jensen Huang is reinstated as CEO - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.8467867970466614,
+            "score": 0.9422438740730286,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -37,6 +60,93 @@
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "Why Anthropic\u2019s Stock Is Sitting Out Nvidia\u2019s Big Rally - Barron's",
+            "sentiment": "NEGATIVE",
+            "score": 0.9559891819953918,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "New York judge urged Kalshi to compromise on limiting bets by anyone under 21 - CNN",
+            "sentiment": "NEGATIVE",
+            "score": 0.8237878680229187,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "States sue Musk companies over flood of sexualized images made with AI chatbot Grok - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9009078741073608,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia board shows \"lack of backbone\" in re-hiring Jensen Huang, governance experts say - Axios",
+            "sentiment": "NEGATIVE",
+            "score": 0.9574741125106812,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Ground stop issued at O'Hare Airport \u2018due to staffing' at start of busy holiday week - NBC Chicago",
+            "sentiment": "NEGATIVE",
+            "score": 0.9632132649421692,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Stock Market Today: Dow jumps 1,500 points, Nasdaq surges 6.7%, S&P 500 shoots higher after Nvidia reinstates Jensen Huang; Nvidia shares up 30% \u2014 live updates - MarketWatch",
+            "sentiment": "POSITIVE",
+            "score": 0.9341710209846497,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Delta delays flights ahead of Thanksgiving holiday over system failure - Gothamist",
+            "sentiment": "NEGATIVE",
+            "score": 0.9652674198150635,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Jensen Huang went to war with Washington \u2014 and won a path to China - The Washington Post",
@@ -56,33 +166,51 @@
             ]
         },
         {
+            "title": "Honda recalls over 810,000 vehicles. See the affected models - USA Today",
+            "sentiment": "NEGATIVE",
+            "score": 0.96983802318573,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Amazon warns NYC of $5 fees due to mayor\u2019s delivery bill; Mamdani cries \u2018greed\u2019 - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.931505560874939,
+            "score": 0.9315056800842285,
             "signal": "BEARISH",
             "tickers": [
-                "AMZN",
-                "AMD"
+                "AMD",
+                "AMZN"
             ],
-            "primary_ticker": "AMZN",
+            "primary_ticker": "AMD",
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
                 },
                 {
-                    "ticker": "AMD",
+                    "ticker": "AMZN",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims - CNBC",
+            "title": "Staffing issue prompts brief ground stop at Chicago O'Hare Airport amid busy Thanksgiving travel period - ABC7 Chicago",
             "sentiment": "NEGATIVE",
-            "score": 0.8559697270393372,
+            "score": 0.9692802429199219,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "U.S. chip and neocloud stocks rally premarket after last week\u2019s selloff - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8819171190261841,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -97,93 +225,43 @@
             "ticker_impacts": []
         },
         {
-            "title": "Honda recalls 810K vehicles over dangerous Takata airbag inflator rupture risk - Fox Business",
+            "title": "Germany news: Metalworkers go on strike as pay dispute that's been simmering for weeks heats up - DW.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9624205827713013,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says \u2018Bears Feel Validated,\u2019 But There\u2019s No Stopping The AI Wave - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9285416603088379,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMD",
-                "AAPL"
-            ],
-            "primary_ticker": "AMD",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMD",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "AAPL",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Oil falls as robust Gulf exports offset Iran escalation, supply glut risks - Investing.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9235170483589172,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.960161030292511,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing - BBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9571028351783752,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "NTSB weighs probe of Amazon drone crash in Huntington Woods - Detroit Free Press",
-            "sentiment": "NEGATIVE",
-            "score": 0.7937585711479187,
+            "score": 0.9543396234512329,
             "signal": "BEARISH",
             "tickers": [
-                "AMZN"
+                "META"
             ],
-            "primary_ticker": "AMZN",
+            "primary_ticker": "META",
             "ticker_impacts": [
                 {
-                    "ticker": "AMZN",
+                    "ticker": "META",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Microsoft President Warns of More Tech Outages in Coming Months - Newsweek",
+            "title": "Asian stock markets tumble as AI bubble fears mount - Al Jazeera",
             "sentiment": "NEGATIVE",
-            "score": 0.9655945897102356,
+            "score": 0.9673141241073608,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia stock logs 2008-scale losing streak even as interim CEO delivers beat - TheStreet",
+            "sentiment": "NEGATIVE",
+            "score": 0.9450648427009583,
             "signal": "BEARISH",
             "tickers": [
-                "MSFT"
+                "NVDA"
             ],
-            "primary_ticker": "MSFT",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "MSFT",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
                 }
@@ -192,7 +270,7 @@
         {
             "title": "Two people hospitalized after Amtrak train hits vehicle at Encinitas railroad crossing - FOX 5 San Diego & KUSI News",
             "sentiment": "NEGATIVE",
-            "score": 0.9511390328407288,
+            "score": 0.9511391520500183,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -201,7 +279,7 @@
         {
             "title": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7363188862800598,
+            "score": 0.736319363117218,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -219,7 +297,7 @@
         {
             "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.868757426738739,
+            "score": 0.8687570691108704,
             "signal": "BULLISH",
             "tickers": [
                 "GS"
@@ -234,9 +312,9 @@
             ]
         },
         {
-            "title": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance",
+            "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9439984560012817,
+            "score": 0.9684414863586426,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -245,34 +323,16 @@
         {
             "title": "US ports face onslaught of cyber attacks - The Hill",
             "sentiment": "NEGATIVE",
-            "score": 0.9276043176651001,
+            "score": 0.9276044368743896,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Brussels Airport Cancels All Flights as Skeyes Shuts Belgian Airspace - MiGFlug",
+            "title": "Chicago now has the worst traffic in the U.S. \u2014 here\u2019s why - NPR",
             "sentiment": "NEGATIVE",
-            "score": 0.959550678730011,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7429965734481812,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Copper Prices Are Plunging and Sending a Warning for the US Economy - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9673646688461304,
+            "score": 0.964718222618103,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -281,42 +341,7 @@
         {
             "title": "Waymo issues double safety recall days after California bans robotaxis from freeways - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9263445138931274,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "I-285 bridge over Chattahoochee reopens after temporary repairs closed span - WSB-TV",
-            "sentiment": "NEGATIVE",
-            "score": 0.9422158598899841,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Prediction: This Will Be Nvidia\u2019s Stock Price in 2027 After Its Phenomenal Q3 Results - The Motley Fool",
-            "sentiment": "POSITIVE",
-            "score": 0.9370547533035278,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide - The Block",
-            "sentiment": "NEGATIVE",
-            "score": 0.8497241735458374,
+            "score": 0.9263445734977722,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
