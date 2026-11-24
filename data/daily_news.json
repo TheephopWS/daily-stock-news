@@ -1,13 +1,48 @@
 {
-    "last_updated": "2026-11-24 03:30:23 UTC",
-    "total_articles": 30,
-    "bullish_articles": 4,
-    "bearish_articles": 26,
+    "last_updated": "2026-11-24 06:37:07 UTC",
+    "total_articles": 28,
+    "bullish_articles": 3,
+    "bearish_articles": 25,
     "articles": [
         {
-            "title": "Asian stock markets tumble as AI bubble fears mount - Al Jazeera",
+            "title": "Wall Street set to rebound after AI stock sell-off - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9673142433166504,
+            "score": 0.9659196138381958,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Copper Rises After Falling More Than 9% Last Week on AI Gloom - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9657548069953918,
+            "signal": "BEARISH",
+            "tickers": [
+                "META"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "META",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
+            "title": "Oil falls as robust Gulf exports offset Iran escalation, supply glut risks - Investing.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.923517107963562,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.960161030292511,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -23,26 +58,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "US Stock Futures Open Higher After Tech Selloff: Markets Wrap - Bloomberg.com",
+            "title": "US Treasury Secretary Scott Bessent warns on Fed hike as AI bubble fears mount - Semafor",
             "sentiment": "NEGATIVE",
-            "score": 0.8737658262252808,
+            "score": 0.8205975294113159,
             "signal": "BEARISH",
-            "tickers": [
-                "INTC"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump\u2019s AI Chip Crackdown Inflicts Collateral Damage Across Asia - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.9560917019844055,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7363185882568359,
+            "score": 0.736319363117218,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -60,7 +96,7 @@
         {
             "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.8687573671340942,
+            "score": 0.8687570691108704,
             "signal": "BULLISH",
             "tickers": [
                 "GS"
@@ -84,9 +120,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9684414863586426,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Tech and AI Sentiment, Thanksgiving and Other Key Things to Watch this Week - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.7590354681015015,
+            "score": 0.759036660194397,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -95,29 +140,6 @@
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9499156475067139,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC",
-                "MSFT"
-            ],
-            "primary_ticker": "INTC",
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "MSFT",
                     "impact": "negative",
                     "relevance": "medium"
                 }
@@ -142,26 +164,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Is Nvidia a Buy at $125? Here's My Honest Take - The Motley Fool",
-            "sentiment": "NEGATIVE",
-            "score": 0.9204731583595276,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.7429975867271423,
+            "score": 0.742996335029602,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -170,7 +175,7 @@
         {
             "title": "Centrica boss 'hugely concerned' over impact of soaring energy bills - BBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9100830554962158,
+            "score": 0.9100833535194397,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -196,16 +201,7 @@
         {
             "title": "US ports face cyber attack onslaught as hackers target vital trade routes - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9356870055198669,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Copper Prices Are Plunging and Sending a Warning for the US Economy - Business Insider",
-            "sentiment": "NEGATIVE",
-            "score": 0.9673646688461304,
+            "score": 0.9356868863105774,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -214,7 +210,7 @@
         {
             "title": "Tesla FSD V15 Makes Your Drive Look Like Grand Theft Auto - InsideEVs",
             "sentiment": "NEGATIVE",
-            "score": 0.8370679616928101,
+            "score": 0.8370687365531921,
             "signal": "BEARISH",
             "tickers": [
                 "TSLA"
@@ -231,7 +227,7 @@
         {
             "title": "Chamath Palihapitiya Praises Jensen Huang As \u2018Biblically Good,\u2019 But Warns Bringing Him Back At Nvidia Could Put \u2018Everybody\u2019 At Risk - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.8788983225822449,
+            "score": 0.8788977861404419,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -248,7 +244,7 @@
         {
             "title": "Waymo issues double safety recall days after California bans robotaxis from freeways - Fox Business",
             "sentiment": "NEGATIVE",
-            "score": 0.9263445138931274,
+            "score": 0.9263445734977722,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -257,34 +253,39 @@
         {
             "title": "I-285 bridge over Chattahoochee reopens after temporary repairs closed span - WSB-TV",
             "sentiment": "NEGATIVE",
-            "score": 0.9422157406806946,
+            "score": 0.9422158598899841,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "China\u2019s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com",
+            "title": "Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than a Decade and Cheaper Than Microsoft and Broadcom - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.9462553858757019,
+            "score": 0.9378681778907776,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "MSFT",
+                "NVDA"
+            ],
+            "primary_ticker": "MSFT",
+            "ticker_impacts": [
+                {
+                    "ticker": "MSFT",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Companies Turn Tariff Refunds Into Executive Bonuses - Newser",
             "sentiment": "NEGATIVE",
-            "score": 0.7842822670936584,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide - The Block",
-            "sentiment": "NEGATIVE",
-            "score": 0.849724531173706,
+            "score": 0.7842831015586853,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -293,65 +294,25 @@
         {
             "title": "Bitcoin rises 9% from two-year low, reclaiming $60,000 as forced selling eases - CoinDesk",
             "sentiment": "NEGATIVE",
-            "score": 0.9620489478111267,
+            "score": 0.9620490670204163,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart - Financial Times",
-            "sentiment": "POSITIVE",
-            "score": 0.9153068661689758,
-            "signal": "BULLISH",
-            "tickers": [
-                "AMZN",
-                "NVDA"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "medium"
-                }
-            ]
         },
         {
             "title": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk - NBC News",
             "sentiment": "NEGATIVE",
-            "score": 0.9466918110847473,
+            "score": 0.9466919302940369,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Bessent says no further restrictions are needed for Nvidia chip exports to China - PBS",
-            "sentiment": "NEGATIVE",
-            "score": 0.8230354189872742,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Fluffy Cotton Balls - emptywheel",
             "sentiment": "NEGATIVE",
-            "score": 0.7952019572257996,
+            "score": 0.7952018976211548,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -364,15 +325,6 @@
                     "relevance": "medium"
                 }
             ]
-        },
-        {
-            "title": "Economists Are Hyperventilating Over the AI Bubble - Futurism",
-            "sentiment": "NEGATIVE",
-            "score": 0.9466308355331421,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         }
     ]
 }
