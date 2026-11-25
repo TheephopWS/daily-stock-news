@@ -1,9 +1,44 @@
 {
-    "last_updated": "2026-11-25 06:37:40 UTC",
-    "total_articles": 26,
-    "bullish_articles": 6,
-    "bearish_articles": 20,
+    "last_updated": "2026-11-25 09:29:26 UTC",
+    "total_articles": 24,
+    "bullish_articles": 9,
+    "bearish_articles": 15,
     "articles": [
+        {
+            "title": "Sanofi strikes $41bn deal as patent cliff looms - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9318640232086182,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia stock falls after epic rally on Jensen Huang's return as CEO - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9663365483283997,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "US Blacklists Alibaba-Owned Company in Setback to AI Ambitions - Bloomberg.com",
+            "sentiment": "NEGATIVE",
+            "score": 0.950920820236206,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
         {
             "title": "Stock futures inch higher as traders see whether Nvidia can extend rally from Jensen Huang\u2019s return: Live updates - CNBC",
             "sentiment": "POSITIVE",
@@ -28,27 +63,13 @@
             ]
         },
         {
-            "title": "Dow Jones Futures: Tech Stocks, Nvidia Snap Back On Jensen Huang's Return; Elon Musk-Led SpaceX, Tesla Rally - Investor's Business Daily",
+            "title": "Scoop: Thanksgiving air travel expected to hit 16-year high - Axios",
             "sentiment": "POSITIVE",
-            "score": 0.7518768906593323,
+            "score": 0.8815648555755615,
             "signal": "BULLISH",
-            "tickers": [
-                "TSLA",
-                "NVDA"
-            ],
-            "primary_ticker": "TSLA",
-            "ticker_impacts": [
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "After judge signals \u2018steep hill\u2019 in regulatory case, Kalshi pauses operations in Utah - The Salt Lake Tribune",
@@ -60,6 +81,23 @@
             "ticker_impacts": []
         },
         {
+            "title": "Jensen Huang reinstated as Nvidia CEO, board says - BBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9449470639228821,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
             "title": "World\u2019s leading semiconductor manufacturer eyes Brazos County for 3,200+ acre facility - KBTX News 3",
             "sentiment": "POSITIVE",
             "score": 0.8154318332672119,
@@ -69,70 +107,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today, Nov. 23: Markets Rebound From Correction on AI Relief Rally - Yahoo Finance",
+            "title": "Micron Stock Jumps 19%. Why the Rally Has Legs. - Barron's",
             "sentiment": "POSITIVE",
-            "score": 0.941294252872467,
+            "score": 0.8801849484443665,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Huang's reinstatement at Nvidia sparks fury in Congress as lawmakers move forward with hearings - PBS",
+            "title": "NYC Citi Bike member rides to be capped at $3.65 after Mamdani inks new deal with Lyft - Gothamist",
             "sentiment": "NEGATIVE",
-            "score": 0.8537927865982056,
+            "score": 0.8183011412620544,
             "signal": "BEARISH",
             "tickers": [
-                "NVDA"
+                "LYFT",
+                "AMD"
             ],
-            "primary_ticker": "NVDA",
+            "primary_ticker": "LYFT",
             "ticker_impacts": [
                 {
-                    "ticker": "NVDA",
+                    "ticker": "LYFT",
                     "impact": "negative",
                     "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Anthropic Shares Sink, Defying AI Trade Rally on Huang\u2019s Return - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9741576313972473,
-            "signal": "BEARISH",
-            "tickers": [
-                "INTC",
-                "NVDA"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
                 },
                 {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Nvidia Surge Crushes Short-Leveraged Funds With Losses Up to 92% - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.8184553980827332,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
+                    "ticker": "AMD",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
+        },
+        {
+            "title": "This Biotech, Up 30%, Is Taking On Regeneron's Goliath - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.931818962097168,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
             "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation - CNBC",
@@ -144,22 +157,21 @@
             "ticker_impacts": []
         },
         {
-            "title": "Small US trucking firms scramble to survive mounting diesel costs - AP News",
+            "title": "Why Anthropic\u2019s Stock Is Sitting Out Nvidia\u2019s Big Rally - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.9712980389595032,
+            "score": 0.9559891819953918,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Anthropic stock falls as Monday's tech rally takes off - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9592511057853699,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "UnitedHealth and Humana Stocks Keep Sliding. Why They\u2019re Not Taking Part in Today\u2019s Rally. - Barron's",
@@ -171,54 +183,45 @@
             "ticker_impacts": []
         },
         {
-            "title": "Thanksgiving travel could be messy with storms coming after a week filled with airline glitches - AP News",
+            "title": "Jensen Huang's return to Nvidia is bad news for Anthropic. Here's why. - Business Insider",
             "sentiment": "NEGATIVE",
-            "score": 0.9485201835632324,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Ground stop briefly issued at O'Hare Airport \u2018due to staffing' at start of busy holiday week - NBC 5 Chicago",
-            "sentiment": "NEGATIVE",
-            "score": 0.9580047726631165,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US intel chief warns of 'bumps in the road' amid tech upgrades of aging systems - Fox Business",
-            "sentiment": "NEGATIVE",
-            "score": 0.9616603255271912,
+            "score": 0.9397184252738953,
             "signal": "BEARISH",
             "tickers": [
-                "INTC"
+                "NVDA"
             ],
-            "primary_ticker": "INTC",
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
-                    "ticker": "INTC",
+                    "ticker": "NVDA",
                     "impact": "negative",
                     "relevance": "high"
                 }
             ]
         },
         {
-            "title": "Jensen Huang went to war with Washington \u2014 and won a path to China - The Washington Post",
+            "title": "Ground stop issued at O'Hare Airport due to staffing issues - FOX 32 Chicago",
             "sentiment": "NEGATIVE",
-            "score": 0.9204643964767456,
+            "score": 0.8942367434501648,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Trump Administration Approved Sale of 580,000 Nvidia AI Chips to Chinese Military-Linked Companies for a Cut of Revenue - Yahoo",
+            "sentiment": "POSITIVE",
+            "score": 0.8863674998283386,
+            "signal": "BULLISH",
             "tickers": [
                 "NVDA"
             ],
-            "primary_ticker": null,
+            "primary_ticker": "NVDA",
             "ticker_impacts": [
                 {
                     "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
+                    "impact": "positive",
+                    "relevance": "high"
                 }
             ]
         },
@@ -241,52 +244,36 @@
             "ticker_impacts": []
         },
         {
-            "title": "S&P 500 and Nasdaq surge after Nvidia reinstates Jensen Huang as CEO - AOL.com",
+            "title": "CrowdStrike Reports Third Quarter Fiscal Year 2027 Financial Results - CrowdStrike",
             "sentiment": "POSITIVE",
-            "score": 0.905266523361206,
+            "score": 0.9485686421394348,
             "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
         },
         {
-            "title": "Nvidia stock logs 2008-scale losing streak even as interim CEO delivers beat - TheStreet",
+            "title": "\u2018It\u2019s crippled us\u2019: New SE Portland cafe ransacked after break-in - KPTV",
             "sentiment": "NEGATIVE",
-            "score": 0.9450648427009583,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving - PBS",
-            "sentiment": "NEGATIVE",
-            "score": 0.9509517550468445,
+            "score": 0.9528084993362427,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Trump\u2019s AI Chip Crackdown Inflicts Collateral Damage Across Asia - Bloomberg.com",
+            "title": "The Stock Market Just Had Its Worst Week in 19 Months. A Sell-Off This Bad Usually Gets Worse, and Here's What Happened to $500,000 After the 8 Weeks That Were Worse - 24/7 Wall St.",
             "sentiment": "NEGATIVE",
-            "score": 0.9560917019844055,
+            "score": 0.9599308371543884,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving - AP News",
+            "sentiment": "NEGATIVE",
+            "score": 0.960161030292511,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -296,33 +283,6 @@
             "title": "Officials warn king tides may disrupt Thanksgiving travel across western WA - KING5.com",
             "sentiment": "NEGATIVE",
             "score": 0.9417939782142639,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9684414863586426,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "US ports face onslaught of cyber attacks - The Hill",
-            "sentiment": "NEGATIVE",
-            "score": 0.9276044368743896,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Chicago now has the worst traffic in the U.S. \u2014 here\u2019s why - NPR",
-            "sentiment": "NEGATIVE",
-            "score": 0.964718222618103,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
