@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-26 06:37:17 UTC",
+    "last_updated": "2026-11-26 09:29:05 UTC",
     "total_articles": 27,
     "bullish_articles": 11,
     "bearish_articles": 16,
@@ -7,8 +7,34 @@
         {
             "title": "Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9641693830490112,
+            "score": 0.964169442653656,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Jensen Huang says he\u2019s thankful for second chance at Nvidia employee meeting - NBC News",
+            "sentiment": "POSITIVE",
+            "score": 0.8382800221443176,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Dell Says AI Demand Remains \u2018Firm,\u2019 Every Order \u2018Fully Vetted\u2019 \u2013 But DELL Stock Barely Moves After Beat-And-Raise Quarter - Yahoo Finance",
+            "sentiment": "POSITIVE",
+            "score": 0.8197585344314575,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -16,36 +42,13 @@
         {
             "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9561027884483337,
+            "score": 0.956102728843689,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
             ],
             "primary_ticker": null,
             "ticker_impacts": [
-                {
-                    "ticker": "INTC",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
-        },
-        {
-            "title": "Trump reportedly says pardoning Jensen Huang is \u2018an option\u2019 - TechCrunch",
-            "sentiment": "NEGATIVE",
-            "score": 0.7133092880249023,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA",
-                "INTC"
-            ],
-            "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                },
                 {
                     "ticker": "INTC",
                     "impact": "negative",
@@ -56,7 +59,7 @@
         {
             "title": "Utah asks to drop charges against Kalshi and its founders after Kalshi halts trading there - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.8918087482452393,
+            "score": 0.8918085694313049,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -65,7 +68,7 @@
         {
             "title": "Citi Eyes Venezuela Return as Trump Looks to Reopen Its Economy - Bloomberg.com",
             "sentiment": "POSITIVE",
-            "score": 0.9064333438873291,
+            "score": 0.9064334034919739,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -74,11 +77,28 @@
         {
             "title": "Equipment outage delays several flight at O\u2019Hare - WGN-TV",
             "sentiment": "NEGATIVE",
-            "score": 0.8412299752235413,
+            "score": 0.9619041085243225,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang\u2019s Return - Bloomberg.com",
+            "sentiment": "POSITIVE",
+            "score": 0.911315381526947,
+            "signal": "BULLISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "positive",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Thanksgiving dinner prices hit an all-time high \u2013 and one staple is driving the surge - Fox Business",
@@ -90,9 +110,26 @@
             "ticker_impacts": []
         },
         {
+            "title": "Faisal Islam: Fears over the AI boom haven't gone away - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.8794024586677551,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "BYD in talks to buy Ineos\u2019 French factory as Grenadier moves to US - Electrek",
             "sentiment": "POSITIVE",
-            "score": 0.7441318035125732,
+            "score": 0.7441321015357971,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -108,9 +145,18 @@
             "ticker_impacts": []
         },
         {
+            "title": "Wendy\u2019s conspired with software company to hike menu prices nationwide: lawsuit - New York Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9296959042549133,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Waymo says recall prompted by 11 new incidents of robotaxis entering closed freeway lanes - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9145066738128662,
+            "score": 0.9145063161849976,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -119,7 +165,16 @@
         {
             "title": "Gas Prices Plunge Ahead of Thanksgiving \u2014 Just as President Trump Predicted - The White House (.gov)",
             "sentiment": "NEGATIVE",
-            "score": 0.8853387832641602,
+            "score": 0.8853394389152527,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Mathematicians are furious over an Anthropic researcher's joke about a 250,000-page proof - Business Insider",
+            "sentiment": "NEGATIVE",
+            "score": 0.9119427800178528,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -144,40 +199,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Why Amazon\u2019s Rival to Starlink Is Struggling to Catch Up With SpaceX - WSJ",
-            "sentiment": "NEGATIVE",
-            "score": 0.9553593397140503,
-            "signal": "BEARISH",
-            "tickers": [
-                "AMZN"
-            ],
-            "primary_ticker": "AMZN",
-            "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Ex-NVIDIA partner Megaspeed hit with U.S. Commerce Department export ban - upi",
-            "sentiment": "NEGATIVE",
-            "score": 0.9500105381011963,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "FAA investigating after Amazon drone crashes into garage after delivering shampoo - ABC7 New York",
             "sentiment": "NEGATIVE",
             "score": 0.934783399105072,
@@ -195,95 +216,9 @@
             ]
         },
         {
-            "title": "SHEIN to Pay $100 Million Over Allegations of Deceptive and Unfair Practices - Federal Trade Commission (.gov)",
+            "title": "Does the Nvidia-led rip mark the market bottom? Maybe not - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.727445125579834,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Medicare Announces Price Cuts for 13 Costly Drugs\u2014Full List - Newsweek",
-            "sentiment": "NEGATIVE",
-            "score": 0.8164426684379578,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Dow Jones Futures: Tech Stocks, Nvidia Snap Back On Jensen Huang's Return; Elon Musk-Led SpaceX, Tesla Rally - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.7518768906593323,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA",
-                "TSLA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                },
-                {
-                    "ticker": "TSLA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Scoop: Thanksgiving air travel expected to hit 16-year high - Axios",
-            "sentiment": "POSITIVE",
-            "score": 0.8815648555755615,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "World\u2019s leading semiconductor manufacturer eyes Brazos County for 3,200+ acre facility - KBTX News 3",
-            "sentiment": "POSITIVE",
-            "score": 0.8154318332672119,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Biotech Wins Where Sarepta Lost; Shares Halted - Investor's Business Daily",
-            "sentiment": "POSITIVE",
-            "score": 0.9222992658615112,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Peco customers will see electric supply rate increase Dec. 1 because of surge on power grid by data centers - Inquirer.com",
-            "sentiment": "POSITIVE",
-            "score": 0.9324598908424377,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9255765676498413,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Nvidia board shows \"lack of backbone\" in re-hiring Jensen Huang, governance experts say - Axios",
-            "sentiment": "NEGATIVE",
-            "score": 0.9574741125106812,
+            "score": 0.9101174473762512,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -298,9 +233,63 @@
             ]
         },
         {
+            "title": "SHEIN to Pay $100 Million Over Allegations of Deceptive and Unfair Practices - Federal Trade Commission (.gov)",
+            "sentiment": "NEGATIVE",
+            "score": 0.7274446487426758,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Medicare Announces Price Cuts for 13 Costly Drugs\u2014Full List - Newsweek",
+            "sentiment": "NEGATIVE",
+            "score": 0.8164429068565369,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "World\u2019s leading semiconductor manufacturer eyes Brazos County for 3,200+ acre facility - KBTX News 3",
+            "sentiment": "POSITIVE",
+            "score": 0.8154319524765015,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Biotech Wins Where Sarepta Lost; Shares Halted - Investor's Business Daily",
+            "sentiment": "POSITIVE",
+            "score": 0.9222995042800903,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Peco customers will see electric supply rate increase Dec. 1 because of surge on power grid by data centers - Inquirer.com",
+            "sentiment": "POSITIVE",
+            "score": 0.9324600100517273,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation - CNBC",
+            "sentiment": "POSITIVE",
+            "score": 0.9255766868591309,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "U.S. Intelligence Chief Warns Americans to Brace for More Tech Outages - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.940771758556366,
+            "score": 0.9407718777656555,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -310,23 +299,6 @@
                 {
                     "ticker": "INTC",
                     "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Trump Administration Approved Sale of 580,000 Nvidia AI Chips to Chinese Military-Linked Companies for a Cut of Revenue - Yahoo",
-            "sentiment": "POSITIVE",
-            "score": 0.8863674998283386,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
                     "relevance": "high"
                 }
             ]
