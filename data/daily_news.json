@@ -1,31 +1,96 @@
 {
-    "last_updated": "2026-11-26 15:27:01 UTC",
-    "total_articles": 32,
-    "bullish_articles": 12,
-    "bearish_articles": 20,
+    "last_updated": "2026-11-26 18:30:03 UTC",
+    "total_articles": 28,
+    "bullish_articles": 7,
+    "bearish_articles": 21,
     "articles": [
         {
-            "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens \u2014 Live Updates - WSJ",
+            "title": "Dow tumbles 700 points, Nasdaq loses 4% as Nvidia leads resumption of AI sell-off: Live updates - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9353559613227844,
+            "score": 0.953670859336853,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
-            "title": "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike - CNBC",
+            "title": "Market sell-off picks up steam, as Jensen Huang\u2019s Nvidia return fails to calm AI fears - NBC News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9665336012840271,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia, AMD, and Micron stocks sink as investors flee AI trade - Yahoo Finance",
+            "sentiment": "NEGATIVE",
+            "score": 0.9671118259429932,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA",
+                "AMD"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                },
+                {
+                    "ticker": "AMD",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "US economy grew at a solid pace in third quarter, revised data shows - Fox Business",
             "sentiment": "POSITIVE",
-            "score": 0.8008659482002258,
+            "score": 0.9019779562950134,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "World stocks fall as new US tariffs loom, AI rebound fizzles - Yahoo Finance",
+            "title": "The S&P 500 is headed to 8,200 \u2014 and downturns like this one are actually part of the reason why, says JPMorgan - MarketWatch",
             "sentiment": "NEGATIVE",
-            "score": 0.9724186062812805,
+            "score": 0.910416841506958,
+            "signal": "BEARISH",
+            "tickers": [
+                "JPM"
+            ],
+            "primary_ticker": "JPM",
+            "ticker_impacts": [
+                {
+                    "ticker": "JPM",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9506509900093079,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -41,45 +106,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "EU\u2019s quantum sovereignty push shuts out China but welcomes US firms - South China Morning Post",
-            "sentiment": "POSITIVE",
-            "score": 0.8905475735664368,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Exclusive: Meta and Amazon discuss ending Muse shopping bot blockade, as ads, search emerge as key issues - Fortune",
             "sentiment": "NEGATIVE",
             "score": 0.8870197534561157,
             "signal": "BEARISH",
             "tickers": [
-                "AMZN",
-                "META"
+                "META",
+                "AMZN"
             ],
-            "primary_ticker": "AMZN",
+            "primary_ticker": "META",
             "ticker_impacts": [
-                {
-                    "ticker": "AMZN",
-                    "impact": "negative",
-                    "relevance": "high"
-                },
                 {
                     "ticker": "META",
                     "impact": "negative",
                     "relevance": "high"
+                },
+                {
+                    "ticker": "AMZN",
+                    "impact": "negative",
+                    "relevance": "high"
                 }
             ]
-        },
-        {
-            "title": "Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets - Bloomberg.com",
-            "sentiment": "NEGATIVE",
-            "score": 0.9280885457992554,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
         },
         {
             "title": "\u2018Anflopic\u2019 bodes badly for OpenAI\u2019s IPO prospects - Financial Times",
@@ -100,38 +147,13 @@
             "ticker_impacts": []
         },
         {
-            "title": "China\u2019s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.7499656677246094,
-            "signal": "BULLISH",
-            "tickers": [
-                "BA"
-            ],
-            "primary_ticker": "BA",
-            "ticker_impacts": [
-                {
-                    "ticker": "BA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Trump says pardon is always an option for Huang, invoking the Fifth isn\u2019t necessary - NBC News",
+            "title": "Jensen Huang Boost Fades Fast as Taiwan Stocks Tumble 8% - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.7241840958595276,
+            "score": 0.8432568907737732,
             "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "Tech rout deepens globally; Softbank falls 15%, Nvidia down 4.5% premarket - CNBC",
@@ -175,23 +197,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang\u2019s Return - Bloomberg.com",
-            "sentiment": "POSITIVE",
-            "score": 0.911315381526947,
-            "signal": "BULLISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "positive",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "Utah moves to drop criminal charges after Kalshi blocks Utah users - KUER",
             "sentiment": "NEGATIVE",
             "score": 0.8546204566955566,
@@ -210,45 +215,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "Bruised S&P 500 seen gaining more than 12% by end-2027 - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.8443397879600525,
-            "signal": "BULLISH",
+            "title": "Montana company buys Minnesota lettuce grower that had warned of closure, layoffs - Bring Me The News",
+            "sentiment": "NEGATIVE",
+            "score": 0.9258807301521301,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Faisal Islam: Fears over the AI boom haven't gone away - BBC",
+            "title": "SpaceX declines BEAD awards, putting state broadband offices in a pickle - Fierce Network",
             "sentiment": "NEGATIVE",
-            "score": 0.8794024586677551,
+            "score": 0.9679530262947083,
             "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
+            "tickers": [],
             "primary_ticker": null,
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "medium"
-                }
-            ]
+            "ticker_impacts": []
         },
         {
             "title": "BYD in talks to buy Ineos\u2019 French factory as Grenadier moves to US - Electrek",
             "sentiment": "POSITIVE",
             "score": 0.7441321015357971,
             "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Kalshi Users Under 21 Lost $8.9 Million in NYC, Probe Finds - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.9536296725273132,
-            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -290,15 +278,6 @@
             "ticker_impacts": []
         },
         {
-            "title": "Amtrak Scraps Bridgeport Rail Yard Plan, Throwing Sox Owner\u2019s Plan For New Stadium Into Doubt - Block Club Chicago",
-            "sentiment": "NEGATIVE",
-            "score": 0.9605978727340698,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Ex-NVIDIA partner Megaspeed hit with U.S. Commerce Department export ban - upi",
             "sentiment": "NEGATIVE",
             "score": 0.9500104188919067,
@@ -333,23 +312,6 @@
             ]
         },
         {
-            "title": "Does the Nvidia-led rip mark the market bottom? Maybe not - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9101174473762512,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
             "title": "SHEIN to Pay $100 Million Over Allegations of Deceptive and Unfair Practices - Federal Trade Commission (.gov)",
             "sentiment": "NEGATIVE",
             "score": 0.7274446487426758,
@@ -359,18 +321,18 @@
             "ticker_impacts": []
         },
         {
-            "title": "World\u2019s leading semiconductor manufacturer eyes Brazos County for 3,200+ acre facility - KBTX News 3",
-            "sentiment": "POSITIVE",
-            "score": 0.8154319524765015,
-            "signal": "BULLISH",
+            "title": "Justin Ishbia\u2019s The Railyards project suffers major blow as FRA pulls funding - Sox Machine",
+            "sentiment": "NEGATIVE",
+            "score": 0.9529175758361816,
+            "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Peco customers will see electric supply rate increase Dec. 1 because of surge on power grid by data centers - Inquirer.com",
+            "title": "World\u2019s leading semiconductor manufacturer eyes Brazos County for 3,200+ acre facility - KBTX News 3",
             "sentiment": "POSITIVE",
-            "score": 0.9324600100517273,
+            "score": 0.8154319524765015,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
