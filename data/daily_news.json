@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-11-25 21:26:54 UTC",
-    "total_articles": 30,
-    "bullish_articles": 10,
-    "bearish_articles": 20,
+    "last_updated": "2026-11-26 00:44:29 UTC",
+    "total_articles": 31,
+    "bullish_articles": 13,
+    "bearish_articles": 18,
     "articles": [
         {
             "title": "Stock Market Today: Tech Stocks Slide Back After Epic Rally - WSJ",
@@ -14,9 +14,27 @@
             "ticker_impacts": []
         },
         {
-            "title": "Stock Market Today: Dow up 350 points, S&P 500 and Nasdaq decline a day after Nvidia's 31% surge; Dell results on tap: live updates - MarketWatch",
+            "title": "Utah asks to drop charges against Kalshi and its founders after Kalshi halts trading there - AP News",
             "sentiment": "NEGATIVE",
-            "score": 0.7585573196411133,
+            "score": 0.8918087482452393,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Thanksgiving dinner prices hit an all-time high \u2013 and one staple is driving the surge - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.9361497759819031,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "US attorney general dodges questions about Nvidia investigation - BBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9742435216903687,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -33,26 +51,26 @@
         {
             "title": "Retail turnarounds are taking hold just in time for the holiday season - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9048774838447571,
+            "score": 0.9048774242401123,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Micron Stock Is Counting on a Buyback Bounce. Why It\u2019s No Slam Dunk. - Barron's",
+            "title": "Why Sandisk Stock Plunged Today - Yahoo Finance",
             "sentiment": "NEGATIVE",
-            "score": 0.962034285068512,
+            "score": 0.9603273272514343,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Kalshi makes \u201cdifficult decision\u201d to halt Utah trading after losing court fights - Ars Technica",
-            "sentiment": "NEGATIVE",
-            "score": 0.8932746052742004,
-            "signal": "BEARISH",
+            "title": "BYD in talks to buy Ineos\u2019 French factory as Grenadier moves to US - Electrek",
+            "sentiment": "POSITIVE",
+            "score": 0.7441318035125732,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -60,37 +78,20 @@
         {
             "title": "Waymo says recall prompted by 11 new incidents of robotaxis entering closed freeway lanes - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.9145064949989319,
+            "score": 0.9145066738128662,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "US consumer confidence jumps to highest level in nearly two years - Reuters",
+            "title": "Home prices rose 2.6% in September even as mortgage rates moved higher - Yahoo Finance",
             "sentiment": "POSITIVE",
-            "score": 0.704601526260376,
+            "score": 0.9491239190101624,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
-        },
-        {
-            "title": "U.S. futures, European markets fade following Nvidia rally - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9543993473052979,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
         },
         {
             "title": "FAA investigating after Amazon drone crashes into garage after delivering shampoo - ABC7 New York",
@@ -110,35 +111,44 @@
             ]
         },
         {
-            "title": "Does the Nvidia-led rip mark the market bottom? Maybe not - CNBC",
+            "title": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.9101173281669617,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "US Blacklists Alibaba-Owned Company in Setback to AI Ambitions - Bloomberg",
-            "sentiment": "NEGATIVE",
-            "score": 0.9485127925872803,
+            "score": 0.9446550011634827,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
+            "title": "Sanofi strikes $41bn deal as patent cliff looms - Financial Times",
+            "sentiment": "NEGATIVE",
+            "score": 0.9318640232086182,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Micron: Pounding The Buy Table (Double Upgrade) - Seeking Alpha",
+            "sentiment": "POSITIVE",
+            "score": 0.9541680812835693,
+            "signal": "BULLISH",
+            "tickers": [
+                "MU"
+            ],
+            "primary_ticker": null,
+            "ticker_impacts": [
+                {
+                    "ticker": "MU",
+                    "impact": "positive",
+                    "relevance": "medium"
+                }
+            ]
+        },
+        {
             "title": "Dow Jones Futures: Tech Stocks, Nvidia Snap Back On Jensen Huang's Return; Elon Musk-Led SpaceX, Tesla Rally - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.7518784999847412,
+            "score": 0.7518768906593323,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA",
@@ -159,6 +169,15 @@
             ]
         },
         {
+            "title": "Black adults and Southerners more likely to struggle to afford food, study says - The Washington Post",
+            "sentiment": "NEGATIVE",
+            "score": 0.9148257374763489,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "Scoop: Thanksgiving air travel expected to hit 16-year high - Axios",
             "sentiment": "POSITIVE",
             "score": 0.8815648555755615,
@@ -168,28 +187,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "Micron: Sell As This May Be The Long-Awaited Cyclical Downturn (Rating Downgrade) - Seeking Alpha",
-            "sentiment": "NEGATIVE",
-            "score": 0.955388605594635,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Drivers note Watertown-St. Lawrence Co. gas price difference - WWNY",
             "sentiment": "NEGATIVE",
-            "score": 0.9154486060142517,
+            "score": 0.9154487252235413,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "US median household incomes rose in 2025. Here\u2019s why money still feels tight - WLKY",
+            "title": "US median household incomes rose in 2025. Here\u2019s why money still feels tight - WPTZ",
             "sentiment": "NEGATIVE",
-            "score": 0.9263569712638855,
+            "score": 0.9238878488540649,
             "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "World\u2019s leading semiconductor manufacturer eyes Brazos County for 3,200+ acre facility - KBTX News 3",
+            "sentiment": "POSITIVE",
+            "score": 0.8154318332672119,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -204,18 +223,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Best Buy Q3 earnings preview: What Wall Street expects from new CEO Jason Bonfig amid crucial holiday season - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.9512441158294678,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Biotech Wins Where Sarepta Lost; Shares Halted - Investor's Business Daily",
             "sentiment": "POSITIVE",
-            "score": 0.9222993850708008,
+            "score": 0.9222992658615112,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -231,18 +241,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "States sue Musk companies over flood of sexualized images made with AI chatbot Grok - AP News",
-            "sentiment": "NEGATIVE",
-            "score": 0.9009077548980713,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
             "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation - CNBC",
             "sentiment": "POSITIVE",
-            "score": 0.9255768060684204,
+            "score": 0.9255765676498413,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
@@ -251,7 +252,7 @@
         {
             "title": "UnitedHealth and Humana Stocks Keep Sliding. Why They\u2019re Not Taking Part in Today\u2019s Rally. - Barron's",
             "sentiment": "NEGATIVE",
-            "score": 0.8355705738067627,
+            "score": 0.8355706334114075,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -260,7 +261,7 @@
         {
             "title": "Mayor Zohran Mamdani Forced Lyft to the Negotiating Table\u2014And Citi Bike Riders Won - Hell Gate",
             "sentiment": "POSITIVE",
-            "score": 0.7425352931022644,
+            "score": 0.7425349354743958,
             "signal": "BULLISH",
             "tickers": [
                 "LYFT",
@@ -283,7 +284,7 @@
         {
             "title": "Landlord\u2019s AI Makes Rent Deal With Woman, Actual Landlord Breaks Deal and Evicts Her - Futurism",
             "sentiment": "NEGATIVE",
-            "score": 0.8853634595870972,
+            "score": 0.8853632807731628,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -299,9 +300,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "US intel chief warns of 'bumps in the road' amid tech upgrades of aging systems - Fox Business",
+            "title": "U.S. Intelligence Chief Warns Americans to Brace for More Tech Outages - Gizmodo",
             "sentiment": "NEGATIVE",
-            "score": 0.9616603255271912,
+            "score": 0.940771758556366,
             "signal": "BEARISH",
             "tickers": [
                 "INTC"
@@ -318,7 +319,7 @@
         {
             "title": "Trump Administration Approved Sale of 580,000 Nvidia AI Chips to Chinese Military-Linked Companies for a Cut of Revenue - Yahoo",
             "sentiment": "POSITIVE",
-            "score": 0.8863676190376282,
+            "score": 0.8863674998283386,
             "signal": "BULLISH",
             "tickers": [
                 "NVDA"
@@ -333,18 +334,18 @@
             ]
         },
         {
-            "title": "Capricor CEO says FDA never gave DMD cell therapy a \u2018fair shake\u2019 - BioSpace",
+            "title": "Honda recalls over 810,000 vehicles. See the affected models - USA Today",
             "sentiment": "NEGATIVE",
-            "score": 0.8625788688659668,
+            "score": 0.96983802318573,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Honda recalls over 810,000 vehicles. See the affected models - USA Today",
+            "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims - CNBC",
             "sentiment": "NEGATIVE",
-            "score": 0.96983802318573,
+            "score": 0.8559696674346924,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
