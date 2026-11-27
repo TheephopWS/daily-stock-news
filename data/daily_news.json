@@ -1,17 +1,86 @@
 {
-    "last_updated": "2026-11-27 06:37:30 UTC",
-    "total_articles": 24,
+    "last_updated": "2026-11-27 09:28:38 UTC",
+    "total_articles": 22,
     "bullish_articles": 9,
-    "bearish_articles": 15,
+    "bearish_articles": 13,
     "articles": [
         {
-            "title": "FAA closes all runways but one at Miami International Airport after FedEx cargo plane goes off runway - CBS News",
+            "title": "US approves SpaceX plan to send a million data satellites to space - BBC",
+            "sentiment": "POSITIVE",
+            "score": 0.8400935530662537,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Musk makes $18 billion SpaceX stock pledge for every kid in America - Axios",
+            "sentiment": "POSITIVE",
+            "score": 0.7056483030319214,
+            "signal": "BULLISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
+            "title": "Nvidia halts chip shipments to south-east Asia - Financial Times",
             "sentiment": "NEGATIVE",
-            "score": 0.9317641258239746,
+            "score": 0.9139993190765381,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Former Disney Boss Bob Iger Got Employee Pregnant During Extramarital Affair, New Book Claims - The Hollywood Reporter",
+            "sentiment": "NEGATIVE",
+            "score": 0.8770870566368103,
+            "signal": "BEARISH",
+            "tickers": [
+                "DIS"
+            ],
+            "primary_ticker": "DIS",
+            "ticker_impacts": [
+                {
+                    "ticker": "DIS",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
+        },
+        {
+            "title": "Norse Atlantic ceases flights amid cash crunch - The Points Guy",
+            "sentiment": "NEGATIVE",
+            "score": 0.9573853015899658,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
+        },
+        {
+            "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk - CNBC",
+            "sentiment": "NEGATIVE",
+            "score": 0.9531461596488953,
+            "signal": "BEARISH",
+            "tickers": [
+                "NVDA"
+            ],
+            "primary_ticker": "NVDA",
+            "ticker_impacts": [
+                {
+                    "ticker": "NVDA",
+                    "impact": "negative",
+                    "relevance": "high"
+                }
+            ]
         },
         {
             "title": "Asian Stocks Rise as Dip Buyers Stabilize AI Trade: Markets Wrap - Bloomberg",
@@ -31,37 +100,10 @@
             ]
         },
         {
-            "title": "Billions in Data Center Deals Grind to Halt After AI Chip Curbs - Bloomberg",
+            "title": "FedEx cargo plane runs off Miami International Airport runway, causing ground stop during Thanksgiving travel - CBS News",
             "sentiment": "NEGATIVE",
-            "score": 0.9634426236152649,
+            "score": 0.951070249080658,
             "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9462350010871887,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "SPCX Stock Rebounds From 9% Drop: SpaceX Pledges Shares To Trump Accounts And Wins FCC Starmind Nod - Yahoo Finance",
-            "sentiment": "POSITIVE",
-            "score": 0.745994508266449,
-            "signal": "BULLISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets - CNBC",
-            "sentiment": "POSITIVE",
-            "score": 0.9179840683937073,
-            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -76,18 +118,9 @@
             "ticker_impacts": []
         },
         {
-            "title": "Marco Rubio\u2019s Fury Behind Closed Doors Exposed After Trump Defied Him Over Jensen Huang - The Daily Beast",
+            "title": "Rival AI leaders push back against Anthropic vision of surrendering human agency to AI - Axios",
             "sentiment": "NEGATIVE",
-            "score": 0.784327507019043,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Sale of Stefanik family\u2019s D.C. home deemed \u2018unusual,\u2019 city records show - The Washington Post",
-            "sentiment": "NEGATIVE",
-            "score": 0.9131224155426025,
+            "score": 0.7063290476799011,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
@@ -97,23 +130,6 @@
             "title": "Nvidia Stock Keeps Falling. It\u2019s Obvious Jensen Was Not the Only Problem. - Barron's",
             "sentiment": "NEGATIVE",
             "score": 0.9713220000267029,
-            "signal": "BEARISH",
-            "tickers": [
-                "NVDA"
-            ],
-            "primary_ticker": "NVDA",
-            "ticker_impacts": [
-                {
-                    "ticker": "NVDA",
-                    "impact": "negative",
-                    "relevance": "high"
-                }
-            ]
-        },
-        {
-            "title": "Stock Market Today: S&P 500, Nasdaq Tumble as Nvidia Paces AI Sell-Off Ahead of Holiday Break - Investopedia",
-            "sentiment": "NEGATIVE",
-            "score": 0.9662444591522217,
             "signal": "BEARISH",
             "tickers": [
                 "NVDA"
@@ -163,6 +179,15 @@
             "ticker_impacts": []
         },
         {
+            "title": "AI Safety Advocates Sour on Anthropic - The Information",
+            "sentiment": "NEGATIVE",
+            "score": 0.9553907513618469,
+            "signal": "BEARISH",
+            "tickers": [],
+            "primary_ticker": null,
+            "ticker_impacts": []
+        },
+        {
             "title": "U.S. economy grew at rapid 4.3% pace in third quarter, new estimate shows - Axios",
             "sentiment": "POSITIVE",
             "score": 0.9089679718017578,
@@ -172,46 +197,28 @@
             "ticker_impacts": []
         },
         {
-            "title": "Chinese AI Firms Confront Dire Future as U.S. Tightens Access to Chips and Tokens - The Information",
+            "title": "Patients Claim GLP-1s Caused Vision Loss. Now the Drugs Will Have a Warning Label - Bloomberg.com",
             "sentiment": "NEGATIVE",
-            "score": 0.9249661564826965,
+            "score": 0.8673079609870911,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Anthropic stock sinks further below IPO price as investors sour on the Amodei AI bet - Yahoo Finance",
-            "sentiment": "NEGATIVE",
-            "score": 0.9661726951599121,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection - CNBC",
-            "sentiment": "NEGATIVE",
-            "score": 0.9691570997238159,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "EU plans \u20ac50bn tech fund to close gap with US and China - Financial Times",
+            "title": "EU\u2019s quantum sovereignty push shuts out China but welcomes US firms - South China Morning Post",
             "sentiment": "POSITIVE",
-            "score": 0.7255363464355469,
+            "score": 0.8905475735664368,
             "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
         },
         {
-            "title": "Equipment outage delays several flights at O\u2019Hare - WGN-TV",
-            "sentiment": "NEGATIVE",
-            "score": 0.9638851881027222,
-            "signal": "BEARISH",
+            "title": "Trump Accounts hit major milestone as family contributions surpass $1 billion - Fox Business",
+            "sentiment": "POSITIVE",
+            "score": 0.9091581106185913,
+            "signal": "BULLISH",
             "tickers": [],
             "primary_ticker": null,
             "ticker_impacts": []
@@ -238,15 +245,6 @@
             "title": "Waymo says recall prompted by 11 new incidents of robotaxis entering closed freeway lanes - CNBC",
             "sentiment": "NEGATIVE",
             "score": 0.9145063161849976,
-            "signal": "BEARISH",
-            "tickers": [],
-            "primary_ticker": null,
-            "ticker_impacts": []
-        },
-        {
-            "title": "Gas Prices Plunge Ahead of Thanksgiving \u2014 Just as President Trump Predicted - The White House (.gov)",
-            "sentiment": "NEGATIVE",
-            "score": 0.8853394389152527,
             "signal": "BEARISH",
             "tickers": [],
             "primary_ticker": null,
